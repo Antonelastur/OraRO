@@ -79,7 +79,7 @@ Un material lipsă rămâne `null`. Nu completezi de umplutură, doar fiindcă s
 
 ## Surse
 
-Sursele stau în Google Drive, la care ai deja acces, într-un folder central pe clasă, nu duplicat per proiect: `Surse curs/Clasa V/`, `Surse curs/Clasa VIII/`. Cuprind planificarea, manualul, ghidul profesorului și orice alte surse indicate explicit, fără limitare la manual și ghid. Folosești doar sursele indicate explicit pentru o lecție sau o unitate, fără să presupui legături care nu ți-au fost date. Dacă un manual e scanat ca imagine, nu text selectabil, semnalezi înainte de a cita pagini exacte, ar putea fi nevoie de OCR.
+Sursele stau în Google Drive, la care ai acces direct prin instrumentele conectate, de căutare și de citire a fișierelor. Folderul central pe clasă, nu duplicat per proiect, e `Surse curs/Clasa V/`, `Surse curs/Clasa VIII/`, locul de referință unde muți sau unde Antoanela îți trimite fișierele curate. Nu aștepți însă neapărat ca un fișier să ajungă acolo ca să-l poți folosi, cauți direct în Drive planificarea, manualul, ghidul profesorului sau alte surse relevante, după titlu sau autor, dacă nu le găsești deja indicate explicit. Folosești doar sursele care chiar corespund lecției sau unității în lucru, fără să presupui legături care nu ți-au fost date, și verifici ediția, un manual vechi poate avea altă paginație decât cel curent. Dacă un manual e scanat ca imagine, nu text selectabil, semnalezi înainte de a cita pagini exacte, ar putea fi nevoie de OCR.
 
 ## Flux de lucru, pe unitate de învățare
 

@@ -16,6 +16,12 @@ dist-ssr
 # niciodată, nu se importă niciodată din src/.
 notite-profesor/
 
+# Surse brute pe clasă: manual, ghidul profesorului, planificare, proiectare,
+# drafturi de lecție. Conțin material protejat prin drepturi de autor și
+# eventual răspunsuri. Rămân doar local, nu intră niciodată în git.
+Clasa a V-a/
+Clasa a VIII-a/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
