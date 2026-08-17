@@ -23,5 +23,22 @@ export const unitatea1 = {
         altele: [],
       },
     },
+    {
+      id: 'lectia-2',
+      titlu: 'Trăsături ale textului literar',
+      obiective: [],
+      sursaManual: 'Art 5, pp. 13-14',
+      rezolvareGhid: null,
+      materiale: {
+        prezentare: { fisier: '/materiale/clasa-5/unitatea-1/lectia-2/prezentare.pdf' },
+        video: null,
+        test: null,
+        fisa: null,
+        joc: null,
+        infografic: null,
+        schema: null,
+        altele: [],
+      },
+    },
   ],
 }

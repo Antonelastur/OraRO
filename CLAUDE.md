@@ -75,6 +75,7 @@ Un material lipsă rămâne `null`. Nu completezi de umplutură, doar fiindcă s
 | Infografic, schemă | NotebookLM sau Canva, ori draft prin tine ca punct de plecare | Finalizare vizuală de către ea |
 
 5. Orice material pe care îl produci este draft. Nu intră în cod până nu primești aprobare explicită.
+6. Pe slide-urile de prezentare apar întotdeauna două lucruri, distinct marcate, etapa lecției, de exemplu deschidere, dirijarea învățării, joc, temă, și conținutul pe care elevii trebuie să îl scrie în caiete. Nu amesteci cele două fără să le separi vizual.
 
 ## Surse
 
