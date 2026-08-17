@@ -8,6 +8,23 @@ export const recapitulareInitiala = {
   titlu: 'Recapitulare inițială',
   lectii: [
     {
+      id: 'lectia-1',
+      titlu: 'Jocuri și activități de intercunoaștere',
+      obiective: [],
+      sursaManual: 'Ghidul profesorului, Editura Art Klett, III.1, ORA 1 (idee de fișă cu așteptări); formatul de joc e propunere originală',
+      rezolvareGhid: null,
+      materiale: {
+        prezentare: null,
+        video: null,
+        test: null,
+        fisa: null,
+        joc: { fisier: '/materiale/clasa-5/recapitulare-initiala/lectia-1/joc.pdf' },
+        infografic: null,
+        schema: null,
+        altele: [],
+      },
+    },
+    {
       id: 'lectia-2',
       titlu: 'Recapitulare inițială, exerciții',
       obiective: [],
