@@ -1,7 +1,11 @@
 import { useState } from 'react'
 
-// Motor reutilizabil pentru jocuri de tip quiz și pentru escape room.
-// Forma datelor, comună pentru ambele tipuri de joc:
+// Motor reutilizabil pentru jocuri de tip quiz și pentru escape room, plus
+// jocuri de clasă fără răspunsuri corecte dintr-o sursă (intercunoaștere,
+// energizante), livrate ca fișier de tipărit:
+// { titlu: string, fisier: string }
+//
+// Forma datelor pentru quiz și escape room:
 // {
 //   tip: 'quiz' | 'escape-room',
 //   titlu: string,
@@ -19,6 +23,19 @@ function Joc({ joc }) {
   const [indiciuVizibil, setIndiciuVizibil] = useState(false)
 
   if (!joc) return null
+
+  // Jocuri de clasă, fără răspunsuri corecte dintr-o sursă (intercunoaștere,
+  // jocuri de energizare), vin ca fișier de tipărit, nu ca quiz.
+  if (joc.fisier) {
+    return (
+      <section className="material material-joc">
+        <h3>Joc: {joc.titlu}</h3>
+        <a href={joc.fisier} target="_blank" rel="noreferrer">
+          Deschide jocul
+        </a>
+      </section>
+    )
+  }
 
   const pasi = joc.pasi ?? []
   const gata = pasCurent >= pasi.length
