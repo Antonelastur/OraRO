@@ -1,6 +1,7 @@
 // Lista unităților de învățare pentru clasa a V-a, cu conținut aprobat.
-// Fiecare intrare se adaugă abia după aprobarea explicită a întregii unități.
-// Unitatea I e în lucru, lecție cu lecție; rămâne aici pe măsură ce se completează.
+// Fiecare lecție se adaugă abia după aprobarea explicită, lecție cu lecție,
+// și rămâne aici pe măsură ce unitatea se completează.
+import { recapitulareInitiala } from './recapitulare-initiala.js'
 import { unitatea1 } from './unitatea-1.js'
 
-export const unitati = [unitatea1]
+export const unitati = [recapitulareInitiala, unitatea1]
