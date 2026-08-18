@@ -42,6 +42,7 @@ Forma de date pentru o lecție, fixă, indiferent de clasă:
 {
   id, titlu, obiective,
   sursaManual, rezolvareGhid,
+  planLectie: {...} | null,   // document intern, nu se publică, vezi Găzduire și acces
   materiale: {
     prezentare: {...} | null,
     video: {...} | null,
@@ -59,8 +60,12 @@ Un material lipsă rămâne `null`. Nu completezi de umplutură, doar fiindcă s
 
 ## Reguli obligatorii de conținut
 
-1. Nu inventezi niciodată conținut didactic. Orice text real vine din manual, din ghidul profesorului sau din alte surse indicate explicit de Antoanela. Fiecare item real poartă sursa lui.
-2. Acolo unde sursa nu e clară, marchezi și întrebi. Nu completezi din memorie sau din presupuneri.
+1. Conținutul se împarte în două categorii, cu reguli diferite de sursă.
+   - Conținut de bază: definiții, reguli gramaticale, informații despre autori și opere, texte literare studiate la clasă. Acesta vine mereu din manual, din ghidul profesorului sau din altă sursă indicată explicit de Antoanela, cu sursa atașată. Nu inventezi niciodată acest tip de conținut.
+   - Materiale de sprijin: enunțuri de exerciții, texte pentru teste sau fișe, context și poveste pentru jocuri sau escape room, întrebări de discuție. Acestea pot fi originale, scrise de tine sau de Antoanela, fără să fie legate strict de un pasaj din manual. Condiția, să fie corecte gramatical, potrivite vârstei și nivelului clasei și să servească exact obiectivul lecției. Nu ai nevoie de sursă exactă pentru ele, dar trec tot prin aprobare explicită, ca orice alt material, înainte să intre în cod.
+
+   Scopul general al materialelor de sprijin, să fie cât mai vizuale, gamificate, atractive și interactive, ca să placă elevilor, fără să sacrifice rigoarea, elevii tot trebuie să învețe serios materia din spatele jocului sau al fișei.
+2. Acolo unde sursa conținutului de bază nu e clară, marchezi și întrebi. Nu completezi din memorie sau din presupuneri.
 3. NotebookLM e instrument de bază în procesul de producție, folosit pentru prezentări, infografice, unele video-uri, quizuri și chestionare. Rămâne un instrument de punere în formă, nu o sursă de conținut, materialul generat pornește tot din manual, ghid sau alte surse indicate, la fel ca orice alt draft, trece prin aprobare explicită înainte de integrare. Sursa NotebookLM rămâne o notă internă, editorială, nu apare ca etichetă pe site.
 4. Producția pe tip de material:
 
@@ -69,10 +74,11 @@ Un material lipsă rămâne `null`. Nu completezi de umplutură, doar fiindcă s
 | Prezentare | NotebookLM, pornind de la manual și ghid, sau draft prin tine | Aprobare explicită înainte de integrare |
 | Quiz | NotebookLM | Aprobare explicită înainte de integrare |
 | Test, chestionar | Antoanela îl construiește în Google Forms, tu sau NotebookLM propuneți itemii de plecare | Ea decide punctajul și forma finală |
-| Fișă de lucru | Draft prin tine, strict din sursele indicate | Aprobare explicită |
-| Joc, escape room | Tu scrii logica, conținutul vine din manual, cu sursă atașată | Testare înainte de publicare |
+| Fișă de lucru | Draft prin tine, conținutul de bază din surse indicate, enunțurile pot fi originale | Aprobare explicită |
+| Joc, escape room | Tu scrii logica, conținutul de bază din manual, povestea sau contextul jocului pot fi originale | Testare înainte de publicare |
 | Video | NotebookLM sau materiale aduse de Antoanela | Vizionare obligatorie înainte de a lega linkul |
 | Infografic, schemă | NotebookLM sau Canva, ori draft prin tine ca punct de plecare | Finalizare vizuală de către ea |
+| Plan de lecție | Draft prin tine, pornind de la ghid, planificare și obiectivele lecției, obligatoriu pentru fiecare lecție | Aprobare explicită, document intern, nu se publică niciodată |
 
 5. Orice material pe care îl produci este draft. Nu intră în cod până nu primești aprobare explicită.
 6. Pe slide-urile de prezentare apar întotdeauna două lucruri, distinct marcate, etapa lecției, de exemplu deschidere, dirijarea învățării, joc, temă, și conținutul pe care elevii trebuie să îl scrie în caiete. Nu amesteci cele două fără să le separi vizual.
@@ -97,7 +103,7 @@ Nu treci la unitatea următoare fără confirmarea explicită că cea curentă e
 
 Site static, rezultat din build-ul React, găzduit gratuit pe GitHub Pages sau pe Netlify.
 
-Zona elevilor, fișe de lucru, jocuri, escape room, se publică, cu link dat lor direct. Zona Antoanelei, bareme, răspunsuri, notițe despre clase, nu se publică deloc, rămâne separată, local sau într-un folder Drive privat. Dacă la un moment dat se pune un ecran de parolă peste zona profesoarei, spui clar că e un filtru, nu securitate reală, un elev priceput la browser poate vedea codul sursă.
+Zona elevilor, fișe de lucru, jocuri, escape room, se publică, cu link dat lor direct. Zona Antoanelei, bareme, răspunsuri, notițe despre clase, planuri de lecție, nu se publică deloc, rămâne separată, local sau într-un folder Drive privat. Dacă la un moment dat se pune un ecran de parolă peste zona profesoarei, spui clar că e un filtru, nu securitate reală, un elev priceput la browser poate vedea codul sursă.
 
 ## Stil de redactare, obligatoriu pentru orice text generat aici
 
