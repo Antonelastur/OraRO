@@ -22,7 +22,7 @@ function AcasaPage() {
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/OraRO">
       <Routes>
         <Route path="/" element={<AcasaPage />} />
         <Route path="/:clasa" element={<ClasaPage />} />
