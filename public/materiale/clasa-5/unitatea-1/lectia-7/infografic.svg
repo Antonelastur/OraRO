@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="950" height="400" fill="#faf7f0"/>
+  <text x="475" y="44" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cele cinci emoții din „Întors pe dos”</text>
+  <text x="475" y="68" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 7 · Identitatea personală. Emoțiile</text>
+
+  <!-- Bucurie -->
+  <g>
+    <circle cx="125" cy="170" r="60" fill="#b8944f"/>
+    <circle cx="105" cy="158" r="7" fill="#10233f"/>
+    <circle cx="145" cy="158" r="7" fill="#10233f"/>
+    <path d="M 95 185 Q 125 210 155 185" stroke="#10233f" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <text x="125" y="262" text-anchor="middle" font-size="16" font-weight="700" fill="#10233f">Bucurie</text>
+  </g>
+
+  <!-- Tristete -->
+  <g>
+    <circle cx="305" cy="170" r="60" fill="#3d6b8c"/>
+    <circle cx="285" cy="158" r="7" fill="#ffffff"/>
+    <circle cx="325" cy="158" r="7" fill="#ffffff"/>
+    <path d="M 295 200 Q 305 188 315 200" stroke="#ffffff" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <text x="305" y="262" text-anchor="middle" font-size="16" font-weight="700" fill="#10233f">Tristețe</text>
+  </g>
+
+  <!-- Frica -->
+  <g>
+    <circle cx="485" cy="170" r="60" fill="#6f5ea8"/>
+    <circle cx="465" cy="158" r="9" fill="#ffffff"/>
+    <circle cx="505" cy="158" r="9" fill="#ffffff"/>
+    <circle cx="465" cy="158" r="4" fill="#10233f"/>
+    <circle cx="505" cy="158" r="4" fill="#10233f"/>
+    <ellipse cx="485" cy="196" rx="12" ry="9" fill="#ffffff"/>
+    <text x="485" y="262" text-anchor="middle" font-size="16" font-weight="700" fill="#10233f">Frică</text>
+  </g>
+
+  <!-- Dezgust -->
+  <g>
+    <circle cx="665" cy="170" r="60" fill="#1f8f6b"/>
+    <path d="M 645 155 L 660 162" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+    <path d="M 705 155 L 690 162" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+    <path d="M 650 202 Q 665 190 680 202" stroke="#ffffff" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <text x="665" y="262" text-anchor="middle" font-size="16" font-weight="700" fill="#10233f">Dezgust</text>
+  </g>
+
+  <!-- Furie -->
+  <g>
+    <circle cx="845" cy="170" r="60" fill="#b8492f"/>
+    <path d="M 822 148 L 840 158" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+    <path d="M 868 148 L 850 158" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+    <path d="M 825 200 Q 845 185 865 200" stroke="#ffffff" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <text x="845" y="262" text-anchor="middle" font-size="16" font-weight="700" fill="#10233f">Furie</text>
+  </g>
+
+  <rect x="155" y="300" width="640" height="70" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="1.5"/>
+  <text x="475" y="326" text-anchor="middle" font-size="13" fill="#3a3226">Emoțiile sunt trăiri de scurtă durată și de o intensitate care variază.</text>
+  <text x="475" y="346" text-anchor="middle" font-size="13" fill="#3a3226">Sunt reacții firești la situațiile și evenimentele din viața unei persoane.</text>
+  <text x="475" y="392" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual Art 5, pp. 20-22 (Repere), filmul „Întors pe dos” (Pixar, 2015)</text>
+</svg>

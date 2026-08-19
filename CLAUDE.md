@@ -15,7 +15,9 @@ Curs online personal și privat de limba și literatura română, pentru gimnazi
 
 ## Arhitectură tehnică
 
-Vite și React. Fără librărie de gestiune a stării, complexitatea proiectului nu o justifică. Conținutul stă separat de interfață, în fișiere de date, nu bătut direct în componente.
+Vite și React, site static, fără backend, găzduit gratuit. Fără librărie de gestiune a stării, complexitatea proiectului nu o justifică. Conținutul stă separat de interfață, în fișiere de date, nu bătut direct în componente.
+
+De la redesignul „aplicație premium", din 2026, se adaugă: Tailwind CSS (v4, token-uri de temă în `src/index.css`), TypeScript pornit treptat (fișierele noi sunt `.tsx`/`.ts`, cele vechi simple rămân `.jsx`, coexistă), componente în stil shadcn/ui în `src/components/ui/` (Radix + Tailwind, cod propriu, nu rulăm CLI-ul), iconografie Lucide, animații cu `motion` (Motion.dev). Rămân excluse din arhitectură: Next.js, React Query, orice backend sau bază de date, cont de utilizator.
 
 ```
 src/
@@ -23,13 +25,26 @@ src/
     clasa-5/unitatea-1.js
     clasa-8/unitatea-1.js
   components/
+    ui/              (button, switch, tooltip, command, sheet — stil shadcn)
+    AppShell.tsx     (sidebar + topbar + tranziții de pagină)
+    Sidebar.tsx
+    SearchPalette.tsx (căutare instant, Ctrl/Cmd+K)
     Prezentare.jsx
-    Test.jsx        (afișează doar linkul spre Google Forms)
+    Test.jsx         (linkuri Google Forms, opțional niveluri de dificultate și rubrică)
     Fisa.jsx
     Joc/             (motor reutilizabil pentru exerciții și escape room)
     Infografic.jsx
     Schema.jsx
+  contexts/
+    ThemeContext.tsx (comutator light/dark, persistat local)
+  lib/
+    lectii.ts        (calcule pe date: completitudine lecție, listă flat de lecții)
+    utils.ts
   pages/
+    DashboardPage.tsx
+    ClasePage.tsx
+    BibliotecaPage.tsx (toate materialele, filtrabile pe tip)
+    SetariPage.tsx
     ClasaPage.jsx
     UnitatePage.jsx
     LectiePage.jsx
@@ -62,7 +77,7 @@ Un material lipsă rămâne `null`. Nu completezi de umplutură, doar fiindcă s
 
 1. Conținutul se împarte în două categorii, cu reguli diferite de sursă.
    - Conținut de bază: definiții, reguli gramaticale, informații despre autori și opere, texte literare studiate la clasă. Acesta vine mereu din manual, din ghidul profesorului sau din altă sursă indicată explicit de Antoanela, cu sursa atașată. Nu inventezi niciodată acest tip de conținut.
-   - Materiale de sprijin: enunțuri de exerciții, texte pentru teste sau fișe, context și poveste pentru jocuri sau escape room, întrebări de discuție. Acestea pot fi originale, scrise de tine sau de Antoanela, fără să fie legate strict de un pasaj din manual. Condiția, să fie corecte gramatical, potrivite vârstei și nivelului clasei și să servească exact obiectivul lecției. Nu ai nevoie de sursă exactă pentru ele, dar trec tot prin aprobare explicită, ca orice alt material, înainte să intre în cod.
+   - Materiale de sprijin: enunțuri de exerciții, texte pentru teste sau fișe, context și poveste pentru jocuri sau escape room, întrebări de discuție, prezentări originale. Acestea pot fi originale, scrise de tine sau de Antoanela, fără să fie legate strict de un pasaj din manual. Condiția, să fie corecte gramatical, potrivite vârstei și nivelului clasei și să servească exact obiectivul lecției. Nu ai nevoie de sursă exactă pentru ele și **nu mai aștepți aprobare explicită pas cu pas înainte să intre în cod**: le generezi și le integrezi direct, ea le vede publicate și corectează sau cere modificări dacă e cazul. Asta nu se aplică conținutului de bază, care rămâne mereu din surse verificate, indiferent cât de mult cere cineva generare automată.
 
    Scopul general al materialelor de sprijin, să fie cât mai vizuale, gamificate, atractive și interactive, ca să placă elevilor, fără să sacrifice rigoarea, elevii tot trebuie să învețe serios materia din spatele jocului sau al fișei.
 2. Acolo unde sursa conținutului de bază nu e clară, marchezi și întrebi. Nu completezi din memorie sau din presupuneri.
@@ -71,16 +86,16 @@ Un material lipsă rămâne `null`. Nu completezi de umplutură, doar fiindcă s
 
 | Material | Cine îl produce | Verificare |
 |---|---|---|
-| Prezentare | NotebookLM, pornind de la manual și ghid, sau draft prin tine | Aprobare explicită înainte de integrare |
+| Prezentare | NotebookLM, pornind de la manual și ghid, sau draft original prin tine | Dacă vine din NotebookLM sau conține conținut de bază, aprobare explicită; dacă e original, integrare directă |
 | Quiz | NotebookLM | Aprobare explicită înainte de integrare |
-| Test, chestionar | Antoanela îl construiește în Google Forms, tu sau NotebookLM propuneți itemii de plecare | Ea decide punctajul și forma finală |
-| Fișă de lucru | Draft prin tine, conținutul de bază din surse indicate, enunțurile pot fi originale | Aprobare explicită |
-| Joc, escape room | Tu scrii logica, conținutul de bază din manual, povestea sau contextul jocului pot fi originale | Testare înainte de publicare |
+| Test, chestionar | Antoanela îl construiește în Google Forms, tu sau NotebookLM propuneți itemii de plecare | Ea decide punctajul și forma finală; itemii originali intră direct |
+| Fișă de lucru | Draft prin tine, conținutul de bază din surse indicate, enunțurile pot fi originale | Integrare directă, fără aprobare pas cu pas |
+| Joc, escape room | Tu scrii logica, conținutul de bază din manual, povestea sau contextul jocului pot fi originale | Integrare directă; testare tot obligatorie înainte de publicare |
 | Video | NotebookLM sau materiale aduse de Antoanela | Vizionare obligatorie înainte de a lega linkul |
 | Infografic, schemă | NotebookLM sau Canva, ori draft prin tine ca punct de plecare | Finalizare vizuală de către ea |
 | Plan de lecție | Draft prin tine, pornind de la ghid, planificare și obiectivele lecției, obligatoriu pentru fiecare lecție | Aprobare explicită, document intern, nu se publică niciodată |
 
-5. Orice material pe care îl produci este draft. Nu intră în cod până nu primești aprobare explicită.
+5. Materialele de sprijin (fișe, jocuri, teste, prezentări originale) intră direct în cod, fără aprobare explicită pas cu pas, conform deciziei din 2026. Planul de lecție rămâne document intern cu aprobare explicită, ca înainte. Conținutul de bază rămâne mereu din surse verificate, cu sursă atașată, indiferent de acest punct.
 6. Pe slide-urile de prezentare apar întotdeauna două lucruri, distinct marcate, etapa lecției, de exemplu deschidere, dirijarea învățării, joc, temă, și conținutul pe care elevii trebuie să îl scrie în caiete. Nu amesteci cele două fără să le separi vizual.
 
 ## Surse
@@ -98,6 +113,16 @@ Unitățile au până la douăzeci de lecții. Lucrezi o unitate completă înai
 5. Testați local navigarea și afișarea, apoi faceți deploy.
 
 Nu treci la unitatea următoare fără confirmarea explicită că cea curentă e gata.
+
+## Direcție respinsă sau amânată, 2026
+
+Antoanela a cerut la un moment dat o platformă completă, gen Notion, Canva și Google Classroom, cu backend, cont de elev, gamification, AI Assistant live și, separat, un portofoliu digital al elevului pe tot ciclul gimnazial și un copilot AI live în timpul orei. A confirmat explicit, prin întrebări directe, că:
+
+- OraRO rămâne fără backend, site static, instrument personal, cel puțin deocamdată. Portofoliul digital al elevului (date reale ale unor minori, pe mai mulți ani, cer bază de date și măsuri serioase de confidențialitate) și copilotul AI live (cere o cheie API ascunsă de un server) rămân idei de viitor, nu se construiesc fără backend.
+- „Asistentul editorial pentru revista școlii" ține de alt proiect, Site-Principele-Carol, nu de OraRO.
+- Constructor de lecții, asistent de evaluare și centru multimedia s-au construit ca variante fezabile fără backend: indicator de completitudine pe lecție, teste cu niveluri de dificultate opționale, modulul Bibliotecă.
+
+Dacă apare din nou cererea de backend, cont de elev sau AI live, verifici mai întâi acest istoric, nu presupui că discuția pornește de la zero.
 
 ## Găzduire și acces
 

@@ -16,9 +16,37 @@ export const recapitulareInitiala = {
     {
       id: 'lectia-1',
       titlu: 'Jocuri și activități de intercunoaștere',
-      obiective: [],
-      sursaManual: 'Ghidul profesorului, Editura Art Klett, III.1, ORA 1 (idee de fișă cu așteptări); formatul de joc e propunere originală',
+      obiective: [
+        'Elevii se familiarizează cu profesorul și cu specificul disciplinei la gimnaziu, prin activități de intercunoaștere.',
+        'Elevii își exprimă liber pasiunile și așteptările de la orele de română, iar profesorul comunică regulile de organizare a orei.',
+      ],
+      sursaManual: 'Planuri de lecție, Săptămâna I, Ora 1, Clasa a V-a/U1/S1_Planuri_lectie.docx (joc „Cartea de vizită”, prezentarea disciplinei, norme de organizare, teaser Unitatea I); Ghidul profesorului, Editura Art Klett, III.1, ORA 1 (fișa cu așteptări, format de joc adaptat, deja publicat)',
       rezolvareGhid: null,
+      planLectie: {
+        titlu: 'Unitatea I — Ora 1',
+        data: '14-15 septembrie 2026',
+        tipOra: 'Lecție introductivă, intercunoaștere',
+        durata: 50,
+        obiective: [
+          'Elevii se familiarizează cu profesorul și cu specificul disciplinei la gimnaziu, prin activități de intercunoaștere.',
+          'Elevii își exprimă liber pasiunile și așteptările de la orele de română, iar profesorul comunică regulile de organizare a orei.',
+        ],
+        resurse: [
+          'Prezentare PPT „Bun venit la Limba Română”, videoproiector',
+          'Fișa cu așteptări (joc.pdf, deja publicat)',
+          'Tablă, caiete de notițe, catalog',
+        ],
+        desfasurare: [
+          { etapa: 'Moment organizatoric', timp: '3 min', activitate: 'Salut, prezența, verificarea materialelor necesare pentru anul școlar.' },
+          { etapa: 'Joc de cunoaștere, „Cartea de vizită”', timp: '10 min', activitate: 'Fiecare elev spune numele, o carte sau un film preferat și un lucru care îl reprezintă. Profesoara se prezintă prima, în același format, ca model.' },
+          { etapa: 'Prezentarea disciplinei', timp: '8 min', activitate: 'Ce înseamnă limba și literatura română la gimnaziu, față de ciclul primar; structura anului: lectură, comunicare orală, limbă română, redactare, evaluare; scurtă prezentare a manualului.' },
+          { etapa: 'Norme de organizare', timp: '10 min', activitate: 'Materiale necesare la oră, reguli de lucru, sistemul de evaluare: teste, teme, activitate la clasă, portofoliu.' },
+          { etapa: 'Fișa așteptărilor', timp: '12 min', activitate: 'Elevii completează fișa cu numele, o pasiune și o așteptare de la orele de română (formatul „joc.pdf”); fiecare elev prezintă pe scurt fișa, care rămâne afișată în clasă.' },
+          { etapa: 'Teaser Unitatea I', timp: '5 min', activitate: 'Anunțarea temei unității: „Despre mine. Selfie”, despre identitate, comunicare și cum ne arătăm lumii. Întrebare de deschidere: Ce credeți că are un selfie de spus despre voi?' },
+          { etapa: 'Încheiere și feedback', timp: '2 min', activitate: 'Fiecare elev spune, pe scurt, un lucru la care se așteaptă de la orele de română din acest an. Anunțarea temei pentru acasă.' },
+        ],
+        evaluare: 'Observare sistematică, implicare în activitatea de cunoaștere, respectarea regulilor stabilite.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -33,9 +61,34 @@ export const recapitulareInitiala = {
     {
       id: 'lectia-2',
       titlu: 'Recapitulare inițială, exerciții',
-      obiective: [],
+      obiective: [
+        'Recapitulează, prin exerciții variate, cunoștințe de vocabular, fonetică și ortografie din ciclul primar: sinonime, antonime, grupuri de sunete, despărțirea în silabe, scrierea corectă.',
+        'Recunoaște părțile de vorbire și tipurile de propoziție învățate în ciclul primar și redactează, după dictare, un text funcțional simplu.',
+      ],
       sursaManual: 'Proiectarea pe unități de învățare 2022-2023, fără pagină de manual, Caietul elevului indisponibil',
       rezolvareGhid: null,
+      planLectie: {
+        titlu: 'Recapitulare inițială — Exerciții',
+        data: null,
+        tipOra: 'Recapitulare',
+        durata: 50,
+        obiective: [
+          'Recapitulează, prin exerciții variate, cunoștințe de vocabular, fonetică și ortografie din ciclul primar: sinonime, antonime, grupuri de sunete, despărțirea în silabe, scrierea corectă.',
+          'Recunoaște părțile de vorbire și tipurile de propoziție învățate în ciclul primar și redactează, după dictare, un text funcțional simplu.',
+        ],
+        resurse: ['Fișa de recapitulare (materiale/clasa-5/recapitulare-initiala/lectia-2/fisa.pdf)', 'Caiete de notițe'],
+        desfasurare: [
+          { etapa: 'Moment organizatoric', timp: '3 min', activitate: 'Salut, prezența, distribuirea fișei de recapitulare.' },
+          { etapa: 'Exercițiul 1, sinonime și antonime', timp: '8 min', activitate: 'Elevii scriu câte un sinonim și un antonim pentru cuvintele date, individual, apoi verificare frontală.' },
+          { etapa: 'Exercițiul 2, grupuri de sunete, silabe', timp: '8 min', activitate: 'Despărțirea în silabe a cuvintelor date, identificarea diftongilor și triftongilor.' },
+          { etapa: 'Exercițiul 3, scriere corectă', timp: '6 min', activitate: 'Corectarea greșelilor din enunțurile date (cratimă, scriere cu sau fără cratimă/spațiu).' },
+          { etapa: 'Exercițiul 4, părți de vorbire, propoziții', timp: '8 min', activitate: 'Identificarea substantivelor și verbelor; precizarea felului propozițiilor date.' },
+          { etapa: 'Exercițiul 5, dictare', timp: '10 min', activitate: 'Profesoara citește textul scurt, elevii scriu în caiet; autocorectare ghidată la final.' },
+          { etapa: 'Exercițiul 6, redactare', timp: '5 min', activitate: 'Redactarea unei invitații către un coleg, respectând elementele unui text funcțional.' },
+          { etapa: 'Încheiere', timp: '2 min', activitate: 'Colectarea fișelor sau notarea în caiet a răspunsurilor rămase de completat acasă.' },
+        ],
+        evaluare: 'Evaluare formativă, prin fișa de recapitulare rezolvată la clasă; observare sistematică a elevilor.',
+      },
       materiale: {
         prezentare: null,
         video: null,

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="380" fill="#faf7f0"/>
+  <text x="450" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">De la cuvântul-cheie la planul de idei</text>
+  <text x="450" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 3 · Cuvântul-cheie. Tema. Planul simplu de idei</text>
+
+  <g>
+    <rect x="40" y="110" width="230" height="200" rx="18" fill="#ffffff" stroke="#6f5ea8" stroke-width="2.5"/>
+    <circle cx="80" cy="150" r="20" fill="#6f5ea8"/>
+    <text x="80" y="157" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">1</text>
+    <text x="155" y="156" text-anchor="middle" font-size="17" font-weight="700" fill="#10233f">Cuvântul-cheie</text>
+    <text font-size="12.5" fill="#3a3226">
+      <tspan x="60" y="190">Substantiv sau grup de</tspan>
+      <tspan x="60" y="208">cuvinte care numește</tspan>
+      <tspan x="60" y="226">aspectul cel mai important</tspan>
+      <tspan x="60" y="244">dintr-un fragment de text.</tspan>
+      <tspan x="60" y="272">Se identifică pentru fiecare</tspan>
+      <tspan x="60" y="290">fragment delimitat.</tspan>
+    </text>
+  </g>
+
+  <path d="M 280 210 L 320 210" stroke="#b8944f" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <g>
+    <rect x="335" y="110" width="230" height="200" rx="18" fill="#ffffff" stroke="#6f5ea8" stroke-width="2.5"/>
+    <circle cx="375" cy="150" r="20" fill="#6f5ea8"/>
+    <text x="375" y="157" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">2</text>
+    <text x="450" y="156" text-anchor="middle" font-size="17" font-weight="700" fill="#10233f">Ideea principală</text>
+    <text font-size="12.5" fill="#3a3226">
+      <tspan x="355" y="190">Cuvântul-cheie primește</tspan>
+      <tspan x="355" y="208">un predicat, apoi alte</tspan>
+      <tspan x="355" y="226">cuvinte, astfel încât să</tspan>
+      <tspan x="355" y="244">răspundă la întrebarea</tspan>
+      <tspan x="355" y="262">„Despre ce/cine este</tspan>
+      <tspan x="355" y="280">vorba în fragment?”.</tspan>
+    </text>
+  </g>
+
+  <path d="M 575 210 L 615 210" stroke="#b8944f" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <g>
+    <rect x="630" y="110" width="230" height="200" rx="18" fill="#ffffff" stroke="#6f5ea8" stroke-width="2.5"/>
+    <circle cx="670" cy="150" r="20" fill="#6f5ea8"/>
+    <text x="670" y="157" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">3</text>
+    <text x="745" y="156" text-anchor="middle" font-size="17" font-weight="700" fill="#10233f">Planul simplu de idei</text>
+    <text font-size="12.5" fill="#3a3226">
+      <tspan x="650" y="190">Cuprinde toate ideile</tspan>
+      <tspan x="650" y="208">principale ale textului,</tspan>
+      <tspan x="650" y="226">înlănțuite în ordinea</tspan>
+      <tspan x="650" y="244">apariției lor în text.</tspan>
+      <tspan x="650" y="272">Ajută la înțelegerea</tspan>
+      <tspan x="650" y="290">textului citit.</tspan>
+    </text>
+  </g>
+
+  <text x="450" y="352" text-anchor="middle" font-size="12" fill="#5b6b83">Sursă: manual Art 5, p. 15 (Repere)</text>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#b8944f"/>
+    </marker>
+  </defs>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="760" height="560" fill="#faf7f0"/>
+  <text x="380" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Câmpul lexical, exemplu</text>
+  <text x="380" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 12 · Câmpul lexical</text>
+
+  <g id="spokes" stroke="#0d9c92" stroke-width="2">
+    <line x1="380" y1="300" x2="380" y2="180"/>
+    <line x1="380" y1="300" x2="486" y2="216"/>
+    <line x1="380" y1="300" x2="530" y2="300"/>
+    <line x1="380" y1="300" x2="486" y2="384"/>
+    <line x1="380" y1="300" x2="380" y2="420"/>
+    <line x1="380" y1="300" x2="274" y2="384"/>
+    <line x1="380" y1="300" x2="230" y2="300"/>
+    <line x1="380" y1="300" x2="274" y2="216"/>
+  </g>
+
+  <circle cx="380" cy="300" r="80" fill="#6f5ea8"/>
+  <text x="380" y="292" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">CÂMPUL LEXICAL</text>
+  <text x="380" y="312" text-anchor="middle" font-size="12.5" fill="#ffffff">relații de rudenie</text>
+
+  <g font-size="13.5" font-weight="600" fill="#10233f" text-anchor="middle">
+    <circle cx="380" cy="180" r="42" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="380" y="185">mamă</text>
+
+    <circle cx="486" cy="216" r="42" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="486" y="221">tată</text>
+
+    <circle cx="530" cy="300" r="42" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="530" y="305">frate</text>
+
+    <circle cx="486" cy="384" r="42" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="486" y="389">soră</text>
+
+    <circle cx="380" cy="420" r="42" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="380" y="425">bunic</text>
+
+    <circle cx="274" cy="384" r="42" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="274" y="389">bunică</text>
+
+    <circle cx="230" cy="300" r="42" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="230" y="305">unchi</text>
+
+    <circle cx="274" cy="216" r="42" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="274" y="221">mătușă</text>
+  </g>
+
+  <rect x="90" y="470" width="580" height="56" rx="14" fill="#ffffff" stroke="#b8944f" stroke-width="1.5"/>
+  <text x="380" y="493" text-anchor="middle" font-size="12" fill="#3a3226">Câmpul lexical cuprinde toate cuvintele care se raportează la aceeași idee,</text>
+  <text x="380" y="510" text-anchor="middle" font-size="12" fill="#3a3226">aparținând aceleiași părți de vorbire. Sursă: manual Art 5, pp. 30-31</text>
+</svg>
