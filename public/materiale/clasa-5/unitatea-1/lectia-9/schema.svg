@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="420" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Tipurile de propoziție</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 9 · Propoziția</text>
+
+  <rect x="370" y="85" width="160" height="50" rx="14" fill="#6f5ea8"/>
+  <text x="450" y="116" text-anchor="middle" font-size="17" font-weight="700" fill="#ffffff">PROPOZIȚIA</text>
+
+  <path d="M 450 135 L 450 155 L 240 155 L 240 180" stroke="#b8944f" stroke-width="2.5" fill="none"/>
+  <path d="M 450 135 L 450 155 L 660 155 L 660 180" stroke="#b8944f" stroke-width="2.5" fill="none"/>
+
+  <rect x="120" y="180" width="240" height="36" rx="10" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="240" y="203" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">după alcătuire</text>
+
+  <rect x="540" y="180" width="240" height="36" rx="10" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="660" y="203" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">după aspectul predicatului</text>
+
+  <path d="M 240 216 L 240 235 L 130 235 L 130 255" stroke="#b8944f" stroke-width="2" fill="none"/>
+  <path d="M 240 216 L 240 235 L 350 235 L 350 255" stroke="#b8944f" stroke-width="2" fill="none"/>
+  <path d="M 660 216 L 660 235 L 550 235 L 550 255" stroke="#b8944f" stroke-width="2" fill="none"/>
+  <path d="M 660 216 L 660 235 L 770 235 L 770 255" stroke="#b8944f" stroke-width="2" fill="none"/>
+
+  <g>
+    <rect x="20" y="255" width="220" height="120" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="130" y="280" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">simplă</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="130" y="302">Alcătuită doar din</tspan>
+      <tspan x="130" y="318">predicat și subiect.</tspan>
+      <tspan x="130" y="342" font-style="italic">Ex.: Adi tace.</tspan>
+    </text>
+  </g>
+
+  <g>
+    <rect x="240" y="255" width="220" height="120" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="350" y="280" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">dezvoltată</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="350" y="302">Conține cel puțin</tspan>
+      <tspan x="350" y="318">o parte secundară.</tspan>
+      <tspan x="350" y="342" font-style="italic">Ex.: Adi tace supărat.</tspan>
+    </text>
+  </g>
+
+  <g>
+    <rect x="440" y="255" width="220" height="120" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="550" y="280" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">afirmativă</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="550" y="302">Predicatul este la</tspan>
+      <tspan x="550" y="318">forma afirmativă.</tspan>
+      <tspan x="550" y="342" font-style="italic">Ex.: Cățelul a lătrat.</tspan>
+    </text>
+  </g>
+
+  <g>
+    <rect x="660" y="255" width="220" height="120" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="770" y="280" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">negativă</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="770" y="302">Predicatul este la</tspan>
+      <tspan x="770" y="318">forma negativă.</tspan>
+      <tspan x="770" y="342" font-style="italic">Ex.: Cățelul n-a lătrat.</tspan>
+    </text>
+  </g>
+
+  <text x="450" y="400" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual Art 5, pp. 24-25 (Repere)</text>
+</svg>
