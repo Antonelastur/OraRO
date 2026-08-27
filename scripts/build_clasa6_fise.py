@@ -43,10 +43,17 @@ def write_lines(page, y, n, gap=LINE_GAP):
 GRID = (0.78, 0.80, 0.81)
 
 
-def draw_table(page, y, cols, widths, rows, row_h):
+def draw_table(page, y, cols, widths, rows, row_h, data=None):
     y = table_row(page, y, cols, widths, bold=True, fill=(0.92, 0.96, 0.96))
     top = y
-    for _ in range(rows):
+    for i in range(rows):
+        if data and i < len(data):
+            x = 52
+            for txt, w in zip(data[i], widths):
+                if txt:
+                    page.insert_textbox(fitz.Rect(x, y + 4, x + w - 8, y + row_h), str(txt),
+                                        fontsize=10, fontname="F-reg", color=(0.14, 0.13, 0.15))
+                x += w
         y += row_h
         page.draw_line(fitz.Point(48, y), fitz.Point(48 + sum(widths), y), color=GRID, width=0.5)
     x = 48
@@ -79,7 +86,7 @@ def _layout_page(page, blocks, reper_text=None):
                 if dry:
                     y += 22 + rh * b["rows"]
                 else:
-                    y = draw_table(pg, y, b["cols"], b["widths"], b["rows"], rh)
+                    y = draw_table(pg, y, b["cols"], b["widths"], b["rows"], rh, b.get("data"))
                 y += 12
             else:
                 if not dry:
@@ -104,7 +111,12 @@ def _layout_page(page, blocks, reper_text=None):
     reserved = MIN_LINES * LINE_GAP * len(slots)
     extra = max(0, int((FOOT_Y - y_end - reserved) // LINE_GAP))
     wsum = sum(s["weight"] for s in slots) or 1
-    counts = [MIN_LINES + round(extra * s["weight"] / wsum) for s in slots]
+    # distribuție cu rest maxim: sum(base) == extra exact, ca pagina să se umple
+    shares = [extra * s["weight"] / wsum for s in slots]
+    base = [int(x) for x in shares]
+    for i in sorted(range(len(slots)), key=lambda k: shares[k] - base[k], reverse=True)[:extra - sum(base)]:
+        base[i] += 1
+    counts = [MIN_LINES + b for b in base]
 
     walk(page, y0, False, counts)
     return counts
@@ -238,6 +250,114 @@ def fisa_redactare_jurnal(out, subtitlu, sursa):
     ], sursa)
 
 
+def fisa_personaje(out, subtitlu, text_ref, sursa):
+    sheet(out, "Fișă de lucru — Personajele", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Cine sunt", "weight": 2,
+         "prompt": f"Notează, în ordinea apariției în {text_ref}, personajele principale și secundare."},
+        {"t": "table", "n": 2, "title": "Trăsături și dovezi", "rows": 4,
+         "cols": ["Personaj", "Trăsătură", "Faptă sau replică din text care o arată"], "widths": [110, 150, 250]},
+        {"t": "lines", "n": 3, "title": "Relații între personaje", "weight": 3,
+         "prompt": "Alege două personaje și explică ce relație e între ele. Cum se schimbă relația de la începutul la sfârșitul textului?"},
+        {"t": "lines", "n": 4, "title": "Personajul care îți seamănă", "weight": 3,
+         "prompt": "Care personaj îți seamănă cel mai mult și prin ce? Argumentează cu o situație din text și una din viața ta."},
+    ], sursa)
+
+
+def fisa_proiect_cerinte(out, subtitlu, nume, tema, cerinte, calendar, criterii, sursa):
+    sheet(out, f"Fișă de proiect — {nume}", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Tema", "weight": 1, "prompt": tema},
+        {"t": "lines", "n": 2, "title": "Ce trebuie să conțină", "weight": 1,
+         "prompt": [f"• {c}" for c in cerinte]},
+        {"t": "lines", "n": 3, "title": "Calendar", "weight": 1, "prompt": calendar},
+        {"t": "table", "n": 4, "title": "Criterii de evaluare (punctaj orientativ)", "rows": len(criterii),
+         "cols": ["Criteriu", "Punctaj"], "widths": [420, 90],
+         "data": [[c, p] for c, p in criterii]},
+        {"t": "lines", "n": 5, "title": "Împărțirea sarcinilor în grup", "weight": 3,
+         "prompt": "Scrieți numele fiecărui membru al grupei și de ce răspunde."},
+    ], sursa)
+
+
+def fisa_proiect_grila(out, subtitlu, nume, criterii, sursa):
+    sheet(out, f"Grilă de evaluare — {nume}", subtitlu, [
+        {"t": "table", "n": 1, "title": "Grila", "rows": len(criterii),
+         "cols": ["Criteriu", "Punctaj maxim", "Obținut"], "widths": [300, 110, 100],
+         "data": [[c, p, ""] for c, p in criterii]},
+        {"t": "lines", "n": 2, "title": "Ce a mers bine", "weight": 3,
+         "prompt": "Notează două lucruri reușite în proiectul grupului vostru."},
+        {"t": "lines", "n": 3, "title": "Ce am schimba", "weight": 3,
+         "prompt": "Dacă ați relua proiectul, ce ați face altfel? De ce?"},
+        {"t": "lines", "n": 4, "title": "Nota pe care ne-o dăm și de ce", "weight": 3,
+         "prompt": "Autoevaluare: ce notă credeți că merită proiectul și cum o justificați?"},
+    ], sursa)
+
+
+def fisa_rezumat_oral(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Rezumatul oral", subtitlu, [
+        {"t": "table", "n": 1, "title": "Rezumatul este / nu este", "rows": 4,
+         "cols": ["Rezumatul ESTE...", "Rezumatul NU ESTE..."], "widths": [255, 255],
+         "prompt": "Completează, cu propriile cuvinte, ce este și ce nu este un rezumat."},
+        {"t": "lines", "n": 2, "title": "Secvențele textului", "weight": 3,
+         "prompt": "Împarte în secvențe un text scurt citit la clasă și notează, pentru fiecare, o idee principală."},
+        {"t": "lines", "n": 3, "title": "Rezumatul oral al unui film", "weight": 3,
+         "prompt": "Rezumă în 5-6 propoziții un scurtmetraj sau un film văzut recent. Spune doar ce e esențial, la timpul prezent."},
+        {"t": "lines", "n": 4, "title": "Evaluează rezumatul colegului", "weight": 3,
+         "prompt": "Ascultă rezumatul colegului de bancă. E mai scurt decât textul? Păstrează doar esențialul? Sunt folosite propriile cuvinte? Scrie o observație."},
+    ], sursa, reper_text=(
+        "Reper (manual, p. 63): Rezumatul reformulează ideile cu propriile cuvinte, surprinde ideile principale "
+        "și arată că le-ai înțeles. Nu reproduce textul, nu reține detaliile nesemnificative și este mai scurt "
+        "decât textul pe care îl rezumă."))
+
+
+def fisa_verb(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Verbul. Flexiunea verbală", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Predicativ sau nepredicativ?", "weight": 2,
+         "prompt": ["Subliniază verbele și scrie P (predicativ) sau N (nepredicativ):",
+                    "a) Petruța pare vrăjitoare. b) Copiii au râs în hohote.",
+                    "c) Băiatul a fost ales primul. d) El vrea să câștige."]},
+        {"t": "table", "n": 2, "title": "Cele patru forme ale trecutului", "rows": 4, "row_h": 40,
+         "cols": ["Forma trecutului", "Un verb la persoana I singular", "Un verb la persoana a III-a plural"],
+         "widths": [170, 175, 175],
+         "data": [["imperfect", "", ""], ["perfect compus", "", ""],
+                  ["perfect simplu", "", ""], ["mai-mult-ca-perfect", "", ""]],
+         "prompt": "Completează cu forme proprii, pentru fiecare formă a trecutului."},
+        {"t": "lines", "n": 3, "title": "Normă și abatere", "weight": 2,
+         "prompt": "Rescrie corect: „Dan mai a învățat o rețetă.” / „Auzisei cântecul și fugisei.” / „Ascultaseți sfaturile.”"},
+        {"t": "lines", "n": 4, "title": "Viitor de limbă vorbită și de limbă scrisă", "weight": 2,
+         "prompt": "Scrie aceeași acțiune viitoare în două feluri: o formă de limbă scrisă (voi face) și una populară (o să fac / oi face)."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 64-66): Verbul arată acțiunea, starea sau existența. După capacitatea de "
+        "predicație, verbele sunt predicative (pot alcătui singure predicat) sau nepredicative. La modul "
+        "indicativ, trecutul are patru forme: imperfect, perfect compus, perfect simplu și mai-mult-ca-perfect."))
+
+
+REP_REZUMAT_SCRIS = (
+    "Reper (manual, pp. 78-79): Într-un rezumat scris, informațiile din textul de bază sunt concentrate și "
+    "simplificate, verbele se folosesc de obicei la prezent, nu se reproduc dialoguri și nu se folosesc "
+    "cuvinte precum „autorul”, „naratorul”, „personajul”. Rezumatul este mai scurt decât textul de bază.")
+
+
+def fisa_rezumat_scris_1(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Rezumatul scris (I). Identificarea secvențelor", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Împărțirea în secvențe", "weight": 3,
+         "prompt": "Ia un text narativ citit la clasă. Marchează unde se termină fiecare secvență (schimbare de loc, de timp, de moment al acțiunii) și numerotează-le."},
+        {"t": "table", "n": 2, "title": "Cuvinte-cheie pe secvențe", "rows": 5,
+         "cols": ["Secvența", "Cuvinte-cheie", "Ideea principală"], "widths": [80, 200, 230]},
+        {"t": "lines", "n": 3, "title": "Verificare", "weight": 3,
+         "prompt": "Recitește ideile principale, în ordine. Se înțelege firul întâmplărilor doar din ele? Ce lipsește sau ce e de prisos?"},
+    ], sursa, reper_text=REP_REZUMAT_SCRIS)
+
+
+def fisa_rezumat_scris_2(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Rezumatul scris (II). Redactarea", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Ce nu intră în rezumat", "weight": 2,
+         "prompt": "Taie din listă ce nu are loc într-un rezumat și explică pe scurt de ce: autorul, naratorul, personajul, deoarece, dialoguri reproduse, detalii de decor, păreri personale."},
+        {"t": "lines", "n": 2, "title": "Redactarea rezumatului", "weight": 5,
+         "prompt": "Scrie rezumatul folosind doar ideile principale identificate în fișa (I). La timpul prezent, cu propriile cuvinte, fără dialog reprodus."},
+        {"t": "lines", "n": 3, "title": "Interevaluare (colegul de bancă)", "weight": 3,
+         "prompt": "Verifică rezumatul colegului: e mai scurt decât textul? informațiile sunt concentrate? verbele sunt la prezent? lipsesc „autorul / naratorul / personajul”? Scrie o observație."},
+    ], sursa, reper_text=REP_REZUMAT_SCRIS)
+
+
 if __name__ == "__main__":
     fisa_semnificatii("unitatea-1/lectia-4/fisa.pdf",
                       "Unitatea I, Lecția 4 · Un păianjen care se crede Spiderman de Adina Popescu",
@@ -258,4 +378,47 @@ if __name__ == "__main__":
               "Unitatea I, Lecția 18 (manual, Lecția 17, partea 1/2)", "Art 6, Lecția 17, pp. 38-39")
     fisa_redactare_jurnal("unitatea-1/lectia-19/fisa.pdf",
                           "Unitatea I, Lecția 19 (manual, Lecția 17, partea 2/2)", "Art 6, Lecția 17, pp. 38-39")
-    print("\nTotal fise clasa a VI-a, Unitatea I: 7")
+
+    # ---------- Unitatea II ----------
+    fisa_proiect_cerinte(
+        "unitatea-2/lectia-1/fisa.pdf", "Unitatea II, Lecția 1 · Proiect de grup",
+        "Prietenia în filme",
+        "Alegeți un film sau un scurtmetraj despre prietenie și pregătiți o prezentare de grup despre felul în care e înfățișată prietenia în el.",
+        ["Titlul filmului, regizorul, anul și de ce l-ați ales",
+         "Personajele între care există prietenia și cum evoluează relația",
+         "O secvență-cheie descrisă pe scurt și ce arată ea despre prietenie",
+         "O concluzie a grupului: ce spune filmul despre prietenie",
+         "Rolul fiecărui membru al grupei"],
+        "Proiect de grup, prezentare la finalul unității.",
+        [("Alegerea filmului e potrivită și motivată", "2p"),
+         ("Analiza relației de prietenie e clară", "3p"),
+         ("Secvența-cheie e bine aleasă și explicată", "3p"),
+         ("Colaborarea în grup", "2p")],
+        "Art 6, Proiect de grup, p. 60")
+    fisa_personaje("unitatea-2/lectia-5/fisa.pdf",
+                   "Unitatea II, Lecția 5 · Oracolul de Mircea Cărtărescu",
+                   "Oracolul", "Art 6, Lecția 4, pp. 52-53")
+    fisa_semnificatii("unitatea-2/lectia-6/fisa.pdf",
+                      "Unitatea II, Lecția 6 · Oracolul de Mircea Cărtărescu",
+                      "Crezi că băiatul din text chiar crede în oracol sau doar vrea să fie acceptat de colegi?",
+                      "Art 6, Lecția 5, pp. 54-55")
+    fisa_text_auxiliar("unitatea-2/lectia-7/fisa.pdf", "Unitatea II, Lecția 7",
+                       "Micuțul Nicolas de Sempé și Goscinny",
+                       "Art 6, Lecția 6, „Noi pagini, alte idei”, pp. 56-57")
+    fisa_proiect_grila("unitatea-2/lectia-9/fisa.pdf", "Unitatea II, Lecția 9 · Proiect de grup",
+                       "Prietenia în filme",
+                       [("Alegerea filmului e potrivită și motivată", "2p"),
+                        ("Analiza relației de prietenie e clară", "3p"),
+                        ("Secvența-cheie e bine aleasă și explicată", "3p"),
+                        ("Colaborarea în grup", "2p")],
+                       "Art 6, Proiect de grup, pp. 60-61")
+    fisa_rezumat_oral("unitatea-2/lectia-11/fisa.pdf",
+                      "Unitatea II, Lecția 11 (manual, Lecția 8, partea 2/2)", "Art 6, Lecția 8, pp. 62-63")
+    fisa_verb("unitatea-2/lectia-13/fisa.pdf",
+              "Unitatea II, Lecția 13 (manual, Lecția 9, partea 2/2)", "Art 6, Lecția 9, pp. 64-67")
+    fisa_rezumat_scris_1("unitatea-2/lectia-20/fisa.pdf",
+                         "Unitatea II, Lecția 20 (manual, Lecția 15, partea 1/2)", "Art 6, Lecția 15, pp. 78-79")
+    fisa_rezumat_scris_2("unitatea-2/lectia-21/fisa.pdf",
+                         "Unitatea II, Lecția 21 (manual, Lecția 15, partea 2/2)", "Art 6, Lecția 15, pp. 78-79")
+
+    print("\nFise clasa a VI-a: Unitatea I (7) + Unitatea II (9) = 16")

@@ -30,18 +30,11 @@ Notă: lecția 12 (Contextul de comunicare II, joc de rol) are intenționat `mat
 
 | Lecție | Titlu | Lipsește |
 |---|---|---|
-| lectia-1 | Proiectul de grup „Prietenia în filme” (anunțare) | fișă (cerințe și criterii) |
 | lectia-2 | Textul narativ literar. Oracolul de Mircea Cărtărescu | prezentare |
-| lectia-5 | Personajele | fișă |
-| lectia-6 | Semnificațiile textului | fișă |
-| lectia-7 | Text auxiliar. Micuțul Nicolas | fișă |
 | lectia-8 | Valori ale culturii populare. Etnii și jocuri de copii | infografic |
-| lectia-9 | Prezentarea proiectului „Prietenia în filme” | fișă (grilă de evaluare) |
-| lectia-11 | Rezumatul oral (II), rezumarea unui text și a unui film | fișă |
-| lectia-13 | Verbul (actualizare), flexiunea verbală | fișă |
-| lectia-20 | Rezumatul scris (I), identificarea secvențelor | fișă |
-| lectia-21 | Rezumatul scris (II), redactarea rezumatului | fișă |
 | lectia-24 | Evaluare, probă scrisă | test (Google Forms) |
+
+Fișele lecțiilor 1, 5, 6, 7, 9, 11, 13, 20 și 21 sunt gata (`scripts/build_clasa6_fise.py`), integrate în cod.
 
 ## Unitatea III: Dincolo de ferestre
 
@@ -97,14 +90,14 @@ Notă: lecția 12 (Contextul de comunicare II, joc de rol) are intenționat `mat
 
 ## Total cumulativ, toate cele 5 unități + recapitulare inițială
 
-**122 de lecții** construite structural (id, titlu, obiective, sursaManual, toate verificate direct în manual sau, pentru recapitulare, în clasa a V-a). **69 de lecții au material**. **53 de lecții au `materiale` null**, din care 52 sunt restante reale, listate mai sus, și 1 (Unitatea I, lecția 12) e intenționat fără material, manualul are deja activitatea completă.
+**122 de lecții** construite structural (id, titlu, obiective, sursaManual, toate verificate direct în manual sau, pentru recapitulare, în clasa a V-a). **78 de lecții au material**. **44 de lecții au `materiale` null**, din care 43 sunt restante reale, listate mai sus, și 1 (Unitatea I, lecția 12) e intenționat fără material, manualul are deja activitatea completă.
 
-Cele 52 de lecții restante, pe tip de resursă:
+Cele 43 de lecții restante, pe tip de resursă:
 
-- fișă: 32
+- fișă: 23
 - prezentare: 6
 - infografic: 6
 - test (Google Forms, itemii pot fi propuși de Claude, forma finală o construiește Antoanela): 5
 - de decis între fișă și infografic sau între schemă și fișă: 3
 
-Progres sesiune: Unitatea I completă pentru materiale automate (7 fișe), rămân doar prezentări și test.
+Progres sesiune: Unitățile I și II complete pentru fișe automate (16 fișe). Rămân, la aceste două unități, doar prezentări, un infografic (U2, lecția 8) și teste.
