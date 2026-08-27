@@ -19,15 +19,10 @@ Toate cele 6 lecții au material (joc sau schemă, refolosite din clasa a V-a). 
 | Lecție | Titlu | Lipsește |
 |---|---|---|
 | lectia-1 | Textul narativ literar. Un păianjen care se crede Spiderman | prezentare |
-| lectia-4 | Semnificațiile textului (Un păianjen...) | fișă |
 | lectia-5 | Textul descriptiv literar în proză. Indescriptibil | prezentare |
-| lectia-7 | Semnificațiile textului (Indescriptibil) | fișă |
-| lectia-9 | Text auxiliar. Lectura în trei, în doi, de unul singur | fișă |
-| lectia-10 | Valori etice în legendele popoarelor | fișă sau infografic |
-| lectia-15 | Omonimele. Cuvintele polisemantice | fișă |
-| lectia-18 | Trăsăturile stilului. Jurnalul ca specie | fișă |
-| lectia-19 | Redactarea unei pagini de jurnal | fișă |
 | lectia-22 | Evaluare, probă scrisă | test (Google Forms) |
+
+Fișele lecțiilor 4, 7, 9, 10, 15, 18 și 19 sunt gata (`scripts/build_clasa6_fise.py`), integrate în cod.
 
 Notă: lecția 12 (Contextul de comunicare II, joc de rol) are intenționat `materiale` null peste tot — manualul conține deja, la p. 27, o activitate completă de joc de rol, nu apare în tabelul de mai sus, nu e o resursă restantă.
 
@@ -102,12 +97,14 @@ Notă: lecția 12 (Contextul de comunicare II, joc de rol) are intenționat `mat
 
 ## Total cumulativ, toate cele 5 unități + recapitulare inițială
 
-**122 de lecții** construite structural (id, titlu, obiective, sursaManual, toate verificate direct în manual sau, pentru recapitulare, în clasa a V-a). **62 de lecții au material** (schemă, infografic sau joc). **60 de lecții au `materiale` null**, din care 59 sunt restante reale, listate mai sus, și 1 (Unitatea I, lecția 12) e intenționat fără material, manualul are deja activitatea completă.
+**122 de lecții** construite structural (id, titlu, obiective, sursaManual, toate verificate direct în manual sau, pentru recapitulare, în clasa a V-a). **69 de lecții au material**. **53 de lecții au `materiale` null**, din care 52 sunt restante reale, listate mai sus, și 1 (Unitatea I, lecția 12) e intenționat fără material, manualul are deja activitatea completă.
 
-Cele 59 de lecții restante, pe tip de resursă:
+Cele 52 de lecții restante, pe tip de resursă:
 
-- fișă: 39
+- fișă: 32
 - prezentare: 6
 - infografic: 6
 - test (Google Forms, itemii pot fi propuși de Claude, forma finală o construiește Antoanela): 5
 - de decis între fișă și infografic sau între schemă și fișă: 3
+
+Progres sesiune: Unitatea I completă pentru materiale automate (7 fișe), rămân doar prezentări și test.

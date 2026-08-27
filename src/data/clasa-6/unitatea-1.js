@@ -24,11 +24,12 @@
 // Materiale: schema și infografic sunt originale, desenate pornind de la
 // structurile și exemplele din manual (organizatoare grafice, diagrama
 // autor-narator-personaj de la p. 14, exemplele cu „păianjen”). Jocurile
-// (quiz) folosesc situații și reguli reale din paginile citate. Pentru
-// lecțiile 1, 4, 5, 7, 9, 10, 15, 18, 19 și 22, materialul (prezentare, fișă,
-// infografic, test) rămâne deocamdată null — necesită fișiere reale
-// (PDF/imagine) sau, pentru test, forma finală construită de Antoanela în
-// Google Forms — și se adaugă într-o etapă următoare, nu inventate acum.
+// (quiz) folosesc situații și reguli reale din paginile citate. Fișele
+// lecțiilor 4, 7, 9, 10, 15, 18 și 19 sunt materiale de sprijin originale,
+// generate cu scripts/build_clasa6_fise.py, cu conținutul de bază (definiții,
+// trăsături de specie) din Art 6, notat în casete „Reper”. Pentru lecțiile 1
+// și 5 (prezentare) și 22 (test), materialul rămâne null — necesită NotebookLM/
+// Canva, respectiv forma finală construită de Antoanela în Google Forms.
 // Lecția 12 (joc de rol) rămâne fără material propriu: manualul conține deja,
 // la p. 27, o activitate completă de joc de rol, gata de folosit la oră.
 
@@ -109,7 +110,7 @@ export const unitatea1 = {
         prezentare: null,
         video: null,
         test: null,
-        fisa: null,
+        fisa: { fisier: '/materiale/clasa-6/unitatea-1/lectia-4/fisa.pdf' },
         joc: null,
         infografic: null,
         schema: null,
@@ -169,7 +170,7 @@ export const unitatea1 = {
         prezentare: null,
         video: null,
         test: null,
-        fisa: null,
+        fisa: { fisier: '/materiale/clasa-6/unitatea-1/lectia-7/fisa.pdf' },
         joc: null,
         infografic: null,
         schema: null,
@@ -209,7 +210,7 @@ export const unitatea1 = {
         prezentare: null,
         video: null,
         test: null,
-        fisa: null,
+        fisa: { fisier: '/materiale/clasa-6/unitatea-1/lectia-9/fisa.pdf' },
         joc: null,
         infografic: null,
         schema: null,
@@ -229,7 +230,7 @@ export const unitatea1 = {
         prezentare: null,
         video: null,
         test: null,
-        fisa: null,
+        fisa: { fisier: '/materiale/clasa-6/unitatea-1/lectia-10/fisa.pdf' },
         joc: null,
         infografic: null,
         schema: null,
@@ -364,7 +365,7 @@ export const unitatea1 = {
         prezentare: null,
         video: null,
         test: null,
-        fisa: null,
+        fisa: { fisier: '/materiale/clasa-6/unitatea-1/lectia-15/fisa.pdf' },
         joc: null,
         infografic: null,
         schema: null,
@@ -459,7 +460,7 @@ export const unitatea1 = {
         prezentare: null,
         video: null,
         test: null,
-        fisa: null,
+        fisa: { fisier: '/materiale/clasa-6/unitatea-1/lectia-18/fisa.pdf' },
         joc: null,
         infografic: null,
         schema: null,
@@ -479,7 +480,7 @@ export const unitatea1 = {
         prezentare: null,
         video: null,
         test: null,
-        fisa: null,
+        fisa: { fisier: '/materiale/clasa-6/unitatea-1/lectia-19/fisa.pdf' },
         joc: null,
         infografic: null,
         schema: null,
