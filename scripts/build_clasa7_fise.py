@@ -287,6 +287,105 @@ def fisa_caracterizare_2(out, subtitlu, sursa):
     ], sursa)
 
 
+# ---------- Unitatea III ----------
+
+def fisa_text_liric(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Textul liric. Emoții și sentimente", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Emoție sau sentiment", "weight": 2,
+         "prompt": "Notează, din poezia citită, un vers care exprimă o emoție (reacție de moment) și unul care exprimă un sentiment (stare de durată). Explică diferența."},
+        {"t": "table", "n": 2, "title": "Mărcile subiectivității", "rows": 4, "row_h": 32,
+         "cols": ["Marca (persoana I, exclamație, cuvânt-emoție…)", "Exemplu din text", "Ce stare transmite"],
+         "widths": [210, 160, 140]},
+        {"t": "lines", "n": 3, "title": "Vocea lirică nu e autorul", "weight": 3,
+         "prompt": "Ce ipostază umană crezi că exprimă vocea lirică din text (îndrăgostitul, copilul, contemplatorul naturii…)? Argumentează cu două versuri."},
+        {"t": "lines", "n": 4, "title": "Scrii tu", "weight": 3,
+         "prompt": "Scrie 3-4 versuri la persoana I despre o emoție puternică, folosind cel puțin o exclamație și un cuvânt-emoție."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 90-91): Vocea lirică este un eu imaginar, ficțional, care există doar în text și nu "
+        "se confundă cu autorul; ea ia o ipostază (îndrăgostitul, copilul, revoltatul…). Subiectivitatea se "
+        "vede în persoana I singular sau plural, în persoana a II-a, în exclamații și interogații retorice și "
+        "în cuvinte care exprimă senzații și emoții (ah!, vai!, of!)."))
+
+
+def fisa_descriptiv_1(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Textul descriptiv. Portretul", subtitlu, [
+        {"t": "table", "n": 1, "title": "Obiectivă sau subiectivă", "rows": 4, "row_h": 30,
+         "cols": ["Enunț descriptiv", "Obiectivă (O) / Subiectivă (S)", "Ce te ajută să decizi"],
+         "widths": [230, 130, 150],
+         "data": [["Are părul castaniu și ochii verzi.", "", ""],
+                  ["Privirea ei lumina toată încăperea.", "", ""],
+                  ["Măsoară un metru șaptezeci.", "", ""],
+                  ["Zâmbetul lui era cald ca o zi de vară.", "", ""]]},
+        {"t": "lines", "n": 2, "title": "Pașii unei descrieri", "weight": 3,
+         "prompt": "Alege o persoană cunoscută. Notează, în ordine: cine e (obiectul descrierii), 3-4 elemente ale chipului, o proprietate pentru fiecare, impresia generală."},
+        {"t": "lines", "n": 3, "title": "Două variante", "weight": 4,
+         "prompt": "Descrie aceeași persoană de două ori: o dată obiectiv (persoana a III-a, limbaj neutru), o dată subiectiv (persoana I, cu figuri de stil)."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 106-107): Descrierea prezintă caracteristicile unui obiect, ale unei ființe sau ale "
+        "unui peisaj. Descrierea obiectivă dă informații conforme cu realitatea, la persoana a III-a, cu limbaj "
+        "neutru, fără figuri de stil. Descrierea subiectivă exprimă impresii și sentimente, mai ales la "
+        "persoana I, cu figuri de stil. Se numește obiectul, apoi elementele lui, proprietățile, impresia generală."))
+
+
+def fisa_descriere_pregatire(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Descrierea unui portret (III). Pregătire", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Observă tabloul", "weight": 3,
+         "prompt": "Ia un portret pictat (din manual sau ales de tine). Notează: cine pare a fi personajul, ce vârstă, ce stare are, ce detalii ale chipului și ale ținutei ies în evidență."},
+        {"t": "table", "n": 2, "title": "De la general la detaliu", "rows": 4, "row_h": 32,
+         "cols": ["Nivel", "Ce descriu"], "widths": [170, 340],
+         "data": [["Impresia generală", ""], ["Chipul (ochi, gură, expresie)", ""],
+                  ["Ținuta și fundalul", ""], ["Un detaliu care spune ceva despre personaj", ""]]},
+        {"t": "lines", "n": 3, "title": "Ciorna", "weight": 4,
+         "prompt": "Scrie prima variantă a descrierii (8-10 rânduri), pe baza planului de mai sus."},
+    ], sursa, reper_text=(
+        "Reper (manual, p. 118): Redactarea unei descrieri urmează etapele scrierii. Se pornește de la "
+        "impresia generală spre detalii, se aleg elementele semnificative ale portretului și se verifică la "
+        "final claritatea, ortografia și punctuația."))
+
+
+def fisa_descriere_redactare(out, subtitlu, sursa):
+    sheet2(out, "Fișă de lucru — Descrierea unui portret (IV). Redactare", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Forma dezvoltată", "weight": 6,
+         "prompt": "Dezvoltă ciorna din fișa (III) într-o descriere de 12-15 rânduri: impresie generală, chip, ținută, un detaliu revelator, o încheiere care spune ce impresie îți lasă personajul."},
+    ], [
+        {"t": "lines", "n": 2, "title": "Verificare finală", "weight": 2,
+         "prompt": "Bifează: descrierea merge de la general la detaliu? ai ales elemente semnificative, nu la întâmplare? tipul de descriere (obiectivă/subiectivă) e păstrat pe tot textul? ortografia și punctuația sunt corecte?"},
+        {"t": "lines", "n": 3, "title": "Forma finală", "weight": 6,
+         "prompt": "Rescrie descrierea în formă finală, cu toate corecturile."},
+    ], sursa)
+
+
+def fisa_comentare_pasaje(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Comentarea unor pasaje dintr-un text", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Liric sau epic", "weight": 2,
+         "prompt": "Ia un pasaj scurt dintr-un text citit la clasă. Stabilește dacă textul e liric sau epic și spune de unde știi."},
+        {"t": "lines", "n": 2, "title": "Ideea pasajului", "weight": 3,
+         "prompt": "Formulează într-o propoziție ideea principală a pasajului. Cum se leagă ea de restul textului?"},
+        {"t": "lines", "n": 3, "title": "Semnificație și mijloace de expresie", "weight": 4,
+         "prompt": "Ce figuri de stil sau alte mijloace de expresie susțin sensul pasajului? Comentează-le cu un citat scurt, introdus corect."},
+        {"t": "lines", "n": 4, "title": "Rescrie sobru", "weight": 3,
+         "prompt": "Rescrie un comentariu prea încărcat, eliminând aprecierile superlative și metaforele: „Acest pasaj absolut genial ne răscolește sufletul cu o forță de neimaginat.”"},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 118-119): La comentarea unui pasaj: citești atent tot textul, stabilești dacă e "
+        "liric sau epic, identifici ideile, prezinți semnificația legând-o de figurile de stil, dai exemple cu "
+        "citate introduse corect. Limbajul e clar, concis, sobru, fără metafore, aprecieri superlative sau "
+        "exclamații."))
+
+
+def fisa_descriere_emotie(out, subtitlu, sursa):
+    sheet2(out, "Fișă de lucru — Descrierea unei emoții personale", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Alege momentul", "weight": 3,
+         "prompt": "Amintește-ți o situație în care ai simțit puternic o emoție (bucurie, teamă, rușine, mândrie…). Notează: când s-a produs, unde, cine era de față."},
+        {"t": "lines", "n": 2, "title": "Ciorna", "weight": 4,
+         "prompt": "Scrie prima variantă (10-12 rânduri) la persoana I, timpul trecut. Pornește de la impresia generală și mergi spre detalii: ce ai simțit în corp, ce gânduri ai avut, cum s-a schimbat starea."},
+    ], [
+        {"t": "lines", "n": 3, "title": "Verificare", "weight": 2,
+         "prompt": "Bifează: e la persoana I, singular, timpul trecut? merge de la general la particular? se înțelege ce emoție descrii, fără să o numești tot timpul?"},
+        {"t": "lines", "n": 4, "title": "Forma finală", "weight": 6,
+         "prompt": "Rescrie descrierea emoției în formă finală, cu scris lizibil și normele de redactare respectate."},
+    ], sursa)
+
+
 if __name__ == "__main__":
     fisa_legarea_secventelor("unitatea-1/lectia-2/fisa.pdf",
                              "Unitatea I, Lecția 2 · Cum e lumea de Veronica D. Niculescu", "Art 7, pp. 14-15")
@@ -351,4 +450,30 @@ if __name__ == "__main__":
     fisa_caracterizare_2("unitatea-2/lectia-22/fisa.pdf",
                          "Unitatea II, Lecția 22 (manual, partea 2/2)", "Art 7, pp. 82-83")
 
-    print("\nFise clasa a VII-a: U1 (6) + U2 (12) = 18")
+    # ---------- Unitatea III ----------
+    fisa_text_liric("unitatea-3/lectia-2/fisa.pdf",
+                    "Unitatea III, Lecția 2 · Lacul de Mihai Eminescu", "Art 7, pp. 90-91")
+    fisa_semnificatii("unitatea-3/lectia-4/fisa.pdf",
+                      "Unitatea III, Lecția 4 · Lacul de Mihai Eminescu",
+                      "De ce crezi că iubitei nu i se face un portret în poezie?",
+                      "Art 7, p. 93")
+    fisa_semnificatii("unitatea-3/lectia-7/fisa.pdf",
+                      "Unitatea III, Lecția 7 · Am legat... de Marin Sorescu",
+                      "Ce înseamnă, în poezie, „a lega” un lucru de altul? E o legătură reală sau imaginată?",
+                      "Art 7, p. 99")
+    fisa_text_auxiliar("unitatea-3/lectia-8/fisa.pdf", "Unitatea III, Lecția 8",
+                       "Iarna de Mircea Cărtărescu",
+                       "poeziile de bază ale unității (Lacul de Mihai Eminescu, Am legat... de Marin Sorescu)",
+                       "Art 7, „Noi pagini, alte idei”, pp. 100-101")
+    fisa_descriptiv_1("unitatea-3/lectia-12/fisa.pdf",
+                      "Unitatea III, Lecția 12 (manual, partea 1/2)", "Art 7, pp. 106-107")
+    fisa_descriere_pregatire("unitatea-3/lectia-19/fisa.pdf",
+                             "Unitatea III, Lecția 19 (manual, partea 1/2)", "Art 7, p. 118")
+    fisa_descriere_redactare("unitatea-3/lectia-20/fisa.pdf",
+                             "Unitatea III, Lecția 20 (manual, partea 2/2)", "Art 7, p. 118")
+    fisa_comentare_pasaje("unitatea-3/lectia-21/fisa.pdf",
+                          "Unitatea III, Lecția 21 (manual, partea 1/2)", "Art 7, p. 119")
+    fisa_descriere_emotie("unitatea-3/lectia-22/fisa.pdf",
+                          "Unitatea III, Lecția 22 (manual, partea 2/2)", "Art 7, p. 119")
+
+    print("\nFise clasa a VII-a: U1 (6) + U2 (12) + U3 (9) = 27")

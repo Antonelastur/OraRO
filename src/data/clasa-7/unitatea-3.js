@@ -31,7 +31,7 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 7, pp. 90-91',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: { fisier: '/materiale/clasa-7/unitatea-3/lectia-2/fisa.pdf' }, joc: null, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-3',
@@ -51,7 +51,7 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 7, p. 93',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: { fisier: '/materiale/clasa-7/unitatea-3/lectia-4/fisa.pdf' }, joc: null, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-5',
@@ -81,7 +81,7 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 7, p. 99',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: { fisier: '/materiale/clasa-7/unitatea-3/lectia-7/fisa.pdf' }, joc: null, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-8',
@@ -91,7 +91,7 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 7, „Noi pagini, alte idei”, pp. 100-101 (Iarna de Mircea Cărtărescu)',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: { fisier: '/materiale/clasa-7/unitatea-3/lectia-8/fisa.pdf' }, joc: null, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-9',
@@ -121,7 +121,52 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 7, pp. 104-105',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: {
+          tip: 'quiz',
+          titlu: "Atitudini comunicative. Exprimarea emoțiilor",
+          pasi: [
+            {
+              intrebare: "Cum se transmite cel mai des o emoție într-o conversație față în față?",
+              variante: [
+                { text: "Prin intonație, mimică, gesturi și ritmul vorbirii", corect: true, explicatie: "Emoția se citește mai ales din elementele nonverbale și paraverbale." },
+                { text: "Doar prin cuvintele alese, nimic altceva", corect: false, explicatie: "Cuvintele contează, dar tonul și mimica spun de multe ori mai mult." },
+                { text: "Prin lungimea propozițiilor", corect: false, explicatie: "Lungimea frazei nu e un semn de emoție." },
+              ],
+              indiciu: null,
+              sursa: "Art 7, pp. 104-105",
+            },
+            {
+              intrebare: "Care mijloc lingvistic marchează o emoție puternică?",
+              variante: [
+                { text: "Repetiția unui cuvânt sau o pauză bruscă în frază", corect: true, explicatie: "Repetiția, pauza, inversiunea și interjecțiile (vai, ah) trădează emoția." },
+                { text: "Folosirea consecventă a persoanei a III-a", corect: false, explicatie: "Persoana a III-a e mai degrabă marca detașării." },
+                { text: "Un vocabular strict tehnic", corect: false, explicatie: "Limbajul tehnic e neutru, nu emoțional." },
+              ],
+              indiciu: null,
+              sursa: "Art 7, p. 104",
+            },
+            {
+              intrebare: "Ce arată respectul într-un dialog cu un profesor?",
+              variante: [
+                { text: "Formule politicoase, pronume de politețe, ton calm", corect: true, explicatie: "„Nu vă supărați\", „ați putea\", „vă mulțumesc\" — mărci ale respectului." },
+                { text: "Întreruperea lui ca să câștigi timp", corect: false, explicatie: "Întreruperea e semn de lipsă de respect." },
+                { text: "Vorbitul foarte repede, ca să termini mai iute", corect: false, explicatie: "Ritmul precipitat nu ține de respect, iar uneori îl încurcă pe ascultător." },
+              ],
+              indiciu: null,
+              sursa: "Art 7, p. 105",
+            },
+            {
+              intrebare: "Ce înseamnă toleranță în comunicare?",
+              variante: [
+                { text: "Să asculți până la capăt un punct de vedere diferit de al tău", corect: true, explicatie: "Toleranța presupune să dai spațiu opiniei celuilalt, chiar dacă nu ești de acord." },
+                { text: "Să fii de acord cu orice ți se spune", corect: false, explicatie: "Toleranța nu cere să renunți la părerea ta, ci să o asculți pe a celuilalt." },
+                { text: "Să eviți orice subiect care ar putea stârni dezacord", corect: false, explicatie: "Toleranța se vede tocmai în felul în care porți un dezacord, nu în evitarea lui." },
+              ],
+              indiciu: null,
+              sursa: "Art 7, pp. 104-105",
+            },
+          ],
+        }, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-12',
@@ -131,7 +176,7 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 7, pp. 106-107, partea 1/2',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: { fisier: '/materiale/clasa-7/unitatea-3/lectia-12/fisa.pdf' }, joc: null, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-13',
@@ -141,7 +186,52 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 7, pp. 106-107, partea 2/2',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: {
+          tip: 'quiz',
+          titlu: "Textul descriptiv. Obiectiv și subiectiv",
+          pasi: [
+            {
+              intrebare: "Ce prezintă un text descriptiv?",
+              variante: [
+                { text: "Caracteristicile unui obiect, ale unei ființe sau ale unui peisaj", corect: true, explicatie: "Descrierea îi oferă cititorului o reprezentare a celui descris." },
+                { text: "O succesiune de întâmplări cu personaje", corect: false, explicatie: "Aceea e narațiunea." },
+                { text: "Un schimb de replici între personaje", corect: false, explicatie: "Acela e textul dialogat." },
+              ],
+              indiciu: null,
+              sursa: "Art 7, pp. 106-107",
+            },
+            {
+              intrebare: "Care enunț aparține unei descrieri obiective?",
+              variante: [
+                { text: "„Clădirea are trei etaje și fațada din cărămidă roșie.”", corect: true, explicatie: "Informație verificabilă, la persoana a III-a, fără figuri de stil." },
+                { text: "„Clădirea părea că mă privește cu ferestrele ei triste.”", corect: false, explicatie: "Personificare și impresie personală — descriere subiectivă." },
+                { text: "„Nu-mi place deloc clădirea asta mohorâtă.”", corect: false, explicatie: "Judecată personală — subiectivă." },
+              ],
+              indiciu: null,
+              sursa: "Art 7, p. 106",
+            },
+            {
+              intrebare: "Prin ce se recunoaște o descriere subiectivă?",
+              variante: [
+                { text: "Persoana I, impresii și sentimente, figuri de stil", corect: true, explicatie: "Cel care descrie își arată trăirile, cu epitete, comparații, metafore." },
+                { text: "Vocabular specializat și limbaj neutru", corect: false, explicatie: "Acelea sunt mărci ale descrierii obiective." },
+                { text: "Absența oricărui adjectiv", corect: false, explicatie: "Adjectivele apar în ambele tipuri; contează dacă exprimă sau nu o impresie." },
+              ],
+              indiciu: null,
+              sursa: "Art 7, p. 107",
+            },
+            {
+              intrebare: "În ce ordine se construiește de obicei o descriere?",
+              variante: [
+                { text: "Numești obiectul, apoi elementele lui, apoi proprietățile, apoi impresia generală", corect: true, explicatie: "De la ansamblu la detaliu, cu o încheiere despre impresia lăsată." },
+                { text: "Începi cu impresia generală și te oprești acolo", corect: false, explicatie: "Impresia generală e un punct, nu toată descrierea." },
+                { text: "Enumeri la întâmplare tot ce vezi", corect: false, explicatie: "O descriere bună are o ordine, nu e o listă dezordonată." },
+              ],
+              indiciu: null,
+              sursa: "Art 7, pp. 106-107",
+            },
+          ],
+        }, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-14',
@@ -201,7 +291,7 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 7, p. 118, partea 1/2',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: { fisier: '/materiale/clasa-7/unitatea-3/lectia-19/fisa.pdf' }, joc: null, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-20',
@@ -211,7 +301,7 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 7, p. 118, partea 2/2',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: { fisier: '/materiale/clasa-7/unitatea-3/lectia-20/fisa.pdf' }, joc: null, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-21',
@@ -221,7 +311,7 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 7, p. 119, partea 1/2',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: { fisier: '/materiale/clasa-7/unitatea-3/lectia-21/fisa.pdf' }, joc: null, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-22',
@@ -231,7 +321,7 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 7, p. 119, partea 2/2',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: { fisier: '/materiale/clasa-7/unitatea-3/lectia-22/fisa.pdf' }, joc: null, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-23',

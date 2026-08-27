@@ -42,25 +42,16 @@ Gata, integrate în cod: fișele lecțiilor 1, 3, 4, 5, 6, 7, 8, 11, 14, 19, 21,
 | Lecție | Titlu | Tip orientativ |
 |---|---|---|
 | lectia-1 | Lacul de Mihai Eminescu. Structura textului poetic | prezentare |
-| lectia-2 | Textul liric. Exprimarea emoțiilor și a sentimentelor | fișă |
 | lectia-3 | Limbajul figurat | schemă |
-| lectia-4 | Semnificațiile textului | fișă |
 | lectia-5 | Am legat... de Marin Sorescu | prezentare |
-| lectia-7 | Semnificațiile textului | fișă |
-| lectia-8 | Text auxiliar. Iarna de Mircea Cărtărescu | fișă |
 | lectia-9 | Tradiții și obiceiuri legate de sentimente și emoții (I) | infografic |
 | lectia-10 | Tradiții și obiceiuri legate de sentimente și emoții (II) | infografic |
-| lectia-11 | Atitudini comunicative | joc |
-| lectia-12 | Textul descriptiv (I) | fișă |
-| lectia-13 | Textul descriptiv (II) | joc |
 | lectia-14 | Substantivul | schemă |
 | lectia-16 | Posibilități combinatorii ale substantivului | schemă |
 | lectia-18 | Posibilități combinatorii ale adjectivului | schemă |
-| lectia-19 | Textul descriptiv (III), pregătire | fișă |
-| lectia-20 | Textul descriptiv (IV), redactare | fișă |
-| lectia-21 | Comentarea unor pasaje. Descrierea unei emoții (I) | fișă |
-| lectia-22 | Comentarea unor pasaje. Descrierea unei emoții (II) | fișă |
 | lectia-25 | Evaluare, probă scrisă | test (Google Forms) |
+
+Gata, integrate în cod: fișele lecțiilor 2, 4, 7, 8, 12, 19, 20, 21, 22 (`scripts/build_clasa7_fise.py`) și jocurile-quiz ale lecțiilor 11 și 13. Rămân: 2 prezentări (1, 5), 4 scheme (3, 14, 16, 18), 2 infografice (9, 10), testul (25).
 
 ## Unitatea IV: Cu noroc, fără noroc (19 lecții)
 
