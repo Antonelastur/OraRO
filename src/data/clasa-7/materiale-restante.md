@@ -27,26 +27,15 @@ Gata, integrate în cod: fișele lecțiilor 2, 3, 4, 6, 18, 19 (`scripts/build_c
 
 | Lecție | Titlu | Tip orientativ |
 |---|---|---|
-| lectia-1 | Proiect de grup. Valorile mele, valorile comunității (anunțare) | fișă (cerințe și criterii) |
 | lectia-2 | Popa Tanda de Ioan Slavici | prezentare |
-| lectia-3 | Structura textului narativ | fișă |
-| lectia-4 | Mijloace de construcție a personajului. Repetiția | fișă |
-| lectia-5 | Conflictul. Complexitatea personajului | fișă |
-| lectia-6 | Semnificațiile textului | fișă |
-| lectia-7 | Text auxiliar. Inocenții de Ioana Pârvulescu | fișă |
-| lectia-8 | Prezentarea proiectului Valorile mele, valorile comunității | fișă (grilă de evaluare) |
 | lectia-9 | Despre limba și cultura țărilor vecine (I) | infografic |
 | lectia-10 | Despre limba și cultura țărilor vecine (II) | infografic |
-| lectia-11 | Fapte și opinii. Textul explicativ (I) | fișă |
-| lectia-12 | Fapte și opinii. Textul explicativ (II) | joc |
-| lectia-14 | Verbul. Tipuri de verbe. Locuțiunea verbală (II) | fișă |
 | lectia-15 | Modurile și timpurile verbului | schemă |
 | lectia-16 | Forme verbale nepersonale: infinitivul și participiul | schemă |
 | lectia-17 | Forme verbale nepersonale: gerunziul și supinul | schemă |
-| lectia-19 | Posibilități combinatorii ale verbului. Circumstanțialul de cauză (II) | fișă |
-| lectia-21 | Caracterizarea personajului (I), pregătire | fișă |
-| lectia-22 | Caracterizarea personajului (II), redactare | fișă |
 | lectia-25 | Evaluare, probă scrisă | test (Google Forms) |
+
+Gata, integrate în cod: fișele lecțiilor 1, 3, 4, 5, 6, 7, 8, 11, 14, 19, 21, 22 (`scripts/build_clasa7_fise.py`) și jocul-quiz al lecției 12. Rămân: 2 infografice (9, 10), 3 scheme (15, 16, 17), prezentarea (2) și testul (25).
 
 ## Unitatea III: Harta sentimentelor (20 lecții)
 

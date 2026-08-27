@@ -115,6 +115,178 @@ def fisa_stil(out, subtitlu, sursa):
         "originalitatea învățate în clasa a VI-a."))
 
 
+# ---------- șabloane reutilizabile ----------
+
+def fisa_proiect_cerinte(out, subtitlu, nume, tema, cerinte, calendar, criterii, sursa):
+    sheet(out, f"Fișă de proiect — {nume}", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Tema", "weight": 1, "prompt": tema},
+        {"t": "lines", "n": 2, "title": "Ce trebuie să conțină", "weight": 1,
+         "prompt": [f"• {c}" for c in cerinte]},
+        {"t": "lines", "n": 3, "title": "Calendar", "weight": 1, "prompt": calendar},
+        {"t": "table", "n": 4, "title": "Criterii de evaluare (punctaj orientativ)", "rows": len(criterii),
+         "cols": ["Criteriu", "Punctaj"], "widths": [420, 90], "data": [[c, p] for c, p in criterii]},
+        {"t": "lines", "n": 5, "title": "Împărțirea sarcinilor în grup", "weight": 3,
+         "prompt": "Scrieți numele fiecărui membru al grupei și de ce răspunde."},
+    ], sursa)
+
+
+def fisa_proiect_grila(out, subtitlu, nume, criterii, sursa):
+    sheet(out, f"Grilă de evaluare — {nume}", subtitlu, [
+        {"t": "table", "n": 1, "title": "Grila", "rows": len(criterii),
+         "cols": ["Criteriu", "Punctaj maxim", "Obținut"], "widths": [300, 110, 100],
+         "data": [[c, p, ""] for c, p in criterii]},
+        {"t": "lines", "n": 2, "title": "Ce a mers bine", "weight": 3,
+         "prompt": "Notează două lucruri reușite în proiectul grupului vostru."},
+        {"t": "lines", "n": 3, "title": "Ce am schimba", "weight": 3,
+         "prompt": "Dacă ați relua proiectul, ce ați face altfel? De ce?"},
+        {"t": "lines", "n": 4, "title": "Nota pe care ne-o dăm și de ce", "weight": 3,
+         "prompt": "Autoevaluare: ce notă credeți că merită proiectul și cum o justificați?"},
+    ], sursa)
+
+
+# ---------- Unitatea II ----------
+
+def fisa_structura_narativa(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Structura textului narativ", subtitlu, [
+        {"t": "table", "n": 1, "title": "Momentele narațiunii, în Popa Tanda", "rows": 5, "row_h": 32,
+         "cols": ["Momentul narațiunii", "Ce se întâmplă în text"], "widths": [180, 330],
+         "data": [["Expozițiunea", ""], ["Intriga", ""], ["Desfășurarea acțiunii", ""],
+                  ["Punctul culminant", ""], ["Deznodământul", ""]]},
+        {"t": "lines", "n": 2, "title": "Cele două descrieri ale satului", "weight": 3,
+         "prompt": "Compară descrierea satului de la începutul și de la sfârșitul nuvelei: două aspecte comune și două diferite. Ce sugerează schimbarea?"},
+        {"t": "lines", "n": 3, "title": "Atitudinea naratorului", "weight": 3,
+         "prompt": "Naratorul e detașat (observator neimplicat) sau marcat afectiv? Găsește un pasaj care îți susține răspunsul."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 53-54): Firul narativ se organizează în momente ale narațiunii: expozițiunea, "
+        "intriga, desfășurarea acțiunii, punctul culminant, deznodământul. Secvențele descriptive pot fi "
+        "plasate simetric (la început și la sfârșit), ca să sublinieze o evoluție."))
+
+
+def fisa_personaj_repetitia(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Construcția personajului. Repetiția", subtitlu, [
+        {"t": "table", "n": 1, "title": "Trăsăturile părintelui Trandafir", "rows": 4, "row_h": 34,
+         "cols": ["Trăsătura", "Cine o arată (narator / alt personaj / el însuși)", "Exemplu din text"],
+         "widths": [130, 210, 170]},
+        {"t": "lines", "n": 2, "title": "Rolul repetiției", "weight": 3,
+         "prompt": "Ce idee subliniază repetarea replicii „Popa e omul dracului!”? De ce se schimbă ea în final în „este omul lui Dumnezeu”?"},
+        {"t": "lines", "n": 3, "title": "Epitetul care revine", "weight": 3,
+         "prompt": "Ce epitet se repetă când e vorba despre părintele Trandafir? Ce impresie lasă asupra cititorului?"},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 55-56): Personajul se construiește prin caracterizare directă (trăsături spuse "
+        "de narator, de alte personaje sau de el însuși) și indirectă (din fapte, vorbe, relații, nume). "
+        "Repetiția, ca mijloc de construcție, insistă asupra unei trăsături sau a unei idei."))
+
+
+def fisa_conflict(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Conflictul. Personaje plate și rotunde", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Conflictul", "weight": 3,
+         "prompt": "Care este conflictul principal al nuvelei (între cine și cine, sau între personaj și ce)? Ce urmări are asupra acțiunii?"},
+        {"t": "table", "n": 2, "title": "Plat sau rotund", "rows": 3, "row_h": 34,
+         "cols": ["Personajul", "Plat sau rotund?", "Argument din text"], "widths": [130, 130, 250]},
+        {"t": "lines", "n": 3, "title": "Evoluția personajului rotund", "weight": 4,
+         "prompt": "Alege un personaj rotund și arată cum se schimbă de la începutul la sfârșitul textului. Ce anume îl face să se schimbe?"},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 57-58): Conflictul este ciocnirea dintre forțe, personaje sau idei, care pune în "
+        "mișcare acțiunea. Personajele plate au un singur plan și rămân previzibile; personajele rotunde "
+        "sunt complexe, uneori contradictorii, și evoluează pe parcursul textului."))
+
+
+def fisa_semnif_conexiuni(out, subtitlu, titlu_text, sursa):
+    sheet(out, "Fișă de lucru — Semnificațiile textului. Cele trei conexiuni", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Text – eu", "weight": 3,
+         "prompt": f"Ce moment din {titlu_text} îți amintește de ceva trăit sau simțit de tine? Explică legătura."},
+        {"t": "lines", "n": 2, "title": "Text – text", "weight": 3,
+         "prompt": "Ce alt text (carte, film, poveste) tratează o temă asemănătoare? Ce au în comun și prin ce se deosebesc?"},
+        {"t": "lines", "n": 3, "title": "Text – lume", "weight": 3,
+         "prompt": "Ce spune textul despre o problemă reală din societate, de ieri sau de azi?"},
+        {"t": "lines", "n": 4, "title": "Răspuns personal", "weight": 3,
+         "prompt": "Formulează, în 3-4 rânduri, ce înseamnă textul pentru tine, pornind de la cele trei conexiuni."},
+    ], sursa, reper_text=(
+        "Reper: Strategia celor trei conexiuni te ajută să înțelegi un text legându-l de tine (text–eu), de "
+        "alte texte (text–text) și de realitatea din jur (text–lume)."))
+
+
+def fisa_fapte_opinii(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Fapte și opinii. Textul explicativ", subtitlu, [
+        {"t": "table", "n": 1, "title": "Fapt sau opinie", "rows": 5, "row_h": 30,
+         "cols": ["Enunț", "Fapt (F) / Opinie (O)", "Cuvântul care te ajută să decizi"],
+         "widths": [230, 120, 160],
+         "data": [["Cameron a plătit masa unei familii.", "", ""],
+                  ["Gestul lui a fost minunat.", "", ""],
+                  ["Blogul are mii de urmăritori.", "", ""],
+                  ["Cred că exemplul lui merită urmat.", "", ""],
+                  ["Proiectul a început într-un fast-food.", "", ""]]},
+        {"t": "lines", "n": 2, "title": "Intenția vorbitorului", "weight": 3,
+         "prompt": "Când folosește fapte, ce vrea de obicei vorbitorul? Dar când folosește opinii? Dă câte un exemplu."},
+        {"t": "lines", "n": 3, "title": "Un scurt text explicativ", "weight": 4,
+         "prompt": "Alege un obicei sau un fenomen și scrie 5-6 rânduri care explică cum sau de ce se petrece. Folosește măcar un fapt verificabil."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 65-66): Faptele prezintă certitudini, se pot observa, măsura, dovedi (cuvinte-"
+        "cheie: numerale, a verifica, a dovedi, document, martor). Opiniile sunt păreri personale (cuvinte-"
+        "cheie: bun, rău, a crede, a considera, punct de vedere, întotdeauna). Textul explicativ arată cum "
+        "sau de ce se întâmplă ceva, ca să facă pe cineva să înțeleagă."))
+
+
+def fisa_locutiunea_verbala(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Locuțiunea verbală", subtitlu, [
+        {"t": "table", "n": 1, "title": "Locuțiune și verb sinonim", "rows": 5, "row_h": 30,
+         "cols": ["Locuțiunea verbală", "Un verb sinonim", "Enunț propriu"], "widths": [160, 130, 220],
+         "data": [["a-și da seama", "", ""], ["a băga de seamă", "", ""], ["a sta de vorbă", "", ""],
+                  ["a lua la rost", "", ""], ["a spăla putina", "", ""]]},
+        {"t": "lines", "n": 2, "title": "Locuțiune sau nu?", "weight": 3,
+         "prompt": "Explică de ce „a ajuns la sapă de lemn” e locuțiune verbală, iar „a ajuns acasă” nu este."},
+        {"t": "lines", "n": 3, "title": "Funcția sintactică", "weight": 3,
+         "prompt": "Într-un enunț propriu cu o locuțiune verbală la mod personal, arată că are funcția de predicat verbal."},
+    ], sursa, reper_text=(
+        "Reper (manual, p. 68): Locuțiunea verbală este un grup unitar de cuvinte, sinonim cu un verb, care "
+        "conține întotdeauna un verb (a-și da seama, a băga de seamă). Se comportă ca un verb: are funcția "
+        "de predicat verbal și e determinată de complemente și circumstanțiale, nu de atribute. Apare des în "
+        "limbajul oral."))
+
+
+def fisa_circ_cauza(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Circumstanțialul de cauză. Redactare", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Recunoaște cauza", "weight": 2,
+         "prompt": ["Subliniază circumstanțialul de cauză și pune întrebarea potrivită (din ce cauză?):",
+                    "a) Din grijă pentru o familie săracă, tânărul a plătit masa.",
+                    "b) Fiind nemulțumit de colegii lui, a pornit proiectul.",
+                    "c) A întârziat din cauza ploii."]},
+        {"t": "lines", "n": 2, "title": "Trei feluri de a exprima cauza", "weight": 3,
+         "prompt": "Scrie același motiv („a lipsit fiindcă era bolnav”) în trei feluri: cu „din cauză că”, cu un substantiv și prepoziție („de boală”), cu un gerunziu („fiind bolnav”)."},
+        {"t": "lines", "n": 3, "title": "Un scurt text cauzal", "weight": 4,
+         "prompt": "Scrie 6-8 rânduri despre o faptă bună a cuiva, folosind cel puțin două circumstanțiale de cauză, exprimate diferit."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 78-80): Circumstanțialul de cauză arată din ce cauză sau din ce pricină se "
+        "petrece acțiunea. Se poate exprima prin substantiv cu prepoziție (de frică, din grijă), prin "
+        "gerunziu (fiind obosit) sau printr-o propoziție introdusă prin „fiindcă”, „din cauză că”, „deoarece”."))
+
+
+def fisa_caracterizare_1(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Caracterizarea personajului (I). Pregătire", subtitlu, [
+        {"t": "table", "n": 1, "title": "Trăsături și mijloace", "rows": 5, "row_h": 32,
+         "cols": ["Trăsătura", "Directă sau indirectă?", "Din ce se desprinde (faptă / vorbă / nume / relații)"],
+         "widths": [130, 130, 250]},
+        {"t": "lines", "n": 2, "title": "Planul caracterizării", "weight": 4,
+         "prompt": "Schițează planul pe paragrafe: introducere (loc și statut), cuprins (2-3 grupuri de trăsături, cu mijloacele lor), încheiere (opinia ta despre personaj)."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 82-83): Caracterizarea unui personaj se organizează pe paragrafe: introducerea "
+        "(locul și statutul personajului), cuprinsul (trăsăturile fizice și morale, susținute cu mijloacele "
+        "de construcție: caracterizare directă și indirectă, prin fapte, vorbe, nume, relații), încheierea "
+        "(o opinie personală). Se respectă etapele scrierii."))
+
+
+def fisa_caracterizare_2(out, subtitlu, sursa):
+    sheet2(out, "Fișă de lucru — Caracterizarea personajului (II). Redactare", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Ciorna", "weight": 6,
+         "prompt": "Redactează caracterizarea părintelui Trandafir din Popa Tanda, pe baza planului din fișa (I). Introducere, cuprins pe grupuri de trăsături cu dovezi din text, încheiere cu opinia ta."},
+    ], [
+        {"t": "lines", "n": 2, "title": "Revizuire", "weight": 2,
+         "prompt": "Bifează: ai și trăsături fizice, și morale? fiecare trăsătură are o dovadă din text? ai folosit și caracterizare directă, și indirectă? încheierea are o opinie proprie?"},
+        {"t": "lines", "n": 3, "title": "Forma finală", "weight": 6,
+         "prompt": "Rescrie caracterizarea în formă finală, cu corecturile de conținut, exprimare și punctuație."},
+    ], sursa)
+
+
 if __name__ == "__main__":
     fisa_legarea_secventelor("unitatea-1/lectia-2/fisa.pdf",
                              "Unitatea I, Lecția 2 · Cum e lumea de Veronica D. Niculescu", "Art 7, pp. 14-15")
@@ -132,4 +304,51 @@ if __name__ == "__main__":
                           "Unitatea I, Lecția 18", "Art 7, pp. 40-41")
     fisa_stil("unitatea-1/lectia-19/fisa.pdf",
               "Unitatea I, Lecția 19", "Art 7, pp. 42-43")
-    print("\nFise clasa a VII-a, Unitatea I: 6")
+
+    # ---------- Unitatea II ----------
+    fisa_proiect_cerinte(
+        "unitatea-2/lectia-1/fisa.pdf", "Unitatea II, Lecția 1 · Proiect de grup",
+        "Valorile mele, valorile comunității",
+        "Alegeți o valoare importantă pentru comunitatea voastră (satul, cartierul, școala) și arătați cum se vede ea în fapte concrete.",
+        ["Valoarea aleasă și de ce contează pentru comunitate",
+         "Două-trei exemple concrete în care valoarea se vede (o tradiție, o faptă, o regulă nescrisă)",
+         "O mărturie: un citat dintr-un interviu cu o persoană din comunitate",
+         "Cum se transmite valoarea de la o generație la alta",
+         "Rolul fiecărui membru al grupei"],
+        "Proiect de grup, prezentare la finalul unității.",
+        [("Valoarea e clar prezentată și motivată", "3p"),
+         ("Exemplele concrete sunt relevante", "3p"),
+         ("Mărturia adaugă ceva viu prezentării", "2p"),
+         ("Colaborarea în grup", "2p")],
+        "Art 7, Proiect de grup")
+    fisa_structura_narativa("unitatea-2/lectia-3/fisa.pdf",
+                            "Unitatea II, Lecția 3 · Popa Tanda de Ioan Slavici", "Art 7, pp. 53-54")
+    fisa_personaj_repetitia("unitatea-2/lectia-4/fisa.pdf",
+                            "Unitatea II, Lecția 4 · Popa Tanda de Ioan Slavici", "Art 7, pp. 55-56")
+    fisa_conflict("unitatea-2/lectia-5/fisa.pdf",
+                  "Unitatea II, Lecția 5 · Popa Tanda de Ioan Slavici", "Art 7, pp. 57-58")
+    fisa_semnif_conexiuni("unitatea-2/lectia-6/fisa.pdf",
+                          "Unitatea II, Lecția 6 · Popa Tanda de Ioan Slavici", "nuvela Popa Tanda", "Art 7, p. 59")
+    fisa_text_auxiliar("unitatea-2/lectia-7/fisa.pdf", "Unitatea II, Lecția 7",
+                       "Inocenții de Ioana Pârvulescu (fragment)",
+                       "textul de bază al unității (Popa Tanda de Ioan Slavici)",
+                       "Art 7, „Noi pagini, alte idei”, pp. 60-61")
+    fisa_proiect_grila("unitatea-2/lectia-8/fisa.pdf", "Unitatea II, Lecția 8 · Proiect de grup",
+                       "Valorile mele, valorile comunității",
+                       [("Valoarea e clar prezentată și motivată", "3p"),
+                        ("Exemplele concrete sunt relevante", "3p"),
+                        ("Mărturia adaugă ceva viu prezentării", "2p"),
+                        ("Colaborarea în grup", "2p")],
+                       "Art 7, Proiect de grup, p. 62")
+    fisa_fapte_opinii("unitatea-2/lectia-11/fisa.pdf",
+                      "Unitatea II, Lecția 11 (manual, partea 1/2)", "Art 7, pp. 65-66")
+    fisa_locutiunea_verbala("unitatea-2/lectia-14/fisa.pdf",
+                            "Unitatea II, Lecția 14 (manual, partea 2/2)", "Art 7, pp. 67-69")
+    fisa_circ_cauza("unitatea-2/lectia-19/fisa.pdf",
+                    "Unitatea II, Lecția 19 (manual, partea 2/2)", "Art 7, pp. 78-80")
+    fisa_caracterizare_1("unitatea-2/lectia-21/fisa.pdf",
+                         "Unitatea II, Lecția 21 (manual, partea 1/2)", "Art 7, pp. 82-83")
+    fisa_caracterizare_2("unitatea-2/lectia-22/fisa.pdf",
+                         "Unitatea II, Lecția 22 (manual, partea 2/2)", "Art 7, pp. 82-83")
+
+    print("\nFise clasa a VII-a: U1 (6) + U2 (12) = 18")
