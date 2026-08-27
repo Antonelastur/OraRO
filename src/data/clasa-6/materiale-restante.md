@@ -41,18 +41,12 @@ Fișele lecțiilor 1, 5, 6, 7, 9, 11, 13, 20 și 21 sunt gata (`scripts/build_cl
 | Lecție | Titlu | Lipsește |
 |---|---|---|
 | lectia-1 | Textul descriptiv literar în versuri. Iarna (I), prima lectură | prezentare |
-| lectia-2 | Iarna (II), prozodie și recitare | fișă |
-| lectia-5 | Epitetul. Versificația (II), rimă, măsură, ritm | schemă sau fișă |
-| lectia-6 | Semnificațiile textului | fișă |
 | lectia-7 | Textul nonliterar. Buletinul meteorologic. Știrea | infografic |
-| lectia-8 | Text auxiliar. Greutatea omătului de Ana Blandiana | fișă |
 | lectia-9 | Bradul în cultura populară românească (I) | infografic |
 | lectia-10 | Bradul în cultura populară românească (II) | infografic |
-| lectia-11 | Proiect individual. Obiceiuri specifice sărbătorilor de iarnă | fișă (cerințe și criterii) |
-| lectia-13 | Atitudini comunicative | fișă sau infografic (termometrul atitudinilor) |
-| lectia-21 | Descrierea unui peisaj (I), pregătirea redactării | fișă |
-| lectia-22 | Descrierea unui peisaj (II), redactarea | fișă |
 | lectia-25 | Evaluare, probă scrisă | test (Google Forms) |
+
+Fișele lecțiilor 2, 5, 6, 8, 11, 13, 21 și 22 sunt gata (`scripts/build_clasa6_fise.py`), integrate în cod. Decizii: lecția 5 (schemă sau fișă) a fost făcută **fișă** cu exerciții de scanare a versurilor, măsură, rimă, ritm — mai utilă decât o schemă statică; lecția 13 (fișă sau infografic) a fost făcută **fișă** cu un termometru al atitudinilor sub formă de tabel de autoevaluare 1-5, la fel ca activitatea din manual (p. 100).
 
 ## Unitatea IV: Popasuri cu tâlc
 
@@ -90,14 +84,13 @@ Fișele lecțiilor 1, 5, 6, 7, 9, 11, 13, 20 și 21 sunt gata (`scripts/build_cl
 
 ## Total cumulativ, toate cele 5 unități + recapitulare inițială
 
-**122 de lecții** construite structural (id, titlu, obiective, sursaManual, toate verificate direct în manual sau, pentru recapitulare, în clasa a V-a). **78 de lecții au material**. **44 de lecții au `materiale` null**, din care 43 sunt restante reale, listate mai sus, și 1 (Unitatea I, lecția 12) e intenționat fără material, manualul are deja activitatea completă.
+**122 de lecții** construite structural (id, titlu, obiective, sursaManual, toate verificate direct în manual sau, pentru recapitulare, în clasa a V-a). **86 de lecții au material**. **36 de lecții au `materiale` null**, din care 35 sunt restante reale, listate mai sus, și 1 (Unitatea I, lecția 12) e intenționat fără material, manualul are deja activitatea completă.
 
-Cele 43 de lecții restante, pe tip de resursă:
+Cele 35 de lecții restante, pe tip de resursă:
 
-- fișă: 23
+- fișă: 18
 - prezentare: 6
 - infografic: 6
 - test (Google Forms, itemii pot fi propuși de Claude, forma finală o construiește Antoanela): 5
-- de decis între fișă și infografic sau între schemă și fișă: 3
 
-Progres sesiune: Unitățile I și II complete pentru fișe automate (16 fișe). Rămân, la aceste două unități, doar prezentări, un infografic (U2, lecția 8) și teste.
+Progres sesiune: Unitățile I, II și III complete pentru fișe automate (24 de fișe). Rămân, la aceste trei unități, prezentări, infografice (U2 lecția 8; U3 lecțiile 7, 9, 10) și teste. Infograficele se fac într-un pas dedicat, sunt SVG desenat manual.

@@ -358,6 +358,97 @@ def fisa_rezumat_scris_2(out, subtitlu, sursa):
     ], sursa, reper_text=REP_REZUMAT_SCRIS)
 
 
+REP_VERSIFICATIE = (
+    "Reper (manual, p. 90): Versificația (prozodia) se ocupă cu regulile de construcție a poeziei. Versul "
+    "este un rând dintr-o poezie. Strofa este o grupare de versuri, despărțită de altele printr-un rând alb. "
+    "Măsura este numărul de silabe dintr-un vers. Rima este potrivirea sunetelor de la sfârșitul versurilor, "
+    "începând cu ultima vocală accentuată. Ritmul este alternanța silabelor accentuate și neaccentuate.")
+
+
+def fisa_prozodie(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Prozodie și recitare", subtitlu, [
+        {"t": "table", "n": 1, "title": "Strofa și versul", "rows": 3, "row_h": 34,
+         "cols": ["Ce număr", "Răspuns", "Cum ai numărat"], "widths": [180, 90, 240],
+         "data": [["Câte strofe are poezia", "", ""], ["Câte versuri are o strofă", "", ""],
+                  ["Câte silabe are primul vers", "", ""]],
+         "prompt": "Ia poezia Iarna de Vasile Alecsandri și completează."},
+        {"t": "lines", "n": 2, "title": "Marchează pauzele de recitare", "weight": 3,
+         "prompt": "Transcrie prima strofă și marchează cu o bară ( / ) locurile unde ai face pauză când reciți. Explică o alegere."},
+        {"t": "lines", "n": 3, "title": "Grila de recitare", "weight": 3,
+         "prompt": "Recită fragmentul unui coleg. Notează, cu o observație fiecare: intonația expresivă, ritmul rostirii, gestica și mimica."},
+        {"t": "lines", "n": 4, "title": "Ce imagine îmi rămâne", "weight": 3,
+         "prompt": "Ce imagine din poezie îți rămâne cel mai puternic în minte după ce ai recitat-o? Descrie-o în 2-3 rânduri."},
+    ], sursa, reper_text=REP_VERSIFICATIE)
+
+
+def fisa_versificatie(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Versificația: rimă, măsură, ritm", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Măsura versurilor", "weight": 2,
+         "prompt": ["Numără silabele fiecărui vers din strofa de mai jos și scrie măsura la capăt:",
+                    "„A nins. În soare codrul cu trunchiuri de cărbune / Întinde umbre-albastre pe proaspătul omăt, /",
+                    "Și mă visez la geamuri cu anii îndărăt: / Văd dealul alb, târlia și vremurile bune.” (Ion Pillat)"]},
+        {"t": "lines", "n": 2, "title": "Rima", "weight": 2,
+         "prompt": "Notează sunetele care rimează la sfârșitul versurilor de mai sus. Ce schema de rimă rezultă (aabb, abab, abba)?"},
+        {"t": "lines", "n": 3, "title": "Ritmul", "weight": 3,
+         "prompt": "Citește cu voce tare primul vers și marchează silabele accentuate. Ritmul e mai degrabă vioi sau lin? Cum se potrivește cu peisajul descris?"},
+        {"t": "lines", "n": 4, "title": "Scrii tu două versuri", "weight": 3,
+         "prompt": "Compune două versuri despre iarnă care să rimeze între ele și să aibă aceeași măsură."},
+    ], sursa, reper_text=REP_VERSIFICATIE)
+
+
+def fisa_atitudini(out, subtitlu, sursa):
+    stmts = [
+        "a) Sunt atent/atentă la ceea ce mi se comunică.",
+        "b) Mă interesează nu doar întâmplarea, ci și trăirile celui care vorbește.",
+        "c) Am răbdare să ascult punctul de vedere al fiecăruia.",
+        "d) Într-un proiect de grup, mă implic în toate activitățile.",
+        "e) Îmi place să lucrez în grup.",
+        "f) Intru ușor în vorbă cu colegi pe care nu-i cunosc bine.",
+    ]
+    sheet(out, "Fișă de lucru — Atitudini comunicative. Autoevaluare", subtitlu, [
+        {"t": "table", "n": 1, "title": "Termometrul atitudinilor", "rows": len(stmts), "row_h": 32,
+         "cols": ["Enunț", "1", "2", "3", "4", "5"], "widths": [330, 36, 36, 36, 36, 36],
+         "data": [[s, "", "", "", "", ""] for s in stmts],
+         "prompt": "Bifează în dreptul fiecărui enunț: 1 = dezacord total, 3 = neutru, 5 = acord total."},
+        {"t": "lines", "n": 2, "title": "Unde stau bine", "weight": 3,
+         "prompt": "La ce atitudine (interes, curiozitate, implicare, cooperare) crezi că stai cel mai bine? Dă un exemplu concret dintr-o oră."},
+        {"t": "lines", "n": 3, "title": "Ce vreau să schimb", "weight": 3,
+         "prompt": "Alege o atitudine la care vrei să progresezi și scrie un pas mic, concret, pe care îl poți face săptămâna asta."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 100-101): Atitudinile comunicative țin de felul în care participi la o discuție sau "
+        "la o activitate de grup: interesul, curiozitatea, implicarea și cooperarea. Ele se pot observa și "
+        "autoevalua."))
+
+
+def fisa_descriere_1(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Descrierea unui peisaj (I). Pregătire", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Subiectul și scopul", "weight": 2,
+         "prompt": "Subiectul descrierii: un peisaj de iarnă. Pentru cine scrii și de ce scrii? Notează în două rânduri."},
+        {"t": "table", "n": 2, "title": "Ce percep (văd, aud, simt prin miros / frig / atingere, ce emoție am)",
+         "rows": 4, "row_h": 30,
+         "cols": ["Ce văd", "Ce aud", "Ce simt", "Ce emoție am"], "widths": [128, 128, 128, 126]},
+        {"t": "lines", "n": 3, "title": "Patru figuri de stil", "weight": 3,
+         "prompt": "Alege patru elemente ale peisajului. La două alătură câte un epitet; cu celelalte două fă o comparație și o personificare."},
+        {"t": "lines", "n": 4, "title": "Planul descrierii", "weight": 3,
+         "prompt": "Fixează direcția privirii (sus / jos / stânga / dreapta) și ordinea în care vei prezenta planurile peisajului (de exemplu: cerul, apoi câmpul, apoi un detaliu apropiat)."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 116-117): Redactarea are cinci etape: pregătirea (alegi subiectul, aduni informații, "
+        "faci planul), ciorna, revizuirea, editarea, publicarea. Într-o descriere de peisaj se folosesc de "
+        "obicei verbe la imperfect, persoana I singular, și figuri de stil: epitet, comparație, personificare."))
+
+
+def fisa_descriere_2(out, subtitlu, sursa):
+    sheet2(out, "Fișă de lucru — Descrierea unui peisaj (II). Redactare", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Ciorna", "weight": 6,
+         "prompt": "Scrie prima variantă a descrierii peisajului de iarnă, pe baza planului din fișa (I). Folosește verbe la imperfect, persoana I singular, și cele patru figuri de stil pregătite."},
+    ], [
+        {"t": "lines", "n": 2, "title": "Verificare", "weight": 2,
+         "prompt": "Bifează: ai folosit cele patru elemente ale peisajului? ai integrat cele patru figuri de stil? ai menționat senzații și emoții? verbele sunt la imperfect, persoana I? ai un titlu surprinzător?"},
+        {"t": "lines", "n": 3, "title": "Forma finală", "weight": 6,
+         "prompt": "Rescrie descrierea în formă finală, cu corecturile de exprimare, ortografie și punctuație."},
+    ], sursa)
+
+
 if __name__ == "__main__":
     fisa_semnificatii("unitatea-1/lectia-4/fisa.pdf",
                       "Unitatea I, Lecția 4 · Un păianjen care se crede Spiderman de Adina Popescu",
@@ -423,4 +514,38 @@ if __name__ == "__main__":
     fisa_rezumat_scris_2("unitatea-2/lectia-21/fisa.pdf",
                          "Unitatea II, Lecția 21 (manual, Lecția 15, partea 2/2)", "Art 6, Lecția 15, pp. 78-79")
 
-    print("\nFise clasa a VI-a: Unitatea I (7) + Unitatea II (9) = 16")
+    # ---------- Unitatea III ----------
+    fisa_prozodie("unitatea-3/lectia-2/fisa.pdf",
+                  "Unitatea III, Lecția 2 (manual, Lecția 1, partea 2/2)", "Art 6, Lecția 1, pp. 84-85")
+    fisa_versificatie("unitatea-3/lectia-5/fisa.pdf",
+                      "Unitatea III, Lecția 5 (manual, Lecția 3, partea 2/2)", "Art 6, Lecția 3, p. 89")
+    fisa_semnificatii("unitatea-3/lectia-6/fisa.pdf",
+                      "Unitatea III, Lecția 6 · Iarna de Vasile Alecsandri",
+                      "Crezi că poezia descrie iarna ca pe un anotimp prietenos sau ca pe unul aspru? Ce te face să crezi asta?",
+                      "Art 6, Lecția 4, p. 91")
+    fisa_text_auxiliar("unitatea-3/lectia-8/fisa.pdf", "Unitatea III, Lecția 8",
+                       "Greutatea omătului de Ana Blandiana",
+                       "Art 6, Lecția 6, „Noi pagini, alte idei”, p. 95",
+                       texte_baza="textul de bază al unității (Iarna de Vasile Alecsandri)")
+    fisa_proiect_cerinte(
+        "unitatea-3/lectia-11/fisa.pdf", "Unitatea III, Lecția 11 · Proiect individual",
+        "Obiceiuri specifice sărbătorilor de iarnă",
+        "Alege un obicei de iarnă din zona ta sau din familia ta și prezintă-l, arătând ce se face, când și ce semnificație are.",
+        ["Numele obiceiului și zona sau familia de la care îl știi",
+         "Ce se face, pas cu pas, și în ce zi",
+         "Ce semnificație are obiceiul (ce urează, ce alungă, ce sărbătorește)",
+         "O sursă (o persoană din familie, o carte, un site) și, dacă poți, o fotografie sau un desen propriu"],
+        "Proiect individual, prezentare în ultima oră dinaintea vacanței de iarnă.",
+        [("Obiceiul e prezentat clar și complet", "3p"),
+         ("Semnificația e explicată corect", "3p"),
+         ("Documentarea are cel puțin o sursă", "2p"),
+         ("Prezentarea e îngrijită", "2p")],
+        "Art 6, Proiect individual, pp. 98-99")
+    fisa_atitudini("unitatea-3/lectia-13/fisa.pdf",
+                   "Unitatea III, Lecția 13 (manual, Lecția 8, partea 2/2)", "Art 6, Lecția 8, pp. 100-101")
+    fisa_descriere_1("unitatea-3/lectia-21/fisa.pdf",
+                     "Unitatea III, Lecția 21 (manual, Lecția 16, partea 1/2)", "Art 6, Lecția 16, pp. 116-117")
+    fisa_descriere_2("unitatea-3/lectia-22/fisa.pdf",
+                     "Unitatea III, Lecția 22 (manual, Lecția 16, partea 2/2)", "Art 6, Lecția 16, pp. 116-117")
+
+    print("\nFise clasa a VI-a: U1 (7) + U2 (9) + U3 (8) = 24")
