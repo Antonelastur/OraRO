@@ -62,29 +62,20 @@ Fișele lecțiilor 4, 5, 6, 12, 14, 17, 18 și 20 sunt gata (`scripts/build_clas
 
 | Lecție | Titlu | Lipsește |
 |---|---|---|
-| lectia-1 | Proiectul „Comunitățile din jurul României” (anunțare) | fișă (cerințe și criterii) |
 | lectia-2 | Textul narativ literar. D-l Goe... de I.L. Caragiale | prezentare |
-| lectia-5 | Personajele | fișă |
-| lectia-6 | Semnificațiile textului | fișă |
-| lectia-7 | Textul argumentativ. Motive pentru care călătoriile te fac mai bun | fișă |
-| lectia-9 | Text auxiliar. George și cheia secretă a Universului | fișă |
 | lectia-10 | Limba română în Europa. Comunitatea lingvistică | infografic |
-| lectia-11 | Prezentarea proiectului „Comunitățile din jurul României” | fișă (grilă de evaluare) |
-| lectia-13 | Strategii de concepere și comprehensiune a textului oral | fișă |
-| lectia-15 | Posibilități combinatorii ale adjectivului | fișă |
-| lectia-17 | Gradele de comparație și funcțiile sintactice ale adverbului | fișă |
-| lectia-19 | Transformarea vorbirii directe în indirectă (II), exerciții | fișă |
 | lectia-22 | Evaluare, probă scrisă | test (Google Forms) |
+
+Fișele lecțiilor 1, 5, 6, 7, 9, 11, 13, 15, 17 și 19 sunt gata (`scripts/build_clasa6_fise.py`), integrate în cod.
 
 ## Total cumulativ, toate cele 5 unități + recapitulare inițială
 
-**122 de lecții** construite structural (id, titlu, obiective, sursaManual, toate verificate direct în manual sau, pentru recapitulare, în clasa a V-a). **94 de lecții au material**. **28 de lecții au `materiale` null**, din care 27 sunt restante reale, listate mai sus, și 1 (Unitatea I, lecția 12) e intenționat fără material, manualul are deja activitatea completă.
+**122 de lecții** construite structural (id, titlu, obiective, sursaManual, toate verificate direct în manual sau, pentru recapitulare, în clasa a V-a). **104 lecții au material**. **18 lecții au `materiale` null**, din care 17 sunt restante reale, listate mai sus, și 1 (Unitatea I, lecția 12) e intenționat fără material, manualul are deja activitatea completă.
 
-Cele 27 de lecții restante, pe tip de resursă:
+Cele 17 lecții restante, pe tip de resursă:
 
-- fișă: 10 (toate la Unitatea V)
-- prezentare: 6
-- infografic: 6
-- test (Google Forms, itemii pot fi propuși de Claude, forma finală o construiește Antoanela): 5
+- prezentare: 6 (U1 L1/L5, U2 L2, U3 L1, U4 L1, U5 L2)
+- infografic: 6 (U2 L8, U3 L7/L9/L10, U4 L8, U5 L10)
+- test (Google Forms, itemii pot fi propuși de Claude, forma finală o construiește Antoanela): 5 (câte unul pe unitate)
 
-Progres sesiune: Unitățile I-IV complete pentru fișe automate (32 de fișe). Rămâne Unitatea V pentru fișe, apoi infograficele (U2 lecția 8; U3 lecțiile 7, 9, 10; U4 lecția 8; U5 lecția 10), într-un pas dedicat, SVG desenat manual.
+Toate fișele automate ale claselor I-V sunt gata (42 de fișe, `scripts/build_clasa6_fise.py`). Rămân doar prezentările (NotebookLM/Canva), infograficele (SVG desenat manual, pas dedicat) și testele (Google Forms).
