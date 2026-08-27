@@ -449,6 +449,104 @@ def fisa_descriere_2(out, subtitlu, sursa):
     ], sursa)
 
 
+def fisa_fabula_mesaj(out, subtitlu, titlu_fabula, sursa):
+    sheet(out, "Fișă de lucru — Mesajul fabulei, azi", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Morala, cu cuvintele tale", "weight": 2,
+         "prompt": f"Formulează într-o propoziție învățătura fabulei {titlu_fabula}."},
+        {"t": "lines", "n": 2, "title": "O situație de azi", "weight": 4,
+         "prompt": "Descrie o situație din viața de azi (școală, familie, online) în care morala acestei fabule s-ar potrivi la fel de bine."},
+        {"t": "lines", "n": 3, "title": "Mai e valabilă?", "weight": 4,
+         "prompt": "Crezi că mesajul fabulei este la fel de adevărat astăzi ca atunci când a fost scrisă? Scrie-ți răspunsul și două argumente."},
+        {"t": "lines", "n": 4, "title": "Rescrie fabula pe scurt", "weight": 3,
+         "prompt": "Repovestește fabula în 4-5 rânduri, mutând acțiunea în zilele noastre, cu personaje umane."},
+    ], sursa)
+
+
+REP_PRONUME = (
+    "Reper (manual, p. 140): Pronumele personal și cel de politețe au aceleași funcții sintactice ca "
+    "substantivul (subiect, complement, atribut) și își schimbă forma după caz. Politețea se exprimă prin "
+    "forme ca dumneavoastră, dumnealui, domnia sa și prin formule reverențioase: Alteța Sa, Excelența Sa, "
+    "Majestatea Sa, Sfinția Sa.")
+
+
+def fisa_pronume_caz(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Pronumele personal și de politețe: caz, grade de politețe", subtitlu, [
+        {"t": "table", "n": 1, "title": "Cazul și funcția sintactică", "rows": 4, "row_h": 34,
+         "cols": ["Enunț", "Pronumele", "Cazul", "Funcția sintactică"], "widths": [200, 90, 90, 130],
+         "data": [["El le-a înșelat pe găini.", "", "", ""],
+                  ["Întrecerea a câștigat-o ea.", "", "", ""],
+                  ["Tufișurile de lângă ea sunt înalte.", "", "", ""],
+                  ["Vorbim mereu despre ei.", "", "", ""]]},
+        {"t": "lines", "n": 2, "title": "Grade de politețe", "weight": 3,
+         "prompt": "Rescrie enunțul „Tu ai spus adevărul.” în trei grade de politețe diferite (familiar, politicos, reverențios). Notează ce pronume ai folosit."},
+        {"t": "lines", "n": 3, "title": "Formule reverențioase", "weight": 3,
+         "prompt": "Potrivește: rege, papă, mitropolit, ambasador cu formulele Majestatea Sa, Sanctitatea Sa, Înaltpreasfinția Sa, Excelența Sa."},
+    ], sursa, reper_text=REP_PRONUME)
+
+
+def fisa_clitice(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Cliticele pronominale. Anticipare, reluare, ortografie", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Antepuse sau postpuse", "weight": 2,
+         "prompt": ["Notează, pentru fiecare clitic, dacă e antepus (înaintea verbului) sau postpus (după verb):",
+                    "a) L-am atenționat pe Andrei.  b) Pe Ina am sunat-o ieri.",
+                    "c) Să-i dai lui Silviu cartea.  d) Mihaelei i-am trimis un mesaj."]},
+        {"t": "lines", "n": 2, "title": "Anticipare și reluare", "weight": 3,
+         "prompt": "Rescrie, anticipând sau reluând complementul prin clitic: „Am dat cartea colegului.” / „Pe bunica o vizităm duminică.”"},
+        {"t": "lines", "n": 3, "title": "Comprimă formele", "weight": 3,
+         "prompt": "Transformă după model (Pot să-i împrumut colegului CD-urile? → Pot să i le împrumut?): „A vândut pachetele unei cliente.” / „A trimis părintelui regulamentul.”"},
+        {"t": "lines", "n": 4, "title": "Corectează ortografia", "weight": 3,
+         "prompt": "Rescrie corect: „Ia-ți văzut colegii?” / „Î-mi place poezia.” / „Radu iar da o carte lui Mihai.”"},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 140-141): Cliticele pronominale sunt formele neaccentuate ale pronumelui (mă, te, "
+        "l, o, i, le, mi, ți, ne, vă). Ele pot fi antepuse sau postpuse verbului și pot anticipa ori relua un "
+        "complement (I-am scris lui Andrei; Pe tata l-am văzut). Se scriu legate prin cratimă de cuvântul "
+        "vecin: l-am, să-i, ți-ai, i le."))
+
+
+def fisa_inserare_descriptiv_1(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Inserarea secvențelor descriptive (I). Pregătire", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Firul narativ", "weight": 3,
+         "prompt": "Pornește de la o situație inițială dată sau aleasă de tine. Notează pe scurt: situația inițială, 2-3 urmări posibile, urmarea aleasă, deznodământul."},
+        {"t": "table", "n": 2, "title": "Unde inserez descrierea (momentul, ce descriu, ce figuri de stil)",
+         "rows": 3, "row_h": 36,
+         "cols": ["Momentul", "Ce descriu (loc, personaj, obiect)", "Figuri de stil"],
+         "widths": [130, 250, 130]},
+        {"t": "lines", "n": 3, "title": "Rezerva de imagini", "weight": 3,
+         "prompt": "Scrie din timp câteva enumerații, epitete și comparații pe care le vei putea folosi în cele două secvențe descriptive."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 146-147): Într-o narațiune poți insera secvențe descriptive, în locuri alese cu "
+        "grijă, ca să încetinești ritmul și să faci cititorul să vadă scena. În descriere folosești enumerații, "
+        "epitete și comparații, fără să pierzi firul întâmplărilor."))
+
+
+def fisa_inserare_descriptiv_2(out, subtitlu, sursa):
+    sheet2(out, "Fișă de lucru — Inserarea secvențelor descriptive (II). Redactare", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Ciorna narațiunii", "weight": 6,
+         "prompt": "Redactează o narațiune scurtă la persoana a III-a, pe baza planului din fișa (I), și inserează în cuprinsul ei două secvențe descriptive."},
+    ], [
+        {"t": "lines", "n": 2, "title": "Verificare", "weight": 2,
+         "prompt": "Bifează: firul întâmplărilor se înțelege? cele două secvențe descriptive sunt la locul potrivit? ai folosit enumerații, epitete, comparații? deznodământul rezolvă problema de la început?"},
+        {"t": "lines", "n": 3, "title": "Forma finală", "weight": 6,
+         "prompt": "Rescrie narațiunea în formă finală, cu corecturile de conținut, exprimare și punctuație."},
+    ], sursa)
+
+
+def fisa_text_explicativ(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Textul explicativ. Redactare", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Ce fel de explicație", "weight": 2,
+         "prompt": ["Scrie, pentru fiecare titlu, dacă textul cerut ar fi cauzal (răspunde la „de ce?”) sau procedural (răspunde la „cum?”):",
+                    "„De ce îngheață apa iarna?” ___   „Cum se pregătește un ceai?” ___",
+                    "„De ce migrează păsările?” ___   „Cum se joacă «Uliii și porumbeii»?” ___"]},
+        {"t": "lines", "n": 2, "title": "Planul textului", "weight": 3,
+         "prompt": "Alege un subiect pe care îl cunoști bine. Notează: ce anume explici, cui te adresezi, în ce ordine prezinți informațiile (pași sau cauze)."},
+        {"t": "lines", "n": 3, "title": "Redactarea", "weight": 5,
+         "prompt": "Scrie textul explicativ (minimum 8 rânduri). Folosește conectori potriviți (mai întâi, apoi, în final / pentru că, prin urmare) și un limbaj clar, fără cuvinte inutile."},
+    ], sursa, reper_text=(
+        "Reper (manual, p. 148): Textul explicativ oferă o explicație sau o informație. Poate fi cauzal (arată "
+        "de ce se petrece ceva) sau procedural (arată cum se face ceva, pas cu pas). Are un limbaj clar, "
+        "precis, și folosește conectori care leagă ideile."))
+
+
 if __name__ == "__main__":
     fisa_semnificatii("unitatea-1/lectia-4/fisa.pdf",
                       "Unitatea I, Lecția 4 · Un păianjen care se crede Spiderman de Adina Popescu",
@@ -548,4 +646,27 @@ if __name__ == "__main__":
     fisa_descriere_2("unitatea-3/lectia-22/fisa.pdf",
                      "Unitatea III, Lecția 22 (manual, Lecția 16, partea 2/2)", "Art 6, Lecția 16, pp. 116-117")
 
-    print("\nFise clasa a VI-a: U1 (7) + U2 (9) + U3 (8) = 24")
+    # ---------- Unitatea IV ----------
+    fisa_semnificatii("unitatea-4/lectia-4/fisa.pdf",
+                      "Unitatea IV, Lecția 4 (manual, Lecția 4, partea 1/2) · Ulucul și găinile",
+                      "Cu ce personaj al fabulei ești de acord și cu ce personaj nu ești de acord? De ce?",
+                      "Art 6, Lecția 4, p. 128")
+    fisa_fabula_mesaj("unitatea-4/lectia-5/fisa.pdf",
+                      "Unitatea IV, Lecția 5 (manual, Lecția 4, partea 2/2)",
+                      "Ulucul și găinile", "Art 6, Lecția 4, p. 128")
+    fisa_text_auxiliar("unitatea-4/lectia-6/fisa.pdf", "Unitatea IV, Lecția 6",
+                       "Iepurele și broasca-țestoasă de Jean de La Fontaine",
+                       "Art 6, Lecția 5, „Noi pagini, alte idei”, p. 129",
+                       texte_baza="textul de bază al unității (fabula Ulucul și găinile)")
+    fisa_pronume_caz("unitatea-4/lectia-12/fisa.pdf",
+                     "Unitatea IV, Lecția 12 (manual, Lecția 8, partea 2/2)", "Art 6, Lecția 8, pp. 137-139")
+    fisa_clitice("unitatea-4/lectia-14/fisa.pdf",
+                 "Unitatea IV, Lecția 14 (manual, Lecția 9, partea 2/2)", "Art 6, Lecția 9, pp. 140-141")
+    fisa_inserare_descriptiv_1("unitatea-4/lectia-17/fisa.pdf",
+                               "Unitatea IV, Lecția 17 (manual, Lecția 12, partea 1/2)", "Art 6, Lecția 12, pp. 146-147")
+    fisa_inserare_descriptiv_2("unitatea-4/lectia-18/fisa.pdf",
+                               "Unitatea IV, Lecția 18 (manual, Lecția 12, partea 2/2)", "Art 6, Lecția 12, pp. 146-147")
+    fisa_text_explicativ("unitatea-4/lectia-20/fisa.pdf",
+                         "Unitatea IV, Lecția 20 (manual, Lecția 13, partea 2/2)", "Art 6, Lecția 13, p. 149")
+
+    print("\nFise clasa a VI-a: U1 (7) + U2 (9) + U3 (8) + U4 (8) = 32")

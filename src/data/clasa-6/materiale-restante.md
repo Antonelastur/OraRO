@@ -53,16 +53,10 @@ Fișele lecțiilor 2, 5, 6, 8, 11, 13, 21 și 22 sunt gata (`scripts/build_clasa
 | Lecție | Titlu | Lipsește |
 |---|---|---|
 | lectia-1 | Textul narativ literar în versuri. Ulucul și găinile | prezentare |
-| lectia-4 | Semnificațiile textului (I), discuție și opinie | fișă |
-| lectia-5 | Semnificațiile textului (II), mesajul fabulei azi | fișă |
-| lectia-6 | Text auxiliar. Iepurele și broasca-țestoasă de La Fontaine | fișă |
 | lectia-8 | Înțelepciunea proverbelor (II), similitudini interculturale | infografic |
-| lectia-12 | Pronumele personal și de politețe (II), caz și grade de politețe | fișă |
-| lectia-14 | Posibilități combinatorii ale pronumelui (II), clitice și ortografie | fișă |
-| lectia-17 | Inserarea secvențelor descriptive (I), pregătire | fișă |
-| lectia-18 | Inserarea secvențelor descriptive (II), redactare | fișă |
-| lectia-20 | Textul explicativ (II), redactarea | fișă |
 | lectia-23 | Evaluare, probă scrisă | test (Google Forms) |
+
+Fișele lecțiilor 4, 5, 6, 12, 14, 17, 18 și 20 sunt gata (`scripts/build_clasa6_fise.py`), integrate în cod.
 
 ## Unitatea V: Călătorii de tot felul
 
@@ -84,13 +78,13 @@ Fișele lecțiilor 2, 5, 6, 8, 11, 13, 21 și 22 sunt gata (`scripts/build_clasa
 
 ## Total cumulativ, toate cele 5 unități + recapitulare inițială
 
-**122 de lecții** construite structural (id, titlu, obiective, sursaManual, toate verificate direct în manual sau, pentru recapitulare, în clasa a V-a). **86 de lecții au material**. **36 de lecții au `materiale` null**, din care 35 sunt restante reale, listate mai sus, și 1 (Unitatea I, lecția 12) e intenționat fără material, manualul are deja activitatea completă.
+**122 de lecții** construite structural (id, titlu, obiective, sursaManual, toate verificate direct în manual sau, pentru recapitulare, în clasa a V-a). **94 de lecții au material**. **28 de lecții au `materiale` null**, din care 27 sunt restante reale, listate mai sus, și 1 (Unitatea I, lecția 12) e intenționat fără material, manualul are deja activitatea completă.
 
-Cele 35 de lecții restante, pe tip de resursă:
+Cele 27 de lecții restante, pe tip de resursă:
 
-- fișă: 18
+- fișă: 10 (toate la Unitatea V)
 - prezentare: 6
 - infografic: 6
 - test (Google Forms, itemii pot fi propuși de Claude, forma finală o construiește Antoanela): 5
 
-Progres sesiune: Unitățile I, II și III complete pentru fișe automate (24 de fișe). Rămân, la aceste trei unități, prezentări, infografice (U2 lecția 8; U3 lecțiile 7, 9, 10) și teste. Infograficele se fac într-un pas dedicat, sunt SVG desenat manual.
+Progres sesiune: Unitățile I-IV complete pentru fișe automate (32 de fișe). Rămâne Unitatea V pentru fișe, apoi infograficele (U2 lecția 8; U3 lecțiile 7, 9, 10; U4 lecția 8; U5 lecția 10), într-un pas dedicat, SVG desenat manual.
