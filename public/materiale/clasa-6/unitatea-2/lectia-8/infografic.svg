@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="460" fill="#faf7f0"/>
+  <text x="450" y="42" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Etnii și jocuri de copii în spațiul românesc</text>
+  <text x="450" y="65" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 7 · similitudini interculturale</text>
+  <g>
+    <rect x="60" y="95" width="375" height="300" rx="16" fill="#ffffff" stroke="#0d9c92" stroke-width="2.5"/>
+    <rect x="60" y="95" width="375" height="46" rx="16" fill="#0d9c92"/>
+    <rect x="60" y="119" width="375" height="22" fill="#0d9c92"/>
+    <text x="247.5" y="124" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">COMUNITATEA ETNICĂ</text>
+    <text font-size="12" fill="#3a3226"><tspan x="82" y="169">• Grup de oameni care trăiesc în aceeași țară sau</tspan><tspan x="82" y="187">  localitate.</tspan></text>
+    <text font-size="12" fill="#3a3226"><tspan x="82" y="211">• Au aceeași etnie și o limbă comună.</tspan></text>
+    <text font-size="12" fill="#3a3226"><tspan x="82" y="235">• Împărtășesc tradiții, obiceiuri și credințe</tspan><tspan x="82" y="253">  religioase.</tspan></text>
+    <rect x="82" y="337" width="331" height="46" rx="10" fill="#eaf6f4"/>
+    <text x="96" y="357" font-size="11.5" fill="#3a3226">În spațiul românesc trăiesc români, maghiari,</text>
+    <text x="96" y="372" font-size="11.5" fill="#3a3226">romi, germani, ucraineni, sârbi și alții.</text>
+  </g>
+  <g>
+    <rect x="465" y="95" width="375" height="300" rx="16" fill="#ffffff" stroke="#6f5ea8" stroke-width="2.5"/>
+    <rect x="465" y="95" width="375" height="46" rx="16" fill="#6f5ea8"/>
+    <rect x="465" y="119" width="375" height="22" fill="#6f5ea8"/>
+    <text x="652.5" y="124" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">JOCURI CARE SE ASEAMĂNĂ</text>
+    <text font-size="12" fill="#3a3226"><tspan x="487" y="169">• Aceleași jocuri apar la comunități diferite, cu</tspan><tspan x="487" y="187">  alt nume și alte versuri.</tspan></text>
+    <text font-size="12" fill="#3a3226"><tspan x="487" y="211">• „O podo baruno” (joc rom) este varianta jocului</tspan><tspan x="487" y="229">  „Podul de piatră s-a dărâmat”.</tspan></text>
+    <text font-size="12" fill="#3a3226"><tspan x="487" y="253">• Multe jocuri se pot juca fără cuvinte, deci trec</tspan><tspan x="487" y="271">  ușor de la o etnie la alta.</tspan></text>
+    <rect x="487" y="337" width="331" height="46" rx="10" fill="#f1ecfa"/>
+    <text x="501" y="357" font-size="11.5" fill="#3a3226">Interferențele culturale îmbogățesc cultura</text>
+    <text x="501" y="372" font-size="11.5" fill="#3a3226">populară a tuturor popoarelor.</text>
+  </g>
+  <text x="450" y="440" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 7, pp. 58-59 (Repere)</text>
+</svg>

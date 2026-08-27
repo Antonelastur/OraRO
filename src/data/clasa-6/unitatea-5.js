@@ -218,7 +218,7 @@ export const unitatea5 = {
         test: null,
         fisa: null,
         joc: null,
-        infografic: null,
+        infografic: { fisier: '/materiale/clasa-6/unitatea-5/lectia-10/infografic.svg', titlu: 'Limba română în Europa' },
         schema: null,
         altele: [],
       },

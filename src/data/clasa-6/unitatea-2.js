@@ -177,7 +177,7 @@ export const unitatea2 = {
         test: null,
         fisa: null,
         joc: null,
-        infografic: null,
+        infografic: { fisier: '/materiale/clasa-6/unitatea-2/lectia-8/infografic.svg', titlu: 'Etnii și jocuri de copii' },
         schema: null,
         altele: [],
       },

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="470" fill="#faf7f0"/>
+  <text x="450" y="42" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Limba română în Europa și în lume</text>
+  <text x="450" y="65" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V, Lecția 9 · comunitatea lingvistică</text>
+  <g>
+    <rect x="60" y="95" width="240" height="310" rx="16" fill="#ffffff" stroke="#0d9c92" stroke-width="2.5"/>
+    <rect x="60" y="95" width="240" height="46" rx="16" fill="#0d9c92"/>
+    <rect x="60" y="119" width="240" height="22" fill="#0d9c92"/>
+    <text x="180.0" y="124" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">CIFRE ȘI STATUT</text>
+    <text font-size="12" fill="#3a3226"><tspan x="82" y="169">• Peste 24 de milioane de</tspan><tspan x="82" y="187">  vorbitori în întreaga lume.</tspan></text>
+    <text font-size="12" fill="#3a3226"><tspan x="82" y="211">• Limbă oficială în România,</tspan><tspan x="82" y="229">  Republica Moldova și în</tspan><tspan x="82" y="247">  Voivodina (Serbia).</tspan></text>
+    <text font-size="12" fill="#3a3226"><tspan x="82" y="271">• Una dintre limbile oficiale</tspan><tspan x="82" y="289">  ale Uniunii Europene.</tspan></text>
+    <rect x="82" y="347" width="196" height="46" rx="10" fill="#eaf6f4"/>
+    <text x="96" y="367" font-size="11.5" fill="#3a3226">Ziua Limbii Române: 31</text>
+    <text x="96" y="382" font-size="11.5" fill="#3a3226">august, din 2013.</text>
+  </g>
+  <g>
+    <rect x="330" y="95" width="240" height="310" rx="16" fill="#ffffff" stroke="#6f5ea8" stroke-width="2.5"/>
+    <rect x="330" y="95" width="240" height="46" rx="16" fill="#6f5ea8"/>
+    <rect x="330" y="119" width="240" height="22" fill="#6f5ea8"/>
+    <text x="450.0" y="124" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">COMUNITĂȚI ÎN EUROPA</text>
+    <text font-size="12" fill="#3a3226"><tspan x="352" y="169">• Ucraina (Cernăuți, Bugeac,</tspan><tspan x="352" y="187">  Transcarpatia), Serbia (Valea</tspan><tspan x="352" y="205">  Timocului).</tspan></text>
+    <text font-size="12" fill="#3a3226"><tspan x="352" y="229">• Ungaria (Gyula), Bulgaria,</tspan><tspan x="352" y="247">  Cipru, Italia, Spania.</tspan></text>
+    <text font-size="12" fill="#3a3226"><tspan x="352" y="271">• Și în Austria, Belgia,</tspan><tspan x="352" y="289">  Germania, Irlanda,</tspan><tspan x="352" y="307">  Portugalia.</tspan></text>
+  </g>
+  <g>
+    <rect x="600" y="95" width="240" height="310" rx="16" fill="#ffffff" stroke="#c2694a" stroke-width="2.5"/>
+    <rect x="600" y="95" width="240" height="46" rx="16" fill="#c2694a"/>
+    <rect x="600" y="119" width="240" height="22" fill="#c2694a"/>
+    <text x="720.0" y="124" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">DIASPORA, MAI DEPARTE</text>
+    <text font-size="12" fill="#3a3226"><tspan x="622" y="169">• În afara Europei: Israel,</tspan><tspan x="622" y="187">  SUA, Canada, Australia, Noua</tspan><tspan x="622" y="205">  Zeelandă.</tspan></text>
+    <text font-size="12" fill="#3a3226"><tspan x="622" y="229">• „Diaspora” vine din greacă:</tspan><tspan x="622" y="247">  dia „prin” + spora „a</tspan><tspan x="622" y="265">  împrăștia”.</tspan></text>
+    <text font-size="12" fill="#3a3226"><tspan x="622" y="289">• Elevii de origine română pot</tspan><tspan x="622" y="307">  urma cursul „Limbă, cultură</tspan><tspan x="622" y="325">  și civilizație românească”.</tspan></text>
+  </g>
+  <text x="450" y="450" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 9, pp. 172-174 (Repere)</text>
+</svg>

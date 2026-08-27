@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="460" fill="#faf7f0"/>
+  <text x="450" y="42" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Buletinul meteorologic și știrea</text>
+  <text x="450" y="65" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 5 · texte nonliterare multimodale</text>
+  <g>
+    <rect x="60" y="95" width="375" height="300" rx="16" fill="#ffffff" stroke="#0d9c92" stroke-width="2.5"/>
+    <rect x="60" y="95" width="375" height="46" rx="16" fill="#0d9c92"/>
+    <rect x="60" y="119" width="375" height="22" fill="#0d9c92"/>
+    <text x="247.5" y="124" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">BULETINUL METEOROLOGIC</text>
+    <text font-size="12" fill="#3a3226"><tspan x="82" y="169">• Anunță vremea pe baza unor măsurători.</tspan></text>
+    <text font-size="12" fill="#3a3226"><tspan x="82" y="193">• Presiunea aerului – barometru.</tspan></text>
+    <text font-size="12" fill="#3a3226"><tspan x="82" y="217">• Temperatura – termometru.</tspan></text>
+    <text font-size="12" fill="#3a3226"><tspan x="82" y="241">• Vântul (viteză, direcție) – giruetă.</tspan></text>
+    <text font-size="12" fill="#3a3226"><tspan x="82" y="265">• Precipitațiile – pluviometru.</tspan></text>
+    <rect x="82" y="337" width="331" height="46" rx="10" fill="#eaf6f4"/>
+    <text x="96" y="357" font-size="11.5" fill="#3a3226">Termeni: aversă, burniță, lapoviță, ninsoare,</text>
+    <text x="96" y="372" font-size="11.5" fill="#3a3226">furtună, uragan.</text>
+  </g>
+  <g>
+    <rect x="465" y="95" width="375" height="300" rx="16" fill="#ffffff" stroke="#6f5ea8" stroke-width="2.5"/>
+    <rect x="465" y="95" width="375" height="46" rx="16" fill="#6f5ea8"/>
+    <rect x="465" y="119" width="375" height="22" fill="#6f5ea8"/>
+    <text x="652.5" y="124" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">ȘTIREA</text>
+    <text font-size="12" fill="#3a3226"><tspan x="487" y="169">• Articol scurt care informează despre un fapt real.</tspan></text>
+    <text font-size="12" fill="#3a3226"><tspan x="487" y="193">• Răspunde la: cine? ce? unde? când? de ce?</tspan></text>
+    <text font-size="12" fill="#3a3226"><tspan x="487" y="217">• Titlul atrage atenția; poate fi nominal, fără</tspan><tspan x="487" y="235">  predicat.</tspan></text>
+    <text font-size="12" fill="#3a3226"><tspan x="487" y="259">• Deasupra titlului poate sta un supratitlu.</tspan></text>
+    <rect x="487" y="337" width="331" height="46" rx="10" fill="#f1ecfa"/>
+    <text x="501" y="357" font-size="11.5" fill="#3a3226">E multimodală când are și fotografii, grafice sau</text>
+    <text x="501" y="372" font-size="11.5" fill="#3a3226">secvențe filmate.</text>
+  </g>
+  <text x="450" y="440" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 5, pp. 92-94 (Repere)</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="460" fill="#faf7f0"/>
+  <text x="450" y="42" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Înțelepciunea proverbelor. Similitudini interculturale</text>
+  <text x="450" y="65" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 6 · valori ale culturii populare</text>
+  <g>
+    <rect x="60" y="95" width="375" height="300" rx="16" fill="#ffffff" stroke="#0d9c92" stroke-width="2.5"/>
+    <rect x="60" y="95" width="375" height="46" rx="16" fill="#0d9c92"/>
+    <rect x="60" y="119" width="375" height="22" fill="#0d9c92"/>
+    <text x="247.5" y="124" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">CE ESTE PROVERBUL</text>
+    <text font-size="12" fill="#3a3226"><tspan x="82" y="169">• O zicere scurtă din înțelepciunea populară.</tspan></text>
+    <text font-size="12" fill="#3a3226"><tspan x="82" y="193">• Transmite o morală sau o valoare de viață.</tspan></text>
+    <text font-size="12" fill="#3a3226"><tspan x="82" y="217">• Se grupează după teme: animale și plante, părți</tspan><tspan x="82" y="235">  ale corpului, meserii, fenomene ale naturii,</tspan><tspan x="82" y="253">  anotimpuri.</tspan></text>
+    <rect x="82" y="337" width="331" height="46" rx="10" fill="#eaf6f4"/>
+    <text x="96" y="357" font-size="11.5" fill="#3a3226">„Cine seamănă vânt culege furtună.” · „Zidurile</text>
+    <text x="96" y="372" font-size="11.5" fill="#3a3226">au urechi.”</text>
+  </g>
+  <g>
+    <rect x="465" y="95" width="375" height="300" rx="16" fill="#ffffff" stroke="#6f5ea8" stroke-width="2.5"/>
+    <rect x="465" y="95" width="375" height="46" rx="16" fill="#6f5ea8"/>
+    <rect x="465" y="119" width="375" height="22" fill="#6f5ea8"/>
+    <text x="652.5" y="124" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">ACELEAȘI IDEI, CULTURI DIFERITE</text>
+    <text font-size="12" fill="#3a3226"><tspan x="487" y="169">• Proverbe din culturi diferite spun același lucru</tspan><tspan x="487" y="187">  în alte cuvinte.</tspan></text>
+    <text font-size="12" fill="#3a3226"><tspan x="487" y="211">• Pieter Bruegel cel Bătrân a pictat peste 100 de</tspan><tspan x="487" y="229">  proverbe flamande (1559).</tspan></text>
+    <text font-size="12" fill="#3a3226"><tspan x="487" y="253">• La Fontaine reia moralele lui Esop, la sute de ani</tspan><tspan x="487" y="271">  distanță.</tspan></text>
+    <rect x="487" y="337" width="331" height="46" rx="10" fill="#f1ecfa"/>
+    <text x="501" y="357" font-size="11.5" fill="#3a3226">„Peștele cel mare îl înghite pe cel mic” apare în</text>
+    <text x="501" y="372" font-size="11.5" fill="#3a3226">multe limbi.</text>
+  </g>
+  <text x="450" y="440" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 6, pp. 132-133 (Repere)</text>
+</svg>

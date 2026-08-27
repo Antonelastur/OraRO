@@ -211,7 +211,7 @@ export const unitatea4 = {
         test: null,
         fisa: null,
         joc: null,
-        infografic: null,
+        infografic: { fisier: '/materiale/clasa-6/unitatea-4/lectia-8/infografic.svg', titlu: 'Înțelepciunea proverbelor' },
         schema: null,
         altele: [],
       },
