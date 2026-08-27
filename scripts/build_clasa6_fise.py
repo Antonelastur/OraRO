@@ -166,14 +166,14 @@ def fisa_semnificatii(out, subtitlu, intrebare_opinie, sursa):
     ], sursa)
 
 
-def fisa_text_auxiliar(out, subtitlu, titlu_text, sursa):
+def fisa_text_auxiliar(out, subtitlu, titlu_text, sursa, texte_baza="textul de bază al unității"):
     sheet(out, f"Fișă de lucru — Text auxiliar: {titlu_text}", subtitlu, [
         {"t": "table", "n": 1, "title": "Jurnalul cu dublă intrare", "rows": 5,
          "cols": ["Fragment din text care mi-a atras atenția", "Ce gândesc / ce simt despre el"],
          "widths": [255, 255]},
-        {"t": "lines", "n": 2, "title": "Asemănări cu textele de bază", "weight": 3,
-         "prompt": "Notează două asemănări între acest text și textele de bază ale unității (Un păianjen care se crede Spiderman, Indescriptibil)."},
-        {"t": "lines", "n": 3, "title": "Deosebiri față de textele de bază", "weight": 3,
+        {"t": "lines", "n": 2, "title": "Asemănări cu textul de bază", "weight": 3,
+         "prompt": f"Notează două asemănări între acest text și {texte_baza}."},
+        {"t": "lines", "n": 3, "title": "Deosebiri față de textul de bază", "weight": 3,
          "prompt": "Notează două deosebiri: de temă, de ton, de tip de text sau de perspectivă."},
         {"t": "lines", "n": 4, "title": "Sugestie de lectură", "weight": 2,
          "prompt": "Recomandă acest text unui coleg, în 2-3 rânduri: de ce merită citit?"},
@@ -369,7 +369,8 @@ if __name__ == "__main__":
                       "Art 6, Lecția 7, p. 20")
     fisa_text_auxiliar("unitatea-1/lectia-9/fisa.pdf", "Unitatea I, Lecția 9",
                        "Lectura în trei, în doi, de unul singur de Rodica Zane",
-                       "Art 6, Lecția 9, „Noi pagini, alte idei”, pp. 22-23")
+                       "Art 6, Lecția 9, „Noi pagini, alte idei”, pp. 22-23",
+                       texte_baza="textele de bază ale unității (Un păianjen care se crede Spiderman, Indescriptibil)")
     fisa_legenda("unitatea-1/lectia-10/fisa.pdf",
                  "Unitatea I, Lecția 10 · Legenda păianjenului și a albinei", "Art 6, Lecția 10, pp. 24-25")
     fisa_omonime("unitatea-1/lectia-15/fisa.pdf",
@@ -404,7 +405,8 @@ if __name__ == "__main__":
                       "Art 6, Lecția 5, pp. 54-55")
     fisa_text_auxiliar("unitatea-2/lectia-7/fisa.pdf", "Unitatea II, Lecția 7",
                        "Micuțul Nicolas de Sempé și Goscinny",
-                       "Art 6, Lecția 6, „Noi pagini, alte idei”, pp. 56-57")
+                       "Art 6, Lecția 6, „Noi pagini, alte idei”, pp. 56-57",
+                       texte_baza="textul de bază al unității (Oracolul de Mircea Cărtărescu)")
     fisa_proiect_grila("unitatea-2/lectia-9/fisa.pdf", "Unitatea II, Lecția 9 · Proiect de grup",
                        "Prietenia în filme",
                        [("Alegerea filmului e potrivită și motivată", "2p"),
