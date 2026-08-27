@@ -44,3 +44,6 @@ scripts/__pycache__/
 # Text derivat din surse protejate (conversii graphify)
 graphify-out/converted/
 graphify-out/_*.txt
+
+.vercel
+.env*
