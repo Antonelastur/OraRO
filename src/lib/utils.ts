@@ -6,8 +6,8 @@ export function cn(...inputs: ClassValue[]) {
 }
 
 // Datele lecțiilor țin căi locale ca '/materiale/...', absolute față de
-// domeniu. Site-ul e servit sub un subfolder (ex. /OraRO/ pe GitHub Pages),
-// așa că orice fișier local trebuie prefixat cu baza reală de la build.
+// rădăcina site-ului. Pe Vercel baza e '/', deci prefixul e gol; funcția
+// rămâne ca să meargă și dacă site-ul e mutat vreodată sub un subfolder.
 export function caleMaterial(fisier: string) {
   return import.meta.env.BASE_URL.replace(/\/$/, '') + fisier
 }

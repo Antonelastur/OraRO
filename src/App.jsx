@@ -10,7 +10,7 @@ import LectiePage from './pages/LectiePage.jsx'
 
 function App() {
   return (
-    <BrowserRouter basename="/OraRO">
+    <BrowserRouter>
       <Routes>
         <Route element={<AppShell />}>
           <Route path="/" element={<DashboardPage />} />
