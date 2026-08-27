@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="380" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Circumstanțialul. Prepoziția</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 14 · parte secundară care determină verbul</text>
+
+  <rect x="300" y="88" width="300" height="48" rx="14" fill="#6f5ea8"/>
+  <text x="450" y="118" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">VERB + CIRCUMSTANȚIAL</text>
+
+  <path d="M 450 136 L 450 165" stroke="#b8944f" stroke-width="2.5" fill="none" marker-end="url(#arrowD)"/>
+  <defs>
+    <marker id="arrowD" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#b8944f"/>
+    </marker>
+  </defs>
+
+  <rect x="180" y="170" width="540" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="450" y="198" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">Ce arată</text>
+  <text font-size="12" fill="#3a3226" text-anchor="middle">
+    <tspan x="450" y="222">Împrejurările desfășurării acțiunii: loc, timp, mod — nu obiectul ei.</tspan>
+    <tspan x="450" y="252" font-weight="700">Întrebări:</tspan>
+    <tspan x="450" y="272">unde? pe unde? încotro? când? cum? în ce fel? etc.</tspan>
+    <tspan x="450" y="300" font-style="italic">Alex aleargă cu viteză pe lângă bănci.  Luiza fuge după el.</tspan>
+  </text>
+
+  <rect x="180" y="330" width="540" height="0" fill="none"/>
+  <text x="450" y="360" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 14, pp. 76-77, partea 2/2 · prepoziția leagă adesea circumstanțialul de verb</text>
+</svg>

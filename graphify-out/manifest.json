@@ -1,0 +1,590 @@
+{
+  ".claude/launch.json": {
+    "mtime": 1786914708.317809,
+    "seen": 1787735288.4661171,
+    "ast_hash": "24cd9e999da969d0d04ffce469c43f5e",
+    "semantic_hash": "24cd9e999da969d0d04ffce469c43f5e"
+  },
+  ".claude/settings.json": {
+    "mtime": 1787729965.780584,
+    "seen": 1787735288.4661171,
+    "ast_hash": "d7e28dbe24db73064b085e0a42a5d269",
+    "semantic_hash": "d7e28dbe24db73064b085e0a42a5d269"
+  },
+  ".oxlintrc.json": {
+    "mtime": 1786914414.6302266,
+    "seen": 1787735288.4661171,
+    "ast_hash": "5e6e3cea3e89137071c142dd7835b0ef",
+    "semantic_hash": "5e6e3cea3e89137071c142dd7835b0ef"
+  },
+  "package.json": {
+    "mtime": 1787124013.475078,
+    "seen": 1787735288.4661171,
+    "ast_hash": "98b75b01b48edc39a350d43b27f05ee5",
+    "semantic_hash": "98b75b01b48edc39a350d43b27f05ee5"
+  },
+  "scripts/build_lectia2_prezentare.py": {
+    "mtime": 1786952378.1016226,
+    "seen": 1787735288.4661171,
+    "ast_hash": "162d89b7c6db0f5f45e866bca0eb08d1",
+    "semantic_hash": "162d89b7c6db0f5f45e866bca0eb08d1"
+  },
+  "scripts/build_recapitulare_initiala_lectia1_joc.py": {
+    "mtime": 1787006838.229369,
+    "seen": 1787735288.4661171,
+    "ast_hash": "06ba8346db2e085511c936270c4080fa",
+    "semantic_hash": "06ba8346db2e085511c936270c4080fa"
+  },
+  "scripts/build_recapitulare_initiala_lectia2_fisa.py": {
+    "mtime": 1786990343.0143178,
+    "seen": 1787735288.4661171,
+    "ast_hash": "f423e58a43e5142fe7172904cfa74981",
+    "semantic_hash": "f423e58a43e5142fe7172904cfa74981"
+  },
+  "src/App.jsx": {
+    "mtime": 1787124290.3086433,
+    "seen": 1787735288.4661171,
+    "ast_hash": "31eae85a0d95f4d78bf256fdb814ca69",
+    "semantic_hash": "31eae85a0d95f4d78bf256fdb814ca69"
+  },
+  "src/components/AppShell.tsx": {
+    "mtime": 1787124301.6751416,
+    "seen": 1787735288.4661171,
+    "ast_hash": "ddec0e99d64c9a469a04887578e3c570",
+    "semantic_hash": "ddec0e99d64c9a469a04887578e3c570"
+  },
+  "src/components/Breadcrumb.tsx": {
+    "mtime": 1787124192.1459746,
+    "seen": 1787735288.4661171,
+    "ast_hash": "de04f0d2eeaffb049488780cd4537fc1",
+    "semantic_hash": "de04f0d2eeaffb049488780cd4537fc1"
+  },
+  "src/components/Fisa.jsx": {
+    "mtime": 1787126677.3212776,
+    "seen": 1787735288.4661171,
+    "ast_hash": "aa04d598798f08654eb405edc7d1e042",
+    "semantic_hash": "aa04d598798f08654eb405edc7d1e042"
+  },
+  "src/components/Infografic.jsx": {
+    "mtime": 1787126680.5998833,
+    "seen": 1787735288.4661171,
+    "ast_hash": "22192f52e5d70a7c21766c085fdf44bd",
+    "semantic_hash": "22192f52e5d70a7c21766c085fdf44bd"
+  },
+  "src/components/Joc/index.jsx": {
+    "mtime": 1787126692.9870608,
+    "seen": 1787735288.4661171,
+    "ast_hash": "f7e0e14f9d99f06d4391f53617c7aad0",
+    "semantic_hash": "f7e0e14f9d99f06d4391f53617c7aad0"
+  },
+  "src/components/MaterialChips.tsx": {
+    "mtime": 1787124186.9734893,
+    "seen": 1787735288.4661171,
+    "ast_hash": "8ac32ceebe97e36029eb7d22a2fc9fa2",
+    "semantic_hash": "8ac32ceebe97e36029eb7d22a2fc9fa2"
+  },
+  "src/components/Prezentare.jsx": {
+    "mtime": 1787126674.5410678,
+    "seen": 1787735288.4661171,
+    "ast_hash": "005d5f926ff1740c1ffdcd437f23c7aa",
+    "semantic_hash": "005d5f926ff1740c1ffdcd437f23c7aa"
+  },
+  "src/components/Schema.jsx": {
+    "mtime": 1787126683.8990266,
+    "seen": 1787735288.4661171,
+    "ast_hash": "972dad2025ba4dcc80fd532d302e87cf",
+    "semantic_hash": "972dad2025ba4dcc80fd532d302e87cf"
+  },
+  "src/components/SearchPalette.tsx": {
+    "mtime": 1787124227.8932467,
+    "seen": 1787735288.4661171,
+    "ast_hash": "e0b0fb09036db2b088cce0d580ce764f",
+    "semantic_hash": "e0b0fb09036db2b088cce0d580ce764f"
+  },
+  "src/components/Sidebar.tsx": {
+    "mtime": 1787125241.1028101,
+    "seen": 1787735288.4661171,
+    "ast_hash": "771a3bf4371b902d452254c4e2462fcc",
+    "semantic_hash": "771a3bf4371b902d452254c4e2462fcc"
+  },
+  "src/components/Test.jsx": {
+    "mtime": 1787126685.8163693,
+    "seen": 1787735288.4661171,
+    "ast_hash": "01fa025a660adef84a0f5e8da4277815",
+    "semantic_hash": "01fa025a660adef84a0f5e8da4277815"
+  },
+  "src/components/Video.jsx": {
+    "mtime": 1787124337.3081334,
+    "seen": 1787735288.4661171,
+    "ast_hash": "ed75238045121ac310d7a1a25aa8e0e7",
+    "semantic_hash": "ed75238045121ac310d7a1a25aa8e0e7"
+  },
+  "src/components/materialMeta.ts": {
+    "mtime": 1787124159.5607536,
+    "seen": 1787735288.4661171,
+    "ast_hash": "1beeb14bc8569409beb2fd205478da4f",
+    "semantic_hash": "1beeb14bc8569409beb2fd205478da4f"
+  },
+  "src/components/ui/button.tsx": {
+    "mtime": 1787124103.6288404,
+    "seen": 1787735288.4661171,
+    "ast_hash": "85f76ec1f1ae59eb9b5c26169881b403",
+    "semantic_hash": "85f76ec1f1ae59eb9b5c26169881b403"
+  },
+  "src/components/ui/command.tsx": {
+    "mtime": 1787124129.482111,
+    "seen": 1787735288.4661171,
+    "ast_hash": "8b0ab169dfc85ef568933a0adce8acbe",
+    "semantic_hash": "8b0ab169dfc85ef568933a0adce8acbe"
+  },
+  "src/components/ui/sheet.tsx": {
+    "mtime": 1787124118.0355842,
+    "seen": 1787735288.4661171,
+    "ast_hash": "819c631e985f3d054e7ea88dfbaca385",
+    "semantic_hash": "819c631e985f3d054e7ea88dfbaca385"
+  },
+  "src/components/ui/switch.tsx": {
+    "mtime": 1787124106.2862234,
+    "seen": 1787735288.4661171,
+    "ast_hash": "caf6f695f8d79c11be50103832822aae",
+    "semantic_hash": "caf6f695f8d79c11be50103832822aae"
+  },
+  "src/components/ui/tooltip.tsx": {
+    "mtime": 1787124108.4812772,
+    "seen": 1787735288.4661171,
+    "ast_hash": "a8360ac5c85c749213144990748d0efc",
+    "semantic_hash": "a8360ac5c85c749213144990748d0efc"
+  },
+  "src/contexts/ThemeContext.tsx": {
+    "mtime": 1787124090.5843766,
+    "seen": 1787735288.4661171,
+    "ast_hash": "e5e4901781f1cd18669e2f7bcbba8805",
+    "semantic_hash": "e5e4901781f1cd18669e2f7bcbba8805"
+  },
+  "src/data/clasa-5/index.js": {
+    "mtime": 1786992556.5537016,
+    "seen": 1787735288.4661171,
+    "ast_hash": "f379d7cfeccafa4045ea0c81039a35e9",
+    "semantic_hash": "f379d7cfeccafa4045ea0c81039a35e9"
+  },
+  "src/data/clasa-5/recapitulare-initiala.js": {
+    "mtime": 1787138362.198263,
+    "seen": 1787735288.4661171,
+    "ast_hash": "610c6b0c4a1f04145fba0e83d5121e79",
+    "semantic_hash": "610c6b0c4a1f04145fba0e83d5121e79"
+  },
+  "src/data/clasa-5/unitatea-1.js": {
+    "mtime": 1787140470.3395526,
+    "seen": 1787735288.4661171,
+    "ast_hash": "807e9e807ba866203adecdd5b59a1285",
+    "semantic_hash": "807e9e807ba866203adecdd5b59a1285"
+  },
+  "src/data/clasa-8/index.js": {
+    "mtime": 1787732325.2669978,
+    "seen": 1787735288.4661171,
+    "ast_hash": "92742328a1e3506615c0a828c255b08f",
+    "semantic_hash": "92742328a1e3506615c0a828c255b08f"
+  },
+  "src/data/clase.js": {
+    "mtime": 1786914568.7498908,
+    "seen": 1787735288.4661171,
+    "ast_hash": "2e6828643febaf31a4c752e411222882",
+    "semantic_hash": "2e6828643febaf31a4c752e411222882"
+  },
+  "src/lib/lectii.ts": {
+    "mtime": 1787124157.3683636,
+    "seen": 1787735288.4661171,
+    "ast_hash": "555b21cd7abe37f48a26f87549306220",
+    "semantic_hash": "555b21cd7abe37f48a26f87549306220"
+  },
+  "src/lib/utils.ts": {
+    "mtime": 1787126668.8788779,
+    "seen": 1787735288.4661171,
+    "ast_hash": "af95b2ae7aa8e05784220b9bb9a45dd3",
+    "semantic_hash": "af95b2ae7aa8e05784220b9bb9a45dd3"
+  },
+  "src/main.jsx": {
+    "mtime": 1787124291.264741,
+    "seen": 1787735288.4661171,
+    "ast_hash": "1ece3c3eecfbf57b14e26e1cd4573f93",
+    "semantic_hash": "1ece3c3eecfbf57b14e26e1cd4573f93"
+  },
+  "src/pages/BibliotecaPage.tsx": {
+    "mtime": 1787124282.0416505,
+    "seen": 1787735288.4661171,
+    "ast_hash": "c40187aa6afdd5c3ee425181898df865",
+    "semantic_hash": "c40187aa6afdd5c3ee425181898df865"
+  },
+  "src/pages/ClasaPage.jsx": {
+    "mtime": 1787124311.5951402,
+    "seen": 1787735288.4661171,
+    "ast_hash": "8012c4cc1984facb8756478d3cb5993b",
+    "semantic_hash": "8012c4cc1984facb8756478d3cb5993b"
+  },
+  "src/pages/ClasePage.tsx": {
+    "mtime": 1787124266.8350005,
+    "seen": 1787735288.4661171,
+    "ast_hash": "b7d818dd56a0ef8eeb80bcfacfa5b1e4",
+    "semantic_hash": "b7d818dd56a0ef8eeb80bcfacfa5b1e4"
+  },
+  "src/pages/DashboardPage.tsx": {
+    "mtime": 1787125234.3351183,
+    "seen": 1787735288.4661171,
+    "ast_hash": "816b1fc3e87984167ab9cc6c925e89f1",
+    "semantic_hash": "816b1fc3e87984167ab9cc6c925e89f1"
+  },
+  "src/pages/LectiePage.jsx": {
+    "mtime": 1787124325.6080575,
+    "seen": 1787735288.4661171,
+    "ast_hash": "e03aeaca9b11e2276dc3d5382f184cff",
+    "semantic_hash": "e03aeaca9b11e2276dc3d5382f184cff"
+  },
+  "src/pages/SetariPage.tsx": {
+    "mtime": 1787124270.7164736,
+    "seen": 1787735288.4661171,
+    "ast_hash": "1f8a7772711ab34bfd5ba3a41e23bd75",
+    "semantic_hash": "1f8a7772711ab34bfd5ba3a41e23bd75"
+  },
+  "src/pages/UnitatePage.jsx": {
+    "mtime": 1787124318.6627584,
+    "seen": 1787735288.4661171,
+    "ast_hash": "2a80fa3fa60c69f785340c25de133db0",
+    "semantic_hash": "2a80fa3fa60c69f785340c25de133db0"
+  },
+  "src/types.ts": {
+    "mtime": 1787126054.75303,
+    "seen": 1787735288.4661171,
+    "ast_hash": "c33682b1e895aa3de1e0006630bb96ba",
+    "semantic_hash": "c33682b1e895aa3de1e0006630bb96ba"
+  },
+  "tsconfig.json": {
+    "mtime": 1787124023.2833364,
+    "seen": 1787735288.4661171,
+    "ast_hash": "36bf887ce81212f75d31738d7f30eea9",
+    "semantic_hash": "36bf887ce81212f75d31738d7f30eea9"
+  },
+  "vite.config.js": {
+    "mtime": 1787124017.293031,
+    "seen": 1787735288.4661171,
+    "ast_hash": "4d36808632c6aa75334e75961a4a4b19",
+    "semantic_hash": "4d36808632c6aa75334e75961a4a4b19"
+  },
+  ".claude/CLAUDE.md": {
+    "mtime": 1787729965.7456057,
+    "seen": 1787735288.4661171,
+    "ast_hash": "c232166e6492ba1ed955030b16979b05",
+    "semantic_hash": "c232166e6492ba1ed955030b16979b05"
+  },
+  ".claude/skills/graphify/SKILL.md": {
+    "mtime": 1787729965.7245975,
+    "seen": 1787735288.4661171,
+    "ast_hash": "2e223eed9c5bb9ec3999615806cf0681",
+    "semantic_hash": "2e223eed9c5bb9ec3999615806cf0681"
+  },
+  ".claude/skills/graphify/references/add-watch.md": {
+    "mtime": 1787729897.7489083,
+    "seen": 1787735288.4661171,
+    "ast_hash": "d59d027fe449f06aa03905a01184e779",
+    "semantic_hash": "d59d027fe449f06aa03905a01184e779"
+  },
+  ".claude/skills/graphify/references/exports.md": {
+    "mtime": 1787729897.7526546,
+    "seen": 1787735288.4661171,
+    "ast_hash": "9da2a2152e60a22f07f05fed5158f287",
+    "semantic_hash": "9da2a2152e60a22f07f05fed5158f287"
+  },
+  ".claude/skills/graphify/references/extraction-spec.md": {
+    "mtime": 1787729897.7752051,
+    "seen": 1787735288.4661171,
+    "ast_hash": "42fef56a01698118f7fd722acdadea34",
+    "semantic_hash": "42fef56a01698118f7fd722acdadea34"
+  },
+  ".claude/skills/graphify/references/github-and-merge.md": {
+    "mtime": 1787729897.8262105,
+    "seen": 1787735288.4661171,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  ".claude/skills/graphify/references/hooks.md": {
+    "mtime": 1787729897.8272142,
+    "seen": 1787735288.4661171,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  ".claude/skills/graphify/references/query.md": {
+    "mtime": 1787729897.8625376,
+    "seen": 1787735288.4661171,
+    "ast_hash": "3c46f8ad006874260614ed8657d02307",
+    "semantic_hash": "3c46f8ad006874260614ed8657d02307"
+  },
+  ".claude/skills/graphify/references/transcribe.md": {
+    "mtime": 1787729897.8625376,
+    "seen": 1787735288.4661171,
+    "ast_hash": "67b6a5fa6c0974e18f60db9f8932fbd8",
+    "semantic_hash": "67b6a5fa6c0974e18f60db9f8932fbd8"
+  },
+  ".claude/skills/graphify/references/update.md": {
+    "mtime": 1787729897.8712704,
+    "seen": 1787735288.4661171,
+    "ast_hash": "9378bd03d56baaf78bd738ab3848f142",
+    "semantic_hash": "9378bd03d56baaf78bd738ab3848f142"
+  },
+  ".claude/skills/oraro-materiale-sprijin/SKILL.md": {
+    "mtime": 1787076412.598785,
+    "seen": 1787735288.4661171,
+    "ast_hash": "d22cc4e12614eb652333fa3fb081591e",
+    "semantic_hash": "d22cc4e12614eb652333fa3fb081591e"
+  },
+  ".claude/skills/oraro-plan-lectie/SKILL.md": {
+    "mtime": 1787076360.4908605,
+    "seen": 1787735288.4661171,
+    "ast_hash": "e6fff262318f67017b1b0deed1221d65",
+    "semantic_hash": "e6fff262318f67017b1b0deed1221d65"
+  },
+  ".claude/skills/oraro-verificare-surse/SKILL.md": {
+    "mtime": 1787076385.4510348,
+    "seen": 1787735288.4661171,
+    "ast_hash": "484ef346f7ddb093ac35b7f5d9556a06",
+    "semantic_hash": "484ef346f7ddb093ac35b7f5d9556a06"
+  },
+  ".github/workflows/deploy.yml": {
+    "mtime": 1787083323.066432,
+    "seen": 1787735288.4661171,
+    "ast_hash": "45f6a958e711af874928170bfca8b60f",
+    "semantic_hash": "45f6a958e711af874928170bfca8b60f"
+  },
+  "CLAUDE.md": {
+    "mtime": 1787735908.6540318,
+    "seen": 1787738170.4379756,
+    "ast_hash": "29b4d3b2ea912c18aed533fb1d7d47a5",
+    "semantic_hash": "29b4d3b2ea912c18aed533fb1d7d47a5"
+  },
+  "README.md": {
+    "mtime": 1786914691.254279,
+    "seen": 1787735288.4661171,
+    "ast_hash": "f8ff7caa2d67d037660631ea9ca05f7d",
+    "semantic_hash": "f8ff7caa2d67d037660631ea9ca05f7d"
+  },
+  "SKILL.md": {
+    "mtime": 1787735917.506702,
+    "seen": 1787738170.4379756,
+    "ast_hash": "c4ed176e965540b26df13d5bfe85f24d",
+    "semantic_hash": "c4ed176e965540b26df13d5bfe85f24d"
+  },
+  "graphify-out/converted/6_planificare calendaristica_d9c25654.md": {
+    "mtime": 1787734374.8649626,
+    "seen": 1787735288.4661171,
+    "ast_hash": "53290a52be2329f6398824cb58cfb639",
+    "semantic_hash": "53290a52be2329f6398824cb58cfb639"
+  },
+  "graphify-out/converted/6_proiectare pe unitati_6b922ee1.md": {
+    "mtime": 1787734375.7031572,
+    "seen": 1787735288.4661171,
+    "ast_hash": "b3973beb950035c60fd40ee84ae6b7d6",
+    "semantic_hash": "b3973beb950035c60fd40ee84ae6b7d6"
+  },
+  "graphify-out/converted/7_planificare calendaristica_179c6a6b.md": {
+    "mtime": 1787734376.0927782,
+    "seen": 1787735288.4661171,
+    "ast_hash": "dabc66bedcb6cbdcfb5638f80e5eae61",
+    "semantic_hash": "dabc66bedcb6cbdcfb5638f80e5eae61"
+  },
+  "graphify-out/converted/7_proiectare pe unitati_d5271638.md": {
+    "mtime": 1787734377.0066624,
+    "seen": 1787735288.4661171,
+    "ast_hash": "8411dbb48e8366c717fdf9753da0185b",
+    "semantic_hash": "8411dbb48e8366c717fdf9753da0185b"
+  },
+  "graphify-out/converted/Rol_fbde2bd8.md": {
+    "mtime": 1787734377.5811255,
+    "seen": 1787735288.4661171,
+    "ast_hash": "f785639aaa95bf0b1b17788ba694b2ff",
+    "semantic_hash": "f785639aaa95bf0b1b17788ba694b2ff"
+  },
+  "index.html": {
+    "mtime": 1787124049.306193,
+    "seen": 1787735288.4661171,
+    "ast_hash": "4b29e4109c9ffeff4e9dffef0685083c",
+    "semantic_hash": "4b29e4109c9ffeff4e9dffef0685083c"
+  },
+  "public/404.html": {
+    "mtime": 1787083309.463286,
+    "seen": 1787735288.4661171,
+    "ast_hash": "6660cc05f02bd051dabab0a2c5793f84",
+    "semantic_hash": "6660cc05f02bd051dabab0a2c5793f84"
+  },
+  "Clasa a VI-a/6. Ghidul profesorului.pdf": {
+    "mtime": 1767701734.9729967,
+    "seen": 1787735288.4661171,
+    "ast_hash": "768582205def4f54f72e5e495c50e7a0",
+    "semantic_hash": "768582205def4f54f72e5e495c50e7a0"
+  },
+  "Clasa a VI-a/Art 6.pdf": {
+    "mtime": 1767702534.9527762,
+    "seen": 1787735288.4661171,
+    "ast_hash": "828249f3c6db95303ca8f5441ae78660",
+    "semantic_hash": "828249f3c6db95303ca8f5441ae78660"
+  },
+  "Clasa a VII-a/7. Ghid.pdf": {
+    "mtime": 1759660387.8198144,
+    "seen": 1787735288.4661171,
+    "ast_hash": "2ed56e2f3be9313d7c33d91c026e45d9",
+    "semantic_hash": "2ed56e2f3be9313d7c33d91c026e45d9"
+  },
+  "Clasa a VII-a/Art 7.pdf": {
+    "mtime": 1756527382.868552,
+    "seen": 1787735288.4661171,
+    "ast_hash": "0e6b4085bd653158ac4ec77694f8c520",
+    "semantic_hash": "0e6b4085bd653158ac4ec77694f8c520"
+  },
+  "Clasa a VIII-a/8. Ghid.pdf": {
+    "mtime": 1762450441.780791,
+    "seen": 1787735288.4661171,
+    "ast_hash": "3bacca3ce11044b08c82c317d573638b",
+    "semantic_hash": "3bacca3ce11044b08c82c317d573638b"
+  },
+  "Clasa a VIII-a/Manual Art 8.pdf": {
+    "mtime": 1756527758.6378186,
+    "seen": 1787735288.4661171,
+    "ast_hash": "5b7abaea0ee87f5f0d1f52ad7c5bf5ba",
+    "semantic_hash": "5b7abaea0ee87f5f0d1f52ad7c5bf5ba"
+  },
+  "public/materiale/clasa-5/recapitulare-initiala/lectia-1/joc.pdf": {
+    "mtime": 1787006845.8180816,
+    "seen": 1787735288.4661171,
+    "ast_hash": "e072e3e625e4a8a8dfb2fef01e8083ca",
+    "semantic_hash": "e072e3e625e4a8a8dfb2fef01e8083ca"
+  },
+  "public/materiale/clasa-5/recapitulare-initiala/lectia-2/fisa.pdf": {
+    "mtime": 1786990350.1632137,
+    "seen": 1787735288.4661171,
+    "ast_hash": "d9581b58022fee4ee26a09859cb66ec7",
+    "semantic_hash": "d9581b58022fee4ee26a09859cb66ec7"
+  },
+  "public/materiale/clasa-5/unitatea-1/lectia-16/fisa.pdf": {
+    "mtime": 1787140430.1434793,
+    "seen": 1787735288.4661171,
+    "ast_hash": "88f13a6a221ae772e54e5afd1c113061",
+    "semantic_hash": "88f13a6a221ae772e54e5afd1c113061"
+  },
+  "public/materiale/clasa-5/unitatea-1/lectia-17/fisa.pdf": {
+    "mtime": 1787140430.1744866,
+    "seen": 1787735288.4661171,
+    "ast_hash": "2a17e92840510e998733415a7ec95e95",
+    "semantic_hash": "2a17e92840510e998733415a7ec95e95"
+  },
+  "public/materiale/clasa-5/unitatea-1/lectia-1/prezentare.pdf": {
+    "mtime": 1786949643.4577272,
+    "seen": 1787735288.4661171,
+    "ast_hash": "16011d5145fa172cc4c44d8769e8521e",
+    "semantic_hash": "16011d5145fa172cc4c44d8769e8521e"
+  },
+  "public/materiale/clasa-5/unitatea-1/lectia-2/prezentare.pdf": {
+    "mtime": 1786952388.555787,
+    "seen": 1787735288.4661171,
+    "ast_hash": "9278bfdfc4bbc0983329291e9e82aa1f",
+    "semantic_hash": "9278bfdfc4bbc0983329291e9e82aa1f"
+  },
+  "public/materiale/clasa-5/unitatea-1/lectia-4/fisa.pdf": {
+    "mtime": 1787140430.1106715,
+    "seen": 1787735288.4661171,
+    "ast_hash": "deb5bce8b6463aa0d9a014a6b3475085",
+    "semantic_hash": "deb5bce8b6463aa0d9a014a6b3475085"
+  },
+  "public/favicon.svg": {
+    "mtime": 1787121523.066915,
+    "seen": 1787735288.4661171,
+    "ast_hash": "1ab797393adadc0a76bf26692a0c3f6f",
+    "semantic_hash": "1ab797393adadc0a76bf26692a0c3f6f"
+  },
+  "public/materiale/clasa-5/unitatea-1/lectia-12/schema.svg": {
+    "mtime": 1787126439.180999,
+    "seen": 1787735288.4661171,
+    "ast_hash": "a563eb6109e7a8cb7e99c85e9e78435b",
+    "semantic_hash": "a563eb6109e7a8cb7e99c85e9e78435b"
+  },
+  "public/materiale/clasa-5/unitatea-1/lectia-13/schema.svg": {
+    "mtime": 1787126458.8803596,
+    "seen": 1787735288.4661171,
+    "ast_hash": "5f3c4c73a017820929be76b7c472456c",
+    "semantic_hash": "5f3c4c73a017820929be76b7c472456c"
+  },
+  "public/materiale/clasa-5/unitatea-1/lectia-15/infografic.svg": {
+    "mtime": 1787140111.4325101,
+    "seen": 1787735288.4661171,
+    "ast_hash": "4356f2fd27b36e815ab81d93e0abaa34",
+    "semantic_hash": "4356f2fd27b36e815ab81d93e0abaa34"
+  },
+  "public/materiale/clasa-5/unitatea-1/lectia-3/schema.svg": {
+    "mtime": 1787126361.8275318,
+    "seen": 1787735288.4661171,
+    "ast_hash": "2ed80721d2072153b187bad304640e9a",
+    "semantic_hash": "2ed80721d2072153b187bad304640e9a"
+  },
+  "public/materiale/clasa-5/unitatea-1/lectia-5/infografic.svg": {
+    "mtime": 1787126381.8428307,
+    "seen": 1787735288.4661171,
+    "ast_hash": "5c30a453cfbafeb1bb74d81dd585dff0",
+    "semantic_hash": "5c30a453cfbafeb1bb74d81dd585dff0"
+  },
+  "public/materiale/clasa-5/unitatea-1/lectia-7/infografic.svg": {
+    "mtime": 1787126403.0073588,
+    "seen": 1787735288.4661171,
+    "ast_hash": "650f10aeb32eb05d1e1acb6c7b41fdfa",
+    "semantic_hash": "650f10aeb32eb05d1e1acb6c7b41fdfa"
+  },
+  "public/materiale/clasa-5/unitatea-1/lectia-9/schema.svg": {
+    "mtime": 1787126420.8751385,
+    "seen": 1787735288.4661171,
+    "ast_hash": "aa16f2fdd415dbc9514a1cc23dd0adf0",
+    "semantic_hash": "aa16f2fdd415dbc9514a1cc23dd0adf0"
+  },
+  "graphify-out/converted/5_planificare calendaristica_063ab012.md": {
+    "mtime": 1787737212.8833895,
+    "seen": 1787738170.4379756,
+    "ast_hash": "b474fdd1837d3166964b1ab9787aacb8",
+    "semantic_hash": "b474fdd1837d3166964b1ab9787aacb8"
+  },
+  "graphify-out/converted/5_proiectarea pe unitati_65c785e7.md": {
+    "mtime": 1787737213.5482578,
+    "seen": 1787738170.4379756,
+    "ast_hash": "b2e5426a47979b425c304544a27e4dcc",
+    "semantic_hash": "b2e5426a47979b425c304544a27e4dcc"
+  },
+  "graphify-out/converted/S1_L2_Test_initial_receptare_0b82ffee.md": {
+    "mtime": 1787737213.7071412,
+    "seen": 1787738170.4379756,
+    "ast_hash": "34a70004da43443932379541ce9b0324",
+    "semantic_hash": "34a70004da43443932379541ce9b0324"
+  },
+  "graphify-out/converted/S1_L3_Test_initial_comunicare_dbda3dff.md": {
+    "mtime": 1787737213.7593875,
+    "seen": 1787738170.4379756,
+    "ast_hash": "f01f2083f8cbc94264815240a95ac159",
+    "semantic_hash": "f01f2083f8cbc94264815240a95ac159"
+  },
+  "graphify-out/converted/S1_L4_Fisa_remediere_3c76a20f.md": {
+    "mtime": 1787737213.8262012,
+    "seen": 1787738170.4379756,
+    "ast_hash": "5294248b4994d3f6dda50fa45d8e64ce",
+    "semantic_hash": "5294248b4994d3f6dda50fa45d8e64ce"
+  },
+  "graphify-out/converted/S1_Planuri_lectie_016fb393.md": {
+    "mtime": 1787737213.9761963,
+    "seen": 1787738170.4379756,
+    "ast_hash": "a86b671d99c2e7ddd4d94f96472e0e3a",
+    "semantic_hash": "a86b671d99c2e7ddd4d94f96472e0e3a"
+  },
+  "Clasa a V-a/5. Ghid.pdf": {
+    "mtime": 1767700752.3942778,
+    "seen": 1787738170.4379756,
+    "ast_hash": "f52b3d2231e6e6196a9ff4eabcbd847b",
+    "semantic_hash": "f52b3d2231e6e6196a9ff4eabcbd847b"
+  },
+  "Clasa a V-a/Art 5.pdf": {
+    "mtime": 1767702491.926083,
+    "seen": 1787738170.4379756,
+    "ast_hash": "b127fb8e1afbb660b3b2ecddb0b33389",
+    "semantic_hash": "b127fb8e1afbb660b3b2ecddb0b33389"
+  }
+}

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="420" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Diftongul, triftongul, hiatul</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 15 · exemplu: pă-ian-jen</text>
+
+  <g>
+    <rect x="40" y="95" width="260" height="200" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="170" y="124" text-anchor="middle" font-size="15" font-weight="700" fill="#10233f">DIFTONG</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="170" y="152">O vocală și o</tspan>
+      <tspan x="170" y="168">semivocală, în</tspan>
+      <tspan x="170" y="184">aceeași silabă.</tspan>
+    </text>
+    <rect x="60" y="204" width="220" height="70" rx="10" fill="#eaf6f4"/>
+    <text x="170" y="230" text-anchor="middle" font-size="16" font-weight="700" fill="#10233f">pă-<tspan fill="#0d9c92">ian</tspan>-jen</text>
+    <text x="170" y="252" text-anchor="middle" font-size="10.5" fill="#3a3226">i = semivocală, a = vocală</text>
+    <text x="170" y="266" text-anchor="middle" font-size="10.5" fill="#3a3226">— în aceeași silabă „ian”</text>
+  </g>
+
+  <g>
+    <rect x="320" y="95" width="260" height="200" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="450" y="124" text-anchor="middle" font-size="15" font-weight="700" fill="#10233f">TRIFTONG</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="450" y="152">O vocală și două</tspan>
+      <tspan x="450" y="168">semivocale, în</tspan>
+      <tspan x="450" y="184">aceeași silabă.</tspan>
+    </text>
+    <rect x="340" y="204" width="220" height="70" rx="10" fill="#f1ecfa"/>
+    <text x="450" y="230" text-anchor="middle" font-size="16" font-weight="700" fill="#10233f"><tspan fill="#6f5ea8">leoa</tspan>i-că</text>
+    <text x="450" y="252" text-anchor="middle" font-size="10.5" fill="#3a3226">e, o = semivocale, a = vocală</text>
+    <text x="450" y="266" text-anchor="middle" font-size="10.5" fill="#3a3226">— în aceeași silabă „leoa”</text>
+  </g>
+
+  <g>
+    <rect x="600" y="95" width="260" height="200" rx="14" fill="#ffffff" stroke="#b8944f" stroke-width="2"/>
+    <text x="730" y="124" text-anchor="middle" font-size="15" font-weight="700" fill="#10233f">HIAT</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="730" y="152">Două vocale alăturate,</tspan>
+      <tspan x="730" y="168">dar în silabe</tspan>
+      <tspan x="730" y="184">diferite.</tspan>
+    </text>
+    <rect x="620" y="204" width="220" height="70" rx="10" fill="#fff3da"/>
+    <text x="730" y="230" text-anchor="middle" font-size="16" font-weight="700" fill="#10233f">u-ri-<tspan fill="#b8944f">a</tspan>ș</text>
+    <text x="730" y="252" text-anchor="middle" font-size="10.5" fill="#3a3226">i și a rămân vocale,</text>
+    <text x="730" y="266" text-anchor="middle" font-size="10.5" fill="#3a3226">fiecare în silaba ei</text>
+  </g>
+
+  <text x="450" y="330" text-anchor="middle" font-size="12" fill="#3a3226">Pentru a le identifica, desparți întâi cuvântul în silabe.</text>
+  <text x="450" y="398" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 15, pp. 34-35</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="320" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Construcții concesive</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V</text>
+
+  <g>
+    <rect x="60" y="100" width="360" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="240" y="128" text-anchor="middle" font-size="15" font-weight="700" fill="#6f5ea8">La nivel de propoziție</text>
+    <text x="240" y="155" text-anchor="middle" font-size="12" fill="#10233f"><tspan fill="#6f5ea8" font-weight="700">În ciuda ploii</tspan>, a ieșit la plimbare.</text>
+    <text x="240" y="178" text-anchor="middle" font-size="10" fill="#5b6b83">grup prepozițional-centru</text>
+    <text x="240" y="210" text-anchor="middle" font-size="12" fill="#10233f">obstacol care nu împiedică acțiunea</text>
+  </g>
+
+  <g>
+    <rect x="480" y="100" width="360" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="660" y="128" text-anchor="middle" font-size="15" font-weight="700" fill="#0d9c92">La nivel de frază</text>
+    <text x="660" y="155" text-anchor="middle" font-size="12" fill="#10233f"><tspan fill="#0d9c92" font-weight="700">Deși ploua</tspan>, a ieșit la plimbare.</text>
+    <text x="660" y="178" text-anchor="middle" font-size="10" fill="#5b6b83">circumstanțială concesivă, element de relație: deși</text>
+    <text x="660" y="210" text-anchor="middle" font-size="12" fill="#10233f">propoziție subordonată, același rol</text>
+  </g>
+
+  <text x="450" y="280" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 194-195</text>
+</svg>

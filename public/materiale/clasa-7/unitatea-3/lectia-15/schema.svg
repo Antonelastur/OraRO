@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="320" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Prepoziția</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III</text>
+  <g>
+    <rect x="90" y="95" width="330" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="255" y="123" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Simplă</text>
+    <text font-size="12" fill="#3a3226" text-anchor="middle"><tspan x="255" y="150">un singur cuvânt</tspan><tspan x="255" y="176" font-style="italic">la, cu, din, pentru</tspan></text>
+  </g>
+  <g>
+    <rect x="480" y="95" width="330" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="645" y="123" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Compusă / locuțiune</text>
+    <text font-size="12" fill="#3a3226" text-anchor="middle"><tspan x="645" y="150">mai multe cuvinte,</tspan><tspan x="645" y="166">grup stabil</tspan><tspan x="645" y="192" font-style="italic">de lângă, din cauza</tspan></text>
+  </g>
+  <text x="450" y="280" text-anchor="middle" font-size="11.5" fill="#3a3226">Fiecare prepoziție cere un anumit caz al substantivului care o urmează.</text>
+  <text x="450" y="300" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, pp. 110-111</text>
+</svg>

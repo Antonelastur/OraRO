@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="420" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Autorul, naratorul, personajul</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 3 · Narațiunea la persoana I</text>
+
+  <rect x="40" y="95" width="820" height="260" rx="16" fill="none" stroke="#b8944f" stroke-width="2" stroke-dasharray="6 6"/>
+  <text x="60" y="120" font-size="13" font-weight="700" fill="#b8944f">LUMEA REALĂ</text>
+
+  <rect x="330" y="150" width="240" height="220" rx="16" fill="none" stroke="#0d9c92" stroke-width="2" stroke-dasharray="6 6"/>
+  <text x="450" y="175" text-anchor="middle" font-size="13" font-weight="700" fill="#0d9c92">FICȚIUNEA</text>
+
+  <rect x="60" y="200" width="150" height="60" rx="14" fill="#6f5ea8"/>
+  <text x="135" y="225" text-anchor="middle" font-size="14.5" font-weight="700" fill="#ffffff">AUTORUL</text>
+  <text x="135" y="243" text-anchor="middle" font-size="10.5" fill="#e8e3f5">construiește textul</text>
+
+  <path d="M 210 230 L 355 230" stroke="#b8944f" stroke-width="2.5" fill="none" marker-end="url(#arrow)"/>
+
+  <rect x="360" y="185" width="200" height="50" rx="12" fill="#ffffff" stroke="#10233f" stroke-width="2"/>
+  <text x="460" y="209" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">TEXTUL NARATIV</text>
+  <text x="460" y="223" text-anchor="middle" font-size="9.5" fill="#5b6b83">(persoana I)</text>
+
+  <path d="M 460 235 L 460 250" stroke="#b8944f" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+
+  <rect x="360" y="255" width="200" height="45" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="460" y="283" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">NARATORUL</text>
+
+  <path d="M 460 300 L 460 315" stroke="#b8944f" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+
+  <rect x="360" y="318" width="200" height="45" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="460" y="346" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">PERSONAJUL</text>
+
+  <path d="M 690 230 L 585 230" stroke="#b8944f" stroke-width="2.5" fill="none" marker-end="url(#arrow)"/>
+
+  <rect x="690" y="200" width="150" height="60" rx="14" fill="#6f5ea8"/>
+  <text x="765" y="225" text-anchor="middle" font-size="14.5" font-weight="700" fill="#ffffff">CITITORUL</text>
+  <text x="765" y="243" text-anchor="middle" font-size="10.5" fill="#e8e3f5">reconstituie povestea</text>
+
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#b8944f"/>
+    </marker>
+  </defs>
+
+  <text x="450" y="386" text-anchor="middle" font-size="11.5" fill="#3a3226">La persoana I, naratorul e în același timp și personaj — dar naratorul și autorul nu se confundă niciodată.</text>
+  <text x="450" y="404" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 3, pp. 14-15</text>
+</svg>

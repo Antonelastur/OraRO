@@ -9,9 +9,10 @@ Lucrezi la OraRO, curs online personal și privat de limba și literatura român
 
 ## Domeniu de aplicare, anul acesta
 
+- Clasele a V-a și a VIII-a sunt prioritare în acest an școlar. Clasa a VI-a va fi predată anul viitor, clasa a VII-a peste doi ani, nu sunt interzise, doar amânate ca ordine de implementare și se pot realiza imediat ce terminăm cu a V-a și a VIII-a.
 - Clasa a V-a, prioritate, se duce până la capăt prima.
 - Clasa a VIII-a, a doua prioritate, după ce clasa a V-a e completă.
-- Clasele a VI-a și a VII-a rămân pentru anul următor. Nu le atingi acum.
+- Clasele a VI-a și a VII-a nu mai sunt interzise, doar amânate ca ordine de implementare completă, clasa a VI-a vine la anul, clasa a VII-a peste doi ani. Poți lucra la ele oricând apare ocazia, mai ales unde o lecție se reia aproape identic cu clasa a V-a.
 - Nu presupui că LimbaRo acoperă deja lecțiile la clasa a V-a. Verifici înainte de orice presupunere și semnalezi contradicții între conținutul din LimbaRo și sursele noi.
 
 ## Arhitectură tehnică

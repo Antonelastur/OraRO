@@ -6,12 +6,15 @@ Instrucțiuni de proiect pentru Claude, valabile în orice sesiune de lucru pe a
 
 Curs online personal și privat de limba și literatura română, pentru gimnaziu, gândit pentru predare, învățare și evaluare la clasă, față în față cu elevii. Nu este LimbaRo. LimbaRo rămâne instrumentul de exersare independentă a elevului, după ce materia a fost predată. OraRO este instrumentul de lucru al profesoarei, folosit înainte și în timpul orei.
 
-## Domeniu de aplicare, anul acesta
+## Domeniu de aplicare
 
+- Clasele a V-a și a VIII-a sunt prioritare în acest an școlar. Clasa a VI-a va fi predată anul viitor, clasa a VII-a peste doi ani, nu sunt interzise, doar amânate ca ordine de implementare și se pot realiza imediat ce terminăm cu a V-a și a VIII-a.
 - Clasa a V-a, prioritate, se duce până la capăt prima.
-- Clasa a VIII-a, a doua prioritate, după ce clasa a V-a e completă.
-- Clasele a VI-a și a VII-a rămân pentru anul următor. Nu le atingi acum.
+- Clasa a VIII-a, a doua prioritate. Antoanela predă anul acesta doar la clasa a V-a și la clasa a VIII-a, de-asta rămân cele două priorități principale.
+- Clasele a VI-a și a VII-a nu mai sunt interzise, doar amânate ca ordine de implementare completă, clasa a VI-a vine la anul, clasa a VII-a peste doi ani. Multe lecții se leagă între clase, aproape toată materia clasei a V-a se reia și la clasele a VI-a și a VII-a, cu ceva în plus, așa că poți lucra la ele oricând apare ocazia, mai ales unde o lecție se reia aproape identic. Scopul rămâne să finalizăm aplicația pentru toate clasele cât mai repede, cu accent tot pe clasa a V-a și a VIII-a.
 - Nu presupui că LimbaRo acoperă deja toate lecțiile la clasa a V-a. Verifici înainte de orice presupunere și semnalezi dacă găsești contradicții între conținutul din LimbaRo și sursele noi.
+- **Convenție diferită de numerotare a lecțiilor, între clase, decizie asumată, nu inconsecvență.** Clasa a V-a urmează numerotarea proprie a manualului: o lecție de site corespunde unei „Lecția N” din manual, cu granularitatea dată de manual însuși. Clasele a VI-a, a VII-a și a VIII-a, decizie explicită confirmată separat pentru fiecare, sunt împărțite pe ore de curs din proiectarea pe unități, o resursă de site per oră: unde o singură lecție de manual se predă în 2 sau 3 ore, apare ca 2 sau 3 lecții de site, cu sursaManual notând „partea 1/2”, „partea 2/2” etc., ca să nu pară o eroare de citare. Rezultatul, aceste clase au semnificativ mai multe lecții de site decât numărul propriu de lecții al manualului. Dacă mai reiei vreodată clasele a VI-a, a VII-a sau a VIII-a de la zero, alegi din nou explicit una dintre cele două convenții, nu presupui automat una sau alta.
+- **Ediția manualului la clasa a VIII-a, verificată explicit, discrepanță reală descoperită și rezolvată cu Antoanela.** Sursele locale `8_proiectare pe unitati.doc` și `8_planificare calendaristica.doc` sunt scrise pentru anul școlar 2022-2023 și au o structură de 5 unități complet diferită de manualul din folder (`Manual Art 8.pdf`, generat 2025) și de `8. Ghid.pdf`: unități cu alte titluri, altă ordine, iar unitatea „Ce înseamnă prietenia?” cu Platanos de Doina Ruști nu există deloc în ediția 2025. S-a ales manualul nou și ghidul ca autoritate — ghidul conține propria planificare calendaristică orientativă 2025-2026 și proiectare a unităților de învățare, actualizate pentru ediția curentă, folosite la construirea claselor a VIII-a. Documentele `.doc` vechi rămân nefolosite. Dacă apar surse noi pentru clasa a VIII-a, verifici mai întâi dacă țin de aceeași ediție 2025, nu presupui automat că se potrivesc.
 
 ## Arhitectură tehnică
 
@@ -137,3 +140,13 @@ Limbaj natural, apropiat de un vorbitor nativ, fără cuvinte bombastice. Fără
 ## Reguli de finalizare
 
 Nu publici, nu trimiți și nu finalizezi nimic fără aprobarea explicită a Antoanelei. Semnalezi orice contradicție găsită între surse sau între acest proiect și LimbaRo. Verifici sursele înainte de a scrie fapte sau cifre, nu inventezi referințe.
+
+## graphify
+
+This project has a knowledge graph at graphify-out/ with god nodes, community structure, and cross-file relationships.
+
+Rules:
+- For codebase questions, first run `graphify query "<question>"` when graphify-out/graph.json exists. Use `graphify path "<A>" "<B>"` for relationships and `graphify explain "<concept>"` for focused concepts. These return a scoped subgraph, usually much smaller than GRAPH_REPORT.md or raw grep output.
+- If graphify-out/wiki/index.md exists, use it for broad navigation instead of raw source browsing.
+- Read graphify-out/GRAPH_REPORT.md only for broad architecture review or when query/path/explain do not surface enough context.
+- After modifying code, run `graphify update .` to keep the graph current (AST-only, no API cost).

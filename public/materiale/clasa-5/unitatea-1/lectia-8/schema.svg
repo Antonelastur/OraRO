@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="420" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Comunicare verbală, nonverbală, paraverbală</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 8 · Exprimarea adecvată a emoțiilor</text>
+
+  <rect x="350" y="85" width="200" height="48" rx="14" fill="#6f5ea8"/>
+  <text x="450" y="115" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">COMUNICAREA ORALĂ</text>
+
+  <path d="M 450 133 L 450 155 L 210 155 L 210 178" stroke="#b8944f" stroke-width="2.5" fill="none"/>
+  <path d="M 450 133 L 450 155 L 450 178" stroke="#b8944f" stroke-width="2.5" fill="none"/>
+  <path d="M 450 133 L 450 155 L 690 155 L 690 178" stroke="#b8944f" stroke-width="2.5" fill="none"/>
+
+  <g>
+    <rect x="90" y="178" width="240" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="210" y="204" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">verbală</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="210" y="228">Prin cuvinte, rostite</tspan>
+      <tspan x="210" y="244">sau scrise, într-o</tspan>
+      <tspan x="210" y="260">limbă cunoscută.</tspan>
+      <tspan x="210" y="290" font-style="italic">„Îmi place cartea asta.”</tspan>
+    </text>
+  </g>
+
+  <g>
+    <rect x="330" y="178" width="240" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="450" y="204" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">nonverbală</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="450" y="228">Fără cuvinte: mimică,</tspan>
+      <tspan x="450" y="244">gesturi, postura</tspan>
+      <tspan x="450" y="260">corpului.</tspan>
+      <tspan x="450" y="290" font-style="italic">un zâmbet, o încruntare</tspan>
+    </text>
+  </g>
+
+  <g>
+    <rect x="570" y="178" width="240" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="690" y="204" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">paraverbală</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="690" y="228">Cum suni: intonație,</tspan>
+      <tspan x="690" y="244">intensitatea vocii,</tspan>
+      <tspan x="690" y="260">ritmul vorbirii.</tspan>
+      <tspan x="690" y="290" font-style="italic">vorbit tare și repede</tspan>
+    </text>
+  </g>
+
+  <rect x="150" y="350" width="600" height="44" rx="12" fill="#fff3da" stroke="#b8944f" stroke-width="1.5"/>
+  <text x="450" y="376" text-anchor="middle" font-size="12" fill="#3a3226">Participanții la o comunicare orală au rolul de vorbitor sau de ascultător.</text>
+
+  <text x="450" y="410" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual Art 5, pp. 22-23 (Repere)</text>
+</svg>

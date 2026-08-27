@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="380" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Gradele de comparație ale adjectivului</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 14</text>
+
+  <g>
+    <rect x="40" y="95" width="270" height="190" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="175" y="123" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Pozitiv</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="175" y="150">Fără comparație.</tspan>
+      <tspan x="175" y="180" font-style="italic">curajos</tspan>
+    </text>
+  </g>
+
+  <g>
+    <rect x="315" y="95" width="270" height="190" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="450" y="123" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Comparativ</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="450" y="150">de superioritate/</tspan>
+      <tspan x="450" y="166">inferioritate/egalitate</tspan>
+      <tspan x="450" y="196" font-style="italic">mai curajos</tspan>
+      <tspan x="450" y="212" font-style="italic">mai puțin curajos</tspan>
+      <tspan x="450" y="228" font-style="italic">la fel de curajos</tspan>
+    </text>
+  </g>
+
+  <g>
+    <rect x="590" y="95" width="270" height="190" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="725" y="123" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Superlativ</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="725" y="150">relativ sau absolut</tspan>
+      <tspan x="725" y="180" font-style="italic">cel mai curajos</tspan>
+      <tspan x="725" y="196" font-style="italic">foarte curajos</tspan>
+    </text>
+  </g>
+
+  <text x="450" y="320" text-anchor="middle" font-size="11.5" fill="#3a3226">Nu toate adjectivele au grade de comparație (ex.: mort, veșnic).</text>
+  <text x="450" y="352" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 14, p. 132</text>
+</svg>

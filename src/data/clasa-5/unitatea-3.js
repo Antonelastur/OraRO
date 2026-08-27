@@ -1,0 +1,481 @@
+// Unitatea III: Pe strada mea — clasa a V-a
+// Sursă: manual Art Klett (cuprins pp. 6, 8-9, numerotare proprie L1-L12),
+// proiectarea pe unități 2022-2023, planificarea calendaristică. Aceeași
+// convenție ca la Unitățile I-II: o lecție de site per lecție de manual,
+// cu excepția redactării și recapitulării (2 ore fiecare, despărțite în
+// câte 2 lecții de site, organizare proprie) și a lecției 10 (Posibilități
+// combinatorii ale substantivului. Prepoziția), care are 2 ore explicit în
+// proiectare.
+//
+// Proiectul de grup „În așteptarea Crăciunului” a fost anunțat administrativ
+// la finalul proiectării Unității II, dar se execută integral aici (Unitatea
+// III), unde manualul îl plasează la secțiunea Interculturalitate — de aceea
+// anunțarea apare ca prima lecție a acestei unități, nu ca ultima a Unității II.
+//
+// rezolvareGhid și planLectie rămân null, document intern, nu se publică.
+//
+// Materiale: schema pentru lecțiile 10 (Substantivul) și 11 (Articolul). Joc
+// pentru 9 (Ascultarea activă), 17 și 18 (recapitulare). Restul rămân null,
+// listate în materiale-restante.md.
+
+export const unitatea3 = {
+  id: 'unitatea-3',
+  titlu: 'Unitatea III: Pe strada mea',
+  lectii: [
+    {
+      id: 'lectia-1',
+      titlu: 'Proiect de grup. În așteptarea Crăciunului (anunțare)',
+      obiective: [
+        'Se familiarizează cu tema, calendarul și criteriile de evaluare ale proiectului de grup În așteptarea Crăciunului.',
+      ],
+      sursaManual: 'Art 5, Proiect de grup, p. 91 (anunțat administrativ la finalul Unității II, executat aici)',
+      rezolvareGhid: null,
+      planLectie: null,
+      materiale: {
+        prezentare: null,
+        video: null,
+        test: null,
+        fisa: { fisier: '/materiale/clasa-5/unitatea-3/lectia-1/fisa.pdf' },
+        joc: null,
+        infografic: null,
+        schema: null,
+        altele: [],
+      },
+    },
+    {
+      id: 'lectia-2',
+      titlu: 'Textul descriptiv literar. O stradă cu sentimente de Ana Blandiana',
+      obiective: [
+        'Identifică informații esențiale din textul descriptiv literar O stradă cu sentimente de Ana Blandiana.',
+      ],
+      sursaManual: 'Art 5, Lecția 1, p. 80 (O stradă cu sentimente de Ana Blandiana)',
+      rezolvareGhid: null,
+      planLectie: null,
+      materiale: {
+        prezentare: null,
+        video: null,
+        test: null,
+        fisa: null,
+        joc: null,
+        infografic: null,
+        schema: null,
+        altele: [],
+      },
+    },
+    {
+      id: 'lectia-3',
+      titlu: 'Textul descriptiv literar. Personificarea',
+      obiective: [
+        'Identifică particularitățile textului descriptiv literar și personificările din text, comentând rolul lor.',
+      ],
+      sursaManual: 'Art 5, Lecția 2, pp. 82-83',
+      rezolvareGhid: null,
+      planLectie: null,
+      materiale: {
+        prezentare: null,
+        video: null,
+        test: null,
+        fisa: null,
+        joc: null,
+        infografic: null,
+        schema: { fisier: '/materiale/clasa-5/unitatea-3/lectia-3/schema.svg', titlu: 'Personificarea' },
+        altele: [],
+      },
+    },
+    {
+      id: 'lectia-4',
+      titlu: 'Semnificațiile textului',
+      obiective: [
+        'Formulează un răspuns personal despre semnificația textului O stradă cu sentimente, folosind teoria inteligențelor multiple.',
+      ],
+      sursaManual: 'Art 5, Lecția 3, p. 84',
+      rezolvareGhid: null,
+      planLectie: null,
+      materiale: {
+        prezentare: null,
+        video: null,
+        test: null,
+        fisa: { fisier: '/materiale/clasa-5/unitatea-3/lectia-4/fisa.pdf' },
+        joc: null,
+        infografic: null,
+        schema: null,
+        altele: [],
+      },
+    },
+    {
+      id: 'lectia-5',
+      titlu: 'Text auxiliar. O pisică de Tudor Arghezi (fragment)',
+      obiective: [
+        'Identifică trăsăturile personajului descris în textul auxiliar O pisică de Tudor Arghezi.',
+      ],
+      sursaManual: 'Art 5, Lecția 4, „Noi pagini, alte idei”, pp. 85-86 (O pisică de Tudor Arghezi)',
+      rezolvareGhid: null,
+      planLectie: null,
+      materiale: {
+        prezentare: null,
+        video: null,
+        test: null,
+        fisa: { fisier: '/materiale/clasa-5/unitatea-3/lectia-5/fisa.pdf' },
+        joc: null,
+        infografic: null,
+        schema: null,
+        altele: [],
+      },
+    },
+    {
+      id: 'lectia-6',
+      titlu: 'Textul descriptiv nonliterar. Persana — un ghem pufos cu o personalitate încântătoare',
+      obiective: [
+        'Identifică trăsăturile textului descriptiv nonliterar și compară descrierea literară cu cea nonliterară.',
+      ],
+      sursaManual: 'Art 5, Lecția 5, pp. 87-89',
+      rezolvareGhid: null,
+      planLectie: null,
+      materiale: {
+        prezentare: null,
+        video: null,
+        test: null,
+        fisa: null,
+        joc: null,
+        infografic: { fisier: '/materiale/clasa-5/unitatea-3/lectia-6/infografic.svg', titlu: 'Textul descriptiv literar și nonliterar' },
+        schema: null,
+        altele: [],
+      },
+    },
+    {
+      id: 'lectia-7',
+      titlu: 'Tradiții: sărbătorile de iarnă',
+      obiective: [
+        'Identifică similitudini privind sărbătorile de iarnă între culturi diferite, pe baza unor exemple din literatură, arte plastice și muzică.',
+      ],
+      sursaManual: 'Art 5, Lecția 6, p. 90',
+      rezolvareGhid: null,
+      planLectie: null,
+      materiale: {
+        prezentare: null,
+        video: null,
+        test: null,
+        fisa: null,
+        joc: null,
+        infografic: { fisier: '/materiale/clasa-5/unitatea-3/lectia-7/infografic.svg', titlu: 'Tradiții: sărbătorile de iarnă' },
+        schema: null,
+        altele: [],
+      },
+    },
+    {
+      id: 'lectia-8',
+      titlu: 'Prezentarea proiectului de grup În așteptarea Crăciunului',
+      obiective: [
+        'Prezintă și evaluează, pe grupe, proiectul În așteptarea Crăciunului, conform criteriilor stabilite.',
+      ],
+      sursaManual: 'Art 5, Proiect de grup, p. 91 (prezentare)',
+      rezolvareGhid: null,
+      planLectie: null,
+      materiale: {
+        prezentare: null,
+        video: null,
+        test: null,
+        fisa: { fisier: '/materiale/clasa-5/unitatea-3/lectia-8/fisa.pdf' },
+        joc: null,
+        infografic: null,
+        schema: null,
+        altele: [],
+      },
+    },
+    {
+      id: 'lectia-9',
+      titlu: 'Ascultarea activă',
+      obiective: [
+        'Exersează strategii de ascultare activă într-o situație de comunicare orală.',
+      ],
+      sursaManual: 'Art 5, Lecția 7, pp. 92-93',
+      rezolvareGhid: null,
+      planLectie: null,
+      materiale: {
+        prezentare: null,
+        video: null,
+        test: null,
+        fisa: null,
+        joc: {
+          tip: 'quiz',
+          titlu: 'Ascultarea activă',
+          pasi: [
+            {
+              intrebare: 'Ce înseamnă ascultarea activă, într-o discuție?',
+              variante: [
+                { text: 'Să fii atent la ce spune vorbitorul și să răspunzi la ce ai auzit cu adevărat', corect: true, explicatie: 'Ascultarea activă presupune atenție reală la mesajul celuilalt, nu doar prezența tăcută.' },
+                { text: 'Să taci tot timpul, fără nicio reacție', corect: false, explicatie: 'Ascultarea activă permite reacții, întrebări de clarificare, nu tăcere totală.' },
+                { text: 'Să vorbești în același timp cu celălalt', corect: false, explicatie: 'Vorbitul simultan e opusul unei ascultări atente.' },
+              ],
+              indiciu: null,
+              sursa: 'Art 5, Lecția 7, p. 92',
+            },
+            {
+              intrebare: 'Ce arată faptul că cineva te ascultă cu adevărat, într-o conversație?',
+              variante: [
+                { text: 'Îți pune întrebări legate de ce ai spus și reacționează la conținut', corect: true, explicatie: 'Reacția și întrebările relevante arată că mesajul a fost înțeles, nu doar auzit.' },
+                { text: 'Se uită în altă parte tot timpul', corect: false, explicatie: 'Aceasta e mai degrabă un semn de lipsă de atenție.' },
+                { text: 'Repetă exact cuvintele tale, fără nicio reacție proprie', corect: false, explicatie: 'Repetarea mecanică nu dovedește neapărat înțelegere reală.' },
+              ],
+              indiciu: null,
+              sursa: 'Art 5, Lecția 7, p. 92',
+            },
+          ],
+        },
+        infografic: null,
+        schema: null,
+        altele: [],
+      },
+    },
+    {
+      id: 'lectia-10',
+      titlu: 'Substantivul',
+      obiective: [
+        'Reactualizează categoriile gramaticale ale substantivului: fel, gen, număr.',
+      ],
+      sursaManual: 'Art 5, Lecția 8, pp. 94-95',
+      rezolvareGhid: null,
+      planLectie: null,
+      materiale: {
+        prezentare: null,
+        video: null,
+        test: null,
+        fisa: null,
+        joc: null,
+        infografic: null,
+        schema: { fisier: '/materiale/clasa-5/unitatea-3/lectia-10/schema.svg', titlu: 'Substantivul' },
+        altele: [],
+      },
+    },
+    {
+      id: 'lectia-11',
+      titlu: 'Articolul',
+      obiective: [
+        'Identifică articolul hotărât și nehotărât și ortografia formelor substantivale articulate hotărât.',
+      ],
+      sursaManual: 'Art 5, Lecția 9, pp. 96-97',
+      rezolvareGhid: null,
+      planLectie: null,
+      materiale: {
+        prezentare: null,
+        video: null,
+        test: null,
+        fisa: null,
+        joc: null,
+        infografic: null,
+        schema: { fisier: '/materiale/clasa-5/unitatea-3/lectia-11/schema.svg', titlu: 'Articolul' },
+        altele: [],
+      },
+    },
+    {
+      id: 'lectia-12',
+      titlu: 'Posibilități combinatorii ale substantivului. Prepoziția (I)',
+      obiective: [
+        'Descoperă părțile secundare de propoziție care determină un substantiv și recunoaște prepoziția simplă.',
+      ],
+      sursaManual: 'Art 5, Lecția 10, p. 98, partea 1/2',
+      rezolvareGhid: null,
+      planLectie: null,
+      materiale: {
+        prezentare: null,
+        video: null,
+        test: null,
+        fisa: null,
+        joc: null,
+        infografic: null,
+        schema: { fisier: '/materiale/clasa-5/unitatea-3/lectia-12/schema.svg', titlu: 'Posibilități combinatorii ale substantivului (I)' },
+        altele: [],
+      },
+    },
+    {
+      id: 'lectia-13',
+      titlu: 'Posibilități combinatorii ale substantivului. Prepoziția (II)',
+      obiective: [
+        'Recunoaște prepoziția compusă și identifică atributul substantival prepozițional.',
+      ],
+      sursaManual: 'Art 5, Lecția 10, p. 99, partea 2/2',
+      rezolvareGhid: null,
+      planLectie: null,
+      materiale: {
+        prezentare: null,
+        video: null,
+        test: null,
+        fisa: null,
+        joc: null,
+        infografic: null,
+        schema: { fisier: '/materiale/clasa-5/unitatea-3/lectia-13/schema.svg', titlu: 'Posibilități combinatorii ale substantivului (II)' },
+        altele: [],
+      },
+    },
+    {
+      id: 'lectia-14',
+      titlu: 'Substantivul subiect. Acordul predicatului cu subiectul',
+      obiective: [
+        'Identifică subiectul simplu și multiplu, exprimat prin substantiv, și verifică acordul predicatului cu subiectul.',
+      ],
+      sursaManual: 'Art 5, Lecția 11, pp. 100-101',
+      rezolvareGhid: null,
+      planLectie: null,
+      materiale: {
+        prezentare: null,
+        video: null,
+        test: null,
+        fisa: null,
+        joc: null,
+        infografic: null,
+        schema: { fisier: '/materiale/clasa-5/unitatea-3/lectia-14/schema.svg', titlu: 'Substantivul subiect. Acordul cu predicatul' },
+        altele: [],
+      },
+    },
+    {
+      id: 'lectia-15',
+      titlu: 'Descrierea unui obiect (I), pregătire',
+      obiective: [
+        'Identifică cuvinte din câmpul lexical al casei și ordonează informația pe baza unui organizator grafic, pregătind descrierea unui obiect.',
+      ],
+      sursaManual: 'Art 5, Lecția 12, p. 102, partea 1/2',
+      rezolvareGhid: null,
+      planLectie: null,
+      materiale: {
+        prezentare: null,
+        video: null,
+        test: null,
+        fisa: { fisier: '/materiale/clasa-5/unitatea-3/lectia-15/fisa.pdf' },
+        joc: null,
+        infografic: null,
+        schema: null,
+        altele: [],
+      },
+    },
+    {
+      id: 'lectia-16',
+      titlu: 'Descrierea unui obiect (II), redactare',
+      obiective: [
+        'Redactează o compunere descriptivă despre un obiect, cu respectarea etapelor scrierii.',
+      ],
+      sursaManual: 'Art 5, Lecția 12, p. 103, partea 2/2',
+      rezolvareGhid: null,
+      planLectie: null,
+      materiale: {
+        prezentare: null,
+        video: null,
+        test: null,
+        fisa: { fisier: '/materiale/clasa-5/unitatea-3/lectia-16/fisa.pdf' },
+        joc: null,
+        infografic: null,
+        schema: null,
+        altele: [],
+      },
+    },
+    {
+      id: 'lectia-17',
+      titlu: 'Recapitulare, lectură și comunicare',
+      obiective: [
+        'Recapitulează, prin exerciții aplicate, achizițiile de lectură din Unitatea III: descrierea literară, personificarea, ascultarea activă.',
+      ],
+      sursaManual: 'Art 5, Recapitulare, pp. 104-105, partea 1/2',
+      rezolvareGhid: null,
+      planLectie: null,
+      materiale: {
+        prezentare: null,
+        video: null,
+        test: null,
+        fisa: null,
+        joc: {
+          tip: 'quiz',
+          titlu: 'Recapitulare, lectură și comunicare',
+          pasi: [
+            {
+              intrebare: 'Ce figură de stil dă însușiri omenești unor obiecte sau fenomene, ca strada din textul lui Ana Blandiana?',
+              variante: [
+                { text: 'personificarea', corect: true, explicatie: 'Personificarea atribuie trăsături și sentimente umane unor lucruri sau fenomene ale naturii.' },
+                { text: 'comparația', corect: false, explicatie: 'Comparația apropie două elemente printr-un cuvânt de legătură, nu atribuie însușiri umane.' },
+                { text: 'enumerația', corect: false, explicatie: 'Enumerația înșiră termeni de același fel, nu are legătură cu atribuirea de trăsături umane.' },
+              ],
+              indiciu: null,
+              sursa: 'Art 5, Lecția 2, p. 82',
+            },
+            {
+              intrebare: 'Ce presupune ascultarea activă într-o discuție?',
+              variante: [
+                { text: 'Atenție reală la mesajul vorbitorului și reacții relevante la ce a spus', corect: true, explicatie: 'Ascultarea activă e mai mult decât tăcerea, presupune înțelegere reală.' },
+                { text: 'Tăcerea completă, fără nicio reacție', corect: false, explicatie: 'Reacțiile relevante sunt parte din ascultarea activă, nu contrazic tăcerea respectuoasă.' },
+                { text: 'Vorbitul continuu, ca să umpli tăcerea', corect: false, explicatie: 'Ascultarea activă presupune să-i lași loc vorbitorului.' },
+              ],
+              indiciu: null,
+              sursa: 'Art 5, Lecția 7, p. 92',
+            },
+          ],
+        },
+        infografic: null,
+        schema: null,
+        altele: [],
+      },
+    },
+    {
+      id: 'lectia-18',
+      titlu: 'Recapitulare, gramatică și redactare',
+      obiective: [
+        'Recapitulează, prin exerciții aplicate, achizițiile de gramatică din Unitatea III: substantivul, articolul, prepoziția, acordul subiect-predicat.',
+      ],
+      sursaManual: 'Art 5, Recapitulare, pp. 104-105, partea 2/2',
+      rezolvareGhid: null,
+      planLectie: null,
+      materiale: {
+        prezentare: null,
+        video: null,
+        test: null,
+        fisa: null,
+        joc: {
+          tip: 'quiz',
+          titlu: 'Recapitulare, gramatică și redactare',
+          pasi: [
+            {
+              intrebare: 'Ce arată articolul hotărât, atașat la sfârșitul cuvântului strada?',
+              variante: [
+                { text: 'Că strada e cunoscută, precisă, nu una oarecare', corect: true, explicatie: 'Articolul hotărât precizează un obiect anume, cunoscut.' },
+                { text: 'Că e vorba despre mai multe străzi', corect: false, explicatie: 'Numărul (singular/plural) e altă categorie, nu ține de articolul hotărât.' },
+                { text: 'Că strada e un substantiv propriu', corect: false, explicatie: 'Strada rămâne substantiv comun, chiar și articulat hotărât.' },
+              ],
+              indiciu: null,
+              sursa: 'Art 5, Lecția 9, p. 96',
+            },
+            {
+              intrebare: 'Pentru ca predicatul să fie corect acordat cu un subiect multiplu (Ana și Maria), predicatul trebuie să fie...',
+              variante: [
+                { text: 'la plural', corect: true, explicatie: 'Un subiect multiplu (mai mulți termeni) cere predicat la plural.' },
+                { text: 'la singular, mereu', corect: false, explicatie: 'Subiectul multiplu cere acord la plural, nu la singular.' },
+                { text: 'la orice formă, nu contează', corect: false, explicatie: 'Acordul predicatului cu subiectul e obligatoriu, nu opțional.' },
+              ],
+              indiciu: null,
+              sursa: 'Art 5, Lecția 11, p. 100',
+            },
+          ],
+        },
+        infografic: null,
+        schema: null,
+        altele: [],
+      },
+    },
+    {
+      id: 'lectia-19',
+      titlu: 'Evaluare, probă scrisă',
+      obiective: [
+        'Verifică, printr-o probă scrisă, nivelul de achiziție a competențelor vizate în Unitatea III.',
+      ],
+      sursaManual: 'Art 5, Evaluare, p. 106',
+      rezolvareGhid: null,
+      planLectie: null,
+      materiale: {
+        prezentare: null,
+        video: null,
+        test: null,
+        fisa: null,
+        joc: null,
+        infografic: null,
+        schema: null,
+        altele: [],
+      },
+    },
+  ],
+}

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="420" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Timpul și spațiul într-o narațiune</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 2 · Oracolul de Mircea Cărtărescu</text>
+
+  <g>
+    <rect x="40" y="95" width="390" height="200" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="235" y="124" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">Timpul desfășurării întâmplărilor</text>
+    <text font-size="12" fill="#3a3226" text-anchor="middle">
+      <tspan x="235" y="152">Momentul în care se petrec</tspan>
+      <tspan x="235" y="169">întâmplările: trecut, prezent</tspan>
+      <tspan x="235" y="186">sau viitor față de narare.</tspan>
+      <tspan x="235" y="216">Se marchează prin timpul</tspan>
+      <tspan x="235" y="233">verbelor din pasajele narate.</tspan>
+      <tspan x="235" y="263" font-style="italic">Ex.: întâmplarea cu Petruța</tspan>
+      <tspan x="235" y="279" font-style="italic">s-a petrecut în copilărie.</tspan>
+    </text>
+  </g>
+
+  <g>
+    <rect x="470" y="95" width="390" height="200" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="665" y="124" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">Timpul povestirii întâmplărilor</text>
+    <text font-size="12" fill="#3a3226" text-anchor="middle">
+      <tspan x="665" y="152">Momentul în care naratorul</tspan>
+      <tspan x="665" y="169">relatează întâmplările —</tspan>
+      <tspan x="665" y="186">nu coincide mereu cu primul.</tspan>
+      <tspan x="665" y="216">Are propriul lui timp verbal,</tspan>
+      <tspan x="665" y="233">de obicei diferit de al acțiunii.</tspan>
+      <tspan x="665" y="263" font-style="italic">Ex.: naratorul povestește la</tspan>
+      <tspan x="665" y="279" font-style="italic">mulți ani distanță, ca adult.</tspan>
+    </text>
+  </g>
+
+  <rect x="150" y="325" width="600" height="52" rx="14" fill="#fff3da" stroke="#b8944f" stroke-width="1.5"/>
+  <text font-size="12" fill="#3a3226" text-anchor="middle">
+    <tspan x="450" y="346">Spațiul se identifică la fel: cauți indicii spațiale — locul acțiunii</tspan>
+    <tspan x="450" y="363">și, separat, locul din care naratorul povestește azi.</tspan>
+  </text>
+
+  <text x="450" y="400" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 2, p. 47</text>
+</svg>

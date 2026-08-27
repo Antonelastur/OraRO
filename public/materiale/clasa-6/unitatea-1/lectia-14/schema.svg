@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="420" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Sensurile cuvintelor</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 13</text>
+
+  <g>
+    <rect x="40" y="100" width="260" height="180" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="170" y="128" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">SENS PROPRIU</text>
+    <text x="170" y="146" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">DE BAZĂ</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="170" y="172">Sensul cel mai des</tspan>
+      <tspan x="170" y="188">folosit, cu care ne</tspan>
+      <tspan x="170" y="204">obișnuim primul.</tspan>
+      <tspan x="170" y="234" font-style="italic">păianjen = insecta</tspan>
+      <tspan x="170" y="250" font-style="italic">cu opt picioare</tspan>
+    </text>
+  </g>
+
+  <g>
+    <rect x="320" y="100" width="260" height="180" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="450" y="128" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">SENS PROPRIU</text>
+    <text x="450" y="146" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">SECUNDAR</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="450" y="172">Alt sens concret,</tspan>
+      <tspan x="450" y="188">tot literal, dar mai</tspan>
+      <tspan x="450" y="204">puțin frecvent.</tspan>
+      <tspan x="450" y="234" font-style="italic">a păianjeni = a</tspan>
+      <tspan x="450" y="250" font-style="italic">cuprinde de emoție</tspan>
+    </text>
+  </g>
+
+  <g>
+    <rect x="600" y="100" width="260" height="180" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="730" y="128" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">SENS FIGURAT</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="730" y="160">Sens nou, obținut</tspan>
+      <tspan x="730" y="176">prin comparație sau</tspan>
+      <tspan x="730" y="192">asociere de imagini,</tspan>
+      <tspan x="730" y="208">nu literal.</tspan>
+      <tspan x="730" y="238" font-style="italic">o rețea de păianjen</tspan>
+      <tspan x="730" y="254" font-style="italic">de minciuni</tspan>
+    </text>
+  </g>
+
+  <text x="450" y="320" text-anchor="middle" font-size="12" fill="#3a3226">Sensurile unui cuvânt se verifică într-un articol de dicționar, care le ordonează astfel.</text>
+  <text x="450" y="398" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 13, pp. 30-31</text>
+</svg>

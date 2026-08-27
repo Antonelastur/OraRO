@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="400" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Silaba. Accentul</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 14</text>
+
+  <g>
+    <rect x="60" y="95" width="360" height="190" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="240" y="123" text-anchor="middle" font-size="15" font-weight="700" fill="#10233f">Silaba</text>
+    <text font-size="12" fill="#3a3226" text-anchor="middle">
+      <tspan x="240" y="150">O silabă conține, de</tspan>
+      <tspan x="240" y="168">obicei, o singură vocală.</tspan>
+    </text>
+    <rect x="90" y="188" width="300" height="70" rx="10" fill="#eaf6f4"/>
+    <text x="240" y="216" text-anchor="middle" font-size="16" font-weight="700" fill="#10233f">com-pu-ne-re</text>
+    <text x="240" y="238" text-anchor="middle" font-size="10.5" fill="#3a3226">4 silabe, câte o vocală fiecare</text>
+  </g>
+
+  <g>
+    <rect x="480" y="95" width="360" height="190" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="660" y="123" text-anchor="middle" font-size="15" font-weight="700" fill="#10233f">Accentul</text>
+    <text font-size="12" fill="#3a3226" text-anchor="middle">
+      <tspan x="660" y="150">Pronunțarea mai</tspan>
+      <tspan x="660" y="168">intensă a unei silabe.</tspan>
+    </text>
+    <rect x="510" y="188" width="300" height="70" rx="10" fill="#f1ecfa"/>
+    <text x="660" y="216" text-anchor="middle" font-size="15" font-weight="700" fill="#10233f">ácele (de cusut) / acéle (fete)</text>
+    <text x="660" y="238" text-anchor="middle" font-size="10.5" fill="#3a3226">accentul schimbă sensul</text>
+  </g>
+
+  <rect x="150" y="308" width="600" height="40" rx="12" fill="#fff3da" stroke="#b8944f" stroke-width="1.5"/>
+  <text x="450" y="333" text-anchor="middle" font-size="12" fill="#3a3226">DOOM3 marchează accentuarea corectă a cuvintelor din limba română.</text>
+
+  <text x="450" y="378" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual Art 5, pp. 34-35 (Repere)</text>
+</svg>

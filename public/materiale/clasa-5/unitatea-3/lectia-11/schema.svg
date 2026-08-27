@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="340" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Articolul</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 9</text>
+
+  <g>
+    <rect x="90" y="95" width="330" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="255" y="123" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">Articolul hotărât</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="255" y="150">Arată că obiectul e</tspan>
+      <tspan x="255" y="166">cunoscut, precis.</tspan>
+      <tspan x="255" y="196" font-style="italic">strada — casa</tspan>
+      <tspan x="255" y="212">se atașează la sfârșitul cuvântului</tspan>
+    </text>
+  </g>
+
+  <g>
+    <rect x="480" y="95" width="330" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="645" y="123" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">Articolul nehotărât</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="645" y="150">Arată un obiect</tspan>
+      <tspan x="645" y="166">oarecare, neprecizat.</tspan>
+      <tspan x="645" y="196" font-style="italic">o stradă — un prieten</tspan>
+      <tspan x="645" y="212">stă înaintea cuvântului</tspan>
+    </text>
+  </g>
+
+  <text x="450" y="290" text-anchor="middle" font-size="11.5" fill="#3a3226">Ortografia formelor articulate hotărât cere atenție: strada, nu stradaa.</text>
+  <text x="450" y="316" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 9, p. 96</text>
+</svg>

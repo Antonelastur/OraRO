@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="380" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Adverbul. Felurile adverbului</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V, Lecția 14</text>
+
+  <rect x="250" y="86" width="400" height="44" rx="12" fill="#6f5ea8"/>
+  <text x="450" y="113" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">Determină un verb, arată o împrejurare</text>
+
+  <g>
+    <rect x="60" y="150" width="250" height="140" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="185" y="176" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">de loc</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="185" y="204" font-style="italic">acasă, afară, la ea</tspan>
+      <tspan x="185" y="230">„Vin acasă la tine.”</tspan>
+    </text>
+  </g>
+
+  <g>
+    <rect x="325" y="150" width="250" height="140" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="450" y="176" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">de timp</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="450" y="204" font-style="italic">astăzi, acum, aseară</tspan>
+      <tspan x="450" y="230">„Astăzi mănânc repede.”</tspan>
+    </text>
+  </g>
+
+  <g>
+    <rect x="590" y="150" width="250" height="140" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="715" y="176" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">de mod</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="715" y="204" font-style="italic">repede, liniștit</tspan>
+      <tspan x="715" y="230">„Lucrăm liniștit.”</tspan>
+    </text>
+  </g>
+
+  <text x="450" y="330" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 14, pp. 184-185</text>
+</svg>

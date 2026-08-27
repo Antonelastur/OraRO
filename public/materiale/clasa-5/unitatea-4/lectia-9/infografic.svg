@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="340" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Modele comportamentale eroice</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 9 · de-a lungul timpului</text>
+  <g>
+    <rect x="60" y="95" width="360" height="180" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="240" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Eroul antic</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle"><tspan x="240" y="150">Tezeu — luptă cu monștri,</tspan><tspan x="240" y="166">salvează cetatea, are</tspan><tspan x="240" y="182">forță și curaj ieșite din comun.</tspan></text>
+  </g>
+  <g>
+    <rect x="480" y="95" width="360" height="180" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="660" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Eroul modern</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle"><tspan x="660" y="150">Malala — luptă pentru o</tspan><tspan x="660" y="166">cauză (educația), are</tspan><tspan x="660" y="182">curaj moral, nu forță fizică.</tspan></text>
+  </g>
+  <text x="450" y="300" text-anchor="middle" font-size="11.5" fill="#3a3226">Ambii înfruntă un pericol pentru binele celorlalți.</text>
+  <text x="450" y="322" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 9, pp. 122-123</text>
+</svg>

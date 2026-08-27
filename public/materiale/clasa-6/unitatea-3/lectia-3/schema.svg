@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="380" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Descrierea în versuri</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 2 · Iarna de Vasile Alecsandri</text>
+
+  <g>
+    <rect x="60" y="100" width="360" height="180" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="240" y="128" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Ca la descrierea în proză</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="240" y="154">Obiectul descris (aici, iarna),</tspan>
+      <tspan x="240" y="170">proprietăți și indici temporali</tspan>
+      <tspan x="240" y="186">și spațiali: „ziua ninge, noaptea</tspan>
+      <tspan x="240" y="202">ninge”, „pe câmp, pe dealuri”.</tspan>
+    </text>
+  </g>
+
+  <g>
+    <rect x="480" y="100" width="360" height="180" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="660" y="128" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Specific versurilor</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="660" y="154">Descrierea e organizată pe</tspan>
+      <tspan x="660" y="170">strofe și versuri, nu pe</tspan>
+      <tspan x="660" y="186">paragrafe, și folosește des</tspan>
+      <tspan x="660" y="202">comparația și personificarea.</tspan>
+      <tspan x="660" y="228" font-style="italic">„plopii... se perd în zare”</tspan>
+    </text>
+  </g>
+
+  <text x="450" y="330" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 2, pp. 86-87</text>
+</svg>

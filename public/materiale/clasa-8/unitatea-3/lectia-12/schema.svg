@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="320" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Atributul. Apoziția</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III</text>
+
+  <g>
+    <rect x="60" y="95" width="360" height="170" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="240" y="122" text-anchor="middle" font-size="15" font-weight="700" fill="#6f5ea8">Atributul</text>
+    <text x="240" y="145" text-anchor="middle" font-size="11" fill="#3a3226">determină un substantiv, face parte din grupul nominal</text>
+    <text x="240" y="175" text-anchor="middle" font-size="12" fill="#10233f">o <tspan font-weight="700">poveste</tspan> <tspan fill="#6f5ea8" font-weight="700">fantastică</tspan></text>
+    <text x="240" y="195" text-anchor="middle" font-size="10" fill="#5b6b83">adjectival</text>
+    <text x="240" y="220" text-anchor="middle" font-size="12" fill="#10233f">cartea <tspan fill="#6f5ea8" font-weight="700">prietenei</tspan></text>
+    <text x="240" y="240" text-anchor="middle" font-size="10" fill="#5b6b83">substantival genitival</text>
+  </g>
+
+  <g>
+    <rect x="480" y="95" width="360" height="170" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="660" y="122" text-anchor="middle" font-size="15" font-weight="700" fill="#0d9c92">Apoziția</text>
+    <text x="660" y="145" text-anchor="middle" font-size="11" fill="#3a3226">explică sau identifică un substantiv, alăturată acestuia</text>
+    <text x="660" y="180" text-anchor="middle" font-size="12" fill="#10233f">Ion, <tspan fill="#0d9c92" font-weight="700">colegul meu</tspan>, a plecat.</text>
+    <text x="660" y="200" text-anchor="middle" font-size="10" fill="#5b6b83">izolată prin virgule</text>
+    <text x="660" y="230" text-anchor="middle" font-size="12" fill="#10233f">romanul <tspan fill="#0d9c92" font-weight="700">Ion</tspan></text>
+    <text x="660" y="250" text-anchor="middle" font-size="10" fill="#5b6b83">fără virgulă, titlu identificator</text>
+  </g>
+
+  <text x="450" y="290" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 112-114</text>
+</svg>

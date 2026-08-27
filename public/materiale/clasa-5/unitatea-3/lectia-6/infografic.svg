@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="380" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Textul descriptiv literar și nonliterar</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 5 · Persana — un ghem pufos cu o personalitate încântătoare</text>
+  <g>
+    <rect x="60" y="95" width="360" height="200" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="240" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Descrierea literară</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="240" y="150">Subiectivă, cu figuri de</tspan>
+      <tspan x="240" y="166">stil (personificare,</tspan>
+      <tspan x="240" y="182">epitet), transmite emoții.</tspan>
+      <tspan x="240" y="212" font-style="italic">„o stradă cu sentimente”</tspan>
+    </text>
+  </g>
+  <g>
+    <rect x="480" y="95" width="360" height="200" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="660" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Descrierea nonliterară</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="660" y="150">Obiectivă, cu informații</tspan>
+      <tspan x="660" y="166">verificabile: rasă, talie,</tspan>
+      <tspan x="660" y="182">culoare, comportament.</tspan>
+      <tspan x="660" y="212" font-style="italic">fișa unei rase de pisici</tspan>
+    </text>
+  </g>
+  <text x="450" y="330" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 5, pp. 87-89</text>
+</svg>

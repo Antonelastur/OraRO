@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="340" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Cazul nominativ</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 10</text>
+
+  <g>
+    <rect x="90" y="95" width="330" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="255" y="123" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">Subiect</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="255" y="148">Arată cine face acțiunea</tspan>
+      <tspan x="255" y="164">sau despre cine se spune</tspan>
+      <tspan x="255" y="180">ceva.</tspan>
+      <tspan x="255" y="210" font-style="italic">Vântul bate destul de tare.</tspan>
+    </text>
+  </g>
+
+  <g>
+    <rect x="480" y="95" width="330" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="645" y="123" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">Nume predicativ</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="645" y="148">Completează sensul unui</tspan>
+      <tspan x="645" y="164">verb copulativ (a fi).</tspan>
+      <tspan x="645" y="210" font-style="italic">Crivățul este vântul cel</tspan>
+      <tspan x="645" y="226" font-style="italic">mai rece.</tspan>
+    </text>
+  </g>
+
+  <text x="450" y="290" text-anchor="middle" font-size="11.5" fill="#3a3226">Substantivul la nominativ nu are prepoziție înainte.</text>
+  <text x="450" y="316" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 10, p. 105</text>
+</svg>

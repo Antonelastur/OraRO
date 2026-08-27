@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="320" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Pronumele. Pronumele personal (I)</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 11, partea 1/2</text>
+  <rect x="150" y="95" width="600" height="90" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="450" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Ce arată</text>
+  <text font-size="12" fill="#3a3226" text-anchor="middle"><tspan x="450" y="147">Ține locul unui substantiv, are persoană și număr,</tspan><tspan x="450" y="164">iar la persoana a III-a, și gen.</tspan></text>
+  <text x="450" y="228" text-anchor="middle" font-size="13" fill="#3a3226" font-style="italic">eu, tu, el/ea, noi, voi, ei/ele</text>
+  <text x="450" y="270" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 11, p. 126</text>
+</svg>

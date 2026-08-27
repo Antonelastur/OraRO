@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="380" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Dialogul în textul literar</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V, Lecția 3 · D-l Goe... de I.L. Caragiale</text>
+
+  <rect x="120" y="95" width="660" height="110" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text font-size="12.5" fill="#3a3226" text-anchor="middle">
+    <tspan x="450" y="122" font-weight="700">— Mam’ mare! De ce nu mai vine?... </tspan><tspan fill="#6f5ea8" font-weight="700">Eu vreau să vie!</tspan>
+    <tspan x="450" y="148">— Vine, vine acuma, puișorul mamii! </tspan><tspan fill="#0d9c92" font-weight="700">răspunde cucoana.</tspan>
+    <tspan x="450" y="178">linia de dialog (—) marchează replica; verbul de declarație</tspan>
+    <tspan x="450" y="194">(zice, răspunde, strigă) anunță cine vorbește</tspan>
+  </text>
+
+  <g>
+    <rect x="80" y="225" width="340" height="110" rx="14" fill="#eaf6f4"/>
+    <text x="250" y="250" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Replica</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="250" y="274">Ce spune un personaj,</tspan>
+      <tspan x="250" y="290">introdusă de linia de dialog.</tspan>
+      <tspan x="250" y="312">Poate fi întrebare, răspuns,</tspan>
+      <tspan x="250" y="328">exclamație, poruncă.</tspan>
+    </text>
+  </g>
+
+  <g>
+    <rect x="480" y="225" width="340" height="110" rx="14" fill="#f1ecfa"/>
+    <text x="650" y="250" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Verbul de declarație</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="650" y="274">Arată cine vorbește și</tspan>
+      <tspan x="650" y="290">adesea cum: zice, răspunde,</tspan>
+      <tspan x="650" y="312" font-style="italic">strigă, zbiară, întreabă</tspan>
+    </text>
+  </g>
+
+  <text x="450" y="360" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 3, pp. 160-161</text>
+</svg>

@@ -32,3 +32,13 @@ Clasa a VIII-a/
 *.njsproj
 *.sln
 *.sw?
+
+# Python cache
+scripts/__pycache__/
+
+# Brief intern de proiect, nu se publica
+/Rol.docx
+
+# Text derivat din surse protejate (conversii graphify)
+graphify-out/converted/
+graphify-out/_*.txt

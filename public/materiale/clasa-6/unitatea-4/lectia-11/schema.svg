@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="380" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Pronumele personal (actualizare)</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 8</text>
+
+  <g>
+    <rect x="60" y="100" width="360" height="180" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="240" y="128" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Pronumele personal</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="240" y="154">Ține locul unui substantiv:</tspan>
+      <tspan x="240" y="170">persoană, număr, iar la</tspan>
+      <tspan x="240" y="186">persoana a III-a, și gen.</tspan>
+      <tspan x="240" y="212" font-style="italic">eu, tu, el/ea, noi, voi, ei/ele</tspan>
+      <tspan x="240" y="234">Forme accentuate și</tspan>
+      <tspan x="240" y="250">neaccentuate (mă, îmi...).</tspan>
+    </text>
+  </g>
+
+  <g>
+    <rect x="480" y="100" width="360" height="180" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="660" y="128" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Pronumele de politețe</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="660" y="154">Arată respect față de</tspan>
+      <tspan x="660" y="170">interlocutor, are grade</tspan>
+      <tspan x="660" y="186">diferite de politețe.</tspan>
+      <tspan x="660" y="212" font-style="italic">dumneata, dumneavoastră,</tspan>
+      <tspan x="660" y="228" font-style="italic">domnia sa, dumnealor</tspan>
+    </text>
+  </g>
+
+  <text x="450" y="330" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 8, p. 136, partea 1/2</text>
+</svg>

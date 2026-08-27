@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="340" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Circumstanțialele. Atributul</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 12 · tot în cazul acuzativ</text>
+
+  <g>
+    <rect x="90" y="95" width="330" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="255" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Circumstanțialul de loc/timp</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="255" y="150" font-weight="700">unde? până unde? când?</tspan>
+      <tspan x="255" y="178" font-style="italic">Radu aleargă până</tspan>
+      <tspan x="255" y="194" font-style="italic">la gard.</tspan>
+      <tspan x="255" y="220">Determină verbul, e adesea</tspan>
+      <tspan x="255" y="234">facultativ.</tspan>
+    </text>
+  </g>
+
+  <g>
+    <rect x="480" y="95" width="330" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="645" y="123" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">Atributul</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="645" y="148">Determină un substantiv,</tspan>
+      <tspan x="645" y="164">nu un verb.</tspan>
+      <tspan x="645" y="196" font-style="italic">O rază de soare s-a</tspan>
+      <tspan x="645" y="212" font-style="italic">strecurat printre nori.</tspan>
+    </text>
+  </g>
+
+  <text x="450" y="290" text-anchor="middle" font-size="11.5" fill="#3a3226">Ce determină partea de propoziție arată dacă e circumstanțial sau atribut.</text>
+  <text x="450" y="316" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 12, pp. 109-111</text>
+</svg>

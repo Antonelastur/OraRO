@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="420" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Inteligența emoțională</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 7 · exprimarea adecvată a emoțiilor</text>
+
+  <text x="450" y="95" text-anchor="middle" font-size="12" fill="#3a3226">Când simți o emoție puternică (mânie, frică), parcurge pașii:</text>
+
+  <g font-size="12" fill="#3a3226">
+    <rect x="55" y="115" width="120" height="66" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="115" y="140" text-anchor="middle" font-weight="700" fill="#10233f">1. Stai</text>
+    <text x="115" y="158" text-anchor="middle" font-size="10.5">liniștește-te,</text>
+    <text x="115" y="171" text-anchor="middle" font-size="10.5">adună-ți gândurile</text>
+
+    <rect x="195" y="115" width="120" height="66" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="255" y="140" text-anchor="middle" font-weight="700" fill="#10233f">2. Exprimă</text>
+    <text x="255" y="158" text-anchor="middle" font-size="10.5">ce simți, dă-i</text>
+    <text x="255" y="171" text-anchor="middle" font-size="10.5">un nume emoției</text>
+
+    <rect x="335" y="115" width="120" height="66" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="395" y="135" text-anchor="middle" font-weight="700" fill="#10233f">3. Stabilește</text>
+    <text x="395" y="152" text-anchor="middle" font-size="10.5">un scop</text>
+    <text x="395" y="167" text-anchor="middle" font-size="10.5">pozitiv</text>
+
+    <rect x="475" y="115" width="120" height="66" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="535" y="135" text-anchor="middle" font-weight="700" fill="#10233f">4. Gândește-te</text>
+    <text x="535" y="152" text-anchor="middle" font-size="10.5">la mai multe</text>
+    <text x="535" y="167" text-anchor="middle" font-size="10.5">soluții</text>
+
+    <rect x="615" y="115" width="120" height="66" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="675" y="140" text-anchor="middle" font-weight="700" fill="#10233f">5. Alege</text>
+    <text x="675" y="158" text-anchor="middle" font-size="10.5">planul cel</text>
+    <text x="675" y="171" text-anchor="middle" font-size="10.5">mai bun</text>
+
+    <rect x="755" y="115" width="105" height="66" rx="12" fill="#ffffff" stroke="#b8944f" stroke-width="2"/>
+    <text x="807" y="140" text-anchor="middle" font-weight="700" fill="#10233f">6. Acționează</text>
+    <text x="807" y="158" text-anchor="middle" font-size="10">după ce te-ai</text>
+    <text x="807" y="171" text-anchor="middle" font-size="10">gândit la urmări</text>
+  </g>
+
+  <path d="M 178 148 L 192 148" stroke="#b8944f" stroke-width="2" fill="none" marker-end="url(#arrE)"/>
+  <path d="M 318 148 L 332 148" stroke="#b8944f" stroke-width="2" fill="none" marker-end="url(#arrE)"/>
+  <path d="M 458 148 L 472 148" stroke="#b8944f" stroke-width="2" fill="none" marker-end="url(#arrE)"/>
+  <path d="M 598 148 L 612 148" stroke="#b8944f" stroke-width="2" fill="none" marker-end="url(#arrE)"/>
+  <path d="M 738 148 L 752 148" stroke="#b8944f" stroke-width="2" fill="none" marker-end="url(#arrE)"/>
+  <defs>
+    <marker id="arrE" markerWidth="7" markerHeight="7" refX="5" refY="3.5" orient="auto">
+      <path d="M0,0 L7,3.5 L0,7 z" fill="#b8944f"/>
+    </marker>
+  </defs>
+
+  <rect x="150" y="210" width="600" height="90" rx="14" fill="#fff3da" stroke="#b8944f" stroke-width="1.5"/>
+  <text font-size="12" fill="#3a3226" text-anchor="middle">
+    <tspan x="450" y="234" font-weight="700">Inteligența emoțională are trei componente:</tspan>
+    <tspan x="450" y="256">conștientizarea de sine (îți recunoști sentimentele),</tspan>
+    <tspan x="450" y="276">empatia (înțelegi sentimentele altora),</tspan>
+    <tspan x="450" y="296">și capacitatea de a-ți folosi emoțiile pozitiv.</tspan>
+  </text>
+
+  <text x="450" y="340" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 7, p. 135</text>
+</svg>

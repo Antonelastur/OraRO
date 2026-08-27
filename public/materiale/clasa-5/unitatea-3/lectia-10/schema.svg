@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="380" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Substantivul</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 8 · actualizare</text>
+
+  <rect x="330" y="85" width="240" height="48" rx="14" fill="#6f5ea8"/>
+  <text x="450" y="115" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">SUBSTANTIVUL</text>
+
+  <path d="M 450 133 L 450 155 L 210 155 L 210 178" stroke="#b8944f" stroke-width="2.5" fill="none"/>
+  <path d="M 450 133 L 450 155 L 690 155 L 690 178" stroke="#b8944f" stroke-width="2.5" fill="none"/>
+
+  <g>
+    <rect x="90" y="178" width="240" height="140" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="210" y="204" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Fel</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="210" y="228">comun — stradă,</tspan>
+      <tspan x="210" y="244">casă, prieten</tspan>
+      <tspan x="210" y="270">propriu — Ana,</tspan>
+      <tspan x="210" y="286">București (majusculă)</tspan>
+    </text>
+  </g>
+
+  <g>
+    <rect x="570" y="178" width="240" height="140" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="690" y="204" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Gen și număr</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+      <tspan x="690" y="228">masculin, feminin,</tspan>
+      <tspan x="690" y="244">neutru</tspan>
+      <tspan x="690" y="270">singular sau plural</tspan>
+      <tspan x="690" y="286" font-style="italic">o stradă — două străzi</tspan>
+    </text>
+  </g>
+
+  <text x="450" y="352" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 8, p. 94</text>
+</svg>

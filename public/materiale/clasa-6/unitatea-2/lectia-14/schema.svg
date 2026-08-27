@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="380" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Modul conjunctiv</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 10</text>
+
+  <rect x="150" y="95" width="600" height="80" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="450" y="123" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Ce arată</text>
+  <text font-size="12" fill="#3a3226" text-anchor="middle">
+    <tspan x="450" y="145">Acțiuni posibile, realizabile — nu certitudini, ca la indicativ.</tspan>
+    <tspan x="450" y="162">Se formează cu particula „să” + forma verbului.</tspan>
+  </text>
+
+  <g>
+    <rect x="80" y="205" width="360" height="130" rx="14" fill="#eaf6f4"/>
+    <text x="260" y="232" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Exemplu din text</text>
+    <text font-size="12" fill="#3a3226" text-anchor="middle">
+      <tspan x="260" y="258">„Îl mâhnește </tspan><tspan font-weight="700" fill="#0d9c92">să-i certe</tspan><tspan> pe copii.”</tspan>
+      <tspan x="260" y="280">„Îi încântă </tspan><tspan font-weight="700" fill="#0d9c92">să joace</tspan><tspan> fotbal.”</tspan>
+      <tspan x="260" y="308" font-style="italic">„să” + verbul la conjunctiv</tspan>
+    </text>
+  </g>
+
+  <g>
+    <rect x="460" y="205" width="360" height="130" rx="14" fill="#fff3da"/>
+    <text x="640" y="232" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">De reținut</text>
+    <text font-size="12" fill="#3a3226" text-anchor="middle">
+      <tspan x="640" y="258">Prezent: să cânt, să cânți...</tspan>
+      <tspan x="640" y="280">Perfect: să fi cântat...</tspan>
+      <tspan x="640" y="308">Timpul se stabilește față de</tspan>
+      <tspan x="640" y="326">momentul vorbirii.</tspan>
+    </text>
+  </g>
+
+  <text x="450" y="360" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 10, pp. 68-69</text>
+</svg>

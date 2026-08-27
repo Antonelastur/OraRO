@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="340" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Limbajul figurat. Metafora</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III · Am legat... de Marin Sorescu</text>
+  <g>
+    <rect x="60" y="95" width="360" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="240" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Comparația</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle"><tspan x="240" y="150">Apropie doi termeni</tspan><tspan x="240" y="166">printr-un cuvânt de legătură</tspan><tspan x="240" y="182">(ca, precum).</tspan><tspan x="240" y="208" font-style="italic">ochii ca marea</tspan></text>
+  </g>
+  <g>
+    <rect x="480" y="95" width="360" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="660" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Metafora</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle"><tspan x="660" y="150">Apropie doi termeni fără</tspan><tspan x="660" y="166">cuvânt de legătură — comparația</tspan><tspan x="660" y="182">e subînțeleasă, nu explicită.</tspan><tspan x="660" y="208" font-style="italic">marea ochilor tăi</tspan></text>
+  </g>
+  <text x="450" y="290" text-anchor="middle" font-size="11.5" fill="#3a3226">Metafora e o comparație scurtată, fără „ca” — mai densă, mai sugestivă.</text>
+  <text x="450" y="316" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, pp. 97-98</text>
+</svg>

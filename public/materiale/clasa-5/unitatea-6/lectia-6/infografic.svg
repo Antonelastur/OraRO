@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="300" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Carte românească de învățătură (II)</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea VI, Lecția 5, partea 2/2 · documentare online</text>
+  <rect x="150" y="95" width="600" height="90" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="450" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">De ce contează istoria cărții</text>
+  <text font-size="12" fill="#3a3226" text-anchor="middle"><tspan x="450" y="147">Fiecare etapă a păstrat și a răspândit limba și cultura</tspan><tspan x="450" y="164">românească, de la manuscris la carte digitală.</tspan></text>
+  <text x="450" y="230" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 5, p. 177</text>
+</svg>

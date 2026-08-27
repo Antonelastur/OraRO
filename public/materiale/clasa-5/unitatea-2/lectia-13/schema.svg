@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="320" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Imperfectul</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 12</text>
+  <rect x="150" y="95" width="600" height="90" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="450" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Ce arată</text>
+  <text font-size="12" fill="#3a3226" text-anchor="middle"><tspan x="450" y="147">O acțiune trecută, care se desfășoară în același timp cu</tspan><tspan x="450" y="164">altă acțiune trecută — are valoare durativă.</tspan></text>
+  <rect x="180" y="205" width="540" height="50" rx="12" fill="#f1ecfa"/>
+  <text x="450" y="235" text-anchor="middle" font-size="13" fill="#3a3226" font-style="italic">eu jucam, tu jucai, el juca — sunete: -a-, -ea-</text>
+  <text x="450" y="284" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 12, p. 64</text>
+</svg>

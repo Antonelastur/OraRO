@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="340" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Carte românească de învățătură (I)</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea VI, Lecția 5, partea 1/2 · de la prima carte tipărită</text>
+  <path d="M 90 180 L 810 180" stroke="#b8944f" stroke-width="3" fill="none" marker-end="url(#arrH)"/>
+  <defs><marker id="arrH" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#b8944f"/></marker></defs>
+  <g>
+    <rect x="60" y="110" width="220" height="140" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="170" y="138" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Secolul XVI</text>
+    <text font-size="10.5" fill="#3a3226" text-anchor="middle"><tspan x="170" y="164">Primele cărți</tspan><tspan x="170" y="180">tipărite în limba</tspan><tspan x="170" y="196">română.</tspan></text>
+  </g>
+  <g>
+    <rect x="340" y="110" width="220" height="140" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="450" y="138" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Secolele XVII-XIX</text>
+    <text font-size="10.5" fill="#3a3226" text-anchor="middle"><tspan x="450" y="164">Tiparul se</tspan><tspan x="450" y="180">răspândește,</tspan><tspan x="450" y="196">apar tot mai multe cărți.</tspan></text>
+  </g>
+  <g>
+    <rect x="620" y="110" width="220" height="140" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="730" y="138" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Azi</text>
+    <text font-size="10.5" fill="#3a3226" text-anchor="middle"><tspan x="730" y="164">Cartea digitală,</tspan><tspan x="730" y="180">citită pe ecran,</tspan><tspan x="730" y="196">alături de cartea tipărită.</tspan></text>
+  </g>
+  <text x="450" y="300" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 5, p. 176</text>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="460" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Texte continue și texte discontinue</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 8</text>
+
+  <g>
+    <rect x="60" y="95" width="360" height="300" rx="16" fill="#ffffff" stroke="#0d9c92" stroke-width="2.5"/>
+    <rect x="60" y="95" width="360" height="46" rx="16" fill="#0d9c92"/>
+    <rect x="60" y="119" width="360" height="22" fill="#0d9c92"/>
+    <text x="240" y="124" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">TEXTE CONTINUE</text>
+
+    <text font-size="12" fill="#3a3226">
+      <tspan x="82" y="170">Organizate în propoziții</tspan>
+      <tspan x="82" y="188">și paragrafe, curgătoare.</tspan>
+    </text>
+
+    <text x="82" y="222" font-size="12.5" font-weight="700" fill="#10233f">Pot fi:</text>
+    <text font-size="12" fill="#3a3226">
+      <tspan x="96" y="246">• texte literare, în proză</tspan>
+      <tspan x="96" y="264">  sau în versuri</tspan>
+      <tspan x="96" y="288">• texte nonliterare: articole,</tspan>
+      <tspan x="96" y="306">  lucrări științifice, reportaje</tspan>
+    </text>
+
+    <rect x="82" y="330" width="316" height="46" rx="10" fill="#eaf6f4"/>
+    <text x="96" y="358" font-size="11.5" fill="#3a3226">Ex.: textul Indescriptibil, povestit</text>
+    <text x="96" y="373" font-size="11.5" fill="#3a3226">ca narațiune continuă.</text>
+  </g>
+
+  <g>
+    <rect x="480" y="95" width="360" height="300" rx="16" fill="#ffffff" stroke="#6f5ea8" stroke-width="2.5"/>
+    <rect x="480" y="95" width="360" height="46" rx="16" fill="#6f5ea8"/>
+    <rect x="480" y="119" width="360" height="22" fill="#6f5ea8"/>
+    <text x="660" y="124" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">TEXTE DISCONTINUE</text>
+
+    <text font-size="12" fill="#3a3226">
+      <tspan x="502" y="170">Informații organizate în</tspan>
+      <tspan x="502" y="188">secvențe fără legătură</tspan>
+      <tspan x="502" y="206">gramaticală directă între ele.</tspan>
+    </text>
+
+    <text x="502" y="238" font-size="12.5" font-weight="700" fill="#10233f">Pot fi:</text>
+    <text font-size="12" fill="#3a3226">
+      <tspan x="516" y="262">• liste, tabele, calendare</tspan>
+      <tspan x="516" y="286">• grafice, diagrame</tspan>
+      <tspan x="516" y="310">• articole de dicționar, scheme</tspan>
+    </text>
+
+    <rect x="502" y="330" width="316" height="46" rx="10" fill="#f1ecfa"/>
+    <text x="516" y="358" font-size="11.5" fill="#3a3226">Ex.: Dicționarul școlarului, cuvinte</text>
+    <text x="516" y="373" font-size="11.5" fill="#3a3226">aliniate pe coloane, fără poveste.</text>
+  </g>
+
+  <text x="450" y="425" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 8, p. 21 (Repere)</text>
+</svg>

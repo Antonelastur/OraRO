@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="340" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Numeralul cardinal</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V, Lecția 9</text>
+
+  <rect x="150" y="95" width="600" height="90" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="450" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Ce arată</text>
+  <text font-size="12" fill="#3a3226" text-anchor="middle">
+    <tspan x="450" y="147">Exprimă un număr exact de obiecte sau ființe.</tspan>
+    <tspan x="450" y="164" font-style="italic">un, doi/două, trei, douăzeci și șapte</tspan>
+  </text>
+
+  <rect x="180" y="205" width="540" height="70" rx="14" fill="#f1ecfa"/>
+  <text x="450" y="230" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">un și o pot fi și articole nehotărâte, nu doar numerale</text>
+  <text x="450" y="252" text-anchor="middle" font-size="11.5" fill="#3a3226" font-style="italic">un basm (articol) — un singur basm, nu două (numeral)</text>
+
+  <text x="450" y="304" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 9, p. 158</text>
+</svg>

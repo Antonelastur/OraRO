@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="340" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Trăsături ale textului narativ nonliterar</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea VI, Lecția 2 · Jurnal de călătorie</text>
+  <g>
+    <rect x="90" y="100" width="330" height="140" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="255" y="128" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Nonliterar</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle"><tspan x="255" y="154">Fapte reale, verificabile,</tspan><tspan x="255" y="170">trăite chiar de autor.</tspan><tspan x="255" y="196">reperele de timp și loc sunt exacte</tspan></text>
+  </g>
+  <g>
+    <rect x="480" y="100" width="330" height="140" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="645" y="128" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Literar</text>
+    <text font-size="11.5" fill="#3a3226" text-anchor="middle"><tspan x="645" y="154">Poate fi ficțiune,</tspan><tspan x="645" y="170">inventat de autor.</tspan><tspan x="645" y="196">timpul și locul pot fi imaginare</tspan></text>
+  </g>
+  <text x="450" y="300" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 2, p. 171</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="420" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Enumerația. Personajele</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 3 · fabula Ulucul și găinile</text>
+
+  <rect x="350" y="86" width="200" height="46" rx="14" fill="#6f5ea8"/>
+  <text x="450" y="114" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">PERSONAJE</text>
+
+  <path d="M 450 132 L 450 152 L 230 152 L 230 174" stroke="#b8944f" stroke-width="2.5" fill="none"/>
+  <path d="M 450 132 L 450 152 L 670 152 L 670 174" stroke="#b8944f" stroke-width="2.5" fill="none"/>
+
+  <rect x="80" y="174" width="300" height="42" rx="10" fill="#eaf6f4"/>
+  <text x="230" y="200" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">animaliere</text>
+  <rect x="520" y="174" width="300" height="42" rx="10" fill="#f1ecfa"/>
+  <text x="670" y="200" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">umane</text>
+
+  <text font-size="11.5" fill="#3a3226" text-anchor="middle">
+    <tspan x="230" y="238">principale / secundare</tspan>
+    <tspan x="230" y="256">individuale / colective</tspan>
+    <tspan x="230" y="282" font-style="italic">uleul, găinile</tspan>
+    <tspan x="670" y="238">de obicei absente sau</tspan>
+    <tspan x="670" y="256">în plan secund în fabulă</tspan>
+    <tspan x="670" y="282" font-style="italic">„Ion prinse un uleu”</tspan>
+  </text>
+
+  <rect x="150" y="310" width="600" height="60" rx="14" fill="#fff3da" stroke="#b8944f" stroke-width="1.5"/>
+  <text font-size="12" fill="#3a3226" text-anchor="middle">
+    <tspan x="450" y="333">Enumerația înșiră mai mulți termeni de același fel, despărțiți prin virgulă,</tspan>
+    <tspan x="450" y="350">pentru a accentua o idee. Ex.: „Găini, cocoși și gâște întâi se îngroziră”.</tspan>
+  </text>
+
+  <text x="450" y="398" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 3, p. 126</text>
+</svg>

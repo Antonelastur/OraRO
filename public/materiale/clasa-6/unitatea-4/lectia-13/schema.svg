@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="380" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Funcțiile sintactice ale pronumelui</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 9 · posibilități combinatorii</text>
+
+  <rect x="130" y="90" width="640" height="46" rx="12" fill="#6f5ea8"/>
+  <text x="450" y="118" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">Are aceleași funcții sintactice ca substantivul</text>
+
+  <g font-size="11.5" fill="#3a3226">
+    <rect x="80" y="155" width="230" height="70" rx="10" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="195" y="177" text-anchor="middle" font-weight="700" fill="#10233f">Subiect (N)</text>
+    <text x="195" y="198" text-anchor="middle" font-style="italic">Ei au acceptat.</text>
+
+    <rect x="335" y="155" width="230" height="70" rx="10" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="450" y="177" text-anchor="middle" font-weight="700" fill="#10233f">Nume predicativ (N)</text>
+    <text x="450" y="198" text-anchor="middle" font-style="italic">Mesagerul este el.</text>
+
+    <rect x="590" y="155" width="230" height="70" rx="10" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="705" y="177" text-anchor="middle" font-weight="700" fill="#10233f">Atribut pronominal (Ac/G)</text>
+    <text x="705" y="198" text-anchor="middle" font-style="italic">tufișurile de lângă ea</text>
+  </g>
+
+  <rect x="150" y="248" width="600" height="60" rx="14" fill="#fff3da" stroke="#b8944f" stroke-width="1.5"/>
+  <text font-size="12" fill="#3a3226" text-anchor="middle">
+    <tspan x="450" y="270">Formele neaccentuate (l-, i-, le-) pot anticipa sau relua un</tspan>
+    <tspan x="450" y="288">complement: „L-am văzut la cofetărie pe tata.”</tspan>
+  </text>
+
+  <text x="450" y="340" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 9, p. 140, partea 1/2</text>
+</svg>

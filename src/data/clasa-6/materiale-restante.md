@@ -1,0 +1,113 @@
+# Materiale restante, clasa a VI-a
+
+Listă cumulativă a lecțiilor cu materiale `null`, de completat într-o singură
+sesiune dedicată, după ce toate cele 5 unități sunt construite structural
+(id, titlu, obiective, sursaManual). Actualizată pe măsură ce se construiește
+fiecare unitate. Nu se șterg rânduri decât după ce materialul chiar există în
+cod.
+
+Legendă tip resursă: **prezentare** (PDF slide-uri), **fișă** (PDF printabil),
+**infografic** (imagine, de obicei Canva), **test** (Google Forms, construit
+de Antoanela, itemii pot fi propuși de Claude).
+
+## Recapitulare inițială
+
+Toate cele 6 lecții au material (joc sau schemă, refolosite din clasa a V-a). Nimic restant.
+
+## Unitatea I: Acasă, în familie, printre cărți
+
+| Lecție | Titlu | Lipsește |
+|---|---|---|
+| lectia-1 | Textul narativ literar. Un păianjen care se crede Spiderman | prezentare |
+| lectia-4 | Semnificațiile textului (Un păianjen...) | fișă |
+| lectia-5 | Textul descriptiv literar în proză. Indescriptibil | prezentare |
+| lectia-7 | Semnificațiile textului (Indescriptibil) | fișă |
+| lectia-9 | Text auxiliar. Lectura în trei, în doi, de unul singur | fișă |
+| lectia-10 | Valori etice în legendele popoarelor | fișă sau infografic |
+| lectia-15 | Omonimele. Cuvintele polisemantice | fișă |
+| lectia-18 | Trăsăturile stilului. Jurnalul ca specie | fișă |
+| lectia-19 | Redactarea unei pagini de jurnal | fișă |
+| lectia-22 | Evaluare, probă scrisă | test (Google Forms) |
+
+Notă: lecția 12 (Contextul de comunicare II, joc de rol) are intenționat `materiale` null peste tot — manualul conține deja, la p. 27, o activitate completă de joc de rol, nu apare în tabelul de mai sus, nu e o resursă restantă.
+
+## Unitatea II: Printre colegi și prieteni
+
+| Lecție | Titlu | Lipsește |
+|---|---|---|
+| lectia-1 | Proiectul de grup „Prietenia în filme” (anunțare) | fișă (cerințe și criterii) |
+| lectia-2 | Textul narativ literar. Oracolul de Mircea Cărtărescu | prezentare |
+| lectia-5 | Personajele | fișă |
+| lectia-6 | Semnificațiile textului | fișă |
+| lectia-7 | Text auxiliar. Micuțul Nicolas | fișă |
+| lectia-8 | Valori ale culturii populare. Etnii și jocuri de copii | infografic |
+| lectia-9 | Prezentarea proiectului „Prietenia în filme” | fișă (grilă de evaluare) |
+| lectia-11 | Rezumatul oral (II), rezumarea unui text și a unui film | fișă |
+| lectia-13 | Verbul (actualizare), flexiunea verbală | fișă |
+| lectia-20 | Rezumatul scris (I), identificarea secvențelor | fișă |
+| lectia-21 | Rezumatul scris (II), redactarea rezumatului | fișă |
+| lectia-24 | Evaluare, probă scrisă | test (Google Forms) |
+
+## Unitatea III: Dincolo de ferestre
+
+| Lecție | Titlu | Lipsește |
+|---|---|---|
+| lectia-1 | Textul descriptiv literar în versuri. Iarna (I), prima lectură | prezentare |
+| lectia-2 | Iarna (II), prozodie și recitare | fișă |
+| lectia-5 | Epitetul. Versificația (II), rimă, măsură, ritm | schemă sau fișă |
+| lectia-6 | Semnificațiile textului | fișă |
+| lectia-7 | Textul nonliterar. Buletinul meteorologic. Știrea | infografic |
+| lectia-8 | Text auxiliar. Greutatea omătului de Ana Blandiana | fișă |
+| lectia-9 | Bradul în cultura populară românească (I) | infografic |
+| lectia-10 | Bradul în cultura populară românească (II) | infografic |
+| lectia-11 | Proiect individual. Obiceiuri specifice sărbătorilor de iarnă | fișă (cerințe și criterii) |
+| lectia-13 | Atitudini comunicative | fișă sau infografic (termometrul atitudinilor) |
+| lectia-21 | Descrierea unui peisaj (I), pregătirea redactării | fișă |
+| lectia-22 | Descrierea unui peisaj (II), redactarea | fișă |
+| lectia-25 | Evaluare, probă scrisă | test (Google Forms) |
+
+## Unitatea IV: Popasuri cu tâlc
+
+| Lecție | Titlu | Lipsește |
+|---|---|---|
+| lectia-1 | Textul narativ literar în versuri. Ulucul și găinile | prezentare |
+| lectia-4 | Semnificațiile textului (I), discuție și opinie | fișă |
+| lectia-5 | Semnificațiile textului (II), mesajul fabulei azi | fișă |
+| lectia-6 | Text auxiliar. Iepurele și broasca-țestoasă de La Fontaine | fișă |
+| lectia-8 | Înțelepciunea proverbelor (II), similitudini interculturale | infografic |
+| lectia-12 | Pronumele personal și de politețe (II), caz și grade de politețe | fișă |
+| lectia-14 | Posibilități combinatorii ale pronumelui (II), clitice și ortografie | fișă |
+| lectia-17 | Inserarea secvențelor descriptive (I), pregătire | fișă |
+| lectia-18 | Inserarea secvențelor descriptive (II), redactare | fișă |
+| lectia-20 | Textul explicativ (II), redactarea | fișă |
+| lectia-23 | Evaluare, probă scrisă | test (Google Forms) |
+
+## Unitatea V: Călătorii de tot felul
+
+| Lecție | Titlu | Lipsește |
+|---|---|---|
+| lectia-1 | Proiectul „Comunitățile din jurul României” (anunțare) | fișă (cerințe și criterii) |
+| lectia-2 | Textul narativ literar. D-l Goe... de I.L. Caragiale | prezentare |
+| lectia-5 | Personajele | fișă |
+| lectia-6 | Semnificațiile textului | fișă |
+| lectia-7 | Textul argumentativ. Motive pentru care călătoriile te fac mai bun | fișă |
+| lectia-9 | Text auxiliar. George și cheia secretă a Universului | fișă |
+| lectia-10 | Limba română în Europa. Comunitatea lingvistică | infografic |
+| lectia-11 | Prezentarea proiectului „Comunitățile din jurul României” | fișă (grilă de evaluare) |
+| lectia-13 | Strategii de concepere și comprehensiune a textului oral | fișă |
+| lectia-15 | Posibilități combinatorii ale adjectivului | fișă |
+| lectia-17 | Gradele de comparație și funcțiile sintactice ale adverbului | fișă |
+| lectia-19 | Transformarea vorbirii directe în indirectă (II), exerciții | fișă |
+| lectia-22 | Evaluare, probă scrisă | test (Google Forms) |
+
+## Total cumulativ, toate cele 5 unități + recapitulare inițială
+
+**122 de lecții** construite structural (id, titlu, obiective, sursaManual, toate verificate direct în manual sau, pentru recapitulare, în clasa a V-a). **62 de lecții au material** (schemă, infografic sau joc). **60 de lecții au `materiale` null**, din care 59 sunt restante reale, listate mai sus, și 1 (Unitatea I, lecția 12) e intenționat fără material, manualul are deja activitatea completă.
+
+Cele 59 de lecții restante, pe tip de resursă:
+
+- fișă: 39
+- prezentare: 6
+- infografic: 6
+- test (Google Forms, itemii pot fi propuși de Claude, forma finală o construiește Antoanela): 5
+- de decis între fișă și infografic sau între schemă și fișă: 3

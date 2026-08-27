@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="320" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Adjectivul, tipuri</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III · actualizare</text>
+  <g>
+    <rect x="60" y="95" width="240" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="180" y="123" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Propriu-zis</text>
+    <text font-size="11" fill="#3a3226" text-anchor="middle"><tspan x="180" y="150" font-style="italic">frumos, harnic</tspan></text>
+  </g>
+  <g>
+    <rect x="330" y="95" width="240" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="450" y="123" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Participial</text>
+    <text font-size="11" fill="#3a3226" text-anchor="middle"><tspan x="450" y="150">din verb la participiu</tspan><tspan x="450" y="176" font-style="italic">obosit, uimit</tspan></text>
+  </g>
+  <g>
+    <rect x="600" y="95" width="240" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="720" y="123" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Din altă parte de vorbire</text>
+    <text font-size="11" fill="#3a3226" text-anchor="middle"><tspan x="720" y="150" font-style="italic">de aur, de vis</tspan></text>
+  </g>
+  <text x="450" y="280" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, pp. 114-115</text>
+</svg>

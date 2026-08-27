@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="320" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Viitorul. Verbele auxiliare a vrea și a fi</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 15</text>
+  <g>
+    <rect x="90" y="100" width="330" height="120" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="255" y="128" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Viitor (a vrea)</text>
+    <text font-size="12" fill="#3a3226" text-anchor="middle"><tspan x="255" y="154" font-style="italic">voi juca, vei juca, va juca</tspan></text>
+  </g>
+  <g>
+    <rect x="480" y="100" width="330" height="120" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="645" y="128" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Viitor anterior (a fi)</text>
+    <text font-size="12" fill="#3a3226" text-anchor="middle"><tspan x="645" y="154" font-style="italic">voi fi jucat, vei fi jucat</tspan></text>
+  </g>
+  <text x="450" y="280" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 15, p. 70</text>
+</svg>
