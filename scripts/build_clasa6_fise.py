@@ -43,8 +43,20 @@ def write_lines(page, y, n, gap=LINE_GAP):
 GRID = (0.78, 0.80, 0.81)
 
 
+def _hdr_lines(cols, widths):
+    return max(1, *[1 + int(len(str(c)) * 4.8 / (w - 8)) for c, w in zip(cols, widths)])
+
+
 def draw_table(page, y, cols, widths, rows, row_h, data=None):
-    y = table_row(page, y, cols, widths, bold=True, fill=(0.92, 0.96, 0.96))
+    # antet cu înălțime adaptată, ca titlurile lungi de coloană să nu fie tăiate
+    hh = 8 + _hdr_lines(cols, widths) * 13
+    page.draw_rect(fitz.Rect(48, y - 2, 48 + sum(widths), y - 2 + hh), color=None, fill=(0.92, 0.96, 0.96))
+    x = 48
+    for c, w in zip(cols, widths):
+        page.insert_textbox(fitz.Rect(x + 4, y, x + w - 4, y - 2 + hh), str(c),
+                            fontsize=10, fontname="F-bold", color=(0.14, 0.13, 0.15), lineheight=1.15)
+        x += w
+    y = y - 2 + hh
     top = y
     for i in range(rows):
         if data and i < len(data):
@@ -84,7 +96,7 @@ def _layout_page(page, blocks, reper_text=None):
             if b["t"] == "table":
                 rh = b.get("row_h", 34)
                 if dry:
-                    y += 22 + rh * b["rows"]
+                    y += 6 + _hdr_lines(b["cols"], b["widths"]) * 13 + rh * b["rows"]
                 else:
                     y = draw_table(pg, y, b["cols"], b["widths"], b["rows"], rh, b.get("data"))
                 y += 12
@@ -547,6 +559,97 @@ def fisa_text_explicativ(out, subtitlu, sursa):
         "precis, și folosește conectori care leagă ideile."))
 
 
+def fisa_argumentativ(out, subtitlu, titlu_text, sursa):
+    sheet(out, "Fișă de lucru — Textul argumentativ", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Teza", "weight": 2,
+         "prompt": f"Care este ideea pe care autoarea o susține în {titlu_text}? Scrie-o într-o propoziție."},
+        {"t": "table", "n": 2, "title": "Argumentele", "rows": 3, "row_h": 40,
+         "cols": ["Argumentul (pe scurt)", "Cuvântul sau expresia care îl introduce", "Un exemplu din text"],
+         "widths": [190, 160, 160],
+         "prompt": "Găsește trei argumente din text și conectorii care le leagă (în plus, mai mult, de asemenea)."},
+        {"t": "lines", "n": 3, "title": "Ești de acord?", "weight": 4,
+         "prompt": "Ești de acord cu teza autoarei? Scrie-ți poziția și adaugă un argument propriu, diferit de cele din text."},
+        {"t": "lines", "n": 4, "title": "Un contraargument", "weight": 3,
+         "prompt": "Ce ar putea răspunde cineva care nu e de acord? Formulează un contraargument și apoi replica ta."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 166-167): Un text argumentativ susține o idee (teza) prin argumente, legate între "
+        "ele cu conectori: în plus, mai mult, de asemenea, prin urmare. De obicei se încheie cu o concluzie "
+        "care reia teza."))
+
+
+def fisa_text_oral(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Comprehensiunea textului oral. Parafraza", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Parafrazează", "weight": 3,
+         "prompt": "Ascultă (sau citește cu voce tare) un scurt text informativ. Reformulează cu cuvintele tale trei enunțuri din el, fără să schimbi sensul."},
+        {"t": "table", "n": 2, "title": "Explicit sau implicit", "rows": 4, "row_h": 32,
+         "cols": ["Informația", "Explicită (spusă direct)", "Implicită (dedusă)"], "widths": [280, 115, 115],
+         "prompt": "Pentru fiecare informație, bifează dacă a fost spusă direct sau dedusă din text."},
+        {"t": "lines", "n": 3, "title": "O întrebare de clarificare", "weight": 3,
+         "prompt": "Ce nu a fost clar în text? Formulează o întrebare pe care ai pune-o vorbitorului."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 178-179): A parafraza înseamnă a reformula o idee cu propriile cuvinte, păstrând "
+        "sensul. Într-un text, informațiile explicite sunt spuse direct, iar cele implicite se deduc din context."))
+
+
+REP_ADJECTIV = (
+    "Reper (manual, pp. 182-183): Adjectivul determină un substantiv și are, de obicei, funcția sintactică de "
+    "atribut adjectival sau de nume predicativ. Un adjectiv poate fi la rândul lui determinat de un adverb sau "
+    "de un complement (mândru de reușită, ușor de citit).")
+
+
+def fisa_adjectiv(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Posibilitățile combinatorii ale adjectivului", subtitlu, [
+        {"t": "table", "n": 1, "title": "Adjectivul și funcția lui", "rows": 4, "row_h": 34,
+         "cols": ["Enunț", "Adjectivul", "Funcția sintactică"], "widths": [280, 110, 120],
+         "data": [["Singurul român care a zburat în cosmos este Prunariu.", "", ""],
+                  ["Astronautul este celebru.", "", ""],
+                  ["Costumele astronauților sunt grele.", "", ""],
+                  ["O călătorie în spațiu este fascinantă.", "", ""]]},
+        {"t": "lines", "n": 2, "title": "Ce determină adjectivul", "weight": 3,
+         "prompt": "Adaugă un adverb sau un complement lângă fiecare adjectiv: „mândru ___”, „ușor ___”, „plin ___”. Ce parte de propoziție e cuvântul adăugat?"},
+        {"t": "lines", "n": 3, "title": "Completează cu adjective", "weight": 3,
+         "prompt": "Completează și precizează funcția sintactică a adjectivului: „Orașele ___ sunt ___.” / „Ghidul ___ a fost ___.”"},
+    ], sursa, reper_text=REP_ADJECTIV)
+
+
+def fisa_adverb(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Adverbul: grade de comparație, funcție sintactică", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Subliniază adverbele", "weight": 2,
+         "prompt": ["Subliniază toate adverbele din textul de mai jos:",
+                    "„Copiii se joacă azi în curte împreună. Acolo se întâmplă cele mai surprinzătoare lucruri.",
+                    "Ies degrabă din clase. Unii intră apoi foarte încet, tiptil, după profesori.”"]},
+        {"t": "table", "n": 2, "title": "Cu grad sau fără grad de comparație", "rows": 3, "row_h": 32,
+         "cols": ["Adverbul", "Are grade de comparație? (da / nu)", "La ce grad e folosit aici"],
+         "widths": [110, 200, 200]},
+        {"t": "lines", "n": 3, "title": "Funcția sintactică", "weight": 3,
+         "prompt": "Pentru trei adverbe din text, pune întrebarea potrivită (unde? când? cum?) și scrie ce circumstanțial este."},
+        {"t": "lines", "n": 4, "title": "Trece la toate gradele", "weight": 3,
+         "prompt": "Trece adverbul „lesne”, pe rând, la gradul comparativ (de superioritate, de egalitate, de inferioritate) și la superlativ."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 186-187): Adverbul arată o circumstanță (de loc, de timp, de mod) și are, de "
+        "obicei, funcția de circumstanțial. Unele adverbe au grade de comparație (repede, mai repede, foarte "
+        "repede), altele nu (acasă, azi, mereu, aici)."))
+
+
+def fisa_vorbire_indirecta(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Transformarea vorbirii directe în vorbire indirectă", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Ce se schimbă", "weight": 2,
+         "prompt": "Trece în vorbire indirectă: „— Vin și eu cu voi! strigă Ana.” Notează ce ai schimbat: semnele de punctuație, persoana verbului, persoana pronumelui."},
+        {"t": "table", "n": 2, "title": "Verbul de declarație potrivit", "rows": 3, "row_h": 36,
+         "cols": ["Replica (vorbire directă)", "Verbul de declarație", "Cuvântul de legătură (că / să / dacă)"],
+         "widths": [230, 140, 140],
+         "data": [["„Unde mergem?” a întrebat Dan.", "", ""],
+                  ["„Adu-mi cartea!” i-a spus.", "", ""],
+                  ["„Am terminat tema.” a zis Maria.", "", ""]]},
+        {"t": "lines", "n": 3, "title": "Transformă un dialog întreg", "weight": 4,
+         "prompt": "Ia un schimb scurt de replici (3-4) dintr-un text citit la clasă și repovestește-l în întregime în vorbire indirectă."},
+    ], sursa, reper_text=(
+        "Reper (manual, p. 188): La trecerea în vorbire indirectă dispar semnele dialogului (linie, ghilimele, "
+        "semnul exclamării sau al întrebării), verbele și pronumele trec la persoana a III-a, iar replicile se "
+        "leagă de un verb de declarație prin „că” (enunțiativ), „să” (imperativ) sau „dacă” / un cuvânt "
+        "interogativ (interogativ). Vocativul dispare, iar spusele sunt repovestite, nu reproduse exact."))
+
+
 if __name__ == "__main__":
     fisa_semnificatii("unitatea-1/lectia-4/fisa.pdf",
                       "Unitatea I, Lecția 4 · Un păianjen care se crede Spiderman de Adina Popescu",
@@ -669,4 +772,50 @@ if __name__ == "__main__":
     fisa_text_explicativ("unitatea-4/lectia-20/fisa.pdf",
                          "Unitatea IV, Lecția 20 (manual, Lecția 13, partea 2/2)", "Art 6, Lecția 13, p. 149")
 
-    print("\nFise clasa a VI-a: U1 (7) + U2 (9) + U3 (8) + U4 (8) = 32")
+    # ---------- Unitatea V ----------
+    fisa_proiect_cerinte(
+        "unitatea-5/lectia-1/fisa.pdf", "Unitatea V, Lecția 1 · Proiect de grup",
+        "Comunitățile din jurul României",
+        "Alegeți o comunitate românească din afara granițelor (dintr-o țară vecină sau din diaspora) și pregătiți o prezentare despre viața, limba și tradițiile ei.",
+        ["Unde trăiește comunitatea aleasă și de când",
+         "Cum își păstrează limba română (școală, biserică, familie, presă)",
+         "Două-trei tradiții sau sărbători specifice",
+         "O mărturie: un citat dintr-un interviu, un articol sau o persoană cu care ați vorbit",
+         "Rolul fiecărui membru al grupei"],
+        "Proiect de grup, prezentare la finalul unității.",
+        [("Informația despre comunitate e corectă și documentată", "3p"),
+         ("Legătura cu limba română e explicată clar", "3p"),
+         ("Mărturia adaugă ceva viu prezentării", "2p"),
+         ("Colaborarea în grup", "2p")],
+        "Art 6, Proiect de grup, p. 175")
+    fisa_personaje("unitatea-5/lectia-5/fisa.pdf",
+                   "Unitatea V, Lecția 5 · D-l Goe... de I.L. Caragiale",
+                   "D-l Goe...", "Art 6, Lecția 4, pp. 162-163")
+    fisa_semnificatii("unitatea-5/lectia-6/fisa.pdf",
+                      "Unitatea V, Lecția 6 · D-l Goe... de I.L. Caragiale",
+                      "Pe cine ironizează autorul mai mult în această schiță: pe Goe sau pe familia lui? De ce crezi asta?",
+                      "Art 6, Lecția 5, pp. 164-165")
+    fisa_argumentativ("unitatea-5/lectia-7/fisa.pdf", "Unitatea V, Lecția 7",
+                      "Motive pentru care călătoriile te fac mai bun de Samantha Fanelli",
+                      "Art 6, Lecția 6, pp. 166-167")
+    fisa_text_auxiliar("unitatea-5/lectia-9/fisa.pdf", "Unitatea V, Lecția 9",
+                       "George și cheia secretă a Universului de Lucy și Stephen Hawking",
+                       "Art 6, Lecția 8, „Noi pagini, alte idei”, pp. 170-171",
+                       texte_baza="textul de bază al unității (D-l Goe... de I.L. Caragiale)")
+    fisa_proiect_grila("unitatea-5/lectia-11/fisa.pdf", "Unitatea V, Lecția 11 · Proiect de grup",
+                       "Comunitățile din jurul României",
+                       [("Informația despre comunitate e corectă și documentată", "3p"),
+                        ("Legătura cu limba română e explicată clar", "3p"),
+                        ("Mărturia adaugă ceva viu prezentării", "2p"),
+                        ("Colaborarea în grup", "2p")],
+                       "Art 6, Proiect de grup, p. 175")
+    fisa_text_oral("unitatea-5/lectia-13/fisa.pdf",
+                   "Unitatea V, Lecția 13 (manual, Lecția 11)", "Art 6, Lecția 11, pp. 178-179")
+    fisa_adjectiv("unitatea-5/lectia-15/fisa.pdf",
+                  "Unitatea V, Lecția 15 (manual, Lecția 13)", "Art 6, Lecția 13, pp. 182-183")
+    fisa_adverb("unitatea-5/lectia-17/fisa.pdf",
+                "Unitatea V, Lecția 17 (manual, Lecția 15)", "Art 6, Lecția 15, pp. 186-187")
+    fisa_vorbire_indirecta("unitatea-5/lectia-19/fisa.pdf",
+                           "Unitatea V, Lecția 19 (manual, Lecția 16, partea 2/2)", "Art 6, Lecția 16, pp. 188-189")
+
+    print("\nFise clasa a VI-a: U1 (7) + U2 (9) + U3 (8) + U4 (8) + U5 (10) = 42")
