@@ -15,21 +15,13 @@ manual — rămân fără material.
 | Lecție | Titlu | Tip orientativ |
 |---|---|---|
 | lectia-1 | Cum e lumea de Veronica D. Niculescu | prezentare |
-| lectia-2 | Legarea secvențelor narative | fișă |
-| lectia-3 | Naratorul, personajele, autorul. Enumerația | fișă |
-| lectia-4 | Semnificațiile textului | fișă |
 | lectia-5 | Textul nonliterar, textul discontinuu. Anunțul | infografic |
-| lectia-6 | Text auxiliar. Amintiri din copilărie de Ion Creangă | fișă |
 | lectia-7 | Contacte culturale | infografic |
-| lectia-8 | Principii de interacțiune în comunicare (I) | joc |
-| lectia-9 | Principii de interacțiune în comunicare (II) | — (manualul are deja joc de rol) |
-| lectia-14 | Pleonasmul | joc |
 | lectia-15 | Categoriile semantice. Confuziile paronimice | schemă |
 | lectia-16 | Îmbinări libere de cuvinte și locuțiuni | schemă |
-| lectia-17 | Utilizarea corectă a accentului | joc |
-| lectia-18 | Etapele scrierii. Organizarea unui text | fișă |
-| lectia-19 | Stil: naturalețe, armonie, varietate, concizie, originalitate | fișă |
 | lectia-22 | Evaluare, probă scrisă | test (Google Forms) |
+
+Gata, integrate în cod: fișele lecțiilor 2, 3, 4, 6, 18, 19 (`scripts/build_clasa7_fise.py`) și jocurile-quiz ale lecțiilor 8, 14, 17. Lecția 9 rămâne intenționat fără material (manualul are joc de rol). Rămân: 2 infografice (5, 7), 2 scheme (15, 16), prezentarea (1) și testul (22).
 
 ## Unitatea II: Aproape de ceilalți (20 lecții)
 
