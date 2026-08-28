@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="400" fill="#faf7f0"/>
+  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Construcțiile condiționale</text>
+  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V · lecția 16 · o ipoteză sau o condiție de care depinde desfășurarea unui proces · Cu ce condiție?</text>
+
+  <rect x="55" y="80" width="790" height="60" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="102" font-size="13" font-weight="700" fill="#10233f">Regentul</text>
+  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="124">un verb sau o locuțiune verbală, un adjectiv (o mască utilizabilă în caz de incendiu), o interjecție predicativă</tspan></text>
+
+  <rect x="55" y="156" width="390" height="130" rx="14" fill="none" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="75" y="180" font-size="13" font-weight="700" fill="#10233f">În propoziție</text>
+  <text font-size="11" fill="#3a3226"><tspan x="75" y="202">• substantiv (sau substitut) în acuzativ ori</tspan><tspan x="75" y="220">  genitiv, cu prepoziții sau locuțiuni (cu</tspan><tspan x="75" y="238">  condiția să…, în caz de…, în locul lor)</tspan><tspan x="75" y="256">• gerunziu (Ascultând cu atenție, vei înțelege.)</tspan><tspan x="75" y="272">• adverb (Antrenează-te, altfel nu poți câștiga!)</tspan></text>
+
+  <rect x="465" y="156" width="380" height="130" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
+  <text x="485" y="180" font-size="13" font-weight="700" fill="#10233f">În frază (subordonate)</text>
+  <text font-size="11" fill="#3a3226"><tspan x="485" y="202">• conjuncții (dacă, de, să, când cu sens</tspan><tspan x="485" y="220">  condițional)</tspan><tspan x="485" y="238">• locuțiuni conjuncționale (în caz că, fără să)</tspan><tspan x="485" y="256">• pronume + locuțiunea prepozițională „în locul”</tspan><tspan x="485" y="274">• juxtapunere: Muncești, ai de toate!</tspan></text>
+
+  <text x="450" y="332" text-anchor="middle" font-size="11.5" fill="#3a3226">Topica e liberă; virgula apare mai frecvent când construcția e antepusă: Dacă are timp, va veni.</text>
+  <text x="450" y="378" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 196-197</text>
+</svg>

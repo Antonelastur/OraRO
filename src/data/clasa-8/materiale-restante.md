@@ -45,32 +45,22 @@ schema lecției 13 și jocul lecției 19, deja existente.
 
 Rămân: prezentarea lecției 2 (NotebookLM) și testul lecției 20 (Google Forms).
 
-## Unitatea V: Încotro se îndreaptă lumea? (23 lecții, 13 cu material)
+## Unitatea V: Încotro se îndreaptă lumea? (23 lecții, 19 cu material)
 
-Gata, integrate în cod: fișele lecțiilor 3, 4, 5, 6, 7, 17, 18
-(`scripts/build_clasa8_fise.py`); jocurile-quiz ale lecțiilor 9 și 10
-(argumentare și persuasiune), 19 și 21 (recapitulare); plus schema lecției 15
+Gata, integrate în cod: fișele lecțiilor 3, 4, 5, 6, 7, 17, 18; jocurile-quiz
+ale lecțiilor 9, 10, 19, 21; **schemele lecțiilor 11 (circumstanțialul de
+cauză), 12 (circumstanțiala de cauză), 13 (circumstanțialul de scop), 14
+(circumstanțiala de scop), 16 (construcții condiționale) și infograficul
+lecției 8 (modele comportamentale) — pasul dedicat**; plus schema lecției 15
 și jocul lecției 20, deja existente.
 
-Rămân:
-
-| Lecție | Titlu | Tip orientativ |
-|---|---|---|
-| lectia-1 | Textul epic. Fahrenheit 451 de Ray Bradbury | prezentare |
-| lectia-2 | Textul epic de mare întindere | prezentare |
-| lectia-8 | Modele comportamentale în textele literaturii universale | infografic (pas dedicat) |
-| lectia-11 | Circumstanțialul de cauză | schemă (pas dedicat) |
-| lectia-12 | Circumstanțiala de cauză | schemă (pas dedicat) |
-| lectia-13 | Circumstanțialul de scop | schemă (pas dedicat) |
-| lectia-14 | Circumstanțiala de scop | schemă (pas dedicat) |
-| lectia-16 | Construcții condiționale | schemă (pas dedicat) |
-| lectia-22 | Evaluare (partea 1/2) | test (Google Forms) |
-| lectia-23 | Evaluare (partea 2/2) | test (Google Forms) |
+Rămân: prezentările lecțiilor 1 și 2 (NotebookLM) și testele lecțiilor 22, 23
+(Google Forms).
 
 ## Total
 
-**119 lecții** construite structural (recapitulare inițială + 5 unități), sursate din 8. Ghid.pdf — Planificare calendaristică orientativă 2025-2026 și Proiectarea unităților de învățare (ediția Art Klett 2025, aceeași cu manualul din folder).
+**119 lecții** construite structural (recapitulare inițială + 5 unități), sursate din manualul Art Klett 2025 și din 8. Ghid.pdf — Planificarea calendaristică orientativă 2025-2026 și Proiectarea unităților de învățare (aceeași ediție cu manualul).
 
-**10 au material** (schemă sau joc, câte una din fiecare pe unitate, verificate live pe server). **107 sunt restanțe reale**, listate mai sus, tip orientativ, de completat într-o sesiune dedicată — plus cele 2 din recapitularea inițială, intenționat fără material, nu sunt restanțe. Aceeași convenție ca la clasele a V-a, a VI-a și a VII-a: schemă/infografic/joc/fișă pot fi generate direct în cod, prezentare și test au nevoie de o unealtă externă (NotebookLM/Canva, respectiv Google Forms).
+**103 au material** — fișe (script `build_clasa8_fise.py`), scheme și infografice SVG în `public/materiale/clasa-8/`, jocuri-quiz inline. **16 rămân fără material**: 14 prezentări și teste (au nevoie de NotebookLM, respectiv Google Forms) și recapitularea inițială (2 lecții administrative). Acoperire: 103/117 (fără recapitularea inițială) ≈ 88%, comparabil cu clasa a VI-a (110/122) și a VII-a (105/119).
 
-Clasa a VIII-a rămâne neînregistrată în `clase.js` — `src/data/clasa-8/index.js` are `unitati` gol, deși `clase.js` importă deja acest fișier (spre deosebire de clasele a VI-a și a VII-a, absente complet din `clase.js`).
+Clasa a VIII-a este înregistrată în `clase.js`.

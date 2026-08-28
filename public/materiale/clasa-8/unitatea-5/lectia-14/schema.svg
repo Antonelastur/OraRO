@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="400" fill="#faf7f0"/>
+  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Circumstanțiala de scop</text>
+  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V · lecția 14 · realizarea propozițională a circumstanțialului de scop · răspunde la cu ce scop?</text>
+
+  <rect x="55" y="80" width="390" height="130" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Regentul</text>
+  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="128">• un verb sau o locuțiune verbală</tspan><tspan x="75" y="148">  (L-am chemat să mă ajute.)</tspan><tspan x="75" y="168">• un adjectiv (amabil ca să facă o impresie)</tspan><tspan x="75" y="188">• o interjecție predicativă</tspan></text>
+
+  <rect x="465" y="80" width="380" height="130" rx="14" fill="none" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="485" y="104" font-size="13" font-weight="700" fill="#10233f">Elemente de relație</text>
+  <text font-size="11" fill="#3a3226"><tspan x="485" y="126">• conjuncții (ca să / ca…să, să, de)</tspan><tspan x="485" y="146">• locuțiunea conjuncțională „pentru ca…să”</tspan><tspan x="485" y="166">• pronume relative însoțite de prepoziții</tspan><tspan x="485" y="186">  (pentru ce avea de realizat)</tspan></text>
+
+  <rect x="55" y="226" width="790" height="88" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="250" font-size="12.5" font-weight="700" fill="#10233f">Topica și punctuația</text>
+  <text font-size="11" fill="#3a3226"><tspan x="75" y="272">în regentă pot apărea corelative: de aceea, anume, înadins, intenționat</tspan><tspan x="75" y="292">introdusă prin „să” și „de” stă după regentă, fără virgulă; prin „ca să” / „pentru ca…să” poate sta și înaintea ei</tspan></text>
+
+  <text x="450" y="378" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 192-193</text>
+</svg>
