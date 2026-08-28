@@ -2,6 +2,7 @@ import { Link, useParams } from 'react-router-dom'
 import { motion } from 'motion/react'
 import { clase } from '../data/clase.js'
 import { Breadcrumb } from '../components/Breadcrumb.tsx'
+import { ProgresBara } from '../components/ProgresBara.tsx'
 import { areMateriale } from '../lib/lectii.ts'
 
 function ClasaPage() {
@@ -32,8 +33,9 @@ function ClasaPage() {
                 >
                   <h2 className="text-lg font-semibold text-ink">{unitate.titlu}</h2>
                   <p className="mt-1 text-sm text-ink-soft">
-                    {total} {total === 1 ? 'lecție' : 'lecții'} · {cuMateriale} cu materiale
+                    {total} {total === 1 ? 'lecție' : 'lecții'}
                   </p>
+                  <ProgresBara className="mt-3" compact gata={cuMateriale} total={total} />
                 </Link>
               </motion.div>
             )

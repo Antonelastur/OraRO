@@ -3,8 +3,9 @@ import { motion } from 'motion/react'
 import { clase } from '../data/clase.js'
 import { Breadcrumb } from '../components/Breadcrumb.tsx'
 import { MaterialChips } from '../components/MaterialChips.tsx'
+import { ProgresBara } from '../components/ProgresBara.tsx'
 import { Tooltip, TooltipContent, TooltipTrigger } from '../components/ui/tooltip.tsx'
-import { completitudineLectie } from '../lib/lectii.ts'
+import { areMateriale, completitudineLectie } from '../lib/lectii.ts'
 
 function UnitatePage() {
   const { clasa, unitate } = useParams()
@@ -25,6 +26,12 @@ function UnitatePage() {
         ]}
       />
       <h1 className="text-2xl font-bold text-ink">{dateUnitate.titlu}</h1>
+
+      <ProgresBara
+        className="mt-4 max-w-md"
+        gata={dateUnitate.lectii.filter(areMateriale).length}
+        total={dateUnitate.lectii.length}
+      />
 
       <ol className="mt-6 flex flex-col gap-2">
         {dateUnitate.lectii.map((lectie, index) => {
