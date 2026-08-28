@@ -48,33 +48,23 @@ Rămân:
 | lectia-14 | Construcțiile incidente | schemă (pas dedicat) |
 | lectia-23 | Evaluare | test (Google Forms) |
 
-## Unitatea III: Cum descoperim lumea? (23 lecții fără material, din 25 totale)
+## Unitatea III: Cum descoperim lumea? (25 lecții, 19 cu material)
+
+Gata, integrate în cod: fișele lecțiilor 1, 2, 3, 4, 5, 6, 8, 9, 10, 15, 17,
+19, 20, 21 (`scripts/build_clasa8_fise.py`); jocurile-quiz ale lecțiilor 11
+(textul argumentativ), 22 și 24 (recapitulare); plus schema lecției 12 și
+jocul lecției 23, deja existente.
+
+Rămân:
 
 | Lecție | Titlu | Tip orientativ |
 |---|---|---|
-| lectia-1 | Textul literar, dincolo de clasificări. În Țara-Obiectelor-cu-Suflet de Angela Baciu | fișă |
-| lectia-2 | Lumea ficțională | fișă |
-| lectia-3 | Combinarea structurilor textuale | fișă |
-| lectia-4 | Semnificațiile textului | fișă |
-| lectia-5 | Textul discontinuu | fișă |
-| lectia-6 | Text auxiliar. Pescărușul Jonathan Livingston de Richard Bach | fișă |
 | lectia-7 | Conexiuni de lectură. Lumea Sofiei de Jostein Gaarder | prezentare |
-| lectia-8 | Proiect de grup. Limbi inventate | fișă (cerințe și criterii) |
-| lectia-9 | Textul argumentativ. Repere (partea 1/2) | fișă |
-| lectia-10 | Textul argumentativ. Construirea unei argumentări (partea 2/2) | fișă |
-| lectia-11 | Textul argumentativ. Argumentare orală și autoevaluare | test (Google Forms) sau joc |
-| lectia-13 | Atributiva | schemă |
-| lectia-14 | Complementul direct | schemă |
-| lectia-15 | Completiva directă | fișă |
-| lectia-16 | Complementul indirect | schemă |
-| lectia-17 | Completiva indirectă | fișă |
-| lectia-18 | Complementul prepozițional | schemă |
-| lectia-19 | Completiva prepozițională | fișă |
-| lectia-20 | Tipare textuale de structurare a ideilor. Comparație, analogie (partea 1/2) | fișă |
-| lectia-21 | Tipare textuale de structurare a ideilor. Comparație, analogie (partea 2/2) | fișă |
-| lectia-22 | Recapitulare (partea 1/3) | test (Google Forms) sau joc |
-| lectia-24 | Recapitulare (partea 3/3) | test (Google Forms) sau joc |
-| lectia-25 | Evaluare | test (Google Forms) sau joc |
+| lectia-13 | Atributiva | schemă (pas dedicat) |
+| lectia-14 | Complementul direct | schemă (pas dedicat) |
+| lectia-16 | Complementul indirect | schemă (pas dedicat) |
+| lectia-18 | Complementul prepozițional | schemă (pas dedicat) |
+| lectia-25 | Evaluare | test (Google Forms) |
 
 ## Unitatea IV: Unde găsim adevărul? (18 lecții fără material, din 20 totale)
 

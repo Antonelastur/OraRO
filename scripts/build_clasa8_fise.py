@@ -337,6 +337,222 @@ def fisa_cronica_film_2(out, subtitlu, sursa):
     ], sursa)
 
 
+def fisa_proiect_cerinte(out, subtitlu, nume, tema, cerinte, calendar, criterii, sursa):
+    sheet(out, f"Fișă de proiect — {nume}", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Tema", "weight": 1, "prompt": tema},
+        {"t": "lines", "n": 2, "title": "Ce trebuie să conțină", "weight": 1,
+         "prompt": [f"• {c}" for c in cerinte]},
+        {"t": "lines", "n": 3, "title": "Calendar", "weight": 1, "prompt": calendar},
+        {"t": "table", "n": 4, "title": "Criterii de evaluare (punctaj orientativ)", "rows": len(criterii),
+         "cols": ["Criteriu", "Punctaj"], "widths": [420, 90], "data": [[c, p] for c, p in criterii]},
+        {"t": "lines", "n": 5, "title": "Împărțirea sarcinilor în grup", "weight": 3,
+         "prompt": "Scrieți numele fiecărui membru al grupei și de ce răspunde."},
+    ], sursa)
+
+
+# ---------- Unitatea III ----------
+
+def fisa_text_dincolo_clasificari(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Textul literar, dincolo de clasificări", subtitlu, [
+        {"t": "table", "n": 1, "title": "Trăsături epice și lirice, în textul Angelei Baciu", "rows": 4, "row_h": 30,
+         "cols": ["Citatul din text", "Trăsătură epică / lirică", "Ce arată"], "widths": [200, 140, 170]},
+        {"t": "lines", "n": 2, "title": "Cele două planuri", "weight": 3,
+         "prompt": "Textul are un plan al adultului-narator (persoana I) și unul al Fetiței cu codițe (persoana a III-a). Transcrie câte un pasaj pentru fiecare și spune ce relație crezi că e între ele."},
+        {"t": "lines", "n": 3, "title": "Obiectele-cu-Suflet", "weight": 3,
+         "prompt": "Alege un obiect din camera sau din casa ta care ar putea avea suflet. Descrie-l în 4-5 rânduri, cu o poveste care e doar a ta."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 98-100): Mulți autori contemporani scriu texte care depășesc granițele "
+        "tipurilor tradiționale, combinând trăsături ale textului epic (narator, întâmplări, personaje, indici "
+        "de timp și de spațiu) cu trăsături ale textului liric (subiectivitate, emoție, limbaj figurat, persoana "
+        "I, mărci ale trăirii). Literatura se dovedește astfel un spațiu al creativității neîngrădite."))
+
+
+def fisa_lumea_fictionala(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Lumea ficțională", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Semnale ale ficțiunii", "weight": 3,
+         "prompt": "Ce aspecte din text îți arată că e vorba despre o lume inventată, nu despre lumea reală? Dă trei exemple."},
+        {"t": "lines", "n": 2, "title": "Limbajul creează lumea", "weight": 3,
+         "prompt": "Autoarea scrie unele cuvinte cu majusculă după alte reguli decât cele obișnuite (Obiectele-cu-Suflet). Cum contribuie această alegere la construirea Țării-Obiectelor-cu-Suflet?"},
+        {"t": "lines", "n": 3, "title": "Pactul cu cititorul", "weight": 3,
+         "prompt": "Ce înseamnă că, intrând într-o lume ficțională, cititorul „face un pact”? Ce comunică autoarea despre felul în care înțelege lumea, prin această poveste?"},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 101-102): Ficțiunea (din lat. fictio, „născocire”) e o reprezentare produsă de "
+        "imaginație, cu invenția de evenimente și personaje imaginare. Ficțiunea literară e o lume inventată, "
+        "construită cu ajutorul limbajului, mai apropiată sau mai îndepărtată de realitate. Cititorul face un "
+        "pact: acceptă că nu va găsi o lume reală, ci una inventată, prin care autorul comunică ceva despre "
+        "felul în care percepe lumea. Limbajul e cel care creează lumea: alegerea cuvintelor, îmbinarea lor, "
+        "organizarea în paragrafe, așezarea în pagină, ortografia, punctuația."))
+
+
+def fisa_structuri_textuale(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Combinarea structurilor textuale", subtitlu, [
+        {"t": "table", "n": 1, "title": "Recunoaște structura", "rows": 5, "row_h": 28,
+         "cols": ["Fragmentul (din text sau dintr-un text nonliterar)", "Narativă / descriptivă / dialogată / explicativă / argumentativă", "Întrebarea la care răspunde"],
+         "widths": [200, 170, 140]},
+        {"t": "lines", "n": 2, "title": "Ce câștigă textul din combinare", "weight": 3,
+         "prompt": "Alege un pasaj în care se îmbină două structuri textuale. Ce aduce fiecare? Cum ar fi textul fără una dintre ele?"},
+        {"t": "lines", "n": 3, "title": "Structura dominantă", "weight": 3,
+         "prompt": "Care structură predomină în textul Angelei Baciu? Pe baza ei, cum ai numi sensul global al textului: mai degrabă o poveste, o descriere, o explicație sau o luare de poziție?"},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 103-104): Într-un text literar apar structuri textuale diverse, recunoscute după "
+        "funcție: narative (întâmplări raportate la timp — cine? ce face? când?), descriptive (personaje, "
+        "peisaje, obiecte în spațiu — cum arată? ce trăsături are?), dialogate (replicile personajelor — cine "
+        "vorbește? despre ce?), explicative (explicații pentru a înțelege acțiuni sau elemente ale lumii "
+        "ficționale — cum se explică?), argumentative (susținerea unui punct de vedere cu argumente și "
+        "exemple — de ce?). Combinarea lor dă dinamism textului; structura dominantă indică sensul global."))
+
+
+def fisa_text_discontinuu(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Textul discontinuu", subtitlu, [
+        {"t": "table", "n": 1, "title": "Continuu, discontinuu sau mixt", "rows": 4, "row_h": 30,
+         "cols": ["Documentul (hartă, tabel, diagramă, reclamă, orar…)", "Continuu / discontinuu / mixt", "Cum se citește"],
+         "widths": [230, 130, 150]},
+        {"t": "lines", "n": 2, "title": "Descifrează un text discontinuu", "weight": 4,
+         "prompt": "Alege o hartă sau o diagramă. Ce informații cuprinde? Ce repere folosești ca să te orientezi? Notează trei date pe care le extragi din ea."},
+        {"t": "lines", "n": 3, "title": "Rolul documentului", "weight": 3,
+         "prompt": "Textul discontinuu ales descrie ceva, explică ceva sau ajută la orientare? Dă un exemplu de text discontinuu cu alt rol decât cel identificat."},
+    ], sursa, reper_text=(
+        "Reper (manual, p. 106): După format, textele pot fi continue (propoziții și paragrafe înșiruite — "
+        "eseuri, rapoarte, romane), discontinue (informații neliniare — liste, tabele, hărți, diagrame, "
+        "reclame, orare) sau mixte (combină cele două — reviste, pagini web). Textul discontinuu e un "
+        "document vizual care nu e organizat în propoziții și paragrafe, deci lectura lui nu e liniară; ca să-l "
+        "descifreze, cititorul trebuie să înțeleagă modul de organizare specific documentului."))
+
+
+def fisa_argumentativ_1(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Textul argumentativ. Reperele", subtitlu, [
+        {"t": "table", "n": 1, "title": "Părțile unei argumentări", "rows": 3, "row_h": 34,
+         "cols": ["Partea", "Ce conține", "Conectori care o marchează"], "widths": [110, 230, 170],
+         "data": [["Introducere", "teza sau opinia față de o teză dată", ""],
+                  ["Cuprins", "argumente și contraargumente + exemple", ""],
+                  ["Încheiere", "concluzia, relevanța argumentelor pentru teză", ""]]},
+        {"t": "lines", "n": 2, "title": "Recunoaște conectorii", "weight": 3,
+         "prompt": "Notează câte doi conectori pentru: exprimarea opiniei, introducerea unui argument, introducerea unui contraargument, introducerea unui exemplu, introducerea concluziei."},
+        {"t": "lines", "n": 3, "title": "Ordonează o argumentare", "weight": 3,
+         "prompt": "Alege o teză (de exemplu: „Ca să înțelegi lumea, trebuie să-ți folosești imaginația.”). Scrie, în ordine: opinia, un argument cu un exemplu, un contraargument, concluzia."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 110-111): Un text argumentativ, oral sau scris, are scopul de a convinge. "
+        "Conține: 1. o introducere, care enunță teza (o opinie sau o judecată de valoare) sau exprimă o "
+        "poziție față de o teză dată; 2. un cuprins, cu argumente și contraargumente (explicații sau justificări) "
+        "și exemple care le ilustrează; 3. o încheiere, cu o concluzie succintă. Conectori: pentru opinie "
+        "(consider că, părerea mea este că), argument (pentru că, deoarece), pro-contra (deși, totuși, pe de "
+        "o parte), exemplu (de exemplu, de pildă), concluzie (așadar, în concluzie, prin urmare)."))
+
+
+def fisa_argumentativ_2(out, subtitlu, sursa):
+    sheet2(out, "Fișă de lucru — Construirea unei argumentări", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Teza și opinia", "weight": 2,
+         "prompt": "Alege o teză din unitate. Scrie-ți opinia față de ea, cu o formulă de tipul „Consider că…”."},
+        {"t": "lines", "n": 2, "title": "Argumente cu exemple", "weight": 4,
+         "prompt": "Scrie două argumente, ierarhizate (în primul rând… în al doilea rând…), fiecare întărit cu un exemplu concret (dintr-un text, un film, o piesă muzicală sau din experiența ta)."},
+        {"t": "lines", "n": 3, "title": "Un contraargument", "weight": 3,
+         "prompt": "Formulează un contraargument și arată de ce, totuși, poziția ta rămâne în picioare."},
+    ], [
+        {"t": "table", "n": 4, "title": "Verificare", "rows": 4, "row_h": 26,
+         "cols": ["Criteriu", "Da / Nu"], "widths": [400, 110],
+         "data": [["Introducerea enunță clar opinia", ""],
+                  ["Fiecare argument are cel puțin un exemplu", ""],
+                  ["Conectorii de argument, exemplu și concluzie sunt folosiți corect", ""],
+                  ["Concluzia arată relevanța argumentelor pentru teză", ""]]},
+        {"t": "lines", "n": 5, "title": "Forma finală", "weight": 6,
+         "prompt": "Rescrie argumentarea în formă finală, gata de prezentat oral, într-un minut, în fața clasei."},
+    ], sursa)
+
+
+def fisa_completiva_directa(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Completiva directă", subtitlu, [
+        {"t": "table", "n": 1, "title": "Complement direct sau completivă directă", "rows": 4, "row_h": 30,
+         "cols": ["Enunțul / fraza", "CD sau CD-ivă (propoziție)", "Elementul regent"], "widths": [230, 140, 140]},
+        {"t": "lines", "n": 2, "title": "Elementele de relație", "weight": 3,
+         "prompt": "Pentru trei fraze, spune prin ce e introdusă completiva directă: conjuncție (că, să, dacă, de), adverb relativ, pronume relativ (cu/fără „pe”), adjectiv pronominal relativ, pronume sau adjectiv pronominal nehotărât."},
+        {"t": "lines", "n": 3, "title": "Corectează", "weight": 3,
+         "prompt": "Corectează: „Vreau ca să mergem la film.” · „Cred căci merită atenție.” · „M-a întrebat că cine sunt eu.” · „Mi-a amintit că ce bine era în vacanță.”"},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 118-119): Completiva directă este realizarea propozițională a complementului "
+        "direct și răspunde la întrebările pe cine?, ce?. Regentul ei poate fi un verb, o locuțiune verbală sau "
+        "o interjecție predicativă (Iată ce cadou am primit!). Se introduce prin conjuncții și locuțiuni "
+        "conjuncționale subordonatoare (că, să, ca…să, dacă, de, cum că), adverbe relative (cum, unde, "
+        "când, cât, încotro), pronume relative cu sau fără „pe” (care, cine, ce, câți, ceea ce), adjective "
+        "pronominale relative, pronume și adjective pronominale nehotărâte. Stă de obicei după regentă, fără "
+        "virgulă; antepusă și evidențiată, poate fi despărțită prin virgulă sau linie de pauză, dar nu obligatoriu."))
+
+
+def fisa_completiva_indirecta(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Completiva indirectă", subtitlu, [
+        {"t": "table", "n": 1, "title": "Expansiune: din complement indirect în completivă indirectă", "rows": 4, "row_h": 30,
+         "cols": ["Complement indirect", "Completiva indirectă (rescrisă ca propoziție)"], "widths": [230, 280],
+         "data": [["I-am dat prietenului meu jurnalul.", ""], ["Bravo lui!", ""],
+                  ["Profesorul le pune întrebări elevilor.", ""], ["A trimis mesaje tuturor.", ""]]},
+        {"t": "lines", "n": 2, "title": "Regentul și elementul de relație", "weight": 3,
+         "prompt": "Pentru trei fraze la alegere, spune ce parte de vorbire e regentul (verb, adjectiv, adverb, interjecție) și prin ce e introdusă completiva indirectă (pronume relativ în dativ, adjectiv pronominal relativ, pronume sau adjectiv pronominal nehotărât)."},
+        {"t": "lines", "n": 3, "title": "Poziție și punctuație", "weight": 3,
+         "prompt": "Unde stă, de obicei, completiva indirectă față de regentă? Când se desparte prin virgulă? Dă un exemplu propriu pentru fiecare situație."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 121-122): Completiva indirectă este realizarea propozițională a complementului "
+        "indirect și răspunde la întrebarea cui?. Regentul poate fi un verb sau o locuțiune verbală, un "
+        "adjectiv, un adverb sau o interjecție (Bravo cui a câștigat concursul!). Unele completive indirecte pot "
+        "fi dublate în regentă prin clitic pronominal în dativ. Se introduce prin pronume relativ în dativ, "
+        "adjective pronominale relative, pronume nehotărâte în dativ, adjective pronominale nehotărâte. Stă "
+        "adesea după regentă, fără virgulă; antepusă, poate fi despărțită prin virgulă, dar nu obligatoriu."))
+
+
+def fisa_completiva_prepozitionala(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Completiva prepozițională", subtitlu, [
+        {"t": "table", "n": 1, "title": "Complement prepozițional sau completivă prepozițională", "rows": 4, "row_h": 30,
+         "cols": ["Enunțul / fraza", "CP sau CP-ivă (propoziție)", "Întrebarea (de ce? despre ce? la ce?…)"],
+         "widths": [230, 130, 150]},
+        {"t": "lines", "n": 2, "title": "Regentul", "weight": 3,
+         "prompt": "Pentru trei fraze, spune ce parte de vorbire e regentul: verb, locuțiune verbală, adjectiv, adverb, interjecție. Dă câte un exemplu."},
+        {"t": "lines", "n": 3, "title": "Elementele de relație", "weight": 3,
+         "prompt": "Notează câte un exemplu de completivă prepozițională introdusă prin: conjuncție (că, să, dacă, ca…să), locuțiune conjuncțională (ca nu cumva să), pronume relativ, pronume nehotărât, adverb relativ."},
+        {"t": "lines", "n": 4, "title": "Punctuație", "weight": 2,
+         "prompt": "Când se desparte prin virgulă completiva prepozițională antepusă? Scrie un exemplu în care e reluată prin pronume demonstrativ."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 124-125): Completiva prepozițională este realizarea propozițională a "
+        "complementului prepozițional și răspunde la întrebările de cine?, de ce?, despre ce?, la ce?, cu "
+        "cine? etc. Regentul poate fi un verb (cu categoria modului sau la o formă nepersonală), o locuțiune "
+        "verbală, un adjectiv, un adverb sau o interjecție (Halal de cine a crezut-o!). Se introduce prin "
+        "conjuncții subordonatoare (că, să, dacă, ca…să), locuțiuni conjuncționale (ca nu cumva să), "
+        "pronume și adjective pronominale relative sau nehotărâte, adverbe relative. Stă de obicei după "
+        "regentă, fără virgulă; antepusă și reluată prin pronume demonstrativ sau personal, se desparte prin virgulă."))
+
+
+def fisa_comparatie_analogie_1(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Comparație și analogie", subtitlu, [
+        {"t": "table", "n": 1, "title": "Comparație pe criterii", "rows": 4, "row_h": 30,
+         "cols": ["Criteriul", "Elementul A", "Elementul B"], "widths": [150, 180, 180],
+         "prompt": "Alege două elemente (obiecte, personaje, texte, imagini) și compară-le pe patru criterii."},
+        {"t": "lines", "n": 2, "title": "Mijloace ale comparației", "weight": 3,
+         "prompt": "Scrie trei enunțuri despre cele două elemente, folosind: gradul comparativ de egalitate (la fel de… ca), de superioritate (mai…), superlativul relativ (cel mai…)."},
+        {"t": "lines", "n": 3, "title": "Analogia", "weight": 3,
+         "prompt": "Propune câte o analogie pentru: copilărie, frumusețe, imaginație. Explică pe ce asemănare parțială se bazează fiecare."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 126-127): Compararea a două sau mai multe elemente evidențiază asemănările "
+        "și deosebirile, pe criterii relevante, folosind mijloace ale gradelor de comparație: comparativ de "
+        "egalitate (tot atât de…, la fel de…), de inegalitate (mai…; mai puțin…), superlativ relativ (cel/cea "
+        "mai…). Analogia se bazează pe compararea unor noțiuni, situații sau fenomene între care există o "
+        "asemănare parțială; e folosită des pentru a explica noțiuni abstracte prin asocierea lor cu elemente "
+        "concrete și familiare."))
+
+
+def fisa_comparatie_analogie_2(out, subtitlu, sursa):
+    sheet2(out, "Fișă de lucru — Un text cu comparație și analogie", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Criteriile", "weight": 2,
+         "prompt": "Alege două imagini, două texte sau două personaje. Stabilește patru criterii după care le poți pune în paralel."},
+        {"t": "lines", "n": 2, "title": "Ciorna", "weight": 5,
+         "prompt": "Scrie un text (10-15 rânduri) în care compari cele două elemente pe criteriile alese și inserezi câte o analogie potrivită pentru fiecare."},
+    ], [
+        {"t": "table", "n": 3, "title": "Verificare", "rows": 4, "row_h": 26,
+         "cols": ["Criteriu", "Da / Nu"], "widths": [400, 110],
+         "data": [["Textul evidențiază aspectele comune și pe cele diferite", ""],
+                  ["Conține câte o analogie pentru fiecare element", ""],
+                  ["Textul e coerent și clar structurat", ""],
+                  ["Exprimarea e nuanțată și corectă (grade de comparație folosite corect)", ""]]},
+        {"t": "lines", "n": 4, "title": "Forma finală", "weight": 6,
+         "prompt": "Rescrie textul în formă finală, cu așezarea în pagină corectă și fără greșeli."},
+    ], sursa)
+
+
 if __name__ == "__main__":
     # ---------- Unitatea I ----------
     fisa_versificatie("unitatea-1/lectia-2/fisa.pdf",
@@ -396,4 +612,51 @@ if __name__ == "__main__":
     fisa_cronica_film_2("unitatea-2/lectia-19/fisa.pdf",
                         "Unitatea II, Lecția 19 (manual, partea 2/2)", "Art 8, pp. 92-93")
 
-    print("\nFise clasa a VIII-a: U1 (12) + U2 (9) = 21")
+    # ---------- Unitatea III ----------
+    fisa_text_dincolo_clasificari("unitatea-3/lectia-1/fisa.pdf",
+                                  "Unitatea III, Lecția 1 · În Țara-Obiectelor-cu-Suflet de Angela Baciu", "Art 8, pp. 98-100")
+    fisa_lumea_fictionala("unitatea-3/lectia-2/fisa.pdf",
+                          "Unitatea III, Lecția 2 · În Țara-Obiectelor-cu-Suflet de Angela Baciu", "Art 8, pp. 101-102")
+    fisa_structuri_textuale("unitatea-3/lectia-3/fisa.pdf",
+                            "Unitatea III, Lecția 3 · În Țara-Obiectelor-cu-Suflet de Angela Baciu", "Art 8, pp. 103-104")
+    fisa_semnificatii("unitatea-3/lectia-4/fisa.pdf",
+                      "Unitatea III, Lecția 4 · În Țara-Obiectelor-cu-Suflet de Angela Baciu",
+                      "Textul e o pledoarie pentru a privi „altfel” lumea sau vorbește despre autocunoaștere? Care interpretare ți se apropie?",
+                      "Art 8, p. 105")
+    fisa_text_discontinuu("unitatea-3/lectia-5/fisa.pdf",
+                          "Unitatea III, Lecția 5", "Art 8, p. 106")
+    fisa_text_auxiliar("unitatea-3/lectia-6/fisa.pdf", "Unitatea III, Lecția 6",
+                       "Pescărușul Jonathan Livingston de Richard Bach (fragment)",
+                       "textul de bază al unității (În Țara-Obiectelor-cu-Suflet de Angela Baciu)",
+                       "Art 8, „Noi pagini, alte idei”, pp. 107-108")
+    fisa_proiect_cerinte(
+        "unitatea-3/lectia-8/fisa.pdf", "Unitatea III, Lecția 8 · Proiect de grup",
+        "Limbi inventate",
+        "În grupe de 3-4 elevi, alegeți o limbă inventată (auxiliară, fictivă, experimentală, secretă sau ludică) și prezentați-o colegilor printr-o prezentare PowerPoint sau un produs media.",
+        ["Categoria din care face parte limba aleasă și de ce a fost inventată",
+         "Exemple relevante din cărți, filme sau documentare",
+         "Cel puțin o regulă de formare sau de pronunție a limbii",
+         "Sursele consultate, citate corect",
+         "Rolul fiecărui membru al echipei"],
+        "Timp de realizare: o săptămână.",
+        [("Materialul e bine structurat și ușor de înțeles", "3p"),
+         ("Informațiile sunt relevante pentru limba aleasă", "3p"),
+         ("Fiecare membru a contribuit la material și la prezentare", "2p"),
+         ("Prezentarea e clară și dovedește creativitate", "2p")],
+        "Art 8, Proiect de grup, p. 109")
+    fisa_argumentativ_1("unitatea-3/lectia-9/fisa.pdf",
+                        "Unitatea III, Lecția 9 (manual, partea 1/2)", "Art 8, pp. 110-111")
+    fisa_argumentativ_2("unitatea-3/lectia-10/fisa.pdf",
+                        "Unitatea III, Lecția 10 (manual, partea 2/2)", "Art 8, pp. 110-111")
+    fisa_completiva_directa("unitatea-3/lectia-15/fisa.pdf",
+                            "Unitatea III, Lecția 15", "Art 8, pp. 118-119")
+    fisa_completiva_indirecta("unitatea-3/lectia-17/fisa.pdf",
+                              "Unitatea III, Lecția 17", "Art 8, pp. 121-122")
+    fisa_completiva_prepozitionala("unitatea-3/lectia-19/fisa.pdf",
+                                   "Unitatea III, Lecția 19", "Art 8, pp. 124-125")
+    fisa_comparatie_analogie_1("unitatea-3/lectia-20/fisa.pdf",
+                               "Unitatea III, Lecția 20 (manual, partea 1/2)", "Art 8, pp. 126-127")
+    fisa_comparatie_analogie_2("unitatea-3/lectia-21/fisa.pdf",
+                               "Unitatea III, Lecția 21 (manual, partea 2/2)", "Art 8, p. 127")
+
+    print("\nFise clasa a VIII-a: U1 (12) + U2 (9) + U3 (14) = 35")
