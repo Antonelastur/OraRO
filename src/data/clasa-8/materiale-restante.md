@@ -85,31 +85,27 @@ Rămân:
 | lectia-15 | Circumstanțiala de mod | schemă (pas dedicat) |
 | lectia-20 | Evaluare | test (Google Forms) |
 
-## Unitatea V: Încotro se îndreaptă lumea? (21 lecții fără material, din 23 totale)
+## Unitatea V: Încotro se îndreaptă lumea? (23 lecții, 13 cu material)
+
+Gata, integrate în cod: fișele lecțiilor 3, 4, 5, 6, 7, 17, 18
+(`scripts/build_clasa8_fise.py`); jocurile-quiz ale lecțiilor 9 și 10
+(argumentare și persuasiune), 19 și 21 (recapitulare); plus schema lecției 15
+și jocul lecției 20, deja existente.
+
+Rămân:
 
 | Lecție | Titlu | Tip orientativ |
 |---|---|---|
 | lectia-1 | Textul epic. Fahrenheit 451 de Ray Bradbury | prezentare |
 | lectia-2 | Textul epic de mare întindere | prezentare |
-| lectia-3 | Structuri textuale | fișă |
-| lectia-4 | Personajele. Conflictul | fișă |
-| lectia-5 | Semnificațiile textului | fișă |
-| lectia-6 | Textul nonliterar. Textul de opinie. Când vei fi adult, e posibil să nu ai un loc de muncă de Yuval Noah Harari | fișă |
-| lectia-7 | Text auxiliar. Prima lecție de geometrie de Ov. S. Crohmălniceanu | fișă |
-| lectia-8 | Modele comportamentale în textele literaturii universale | infografic |
-| lectia-9 | Argumentare și persuasiune (partea 1/2) | joc |
-| lectia-10 | Argumentare și persuasiune (partea 2/2) | joc |
-| lectia-11 | Circumstanțialul de cauză | schemă |
-| lectia-12 | Circumstanțiala de cauză | schemă |
-| lectia-13 | Circumstanțialul de scop | schemă |
-| lectia-14 | Circumstanțiala de scop | schemă |
-| lectia-16 | Construcții condiționale | schemă |
-| lectia-17 | Modalități de exprimare a preferințelor și a opiniilor (partea 1/2) | fișă |
-| lectia-18 | Modalități de exprimare a preferințelor și a opiniilor (partea 2/2) | fișă |
-| lectia-19 | Recapitulare (partea 1/3) | test (Google Forms) sau joc |
-| lectia-21 | Recapitulare (partea 3/3) | test (Google Forms) sau joc |
-| lectia-22 | Evaluare (partea 1/2) | test (Google Forms) sau joc |
-| lectia-23 | Evaluare (partea 2/2) | test (Google Forms) sau joc |
+| lectia-8 | Modele comportamentale în textele literaturii universale | infografic (pas dedicat) |
+| lectia-11 | Circumstanțialul de cauză | schemă (pas dedicat) |
+| lectia-12 | Circumstanțiala de cauză | schemă (pas dedicat) |
+| lectia-13 | Circumstanțialul de scop | schemă (pas dedicat) |
+| lectia-14 | Circumstanțiala de scop | schemă (pas dedicat) |
+| lectia-16 | Construcții condiționale | schemă (pas dedicat) |
+| lectia-22 | Evaluare (partea 1/2) | test (Google Forms) |
+| lectia-23 | Evaluare (partea 2/2) | test (Google Forms) |
 
 ## Total
 

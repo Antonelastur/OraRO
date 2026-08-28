@@ -667,6 +667,108 @@ def fisa_pro_contra_2(out, subtitlu, sursa):
     ], sursa)
 
 
+# ---------- Unitatea V ----------
+
+def fisa_structuri_epice(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Structuri textuale în textul epic", subtitlu, [
+        {"t": "table", "n": 1, "title": "Recunoaște îmbinarea", "rows": 4, "row_h": 30,
+         "cols": ["Fragmentul din Fahrenheit 451", "Structurile prezente", "Succesiune / alternanță / inserție"],
+         "widths": [230, 150, 130]},
+        {"t": "lines", "n": 2, "title": "Structura dominantă", "weight": 3,
+         "prompt": "Alege un paragraf. Ce structură textuală domină (narativă, descriptivă, dialogată, explicativă, argumentativă)? Ce alte structuri sunt inserate în ea și cu ce rol?"},
+        {"t": "lines", "n": 3, "title": "Scrii tu", "weight": 4,
+         "prompt": "Prezintă o carte pe care ai salva-o dintr-un incendiu, folosind trei structuri textuale diferite: o descriere a cărții, o narațiune despre cum ai primit-o, o explicație despre de ce contează pentru tine."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 172-173): Textul epic are o structură complexă, în care se repere secvențele "
+        "textuale de bază: narativă, descriptivă, dialogată, explicativă și argumentativă. Structurile "
+        "dominante pot conține alte structuri, îmbinate: prin succesiune (o structură urmează alteia), prin "
+        "alternanță (structuri în grupaje care se repetă rând pe rând), prin inserție (o structură apare în "
+        "interiorul alteia)."))
+
+
+def fisa_personaje_conflict(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Personajele. Conflictul", subtitlu, [
+        {"t": "table", "n": 1, "title": "Felul personajelor din Fahrenheit 451", "rows": 4, "row_h": 28,
+         "cols": ["Personajul", "Principal / secundar; protagonist / antagonist; individual / colectiv", "Evoluează sau rămâne neschimbat?"],
+         "widths": [110, 250, 150]},
+        {"t": "lines", "n": 2, "title": "Perechi antitetice", "weight": 3,
+         "prompt": "Autorul își construiește personajele în perechi antitetice. Identifică o pereche (de exemplu Montag și Beatty, sau Clarisse și Mildred) și explică în ce constă antiteza."},
+        {"t": "table", "n": 3, "title": "Tipuri de conflict", "rows": 3, "row_h": 30,
+         "cols": ["Tipul de conflict", "Unde apare în roman (o secvență)"], "widths": [230, 280],
+         "data": [["om – societate", ""], ["om – tehnologie", ""], ["om – sine însuși", ""]]},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 174-175): În operele epice există conflict exterior și interior. Conflictul poate fi: "
+        "om – altă persoană (ciocnire de interese sau de valori), om – societate (personajul încalcă normele "
+        "comunității), om – natură (înfruntă forțele naturii sau provoacă dezastre), om – tehnologie "
+        "(confruntarea cu inteligența artificială, roboți, nave spațiale), om – sine însuși (porniri și atitudini "
+        "contradictorii, propriile limite), om – soartă sau forțe supranaturale."))
+
+
+def fisa_text_opinie(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Textul de opinie", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Opinia autorului", "weight": 3,
+         "prompt": "Care este teza textului lui Harari? Transcrie enunțul în care opinia autorului se vede limpede. Ce argumente raționale și ce argumente emoționale folosește?"},
+        {"t": "table", "n": 2, "title": "Strategii și conectori", "rows": 5, "row_h": 28,
+         "cols": ["Formularea din text", "Ce exprimă (obiecție, concesie, analogie, concluzie, exemplificare…)"],
+         "widths": [200, 310],
+         "data": [["„ai putea obiecta că”", ""], ["„în mod asemănător”", ""], ["„totuși”", ""],
+                  ["„de exemplu”", ""], ["„iată de ce”", ""]]},
+        {"t": "lines", "n": 3, "title": "Scrii tu", "weight": 4,
+         "prompt": "Scrie un scurt text de opinie (6-8 rânduri) pe tema: ar trebui folosită inteligența artificială în școală? Susține-ți poziția cu un argument rațional și unul emoțional și folosește măcar doi conectori."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 178-180): Textul de opinie e un text nonliterar în care autorul își expune "
+        "opiniile legate de o temă, ca să convingă cititorii. Presupune: susținerea opiniei cu argumente "
+        "raționale (fapte, dovezi, exemple, deducții) și emoționale (impresii, convingeri); strategii ca "
+        "obiecția, concesia, analogia, examenul critic, confruntarea; conectori pentru ierarhia argumentelor "
+        "și pentru legătura dintre idei (adaos, analogie, concesie, concluzie, exemplificare, explicație, "
+        "obiecție, opoziție, rectificare). Predomină structurile argumentative și explicative, cu secvențe de "
+        "dialog fictiv, narative sau descriptive cu rol de exemplificare."))
+
+
+def fisa_preferinte_opinii_1(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Modalități de exprimare a preferințelor și a opiniilor", subtitlu, [
+        {"t": "table", "n": 1, "title": "Ce valoare exprimă", "rows": 6, "row_h": 26,
+         "cols": ["Enunțul", "Certitudine / incertitudine / probabilitate / necesitate / dorință / apreciere"],
+         "widths": [230, 280],
+         "data": [["Am convingerea că viitorul va fi mai bun.", ""],
+                  ["Mă îndoiesc că se va întâmpla cum ai spus.", ""],
+                  ["S-ar putea să plouă mâine.", ""],
+                  ["Este nevoie să ne mobilizăm pentru acest proiect.", ""],
+                  ["Mi-e dor de vacanță!", ""],
+                  ["Din nefericire, devenim cu greu înțelepți.", ""]]},
+        {"t": "lines", "n": 2, "title": "Cuvintele-cheie", "weight": 3,
+         "prompt": "Pentru fiecare enunț, subliniază cuvântul sau expresia care ți-a arătat ce valoare exprimă."},
+        {"t": "lines", "n": 3, "title": "Scrii tu", "weight": 3,
+         "prompt": "Scrie câte un enunț propriu care exprimă: certitudine, incertitudine, apreciere pozitivă, apreciere negativă."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 198-199): În exprimarea preferințelor și a opiniilor, un rol important îl au "
+        "cuvintele și expresiile care redau atitudinea subiectivă a vorbitorului: verbe de opinie, adverbe, "
+        "adjective, locuțiuni și expresii. Ele pot exprima: certitudinea (știu că, am convingerea că, e "
+        "limpede că; firește, în mod evident), incertitudinea (bănuiesc că, presupun că, mă îndoiesc că; "
+        "oarecum), probabilitatea (s-ar putea să, nu e exclus să; poate, probabil, pesemne), necesitatea "
+        "(trebuie să, se cuvine să, e nevoie să; neapărat), dorința (doresc să, vreau să), aprecierea pozitivă "
+        "(apreciez, merit să, sunt bucuros că; e bine, util) și aprecierea negativă (detest să, îmi pare rău, "
+        "regret că; din păcate, din nefericire)."))
+
+
+def fisa_preferinte_opinii_2(out, subtitlu, sursa):
+    sheet2(out, "Fișă de lucru — Un text de opinie", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Întrebarea și opinia", "weight": 2,
+         "prompt": "Pornind de la titlul unității, „Încotro se îndreaptă lumea?”, formulează-ți opinia, cu o formulă de exprimare a punctului de vedere."},
+        {"t": "lines", "n": 2, "title": "Ciorna", "weight": 5,
+         "prompt": "Scrie prima variantă a textului de opinie (aproximativ 200 de cuvinte), cu introducere, cuprins și încheiere marcate prin paragrafe. Susține opinia prin două argumente, fiecare cu un exemplu."},
+    ], [
+        {"t": "table", "n": 3, "title": "Verificare", "rows": 4, "row_h": 26,
+         "cols": ["Criteriu", "Da / Nu"], "widths": [400, 110],
+         "data": [["Opinia e formulată limpede în introducere", ""],
+                  ["Cele două argumente sunt susținute de exemple", ""],
+                  ["Sunt folosite mijloace lingvistice de exprimare a opiniei (verbe de opinie, adverbe, expresii)", ""],
+                  ["Textul are introducere, cuprins și încheiere marcate prin paragrafe", ""]]},
+        {"t": "lines", "n": 4, "title": "Forma finală", "weight": 6,
+         "prompt": "Rescrie textul de opinie în formă finală, corectând ortografia, punctuația și așezarea în pagină."},
+    ], sursa)
+
+
 if __name__ == "__main__":
     # ---------- Unitatea I ----------
     fisa_versificatie("unitatea-1/lectia-2/fisa.pdf",
@@ -816,4 +918,25 @@ if __name__ == "__main__":
     fisa_pro_contra_2("unitatea-4/lectia-17/fisa.pdf",
                       "Unitatea IV, Lecția 17 (manual, partea 2/2)", "Art 8, pp. 158-159")
 
-    print("\nFise clasa a VIII-a: U1 (12) + U2 (9) + U3 (14) + U4 (9) = 44")
+    # ---------- Unitatea V ----------
+    fisa_structuri_epice("unitatea-5/lectia-3/fisa.pdf",
+                         "Unitatea V, Lecția 3 · Fahrenheit 451 de Ray Bradbury", "Art 8, pp. 172-173")
+    fisa_personaje_conflict("unitatea-5/lectia-4/fisa.pdf",
+                            "Unitatea V, Lecția 4 · Fahrenheit 451 de Ray Bradbury", "Art 8, pp. 174-175")
+    fisa_semnificatii("unitatea-5/lectia-5/fisa.pdf",
+                      "Unitatea V, Lecția 5 · Fahrenheit 451 de Ray Bradbury",
+                      "De ce crezi că guvernul a interzis cărțile în Fahrenheit 451? Ai fi de acord cu interzicerea unor cărți?",
+                      "Art 8, pp. 176-177")
+    fisa_text_opinie("unitatea-5/lectia-6/fisa.pdf",
+                     "Unitatea V, Lecția 6 · Când vei fi adult, e posibil să nu ai un loc de muncă, după Yuval Noah Harari",
+                     "Art 8, pp. 178-180")
+    fisa_text_auxiliar("unitatea-5/lectia-7/fisa.pdf", "Unitatea V, Lecția 7",
+                       "Prima lecție de geometrie de Ov. S. Crohmălniceanu (fragment)",
+                       "textul de bază al unității (Fahrenheit 451 de Ray Bradbury)",
+                       "Art 8, „Noi pagini, alte idei”, pp. 181-182")
+    fisa_preferinte_opinii_1("unitatea-5/lectia-17/fisa.pdf",
+                             "Unitatea V, Lecția 17 (manual, partea 1/2)", "Art 8, pp. 198-199")
+    fisa_preferinte_opinii_2("unitatea-5/lectia-18/fisa.pdf",
+                             "Unitatea V, Lecția 18 (manual, partea 2/2)", "Art 8, pp. 198-199")
+
+    print("\nFise clasa a VIII-a: U1 (12) + U2 (9) + U3 (14) + U4 (9) + U5 (7) = 51")
