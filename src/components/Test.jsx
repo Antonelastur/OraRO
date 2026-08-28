@@ -1,4 +1,5 @@
 import { ClipboardCheck, ArrowUpRight, Download } from 'lucide-react'
+import { MaterialCard } from './MaterialCard.tsx'
 import { caleMaterial } from '../lib/utils.ts'
 
 // Afișează linkurile spre Google Forms și, opțional, o variantă PDF
@@ -15,16 +16,11 @@ function Test({ test }) {
   if (!areNiveluri && !areLink && !areRubrica && !arePrintabil) return null
 
   return (
-    <section className="material-card material-test rounded-2xl border border-border border-t-[3px] border-t-[var(--card-color)] bg-bg-alt p-5">
-      <div className="mb-3 flex items-center gap-2 text-[var(--card-color)]">
-        <ClipboardCheck className="h-4.5 w-4.5" aria-hidden="true" />
-        <h3 className="text-sm font-semibold text-ink">Test</h3>
-      </div>
-
+    <MaterialCard tip="test" titlu="Test" Icon={ClipboardCheck}>
       <div className="flex flex-col gap-1.5">
         {areLink && (
           <a
-            className="inline-flex items-center gap-1 text-sm font-medium text-[var(--card-color)] hover:underline"
+            className="inline-flex items-center gap-1 text-sm font-medium text-[var(--card-ink)] hover:underline"
             href={test.linkGoogleForms}
             target="_blank"
             rel="noreferrer"
@@ -36,7 +32,7 @@ function Test({ test }) {
 
         {arePrintabil && (
           <a
-            className="inline-flex items-center gap-1 text-sm font-medium text-[var(--card-color)] hover:underline"
+            className="inline-flex items-center gap-1 text-sm font-medium text-[var(--card-ink)] hover:underline"
             href={caleMaterial(test.fisierPrintabil)}
             download
           >
@@ -50,7 +46,7 @@ function Test({ test }) {
             {test.niveluri.map((nivel) => (
               <li key={nivel.nivel}>
                 <a
-                  className="inline-flex items-center gap-1 text-sm font-medium text-[var(--card-color)] hover:underline"
+                  className="inline-flex items-center gap-1 text-sm font-medium text-[var(--card-ink)] hover:underline"
                   href={nivel.linkGoogleForms}
                   target="_blank"
                   rel="noreferrer"
@@ -65,7 +61,7 @@ function Test({ test }) {
       </div>
 
       {areRubrica && <p className="mt-3 whitespace-pre-line text-sm text-ink-soft">{test.rubrica}</p>}
-    </section>
+    </MaterialCard>
   )
 }
 

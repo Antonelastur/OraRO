@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { Gamepad2, ArrowUpRight } from 'lucide-react'
+import { MaterialCard } from '../MaterialCard.tsx'
 import { cn, caleMaterial } from '../../lib/utils.ts'
 
 // Motor reutilizabil pentru jocuri de tip quiz și pentru escape room, plus
@@ -30,13 +31,9 @@ function Joc({ joc }) {
   // jocuri de energizare), vin ca fișier de tipărit, nu ca quiz.
   if (joc.fisier) {
     return (
-      <section className="material-card material-joc rounded-2xl border border-border border-t-[3px] border-t-[var(--card-color)] bg-bg-alt p-5">
-        <div className="mb-3 flex items-center gap-2 text-[var(--card-color)]">
-          <Gamepad2 className="h-4.5 w-4.5" aria-hidden="true" />
-          <h3 className="text-sm font-semibold text-ink">Joc: {joc.titlu}</h3>
-        </div>
+      <MaterialCard tip="joc" titlu={`Joc: ${joc.titlu}`} Icon={Gamepad2}>
         <a
-          className="inline-flex items-center gap-1 text-sm font-medium text-[var(--card-color)] hover:underline"
+          className="inline-flex items-center gap-1 text-sm font-medium text-[var(--card-ink)] hover:underline"
           href={caleMaterial(joc.fisier)}
           target="_blank"
           rel="noreferrer"
@@ -44,7 +41,7 @@ function Joc({ joc }) {
           Deschide jocul
           <ArrowUpRight className="h-3.5 w-3.5" />
         </a>
-      </section>
+      </MaterialCard>
     )
   }
 
@@ -64,15 +61,10 @@ function Joc({ joc }) {
     setPasCurent((p) => p + 1)
   }
 
-  return (
-    <section className="material-card material-joc rounded-2xl border border-border border-t-[3px] border-t-[var(--card-color)] bg-bg-alt p-5 sm:col-span-2">
-      <div className="mb-3 flex items-center gap-2 text-[var(--card-color)]">
-        <Gamepad2 className="h-4.5 w-4.5" aria-hidden="true" />
-        <h3 className="text-sm font-semibold text-ink">
-          {joc.tip === 'escape-room' ? 'Escape room' : 'Joc'}: {joc.titlu}
-        </h3>
-      </div>
+  const titlu = `${joc.tip === 'escape-room' ? 'Escape room' : 'Joc'}: ${joc.titlu}`
 
+  return (
+    <MaterialCard tip="joc" titlu={titlu} Icon={Gamepad2} wide>
       {gata ? (
         <p className="text-base font-medium text-ink">
           Scor final: {scor} din {pasi.length}.
@@ -125,7 +117,7 @@ function Joc({ joc }) {
             <button
               type="button"
               onClick={() => setIndiciuVizibil(true)}
-              className="mt-3 text-xs font-medium text-[var(--card-color)] hover:underline"
+              className="mt-3 text-xs font-medium text-[var(--card-ink)] hover:underline"
             >
               Arată indiciul
             </button>
@@ -152,7 +144,7 @@ function Joc({ joc }) {
           )}
         </div>
       )}
-    </section>
+    </MaterialCard>
   )
 }
 

@@ -1,12 +1,14 @@
-import { Presentation, Video, FileText, Gamepad2, BarChart3, Workflow, ClipboardCheck, type LucideIcon } from 'lucide-react'
+import { Presentation, Video, FileText, Gamepad2, LayoutTemplate, Workflow, ClipboardCheck, type LucideIcon } from 'lucide-react'
 import type { TipMaterial } from '@/lib/lectii'
 
-export const materialMeta: Record<TipMaterial, { label: string; Icon: LucideIcon }> = {
-  prezentare: { label: 'Prezentare', Icon: Presentation },
-  video: { label: 'Video', Icon: Video },
-  fisa: { label: 'Fișă de lucru', Icon: FileText },
-  joc: { label: 'Joc', Icon: Gamepad2 },
-  infografic: { label: 'Infografic', Icon: BarChart3 },
-  schema: { label: 'Schemă', Icon: Workflow },
-  test: { label: 'Test', Icon: ClipboardCheck },
+// label = numele complet (antetul cardului de material);
+// short = eticheta scurtă de pe chip-ul din lista de lecții.
+export const materialMeta: Record<TipMaterial, { label: string; short: string; Icon: LucideIcon }> = {
+  prezentare: { label: 'Prezentare', short: 'Prezentare', Icon: Presentation },
+  video: { label: 'Video', short: 'Video', Icon: Video },
+  fisa: { label: 'Fișă de lucru', short: 'Fișă', Icon: FileText },
+  joc: { label: 'Joc', short: 'Joc', Icon: Gamepad2 },
+  infografic: { label: 'Infografic', short: 'Infografic', Icon: LayoutTemplate },
+  schema: { label: 'Schemă', short: 'Schemă', Icon: Workflow },
+  test: { label: 'Test', short: 'Test', Icon: ClipboardCheck },
 }

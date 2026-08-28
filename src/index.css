@@ -99,8 +99,17 @@ body {
 }
 
 @layer components {
+  /* Antetul plin al cardului de material: --card-tint = fond în tenta tipului,
+     --card-ink = iconiță și titlu în nuanța închisă a aceleiași culori.
+     Formulele citesc --card-color leneș, deci se recalculează per tip. */
   .material-card {
     --card-color: var(--color-accent);
+    --card-tint: color-mix(in srgb, var(--card-color) 16%, transparent);
+    --card-ink: color-mix(in srgb, var(--card-color) 62%, var(--color-ink));
+  }
+  .chip {
+    --chip-tint: color-mix(in srgb, var(--chip-color) 16%, transparent);
+    --chip-ink: color-mix(in srgb, var(--chip-color) 62%, var(--color-ink));
   }
   .material-prezentare {
     --card-color: var(--color-m-prezentare);
