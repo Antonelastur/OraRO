@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="400" fill="#faf7f0"/>
+  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Construcțiile active. Construcțiile pasive cu verbul a fi</text>
+  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II · lecția 9</text>
+
+  <rect x="55" y="80" width="390" height="120" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Construcția activă</text>
+  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="128">subiectul este autorul acțiunii exercitate</tspan><tspan x="75" y="146">asupra unui obiect</tspan><tspan x="75" y="172" font-style="italic">Andrei scrie o compunere.</tspan></text>
+
+  <rect x="465" y="80" width="380" height="120" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="485" y="104" font-size="13" font-weight="700" fill="#10233f">Construcția pasivă</text>
+  <text font-size="11.5" fill="#3a3226"><tspan x="485" y="128">subiectul suportă acțiunea făcută de</tspan><tspan x="485" y="146">autorul ei</tspan><tspan x="485" y="172" font-style="italic">Compunerea este scrisă de (către) Andrei.</tspan></text>
+
+  <rect x="55" y="216" width="790" height="130" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="240" font-size="13" font-weight="700" fill="#10233f">Alcătuirea construcției pasive</text>
+  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="264">subiect (exprimat sau neexprimat) + formă verbală pasivă + complement de agent</tspan><tspan x="75" y="286">forma verbală pasivă = verbul auxiliar a fi + participiul verbului, acordat cu subiectul în gen și număr</tspan><tspan x="75" y="308">complementul de agent (autorul acțiunii) se exprimă printr-un substantiv, pronume sau numeral în acuzativ,</tspan><tspan x="75" y="326">precedat de prepoziția de către sau de; poate fi exprimat sau neexprimat</tspan></text>
+
+  <text x="450" y="378" text-anchor="middle" font-size="11" fill="#5b6b83">O construcție activă cu complement direct se poate transforma în pasivă. Sursă: Art 8, pp. 74-75</text>
+</svg>

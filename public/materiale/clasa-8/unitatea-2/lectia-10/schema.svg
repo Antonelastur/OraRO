@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="400" fill="#faf7f0"/>
+  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Predicatul</text>
+  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II · lecția 10 · actualizare · componentul central al propoziției</text>
+
+  <rect x="55" y="80" width="390" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Predicatul verbal</text>
+  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="126">arată ce face subiectul; se exprimă prin:</tspan><tspan x="75" y="148">• verb predicativ cu categoria modului</tspan><tspan x="75" y="166">  (inclusiv în construcție pasivă cu a fi)</tspan><tspan x="75" y="184">• locuțiune verbală</tspan><tspan x="75" y="202">  (și-a luat inima în dinți)</tspan><tspan x="75" y="220">• interjecție predicativă (Uite că plouă!)</tspan></text>
+
+  <rect x="465" y="80" width="380" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="485" y="104" font-size="13" font-weight="700" fill="#10233f">Predicatul nominal</text>
+  <text font-size="11.5" fill="#3a3226"><tspan x="485" y="126">arată o calitate a subiectului</tspan><tspan x="485" y="148">verb copulativ + nume predicativ</tspan><tspan x="485" y="170">copulative: a fi, a deveni, a ajunge, a ieși,</tspan><tspan x="485" y="188">a se face, a rămâne, a însemna, a părea</tspan><tspan x="485" y="210">numele predicativ: simplu / multiplu;</tspan><tspan x="485" y="228">substantiv, pronume, adjectiv, numeral…</tspan></text>
+
+  <rect x="55" y="244" width="790" height="94" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="268" font-size="12.5" font-weight="700" fill="#10233f">Atenție la confuzie</text>
+  <text font-size="11" fill="#3a3226"><tspan x="75" y="290">„Bicicleta este stricată (de către băiat).” — permite complement de agent → predicat verbal (pasiv)</tspan><tspan x="75" y="310">„Florile sunt îmbobocite.” — nu permite complement de agent → predicat nominal (a fi + adjectiv din participiu)</tspan></text>
+
+  <text x="450" y="378" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 76-77</text>
+</svg>

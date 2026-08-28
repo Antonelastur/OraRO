@@ -16,26 +16,14 @@ lecției 19, deja existente.
 Rămân: prezentările lecțiilor 1, 5, 8 (NotebookLM) și testul lecției 26
 (Google Forms).
 
-## Unitatea II: Cum sunt ceilalți? (23 lecții, 14 cu material)
+## Unitatea II: Cum sunt ceilalți? (23 lecții, 21 cu material)
 
-Gata, integrate în cod: fișele lecțiilor 2, 3, 4, 5, 6, 16, 17, 18, 19
-(`scripts/build_clasa8_fise.py`); jocurile-quiz ale lecțiilor 8 (atitudini
-comunicative), 21 și 22 (recapitulare); plus schema lecției 15 și jocul
+Gata, integrate în cod: fișele lecțiilor 2, 3, 4, 5, 6, 16, 17, 18, 19;
+jocurile-quiz ale lecțiilor 8, 21, 22; **schemele lecțiilor 9, 10, 11, 12, 13,
+14 și infograficul lecției 7 (pasul dedicat)**; plus schema lecției 15 și jocul
 lecției 20, deja existente.
 
-Rămân:
-
-| Lecție | Titlu | Tip orientativ |
-|---|---|---|
-| lectia-1 | Textul dramatic. Take, Ianke și Cadâr de Victor Ion Popa | prezentare |
-| lectia-7 | Relații culturale constructive. Noi și ceilalți | infografic (pas dedicat) |
-| lectia-9 | Construcțiile active. Construcțiile pasive cu verbul a fi | schemă (pas dedicat) |
-| lectia-10 | Predicatul (actualizare) | schemă (pas dedicat) |
-| lectia-11 | Construcțiile cu pronume reflexive | schemă (pas dedicat) |
-| lectia-12 | Construcțiile impersonale | schemă (pas dedicat) |
-| lectia-13 | Subiectul (actualizare) | schemă (pas dedicat) |
-| lectia-14 | Construcțiile incidente | schemă (pas dedicat) |
-| lectia-23 | Evaluare | test (Google Forms) |
+Rămân: prezentarea lecției 1 (NotebookLM) și testul lecției 23 (Google Forms).
 
 ## Unitatea III: Cum descoperim lumea? (25 lecții, 19 cu material)
 

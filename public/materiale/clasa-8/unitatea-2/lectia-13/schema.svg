@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="400" fill="#faf7f0"/>
+  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Subiectul</text>
+  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II · lecția 13 · actualizare · parte principală de propoziție</text>
+
+  <rect x="55" y="80" width="790" height="66" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Ce arată</text>
+  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="126">cine face acțiunea unui predicat verbal sau cui i se atribuie o însușire, o caracteristică ori o identitate</tspan><tspan x="75" y="142">exprimată de numele predicativ al unui predicat nominal</tspan></text>
+
+  <rect x="55" y="160" width="390" height="140" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="184" font-size="13" font-weight="700" fill="#10233f">Subiectul exprimat</text>
+  <text font-size="11" fill="#3a3226"><tspan x="75" y="206">simplu (un termen) / multiplu (mai mulți</tspan><tspan x="75" y="222">termeni coordonați)</tspan><tspan x="75" y="244">exprimat prin: substantiv sau locuțiune</tspan><tspan x="75" y="260">substantivală, pronume, numeral cu valoare</tspan><tspan x="75" y="276">pronominală, verb la infinitiv, gerunziu</tspan><tspan x="75" y="292">(rar, după verbe de percepție) sau supin</tspan></text>
+
+  <rect x="465" y="160" width="380" height="140" rx="14" fill="none" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="485" y="184" font-size="13" font-weight="700" fill="#10233f">Subiectul neexprimat</text>
+  <text font-size="11" fill="#3a3226"><tspan x="485" y="206">• subînțeles — a fost exprimat anterior în</tspan><tspan x="485" y="222">  enunț; verbul la persoana a III-a</tspan><tspan x="485" y="244">• inclus — se deduce din desinența verbului</tspan><tspan x="485" y="260">  la persoana I sau a II-a</tspan><tspan x="485" y="284">subiectul nu se desparte prin virgulă de predicat</tspan></text>
+
+  <text x="450" y="344" text-anchor="middle" font-size="12" fill="#3a3226">Subiectul exprimat poate sta atât înaintea predicatului, cât și după el.</text>
+  <text x="450" y="378" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 82-83</text>
+</svg>

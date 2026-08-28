@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="400" fill="#faf7f0"/>
+  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Construcțiile cu pronume reflexive</text>
+  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II · lecția 11 · forma neaccentuată (cliticul) în acuzativ sau dativ însoțește un verb</text>
+
+  <rect x="55" y="80" width="390" height="130" rx="14" fill="#6f5ea8" stroke="#6f5ea8" stroke-width="2" fill-opacity="0.08"/>
+  <rect x="55" y="80" width="390" height="130" rx="14" fill="none" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Fără funcție sintactică</text>
+  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="126">pronumele reflexiv intră în structura verbului,</tspan><tspan x="75" y="144">nu se analizează separat</tspan><tspan x="75" y="166" font-style="italic">Ana se gândește la tine.</tspan><tspan x="75" y="188">nu poate fi reluat prin formă accentuată,</tspan><tspan x="75" y="204">nici înlocuit cu un pronume personal</tspan></text>
+
+  <rect x="465" y="80" width="380" height="130" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
+  <text x="485" y="104" font-size="13" font-weight="700" fill="#10233f">Cu funcție sintactică</text>
+  <text font-size="11" fill="#3a3226"><tspan x="485" y="124">• complement direct (acuzativ): se cunoaște</tspan><tspan x="485" y="142">• complement indirect (dativ): își atribuie</tspan><tspan x="485" y="160">• complement posesiv (dativ, structură ternară):</tspan><tspan x="485" y="176">  și-a pregătit costumul</tspan><tspan x="485" y="194">• atribut pronominal în dativ (rar): la casa-mi</tspan><tspan x="485" y="204"> </tspan></text>
+
+  <rect x="55" y="224" width="790" height="112" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="248" font-size="12.5" font-weight="700" fill="#10233f">De reținut</text>
+  <text font-size="11" fill="#3a3226"><tspan x="75" y="270">când are funcție sintactică, verbul acceptă: înlocuirea cu un pronume personal (Ana ne supraestimează),</tspan><tspan x="75" y="288">reluarea prin formă accentuată (pe sine), reluarea reciprocității prin locuțiune (unii pe alții, unul cu altul)</tspan><tspan x="75" y="310">construcțiile pasiv-reflexive: reflexivul „se” + verb care permite complement de agent (Fișele se împart de profesor.)</tspan></text>
+
+  <text x="450" y="378" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 78-79</text>
+</svg>

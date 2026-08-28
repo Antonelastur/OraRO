@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="400" fill="#faf7f0"/>
+  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Construcțiile impersonale</text>
+  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II · lecția 12 · organizate în jurul unor verbe a căror acțiune nu e făcută de o persoană</text>
+
+  <rect x="55" y="80" width="390" height="176" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Întotdeauna impersonale</text>
+  <text font-size="11" fill="#3a3226"><tspan x="75" y="126">fără subiect:</tspan><tspan x="75" y="144">• fenomene ale naturii (tună, plouă, se înserează)</tspan><tspan x="75" y="162">• referire la persoană prin complement direct</tspan><tspan x="75" y="178">  (Mă ustură în gât.) sau indirect (Îmi pasă.)</tspan><tspan x="75" y="196">• denumirea unei persoane (Mă cheamă Matei.)</tspan><tspan x="75" y="218">cu subiect:</tspan><tspan x="75" y="236">• a fi + adverb (Este bine a face sport.), a fi cu</tspan><tspan x="75" y="252">  sens existențial (E noapte.), subiect nonuman</tspan></text>
+
+  <rect x="465" y="80" width="380" height="176" rx="14" fill="none" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="485" y="104" font-size="13" font-weight="700" fill="#10233f">Devin impersonale în context</text>
+  <text font-size="11" fill="#3a3226"><tspan x="485" y="128">• adăugarea cliticului reflexiv „se” unui verb</tspan><tspan x="485" y="146">  dintr-o construcție activă (Se aleargă în parc.)</tspan><tspan x="485" y="168">• „se” + verb activ → construcție</tspan><tspan x="485" y="186">  impersonală reflexiv-pasivă</tspan><tspan x="485" y="204">  (El știe rezultatul. → Se știe rezultatul.)</tspan><tspan x="485" y="226">• verbul auxiliar a fi, specific pasivului</tspan><tspan x="485" y="244">  (Este știut rezultatul.)</tspan></text>
+
+  <text x="450" y="300" text-anchor="middle" font-size="12" fill="#3a3226">Construcțiile impersonale nu au un subiect care să denumească o persoană.</text>
+  <text x="450" y="378" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 80-81</text>
+</svg>
