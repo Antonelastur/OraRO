@@ -553,6 +553,120 @@ def fisa_comparatie_analogie_2(out, subtitlu, sursa):
     ], sursa)
 
 
+def fisa_proiect_grila(out, subtitlu, nume, criterii, sursa):
+    sheet(out, f"Grilă de evaluare — {nume}", subtitlu, [
+        {"t": "table", "n": 1, "title": "Grila", "rows": len(criterii),
+         "cols": ["Criteriu", "Punctaj maxim", "Obținut"], "widths": [300, 110, 100],
+         "data": [[c, p, ""] for c, p in criterii]},
+        {"t": "lines", "n": 2, "title": "Ce a mers bine", "weight": 3,
+         "prompt": "Notează două lucruri reușite în proiectul grupului vostru."},
+        {"t": "lines", "n": 3, "title": "Ce am schimba", "weight": 3,
+         "prompt": "Dacă ați relua proiectul, ce ați face altfel? De ce?"},
+        {"t": "lines", "n": 4, "title": "Nota pe care ne-o dăm și de ce", "weight": 3,
+         "prompt": "Autoevaluare: ce notă credeți că merită proiectul și cum o justificați?"},
+    ], sursa)
+
+
+# ---------- Unitatea IV ----------
+
+def fisa_epic_structuri(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Textul epic. Structuri textuale. Inserția", subtitlu, [
+        {"t": "table", "n": 1, "title": "Cele două planuri narative din Iapa lui Vodă", "rows": 3, "row_h": 32,
+         "cols": ["Aspect", "Rama (povestirea-cadru)", "Povestea comisului Ioniță"], "widths": [120, 195, 195],
+         "data": [["Cine povestește", "", ""], ["Când se petrece", "", ""], ["Unde se petrece", "", ""]]},
+        {"t": "lines", "n": 2, "title": "Inserția", "weight": 3,
+         "prompt": "Ce secvență asigură trecerea de la rama povestirii la povestea comisului Ioniță? Transcrie-o. De ce e nevoie de o legătură firească între cele două fire?"},
+        {"t": "lines", "n": 3, "title": "Structuri textuale în dialog", "weight": 3,
+         "prompt": "Alege din dialogul răzeșului cu boierul o secvență explicativă și una argumentativă. Ce temă are fiecare?"},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 136-137): În textul epic, întâmplările pot fi organizate pe mai multe planuri "
+        "narative, legate prin înlănțuire, alternanță sau inserție. Inserția e procedeul de includere a unei "
+        "povești în interiorul alteia; numită și povestire în ramă, apare în O mie și una de nopți, "
+        "Decameronul, Povestirile din Canterbury, iar în literatura română în Hanu Ancuței de Mihail "
+        "Sadoveanu, unde nouă povestitori narează, la un han, istorii personale. Inserția cere legături "
+        "între planuri, astfel încât un fir narativ să îl genereze pe celălalt firesc."))
+
+
+def fisa_naratori_antiteza(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Naratorii și personajele. Antiteza", subtitlu, [
+        {"t": "table", "n": 1, "title": "Cei doi naratori", "rows": 3, "row_h": 32,
+         "cols": ["Aspect", "Naratorul din ramă", "Comisul Ioniță (naratorul poveștii inserate)"],
+         "widths": [130, 175, 205],
+         "data": [["Persoana verbului", "", ""], ["Participă la acțiune?", "", ""], ["Ce rol are", "", ""]]},
+        {"t": "lines", "n": 2, "title": "Schimbarea rolului narator–personaj", "weight": 3,
+         "prompt": "Explică pe scurt cum, în povestirea în ramă, naratorul din cadru devine ascultător, iar un personaj devine narator. De ce e esențial statutul de ascultător pentru convenția poveștii în poveste?"},
+        {"t": "lines", "n": 3, "title": "Antiteza", "weight": 4,
+         "prompt": "Găsește în text o antiteză: la nivel de enunț (verbe sau însușiri opuse) și la nivelul întregii povestiri (valorile familiei comisului față de cele ale vecinilor, sau vremea de război față de întâlnirea de la han). Ce subliniază opoziția?"},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 138-139): Povestirea în ramă presupune schimbarea rolului narator–personaj: "
+        "naratorul din cadru devine ascultător, iar un personaj devine narator, rămânând uneori și personaj "
+        "în propria narațiune. Ascultătorii devin parte a unui ritual al comunicării. Antiteza e figura de stil "
+        "care alătură doi termeni (idei, obiecte, personaje, situații, planuri narative) ca să sublinieze "
+        "opoziția dintre ei; se poate constitui la nivelul unor enunțuri (alb–negru, sus–jos) sau la nivelul "
+        "întregii opere (planuri narative opuse, personaje în opoziție)."))
+
+
+def fisa_reclama(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Textul multimodal. Reclama", subtitlu, [
+        {"t": "table", "n": 1, "title": "Cei patru „actori” ai unei reclame", "rows": 4, "row_h": 28,
+         "cols": ["Actorul", "Cine e, în reclama analizată"], "widths": [230, 280],
+         "data": [["Cel care deține produsul (firmă, instituție)", ""],
+                  ["Cel care produce reclama (agenție de publicitate)", ""],
+                  ["Cel care distribuie produsul (mass-media)", ""],
+                  ["Cel care cumpără produsul (consumatorul)", ""]]},
+        {"t": "lines", "n": 2, "title": "Principiile unei reclame reușite", "weight": 3,
+         "prompt": "Analizează o reclamă la alegere după: atenția, înțelegerea, încrederea, marca, acțiunea, efectul. Care principii sunt respectate și care nu?"},
+        {"t": "lines", "n": 3, "title": "Multimodalitatea", "weight": 3,
+         "prompt": "Ce modalități de comunicare combină reclama (cuvinte, imagini, sunete, culori, lumini)? Cum contribuie fiecare la mesaj?"},
+        {"t": "lines", "n": 4, "title": "Scrii tu un slogan", "weight": 2,
+         "prompt": "Propune un slogan pentru un produs pe care îl preferi (rechizite, jocuri, haine, produse de igienă). Explică ce nevoie a publicului vizează."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 142-143): Textul multimodal combină două sau mai multe modalități de "
+        "comunicare: cuvinte, imagini, sunete, gesturi, lumini, culori. Reclama e un text nonliterar, de obicei "
+        "multimodal, prezent în locuri publice, în mass-media sau pe internet, care răspândește informații ce "
+        "pun un produs într-o lumină pozitivă. Presupune patru „actori”: cel care deține produsul, cel care "
+        "produce reclama, cel care o distribuie, cel care cumpără. O reclamă reușită respectă principiile: "
+        "atenția, înțelegerea, încrederea, marca, acțiunea, efectul, și respectă drepturile de autor."))
+
+
+def fisa_pro_contra_1(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Tipare textuale: pro-contra", subtitlu, [
+        {"t": "table", "n": 1, "title": "Argumente pro și contra", "rows": 4, "row_h": 30,
+         "cols": ["Argument pro (+ un exemplu)", "Contraargument corespunzător (+ un exemplu)"],
+         "widths": [255, 255],
+         "prompt": "Alege o temă (de exemplu: „Ar trebui să existe reclame dedicate copiilor.”) și completează patru perechi."},
+        {"t": "lines", "n": 2, "title": "Conectorii opoziției", "weight": 3,
+         "prompt": "Notează cinci conectori care marchează trecerea de la un argument la un contraargument (dar, totuși, dimpotrivă, în schimb, pe de altă parte…). Scrie câte un enunț cu doi dintre ei."},
+        {"t": "lines", "n": 3, "title": "Poziția autorului", "weight": 3,
+         "prompt": "Într-un text cu argumente pro și contra, autorul se poate situa de partea unora. Alege o poziție față de tema ta și spune ce serie de argumente o susține."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 158-159): Orice temă poate fi abordată din perspective opuse. În textul "
+        "argumentativ, teza poate fi susținută prin argumente pro (în acord cu ea) sau combătută prin "
+        "contraargumente (în dezacord). În același text pot apărea și argumente pro, și contra, iar autorul se "
+        "poate situa de partea unora. Atât argumentele pro, cât și cele contra trebuie însoțite de exemple. "
+        "Trecerea de la un argument la un contraargument se face cu conectori: dar, or, dimpotrivă, totuși, cu "
+        "toate acestea, în schimb, din contră, în timp ce, pe de altă parte."))
+
+
+def fisa_pro_contra_2(out, subtitlu, sursa):
+    sheet2(out, "Fișă de lucru — Un text pro-contra", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Planul textului", "weight": 3,
+         "prompt": "Alege tema. Notează: opinia din introducere; două argumente pro cu exemple, fiecare cu contraargumentul lui și un exemplu; concluzia care îți reafirmă poziția, anulând contraargumentele."},
+        {"t": "lines", "n": 2, "title": "Ciorna", "weight": 5,
+         "prompt": "Scrie prima variantă a textului (50-100 de cuvinte), cu introducere, cuprins și încheiere, folosind conectorii opoziției."},
+    ], [
+        {"t": "table", "n": 3, "title": "Verificare", "rows": 5, "row_h": 26,
+         "cols": ["Criteriu", "Da / Nu"], "widths": [400, 110],
+         "data": [["Opinia e formulată clar în introducere", ""],
+                  ["Fiecare argument pro are un exemplu", ""],
+                  ["Fiecare contraargument e în relație logică cu argumentul pro și are un exemplu", ""],
+                  ["Conectorii de trecere pro–contra sunt folosiți corect", ""],
+                  ["Încheierea susține poziția din introducere, anulând contraargumentele", ""]]},
+        {"t": "lines", "n": 4, "title": "Forma finală", "weight": 6,
+         "prompt": "Rescrie textul în formă finală, corectând ortografia și punctuația, gata de citit din scaunul autorului."},
+    ], sursa)
+
+
 if __name__ == "__main__":
     # ---------- Unitatea I ----------
     fisa_versificatie("unitatea-1/lectia-2/fisa.pdf",
@@ -659,4 +773,47 @@ if __name__ == "__main__":
     fisa_comparatie_analogie_2("unitatea-3/lectia-21/fisa.pdf",
                                "Unitatea III, Lecția 21 (manual, partea 2/2)", "Art 8, p. 127")
 
-    print("\nFise clasa a VIII-a: U1 (12) + U2 (9) + U3 (14) = 35")
+    # ---------- Unitatea IV ----------
+    reclama_criterii = [
+        ("Reclama se referă la domeniul de conținut tras la sorți", "2p"),
+        ("Reclama captează atenția și lasă o impresie memorabilă", "2p"),
+        ("Mesajul-cheie e ușor de înțeles și convinge", "2p"),
+        ("Marca produsului se reține ușor; e clar ce trebuie să facă beneficiarul", "2p"),
+        ("Reclama e originală și respectă drepturile de autor", "1p"),
+        ("Prezentarea activității echipei e succintă, clară, în timpul dat", "1p"),
+    ]
+    fisa_proiect_cerinte(
+        "unitatea-4/lectia-1/fisa.pdf", "Unitatea IV, Lecția 1 · Proiect de grup",
+        "Realizarea unei reclame",
+        "În grupe de 5-7 elevi, concepeți o reclamă (afiș/panou, audio sau video) la un produs dintr-un domeniu tras la sorți: divertisment, cultural, geografic sau turistic.",
+        ["Produsul ales și o analiză cu punctele lui forte și slabe",
+         "Ce puncte intră în reclamă și care se evită",
+         "Tipul de reclamă (afiș, audio, video) și rolul fiecărui membru",
+         "Pentru audio/video: maximum 30 de secunde; aplicațiile folosite pentru afiș",
+         "Respectarea drepturilor de autor"],
+        "Timp de realizare: două săptămâni, cu prezentare de 2-3 minute la final.",
+        reclama_criterii,
+        "Art 8, Proiect de grup, p. 146 (anunțare)")
+    fisa_epic_structuri("unitatea-4/lectia-3/fisa.pdf",
+                        "Unitatea IV, Lecția 3 · Iapa lui Vodă de Mihail Sadoveanu", "Art 8, pp. 136-137")
+    fisa_naratori_antiteza("unitatea-4/lectia-4/fisa.pdf",
+                           "Unitatea IV, Lecția 4 · Iapa lui Vodă de Mihail Sadoveanu", "Art 8, pp. 138-139")
+    fisa_semnificatii("unitatea-4/lectia-5/fisa.pdf",
+                      "Unitatea IV, Lecția 5 · Iapa lui Vodă de Mihail Sadoveanu",
+                      "Despre ce fel de adevăr e vorba în povestire: a respecta adevărul istoric, a face dreptate oamenilor sau a fi tu însuți în orice împrejurare?",
+                      "Art 8, pp. 140-141")
+    fisa_reclama("unitatea-4/lectia-6/fisa.pdf",
+                 "Unitatea IV, Lecția 6", "Art 8, pp. 142-143")
+    fisa_text_auxiliar("unitatea-4/lectia-7/fisa.pdf", "Unitatea IV, Lecția 7",
+                       "Hainele cele noi ale împăratului de Hans Christian Andersen",
+                       "textul de bază al unității (Iapa lui Vodă de Mihail Sadoveanu)",
+                       "Art 8, „Noi pagini, alte idei”, pp. 144-145")
+    fisa_proiect_grila("unitatea-4/lectia-8/fisa.pdf", "Unitatea IV, Lecția 8 · Proiect de grup (prezentare)",
+                       "Realizarea unei reclame", reclama_criterii,
+                       "Art 8, Proiect de grup, p. 146")
+    fisa_pro_contra_1("unitatea-4/lectia-16/fisa.pdf",
+                      "Unitatea IV, Lecția 16 (manual, partea 1/2)", "Art 8, pp. 158-159")
+    fisa_pro_contra_2("unitatea-4/lectia-17/fisa.pdf",
+                      "Unitatea IV, Lecția 17 (manual, partea 2/2)", "Art 8, pp. 158-159")
+
+    print("\nFise clasa a VIII-a: U1 (12) + U2 (9) + U3 (14) + U4 (9) = 44")

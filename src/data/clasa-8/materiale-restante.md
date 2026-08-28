@@ -66,28 +66,24 @@ Rămân:
 | lectia-18 | Complementul prepozițional | schemă (pas dedicat) |
 | lectia-25 | Evaluare | test (Google Forms) |
 
-## Unitatea IV: Unde găsim adevărul? (18 lecții fără material, din 20 totale)
+## Unitatea IV: Unde găsim adevărul? (20 lecții, 13 cu material)
+
+Gata, integrate în cod: fișele lecțiilor 1, 3, 4, 5, 6, 7, 8, 16, 17
+(`scripts/build_clasa8_fise.py`); jocurile-quiz ale lecțiilor 9 (comportamente
+nonverbale și paraverbale) și 18 (recapitulare); plus schema lecției 13 și
+jocul lecției 19, deja existente.
+
+Rămân:
 
 | Lecție | Titlu | Tip orientativ |
 |---|---|---|
-| lectia-1 | Proiect de grup. Anunțarea proiectului Realizarea unei reclame | fișă (cerințe și criterii) |
 | lectia-2 | Textul epic. Iapa lui Vodă de Mihail Sadoveanu | prezentare |
-| lectia-3 | Textul epic. Structuri textuale | fișă |
-| lectia-4 | Naratorii și personajele. Antiteza | fișă |
-| lectia-5 | Semnificațiile textului | fișă |
-| lectia-6 | Textul nonliterar. Textul multimodal. Reclama | fișă |
-| lectia-7 | Text auxiliar. Hainele cele noi ale împăratului de Hans Christian Andersen | fișă |
-| lectia-8 | Prezentarea proiectului de grup Realizarea unei reclame | fișă (cerințe și criterii) |
-| lectia-9 | Comportamente nonverbale și paraverbale cu efect persuasiv | joc |
-| lectia-10 | Circumstanțialul de loc | schemă |
-| lectia-11 | Circumstanțiala de loc | schemă |
-| lectia-12 | Circumstanțialul de timp | schemă |
-| lectia-14 | Circumstanțialul de mod | schemă |
-| lectia-15 | Circumstanțiala de mod | schemă |
-| lectia-16 | Tipare textuale de structurare a ideilor. Pro-contra (partea 1/2) | fișă |
-| lectia-17 | Tipare textuale de structurare a ideilor. Pro-contra (partea 2/2) | fișă |
-| lectia-18 | Recapitulare (partea 1/2) | test (Google Forms) sau joc |
-| lectia-20 | Evaluare | test (Google Forms) sau joc |
+| lectia-10 | Circumstanțialul de loc | schemă (pas dedicat) |
+| lectia-11 | Circumstanțiala de loc | schemă (pas dedicat) |
+| lectia-12 | Circumstanțialul de timp | schemă (pas dedicat) |
+| lectia-14 | Circumstanțialul de mod | schemă (pas dedicat) |
+| lectia-15 | Circumstanțiala de mod | schemă (pas dedicat) |
+| lectia-20 | Evaluare | test (Google Forms) |
 
 ## Unitatea V: Încotro se îndreaptă lumea? (21 lecții fără material, din 23 totale)
 
