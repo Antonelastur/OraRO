@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 350" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="350" fill="#faf7f0"/>
+  <text x="450" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Pronumele și adjectivul pronominal negativ</text>
+  <text x="450" y="60" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV · lecția 17 · înlocuiește numele obiectelor prezentate ca inexistente</text>
+
+  <rect x="60" y="82" width="375" height="120" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="80" y="106" font-size="13" font-weight="700" fill="#10233f">Pronume negative</text>
+  <text font-size="12" fill="#3a3226"><tspan x="80" y="130" font-style="italic">nimeni, nimic, niciunul, niciuna</tspan></text>
+  <text font-size="11" fill="#3a3226"><tspan x="80" y="158">apar numai în enunțuri negative</tspan><tspan x="80" y="178">(predicat la formă negativă)</tspan></text>
+
+  <rect x="465" y="82" width="375" height="120" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="485" y="106" font-size="13" font-weight="700" fill="#10233f">Adjective pronominale negative</text>
+  <text font-size="12" fill="#3a3226"><tspan x="485" y="130" font-style="italic">niciun, nicio</tspan></text>
+  <text font-size="11" fill="#3a3226"><tspan x="485" y="158">se acordă cu substantivul în gen,</tspan><tspan x="485" y="178">număr și caz — atribut adjectival</tspan></text>
+
+  <rect x="60" y="218" width="780" height="60" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="80" y="242" font-size="13" font-weight="700" fill="#10233f">Acordul</text>
+  <text font-size="11" fill="#3a3226"><tspan x="80" y="264">„nimeni” și „nimic” subiecte fac acordul cu verbul doar la singular: Nimeni dintre ei n-a răspuns.</tspan></text>
+
+  <text x="450" y="316" text-anchor="middle" font-size="11" fill="#5b6b83">Pronumele negativ are aceleași funcții sintactice ca substantivul.</text>
+  <text x="450" y="338" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, p. 156</text>
+</svg>

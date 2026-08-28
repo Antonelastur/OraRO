@@ -386,6 +386,224 @@ def fisa_descriere_emotie(out, subtitlu, sursa):
     ], sursa)
 
 
+# ---------- Unitatea IV ----------
+
+def fisa_spatiu_timp_actiune(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Spațiul, timpul, acțiunea", subtitlu, [
+        {"t": "table", "n": 1, "title": "Indici de timp și de spațiu în Două loturi", "rows": 4, "row_h": 32,
+         "cols": ["Fragmentul din text", "Ce loc sau ce moment fixează"], "widths": [280, 230]},
+        {"t": "table", "n": 2, "title": "Toponime cu tâlc", "rows": 3, "row_h": 34,
+         "cols": ["Numele locului", "Ce ar putea sugera, față de întâmplări"], "widths": [180, 330],
+         "data": [["Mahalaua Farfurigiilor", ""], ["Strada Emancipării", ""], ["Strada Pacienței, nr. 13", ""]]},
+        {"t": "lines", "n": 3, "title": "Ordinea relatării", "weight": 3,
+         "prompt": "Cu ce moment al subiectului începe textul? Unde s-ar afla el, de fapt, pe firul cronologic? De ce crezi că a ales naratorul să înceapă așa?"},
+        {"t": "lines", "n": 4, "title": "Cât durează aventura", "weight": 2,
+         "prompt": "Pe baza reperelor temporale din text, câte zile ține goana după bilete? Transcrie fragmentul care ți-o arată."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 130-131): În textele narative așezate în lumea oamenilor obișnuiți, bogăția "
+        "detaliilor concrete dă cititorului iluzia că lumea imaginată există; de aici apar indici care fixează "
+        "acțiunea în timp și spațiu. Ca să capteze interesul, autorul poate să nu respecte ordinea "
+        "momentelor subiectului, să poarte un dialog cu cititorii, să propună mai multe finaluri sau să "
+        "pretindă că nu știe ce s-a întâmplat mai departe cu personajele. Numele de locuri, reale sau "
+        "inventate, pot avea o semnificație în raport cu întâmplările."))
+
+
+def fisa_narator_personaje(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Naratorul și personajele", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Vocea care povestește", "weight": 3,
+         "prompt": "La ce persoană sunt relatate întâmplările? Găsește două locuri în care naratorul se adresează direct cititorului. Ce rol au aceste adresări?"},
+        {"t": "table", "n": 2, "title": "Rolurile personajelor", "rows": 5, "row_h": 30,
+         "cols": ["Personajul", "Principal / secundar / episodic", "Ce aduce în acțiune"],
+         "widths": [150, 170, 190],
+         "data": [["Lefter Popescu", "", ""], ["madam Popescu", "", ""], ["căpitanul Pandele", "", ""],
+                  ["comisarul Turtureanu", "", ""], ["Ița (chivuța)", "", ""]]},
+        {"t": "table", "n": 3, "title": "Caracterizarea lui Lefter Popescu", "rows": 4, "row_h": 34,
+         "cols": ["Trăsătura", "Mijlocul de caracterizare", "Secvența din text"], "widths": [140, 190, 180]},
+        {"t": "lines", "n": 4, "title": "Numele personajului", "weight": 2,
+         "prompt": "Lefter vine din Elefterie, care duce la grecescul eleutheros, „liber”. Ce contrast se creează între acest sens și situația personajului? Când apare în text și forma Elefterie?"},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 132-134): Autorul real nu vorbește direct cu cititorii; el construiește un "
+        "emițător fictiv, naratorul, care se poate adresa unui destinatar fictiv. Când accentul cade pe "
+        "personajul principal, acesta e construit cu atenție la datele biografice, mediu, relații, "
+        "comportament, reacții emoționale, limbaj, vestimentație. Caracterizarea este directă (trăsături "
+        "spuse de narator, de alte personaje sau de personaj însuși) sau indirectă (din fapte, vorbe, "
+        "relații, nume)."))
+
+
+def fisa_colectare_surse(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Colectarea informațiilor din surse diverse", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Subiectul ales", "weight": 1,
+         "prompt": "Alege un obiect, un meșteșug sau un fenomen despre care vrei să afli mai multe. Scrie-l aici și formulează două întrebări la care cauți răspuns."},
+        {"t": "table", "n": 2, "title": "Trei surse, trei informații", "rows": 3, "row_h": 40,
+         "cols": ["Sursa (titlu, autor, adresă, data accesării)", "O informație aflată de acolo", "Pot avea încredere? De ce"],
+         "widths": [190, 170, 150]},
+        {"t": "lines", "n": 3, "title": "Text sau imagine", "weight": 3,
+         "prompt": "Una dintre surse e multimodală (text plus imagini, hărți sau grafice)? Explică ce adaugă imaginea față de text."},
+        {"t": "lines", "n": 4, "title": "Ce am aflat, pe scurt", "weight": 4,
+         "prompt": "Scrie 5-6 rânduri care adună răspunsurile la întrebările tale, cu informații din cel puțin două surse. Notează în paranteză de unde vine fiecare dată."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 136-139): Enciclopedia este o lucrare de referință cu informații sistematizate, "
+        "generală sau dintr-un singur domeniu. Textul enciclopedic e de regulă multimodal și cuprinde "
+        "trimiteri la lucrările pe baza cărora s-a documentat. Wikipedia este o enciclopedie online la care "
+        "poate contribui oricine, de aceea informațiile trebuie verificate și din alte surse."))
+
+
+def fisa_secvente_recunoastere(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Secvențe narative, descriptive, dialogate, explicative", subtitlu, [
+        {"t": "table", "n": 1, "title": "Recunoaște tipul de secvență", "rows": 4, "row_h": 34,
+         "cols": ["Fragmentul (dintr-un text la alegere)", "Tipul de secvență", "Un indiciu care te ajută"],
+         "widths": [240, 130, 140]},
+        {"t": "lines", "n": 2, "title": "Rolul secvenței inserate", "weight": 3,
+         "prompt": "Alege dintr-un text citit la clasă o secvență descriptivă sau explicativă dintr-o narațiune. Ce aduce ea în plus? Cum ar fi textul fără ea?"},
+        {"t": "lines", "n": 3, "title": "Mărcile secvenței dialogate", "weight": 3,
+         "prompt": "Transcrie trei replici dintr-un dialog și subliniază: verbul de declarație, linia de dialog, semnul de punctuație care marchează intonația."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 160-161): De-a lungul unui text dominant narativ pot apărea și alte tipuri de "
+        "secvențe. Narativă: derularea unor întâmplări în ordine logică și temporală, cu narator și relatare "
+        "la persoana I sau a III-a. Descriptivă: trăsături ale unor persoane, obiecte, peisaje; grupuri "
+        "nominale, verbe la prezent sau imperfect. Dialogată: reproduce cuvintele personajelor; verb de "
+        "declarație, linie de dialog, punctuație a intonației. Explicativă: răspunde la „De ce?” sau „Cum?”; "
+        "conectori ca mai întâi, apoi, în consecință, pentru că, deoarece; definire, exemplificare, comparare."))
+
+
+def fisa_compunere_secvente(out, subtitlu, sursa):
+    sheet2(out, "Fișă de lucru — Compunere narativă cu secvențe inserate", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Planul narațiunii", "weight": 3,
+         "prompt": "Notează, în 4-5 rânduri: ce se întâmplă, unde și când, cine ia parte, ce declanșează acțiunea, cum se termină."},
+        {"t": "lines", "n": 2, "title": "Unde inserezi secvențele", "weight": 3,
+         "prompt": "Marchează în plan locul fiecăreia: Ce descrii? Cine dialoghează și despre ce? Cine oferă explicația și la ce se referă?"},
+        {"t": "lines", "n": 3, "title": "Ciorna", "weight": 5,
+         "prompt": "Scrie prima variantă a compunerii (12-15 rânduri), cu o secvență descriptivă, una dialogată și una explicativă."},
+    ], [
+        {"t": "table", "n": 4, "title": "Verificare", "rows": 5, "row_h": 26,
+         "cols": ["Criteriu", "Da / Nu"], "widths": [400, 110],
+         "data": [["Respectă structura narativă (situație inițială, declanșator, relatare, deznodământ)", ""],
+                  ["Are o secvență descriptivă despre cadru, personaje sau obiecte", ""],
+                  ["Are o secvență dialogată între două sau mai multe personaje", ""],
+                  ["Are o secvență explicativă convingătoare", ""],
+                  ["Părțile se leagă armonios, iar titlul stârnește interesul", ""]]},
+        {"t": "lines", "n": 5, "title": "Forma finală", "weight": 6,
+         "prompt": "Rescrie compunerea în formă finală, cu titlu, legături clare între secvențe și normele de redactare respectate."},
+    ], sursa)
+
+
+# ---------- Unitatea V ----------
+
+def fisa_personaj_dramatic(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Personajul dramatic", subtitlu, [
+        {"t": "table", "n": 1, "title": "Fișă de identitate a unui personaj", "rows": 5, "row_h": 30,
+         "cols": ["Rubrica", "Ce am aflat din text"], "widths": [200, 310],
+         "data": [["Nume, vârstă, ocupație", ""], ["Ce spune despre sine", ""],
+                  ["Ce spun alte personaje / indicațiile autorului", ""],
+                  ["Cum se poartă, ce face", ""], ["O replică relevantă", ""]]},
+        {"t": "lines", "n": 2, "title": "Direct sau indirect", "weight": 3,
+         "prompt": "Alege o trăsătură a personajului. E dată direct (spusă de narator, de alt personaj, de el însuși) sau se deduce indirect (din fapte, limbaj, relații)? Susține cu un exemplu."},
+        {"t": "lines", "n": 3, "title": "Dubla natură", "weight": 3,
+         "prompt": "Personajul dramatic e o ființă ficțională căreia i se alătură o ființă reală, actorul. Dacă ai juca tu rolul, ce ton, ce gesturi, ce ținută ai alege? De ce?"},
+        {"t": "lines", "n": 4, "title": "Cine mai lucrează la spectacol", "weight": 2,
+         "prompt": "Numește trei persoane, în afară de actor, care contribuie la aducerea personajului pe scenă și spune cu ce anume (regizor, scenograf, costumier, machieur, coregraf, tehnician de lumini sau de sunet)."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 173-174): Personajul dramatic seamănă cu personajul dintr-un text narativ, "
+        "fiind rodul imaginației autorului, dar are o dublă natură: ființei ficționale i se alătură o ființă "
+        "reală, actorul. Personajele comunică prin dialog și monolog. Sunt construite direct (lista "
+        "personajelor, indicațiile scenice, intervenția altor personaje) și indirect (din comportament, "
+        "gesturi, limbaj, relații)."))
+
+
+def fisa_dialog_dramatic(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Rolul dialogului în textul dramatic", subtitlu, [
+        {"t": "table", "n": 1, "title": "Tipuri de replici", "rows": 4, "row_h": 32,
+         "cols": ["Schimbul de replici (transcris din text)", "Ce face a doua replică (răspuns, confirmare, completare, continuare)"],
+         "widths": [255, 255]},
+        {"t": "lines", "n": 2, "title": "Ce aflăm din dialog", "weight": 3,
+         "prompt": "Alege un fragment de dialog și arată ce transmite despre eveniment, despre timp sau despre spațiu și ce trăsătură a unui personaj se desprinde din felul lui de a vorbi."},
+        {"t": "lines", "n": 3, "title": "Dialog și didascalii", "weight": 3,
+         "prompt": "Ia o replică însoțită de o indicație a autorului. Cum se schimbă înțelesul replicii dacă citești și indicația? Ce s-ar pierde fără ea?"},
+        {"t": "lines", "n": 4, "title": "Monolog sau adresare către public", "weight": 3,
+         "prompt": "Găsește în text un monolog dramatic sau o replică adresată direct spectatorilor. Ce rol are în scenă?"},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 175-176): Dialogul este modalitatea predominantă de comunicare în textul "
+        "dramatic și constă în schimbul de replici între două sau mai multe personaje. El conturează "
+        "evenimentele, timpul și spațiul și e un mijloc de caracterizare. Contează atât informațiile din "
+        "dialog, cât și cele din didascalii. Monologul dramatic e o intervenție amplă a unui personaj, în "
+        "absența sau în prezența altuia, care nu își folosește dreptul la replică."))
+
+
+def fisa_interviu(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Interviul", subtitlu, [
+        {"t": "table", "n": 1, "title": "Deschisă sau închisă", "rows": 5, "row_h": 28,
+         "cols": ["Întrebarea", "Deschisă / închisă", "Cum aș reformula-o ca să fie deschisă"],
+         "widths": [200, 110, 200],
+         "data": [["Ți-a plăcut spectacolul?", "", ""], ["Ce te-a impresionat la spectacol?", "", ""],
+                  ["Ai citit multe cărți în copilărie?", "", ""], ["Cum a fost pentru tine copilăria la Rădăuți?", "", ""],
+                  ["Vei mai scrie piese pentru copii?", "", ""]]},
+        {"t": "lines", "n": 2, "title": "Etapele interviului", "weight": 3,
+         "prompt": "Pune în ordine și explică pe scurt: transcrierea, alegerea temei și a persoanei, realizarea interviului, pregătirea întrebărilor pe baza unei documentări."},
+        {"t": "lines", "n": 3, "title": "Pregătește un interviu", "weight": 4,
+         "prompt": "Alege o persoană pe care ai vrea să o intervievezi. Scrie tema, apoi patru întrebări deschise, așezate într-o ordine logică."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 178-180): Interviul este un text nonliterar, jurnalistic, de tip informativ, "
+        "construit ca dialog scris sau oral între un reporter și o persoană, pe o temă de interes public sau "
+        "personal. Baza interviului este întrebarea: calitatea răspunsurilor depinde de calitatea "
+        "întrebărilor. Întrebările deschise lasă intervievatul să își exprime punctul de vedere; cele închise "
+        "permit doar „da” sau „nu”. Se recomandă întrebările deschise."))
+
+
+def fisa_feedback_proiect(out, subtitlu, nume, criterii, sursa):
+    sheet(out, f"Grilă de evaluare între grupe — {nume}", subtitlu, [
+        {"t": "table", "n": 1, "title": "Grila (o completezi pentru grupa evaluată)", "rows": len(criterii),
+         "cols": ["Criteriu", "Punctaj maxim", "Obținut"], "widths": [300, 110, 100],
+         "data": [[c, p, ""] for c, p in criterii]},
+        {"t": "lines", "n": 2, "title": "Feedback pe care îl oferim", "weight": 3,
+         "prompt": "Scrieți grupei evaluate două lucruri reușite și o sugestie concretă de îmbunătățire. Formulați respectuos, la persoana a II-a plural."},
+        {"t": "lines", "n": 3, "title": "Feedback pe care îl primim", "weight": 3,
+         "prompt": "Notați două observații primite de la celelalte grupe. Sunteți de acord cu ele? Ce ați schimba la o reluare a spectacolului?"},
+        {"t": "lines", "n": 4, "title": "Cum am lucrat în echipă", "weight": 3,
+         "prompt": "Autoevaluare: fiecare membru scrie de ce a răspuns în proiect și cât de bine s-a descurcat grupa cu împărțirea sarcinilor."},
+    ], sursa)
+
+
+def fisa_tipare_textuale(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Tipare textuale de structurare a ideilor", subtitlu, [
+        {"t": "table", "n": 1, "title": "Recunoaște tiparul", "rows": 4, "row_h": 34,
+         "cols": ["Fragmentul (dintr-un text la alegere)", "Persuasiv / informativ / procedural / descriptiv", "Un indiciu din text"],
+         "widths": [240, 140, 130]},
+        {"t": "lines", "n": 2, "title": "Mărcile fiecărui tipar", "weight": 3,
+         "prompt": "Notează câte un indiciu de limbaj pentru fiecare: persuasiv, informativ, procedural, descriptiv (semne de punctuație, timpuri verbale, tipuri de cuvinte)."},
+        {"t": "lines", "n": 3, "title": "Scrii tu", "weight": 4,
+         "prompt": "Alege un subiect legat de teatru și scrie despre el în două feluri: 4-5 rânduri de text informativ și 4-5 rânduri de text persuasiv. Marchează ce mijloace ai folosit la fiecare."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 194-195): După scopul comunicării, există patru tipare textuale. Persuasiv: "
+        "argumente emoționale, repetarea unor cuvinte-cheie, majuscule, semne de exclamare, întrebări "
+        "retorice. Informativ: realități observabile și măsurabile, prezentul indicativ, numerale, substantive "
+        "proprii. Procedural: cum trebuie acționat; verbe ca trebuie, nu trebuie, imperativ sau prezent "
+        "indicativ, uneori desene sau diagrame. Descriptiv: substantive pentru obiecte sau ființe și "
+        "adjective pentru trăsături."))
+
+
+def fisa_cerere(out, subtitlu, sursa):
+    sheet2(out, "Fișă de lucru — Cererea", subtitlu, [
+        {"t": "table", "n": 1, "title": "Componentele cererii", "rows": 4, "row_h": 34,
+         "cols": ["Componenta", "Ce conține"], "widths": [170, 340],
+         "data": [["Adresarea", "funcția persoanei căreia îi scrii; centrat, sus, cu spațiu pentru rezoluție"],
+                  ["Cuprinsul, paragraful 1", "„Subsemnatul, prenume + nume, ...”, statutul, datele de identificare, ce soliciți"],
+                  ["Cuprinsul, paragraful 2", "motivația cererii"],
+                  ["Sub text", "data (stânga) și semnătura (dreapta), pe același rând; jos-stânga, destinatarul cu funcția"]]},
+        {"t": "lines", "n": 2, "title": "Ciorna", "weight": 5,
+         "prompt": "Scrie o cerere către directorul școlii prin care soliciți eliberarea unei adeverințe de elev, de care ai nevoie ca să te înscrii într-un club de teatru. Respectă cele patru componente."},
+    ], [
+        {"t": "table", "n": 3, "title": "Verificare", "rows": 5, "row_h": 26,
+         "cols": ["Criteriu", "Da / Nu"], "widths": [400, 110],
+         "data": [["Adresarea numește funcția destinatarului și e centrată", ""],
+                  ["Primul paragraf are formula „Subsemnatul, ...” și scopul clar", ""],
+                  ["Al doilea paragraf motivează cererea", ""],
+                  ["Data și semnătura sunt pe același rând, sub text", ""],
+                  ["Destinatarul e indicat jos-stânga, cu funcția", ""]]},
+        {"t": "lines", "n": 4, "title": "Forma finală", "weight": 6,
+         "prompt": "Rescrie cererea în formă finală, cu așezarea în pagină corectă și fără greșeli de ortografie sau de punctuație."},
+    ], sursa)
+
+
 if __name__ == "__main__":
     fisa_legarea_secventelor("unitatea-1/lectia-2/fisa.pdf",
                              "Unitatea I, Lecția 2 · Cum e lumea de Veronica D. Niculescu", "Art 7, pp. 14-15")
@@ -476,4 +694,70 @@ if __name__ == "__main__":
     fisa_descriere_emotie("unitatea-3/lectia-22/fisa.pdf",
                           "Unitatea III, Lecția 22 (manual, partea 2/2)", "Art 7, p. 119")
 
-    print("\nFise clasa a VII-a: U1 (6) + U2 (12) + U3 (9) = 27")
+    # ---------- Unitatea IV ----------
+    fisa_spatiu_timp_actiune("unitatea-4/lectia-2/fisa.pdf",
+                             "Unitatea IV, Lecția 2 · Două loturi de I.L. Caragiale", "Art 7, pp. 130-131")
+    fisa_narator_personaje("unitatea-4/lectia-3/fisa.pdf",
+                           "Unitatea IV, Lecția 3 · Două loturi de I.L. Caragiale", "Art 7, pp. 132-134")
+    fisa_semnificatii("unitatea-4/lectia-4/fisa.pdf",
+                      "Unitatea IV, Lecția 4 · Două loturi de I.L. Caragiale",
+                      "Crezi că Lefter Popescu e mânat de bani sau de altceva, atunci când caută frenetic biletele?",
+                      "Art 7, p. 135")
+    fisa_colectare_surse("unitatea-4/lectia-5/fisa.pdf",
+                         "Unitatea IV, Lecția 5 · Textul multimodal. Enciclopedia (partea 1/2)", "Art 7, pp. 136-139")
+    fisa_text_auxiliar("unitatea-4/lectia-7/fisa.pdf", "Unitatea IV, Lecția 7",
+                       "Cerșetorul și regele (poveste populară indiană)",
+                       "textul de bază al unității (Două loturi de I.L. Caragiale)",
+                       "Art 7, „Noi pagini, alte idei”, pp. 140-141")
+    fisa_secvente_recunoastere("unitatea-4/lectia-20/fisa.pdf",
+                               "Unitatea IV, Lecția 20 (manual, partea 1/2)", "Art 7, pp. 160-161")
+    fisa_compunere_secvente("unitatea-4/lectia-21/fisa.pdf",
+                            "Unitatea IV, Lecția 21 (manual, partea 2/2)", "Art 7, pp. 160-161")
+
+    # ---------- Unitatea V ----------
+    spectacol_criterii = [
+        ("Viziunea regizorului a fost originală", "2p"),
+        ("Replicile au fost rostite clar și auzite de public", "2p"),
+        ("Indicațiile scenice au fost respectate de actori", "2p"),
+        ("Decorul, luminile și efectele sonore au urmat indicațiile autorului", "2p"),
+        ("Interpretarea actorilor a fost nuanțată și convingătoare", "1p"),
+        ("Afișul a fost relevant pentru spectacol", "1p"),
+    ]
+    fisa_proiect_cerinte(
+        "unitatea-5/lectia-1/fisa.pdf", "Unitatea V, Lecția 1 · Proiect de grup",
+        "De la text la spectacol",
+        "În trei grupe, realizați o punere în scenă a textului dramatic Vrem să vă dăruim câte o fereastră de Matei Vișniec.",
+        ["Rolurile în grupă: regizor, asistent de regie, trei actori (Radu, Doinița, Eliza), doi scenografi, unul-doi tehnicieni de lumină și de sunet",
+         "Jurnalul proiectului, ținut de asistentul de regie (întâlniri, repetiții, cum lucrează echipa)",
+         "Un afiș al spectacolului",
+         "Repetiții pe scenă, apoi cu decor, recuzită, costume, lumini și sunet",
+         "O melodie pentru versurile din finalul piesei"],
+        "Timp de realizare: trei săptămâni, cu premieră la final.",
+        spectacol_criterii,
+        "Art 7, Proiect de grup, p. 183 (anunțare)")
+    fisa_personaj_dramatic("unitatea-5/lectia-4/fisa.pdf",
+                           "Unitatea V, Lecția 4 · Vrem să vă dăruim câte o fereastră de Matei Vișniec", "Art 7, pp. 173-174")
+    fisa_dialog_dramatic("unitatea-5/lectia-5/fisa.pdf",
+                         "Unitatea V, Lecția 5 · Vrem să vă dăruim câte o fereastră de Matei Vișniec", "Art 7, pp. 175-176")
+    fisa_semnificatii("unitatea-5/lectia-6/fisa.pdf",
+                      "Unitatea V, Lecția 6 · Vrem să vă dăruim câte o fereastră de Matei Vișniec",
+                      "Ce înseamnă, în text, că prin cărți se deschid „ferestre”? E o metaforă a lecturii sau ceva mai mult?",
+                      "Art 7, p. 177")
+    fisa_interviu("unitatea-5/lectia-7/fisa.pdf",
+                  "Unitatea V, Lecția 7 (manual, partea 1/2) · Interviu cu Matei Vișniec", "Art 7, pp. 178-180")
+    fisa_text_auxiliar("unitatea-5/lectia-9/fisa.pdf", "Unitatea V, Lecția 9",
+                       "Visul unei nopți de vară de William Shakespeare (fragment)",
+                       "textul de bază al unității (Vrem să vă dăruim câte o fereastră de Matei Vișniec)",
+                       "Art 7, „Noi pagini, alte idei”, pp. 181-182")
+    fisa_proiect_grila("unitatea-5/lectia-10/fisa.pdf", "Unitatea V, Lecția 10 · Proiect de grup (prezentare)",
+                       "De la text la spectacol", spectacol_criterii,
+                       "Art 7, Proiect de grup, p. 183")
+    fisa_feedback_proiect("unitatea-5/lectia-11/fisa.pdf", "Unitatea V, Lecția 11 · Proiect de grup (evaluare)",
+                          "De la text la spectacol", spectacol_criterii,
+                          "Art 7, Proiect de grup, p. 183")
+    fisa_tipare_textuale("unitatea-5/lectia-17/fisa.pdf",
+                         "Unitatea V, Lecția 17 (manual, partea 1/2)", "Art 7, pp. 194-195")
+    fisa_cerere("unitatea-5/lectia-18/fisa.pdf",
+                "Unitatea V, Lecția 18 (manual, partea 2/2)", "Art 7, pp. 194-195")
+
+    print("\nFise clasa a VII-a: U1 (6) + U2 (12) + U3 (9) + U4 (7) + U5 (10) = 44")

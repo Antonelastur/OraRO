@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="470" fill="#faf7f0"/>
+  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Baba-Dochia și tradiția mărțișorului</text>
+  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV · după Ion Ghinoiu, Calendarul țăranului român. Zile și mituri</text>
+
+  <rect x="55" y="86" width="400" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="110" font-size="14" font-weight="700" fill="#10233f">Mărțișorul</text>
+  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="134">funie care adună cele 365 de zile</tspan><tspan x="75" y="152">într-un șnur bicolor, alb și roșu</tspan><tspan x="75" y="170">calendar simbolic al anului</tspan><tspan x="75" y="188">cadou la 1 martie, vechi început</tspan><tspan x="75" y="206">de an agrar</tspan><tspan x="75" y="224">se purta legat la mână, la piept sau la gât</tspan></text>
+
+  <rect x="475" y="86" width="370" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="495" y="110" font-size="14" font-weight="700" fill="#10233f">Culorile șnurului</text>
+  <text font-size="11.5" fill="#3a3226"><tspan x="495" y="134">alb și roșu, simbolizând iarna și vara</tspan><tspan x="495" y="156">se poartă până la o sărbătoare de</tspan><tspan x="495" y="174">primăvară sau până la înflorirea pomilor,</tspan><tspan x="495" y="192">apoi se agață pe ramurile înflorite</tspan><tspan x="495" y="214">purtătorul ar fi ferit de boli și de deochi</tspan></text>
+
+  <rect x="55" y="252" width="790" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="276" font-size="14" font-weight="700" fill="#10233f">Legenda Babei-Dochia</text>
+  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="300">o babă pornește spre munte cu turma, înșelată de vremea bună de la începutul lui martie</tspan><tspan x="75" y="320">poartă nouă sau douăsprezece cojoace, câte unul pentru fiecare lună, și le leapădă pe rând</tspan><tspan x="75" y="340">în ziua a noua sau a douăsprezecea un ger năprasnic o îngheață, împreună cu turma</tspan><tspan x="75" y="362">firul tors de Dochia în urcuș înseamnă timpul care se scurge neîncetat</tspan><tspan x="75" y="382">Ursitoarele torc firul vieții omului; Dochia toarce firul anului, la început de primăvară</tspan></text>
+
+  <text x="450" y="430" text-anchor="middle" font-size="12" fill="#3a3226">Baba-Dochia reprezintă timpul vechi, care trebuie să moară simbolic pentru a se putea reînnoi.</text>
+  <text x="450" y="452" text-anchor="middle" font-size="11" fill="#5b6b83">Obicei atestat la românii nord- și sud-dunăreni și la popoare vecine. Sursă: Art 7, pp. 140-143</text>
+</svg>

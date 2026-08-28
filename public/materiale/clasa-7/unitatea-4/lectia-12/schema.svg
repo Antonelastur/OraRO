@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="380" fill="#faf7f0"/>
+  <text x="450" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Pronumele și adjectivul pronominal posesiv</text>
+  <text x="450" y="60" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV · lecția 12</text>
+
+  <rect x="60" y="82" width="780" height="86" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="80" y="108" font-size="13" font-weight="700" fill="#10233f">Alcătuire</text>
+  <text font-size="11.5" fill="#3a3226"><tspan x="80" y="130">articol posesiv (al, a, ai, ale) — indică obiectul posedat</tspan><tspan x="80" y="150">+ formă specifică (meu, tău, său, nostru, vostru) — indică posesorul</tspan></text>
+
+  <rect x="60" y="186" width="375" height="120" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="80" y="212" font-size="13" font-weight="700" fill="#10233f">De reținut</text>
+  <text font-size="11" fill="#3a3226"><tspan x="80" y="234">nu are forme pentru persoana a III-a plural;</tspan><tspan x="80" y="252">în loc se folosește genitivul plural al</tspan><tspan x="80" y="270">pronumelui personal: cartea lor</tspan><tspan x="80" y="292">nu are forme de singular la G. și D.</tspan></text>
+
+  <rect x="465" y="186" width="375" height="120" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="485" y="212" font-size="13" font-weight="700" fill="#10233f">Funcții sintactice</text>
+  <text font-size="11" fill="#3a3226"><tspan x="485" y="234">pronumele posesiv: toate funcțiile</tspan><tspan x="485" y="252">substantivului (subiect, nume predicativ,</tspan><tspan x="485" y="270">complemente, atribut pronominal…)</tspan><tspan x="485" y="292" font-style="italic">adjectivul pronominal posesiv: atribut adjectival</tspan></text>
+
+  <text x="450" y="342" text-anchor="middle" font-size="11" fill="#5b6b83">Când determină substantivul care numește obiectul posedat, pronumele posesiv devine adjectiv pronominal posesiv.</text>
+  <text x="450" y="366" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, pp. 148-149</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="380" fill="#faf7f0"/>
+  <text x="450" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Pronumele și adjectivul pronominal nehotărât</text>
+  <text x="450" y="60" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV · lecția 14 · nu dă informații precise despre obiectul înlocuit</text>
+
+  <rect x="60" y="82" width="390" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="80" y="108" font-size="13" font-weight="700" fill="#10233f">Simple</text>
+  <text font-size="11.5" fill="#3a3226"><tspan x="80" y="132">unul, altul, atât, mult, puțin, tot, cutare</tspan></text>
+  <text x="80" y="164" font-size="13" font-weight="700" fill="#10233f">Compuse</text>
+  <text font-size="11.5" fill="#3a3226"><tspan x="80" y="188">altceva, altcineva, careva, ceva, cineva,</tspan><tspan x="80" y="208">fiecare, oricare, oricine, orice, vreunul</tspan></text>
+
+  <rect x="470" y="82" width="370" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="490" y="108" font-size="13" font-weight="700" fill="#10233f">Reguli de scriere</text>
+  <text font-size="11" fill="#3a3226"><tspan x="490" y="130">compusele se scriu într-un singur cuvânt:</tspan><tspan x="490" y="148">vreun / vreo (nu vre-un), oricare, orice</tspan><tspan x="490" y="168">compusele cu ori- au i „șoptit”: oricare</tspan><tspan x="490" y="196">„fiecare” subiect cere acordul la singular:</tspan><tspan x="490" y="214" font-style="italic">Fiecare știe acest lucru.</tspan></text>
+
+  <rect x="60" y="248" width="780" height="66" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="80" y="272" font-size="13" font-weight="700" fill="#10233f">Locuțiunea pronominală nehotărâtă</text>
+  <text font-size="11" fill="#3a3226"><tspan x="80" y="294">grup de cuvinte cu înțeles unitar, care se comportă ca un pronume: cine știe cine, nu știu ce, te miri cine</tspan></text>
+
+  <text x="450" y="340" text-anchor="middle" font-size="11" fill="#5b6b83">Are aceleași funcții sintactice ca substantivul. Când determină un substantiv, devine adjectiv pronominal nehotărât (atribut adjectival).</text>
+  <text x="450" y="366" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, p. 152</text>
+</svg>

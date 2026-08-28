@@ -10,10 +10,12 @@
 //
 // rezolvareGhid și planLectie rămân null, document intern, nu se publică.
 //
-// Materiale: schema pentru lecțiile 11 (Pronumele personal) și 19
-// (Posibilități combinatorii ale pronumelui). Infografic pentru lecția 6
-// (Textul multimodal. Enciclopedia). Joc pentru 23 și 24 (recapitulare).
-// Restul rămân null, listate în materiale-restante.md.
+// Materiale: fișe de lucru pentru lecțiile 2, 3, 4, 5, 7, 20, 21
+// (scripts/build_clasa7_fise.py). Scheme pentru 11-19 (tipurile de pronume și
+// de adjectiv pronominal). Infografic pentru 6 (Enciclopedia) și 8 (Baba-Dochia
+// și mărțișorul). Jocuri-quiz pentru 9, 10 (comunicare orală) și 22, 23
+// (recapitulare). Lecțiile 1 (prezentare) și 24 (probă scrisă) rămân fără
+// material aici, listate în materiale-restante.md.
 
 export const unitatea4 = {
   id: 'unitatea-4',
@@ -37,7 +39,7 @@ export const unitatea4 = {
       ],
       sursaManual: 'Art 7, pp. 130-131',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: { fisier: '/materiale/clasa-7/unitatea-4/lectia-2/fisa.pdf' }, joc: null, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-3',
@@ -47,7 +49,7 @@ export const unitatea4 = {
       ],
       sursaManual: 'Art 7, pp. 132-134',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: { fisier: '/materiale/clasa-7/unitatea-4/lectia-3/fisa.pdf' }, joc: null, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-4',
@@ -57,7 +59,7 @@ export const unitatea4 = {
       ],
       sursaManual: 'Art 7, p. 135',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: { fisier: '/materiale/clasa-7/unitatea-4/lectia-4/fisa.pdf' }, joc: null, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-5',
@@ -67,7 +69,7 @@ export const unitatea4 = {
       ],
       sursaManual: 'Art 7, pp. 136-139, partea 1/2',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: { fisier: '/materiale/clasa-7/unitatea-4/lectia-5/fisa.pdf' }, joc: null, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-6',
@@ -87,7 +89,7 @@ export const unitatea4 = {
       ],
       sursaManual: 'Art 7, „Noi pagini, alte idei”, pp. 140-141 (Cerșetorul și regele, poveste populară indiană)',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: { fisier: '/materiale/clasa-7/unitatea-4/lectia-7/fisa.pdf' }, joc: null, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-8',
@@ -97,7 +99,7 @@ export const unitatea4 = {
       ],
       sursaManual: 'Art 7, pp. 140-143 (Calendarul țăranului român. Zile și mituri de Ion Ghinoiu, fragment)',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: { fisier: '/materiale/clasa-7/unitatea-4/lectia-8/infografic.svg', titlu: 'Baba-Dochia și tradiția mărțișorului' }, schema: null, altele: [] },
     },
     {
       id: 'lectia-9',
@@ -107,7 +109,42 @@ export const unitatea4 = {
       ],
       sursaManual: 'Art 7, p. 144',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: {
+        prezentare: null, video: null, test: null, fisa: null,
+        joc: {
+          tip: 'quiz', titlu: 'Structura textului narativ oral',
+          pasi: [
+            {
+              intrebare: 'La ce servește prezentarea împrejurărilor, într-o narațiune orală?',
+              variante: [
+                { text: 'Oferă ascultătorului informații despre cine, când, unde și la ce se referă întâmplarea', corect: true, explicatie: 'Prezentarea împrejurărilor răspunde la întrebările Cine? Când? Unde? La ce se referă?' },
+                { text: 'Încheie povestirea și trage concluzia', corect: false, explicatie: 'Încheierea și semnificația țin de deznodământ și de evaluare, nu de prezentarea împrejurărilor.' },
+                { text: 'Este partea în care se enumeră personajele secundare', corect: false, explicatie: 'Nu e o simplă listă de personaje, ci fixarea situației: persoană, loc, timp.' },
+              ],
+              indiciu: null, sursa: 'Art 7, p. 144',
+            },
+            {
+              intrebare: 'Ce element al textului narativ oral exprimă atitudinea povestitorului și sensul pe care îl dă întâmplării?',
+              variante: [
+                { text: 'evaluarea', corect: true, explicatie: 'Evaluarea răspunde la întrebarea Ce semnificație are această întâmplare?' },
+                { text: 'desfășurarea întâmplărilor', corect: false, explicatie: 'Desfășurarea cuprinde seria de evenimente, răspunde la Ce s-a întâmplat?' },
+                { text: 'deznodământul', corect: false, explicatie: 'Deznodământul arată cum s-a terminat, nu ce semnificație are.' },
+              ],
+              indiciu: 'De ce povestim, de obicei, o întâmplare trăită?', sursa: 'Art 7, p. 144',
+            },
+            {
+              intrebare: 'Ce rol au formulele „Cam așa a fost.”, „Atât.”, „Asta e tot.” la finalul unei povestiri orale?',
+              variante: [
+                { text: 'Întorc perspectiva în prezent și marchează încheierea relatării', corect: true, explicatie: 'Sunt modalități prin care povestitorul revine în prezent după ce a relatat trecutul.' },
+                { text: 'Anunță că urmează o a doua întâmplare', corect: false, explicatie: 'Dimpotrivă, semnalează că povestirea s-a terminat.' },
+                { text: 'Sunt greșeli de exprimare care trebuie evitate', corect: false, explicatie: 'Sunt formule firești ale povestirii orale, nu greșeli.' },
+              ],
+              indiciu: null, sursa: 'Art 7, p. 144',
+            },
+          ],
+        },
+        infografic: null, schema: null, altele: [],
+      },
     },
     {
       id: 'lectia-10',
@@ -117,7 +154,42 @@ export const unitatea4 = {
       ],
       sursaManual: 'Art 7, p. 145',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: {
+        prezentare: null, video: null, test: null, fisa: null,
+        joc: {
+          tip: 'quiz', titlu: 'Strategii de legătură în textul oral',
+          pasi: [
+            {
+              intrebare: 'Cum se numește repetarea unui conținut într-o formă diferită, prin sinonime sau prin schimbarea părții de vorbire?',
+              variante: [
+                { text: 'reformulare', corect: true, explicatie: 'Reformularea repetă același conținut altfel: sinonime, adjectiv devenit substantiv, verb devenit substantiv, schimbarea formei verbului.' },
+                { text: 'reluare identică', corect: false, explicatie: 'Reluarea identică repetă exact aceleași cuvinte sau structuri, nu într-o formă diferită.' },
+                { text: 'concluzie', corect: false, explicatie: 'Concluzia e un tip de conector, nu un procedeu de repetare.' },
+              ],
+              indiciu: '„Stăteau într-o casă dărăpănată. Locuința lor era dărăpănată.”', sursa: 'Art 7, p. 145',
+            },
+            {
+              intrebare: 'Ce exprimă conectorul „într-adevăr”?',
+              variante: [
+                { text: 'confirmarea', corect: true, explicatie: '„Într-adevăr” confirmă ceea ce s-a spus înainte.' },
+                { text: 'concesia', corect: false, explicatie: 'Concesia se exprimă prin „totuși”, „cu toate acestea”.' },
+                { text: 'dezacordul', corect: false, explicatie: 'Dezacordul se exprimă prin „dimpotrivă”, „însă”.' },
+              ],
+              indiciu: null, sursa: 'Art 7, p. 145',
+            },
+            {
+              intrebare: 'În seria „așadar, deci, așa că”, ce fel de conectori sunt aceștia?',
+              variante: [
+                { text: 'conectori de concluzie', corect: true, explicatie: '„Așadar”, „deci”, „așa că” introduc concluzia unui raționament.' },
+                { text: 'conectori de cauză', corect: false, explicatie: 'Cauza se exprimă prin „pentru că”, „de aceea”, „de aici”.' },
+                { text: 'conectori de adaos', corect: false, explicatie: 'Adaosul se exprimă prin „în plus”, „mai mult”, „de altfel”.' },
+              ],
+              indiciu: null, sursa: 'Art 7, p. 145',
+            },
+          ],
+        },
+        infografic: null, schema: null, altele: [],
+      },
     },
     {
       id: 'lectia-11',
@@ -137,7 +209,7 @@ export const unitatea4 = {
       ],
       sursaManual: 'Art 7, pp. 148-149',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-4/lectia-12/schema.svg', titlu: 'Pronumele și adjectivul pronominal posesiv' }, altele: [] },
     },
     {
       id: 'lectia-13',
@@ -147,7 +219,7 @@ export const unitatea4 = {
       ],
       sursaManual: 'Art 7, pp. 150-151',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-4/lectia-13/schema.svg', titlu: 'Pronumele și adjectivul pronominal demonstrativ' }, altele: [] },
     },
     {
       id: 'lectia-14',
@@ -157,7 +229,7 @@ export const unitatea4 = {
       ],
       sursaManual: 'Art 7, p. 152',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-4/lectia-14/schema.svg', titlu: 'Pronumele și adjectivul pronominal nehotărât' }, altele: [] },
     },
     {
       id: 'lectia-15',
@@ -167,7 +239,7 @@ export const unitatea4 = {
       ],
       sursaManual: 'Art 7, p. 153',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-4/lectia-15/schema.svg', titlu: 'Pronumele și adjectivul pronominal interogativ' }, altele: [] },
     },
     {
       id: 'lectia-16',
@@ -177,7 +249,7 @@ export const unitatea4 = {
       ],
       sursaManual: 'Art 7, pp. 154-155',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-4/lectia-16/schema.svg', titlu: 'Pronumele și adjectivul pronominal relativ' }, altele: [] },
     },
     {
       id: 'lectia-17',
@@ -187,7 +259,7 @@ export const unitatea4 = {
       ],
       sursaManual: 'Art 7, p. 156',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-4/lectia-17/schema.svg', titlu: 'Pronumele și adjectivul pronominal negativ' }, altele: [] },
     },
     {
       id: 'lectia-18',
@@ -197,7 +269,7 @@ export const unitatea4 = {
       ],
       sursaManual: 'Art 7, p. 157',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-4/lectia-18/schema.svg', titlu: 'Adjectivul pronominal de întărire' }, altele: [] },
     },
     {
       id: 'lectia-19',
@@ -217,7 +289,7 @@ export const unitatea4 = {
       ],
       sursaManual: 'Art 7, pp. 160-161, partea 1/2',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: { fisier: '/materiale/clasa-7/unitatea-4/lectia-20/fisa.pdf' }, joc: null, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-21',
@@ -227,7 +299,7 @@ export const unitatea4 = {
       ],
       sursaManual: 'Art 7, pp. 160-161, partea 2/2',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: { fisier: '/materiale/clasa-7/unitatea-4/lectia-21/fisa.pdf' }, joc: null, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-22',
