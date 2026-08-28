@@ -199,6 +199,144 @@ def fisa_elemente_grafice(out, subtitlu, sursa):
         "spre dreapta-jos."))
 
 
+# ---------- Unitatea II ----------
+
+def fisa_text_dramatic(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Textul dramatic. Structuri textuale", subtitlu, [
+        {"t": "table", "n": 1, "title": "Indicații scenice: externe sau interne", "rows": 5, "row_h": 28,
+         "cols": ["Indicația scenică (transcrisă din text)", "Externă / internă", "Ce anunță"],
+         "widths": [230, 110, 170]},
+        {"t": "lines", "n": 2, "title": "Structura textuală din didascalii", "weight": 3,
+         "prompt": "Ce structură textuală (narativă, descriptivă, dialogată, explicativă) predomină în indicația de decor de la începutul actului I? Susține cu un citat."},
+        {"t": "lines", "n": 3, "title": "Ce stârnește râsul", "weight": 3,
+         "prompt": "Comedia provoacă râsul prin înfățișarea personajelor, comportamentul, limbajul lor sau situații. Alege un fragment din Take, Ianke și Cadâr și arată prin ce anume e comic."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 58-59): Textul dramatic e scris ca să fie jucat pe scenă. Actul e subdiviziunea "
+        "formală a piesei, cu acțiune unitară, separat prin coborârea cortinei; scena sau tabloul e "
+        "subdiviziunea actului, delimitată de intrarea sau ieșirea unui personaj ori de schimbarea locului și "
+        "a timpului. Actele se notează cu cifre romane, scenele cu cifre arabe. Componente: indicațiile "
+        "scenice (didascaliile) — externe/inițiale (titlul, lista personajelor, spațiul, timpul, decorul) și "
+        "interne/funcționale (intrări, ieșiri, gesturi, ton, tăceri; numele personajului în fața replicii) — și "
+        "textul dialogat (replicile). Comedia stârnește râsul prin tipuri umane sau situații neașteptate."))
+
+
+def fisa_timp_spatiu_dramatic(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Timpul, spațiul, acțiunea, personajele", subtitlu, [
+        {"t": "table", "n": 1, "title": "Timpul și spațiul în teatru", "rows": 4, "row_h": 28,
+         "cols": ["Aspect", "În Take, Ianke și Cadâr"], "widths": [200, 310],
+         "data": [["Durata (timpul reprezentației)", ""], ["Momentul (timpul ficțiunii)", ""],
+                  ["Spațiul-scenă", ""], ["Spațiul ficțiunii", ""]]},
+        {"t": "lines", "n": 2, "title": "Conflictul dramatic", "weight": 3,
+         "prompt": "Ce anume a generat neînțelegerile dintre personaje? Cine se înfruntă și din ce cauză? Cum se rezolvă?"},
+        {"t": "table", "n": 3, "title": "Fișă de identitate a unui personaj", "rows": 5, "row_h": 26,
+         "cols": ["Rubrica", "Ce am aflat din text"], "widths": [180, 330],
+         "data": [["Nume, vârstă, statut social", ""], ["Naționalitate, religie", ""],
+                  ["O trăsătură (directă, din indicații sau alte personaje)", ""],
+                  ["O trăsătură (indirectă, din felul de a vorbi)", ""], ["O replică relevantă", ""]]},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 60-61): Timpul în teatru are durata (timpul reprezentației) și momentul (timpul "
+        "ficțiunii). Spațiul are spațiul-scenă (al reprezentării) și spațiul ficțiunii, pe care spectatorul îl "
+        "imaginează ca fragment de lume. Acțiunea dramatică e succesiunea de evenimente care duce de la "
+        "situația inițială la cea finală; conflictul dramatic — înfruntarea dintre personaje, idei sau situații "
+        "din interese sau sentimente opuse — este element fundamental. Personajul dramatic are dublă "
+        "natură (ființă ficțională + actor) și e construit direct sau indirect."))
+
+
+def fisa_cronica_spectacol(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Cronica de spectacol", subtitlu, [
+        {"t": "table", "n": 1, "title": "Fapt sau opinie, în cronica lui Ștefan Popa", "rows": 4, "row_h": 28,
+         "cols": ["Enunțul din cronică", "Fapt / opinie", "Cuvântul care te ajută"], "widths": [240, 110, 160]},
+        {"t": "lines", "n": 2, "title": "Ce aspecte examinează", "weight": 3,
+         "prompt": "Notează patru elemente ale spectacolului luate în discuție în cronică (regie, scenografie, jocul actorilor, decor, coloană sonoră…). Ce spune autorul despre fiecare?"},
+        {"t": "lines", "n": 3, "title": "Punctul de vedere final", "weight": 3,
+         "prompt": "Ce judecată de valoare formulează cronicarul la final? Ce rezervă are față de spectacol?"},
+        {"t": "lines", "n": 4, "title": "Titlul", "weight": 2,
+         "prompt": "Explică de ce se potrivește titlul „Omenescul personajelor” pentru această cronică."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 65-67): Cronica de spectacol e un comentariu de specialitate, scris imediat "
+        "după premieră, care poate lua în discuție orice element de bază al spectacolului: regie, scenografie, "
+        "coregrafie, jocul actorilor, decor, costume, coloană sonoră, efecte, atmosferă. La final, autorul "
+        "formulează de obicei un punct de vedere despre valoarea spectacolului. E un text de opinie, cu grad "
+        "mare de subiectivitate, semnat adesea de o personalitate; apare în reviste de specialitate sau pe "
+        "bloguri."))
+
+
+def fisa_subordonarea(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Fraza. Subordonarea", subtitlu, [
+        {"t": "table", "n": 1, "title": "Principală sau subordonată", "rows": 4, "row_h": 30,
+         "cols": ["Fraza (desparte-o în propoziții)", "Ce propoziție e secundară", "Elementul regent"],
+         "widths": [230, 130, 150]},
+        {"t": "lines", "n": 2, "title": "Elementul de relație", "weight": 3,
+         "prompt": "Pentru trei fraze la alegere, spune prin ce e introdusă subordonata: conjuncție, locuțiune conjuncțională, pronume/adjectiv relativ sau nehotărât, adverb relativ sau nehotărât."},
+        {"t": "lines", "n": 3, "title": "Transformă", "weight": 3,
+         "prompt": "Transformă fraza „Trenul nu a sosit încă; are întârziere.” într-o frază cu o principală și o subordonată, adăugând un element de relație potrivit și punctuația necesară."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 88-89): După rol, propoziția e principală (sens de sine stătător) sau secundară/"
+        "subordonată (depinde ca sens de un cuvânt din altă propoziție — elementul regent, aflat în "
+        "propoziția regentă). O frază are cel puțin o principală. Subordonarea se realizează prin joncțiune: "
+        "conjuncții subordonatoare (că, să, dacă, deși, fiindcă…) și locuțiuni conjuncționale subordonatoare "
+        "(cu toate că, din cauză că, pentru ca să…), care apar doar în frază, sau prin pronume și adjective "
+        "relative și nehotărâte, adverbe relative (unde, când, cum, cât) și adverbe nehotărâte (oriunde, "
+        "oricum…), care îndeplinesc și funcție sintactică în propoziția introdusă."))
+
+
+def fisa_enunturi_eliptice(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Enunțuri eliptice. Norme de punctuație", subtitlu, [
+        {"t": "table", "n": 1, "title": "Ce lipsește și cum se recuperează", "rows": 4, "row_h": 30,
+         "cols": ["Enunțul eliptic", "Secvența omisă (recuperată din context)", "Elipsă verbală / nominală"],
+         "widths": [200, 200, 110]},
+        {"t": "lines", "n": 2, "title": "Marcarea elipsei", "weight": 3,
+         "prompt": "Prin ce semn se marchează în scris elipsa verbală (virgulă sau linie de pauză)? Dă câte un exemplu propriu pentru fiecare."},
+        {"t": "lines", "n": 3, "title": "Propoziții fragmentare", "weight": 3,
+         "prompt": "Scrie un scurt schimb de replici (4-6 rânduri) în care să apară: o propoziție fragmentară dintr-o coordonare, un răspuns scurt la o întrebare și un răspuns printr-un adverb (da / nu / desigur)."},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 90-91): Elipsa e omisiunea unor secvențe recuperabile din context, exprimate "
+        "anterior. Elipsa verbală = omiterea totală sau parțială a predicatului (Eu am fost în parc și tu, la "
+        "film). Elipsa nominală = omiterea unui substantiv (Eu am vrut o prăjitură cu ciocolată, iar Ioana, cu "
+        "fistic). Propozițiile fragmentare apar în structuri coordonate (se păstrează doar informația nouă), în "
+        "răspunsuri la întrebări (doar partea de vorbire cerută de cuvântul interogativ) sau în răspunsuri "
+        "înlocuite integral prin adverbe (da, nu, ba da, desigur). Elipsa verbală se marchează în scris prin "
+        "virgulă sau linie de pauză, iar în vorbire printr-o pauză."))
+
+
+def fisa_cronica_film_1(out, subtitlu, sursa):
+    sheet(out, "Fișă de lucru — Cronica de film. Pregătirea", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Filmul ales", "weight": 1,
+         "prompt": "Alege un film sau un scurtmetraj de animație urmărit la clasă. Notează titlul, titlul original, genul."},
+        {"t": "table", "n": 2, "title": "Întrebările cronicarului", "rows": 4, "row_h": 30,
+         "cols": ["Întrebare", "Răspuns pe scurt"], "widths": [140, 370],
+         "data": [["CE? (film, gen, semnificație, ce nu se divulgă)", ""],
+                  ["CINE? (regizor, scenarist, actori / voci)", ""],
+                  ["CÂND și UNDE? (producție, premieră, acțiune)", ""],
+                  ["CUM? (jocul actorilor, coloana sonoră, cum te-ai simțit)", ""]]},
+        {"t": "lines", "n": 3, "title": "Ce nu divulg", "weight": 3,
+         "prompt": "Notează două detalii de acțiune pe care nu le vei include în cronică, ca să nu strici surpriza. De ce tocmai acestea?"},
+    ], sursa, reper_text=(
+        "Reper (manual, pp. 92-93): Cronica de film e un text scris după vizionare, care examinează regia, "
+        "scenariul, jocul actorilor, coloana sonoră, efectele speciale etc.; autorul poate formula puncte de "
+        "vedere personale. O cronică nu oferă toate detaliile acțiunii, ca să încurajeze cititorii să vadă "
+        "filmul. Înainte de redactare urmărești filmul cu atenție, îți iei notițe și răspunzi la întrebările: ce? "
+        "cine? când și unde? cum?"))
+
+
+def fisa_cronica_film_2(out, subtitlu, sursa):
+    sheet2(out, "Fișă de lucru — Cronica de film. Redactarea. Etica redactării", subtitlu, [
+        {"t": "lines", "n": 1, "title": "Cele cinci paragrafe", "weight": 5,
+         "prompt": "Redactează cronica pe cinci paragrafe: 1. informații generale (titlu original, gen, regizor, scenarist); 2. prezentare pe scurt, fără punctul culminant și finalul; 3. părerea ta, motivată; 4. mesajul filmului; 5. producătorul, anul, premiile."},
+        {"t": "lines", "n": 2, "title": "Titlul", "weight": 2,
+         "prompt": "Formulează un titlu care să conțină și titlul filmului."},
+    ], [
+        {"t": "table", "n": 3, "title": "Etica redactării", "rows": 4, "row_h": 26,
+         "cols": ["Verificare", "Da / Nu"], "widths": [400, 110],
+         "data": [["Textul este original, scris cu propriile cuvinte", ""],
+                  ["Opiniile preluate de la altcineva sunt între ghilimele, cu sursa notată", ""],
+                  ["Scrisul e lizibil sau tehnoredactarea respectă regulile de estetică a paginii", ""],
+                  ["Rezumatul nu dezvăluie punctul culminant sau deznodământul", ""]]},
+        {"t": "lines", "n": 4, "title": "Forma finală", "weight": 6,
+         "prompt": "Transcrie cronica pentru etapa de publicare, de mână sau la calculator, respectând normele de redactare."},
+    ], sursa)
+
+
 if __name__ == "__main__":
     # ---------- Unitatea I ----------
     fisa_versificatie("unitatea-1/lectia-2/fisa.pdf",
@@ -234,4 +372,28 @@ if __name__ == "__main__":
     fisa_elemente_grafice("unitatea-1/lectia-23/fisa.pdf",
                           "Unitatea I, Lecția 23", "Art 8, pp. 46-47")
 
-    print("\nFise clasa a VIII-a: U1 (12) = 12")
+    # ---------- Unitatea II ----------
+    fisa_text_dramatic("unitatea-2/lectia-2/fisa.pdf",
+                       "Unitatea II, Lecția 2 · Take, Ianke și Cadâr de Victor Ion Popa", "Art 8, pp. 58-59")
+    fisa_timp_spatiu_dramatic("unitatea-2/lectia-3/fisa.pdf",
+                              "Unitatea II, Lecția 3 · Take, Ianke și Cadâr de Victor Ion Popa", "Art 8, pp. 60-61")
+    fisa_semnificatii("unitatea-2/lectia-4/fisa.pdf",
+                      "Unitatea II, Lecția 4 · Take, Ianke și Cadâr de Victor Ion Popa",
+                      "În ciuda diferențelor etnice și religioase, ce îi apropie pe Take, Ianke și Cadâr?",
+                      "Art 8, pp. 63-64")
+    fisa_cronica_spectacol("unitatea-2/lectia-5/fisa.pdf",
+                           "Unitatea II, Lecția 5 · Omenescul personajelor de Ștefan Popa", "Art 8, pp. 65-67")
+    fisa_text_auxiliar("unitatea-2/lectia-6/fisa.pdf", "Unitatea II, Lecția 6",
+                       "Nathan Înțeleptul de Gotthold Ephraim Lessing (fragment)",
+                       "textul de bază al unității (Take, Ianke și Cadâr de Victor Ion Popa)",
+                       "Art 8, „Noi pagini, alte idei”, pp. 68-69")
+    fisa_subordonarea("unitatea-2/lectia-16/fisa.pdf",
+                      "Unitatea II, Lecția 16", "Art 8, pp. 88-89")
+    fisa_enunturi_eliptice("unitatea-2/lectia-17/fisa.pdf",
+                           "Unitatea II, Lecția 17", "Art 8, pp. 90-91")
+    fisa_cronica_film_1("unitatea-2/lectia-18/fisa.pdf",
+                        "Unitatea II, Lecția 18 (manual, partea 1/2)", "Art 8, pp. 92-93")
+    fisa_cronica_film_2("unitatea-2/lectia-19/fisa.pdf",
+                        "Unitatea II, Lecția 19 (manual, partea 2/2)", "Art 8, pp. 92-93")
+
+    print("\nFise clasa a VIII-a: U1 (12) + U2 (9) = 21")

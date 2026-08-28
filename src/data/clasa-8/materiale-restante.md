@@ -27,31 +27,26 @@ Rămân:
 | lectia-18 | Registrele limbii | schemă (pas dedicat) |
 | lectia-26 | Evaluare | test (Google Forms) |
 
-## Unitatea II: Cum sunt ceilalți? (21 lecții fără material, din 23 totale)
+## Unitatea II: Cum sunt ceilalți? (23 lecții, 14 cu material)
+
+Gata, integrate în cod: fișele lecțiilor 2, 3, 4, 5, 6, 16, 17, 18, 19
+(`scripts/build_clasa8_fise.py`); jocurile-quiz ale lecțiilor 8 (atitudini
+comunicative), 21 și 22 (recapitulare); plus schema lecției 15 și jocul
+lecției 20, deja existente.
+
+Rămân:
 
 | Lecție | Titlu | Tip orientativ |
 |---|---|---|
 | lectia-1 | Textul dramatic. Take, Ianke și Cadâr de Victor Ion Popa | prezentare |
-| lectia-2 | Textul dramatic. Structuri textuale | fișă |
-| lectia-3 | Timpul, spațiul, acțiunea, personajele | fișă |
-| lectia-4 | Semnificațiile textului | fișă |
-| lectia-5 | Textul nonliterar. Cronica de spectacol. Omenescul personajelor de Ștefan Popa | fișă |
-| lectia-6 | Text auxiliar. Nathan Înțeleptul de Gotthold Ephraim Lessing | fișă |
-| lectia-7 | Relații culturale constructive. Noi și ceilalți | infografic |
-| lectia-8 | Atitudini comunicative | joc |
-| lectia-9 | Construcțiile active. Construcțiile pasive cu verbul a fi | schemă |
-| lectia-10 | Predicatul (actualizare) | schemă |
-| lectia-11 | Construcțiile cu pronume reflexive | schemă |
-| lectia-12 | Construcțiile impersonale | schemă |
-| lectia-13 | Subiectul (actualizare) | schemă |
-| lectia-14 | Construcțiile incidente | schemă |
-| lectia-16 | Fraza. Subordonarea | fișă |
-| lectia-17 | Enunțuri eliptice. Norme de punctuație | fișă |
-| lectia-18 | Cronica de film. Redactarea de mână și computerizată. Etica redactării (partea 1/2) | fișă |
-| lectia-19 | Cronica de film. Redactarea de mână și computerizată. Etica redactării (partea 2/2) | fișă |
-| lectia-21 | Recapitulare (partea 2/2) | test (Google Forms) sau joc |
-| lectia-22 | Recapitulare (partea 3/3, comunicare orală și redactare) | test (Google Forms) sau joc |
-| lectia-23 | Evaluare | test (Google Forms) sau joc |
+| lectia-7 | Relații culturale constructive. Noi și ceilalți | infografic (pas dedicat) |
+| lectia-9 | Construcțiile active. Construcțiile pasive cu verbul a fi | schemă (pas dedicat) |
+| lectia-10 | Predicatul (actualizare) | schemă (pas dedicat) |
+| lectia-11 | Construcțiile cu pronume reflexive | schemă (pas dedicat) |
+| lectia-12 | Construcțiile impersonale | schemă (pas dedicat) |
+| lectia-13 | Subiectul (actualizare) | schemă (pas dedicat) |
+| lectia-14 | Construcțiile incidente | schemă (pas dedicat) |
+| lectia-23 | Evaluare | test (Google Forms) |
 
 ## Unitatea III: Cum descoperim lumea? (23 lecții fără material, din 25 totale)
 
