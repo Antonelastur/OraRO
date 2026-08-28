@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="400" fill="#faf7f0"/>
+  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Structura textului dramatic</text>
+  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V · lecția 3 · text scris pentru a fi jucat pe scenă</text>
+
+  <rect x="55" y="80" width="790" height="60" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="102" font-size="13" font-weight="700" fill="#10233f">Împărțirea</text>
+  <text font-size="10.5" fill="#3a3226"><tspan x="75" y="121">acte: diviziuni formale, separate de o pauză în care se lasă cortina</tspan><tspan x="75" y="136">scene sau tablouri: subdiviziuni ale actului, la intrarea/ieșirea unui personaj sau la schimbarea locului</tspan></text>
+
+  <rect x="55" y="150" width="390" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="75" y="174" font-size="13" font-weight="700" fill="#10233f">Textul dialogat</text>
+  <text font-size="11" fill="#3a3226"><tspan x="75" y="196">alcătuit din replicile personajelor</tspan><tspan x="75" y="214">(fiecare intervenție a unui personaj)</tspan><tspan x="75" y="236">autorul imaginează acțiunea și</tspan><tspan x="75" y="254">construiește schimbul de replici</tspan><tspan x="75" y="276">reprezintă partea literară a textului</tspan></text>
+
+  <rect x="465" y="150" width="380" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="485" y="174" font-size="13" font-weight="700" fill="#10233f">Indicațiile autorului (didascalii)</text>
+  <text font-size="11" fill="#3a3226"><tspan x="485" y="196">nu sunt rostite de actori; între paranteze,</tspan><tspan x="485" y="214">de obicei cu italice</tspan><tspan x="485" y="236">externe: titlul, lista personajelor, spațiul,</tspan><tspan x="485" y="254">timpul, decorul</tspan><tspan x="485" y="272">interne: decupajul în acte și scene, intrări,</tspan><tspan x="485" y="290">ieșiri, deplasare, intonație, gesturi, tăceri</tspan></text>
+
+  <text x="450" y="336" text-anchor="middle" font-size="11" fill="#3a3226">Numele personajului, în fața replicii și cu majuscule, este tot o indicație internă.</text>
+  <text x="450" y="378" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, p. 172</text>
+</svg>

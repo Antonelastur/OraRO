@@ -6,8 +6,11 @@
 //
 // rezolvareGhid și planLectie rămân null, document intern, nu se publică.
 //
-// Materiale: schema pentru lecțiile 14 (Numeralul), 15 (Adverbul), 16
-// (Interjecția). Joc pentru 19 și 20 (recapitulare). Restul rămân null,
+// Materiale: fișe de lucru pentru lecțiile 1, 4, 5, 6, 7, 9, 10, 11, 17, 18
+// (scripts/build_clasa7_fise.py). Scheme pentru 14 (Numeralul), 15 (Adverbul),
+// 16 (Interjecția). Jocuri-quiz pentru 8, 12, 13 (comunicare orală) și 19, 20
+// (recapitulare). Lecția 3 (structura textului dramatic) așteaptă o schemă;
+// lecțiile 2 (prezentare) și 21 (probă scrisă) rămân fără material aici,
 // listate în materiale-restante.md.
 
 export const unitatea5 = {
@@ -22,7 +25,7 @@ export const unitatea5 = {
       ],
       sursaManual: 'Art 7, Proiect de grup, p. 183 (anunțare)',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: { fisier: '/materiale/clasa-7/unitatea-5/lectia-1/fisa.pdf' }, joc: null, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-2',
@@ -42,7 +45,7 @@ export const unitatea5 = {
       ],
       sursaManual: 'Art 7, p. 172',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-5/lectia-3/schema.svg', titlu: 'Structura textului dramatic' }, altele: [] },
     },
     {
       id: 'lectia-4',
@@ -52,7 +55,7 @@ export const unitatea5 = {
       ],
       sursaManual: 'Art 7, pp. 173-174',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: { fisier: '/materiale/clasa-7/unitatea-5/lectia-4/fisa.pdf' }, joc: null, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-5',
@@ -62,7 +65,7 @@ export const unitatea5 = {
       ],
       sursaManual: 'Art 7, pp. 175-176',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: { fisier: '/materiale/clasa-7/unitatea-5/lectia-5/fisa.pdf' }, joc: null, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-6',
@@ -72,7 +75,7 @@ export const unitatea5 = {
       ],
       sursaManual: 'Art 7, p. 177',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: { fisier: '/materiale/clasa-7/unitatea-5/lectia-6/fisa.pdf' }, joc: null, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-7',
@@ -82,7 +85,7 @@ export const unitatea5 = {
       ],
       sursaManual: 'Art 7, pp. 178-180, partea 1/2 (Interviu cu Matei Vișniec)',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: { fisier: '/materiale/clasa-7/unitatea-5/lectia-7/fisa.pdf' }, joc: null, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-8',
@@ -92,7 +95,42 @@ export const unitatea5 = {
       ],
       sursaManual: 'Art 7, pp. 178-180, partea 2/2',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: {
+        prezentare: null, video: null, test: null, fisa: null,
+        joc: {
+          tip: 'quiz', titlu: 'Interviul, minitest',
+          pasi: [
+            {
+              intrebare: 'Din ce categorie de texte face parte interviul?',
+              variante: [
+                { text: 'text nonliterar, jurnalistic, de tip informativ', corect: true, explicatie: 'Interviul informează, sub forma unui dialog între un reporter și o persoană.' },
+                { text: 'text literar narativ', corect: false, explicatie: 'Interviul nu construiește o lume ficțională, ci transmite informații reale.' },
+                { text: 'text dramatic', corect: false, explicatie: 'Textul dramatic e scris pentru scenă; interviul e un text jurnalistic.' },
+              ],
+              indiciu: null, sursa: 'Art 7, pp. 178-180',
+            },
+            {
+              intrebare: 'Ce este o întrebare deschisă, într-un interviu?',
+              variante: [
+                { text: 'O întrebare care îi lasă intervievatului loc să își exprime punctul de vedere', corect: true, explicatie: '„Ce te-a impresionat?” cere un răspuns dezvoltat, nu doar da sau nu.' },
+                { text: 'O întrebare la care se răspunde doar cu „da” sau „nu”', corect: false, explicatie: 'Aceea e întrebarea închisă.' },
+                { text: 'O întrebare pusă în public, cu voce tare', corect: false, explicatie: '„Deschisă” se referă la tipul răspunsului posibil, nu la locul unde se pune.' },
+              ],
+              indiciu: null, sursa: 'Art 7, pp. 178-180',
+            },
+            {
+              intrebare: 'Care este baza reușitei unui interviu?',
+              variante: [
+                { text: 'calitatea întrebărilor, fiindcă ea determină calitatea răspunsurilor', corect: true, explicatie: 'Un interviu bun pornește de la întrebări bine gândite, pe baza unei documentări.' },
+                { text: 'lungimea răspunsurilor', corect: false, explicatie: 'Un răspuns lung nu e neapărat unul bun; contează întrebarea care l-a provocat.' },
+                { text: 'numărul de persoane intervievate', corect: false, explicatie: 'Interviul are, de regulă, o singură persoană intervievată.' },
+              ],
+              indiciu: null, sursa: 'Art 7, pp. 178-180',
+            },
+          ],
+        },
+        infografic: null, schema: null, altele: [],
+      },
     },
     {
       id: 'lectia-9',
@@ -102,7 +140,7 @@ export const unitatea5 = {
       ],
       sursaManual: 'Art 7, „Noi pagini, alte idei”, pp. 181-182 (Visul unei nopți de vară de William Shakespeare, fragment)',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: { fisier: '/materiale/clasa-7/unitatea-5/lectia-9/fisa.pdf' }, joc: null, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-10',
@@ -112,7 +150,7 @@ export const unitatea5 = {
       ],
       sursaManual: 'Art 7, Proiect de grup, partea 1/2 (fără pagină exactă asociată în proiectare)',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: { fisier: '/materiale/clasa-7/unitatea-5/lectia-10/fisa.pdf' }, joc: null, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-11',
@@ -122,7 +160,7 @@ export const unitatea5 = {
       ],
       sursaManual: 'Art 7, Proiect de grup, partea 2/2 (fără pagină exactă asociată în proiectare)',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: { fisier: '/materiale/clasa-7/unitatea-5/lectia-11/fisa.pdf' }, joc: null, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-12',
@@ -132,7 +170,42 @@ export const unitatea5 = {
       ],
       sursaManual: 'Art 7, pp. 184-185',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: {
+        prezentare: null, video: null, test: null, fisa: null,
+        joc: {
+          tip: 'quiz', titlu: 'Textul dialogat. Tracul comunicativ',
+          pasi: [
+            {
+              intrebare: 'Ce este tracul comunicativ?',
+              variante: [
+                { text: 'O stare emotivă firească, o neliniște resimțită înainte de a vorbi în public', corect: true, explicatie: 'Tracul e o reacție obișnuită, care poate fi gestionată prin strategii.' },
+                { text: 'Un defect de vorbire care nu se poate corecta', corect: false, explicatie: 'Nu e un defect, ci o emoție firească; există strategii de gestionare.' },
+                { text: 'O formă de dialog mediat, prin telefon sau aplicații', corect: false, explicatie: 'Aceea e altă noțiune, dialogul mediat, fără legătură cu tracul.' },
+              ],
+              indiciu: null, sursa: 'Art 7, pp. 184-185',
+            },
+            {
+              intrebare: 'Care dintre acestea este o strategie de gestionare a tracului comunicativ?',
+              variante: [
+                { text: 'concentrarea asupra respirației și rostirea discursului într-un ritm firesc', corect: true, explicatie: 'Alături de repetiție, mărturisirea emoțiilor și contactul vizual cu persoane cunoscute.' },
+                { text: 'vorbitul cât mai repede, ca să se termine mai devreme', corect: false, explicatie: 'Ritmul firesc ajută; graba trădează emoția și îngreunează înțelegerea.' },
+                { text: 'evitarea oricărei pregătiri, ca să pară spontan', corect: false, explicatie: 'Pregătirea serioasă a intervenției reduce tracul, nu îl mărește.' },
+              ],
+              indiciu: null, sursa: 'Art 7, pp. 184-185',
+            },
+            {
+              intrebare: 'La ce trebuie adaptat modul de adresare într-un dialog?',
+              variante: [
+                { text: 'la locul dialogului, la relațiile dintre vorbitori și la vârsta participanților', corect: true, explicatie: 'Adresarea se potrivește contextului și interlocutorului.' },
+                { text: 'doar la ora la care are loc dialogul', corect: false, explicatie: 'Ora nu determină modul de adresare.' },
+                { text: 'la numărul de replici schimbate', corect: false, explicatie: 'Numărul de replici nu are legătură cu modul de adresare.' },
+              ],
+              indiciu: null, sursa: 'Art 7, pp. 184-185',
+            },
+          ],
+        },
+        infografic: null, schema: null, altele: [],
+      },
     },
     {
       id: 'lectia-13',
@@ -142,7 +215,42 @@ export const unitatea5 = {
       ],
       sursaManual: 'Art 7, pp. 186-187',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: {
+        prezentare: null, video: null, test: null, fisa: null,
+        joc: {
+          tip: 'quiz', titlu: 'Strategii de ascultare activă',
+          pasi: [
+            {
+              intrebare: 'Prin ce trei comportamente se manifestă ascultarea activă?',
+              variante: [
+                { text: 'atenția acordată vorbitorului, neîntreruperea lui, oferirea unui feedback', corect: true, explicatie: 'Ascultătorul activ arată atenție, lasă vorbitorul să termine și răspunde la ce a auzit.' },
+                { text: 'tăcerea totală, evitarea contactului vizual, notițe permanente', corect: false, explicatie: 'Contactul vizual și semnalele de încurajare fac parte din ascultarea activă.' },
+                { text: 'întreruperea rapidă cu propriile idei, ca să se vadă că ești atent', corect: false, explicatie: 'Întreruperea e exact opusul ascultării active.' },
+              ],
+              indiciu: null, sursa: 'Art 7, pp. 186-187',
+            },
+            {
+              intrebare: 'Formulele „Dacă am înțeles eu bine...”, „Vrei să spui că...” sunt un exemplu de:',
+              variante: [
+                { text: 'reformulare, ca formă de feedback', corect: true, explicatie: 'Receptorul reia cu propriile cuvinte ideea interlocutorului, ca să verifice că a înțeles.' },
+                { text: 'întrerupere a vorbitorului', corect: false, explicatie: 'Reformularea se face după ce vorbitorul și-a terminat ideea, nu în locul lui.' },
+                { text: 'schimbare a temei de discuție', corect: false, explicatie: 'Dimpotrivă, reformularea rămâne fidelă temei interlocutorului.' },
+              ],
+              indiciu: null, sursa: 'Art 7, pp. 186-187',
+            },
+            {
+              intrebare: 'Ce presupune neîntreruperea vorbitorului?',
+              variante: [
+                { text: 'amânarea propriei intervenții până când vorbitorul își termină ideea', corect: true, explicatie: 'Dorința de a interveni se semnalează politicos, nu prin tăierea vorbei.' },
+                { text: 'renunțarea la orice intervenție proprie', corect: false, explicatie: 'Poți interveni, dar la momentul potrivit și semnalând politicos.' },
+                { text: 'ridicarea tonului pentru a prelua cuvântul', corect: false, explicatie: 'E o formă de întrerupere, contrară ascultării active.' },
+              ],
+              indiciu: null, sursa: 'Art 7, pp. 186-187',
+            },
+          ],
+        },
+        infografic: null, schema: null, altele: [],
+      },
     },
     {
       id: 'lectia-14',
@@ -182,7 +290,7 @@ export const unitatea5 = {
       ],
       sursaManual: 'Art 7, pp. 194-195, partea 1/2',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: { fisier: '/materiale/clasa-7/unitatea-5/lectia-17/fisa.pdf' }, joc: null, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-18',
@@ -192,7 +300,7 @@ export const unitatea5 = {
       ],
       sursaManual: 'Art 7, pp. 194-195, partea 2/2',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: { fisier: '/materiale/clasa-7/unitatea-5/lectia-18/fisa.pdf' }, joc: null, infografic: null, schema: null, altele: [] },
     },
     {
       id: 'lectia-19',
