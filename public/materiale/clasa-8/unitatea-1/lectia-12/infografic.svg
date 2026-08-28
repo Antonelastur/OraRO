@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="400" fill="#faf7f0"/>
+  <text x="450" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Valori culturale românești în lume</text>
+  <text x="450" y="60" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I · lecția 12</text>
+
+  <rect x="55" y="82" width="385" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="106" font-size="14" font-weight="700" fill="#10233f">Constantin Brâncuși (1876-1957)</text>
+  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="130">sculptor, unul dintre întemeietorii artei</tspan><tspan x="75" y="148">moderne; a trecut de la copierea realității</tspan><tspan x="75" y="166">la surprinderea esenței obiectului</tspan><tspan x="75" y="188">Rugăciune, Sărutul, Domnișoara Pogany;</tspan><tspan x="75" y="206">ansamblul de la Târgu Jiu (Masa tăcerii,</tspan><tspan x="75" y="224">Poarta sărutului, Coloana fără sfârșit)</tspan></text>
+
+  <rect x="460" y="82" width="385" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="480" y="106" font-size="14" font-weight="700" fill="#10233f">George Enescu (1881-1955)</text>
+  <text font-size="11.5" fill="#3a3226"><tspan x="480" y="130">compozitor, dirijor, violonist, pianist</tspan><tspan x="480" y="148">și profesor; s-a inspirat din folclorul</tspan><tspan x="480" y="166">românesc, ca și Brâncuși</tspan><tspan x="480" y="188">cele două Rapsodii române,</tspan><tspan x="480" y="206">opera Oedip (1936); l-a îndrumat</tspan><tspan x="480" y="224">pe violonistul Yehudi Menuhin</tspan></text>
+
+  <rect x="55" y="248" width="790" height="102" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="272" font-size="13" font-weight="700" fill="#10233f">Alte personalități afirmate pe plan mondial</text>
+  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="296">literatură: Mircea Eliade, Eugen Ionescu (și teatru) · muzică: Sergiu Celibidache · teatru: Liviu Ciulei,</tspan><tspan x="75" y="316">Elvira Popescu · medicină: Ana Aslan, Carol Davila · inginerie: Henri Coandă, Traian Vuia</tspan></text>
+
+  <text x="450" y="384" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 24-25</text>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="400" fill="#faf7f0"/>
+  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Categoriile semantice</text>
+  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I · lecția 14 · actualizare · sensul se stabilește în context (verbal sau situațional)</text>
+
+  <g font-size="11" fill="#3a3226">
+    <rect x="55" y="80" width="255" height="112" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="182" y="102" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Sinonime / antonime</text>
+    <text x="182" y="124" text-anchor="middle">sinonime: sens asemănător,</text>
+    <text x="182" y="140" text-anchor="middle">formă diferită (parțiale / absolute)</text>
+    <text x="182" y="160" text-anchor="middle">antonime: sensuri opuse</text>
+    <text x="182" y="176" text-anchor="middle">(formă diferită sau prin prefix)</text>
+
+    <rect x="322" y="80" width="255" height="112" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="450" y="102" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Omonime</text>
+    <text x="450" y="124" text-anchor="middle">aceeași formă, sensuri</text>
+    <text x="450" y="140" text-anchor="middle">complet diferite</text>
+    <text x="450" y="160" text-anchor="middle">lexicale (totale / parțiale) și</text>
+    <text x="450" y="176" text-anchor="middle">lexico-gramaticale; omofone, omografe</text>
+
+    <rect x="589" y="80" width="256" height="112" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="717" y="102" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Cuvântul polisemantic</text>
+    <text x="717" y="128" text-anchor="middle">are două sau mai multe</text>
+    <text x="717" y="144" text-anchor="middle">sensuri legate între ele</text>
+    <text x="717" y="168" text-anchor="middle">(spre deosebire de omonime,</text>
+    <text x="717" y="184" text-anchor="middle">fără legătură de sens)</text>
+  </g>
+
+  <rect x="55" y="208" width="790" height="104" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="75" y="230" font-size="12.5" font-weight="700" fill="#10233f">Paronimele</text>
+  <text font-size="11" fill="#3a3226"><tspan x="75" y="252">cuvinte cu formă asemănătoare și sens diferit; se deosebesc printr-un sunet (familiar / familial),</tspan><tspan x="75" y="270">prin două sunete (a colabora / a corobora) sau prin ordinea sunetelor (a revela / a releva)</tspan><tspan x="75" y="292">confuzia paronimică este o greșeală de exprimare, din necunoașterea exactă a sensului</tspan></text>
+
+  <text x="450" y="378" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 28-30</text>
+</svg>

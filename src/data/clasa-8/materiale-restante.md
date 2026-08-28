@@ -6,26 +6,15 @@ Ambele lecții sunt activități administrative de start de an, fără pagină d
 manual — la fel ca la clasa a VII-a, rămân intenționat fără material, nu
 sunt restanțe reale.
 
-## Unitatea I: Unde găsim frumusețea? (26 lecții, 17 cu material)
+## Unitatea I: Unde găsim frumusețea? (26 lecții, 22 cu material)
 
 Gata, integrate în cod: fișele lecțiilor 2, 3, 4, 6, 7, 9, 10, 11, 20, 21, 22,
-23 (`scripts/build_clasa8_fise.py`); jocurile-quiz ale lecțiilor 13 (ascultare
-activă), 24 și 25 (recapitulare); plus schema lecției 16 și jocul lecției 19,
-deja existente.
+23; jocurile-quiz ale lecțiilor 13, 24, 25; **schemele lecțiilor 14, 15, 17, 18
+și infograficul lecției 12 (pasul dedicat)**; plus schema lecției 16 și jocul
+lecției 19, deja existente.
 
-Rămân:
-
-| Lecție | Titlu | Tip orientativ |
-|---|---|---|
-| lectia-1 | Textul liric. O, rămâi... de Mihai Eminescu | prezentare |
-| lectia-5 | Textul liric. Izvorul nopții de Lucian Blaga | prezentare |
-| lectia-8 | Textul liric. Lecția de citire de Nichita Stănescu | prezentare |
-| lectia-12 | Valori culturale românești în lume | infografic (pas dedicat) |
-| lectia-14 | Categorii semantice (actualizare) | schemă (pas dedicat) |
-| lectia-15 | Derivarea. Compunerea (actualizare) | schemă (pas dedicat) |
-| lectia-17 | Împrumuturile | schemă (pas dedicat) |
-| lectia-18 | Registrele limbii | schemă (pas dedicat) |
-| lectia-26 | Evaluare | test (Google Forms) |
+Rămân: prezentările lecțiilor 1, 5, 8 (NotebookLM) și testul lecției 26
+(Google Forms).
 
 ## Unitatea II: Cum sunt ceilalți? (23 lecții, 14 cu material)
 

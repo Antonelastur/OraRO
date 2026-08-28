@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="400" fill="#faf7f0"/>
+  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Derivarea. Compunerea</text>
+  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I · lecția 15 · actualizare · mijloace interne de îmbogățire a vocabularului</text>
+
+  <rect x="55" y="80" width="390" height="228" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Derivarea</text>
+  <text font-size="11" fill="#3a3226"><tspan x="75" y="126">formează cuvinte noi cu sufixe și prefixe</tspan><tspan x="75" y="148">sufixe: lexicale (rămuric-ă), gramaticale</tspan><tspan x="75" y="166">(cânta-i), lexico-gramaticale (moțional: roș-i;</tspan><tspan x="75" y="184">de infinitiv lung, de participiu)</tspan><tspan x="75" y="206">prefixe: a re-citi, ne-plăcut, in-corectitudine</tspan><tspan x="75" y="228">serie derivativă: dar → dar-nic → dăr-nic-ie</tspan><tspan x="75" y="250">derivate parasintetice: sufix + prefix (a în-chip-ui)</tspan><tspan x="75" y="278">diminutivele: micșorare, dar și simpatie,</tspan><tspan x="75" y="296">ironie, metaforizare</tspan></text>
+
+  <rect x="465" y="80" width="380" height="228" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="485" y="104" font-size="13" font-weight="700" fill="#10233f">Compunerea</text>
+  <text font-size="11" fill="#3a3226"><tspan x="485" y="126">unește doi sau mai mulți termeni; de obicei</tspan><tspan x="485" y="144">aceștia își pierd sensul independent</tspan><tspan x="485" y="166">• alăturare (parataxă, juxtapunere):</tspan><tspan x="485" y="182">  decât, până la, mobil-tip</tspan><tspan x="485" y="200">• subordonare: a binecuvânta, domnia-sa,</tspan><tspan x="485" y="216">  ochiul-boului</tspan><tspan x="485" y="234">• abreviere: inițiale (STB), inițiale + fragmente</tspan><tspan x="485" y="250">  (TAROM, aragaz), fragmente (aprozar)</tspan><tspan x="485" y="272">elemente savante (din greacă, latină):</tspan><tspan x="485" y="288">prefixoide (pseudo-), sufixoide (-fob)</tspan></text>
+
+  <text x="450" y="356" text-anchor="middle" font-size="11" fill="#3a3226">Pentru sufixe și prefixe se folosește numai forma de dicționar a cuvântului.</text>
+  <text x="450" y="380" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 31-33</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="400" fill="#faf7f0"/>
+  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Registrele limbii</text>
+  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I · lecția 18 · varietăți de utilizare, după situația de comunicare (relație, loc, timp)</text>
+
+  <g font-size="11" fill="#3a3226">
+    <rect x="55" y="80" width="255" height="150" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="182" y="102" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Solemn (oficial)</text>
+    <text x="182" y="126" text-anchor="middle">situații oficiale, respect marcat</text>
+    <text x="182" y="144" text-anchor="middle">termeni căutați, enunțuri</text>
+    <text x="182" y="162" text-anchor="middle">ample, cu subordonări</text>
+    <text x="182" y="182" text-anchor="middle">pronunție foarte îngrijită</text>
+    <text x="182" y="200" text-anchor="middle">(se aude articolul „-l”)</text>
+
+    <rect x="322" y="80" width="255" height="150" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="450" y="102" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Standard (curent)</text>
+    <text x="450" y="126" text-anchor="middle">varianta literară a uzului</text>
+    <text x="450" y="144" text-anchor="middle">general, în condiții obișnuite</text>
+    <text x="450" y="164" text-anchor="middle">vocabular uzual, enunțuri</text>
+    <text x="450" y="182" text-anchor="middle">scurte, reguli respectate</text>
+    <text x="450" y="200" text-anchor="middle">pronunție îngrijită</text>
+
+    <rect x="589" y="80" width="256" height="150" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="717" y="102" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Familiar (colocvial)</text>
+    <text x="717" y="126" text-anchor="middle">între persoane apropiate</text>
+    <text x="717" y="144" text-anchor="middle">termeni puțin pretențioși</text>
+    <text x="717" y="162" text-anchor="middle">(profu'), reguli relaxate,</text>
+    <text x="717" y="180" text-anchor="middle">coordonare, interjecții</text>
+    <text x="717" y="198" text-anchor="middle">pronunție cu căderi de sunete</text>
+  </g>
+
+  <rect x="55" y="246" width="790" height="84" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="75" y="268" font-size="12.5" font-weight="700" fill="#10233f">Argoul și jargonul</text>
+  <text font-size="11" fill="#3a3226"><tspan x="75" y="290">argoul: limbaj codificat al unui grup relativ închis, ca să nu fie înțeles de ceilalți (metaforă, împrumut,</tspan><tspan x="75" y="308">derivare, trunchiere) · toate cele trei registre pot fi orale sau scrise; amestecul lor produce efecte comice</tspan></text>
+
+  <text x="450" y="378" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 38-39</text>
+</svg>
