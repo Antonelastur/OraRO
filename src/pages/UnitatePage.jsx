@@ -3,6 +3,7 @@ import { motion } from 'motion/react'
 import { clase } from '../data/clase.js'
 import { Breadcrumb } from '../components/Breadcrumb.tsx'
 import { MaterialChips } from '../components/MaterialChips.tsx'
+import { MotivUnitate } from '../components/MotivUnitate.tsx'
 import { ProgresBara } from '../components/ProgresBara.tsx'
 import { Tooltip, TooltipContent, TooltipTrigger } from '../components/ui/tooltip.tsx'
 import { areMateriale, completitudineLectie } from '../lib/lectii.ts'
@@ -18,20 +19,23 @@ function UnitatePage() {
 
   return (
     <section>
-      <Breadcrumb
-        items={[
-          { label: 'Clase', to: '/clase' },
-          { label: dateClasa.titlu, to: `/${clasa}` },
-          { label: dateUnitate.titlu },
-        ]}
-      />
-      <h1 className="text-2xl font-bold text-ink">{dateUnitate.titlu}</h1>
+      <div className="relative overflow-hidden">
+        <MotivUnitate clasa={clasa} unitate={unitate} />
+        <Breadcrumb
+          items={[
+            { label: 'Clase', to: '/clase' },
+            { label: dateClasa.titlu, to: `/${clasa}` },
+            { label: dateUnitate.titlu },
+          ]}
+        />
+        <h1 className="relative text-2xl font-bold text-ink">{dateUnitate.titlu}</h1>
 
-      <ProgresBara
-        className="mt-4 max-w-md"
-        gata={dateUnitate.lectii.filter(areMateriale).length}
-        total={dateUnitate.lectii.length}
-      />
+        <ProgresBara
+          className="relative mt-4 max-w-md"
+          gata={dateUnitate.lectii.filter(areMateriale).length}
+          total={dateUnitate.lectii.length}
+        />
+      </div>
 
       <ol className="mt-6 flex flex-col gap-2">
         {dateUnitate.lectii.map((lectie, index) => {
