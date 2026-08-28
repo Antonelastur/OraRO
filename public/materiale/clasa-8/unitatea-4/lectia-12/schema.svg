@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="380" fill="#faf7f0"/>
+  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Circumstanțialul de timp</text>
+  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV · lecția 12 · arată timpul sau frecvența desfășurării unei acțiuni</text>
+
+  <rect x="55" y="80" width="790" height="56" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="102" font-size="13" font-weight="700" fill="#10233f">Întrebări</text>
+  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="124">când?, de când?, până când?</tspan></text>
+
+  <rect x="55" y="152" width="390" height="128" rx="14" fill="none" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="75" y="176" font-size="13" font-weight="700" fill="#10233f">Regentul</text>
+  <text font-size="11" fill="#3a3226"><tspan x="75" y="198">un verb, o locuțiune verbală, o interjecție</tspan><tspan x="75" y="216">predicativă (Hai acum!) sau un adjectiv</tspan><tspan x="75" y="234">(Înfrânți ieri, victorioși astăzi!)</tspan></text>
+
+  <rect x="465" y="152" width="380" height="128" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
+  <text x="485" y="176" font-size="13" font-weight="700" fill="#10233f">Se exprimă prin</text>
+  <text font-size="11" fill="#3a3226"><tspan x="485" y="198">substantiv, adverb sau locuțiune adverbială,</tspan><tspan x="485" y="216">pronume, adjectiv pronominal posesiv +</tspan><tspan x="485" y="234">prepoziție, numeral cu valoare pronominală,</tspan><tspan x="485" y="252">supin, infinitiv, gerunziu</tspan></text>
+
+  <text x="450" y="326" text-anchor="middle" font-size="11.5" fill="#3a3226">Exemple: La bătrânețe a devenit retras. Vine din când în când. Până a sosi tu, am făcut ordine.</text>
+  <text x="450" y="360" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, p. 152</text>
+</svg>

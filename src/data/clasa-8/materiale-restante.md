@@ -35,24 +35,15 @@ lecției 23, deja existente.
 
 Rămân: prezentarea lecției 7 (NotebookLM) și testul lecției 25 (Google Forms).
 
-## Unitatea IV: Unde găsim adevărul? (20 lecții, 13 cu material)
+## Unitatea IV: Unde găsim adevărul? (20 lecții, 18 cu material)
 
-Gata, integrate în cod: fișele lecțiilor 1, 3, 4, 5, 6, 7, 8, 16, 17
-(`scripts/build_clasa8_fise.py`); jocurile-quiz ale lecțiilor 9 (comportamente
-nonverbale și paraverbale) și 18 (recapitulare); plus schema lecției 13 și
-jocul lecției 19, deja existente.
+Gata, integrate în cod: fișele lecțiilor 1, 3, 4, 5, 6, 7, 8, 16, 17;
+jocurile-quiz ale lecțiilor 9 și 18; **schemele lecțiilor 10 (circumstanțialul
+de loc), 11 (circumstanțiala de loc), 12 (circumstanțialul de timp), 14
+(circumstanțialul de mod), 15 (circumstanțiala de mod) — pasul dedicat**; plus
+schema lecției 13 și jocul lecției 19, deja existente.
 
-Rămân:
-
-| Lecție | Titlu | Tip orientativ |
-|---|---|---|
-| lectia-2 | Textul epic. Iapa lui Vodă de Mihail Sadoveanu | prezentare |
-| lectia-10 | Circumstanțialul de loc | schemă (pas dedicat) |
-| lectia-11 | Circumstanțiala de loc | schemă (pas dedicat) |
-| lectia-12 | Circumstanțialul de timp | schemă (pas dedicat) |
-| lectia-14 | Circumstanțialul de mod | schemă (pas dedicat) |
-| lectia-15 | Circumstanțiala de mod | schemă (pas dedicat) |
-| lectia-20 | Evaluare | test (Google Forms) |
+Rămân: prezentarea lecției 2 (NotebookLM) și testul lecției 20 (Google Forms).
 
 ## Unitatea V: Încotro se îndreaptă lumea? (23 lecții, 13 cu material)
 

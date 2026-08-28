@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="380" fill="#faf7f0"/>
+  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Circumstanțialul de loc</text>
+  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV · lecția 10 · arată situarea și orientarea spațială</text>
+
+  <rect x="55" y="80" width="790" height="60" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="102" font-size="13" font-weight="700" fill="#10233f">Întrebări</text>
+  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="124">unde?, de unde?, până unde?, pe unde?, încotro?, dincotro?</tspan></text>
+
+  <rect x="55" y="156" width="390" height="130" rx="14" fill="none" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="75" y="180" font-size="13" font-weight="700" fill="#10233f">Regentul</text>
+  <text font-size="11" fill="#3a3226"><tspan x="75" y="202">un verb sau o locuțiune verbală,</tspan><tspan x="75" y="220">o interjecție predicativă (Poftim înăuntru!)</tspan><tspan x="75" y="238">sau un adjectiv (curat pe picioare)</tspan></text>
+
+  <rect x="465" y="156" width="380" height="130" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
+  <text x="485" y="180" font-size="13" font-weight="700" fill="#10233f">Se exprimă prin</text>
+  <text font-size="11" fill="#3a3226"><tspan x="485" y="202">substantiv în acuzativ, genitiv sau dativ;</tspan><tspan x="485" y="220">adverb de loc, relativ, nehotărât sau</tspan><tspan x="485" y="238">interogativ ori locuțiune adverbială;</tspan><tspan x="485" y="256">pronume, numeral, supin (la pescuit)</tspan></text>
+
+  <text x="450" y="326" text-anchor="middle" font-size="11.5" fill="#3a3226">Exemple: Urcați pe scara din stânga. Deasupra orașului s-au adunat nori. A plecat departe.</text>
+  <text x="450" y="360" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, p. 149</text>
+</svg>
