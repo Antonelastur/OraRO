@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="420" fill="#faf7f0"/>
+  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Modurile și timpurile verbului</text>
+  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II · lecția 15 · patru moduri personale (verbul se schimbă după persoană și număr, e predicat)</text>
+
+  <rect x="55" y="80" width="400" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Indicativul</text>
+  <text font-size="11" fill="#3a3226"><tspan x="75" y="126">acțiune sigură, reală; singurul mod cu forme</tspan><tspan x="75" y="144">pentru toate timpurile:</tspan><tspan x="75" y="164">• prezent</tspan><tspan x="75" y="182">• trecut: imperfect, perfect compus,</tspan><tspan x="75" y="198">  perfect simplu, mai-mult-ca-perfect</tspan><tspan x="75" y="216">• viitor: standard, anterior, în trecut</tspan></text>
+
+  <rect x="465" y="80" width="380" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="485" y="104" font-size="13" font-weight="700" fill="#10233f">Imperativul</text>
+  <text font-size="11" fill="#3a3226"><tspan x="485" y="126">ordin, îndemn, sfat, rugăminte</tspan><tspan x="485" y="144">nu are forme de timp; doar persoana</tspan><tspan x="485" y="162">a II-a, singular și plural</tspan><tspan x="485" y="180">forma negativă sg.: nu + infinitiv (Nu veni!)</tspan><tspan x="485" y="198">a fi: fii / nu fi</tspan></text>
+
+  <rect x="55" y="246" width="400" height="120" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="75" y="270" font-size="13" font-weight="700" fill="#10233f">Conjunctivul</text>
+  <text font-size="11" fill="#3a3226"><tspan x="75" y="292">acțiune posibilă, realizabilă</tspan><tspan x="75" y="310">marca gramaticală: conjuncția „să”</tspan><tspan x="75" y="328">două timpuri: prezent (să vină)</tspan><tspan x="75" y="346">și perfect (să fi venit)</tspan></text>
+
+  <rect x="465" y="246" width="380" height="120" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="485" y="270" font-size="13" font-weight="700" fill="#10233f">Condiționalul-optativ</text>
+  <text font-size="11" fill="#3a3226"><tspan x="485" y="292">acțiune posibilă sau dorită, a cărei</tspan><tspan x="485" y="310">realizare depinde de o condiție</tspan><tspan x="485" y="328">două timpuri: prezent (aș veni)</tspan><tspan x="485" y="346">și perfect (aș fi venit)</tspan></text>
+
+  <text x="450" y="398" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, pp. 70-73</text>
+</svg>

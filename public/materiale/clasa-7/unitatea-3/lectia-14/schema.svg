@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="400" fill="#faf7f0"/>
+  <text x="450" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Substantivul</text>
+  <text x="450" y="60" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III · lecția 14 · parte de vorbire flexibilă care denumește, în sens larg, obiecte</text>
+
+  <g font-size="10.5" fill="#3a3226">
+    <rect x="55" y="80" width="255" height="150" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="182" y="102" text-anchor="middle" font-size="12" font-weight="700" fill="#10233f">Clasificări</text>
+    <text x="182" y="124" text-anchor="middle">comune / proprii</text>
+    <text x="182" y="142" text-anchor="middle">simple / compuse</text>
+    <text x="182" y="160" text-anchor="middle">trei genuri: masculin,</text>
+    <text x="182" y="176" text-anchor="middle">feminin, neutru</text>
+    <text x="182" y="196" text-anchor="middle">două numere: singular,</text>
+    <text x="182" y="212" text-anchor="middle">plural</text>
+
+    <rect x="322" y="80" width="255" height="150" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="450" y="102" text-anchor="middle" font-size="12" font-weight="700" fill="#10233f">Numărabile / nu</text>
+    <text x="450" y="124" text-anchor="middle">defective de plural</text>
+    <text x="450" y="140" text-anchor="middle">(singularia tantum: jale)</text>
+    <text x="450" y="160" text-anchor="middle">defective de singular</text>
+    <text x="450" y="176" text-anchor="middle">(pluralia tantum: zori)</text>
+    <text x="450" y="196" text-anchor="middle">masive (materii); colective</text>
+    <text x="450" y="212" text-anchor="middle">(singular cu sens de plural)</text>
+
+    <rect x="589" y="80" width="256" height="150" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="717" y="102" text-anchor="middle" font-size="12" font-weight="700" fill="#10233f">Articulare</text>
+    <text x="717" y="126" text-anchor="middle">nearticulat</text>
+    <text x="717" y="146" text-anchor="middle">articulat cu articol</text>
+    <text x="717" y="162" text-anchor="middle">hotărât (băiatul)</text>
+    <text x="717" y="182" text-anchor="middle">articulat cu articol</text>
+    <text x="717" y="198" text-anchor="middle">nehotărât (un băiat)</text>
+  </g>
+
+  <rect x="55" y="244" width="790" height="110" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="75" y="266" font-size="12.5" font-weight="700" fill="#10233f">Cinci cazuri</text>
+  <text font-size="10.5" fill="#3a3226"><tspan x="75" y="288">Nominativ — subiect, nume predicativ</tspan><tspan x="460" y="288">Genitiv — atribut genitival</tspan></text>
+  <text font-size="10.5" fill="#3a3226"><tspan x="75" y="308">Acuzativ — complement direct, prepozițional, circumstanțial, atribut prepozițional</tspan></text>
+  <text font-size="10.5" fill="#3a3226"><tspan x="75" y="328">Dativ — complement indirect</tspan><tspan x="460" y="328">Vocativ — chemare, fără funcție sintactică</tspan></text>
+
+  <text x="450" y="384" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, pp. 108-109</text>
+</svg>

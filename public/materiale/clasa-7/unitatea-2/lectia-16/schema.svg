@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="380" fill="#faf7f0"/>
+  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Forme verbale nepersonale: infinitivul și participiul</text>
+  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II · lecția 16 · nu se schimbă după persoană, nu sunt predicate de sine</text>
+
+  <rect x="55" y="80" width="390" height="230" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Infinitivul</text>
+  <text font-size="11" fill="#3a3226"><tspan x="75" y="126">denumește o acțiune sau o stare;</tspan><tspan x="75" y="144">e forma din dicționar a verbului</tspan><tspan x="75" y="166">cu prepoziția „a” (a ajuta) sau fără (pot rezolva)</tspan><tspan x="75" y="184">cinci conjugări, cu sufixe diferite</tspan><tspan x="75" y="208" font-weight="700" fill="#10233f">Funcții sintactice:</tspan><tspan x="75" y="228">subiect, nume predicativ, complement</tspan><tspan x="75" y="246">direct, complement prepozițional,</tspan><tspan x="75" y="264">atribut verbal</tspan></text>
+
+  <rect x="465" y="80" width="380" height="230" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="485" y="104" font-size="13" font-weight="700" fill="#10233f">Participiul</text>
+  <text font-size="11" fill="#3a3226"><tspan x="485" y="126">arată o acțiune terminată, suferită</tspan><tspan x="485" y="144">sau îndeplinită</tspan><tspan x="485" y="166">intră în moduri și timpuri compuse:</tspan><tspan x="485" y="184">perfect compus, viitor anterior,</tspan><tspan x="485" y="202">conjunctiv perfect, condițional perfect</tspan><tspan x="485" y="224">sufixe: -at, -ut, -s, -t, -it, -ât</tspan><tspan x="485" y="248">independent → adjectiv provenit din</tspan><tspan x="485" y="266">participiu: atribut adjectival sau nume</tspan><tspan x="485" y="284">predicativ; negativ cu prefixul ne-</tspan></text>
+
+  <text x="450" y="350" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, pp. 74-75</text>
+</svg>

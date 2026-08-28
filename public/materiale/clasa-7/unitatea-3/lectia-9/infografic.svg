@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="420" fill="#faf7f0"/>
+  <text x="450" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Tradiții și obiceiuri legate de sentimente și emoții (I)</text>
+  <text x="450" y="60" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III · lecția 9</text>
+
+  <rect x="55" y="82" width="790" height="112" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="106" font-size="13" font-weight="700" fill="#10233f">Dorul</text>
+  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="128">sentiment complex: dorința puternică de a revedea pe cineva sau ceva drag; amestec de bucurie,</tspan><tspan x="75" y="146">tristețe, suferință. Din latina populară dolus, „durere fizică și morală”, dar în română capătă un sens</tspan><tspan x="75" y="164">special. E cuvânt-cheie în doine. Ziua dorului se sărbătorește în 13 mai, din 2015.</tspan></text>
+
+  <rect x="55" y="208" width="385" height="118" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="75" y="232" font-size="13" font-weight="700" fill="#10233f">Dragobete · 24 februarie</text>
+  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="254">obicei local, protector al iubirii;</tspan><tspan x="75" y="272">simbolizează renașterea naturii primăvara,</tspan><tspan x="75" y="290">când păsările își găsesc perechea;</tspan><tspan x="75" y="308">fetele și băieții adună flori, joacă „zburătoritul”</tspan></text>
+
+  <rect x="460" y="208" width="385" height="118" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="480" y="232" font-size="13" font-weight="700" fill="#10233f">Ziua îndrăgostiților · 14 februarie</text>
+  <text font-size="11.5" fill="#3a3226"><tspan x="480" y="254">de Sfântul Valentin; obicei împrumutat</tspan><tspan x="480" y="272">din culturile occidentale, din zona</tspan><tspan x="480" y="290">anglo-saxonă, unde 14 februarie era</tspan><tspan x="480" y="308">„ziua căsătoriei păsărilor”</tspan></text>
+
+  <rect x="55" y="340" width="790" height="54" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="362" font-size="12.5" font-weight="700" fill="#10233f">Mitul Zburătorului</text>
+  <text font-size="11" fill="#3a3226"><tspan x="75" y="382">ființă fantastică ce simbolizează criza adolescentină; la Cantemir, Heliade Rădulescu, Eminescu (Călin, Luceafărul)</tspan></text>
+
+  <text x="450" y="412" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, pp. 102-103</text>
+</svg>

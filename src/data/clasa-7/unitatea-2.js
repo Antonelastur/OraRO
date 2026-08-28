@@ -111,7 +111,7 @@ export const unitatea2 = {
       sursaManual: 'Art 7, pp. 63-64, partea 1/2',
       rezolvareGhid: null,
       planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: { fisier: '/materiale/clasa-7/unitatea-2/lectia-9/infografic.svg', titlu: 'Despre limba și cultura țărilor vecine (I)' }, schema: null, altele: [] },
     },
     {
       id: 'lectia-10',
@@ -122,7 +122,7 @@ export const unitatea2 = {
       sursaManual: 'Art 7, pp. 63-64, partea 2/2',
       rezolvareGhid: null,
       planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: { fisier: '/materiale/clasa-7/unitatea-2/lectia-10/infografic.svg', titlu: 'Aisbergul cultural' }, schema: null, altele: [] },
     },
     {
       id: 'lectia-11',
@@ -232,7 +232,7 @@ export const unitatea2 = {
       sursaManual: 'Art 7, pp. 70-73',
       rezolvareGhid: null,
       planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-2/lectia-15/schema.svg', titlu: 'Modurile și timpurile verbului' }, altele: [] },
     },
     {
       id: 'lectia-16',
@@ -243,7 +243,7 @@ export const unitatea2 = {
       sursaManual: 'Art 7, pp. 74-75',
       rezolvareGhid: null,
       planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-2/lectia-16/schema.svg', titlu: 'Infinitivul și participiul' }, altele: [] },
     },
     {
       id: 'lectia-17',
@@ -254,7 +254,7 @@ export const unitatea2 = {
       sursaManual: 'Art 7, pp. 76-77',
       rezolvareGhid: null,
       planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-2/lectia-17/schema.svg', titlu: 'Gerunziul și supinul' }, altele: [] },
     },
     {
       id: 'lectia-18',

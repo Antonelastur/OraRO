@@ -41,7 +41,7 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 7, p. 92',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-3/lectia-3/schema.svg', titlu: 'Limbajul figurat' }, altele: [] },
     },
     {
       id: 'lectia-4',
@@ -101,7 +101,7 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 7, pp. 102-103, partea 1/2',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: { fisier: '/materiale/clasa-7/unitatea-3/lectia-9/infografic.svg', titlu: 'Tradiții și obiceiuri legate de sentimente și emoții (I)' }, schema: null, altele: [] },
     },
     {
       id: 'lectia-10',
@@ -111,7 +111,7 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 7, pp. 102-103, partea 2/2',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: { fisier: '/materiale/clasa-7/unitatea-3/lectia-10/infografic.svg', titlu: 'Doina, mitul, ritualul' }, schema: null, altele: [] },
     },
     {
       id: 'lectia-11',
@@ -241,7 +241,7 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 7, pp. 108-109',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-3/lectia-14/schema.svg', titlu: 'Substantivul' }, altele: [] },
     },
     {
       id: 'lectia-15',
@@ -261,7 +261,7 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 7, pp. 112-113',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-3/lectia-16/schema.svg', titlu: 'Posibilități combinatorii ale substantivului' }, altele: [] },
     },
     {
       id: 'lectia-17',
@@ -281,7 +281,7 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 7, pp. 116-117',
       rezolvareGhid: null, planLectie: null,
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-3/lectia-18/schema.svg', titlu: 'Posibilități combinatorii ale adjectivului' }, altele: [] },
     },
     {
       id: 'lectia-19',

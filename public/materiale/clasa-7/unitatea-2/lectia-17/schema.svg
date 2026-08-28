@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="380" fill="#faf7f0"/>
+  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Forme verbale nepersonale: gerunziul și supinul</text>
+  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II · lecția 17</text>
+
+  <rect x="55" y="80" width="390" height="230" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Gerunziul</text>
+  <text font-size="11" fill="#3a3226"><tspan x="75" y="126">denumește o acțiune în desfășurare,</tspan><tspan x="75" y="144">fără referire precisă la momentul vorbirii</tspan><tspan x="75" y="166">sufixe: -ând (mergând) și -ind (fugind)</tspan><tspan x="75" y="184">formă negativă cu ne- (neauzind)</tspan><tspan x="75" y="202">poate primi clitice: văzându-mă, văzând-o</tspan><tspan x="75" y="220">acordat → adjectiv: buzele tremurânde</tspan><tspan x="75" y="244" font-weight="700" fill="#10233f">Funcții:</tspan><tspan x="75" y="264">circumstanțial de mod, de timp,</tspan><tspan x="75" y="282">atribut verbal, complement direct</tspan></text>
+
+  <rect x="465" y="80" width="380" height="230" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="485" y="104" font-size="13" font-weight="700" fill="#10233f">Supinul</text>
+  <text font-size="11" fill="#3a3226"><tspan x="485" y="126">denumește acțiunea, la fel ca infinitivul</tspan><tspan x="485" y="148">structură: prepoziție + participiu</tspan><tspan x="485" y="166">prepoziții: de, din, după, la, pentru…</tspan><tspan x="485" y="184">(de spus, de făcut, de citit)</tspan><tspan x="485" y="202">formă afirmativă și negativă</tspan><tspan x="485" y="204"> </tspan><tspan x="485" y="228" font-weight="700" fill="#10233f">Funcții:</tspan><tspan x="485" y="248">subiect, nume predicativ, atribut verbal,</tspan><tspan x="485" y="266">complement direct, complement</tspan><tspan x="485" y="284">prepozițional</tspan></text>
+
+  <text x="450" y="350" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, pp. 76-77</text>
+</svg>

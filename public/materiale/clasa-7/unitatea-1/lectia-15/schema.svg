@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="400" fill="#faf7f0"/>
+  <text x="450" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Categoriile semantice. Confuziile paronimice</text>
+  <text x="450" y="60" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I · lecția 15 · actualizare</text>
+
+  <g font-size="11" fill="#3a3226">
+    <rect x="55" y="82" width="255" height="96" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="182" y="104" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Sinonime / antonime</text>
+    <text x="182" y="126" text-anchor="middle">formă diferită, sens</text>
+    <text x="182" y="143" text-anchor="middle">asemănător (sinonime)</text>
+    <text x="182" y="160" text-anchor="middle">sau opus (antonime)</text>
+
+    <rect x="322" y="82" width="255" height="96" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="450" y="104" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Sens propriu / figurat</text>
+    <text x="450" y="126" text-anchor="middle">propriu de bază și secundar</text>
+    <text x="450" y="143" text-anchor="middle">(umeri largi / umerii</text>
+    <text x="450" y="160" text-anchor="middle">sacoului); figurat = expresiv</text>
+
+    <rect x="589" y="82" width="256" height="96" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="717" y="104" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Omonime</text>
+    <text x="717" y="126" text-anchor="middle">aceeași formă, sensuri</text>
+    <text x="717" y="143" text-anchor="middle">complet diferite; omofone</text>
+    <text x="717" y="160" text-anchor="middle">(la fel rostite), omografe</text>
+
+    <rect x="55" y="194" width="380" height="96" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="245" y="216" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Cuvântul polisemantic</text>
+    <text x="245" y="240" text-anchor="middle">are mai multe sensuri legate între ele,</text>
+    <text x="245" y="258" text-anchor="middle">mai mult sau mai puțin apropiate</text>
+
+    <rect x="465" y="194" width="380" height="96" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="655" y="216" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Paronime</text>
+    <text x="655" y="240" text-anchor="middle">asemănătoare ca formă, înțeles diferit</text>
+    <text x="655" y="258" text-anchor="middle">temporal / temporar, oral / orar</text>
+  </g>
+
+  <text x="450" y="330" text-anchor="middle" font-size="12" fill="#3a3226">Confuzia paronimică e greșeala de a folosi un cuvânt în locul paronimului său.</text>
+  <text x="450" y="376" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, p. 37</text>
+</svg>

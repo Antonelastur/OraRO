@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="380" fill="#faf7f0"/>
+  <text x="450" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Limbajul figurat</text>
+  <text x="450" y="60" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III · lecția 3 · patru figuri de stil</text>
+
+  <g font-size="11" fill="#3a3226">
+    <rect x="55" y="82" width="390" height="130" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="75" y="106" font-size="13" font-weight="700" fill="#10233f">Epitetul</text>
+    <text><tspan x="75" y="128">determină un substantiv sau un verb prin</tspan><tspan x="75" y="146">cuvinte care evidențiază însușiri deosebite</tspan><tspan x="75" y="166">exprimat prin adjectiv („nuferi galbeni”),</tspan><tspan x="75" y="184">adverb („să cad lin”) sau substantiv</tspan><tspan x="75" y="202">(„pădurea de argint”)</tspan></text>
+
+    <rect x="465" y="82" width="380" height="130" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="485" y="106" font-size="13" font-weight="700" fill="#10233f">Personificarea</text>
+    <text><tspan x="485" y="128">atribuie însușiri omenești unor ființe</tspan><tspan x="485" y="146">necuvântătoare, lucruri sau fenomene</tspan><tspan x="485" y="166">substantiv + verb sau adjectiv de acțiune</tspan><tspan x="485" y="184">ori însușire omenească; sau substantivul</tspan><tspan x="485" y="202">la vocativ („Doină, doină, cântic dulce”)</tspan></text>
+
+    <rect x="55" y="226" width="390" height="118" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="75" y="250" font-size="13" font-weight="700" fill="#10233f">Comparația</text>
+    <text><tspan x="75" y="272">raport de asemănare între două persoane,</tspan><tspan x="75" y="290">obiecte sau acțiuni, ca să evidențieze un termen</tspan><tspan x="75" y="308">legături: ca, precum, cât, asemenea, aidoma</tspan></text>
+
+    <rect x="465" y="226" width="380" height="118" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="485" y="250" font-size="13" font-weight="700" fill="#10233f">Enumerația</text>
+    <text><tspan x="485" y="272">înșiruire de termeni de același fel</tspan><tspan x="485" y="290">(substantive, adjective, verbe), ca să</tspan><tspan x="485" y="308">evidențieze o idee</tspan></text>
+  </g>
+
+  <text x="450" y="368" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, p. 92</text>
+</svg>

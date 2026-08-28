@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="400" fill="#faf7f0"/>
+  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Îmbinări libere de cuvinte și locuțiuni</text>
+  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I · lecția 16 · termeni științifici, limbaj popular, variație regională</text>
+
+  <rect x="55" y="80" width="380" height="118" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Locuțiunile</text>
+  <text font-size="11" fill="#3a3226"><tspan x="75" y="126">grupuri stabile cu sens unitar; termenii</tspan><tspan x="75" y="144">își pierd sensul inițial, grupul se comportă</tspan><tspan x="75" y="162">ca un cuvânt, cu valoarea morfologică</tspan><tspan x="75" y="180">a cuvântului sinonim</tspan></text>
+
+  <rect x="465" y="80" width="380" height="118" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="485" y="104" font-size="13" font-weight="700" fill="#10233f">Îmbinările libere</text>
+  <text font-size="11" fill="#3a3226"><tspan x="485" y="126">fiecare component își păstrează autonomia</tspan><tspan x="485" y="144">sintactică și de sens; tind să devină</tspan><tspan x="485" y="162">locuțiuni</tspan><tspan x="485" y="182" font-style="italic">aurul negru = „petrol”</tspan></text>
+
+  <g font-size="10.5" fill="#3a3226">
+    <rect x="55" y="214" width="255" height="120" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="182" y="236" text-anchor="middle" font-size="12" font-weight="700" fill="#10233f">Termeni științifici</text>
+    <text x="182" y="258" text-anchor="middle">cuvinte din domenii:</text>
+    <text x="182" y="276" text-anchor="middle">sit (arheologie),</text>
+    <text x="182" y="294" text-anchor="middle">ecuație (matematică),</text>
+    <text x="182" y="312" text-anchor="middle">incizie (medicină)</text>
+
+    <rect x="322" y="214" width="255" height="120" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="450" y="236" text-anchor="middle" font-size="12" font-weight="700" fill="#10233f">Limbaj popular</text>
+    <text x="450" y="258" text-anchor="middle">răspândit pe tot teritoriul,</text>
+    <text x="450" y="276" text-anchor="middle">cunoscut de toți, dar</text>
+    <text x="450" y="294" text-anchor="middle">neliterar: lănucă,</text>
+    <text x="450" y="312" text-anchor="middle">a umbla lela</text>
+
+    <rect x="589" y="214" width="256" height="120" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+    <text x="717" y="236" text-anchor="middle" font-size="12" font-weight="700" fill="#10233f">Variație regională</text>
+    <text x="717" y="258" text-anchor="middle">pronunții (ținci = „cinci”),</text>
+    <text x="717" y="276" text-anchor="middle">forme (o făcut = „a făcut”),</text>
+    <text x="717" y="294" text-anchor="middle">cuvinte zonale: laibăr</text>
+    <text x="717" y="312" text-anchor="middle">(Ardeal), blagă (Banat)</text>
+  </g>
+
+  <text x="450" y="366" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, p. 38</text>
+</svg>

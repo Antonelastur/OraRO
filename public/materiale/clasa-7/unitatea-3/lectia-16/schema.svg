@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="400" fill="#faf7f0"/>
+  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Posibilități combinatorii ale substantivului</text>
+  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III · lecția 16 · substantivul ca adjunct și ca centru</text>
+
+  <rect x="55" y="80" width="390" height="140" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Adjunct al verbului centru</text>
+  <text font-size="11" fill="#3a3226"><tspan x="75" y="126">subiect (nominativ; în interdependență cu</tspan><tspan x="75" y="144">predicatul): simplu / multiplu; neexprimat —</tspan><tspan x="75" y="162">subînțeles sau inclus</tspan><tspan x="75" y="184">nume predicativ (nominativ; ori acuzativ sau</tspan><tspan x="75" y="202">genitiv cu prepoziție)</tspan></text>
+
+  <rect x="465" y="80" width="380" height="140" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="485" y="104" font-size="13" font-weight="700" fill="#10233f">Centru</text>
+  <text font-size="11" fill="#3a3226"><tspan x="485" y="126">are adjuncți cu funcția de atribut</tspan><tspan x="485" y="146">atribut substantival:</tspan><tspan x="485" y="164">• genitival (genitiv fără prepoziție)</tspan><tspan x="485" y="182">• prepozițional (acuzativ / genitiv cu prep.)</tspan><tspan x="485" y="200">• în dativ; în nominativ (Orașul Brașov)</tspan></text>
+
+  <rect x="55" y="236" width="790" height="118" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="260" font-size="13" font-weight="700" fill="#10233f">Adjunct al verbului sau al adjectivului</text>
+  <text font-size="11" fill="#3a3226"><tspan x="75" y="282">complement direct (acuzativ, fără prepoziție sau cu „pe”)</tspan><tspan x="75" y="302">complement indirect (dativ)   ·   complement prepozițional (acuzativ / genitiv cu prepoziție)</tspan><tspan x="75" y="322">circumstanțiale: de loc, de timp, de mod, de cauză, de scop</tspan></text>
+
+  <text x="450" y="384" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, pp. 112-113</text>
+</svg>

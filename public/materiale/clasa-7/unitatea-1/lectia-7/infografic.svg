@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="380" fill="#faf7f0"/>
+  <text x="450" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Contacte culturale</text>
+  <text x="450" y="60" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I · lecția 7 · cultură, obiceiuri, tradiție</text>
+
+  <rect x="55" y="82" width="255" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="182" y="106" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Cultura</text>
+  <text font-size="11" fill="#3a3226" text-anchor="middle"><tspan x="182" y="130">setul de practici, credințe,</tspan><tspan x="182" y="148">valori, simboluri și tradiții</tspan><tspan x="182" y="166">ale unui grup național,</tspan><tspan x="182" y="184">etnic sau religios</tspan></text>
+
+  <rect x="322" y="82" width="255" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="450" y="106" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Obiceiurile</text>
+  <text font-size="11" fill="#3a3226" text-anchor="middle"><tspan x="450" y="130">repetarea periodică a unor</tspan><tspan x="450" y="148">practici transmise din</tspan><tspan x="450" y="166">generație în generație;</tspan><tspan x="450" y="184">religioase și laice; origine</tspan><tspan x="450" y="202">imposibil de localizat în timp</tspan></text>
+
+  <rect x="589" y="82" width="256" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="717" y="106" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Tradiția</text>
+  <text font-size="11" fill="#3a3226" text-anchor="middle"><tspan x="717" y="130">păstrarea conștientă a</tspan><tspan x="717" y="148">obiceiurilor în societățile</tspan><tspan x="717" y="166">moderne; din lat. traditio,</tspan><tspan x="717" y="184">„transmitere mai departe”;</tspan><tspan x="717" y="202">presupune un „public”</tspan></text>
+
+  <rect x="55" y="248" width="790" height="72" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="75" y="272" font-size="13" font-weight="700" fill="#10233f">Contactele culturale</text>
+  <text font-size="11" fill="#3a3226"><tspan x="75" y="294">între comunități etnice învecinate au dus fie la preluarea unor obiceiuri, fie la îmbogățirea celor</tspan><tspan x="75" y="312">existente; același obicei se regăsește la mai multe comunități, în forme particulare.</tspan></text>
+
+  <text x="450" y="352" text-anchor="middle" font-size="11" fill="#5b6b83">Fără tradiții conștientizate, unele obiceiuri se pot pierde în societățile moderne.</text>
+  <text x="450" y="372" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, pp. 24-25</text>
+</svg>
