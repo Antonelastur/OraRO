@@ -1,6 +1,7 @@
 // Lista unităților de învățare pentru clasa a VII-a.
-// Neînregistrată încă în clase.js, deci invizibilă pe site — la fel ca la
-// clasa a VI-a, până la confirmarea explicită a Antoanelei.
+// Înregistrată în clase.js (confirmare explicită a Antoanelei), acum că are
+// materiale pe aproape toate lecțiile: 105 din 119; restul sunt prezentări și
+// teste, care au nevoie de unelte externe.
 import { recapitulareInitiala } from './recapitulare-initiala.js'
 import { unitatea1 } from './unitatea-1.js'
 import { unitatea2 } from './unitatea-2.js'
