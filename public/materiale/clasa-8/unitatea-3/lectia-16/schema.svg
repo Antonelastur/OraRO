@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="380" fill="#faf7f0"/>
+  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Complementul indirect</text>
+  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III · lecția 16 · arată beneficiarul unei acțiuni · răspunde la cui?</text>
+
+  <rect x="55" y="80" width="790" height="90" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Regentul</text>
+  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="126">cel mai frecvent un verb cu categoria modului sau la o formă nepersonală; de asemenea, o locuțiune verbală,</tspan><tspan x="75" y="144">un adjectiv (o decizie favorabilă mie), un adverb (potrivit așteptărilor) sau o interjecție predicativă (Bravo vouă!)</tspan></text>
+
+  <rect x="55" y="186" width="790" height="110" rx="14" fill="none" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="75" y="210" font-size="13" font-weight="700" fill="#10233f">Cazul și exprimarea</text>
+  <text font-size="11" fill="#3a3226"><tspan x="75" y="232">stă în cazul dativ; se exprimă prin substantiv, pronume, numeral cardinal sau ordinal cu valoare pronominală</tspan><tspan x="75" y="252">grupul „la + nominal” se folosește doar când partea de vorbire nu admite forma de dativ (Am trimis mesajul la trei.)</tspan><tspan x="75" y="274">poate fi anticipat sau reluat prin clitic pronominal (I-am spus Soniei un secret.), cu unele excepții</tspan></text>
+
+  <text x="450" y="342" text-anchor="middle" font-size="11.5" fill="#3a3226">Corect: „a mulțumit Anei” (dativ), nu „a mulțumit la Ana”.</text>
+  <text x="450" y="362" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, p. 120</text>
+</svg>

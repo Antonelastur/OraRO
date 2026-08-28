@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="380" fill="#faf7f0"/>
+  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Complementul direct</text>
+  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III · lecția 14 · parte secundară de propoziție · răspunde la pe cine?, ce?</text>
+
+  <rect x="55" y="80" width="790" height="72" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Ce arată. Regentul</text>
+  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="126">arată obiectul asupra căruia acționează autorul unei fapte; îl au doar verbele care permit trecerea la pasiv</tspan><tspan x="75" y="144">regent: verb cu categoria modului sau formă nepersonală, locuțiune verbală, interjecție predicativă (Iată cartea!)</tspan></text>
+
+  <rect x="55" y="168" width="390" height="130" rx="14" fill="none" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="75" y="192" font-size="13" font-weight="700" fill="#10233f">Cazul și marca</text>
+  <text font-size="11" fill="#3a3226"><tspan x="75" y="214">stă în cazul acuzativ,</tspan><tspan x="75" y="232">însoțit sau nu de prepoziția „pe”</tspan><tspan x="75" y="254">(marcă a complementului direct)</tspan></text>
+
+  <rect x="465" y="168" width="380" height="130" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
+  <text x="485" y="192" font-size="13" font-weight="700" fill="#10233f">Se exprimă prin</text>
+  <text font-size="11" fill="#3a3226"><tspan x="485" y="214">substantiv sau locuțiune substantivală,</tspan><tspan x="485" y="232">pronume, numeral cu valoare pronominală,</tspan><tspan x="485" y="250">verb sau locuțiune verbală la forme</tspan><tspan x="485" y="266">nepersonale (infinitiv, gerunziu, supin)</tspan></text>
+
+  <text x="450" y="334" text-anchor="middle" font-size="11.5" fill="#3a3226">Se dublează prin clitic pronominal în acuzativ: anticipare (I-am întrebat pe toți.) sau reluare (Pe Andreea o știu.).</text>
+  <text x="450" y="362" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, p. 117</text>
+</svg>

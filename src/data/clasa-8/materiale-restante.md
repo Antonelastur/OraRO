@@ -25,23 +25,15 @@ lecției 20, deja existente.
 
 Rămân: prezentarea lecției 1 (NotebookLM) și testul lecției 23 (Google Forms).
 
-## Unitatea III: Cum descoperim lumea? (25 lecții, 19 cu material)
+## Unitatea III: Cum descoperim lumea? (25 lecții, 23 cu material)
 
 Gata, integrate în cod: fișele lecțiilor 1, 2, 3, 4, 5, 6, 8, 9, 10, 15, 17,
-19, 20, 21 (`scripts/build_clasa8_fise.py`); jocurile-quiz ale lecțiilor 11
-(textul argumentativ), 22 și 24 (recapitulare); plus schema lecției 12 și
-jocul lecției 23, deja existente.
+19, 20, 21; jocurile-quiz ale lecțiilor 11, 22, 24; **schemele lecțiilor 13
+(atributiva), 14 (complementul direct), 16 (complementul indirect), 18
+(complementul prepozițional) — pasul dedicat**; plus schema lecției 12 și jocul
+lecției 23, deja existente.
 
-Rămân:
-
-| Lecție | Titlu | Tip orientativ |
-|---|---|---|
-| lectia-7 | Conexiuni de lectură. Lumea Sofiei de Jostein Gaarder | prezentare |
-| lectia-13 | Atributiva | schemă (pas dedicat) |
-| lectia-14 | Complementul direct | schemă (pas dedicat) |
-| lectia-16 | Complementul indirect | schemă (pas dedicat) |
-| lectia-18 | Complementul prepozițional | schemă (pas dedicat) |
-| lectia-25 | Evaluare | test (Google Forms) |
+Rămân: prezentarea lecției 7 (NotebookLM) și testul lecției 25 (Google Forms).
 
 ## Unitatea IV: Unde găsim adevărul? (20 lecții, 13 cu material)
 

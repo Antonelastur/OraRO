@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="380" fill="#faf7f0"/>
+  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Complementul prepozițional</text>
+  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III · lecția 18 · obiectul care e ținta acțiunii sau pentru care se acționează</text>
+
+  <rect x="55" y="80" width="790" height="66" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Întrebări</text>
+  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="126">pentru cine?, pentru ce?, de cine?, de ce?, la cine?, la ce?, de la cine?, despre cine?, despre ce? etc.</tspan></text>
+
+  <rect x="55" y="162" width="390" height="130" rx="14" fill="none" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="75" y="186" font-size="13" font-weight="700" fill="#10233f">Regentul</text>
+  <text font-size="11" fill="#3a3226"><tspan x="75" y="208">un verb cu categoria modului sau la o formă</tspan><tspan x="75" y="226">nepersonală, o locuțiune verbală, un adjectiv</tspan><tspan x="75" y="244">(capabil de asta), un adverb (stă departe de)</tspan><tspan x="75" y="262">sau o interjecție (Mersi pentru tot!)</tspan></text>
+
+  <rect x="465" y="162" width="380" height="130" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
+  <text x="485" y="186" font-size="13" font-weight="700" fill="#10233f">Se exprimă prin</text>
+  <text font-size="11" fill="#3a3226"><tspan x="485" y="208">substantiv, pronume sau numeral în acuzativ</tspan><tspan x="485" y="226">ori genitiv, cu prepoziție sau locuțiune</tspan><tspan x="485" y="244">prepozițională; verb sau locuțiune verbală</tspan><tspan x="485" y="262">la infinitiv sau supin</tspan></text>
+
+  <text x="450" y="336" text-anchor="middle" font-size="11.5" fill="#3a3226">Stă de obicei după regent, fără virgulă; antepus, are uz emfatic (Despre tine vreau să vorbim.).</text>
+  <text x="450" y="362" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, p. 123</text>
+</svg>

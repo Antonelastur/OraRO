@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="900" height="400" fill="#faf7f0"/>
+  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Atributiva</text>
+  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III · lecția 13 · realizarea propozițională a atributului · răspunde la care?, ce fel de?</text>
+
+  <rect x="55" y="80" width="390" height="130" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Regentul</text>
+  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="128">• un substantiv comun sau propriu</tspan><tspan x="75" y="148">• un pronume (Acela care vorbește…)</tspan><tspan x="75" y="168">• un numeral cu valoare pronominală</tspan><tspan x="75" y="192">stă totdeauna după termenul determinat,</tspan><tspan x="75" y="192"> </tspan></text>
+
+  <rect x="465" y="80" width="380" height="130" rx="14" fill="none" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="485" y="104" font-size="13" font-weight="700" fill="#10233f">Elemente de relație</text>
+  <text font-size="11" fill="#3a3226"><tspan x="485" y="126">• pronume relative (N, Ac, D, G)</tspan><tspan x="485" y="144">• adjective pronominale relative</tspan><tspan x="485" y="162">• pronume și adjective pronominale nehotărâte</tspan><tspan x="485" y="180">• adverbe relative (numai la substantive cu</tspan><tspan x="485" y="196">  idee de loc, timp, mod)</tspan><tspan x="485" y="214">• conjuncții subordonatoare</tspan></text>
+
+  <rect x="55" y="226" width="790" height="110" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
+  <text x="75" y="250" font-size="12.5" font-weight="700" fill="#10233f">Contragere și expansiune</text>
+  <text font-size="11" fill="#3a3226"><tspan x="75" y="272">contragerea: transformarea unei propoziții în partea de propoziție corespunzătoare, cu păstrarea sensului</tspan><tspan x="75" y="290">expansiunea: transformarea unei părți de propoziție în propoziția corespunzătoare (se opune contragerii)</tspan><tspan x="75" y="312">de obicei nu se desparte prin virgulă; există și atributive izolate, cu regent nume propriu sau pronume individualizat</tspan></text>
+
+  <text x="450" y="378" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 115-116</text>
+</svg>
