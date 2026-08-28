@@ -9,6 +9,7 @@ import Fisa from '../components/Fisa.jsx'
 import Joc from '../components/Joc/index.jsx'
 import Infografic from '../components/Infografic.jsx'
 import Schema from '../components/Schema.jsx'
+import { PlanProfesor } from '../components/PlanProfesor.tsx'
 import { areMateriale } from '../lib/lectii.ts'
 
 function LectiePage() {
@@ -62,6 +63,8 @@ function LectiePage() {
       ) : (
         <p className="mt-8 text-ink-soft">Materialele pentru această lecție sunt încă în lucru.</p>
       )}
+
+      <PlanProfesor plan={dateLectie.planLectie} />
     </section>
   )
 }
