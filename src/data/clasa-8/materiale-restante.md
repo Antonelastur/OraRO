@@ -6,34 +6,26 @@ Ambele lecții sunt activități administrative de start de an, fără pagină d
 manual — la fel ca la clasa a VII-a, rămân intenționat fără material, nu
 sunt restanțe reale.
 
-## Unitatea I: Unde găsim frumusețea? (24 lecții fără material, din 26 totale)
+## Unitatea I: Unde găsim frumusețea? (26 lecții, 17 cu material)
+
+Gata, integrate în cod: fișele lecțiilor 2, 3, 4, 6, 7, 9, 10, 11, 20, 21, 22,
+23 (`scripts/build_clasa8_fise.py`); jocurile-quiz ale lecțiilor 13 (ascultare
+activă), 24 și 25 (recapitulare); plus schema lecției 16 și jocul lecției 19,
+deja existente.
+
+Rămân:
 
 | Lecție | Titlu | Tip orientativ |
 |---|---|---|
 | lectia-1 | Textul liric. O, rămâi... de Mihai Eminescu | prezentare |
-| lectia-2 | Structura poeziei și caracteristicile textului liric. Versificația | fișă |
-| lectia-3 | Limbajul figurat. Aliterația | fișă |
-| lectia-4 | Semnificațiile textului | fișă |
-| lectia-5 | Textul liric. Izvorul nopții de Lucian Blaga. Structura textului poetic | prezentare |
-| lectia-6 | Figurile de stil. Hiperbola | fișă |
-| lectia-7 | Semnificațiile textului | fișă |
-| lectia-8 | Textul liric. Lecția de citire de Nichita Stănescu. Limbajul poetic și versificația | prezentare |
-| lectia-9 | Semnificațiile textului | fișă |
-| lectia-10 | Compararea textelor sub aspectul conținutului și al structurii | fișă |
-| lectia-11 | Text auxiliar. O pasăre înaltă de Dan Coman | fișă |
-| lectia-12 | Valori culturale românești în lume | infografic |
-| lectia-13 | Strategii de ascultare activă | joc |
-| lectia-14 | Categorii semantice (actualizare) | schemă |
-| lectia-15 | Derivarea. Compunerea (actualizare) | schemă |
-| lectia-17 | Împrumuturile | schemă |
-| lectia-18 | Registrele limbii | schemă |
-| lectia-20 | Organizarea coerentă a textului. Anafora | fișă |
-| lectia-21 | Etapele scrierii. Integrarea feedbackului (partea 1/2) | fișă |
-| lectia-22 | Etapele scrierii. Integrarea feedbackului (partea 2/2) | fișă |
-| lectia-23 | Rolul elementelor grafice în prezentarea unui text | fișă |
-| lectia-24 | Recapitulare (partea 1/2) | test (Google Forms) sau joc |
-| lectia-25 | Recapitulare (partea 2/2) | test (Google Forms) sau joc |
-| lectia-26 | Evaluare | test (Google Forms) sau joc |
+| lectia-5 | Textul liric. Izvorul nopții de Lucian Blaga | prezentare |
+| lectia-8 | Textul liric. Lecția de citire de Nichita Stănescu | prezentare |
+| lectia-12 | Valori culturale românești în lume | infografic (pas dedicat) |
+| lectia-14 | Categorii semantice (actualizare) | schemă (pas dedicat) |
+| lectia-15 | Derivarea. Compunerea (actualizare) | schemă (pas dedicat) |
+| lectia-17 | Împrumuturile | schemă (pas dedicat) |
+| lectia-18 | Registrele limbii | schemă (pas dedicat) |
+| lectia-26 | Evaluare | test (Google Forms) |
 
 ## Unitatea II: Cum sunt ceilalți? (21 lecții fără material, din 23 totale)
 
