@@ -10,13 +10,16 @@
   --color-gold: #b8944f;
 
   --color-bg: #faf7f0;
-  --color-bg-alt: #ffffff;
+  /* Cardurile stau pe un crem cald, foarte aproape de fundal, nu pe alb rece.
+     Variante încercate: #fdf9ee (abia perceptibil) · #fef8e9 (ales) · #fff8ea
+     (cel mai galben). Bordura e ușor mai fermă ca să rămână vizibilă muchia. */
+  --color-bg-alt: #fef8e9;
   --color-sidebar: #10233f;
   --color-ink: #10233f;
   /* Contrast pe crem: ink-soft 6.9:1 (AAA), accent-ink 4.7:1 (AA).
      accent rămâne #14b8a6 doar ca umplere/bordură/tentă (prag 3:1). */
   --color-ink-soft: #48566e;
-  --color-border: #e7e1d3;
+  --color-border: #e2d9c4;
   --color-accent: #14b8a6;
   --color-accent-ink: #0a7d72;
   --color-accent-soft: color-mix(in srgb, #14b8a6 12%, transparent);
