@@ -13,10 +13,12 @@
   --color-bg-alt: #ffffff;
   --color-sidebar: #10233f;
   --color-ink: #10233f;
-  --color-ink-soft: #5b6b83;
+  /* Contrast pe crem: ink-soft 6.9:1 (AAA), accent-ink 4.7:1 (AA).
+     accent rămâne #14b8a6 doar ca umplere/bordură/tentă (prag 3:1). */
+  --color-ink-soft: #48566e;
   --color-border: #e7e1d3;
   --color-accent: #14b8a6;
-  --color-accent-ink: #0f9488;
+  --color-accent-ink: #0a7d72;
   --color-accent-soft: color-mix(in srgb, #14b8a6 12%, transparent);
   --color-gold-soft: color-mix(in srgb, #b8944f 15%, transparent);
 
@@ -25,13 +27,15 @@
   --color-bad: #c1503a;
   --color-bad-soft: color-mix(in srgb, #c1503a 12%, transparent);
 
+  /* Culorile pe tip de material, folosite și ca text de link în cardul lecției.
+     Cele patru de mai jos au fost coborâte la ≥4.5:1 pe crem, cu aceeași nuanță. */
   --color-m-prezentare: #3b5fa8;
-  --color-m-video: #d16b4a;
-  --color-m-fisa: #1f8f6b;
+  --color-m-video: #b0512f;
+  --color-m-fisa: #1c7f5e;
   --color-m-joc: #a1417e;
-  --color-m-infografic: #0d9c92;
+  --color-m-infografic: #0a7d75;
   --color-m-schema: #6f5ea8;
-  --color-m-test: #b8944f;
+  --color-m-test: #846b36;
 
   --shadow-card: 0 12px 28px -14px rgba(16, 35, 63, 0.22);
   --shadow-elevated: 0 20px 40px -16px rgba(16, 35, 63, 0.32);

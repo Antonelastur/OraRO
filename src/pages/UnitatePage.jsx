@@ -35,14 +35,14 @@ function UnitatePage() {
                 to={`/${clasa}/${unitate}/${lectie.id}`}
                 className="flex items-center gap-4 rounded-xl border border-border bg-bg-alt px-4 py-3.5 hover:border-accent"
               >
-                <span className="grid h-8 w-8 shrink-0 place-items-center rounded-full bg-accent-soft text-xs font-semibold text-accent">
+                <span className="grid h-8 w-8 shrink-0 place-items-center rounded-full bg-accent-soft text-xs font-semibold text-accent-ink">
                   {index + 1}
                 </span>
-                <span className="flex-1 text-sm font-medium text-ink">{lectie.titlu}</span>
+                <span className="flex-1 text-base font-medium text-ink">{lectie.titlu}</span>
                 <MaterialChips materiale={lectie.materiale} />
                 <Tooltip>
                   <TooltipTrigger asChild>
-                    <span className="hidden shrink-0 rounded-full bg-bg px-2 py-1 text-xs font-medium text-ink-soft sm:block">
+                    <span className="hidden shrink-0 rounded-full bg-bg px-2 py-1 text-sm font-medium text-ink-soft sm:block">
                       {gata}/{total}
                     </span>
                   </TooltipTrigger>

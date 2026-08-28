@@ -144,7 +144,7 @@ function Joc({ joc }) {
               <button
                 type="button"
                 onClick={urmatorulPas}
-                className="mt-1 rounded-full bg-accent px-4 py-2 text-xs font-semibold text-white hover:bg-accent-ink"
+                className="mt-1 rounded-full bg-accent-ink px-4 py-2 text-xs font-semibold text-white hover:opacity-90"
               >
                 {pasCurent + 1 < pasi.length ? 'Pasul următor' : 'Vezi scorul'}
               </button>

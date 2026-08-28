@@ -5,9 +5,9 @@ type Variant = 'primary' | 'ghost' | 'outline'
 type Size = 'sm' | 'md' | 'icon'
 
 const variantClasses: Record<Variant, string> = {
-  primary: 'bg-accent text-white hover:bg-accent-ink',
+  primary: 'bg-accent-ink text-white hover:opacity-90',
   ghost: 'bg-transparent text-ink-soft hover:bg-ink/5 hover:text-ink',
-  outline: 'border border-border bg-transparent text-ink hover:border-accent hover:text-accent',
+  outline: 'border border-border bg-transparent text-ink hover:border-accent hover:text-accent-ink',
 }
 
 const sizeClasses: Record<Size, string> = {

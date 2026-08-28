@@ -27,7 +27,7 @@ export function DashboardPage() {
 
   return (
     <div>
-      <p className="text-sm font-medium text-accent">Dashboard</p>
+      <p className="text-sm font-medium text-accent-ink">Dashboard</p>
       <h1 className="mt-1 text-3xl font-bold tracking-tight text-ink lg:text-4xl">OraRO</h1>
       <p className="mt-2 max-w-xl text-ink-soft">
         Lecții, fișe, jocuri și prezentări pentru ora de limba și literatura română, organizate pe clasă și
@@ -58,7 +58,7 @@ export function DashboardPage() {
             to="/clase"
             className="flex items-center gap-4 rounded-2xl border border-border bg-bg-alt p-5 shadow-card transition-transform hover:-translate-y-0.5 hover:shadow-elevated"
           >
-            <span className="grid h-11 w-11 shrink-0 place-items-center rounded-xl bg-accent-soft text-accent">
+            <span className="grid h-11 w-11 shrink-0 place-items-center rounded-xl bg-accent-soft text-accent-ink">
               <GraduationCap className="h-5 w-5" />
             </span>
             <span>

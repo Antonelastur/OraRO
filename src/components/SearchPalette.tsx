@@ -68,7 +68,7 @@ export function SearchPalette({ open, onOpenChange }: { open: boolean; onOpenCha
                 value={`${lectie.id}-${clasaId}`}
                 onSelect={() => alege(clasaId, unitateId, lectie.id)}
               >
-                <BookOpen className="h-4 w-4 shrink-0 text-accent" />
+                <BookOpen className="h-4 w-4 shrink-0 text-accent-ink" />
                 <span className="flex flex-col">
                   <span className="font-medium">{lectie.titlu}</span>
                   <span className="text-xs text-ink-soft">
