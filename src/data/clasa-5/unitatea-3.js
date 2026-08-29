@@ -12,7 +12,10 @@
 // III), unde manualul îl plasează la secțiunea Interculturalitate — de aceea
 // anunțarea apare ca prima lecție a acestei unități, nu ca ultima a Unității II.
 //
-// rezolvareGhid și planLectie rămân null, document intern, nu se publică.
+// rezolvareGhid rămâne null, document intern, nu se publică. planLectie
+// conține o schiță de plan în 6 pași (momentele lecției), afișată pe site sub
+// eticheta discretă „Doar profesor” din PlanProfesor.tsx. Planurile ERR mai
+// vechi din notite-profesor/ rămân neatinse, sunt altă formă.
 //
 // Materiale: schema pentru lecțiile 10 (Substantivul) și 11 (Articolul). Joc
 // pentru 9 (Ascultarea activă), 17 și 18 (recapitulare). Restul rămân null,
@@ -30,7 +33,53 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 5, Proiect de grup, p. 91 (anunțat administrativ la finalul Unității II, executat aici)',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Proiect de grup. În așteptarea Crăciunului (anunțare)',
+        data: null,
+        tipOra: 'Proiect',
+        durata: 50,
+        obiective: [
+          'Se familiarizează cu tema, calendarul și criteriile de evaluare ale proiectului de grup În așteptarea Crăciunului.',
+        ],
+        resurse: [
+          'Manual Art 5, p. 91',
+          'Fișa proiectului (/materiale/clasa-5/unitatea-3/lectia-1/fisa.pdf)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '6 min',
+            activitate: 'Îi întreb pe elevi ce obiceiuri de dinainte de Crăciun au în familiile lor și notez pe tablă ideile.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț tema proiectului de grup În așteptarea Crăciunului și faptul că azi înțelegem ce are de făcut fiecare grupă, până când și cum se notează.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '4 min',
+            activitate: 'Reluăm ce am învățat la proiectul individual din Unitatea II despre etape, calendar și criterii.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '23 min',
+            activitate: 'Prezint pas cu pas fișa proiectului: produsele cerute, împărțirea pe grupe și roluri, calendarul și criteriile de evaluare, cu exemplele de la p. 91.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '12 min',
+            activitate: 'Grupele se formează, își aleg tema și rolurile și notează în fișă primii doi pași și cine răspunde de fiecare.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a organizării grupelor; verificarea fișei de pornire a proiectului.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -50,7 +99,52 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 5, Lecția 1, p. 80 (O stradă cu sentimente de Ana Blandiana)',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Textul descriptiv literar. O stradă cu sentimente de Ana Blandiana',
+        data: null,
+        tipOra: 'Predare, lectură',
+        durata: 50,
+        obiective: [
+          'Identifică informații esențiale din textul descriptiv literar O stradă cu sentimente de Ana Blandiana.',
+        ],
+        resurse: [
+          'Manual Art 5, p. 80',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '7 min',
+            activitate: 'Le cer elevilor să descrie în două vorbe strada pe care locuiesc și cum se simt când o parcurg.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că citim textul descriptiv O stradă cu sentimente de Ana Blandiana și desprindem informațiile esențiale.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '6 min',
+            activitate: 'Reamintesc, de la textele narative din unitățile anterioare, ce înseamnă informație esențială într-un text.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '22 min',
+            activitate: 'Citesc textul cu voce tare împreună cu elevii, clarific cuvintele necunoscute și discutăm ce se descrie și cum, cu exemplele de la p. 80.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '10 min',
+            activitate: 'Fiecare elev notează în caiet trei informații esențiale din text și un detaliu de descriere care i-a plăcut.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; verificarea informațiilor esențiale notate.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -70,7 +164,53 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 5, Lecția 2, pp. 82-83',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Textul descriptiv literar. Personificarea',
+        data: null,
+        tipOra: 'Predare, lectură',
+        durata: 50,
+        obiective: [
+          'Identifică particularitățile textului descriptiv literar și personificările din text, comentând rolul lor.',
+        ],
+        resurse: [
+          'Manual Art 5, pp. 82-83',
+          'Schema „Personificarea” (/materiale/clasa-5/unitatea-3/lectia-3/schema.svg)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '5 min',
+            activitate: 'Le citesc un vers în care strada „își amintește” și îi întreb dacă o stradă poate face asta cu adevărat.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că azi descoperim trăsăturile textului descriptiv literar și învățăm ce este personificarea și ce rol are.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '6 min',
+            activitate: 'Reluăm informațiile esențiale din textul citit ora trecută și limbajul expresiv discutat în Unitatea I.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '24 min',
+            activitate: 'Cu ajutorul schemei lecției definim personificarea, o căutăm în text și comentăm ce sentimente transmite, cu exemplele de la pp. 82-83.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '10 min',
+            activitate: 'Fiecare elev alege două personificări din text și explică în scris ce anume sugerează fiecare.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; verificarea comentariului la personificări.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -90,7 +230,53 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 5, Lecția 3, p. 84',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Semnificațiile textului',
+        data: null,
+        tipOra: 'Predare, interpretare',
+        durata: 50,
+        obiective: [
+          'Formulează un răspuns personal despre semnificația textului O stradă cu sentimente, folosind teoria inteligențelor multiple.',
+        ],
+        resurse: [
+          'Manual Art 5, p. 84',
+          'Fișa lecției (/materiale/clasa-5/unitatea-3/lectia-4/fisa.pdf)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '5 min',
+            activitate: 'Recitesc cu elevii finalul textului și îi întreb ce loc din copilăria lor le trezește sentimente asemănătoare.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că azi ne formulăm un răspuns personal despre ce înseamnă textul pentru fiecare, alegând un mod de exprimare care ni se potrivește.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '6 min',
+            activitate: 'Reluăm personificările și trăsăturile textului descriptiv discutate ora trecută.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '25 min',
+            activitate: 'Cu ajutorul fișei lecției prezint sarcinile pe tipuri de inteligență, desen, text, hartă, scenetă, și discutăm împreună semnificația textului, cu exemplele de la p. 84.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '9 min',
+            activitate: 'Fiecare elev alege una dintre sarcini și începe să lucreze un răspuns personal despre semnificația textului.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; verificarea răspunsului personal.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -110,7 +296,53 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 5, Lecția 4, „Noi pagini, alte idei”, pp. 85-86 (O pisică de Tudor Arghezi)',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Text auxiliar. O pisică de Tudor Arghezi (fragment)',
+        data: null,
+        tipOra: 'Predare, lectură',
+        durata: 50,
+        obiective: [
+          'Identifică trăsăturile personajului descris în textul auxiliar O pisică de Tudor Arghezi.',
+        ],
+        resurse: [
+          'Manual Art 5, pp. 85-86',
+          'Fișa lecției (/materiale/clasa-5/unitatea-3/lectia-5/fisa.pdf)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '5 min',
+            activitate: 'Îi întreb pe elevi cum ar descrie un animal drag lor, ca să-l recunoască cineva care nu l-a văzut niciodată.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că citim un fragment din O pisică de Tudor Arghezi și desprindem trăsăturile pisicii descrise.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '6 min',
+            activitate: 'Reluăm ce înseamnă trăsătură fizică și trăsătură morală, noțiuni din Unitatea II.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '24 min',
+            activitate: 'Citesc fragmentul, clarific cuvintele mai puțin cunoscute și identificăm împreună, cu fișa lecției, trăsăturile pisicii și cuvintele care le sugerează, cu exemplele de la pp. 85-86.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '10 min',
+            activitate: 'Fiecare elev completează o fișă cu trei trăsături ale pisicii și citatul din text care o dovedește pe fiecare.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; verificarea fișei de trăsături.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -130,7 +362,53 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 5, Lecția 5, pp. 87-89',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Textul descriptiv nonliterar. Persana — un ghem pufos cu o personalitate încântătoare',
+        data: null,
+        tipOra: 'Predare, lectură nonliterară',
+        durata: 50,
+        obiective: [
+          'Identifică trăsăturile textului descriptiv nonliterar și compară descrierea literară cu cea nonliterară.',
+        ],
+        resurse: [
+          'Manual Art 5, pp. 87-89',
+          'Infograficul „Textul descriptiv literar și nonliterar” (/materiale/clasa-5/unitatea-3/lectia-6/infografic.svg)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '6 min',
+            activitate: 'Le arăt un text de enciclopedie despre pisici și fragmentul lui Arghezi și îi întreb prin ce se deosebesc.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că azi recunoaștem trăsăturile textului descriptiv nonliterar și îl comparăm cu descrierea literară.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '6 min',
+            activitate: 'Reluăm, de la textul despre selfie din Unitatea I, ce deosebește un text nonliterar de unul literar.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '23 min',
+            activitate: 'Citim textul despre pisica persană, apoi cu infograficul comparăm descrierea literară și cea nonliterară, scop, limbaj, precizie, cu exemplele de la pp. 87-89.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '10 min',
+            activitate: 'Fiecare elev completează un tabel cu două coloane, literar și nonliterar, cu câte trei deosebiri.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; verificarea tabelului comparativ.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -150,7 +428,53 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 5, Lecția 6, p. 90',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Tradiții: sărbătorile de iarnă',
+        data: null,
+        tipOra: 'Interculturalitate',
+        durata: 50,
+        obiective: [
+          'Identifică similitudini privind sărbătorile de iarnă între culturi diferite, pe baza unor exemple din literatură, arte plastice și muzică.',
+        ],
+        resurse: [
+          'Manual Art 5, p. 90',
+          'Infograficul „Tradiții: sărbătorile de iarnă” (/materiale/clasa-5/unitatea-3/lectia-7/infografic.svg)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '6 min',
+            activitate: 'Îi întreb pe elevi ce obiceiuri de iarnă cunosc din alte țări, din filme sau din familie.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că azi căutăm ce au în comun sărbătorile de iarnă la popoare diferite, pornind de la literatură, pictură și muzică.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '5 min',
+            activitate: 'Reluăm ce am discutat despre jocuri ca punte între culturi, în Unitatea II.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '23 min',
+            activitate: 'Cu ajutorul infograficului comparăm obiceiurile de iarnă din exemplele de la p. 90, lumina, darul, masa în familie, colindul, și notăm asemănările.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '11 min',
+            activitate: 'Fiecare elev notează două asemănări între o sărbătoare de iarnă din altă cultură și cele de acasă și le explică pe scurt.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; verificarea notării comparative.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -170,7 +494,53 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 5, Proiect de grup, p. 91 (prezentare)',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Prezentarea proiectului de grup În așteptarea Crăciunului',
+        data: null,
+        tipOra: 'Proiect',
+        durata: 50,
+        obiective: [
+          'Prezintă și evaluează, pe grupe, proiectul În așteptarea Crăciunului, conform criteriilor stabilite.',
+        ],
+        resurse: [
+          'Manual Art 5, p. 91',
+          'Fișa proiectului cu criteriile de evaluare (/materiale/clasa-5/unitatea-3/lectia-8/fisa.pdf)',
+          'Produsele proiectelor pe grupe',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '3 min',
+            activitate: 'Le amintesc grupelor că azi își arată munca și că ascultăm fiecare prezentare cu atenție și respect.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că se prezintă proiectele pe grupe și că fiecare se evaluează după criteriile din fișă.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '3 min',
+            activitate: 'Recapitulăm criteriile de evaluare și regulile de ascultare activă, pentru discuția de după fiecare prezentare.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '8 min',
+            activitate: 'Amintesc structura unei prezentări bune și cât timp are fiecare grupă, apoi stabilim ordinea grupelor.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '31 min',
+            activitate: 'Grupele prezintă pe rând, colegii pun câte o întrebare, iar eu completez fișa de evaluare pentru fiecare grupă, după criterii.',
+          },
+        ],
+        evaluare: 'Evaluarea proiectului pe grupe după criteriile din fișă; observarea prezentării și a feedbackului între colegi.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -190,7 +560,53 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 5, Lecția 7, pp. 92-93',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Ascultarea activă',
+        data: null,
+        tipOra: 'Comunicare orală',
+        durata: 50,
+        obiective: [
+          'Exersează strategii de ascultare activă într-o situație de comunicare orală.',
+        ],
+        resurse: [
+          'Manual Art 5, pp. 92-93',
+          'Quizul „Ascultarea activă” (materialul de joc al lecției)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '5 min',
+            activitate: 'Le cer doi elevi să povestească ceva în același timp, celorlalți, și apoi întreb ce au reținut din fiecare.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că azi exersăm ascultarea activă, adică felul de a asculta care arată celuilalt că l-am înțeles.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '6 min',
+            activitate: 'Reluăm rolurile de vorbitor și ascultător și regulile de acces la cuvânt, din Unitățile I și II.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '22 min',
+            activitate: 'Prezint strategiile de ascultare activă, contact vizual, reformulare, întrebări de clarificare, cu exemplele de la pp. 92-93, apoi elevii le exersează în perechi, unul povestește, celălalt ascultă activ.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '12 min',
+            activitate: 'Câțiva ascultători reformulează în fața clasei ce au auzit, apoi elevii rezolvă quizul „Ascultarea activă” și discutăm răspunsurile.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a exercițiilor în perechi; rezultatele la quiz.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -235,7 +651,53 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 5, Lecția 8, pp. 94-95',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Substantivul',
+        data: null,
+        tipOra: 'Predare, gramatică',
+        durata: 50,
+        obiective: [
+          'Reactualizează categoriile gramaticale ale substantivului: fel, gen, număr.',
+        ],
+        resurse: [
+          'Manual Art 5, pp. 94-95',
+          'Schema „Substantivul” (/materiale/clasa-5/unitatea-3/lectia-10/schema.svg)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '5 min',
+            activitate: 'Le cer elevilor cât mai multe substantive legate de o stradă și le grupez pe tablă.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că reluăm ce știm despre substantiv: felul, genul și numărul lui.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '7 min',
+            activitate: 'Recapitulăm, cu exemple, substantivul comun și propriu, genul și numărul, noțiuni din ciclul primar.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '22 min',
+            activitate: 'Cu ajutorul schemei lecției reactualizez felul, genul și numărul substantivului, cu exemplele de la pp. 94-95, și rezolvăm împreună primele aplicații.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '12 min',
+            activitate: 'Fiecare elev analizează cinci substantive dintr-un text dat, precizând felul, genul și numărul fiecăruia.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; verificarea analizei substantivelor.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -255,7 +717,53 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 5, Lecția 9, pp. 96-97',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Articolul',
+        data: null,
+        tipOra: 'Predare, gramatică',
+        durata: 50,
+        obiective: [
+          'Identifică articolul hotărât și nehotărât și ortografia formelor substantivale articulate hotărât.',
+        ],
+        resurse: [
+          'Manual Art 5, pp. 96-97',
+          'Schema „Articolul” (/materiale/clasa-5/unitatea-3/lectia-11/schema.svg)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '5 min',
+            activitate: 'Le scriu pe tablă „o stradă” și „strada” și îi întreb pe elevi ce diferență de sens simt între cele două.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că azi învățăm articolul hotărât și nehotărât și cum se scriu corect substantivele articulate hotărât.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '7 min',
+            activitate: 'Reluăm felul, genul și numărul substantivului din lecția precedentă.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '22 min',
+            activitate: 'Cu ajutorul schemei lecției explic articolul hotărât și nehotărât și insist pe ortografia formelor articulate hotărât, de exemplu „copiii”, „ochii”, cu exemplele de la pp. 96-97.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '12 min',
+            activitate: 'Fiecare elev articulează hotărât și nehotărât cinci substantive date și corectează trei forme scrise greșit.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; verificarea exercițiului de articulare și ortografie.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -275,7 +783,53 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 5, Lecția 10, p. 98, partea 1/2',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Posibilități combinatorii ale substantivului. Prepoziția (I)',
+        data: null,
+        tipOra: 'Predare, gramatică',
+        durata: 50,
+        obiective: [
+          'Descoperă părțile secundare de propoziție care determină un substantiv și recunoaște prepoziția simplă.',
+        ],
+        resurse: [
+          'Manual Art 5, p. 98',
+          'Schema „Posibilități combinatorii ale substantivului (I)” (/materiale/clasa-5/unitatea-3/lectia-12/schema.svg)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '5 min',
+            activitate: 'Scriu „casa” pe tablă și le cer elevilor să adauge cuvinte care spun mai multe despre ea: casa bunicii, casa de la țară, casa aceea.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că azi vedem ce cuvinte pot însoți un substantiv și învățăm ce este prepoziția simplă.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '7 min',
+            activitate: 'Reluăm părțile principale și secundare de propoziție, noțiuni din Unitatea I.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '22 min',
+            activitate: 'Cu ajutorul schemei lecției descoperim părțile secundare care determină un substantiv și definim prepoziția simplă și rolul ei de legătură, cu exemplele de la p. 98.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '12 min',
+            activitate: 'Fiecare elev subliniază prepozițiile simple dintr-un text dat și marchează substantivul pe care îl leagă fiecare.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; verificarea exercițiului de identificare a prepoziției simple.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -295,7 +849,53 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 5, Lecția 10, p. 99, partea 2/2',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Posibilități combinatorii ale substantivului. Prepoziția (II)',
+        data: null,
+        tipOra: 'Predare, gramatică',
+        durata: 50,
+        obiective: [
+          'Recunoaște prepoziția compusă și identifică atributul substantival prepozițional.',
+        ],
+        resurse: [
+          'Manual Art 5, p. 99',
+          'Schema „Posibilități combinatorii ale substantivului (II)” (/materiale/clasa-5/unitatea-3/lectia-13/schema.svg)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '5 min',
+            activitate: 'Le dau exemple ca „din cauza”, „în fața”, „de lângă” și îi întreb din câte cuvinte e făcută fiecare.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că azi învățăm prepoziția compusă și atributul substantival prepozițional.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '7 min',
+            activitate: 'Reluăm prepoziția simplă și părțile secundare care determină substantivul, din lecția precedentă.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '22 min',
+            activitate: 'Cu ajutorul schemei lecției definim prepoziția compusă și arătăm cum un substantiv cu prepoziție devine atribut substantival prepozițional, cu exemplele de la p. 99.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '12 min',
+            activitate: 'Fiecare elev identifică într-un text prepozițiile compuse și trei atribute substantivale prepoziționale.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; verificarea exercițiului de identificare.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -315,7 +915,53 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 5, Lecția 11, pp. 100-101',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Substantivul subiect. Acordul predicatului cu subiectul',
+        data: null,
+        tipOra: 'Predare, gramatică',
+        durata: 50,
+        obiective: [
+          'Identifică subiectul simplu și multiplu, exprimat prin substantiv, și verifică acordul predicatului cu subiectul.',
+        ],
+        resurse: [
+          'Manual Art 5, pp. 100-101',
+          'Schema „Substantivul subiect. Acordul cu predicatul” (/materiale/clasa-5/unitatea-3/lectia-14/schema.svg)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '5 min',
+            activitate: 'Scriu „Copiii aleargă” și „Copilul și câinele aleargă” și îi întreb pe elevi de ce predicatul e la fel la amândouă.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că azi recunoaștem subiectul simplu și multiplu exprimat prin substantiv și verificăm acordul lui cu predicatul.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '7 min',
+            activitate: 'Reluăm subiectul și predicatul din Unitatea I și numărul substantivului din această unitate.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '22 min',
+            activitate: 'Cu ajutorul schemei lecției explic subiectul simplu și multiplu și regula acordului predicatului cu subiectul în număr și persoană, cu exemplele de la pp. 100-101.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '12 min',
+            activitate: 'Fiecare elev corectează acordul greșit în cinci propoziții date și construiește două propoziții cu subiect multiplu.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; verificarea exercițiului de acord.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -335,7 +981,53 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 5, Lecția 12, p. 102, partea 1/2',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Descrierea unui obiect (I), pregătire',
+        data: null,
+        tipOra: 'Redactare',
+        durata: 50,
+        obiective: [
+          'Identifică cuvinte din câmpul lexical al casei și ordonează informația pe baza unui organizator grafic, pregătind descrierea unui obiect.',
+        ],
+        resurse: [
+          'Manual Art 5, p. 102',
+          'Fișa lecției (/materiale/clasa-5/unitatea-3/lectia-15/fisa.pdf)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '6 min',
+            activitate: 'Le cer elevilor să se gândească la un obiect drag din casa lor și să spună un singur cuvânt care îl descrie.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că azi pregătim descrierea unui obiect: adunăm cuvinte potrivite și ordonăm ce vrem să spunem.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '6 min',
+            activitate: 'Reluăm trăsăturile textului descriptiv literar și câmpul lexical, învățat în Unitatea I.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '24 min',
+            activitate: 'Cu ajutorul fișei lecției construim câmpul lexical al casei și al obiectelor, apoi ordonăm informația într-un organizator grafic, de la general la detaliu, cu reperele de la p. 102.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '9 min',
+            activitate: 'Fiecare elev alege obiectul pe care îl va descrie, notează opt cuvinte potrivite și completează organizatorul grafic.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; verificarea organizatorului grafic completat.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -355,7 +1047,53 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 5, Lecția 12, p. 103, partea 2/2',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Descrierea unui obiect (II), redactare',
+        data: null,
+        tipOra: 'Redactare',
+        durata: 50,
+        obiective: [
+          'Redactează o compunere descriptivă despre un obiect, cu respectarea etapelor scrierii.',
+        ],
+        resurse: [
+          'Manual Art 5, p. 103',
+          'Fișa lecției (/materiale/clasa-5/unitatea-3/lectia-16/fisa.pdf)',
+          'Organizatorul grafic realizat la ora anterioară',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '4 min',
+            activitate: 'Le cer elevilor să recitească organizatorul grafic și să spună de la ce detaliu vor porni descrierea.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că azi scriem compunerea descriptivă despre obiectul ales și o revizuim.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '5 min',
+            activitate: 'Reluăm etapele scrierii și structura introducere-cuprins-încheiere din unitățile anterioare.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '19 min',
+            activitate: 'Cu ajutorul fișei lecției arăt cum se folosesc personificarea și epitetul într-o descriere și ce urmărim la revizuire, cu exemplele de la p. 103.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '17 min',
+            activitate: 'Fiecare elev redactează compunerea descriptivă pe baza organizatorului grafic, apoi o schimbă cu colegul pentru o revizuire reciprocă după lista de control din fișă.',
+          },
+        ],
+        evaluare: 'Grilă de autoevaluare din fișă; observarea sistematică a redactării și a revizuirii reciproce.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -375,7 +1113,53 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 5, Recapitulare, pp. 104-105, partea 1/2',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Recapitulare, lectură și comunicare',
+        data: null,
+        tipOra: 'Recapitulare',
+        durata: 50,
+        obiective: [
+          'Recapitulează, prin exerciții aplicate, achizițiile de lectură din Unitatea III: descrierea literară, personificarea, ascultarea activă.',
+        ],
+        resurse: [
+          'Manual Art 5, pp. 104-105',
+          'Quizul „Recapitulare, lectură și comunicare” (materialul de joc al lecției)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '4 min',
+            activitate: 'Îi rog pe elevi să spună pe rând câte o noțiune de lectură sau de comunicare învățată în unitate.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că recapitulăm textul descriptiv literar, personificarea și ascultarea activă.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '8 min',
+            activitate: 'Reluăm, cu exemple din O stradă cu sentimente, trăsăturile descrierii literare, rolul personificării și strategiile de ascultare activă.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '18 min',
+            activitate: 'Rezolvăm ghidat exercițiile de lectură și comunicare de la pp. 104-105.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '15 min',
+            activitate: 'Elevii rezolvă quizul „Recapitulare, lectură și comunicare”, apoi discutăm răspunsurile.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; rezultatele la quiz.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -420,7 +1204,53 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 5, Recapitulare, pp. 104-105, partea 2/2',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Recapitulare, gramatică și redactare',
+        data: null,
+        tipOra: 'Recapitulare',
+        durata: 50,
+        obiective: [
+          'Recapitulează, prin exerciții aplicate, achizițiile de gramatică din Unitatea III: substantivul, articolul, prepoziția, acordul subiect-predicat.',
+        ],
+        resurse: [
+          'Manual Art 5, pp. 104-105',
+          'Quizul „Recapitulare, gramatică și redactare” (materialul de joc al lecției)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '4 min',
+            activitate: 'Le cer elevilor să numească pe rând o noțiune de gramatică învățată în unitate și un exemplu.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că recapitulăm substantivul, articolul, prepoziția și acordul predicatului cu subiectul.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '8 min',
+            activitate: 'Reluăm, cu exemple la tablă, categoriile substantivului, articolul hotărât și nehotărât, prepoziția simplă și compusă, acordul subiect-predicat.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '16 min',
+            activitate: 'Rezolvăm ghidat exercițiile de gramatică și redactare de la pp. 104-105.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '16 min',
+            activitate: 'Elevii rezolvă quizul „Recapitulare, gramatică și redactare”, apoi cei care termină exersează articularea și acordul într-un scurt text.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; rezultatele la quiz.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -465,7 +1295,52 @@ export const unitatea3 = {
       ],
       sursaManual: 'Art 5, Evaluare, p. 106',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Evaluare, probă scrisă',
+        data: null,
+        tipOra: 'Evaluare',
+        durata: 50,
+        obiective: [
+          'Verifică, printr-o probă scrisă, nivelul de achiziție a competențelor vizate în Unitatea III.',
+        ],
+        resurse: [
+          'Testul tipărit, Manual Art 5, p. 106',
+          'Barem de corectare din Ghidul profesorului',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '2 min',
+            activitate: 'Le spun elevilor că proba de azi arată tot ce au învățat în unitate și îi liniștesc în privința timpului de lucru.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că se dă proba scrisă a Unității III, care verifică lectura textului descriptiv, gramatica și redactarea.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '3 min',
+            activitate: 'Reamintesc pe scurt structura probei și repartizarea timpului între exerciții și redactare.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '5 min',
+            activitate: 'Distribui testele de la p. 106, citesc cerințele cu voce tare, explic punctajul și răspund la întrebările de clarificare.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '35 min',
+            activitate: 'Elevii rezolvă individual proba scrisă; supraveghez discret, gestionez timpul și strâng lucrările la final.',
+          },
+        ],
+        evaluare: 'Evaluare sumativă scrisă, notată după baremul din Ghidul profesorului.',
+      },
       materiale: {
         prezentare: null,
         video: null,
