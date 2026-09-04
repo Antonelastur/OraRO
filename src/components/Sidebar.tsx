@@ -1,18 +1,82 @@
 import { NavLink } from 'react-router-dom'
 import { motion } from 'motion/react'
-import { LayoutDashboard, GraduationCap, LibraryBig, Settings, Search } from 'lucide-react'
+import {
+  Dices, GraduationCap, Hourglass, LayoutDashboard, LibraryBig, Search, Settings,
+  Shuffle, Timer, UserRound, Users,
+} from 'lucide-react'
 import { cn } from '@/lib/utils'
 
-const NAV_ITEMS = [
-  { to: '/', label: 'Dashboard', icon: LayoutDashboard, end: true },
-  { to: '/clase', label: 'Clase', icon: GraduationCap, end: false },
-  { to: '/biblioteca', label: 'Bibliotecă', icon: LibraryBig, end: false },
-  { to: '/setari', label: 'Setări', icon: Settings, end: false },
-]
+// Grupurile din docs/ux.md, secțiunea 2. Aici stau doar intrările care duc
+// undeva real. Restul se adaugă pe măsură ce funcțiile devin utilizabile;
+// un meniu plin de pagini goale încalcă regula de finalizare din CLAUDE.md.
+const GRUPURI = [
+  {
+    titlu: null,
+    intrari: [{ to: '/', label: 'Dashboard', icon: LayoutDashboard, end: true }],
+  },
+  {
+    titlu: 'Lecții',
+    intrari: [
+      { to: '/clase', label: 'Toate clasele', icon: GraduationCap, end: true },
+      { to: '/clasa-5', label: 'Clasa a V-a', icon: null, end: false },
+      { to: '/clasa-6', label: 'Clasa a VI-a', icon: null, end: false },
+      { to: '/clasa-7', label: 'Clasa a VII-a', icon: null, end: false },
+      { to: '/clasa-8', label: 'Clasa a VIII-a', icon: null, end: false },
+    ],
+  },
+  {
+    titlu: 'Resurse',
+    intrari: [{ to: '/biblioteca', label: 'Bibliotecă', icon: LibraryBig, end: false }],
+  },
+  {
+    titlu: 'Instrumente',
+    intrari: [
+      { to: '/instrumente/cronometru', label: 'Cronometru', icon: Timer, end: false },
+      { to: '/instrumente/numaratoare-inversa', label: 'Numărătoare inversă', icon: Hourglass, end: false },
+      { to: '/instrumente/selector-elev', label: 'Selector elev', icon: UserRound, end: false },
+      { to: '/instrumente/roata-aleatorie', label: 'Roată aleatorie', icon: Shuffle, end: false },
+      { to: '/instrumente/generator-echipe', label: 'Generator echipe', icon: Users, end: false },
+      { to: '/instrumente/zar', label: 'Zar', icon: Dices, end: false },
+    ],
+  },
+] as const
+
+const JOS = [{ to: '/setari', label: 'Setări', icon: Settings, end: false }] as const
+
+type Intrare = { to: string; label: string; icon: React.ElementType | null; end: boolean }
+
+function Legatura({ to, label, icon: Icon, end }: Intrare) {
+  return (
+    <NavLink to={to} end={end} className="relative">
+      {({ isActive }) => (
+        <span
+          className={cn(
+            'relative z-10 flex items-center gap-3 rounded-xl px-3 py-2 text-sm font-medium transition-colors',
+            isActive ? 'text-white' : 'text-white/55 hover:text-white/85',
+          )}
+        >
+          {isActive && (
+            <motion.span
+              layoutId="sidebar-active"
+              className="absolute inset-0 -z-10 rounded-xl bg-white/10"
+              transition={{ type: 'spring', stiffness: 400, damping: 32 }}
+            />
+          )}
+          {Icon ? (
+            <Icon className="h-4.5 w-4.5 shrink-0" />
+          ) : (
+            <span className="h-4.5 w-4.5 shrink-0" aria-hidden="true" />
+          )}
+          {label}
+        </span>
+      )}
+    </NavLink>
+  )
+}
 
 export function SidebarNav({ onCautaClick }: { onCautaClick: () => void }) {
   return (
-    <div className="flex h-full flex-col gap-6 text-white">
+    <div className="flex h-full flex-col gap-5 text-white">
       <div className="flex items-center gap-2.5 px-2">
         <span className="grid h-9 w-9 shrink-0 place-items-center rounded-xl bg-gradient-to-br from-accent to-accent-ink text-base font-bold text-white">
           O
@@ -33,30 +97,26 @@ export function SidebarNav({ onCautaClick }: { onCautaClick: () => void }) {
         <kbd className="rounded border border-white/15 px-1.5 py-0.5 text-[10px] text-white/40">Ctrl K</kbd>
       </button>
 
-      <nav className="flex flex-col gap-1">
-        {NAV_ITEMS.map(({ to, label, icon: Icon, end }) => (
-          <NavLink key={to} to={to} end={end} className="relative">
-            {({ isActive }) => (
-              <span
-                className={cn(
-                  'relative z-10 flex items-center gap-3 rounded-xl px-3 py-2.5 text-sm font-medium transition-colors',
-                  isActive ? 'text-white' : 'text-white/55 hover:text-white/85',
-                )}
-              >
-                {isActive && (
-                  <motion.span
-                    layoutId="sidebar-active"
-                    className="absolute inset-0 -z-10 rounded-xl bg-white/10"
-                    transition={{ type: 'spring', stiffness: 400, damping: 32 }}
-                  />
-                )}
-                <Icon className="h-4.5 w-4.5 shrink-0" />
-                {label}
-              </span>
+      <nav className="flex min-h-0 flex-1 flex-col gap-4 overflow-y-auto pb-2">
+        {GRUPURI.map((grup, i) => (
+          <div key={grup.titlu ?? `grup-${i}`} className="flex flex-col gap-0.5">
+            {grup.titlu && (
+              <p className="px-3 pb-1 text-[11px] font-semibold uppercase tracking-wider text-white/35">
+                {grup.titlu}
+              </p>
             )}
-          </NavLink>
+            {grup.intrari.map((intrare) => (
+              <Legatura key={intrare.to} {...(intrare as Intrare)} />
+            ))}
+          </div>
         ))}
       </nav>
+
+      <div className="flex flex-col gap-0.5 border-t border-white/10 pt-3">
+        {JOS.map((intrare) => (
+          <Legatura key={intrare.to} {...(intrare as Intrare)} />
+        ))}
+      </div>
     </div>
   )
 }

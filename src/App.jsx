@@ -8,6 +8,8 @@ import ClasaPage from './pages/ClasaPage.jsx'
 import UnitatePage from './pages/UnitatePage.jsx'
 import LectiePage from './pages/LectiePage.jsx'
 import CockpitPage from './pages/CockpitPage.tsx'
+import InstrumentePage from './pages/InstrumentePage.tsx'
+import InstrumentPage from './pages/InstrumentPage.tsx'
 
 function App() {
   return (
@@ -18,6 +20,8 @@ function App() {
           <Route path="/clase" element={<ClasePage />} />
           <Route path="/biblioteca" element={<BibliotecaPage />} />
           <Route path="/setari" element={<SetariPage />} />
+          <Route path="/instrumente" element={<InstrumentePage />} />
+          <Route path="/instrumente/:instrument" element={<InstrumentPage />} />
           <Route path="/:clasa" element={<ClasaPage />} />
           <Route path="/:clasa/:unitate" element={<UnitatePage />} />
           <Route path="/:clasa/:unitate/:lectie" element={<LectiePage />} />
