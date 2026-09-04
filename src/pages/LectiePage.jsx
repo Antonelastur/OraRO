@@ -1,5 +1,5 @@
-import { useParams } from 'react-router-dom'
-import { CheckCircle2 } from 'lucide-react'
+import { Link, useParams } from 'react-router-dom'
+import { CheckCircle2, Play } from 'lucide-react'
 import { clase } from '../data/clase.js'
 import { Breadcrumb } from '../components/Breadcrumb.tsx'
 import Prezentare from '../components/Prezentare.jsx'
@@ -49,6 +49,22 @@ function LectiePage() {
       <p className="mt-3 inline-block rounded-full border border-border bg-bg-alt px-3 py-1 text-xs text-ink-soft">
         Sursă manual: {dateLectie.sursaManual}
       </p>
+
+      {/* Intrarea în cockpit. Apare doar dacă lecția are un plan cu etape. */}
+      {dateLectie.planLectie?.desfasurare?.length > 0 && (
+        <div className="mt-6">
+          <Link
+            to={`/${clasa}/${unitate}/${lectie}/cockpit`}
+            className="inline-flex items-center gap-2 rounded-xl bg-accent px-6 py-3.5 text-base font-semibold text-navy hover:brightness-105"
+          >
+            <Play className="h-5 w-5" aria-hidden="true" />
+            Start oră
+          </Link>
+          <p className="mt-2 text-xs text-ink-soft">
+            {dateLectie.planLectie.desfasurare.length} etape · {dateLectie.planLectie.durata} min
+          </p>
+        </div>
+      )}
 
       {areMateriale(dateLectie) ? (
         <div className="mt-6 grid gap-4 sm:grid-cols-2">

@@ -7,6 +7,7 @@ import SetariPage from './pages/SetariPage.tsx'
 import ClasaPage from './pages/ClasaPage.jsx'
 import UnitatePage from './pages/UnitatePage.jsx'
 import LectiePage from './pages/LectiePage.jsx'
+import CockpitPage from './pages/CockpitPage.tsx'
 
 function App() {
   return (
@@ -21,6 +22,9 @@ function App() {
           <Route path="/:clasa/:unitate" element={<UnitatePage />} />
           <Route path="/:clasa/:unitate/:lectie" element={<LectiePage />} />
         </Route>
+        {/* Cockpitul stă în afara AppShell: fără sidebar, fără antet, se
+            proiectează în clasă. */}
+        <Route path="/:clasa/:unitate/:lectie/cockpit" element={<CockpitPage />} />
       </Routes>
     </BrowserRouter>
   )

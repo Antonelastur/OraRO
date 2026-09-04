@@ -42,10 +42,10 @@
     "semantic_hash": "f423e58a43e5142fe7172904cfa74981"
   },
   "src/App.jsx": {
-    "mtime": 1787124290.3086433,
-    "seen": 1787735288.4661171,
-    "ast_hash": "31eae85a0d95f4d78bf256fdb814ca69",
-    "semantic_hash": "31eae85a0d95f4d78bf256fdb814ca69"
+    "mtime": 1788503174.9205217,
+    "seen": 1788503378.763695,
+    "ast_hash": "9ef26ff8d01df141b4924a0b9eed6cdc",
+    "semantic_hash": ""
   },
   "src/components/AppShell.tsx": {
     "mtime": 1787124301.6751416,
@@ -54,52 +54,52 @@
     "semantic_hash": "ddec0e99d64c9a469a04887578e3c570"
   },
   "src/components/Breadcrumb.tsx": {
-    "mtime": 1787124192.1459746,
-    "seen": 1787735288.4661171,
-    "ast_hash": "de04f0d2eeaffb049488780cd4537fc1",
-    "semantic_hash": "de04f0d2eeaffb049488780cd4537fc1"
+    "mtime": 1787934671.9648836,
+    "seen": 1788503378.763695,
+    "ast_hash": "b9d29e1bcdd392514e0b3ca2d2b1c873",
+    "semantic_hash": ""
   },
   "src/components/Fisa.jsx": {
-    "mtime": 1787126677.3212776,
-    "seen": 1787735288.4661171,
-    "ast_hash": "aa04d598798f08654eb405edc7d1e042",
-    "semantic_hash": "aa04d598798f08654eb405edc7d1e042"
+    "mtime": 1787937335.2834237,
+    "seen": 1788503378.763695,
+    "ast_hash": "12b72db0395229c7d0516e3eee5058c8",
+    "semantic_hash": ""
   },
   "src/components/Infografic.jsx": {
-    "mtime": 1787126680.5998833,
-    "seen": 1787735288.4661171,
-    "ast_hash": "22192f52e5d70a7c21766c085fdf44bd",
-    "semantic_hash": "22192f52e5d70a7c21766c085fdf44bd"
+    "mtime": 1787937352.787456,
+    "seen": 1788503378.763695,
+    "ast_hash": "40cba081bb37b34f8296ffe920e80843",
+    "semantic_hash": ""
   },
   "src/components/Joc/index.jsx": {
-    "mtime": 1787126692.9870608,
-    "seen": 1787735288.4661171,
-    "ast_hash": "f7e0e14f9d99f06d4391f53617c7aad0",
-    "semantic_hash": "f7e0e14f9d99f06d4391f53617c7aad0"
+    "mtime": 1788174722.664291,
+    "seen": 1788503378.763695,
+    "ast_hash": "dbe142cb87fc5e06fd919fb7d5008a30",
+    "semantic_hash": ""
   },
   "src/components/MaterialChips.tsx": {
-    "mtime": 1787124186.9734893,
-    "seen": 1787735288.4661171,
-    "ast_hash": "8ac32ceebe97e36029eb7d22a2fc9fa2",
-    "semantic_hash": "8ac32ceebe97e36029eb7d22a2fc9fa2"
+    "mtime": 1787937406.9055467,
+    "seen": 1788503378.763695,
+    "ast_hash": "fb94d901da99cafded54e4174ced0418",
+    "semantic_hash": ""
   },
   "src/components/Prezentare.jsx": {
-    "mtime": 1787126674.5410678,
-    "seen": 1787735288.4661171,
-    "ast_hash": "005d5f926ff1740c1ffdcd437f23c7aa",
-    "semantic_hash": "005d5f926ff1740c1ffdcd437f23c7aa"
+    "mtime": 1787937340.243505,
+    "seen": 1788503378.763695,
+    "ast_hash": "622fa65bf8f89b2081bf1f36e40a5d25",
+    "semantic_hash": ""
   },
   "src/components/Schema.jsx": {
-    "mtime": 1787126683.8990266,
-    "seen": 1787735288.4661171,
-    "ast_hash": "972dad2025ba4dcc80fd532d302e87cf",
-    "semantic_hash": "972dad2025ba4dcc80fd532d302e87cf"
+    "mtime": 1787937357.7253635,
+    "seen": 1788503378.763695,
+    "ast_hash": "3d77730744249dfe2ef85d60fb86792d",
+    "semantic_hash": ""
   },
   "src/components/SearchPalette.tsx": {
-    "mtime": 1787124227.8932467,
-    "seen": 1787735288.4661171,
-    "ast_hash": "e0b0fb09036db2b088cce0d580ce764f",
-    "semantic_hash": "e0b0fb09036db2b088cce0d580ce764f"
+    "mtime": 1787934674.6746094,
+    "seen": 1788503378.763695,
+    "ast_hash": "1b8b5ba95fb93fffd8b1a7020c9a3e4e",
+    "semantic_hash": ""
   },
   "src/components/Sidebar.tsx": {
     "mtime": 1787125241.1028101,
@@ -108,28 +108,28 @@
     "semantic_hash": "771a3bf4371b902d452254c4e2462fcc"
   },
   "src/components/Test.jsx": {
-    "mtime": 1787126685.8163693,
-    "seen": 1787735288.4661171,
-    "ast_hash": "01fa025a660adef84a0f5e8da4277815",
-    "semantic_hash": "01fa025a660adef84a0f5e8da4277815"
+    "mtime": 1787937368.1811364,
+    "seen": 1788503378.763695,
+    "ast_hash": "4a39b19b654ef6c7016e173e769a81a8",
+    "semantic_hash": ""
   },
   "src/components/Video.jsx": {
-    "mtime": 1787124337.3081334,
-    "seen": 1787735288.4661171,
-    "ast_hash": "ed75238045121ac310d7a1a25aa8e0e7",
-    "semantic_hash": "ed75238045121ac310d7a1a25aa8e0e7"
+    "mtime": 1787937347.262985,
+    "seen": 1788503378.763695,
+    "ast_hash": "01e1da3e2a9a39f46300f4c5f7b5e6c7",
+    "semantic_hash": ""
   },
   "src/components/materialMeta.ts": {
-    "mtime": 1787124159.5607536,
-    "seen": 1787735288.4661171,
-    "ast_hash": "1beeb14bc8569409beb2fd205478da4f",
-    "semantic_hash": "1beeb14bc8569409beb2fd205478da4f"
+    "mtime": 1787937399.4626007,
+    "seen": 1788503378.763695,
+    "ast_hash": "febd4610eeb85252b9db4a6bd126f275",
+    "semantic_hash": ""
   },
   "src/components/ui/button.tsx": {
-    "mtime": 1787124103.6288404,
-    "seen": 1787735288.4661171,
-    "ast_hash": "85f76ec1f1ae59eb9b5c26169881b403",
-    "semantic_hash": "85f76ec1f1ae59eb9b5c26169881b403"
+    "mtime": 1787934694.8013034,
+    "seen": 1788503378.763695,
+    "ast_hash": "f89e67249cc49ef25dc7b0fe98f67b7a",
+    "semantic_hash": ""
   },
   "src/components/ui/command.tsx": {
     "mtime": 1787124129.482111,
@@ -162,34 +162,34 @@
     "semantic_hash": "e5e4901781f1cd18669e2f7bcbba8805"
   },
   "src/data/clasa-5/index.js": {
-    "mtime": 1786992556.5537016,
-    "seen": 1787735288.4661171,
-    "ast_hash": "f379d7cfeccafa4045ea0c81039a35e9",
-    "semantic_hash": "f379d7cfeccafa4045ea0c81039a35e9"
+    "mtime": 1787765888.3920777,
+    "seen": 1788503378.763695,
+    "ast_hash": "a4a247a002c323f00958099117abc3cb",
+    "semantic_hash": ""
   },
   "src/data/clasa-5/recapitulare-initiala.js": {
-    "mtime": 1787138362.198263,
-    "seen": 1787735288.4661171,
-    "ast_hash": "610c6b0c4a1f04145fba0e83d5121e79",
-    "semantic_hash": "610c6b0c4a1f04145fba0e83d5121e79"
+    "mtime": 1787946958.342385,
+    "seen": 1788503378.763695,
+    "ast_hash": "3f55200192540ba0e4384c71a67e0970",
+    "semantic_hash": ""
   },
   "src/data/clasa-5/unitatea-1.js": {
-    "mtime": 1787140470.3395526,
-    "seen": 1787735288.4661171,
-    "ast_hash": "807e9e807ba866203adecdd5b59a1285",
-    "semantic_hash": "807e9e807ba866203adecdd5b59a1285"
+    "mtime": 1787981892.0529943,
+    "seen": 1788503378.763695,
+    "ast_hash": "e6978f9dbb5b7f0ae399da6c992d432b",
+    "semantic_hash": ""
   },
   "src/data/clasa-8/index.js": {
-    "mtime": 1787732325.2669978,
-    "seen": 1787735288.4661171,
-    "ast_hash": "92742328a1e3506615c0a828c255b08f",
-    "semantic_hash": "92742328a1e3506615c0a828c255b08f"
+    "mtime": 1787926560.8223257,
+    "seen": 1788503378.763695,
+    "ast_hash": "37c97803bb016519b6fe8ed216eb8f7a",
+    "semantic_hash": ""
   },
   "src/data/clase.js": {
-    "mtime": 1786914568.7498908,
-    "seen": 1787735288.4661171,
-    "ast_hash": "2e6828643febaf31a4c752e411222882",
-    "semantic_hash": "2e6828643febaf31a4c752e411222882"
+    "mtime": 1787926336.8708193,
+    "seen": 1788503378.763695,
+    "ast_hash": "66e3c16ccbe11aaf5b88b26cb3061aac",
+    "semantic_hash": ""
   },
   "src/lib/lectii.ts": {
     "mtime": 1787124157.3683636,
@@ -198,8 +198,8 @@
     "semantic_hash": "555b21cd7abe37f48a26f87549306220"
   },
   "src/lib/utils.ts": {
-    "mtime": 1787126668.8788779,
-    "seen": 1787735288.4661171,
+    "mtime": 1787858230.7937882,
+    "seen": 1788503378.763695,
     "ast_hash": "af95b2ae7aa8e05784220b9bb9a45dd3",
     "semantic_hash": "af95b2ae7aa8e05784220b9bb9a45dd3"
   },
@@ -216,10 +216,10 @@
     "semantic_hash": "c40187aa6afdd5c3ee425181898df865"
   },
   "src/pages/ClasaPage.jsx": {
-    "mtime": 1787124311.5951402,
-    "seen": 1787735288.4661171,
-    "ast_hash": "8012c4cc1984facb8756478d3cb5993b",
-    "semantic_hash": "8012c4cc1984facb8756478d3cb5993b"
+    "mtime": 1787937538.396494,
+    "seen": 1788503378.763695,
+    "ast_hash": "a6502a7a73898b5dcd03d3c7b43dcfd2",
+    "semantic_hash": ""
   },
   "src/pages/ClasePage.tsx": {
     "mtime": 1787124266.8350005,
@@ -228,28 +228,28 @@
     "semantic_hash": "b7d818dd56a0ef8eeb80bcfacfa5b1e4"
   },
   "src/pages/DashboardPage.tsx": {
-    "mtime": 1787125234.3351183,
-    "seen": 1787735288.4661171,
-    "ast_hash": "816b1fc3e87984167ab9cc6c925e89f1",
-    "semantic_hash": "816b1fc3e87984167ab9cc6c925e89f1"
+    "mtime": 1787934680.6462953,
+    "seen": 1788503378.763695,
+    "ast_hash": "0783b6c170dc065c49c18b40c2641a11",
+    "semantic_hash": ""
   },
   "src/pages/LectiePage.jsx": {
-    "mtime": 1787124325.6080575,
-    "seen": 1787735288.4661171,
-    "ast_hash": "e03aeaca9b11e2276dc3d5382f184cff",
-    "semantic_hash": "e03aeaca9b11e2276dc3d5382f184cff"
+    "mtime": 1788503185.6771152,
+    "seen": 1788503378.763695,
+    "ast_hash": "6b7fbc4c3d5fcb0ef572adcbca545dd4",
+    "semantic_hash": ""
   },
   "src/pages/SetariPage.tsx": {
-    "mtime": 1787124270.7164736,
-    "seen": 1787735288.4661171,
-    "ast_hash": "1f8a7772711ab34bfd5ba3a41e23bd75",
-    "semantic_hash": "1f8a7772711ab34bfd5ba3a41e23bd75"
+    "mtime": 1787934684.2906861,
+    "seen": 1788503378.763695,
+    "ast_hash": "cce33823b643104e935fe53e8a040a86",
+    "semantic_hash": ""
   },
   "src/pages/UnitatePage.jsx": {
-    "mtime": 1787124318.6627584,
-    "seen": 1787735288.4661171,
-    "ast_hash": "2a80fa3fa60c69f785340c25de133db0",
-    "semantic_hash": "2a80fa3fa60c69f785340c25de133db0"
+    "mtime": 1787937826.0425115,
+    "seen": 1788503378.763695,
+    "ast_hash": "ead4eb6c8cfc2d478dbc7c2422452296",
+    "semantic_hash": ""
   },
   "src/types.ts": {
     "mtime": 1787126054.75303,
@@ -264,8 +264,8 @@
     "semantic_hash": "36bf887ce81212f75d31738d7f30eea9"
   },
   "vite.config.js": {
-    "mtime": 1787124017.293031,
-    "seen": 1787735288.4661171,
+    "mtime": 1787858230.545705,
+    "seen": 1788503378.763695,
     "ast_hash": "4d36808632c6aa75334e75961a4a4b19",
     "semantic_hash": "4d36808632c6aa75334e75961a4a4b19"
   },
@@ -348,16 +348,16 @@
     "semantic_hash": "484ef346f7ddb093ac35b7f5d9556a06"
   },
   ".github/workflows/deploy.yml": {
-    "mtime": 1787083323.066432,
-    "seen": 1787735288.4661171,
+    "mtime": 1787858230.189901,
+    "seen": 1788503378.763695,
     "ast_hash": "45f6a958e711af874928170bfca8b60f",
     "semantic_hash": "45f6a958e711af874928170bfca8b60f"
   },
   "CLAUDE.md": {
-    "mtime": 1787735908.6540318,
-    "seen": 1787738170.4379756,
-    "ast_hash": "29b4d3b2ea912c18aed533fb1d7d47a5",
-    "semantic_hash": "29b4d3b2ea912c18aed533fb1d7d47a5"
+    "mtime": 1788502183.5585642,
+    "seen": 1788503378.763695,
+    "ast_hash": "2e3b4b5e854b174b9778ca9ad53368d8",
+    "semantic_hash": ""
   },
   "README.md": {
     "mtime": 1786914691.254279,
@@ -371,83 +371,17 @@
     "ast_hash": "c4ed176e965540b26df13d5bfe85f24d",
     "semantic_hash": "c4ed176e965540b26df13d5bfe85f24d"
   },
-  "graphify-out/converted/6_planificare calendaristica_d9c25654.md": {
-    "mtime": 1787734374.8649626,
-    "seen": 1787735288.4661171,
-    "ast_hash": "53290a52be2329f6398824cb58cfb639",
-    "semantic_hash": "53290a52be2329f6398824cb58cfb639"
-  },
-  "graphify-out/converted/6_proiectare pe unitati_6b922ee1.md": {
-    "mtime": 1787734375.7031572,
-    "seen": 1787735288.4661171,
-    "ast_hash": "b3973beb950035c60fd40ee84ae6b7d6",
-    "semantic_hash": "b3973beb950035c60fd40ee84ae6b7d6"
-  },
-  "graphify-out/converted/7_planificare calendaristica_179c6a6b.md": {
-    "mtime": 1787734376.0927782,
-    "seen": 1787735288.4661171,
-    "ast_hash": "dabc66bedcb6cbdcfb5638f80e5eae61",
-    "semantic_hash": "dabc66bedcb6cbdcfb5638f80e5eae61"
-  },
-  "graphify-out/converted/7_proiectare pe unitati_d5271638.md": {
-    "mtime": 1787734377.0066624,
-    "seen": 1787735288.4661171,
-    "ast_hash": "8411dbb48e8366c717fdf9753da0185b",
-    "semantic_hash": "8411dbb48e8366c717fdf9753da0185b"
-  },
-  "graphify-out/converted/Rol_fbde2bd8.md": {
-    "mtime": 1787734377.5811255,
-    "seen": 1787735288.4661171,
-    "ast_hash": "f785639aaa95bf0b1b17788ba694b2ff",
-    "semantic_hash": "f785639aaa95bf0b1b17788ba694b2ff"
-  },
   "index.html": {
-    "mtime": 1787124049.306193,
-    "seen": 1787735288.4661171,
+    "mtime": 1787858230.402343,
+    "seen": 1788503378.763695,
     "ast_hash": "4b29e4109c9ffeff4e9dffef0685083c",
     "semantic_hash": "4b29e4109c9ffeff4e9dffef0685083c"
   },
   "public/404.html": {
-    "mtime": 1787083309.463286,
-    "seen": 1787735288.4661171,
+    "mtime": 1787858230.314461,
+    "seen": 1788503378.763695,
     "ast_hash": "6660cc05f02bd051dabab0a2c5793f84",
     "semantic_hash": "6660cc05f02bd051dabab0a2c5793f84"
-  },
-  "Clasa a VI-a/6. Ghidul profesorului.pdf": {
-    "mtime": 1767701734.9729967,
-    "seen": 1787735288.4661171,
-    "ast_hash": "768582205def4f54f72e5e495c50e7a0",
-    "semantic_hash": "768582205def4f54f72e5e495c50e7a0"
-  },
-  "Clasa a VI-a/Art 6.pdf": {
-    "mtime": 1767702534.9527762,
-    "seen": 1787735288.4661171,
-    "ast_hash": "828249f3c6db95303ca8f5441ae78660",
-    "semantic_hash": "828249f3c6db95303ca8f5441ae78660"
-  },
-  "Clasa a VII-a/7. Ghid.pdf": {
-    "mtime": 1759660387.8198144,
-    "seen": 1787735288.4661171,
-    "ast_hash": "2ed56e2f3be9313d7c33d91c026e45d9",
-    "semantic_hash": "2ed56e2f3be9313d7c33d91c026e45d9"
-  },
-  "Clasa a VII-a/Art 7.pdf": {
-    "mtime": 1756527382.868552,
-    "seen": 1787735288.4661171,
-    "ast_hash": "0e6b4085bd653158ac4ec77694f8c520",
-    "semantic_hash": "0e6b4085bd653158ac4ec77694f8c520"
-  },
-  "Clasa a VIII-a/8. Ghid.pdf": {
-    "mtime": 1762450441.780791,
-    "seen": 1787735288.4661171,
-    "ast_hash": "3bacca3ce11044b08c82c317d573638b",
-    "semantic_hash": "3bacca3ce11044b08c82c317d573638b"
-  },
-  "Clasa a VIII-a/Manual Art 8.pdf": {
-    "mtime": 1756527758.6378186,
-    "seen": 1787735288.4661171,
-    "ast_hash": "5b7abaea0ee87f5f0d1f52ad7c5bf5ba",
-    "semantic_hash": "5b7abaea0ee87f5f0d1f52ad7c5bf5ba"
   },
   "public/materiale/clasa-5/recapitulare-initiala/lectia-1/joc.pdf": {
     "mtime": 1787006845.8180816,
@@ -539,52 +473,2302 @@
     "ast_hash": "aa16f2fdd415dbc9514a1cc23dd0adf0",
     "semantic_hash": "aa16f2fdd415dbc9514a1cc23dd0adf0"
   },
-  "graphify-out/converted/5_planificare calendaristica_063ab012.md": {
-    "mtime": 1787737212.8833895,
-    "seen": 1787738170.4379756,
-    "ast_hash": "b474fdd1837d3166964b1ab9787aacb8",
-    "semantic_hash": "b474fdd1837d3166964b1ab9787aacb8"
+  "scripts/build_clasa5_fise.py": {
+    "mtime": 1787767846.7642157,
+    "seen": 1788503378.763695,
+    "ast_hash": "aae2984ab02f83fe6fc495c20de26c72",
+    "semantic_hash": ""
   },
-  "graphify-out/converted/5_proiectarea pe unitati_65c785e7.md": {
-    "mtime": 1787737213.5482578,
-    "seen": 1787738170.4379756,
-    "ast_hash": "b2e5426a47979b425c304544a27e4dcc",
-    "semantic_hash": "b2e5426a47979b425c304544a27e4dcc"
+  "scripts/build_clasa6_fise.py": {
+    "mtime": 1787827663.4213543,
+    "seen": 1788503378.763695,
+    "ast_hash": "92440109be827e61a885de795a38ce17",
+    "semantic_hash": ""
   },
-  "graphify-out/converted/S1_L2_Test_initial_receptare_0b82ffee.md": {
-    "mtime": 1787737213.7071412,
-    "seen": 1787738170.4379756,
-    "ast_hash": "34a70004da43443932379541ce9b0324",
-    "semantic_hash": "34a70004da43443932379541ce9b0324"
+  "scripts/build_clasa6_infografice.py": {
+    "mtime": 1787828110.8045416,
+    "seen": 1788503378.763695,
+    "ast_hash": "03e852d61fd20abc7a0112aaf599777d",
+    "semantic_hash": ""
   },
-  "graphify-out/converted/S1_L3_Test_initial_comunicare_dbda3dff.md": {
-    "mtime": 1787737213.7593875,
-    "seen": 1787738170.4379756,
-    "ast_hash": "f01f2083f8cbc94264815240a95ac159",
-    "semantic_hash": "f01f2083f8cbc94264815240a95ac159"
+  "scripts/build_clasa7_fise.py": {
+    "mtime": 1787898364.8591604,
+    "seen": 1788503378.763695,
+    "ast_hash": "7a0a2e16de6c6eb5c41120d77fc5a6dd",
+    "semantic_hash": ""
   },
-  "graphify-out/converted/S1_L4_Fisa_remediere_3c76a20f.md": {
-    "mtime": 1787737213.8262012,
-    "seen": 1787738170.4379756,
-    "ast_hash": "5294248b4994d3f6dda50fa45d8e64ce",
-    "semantic_hash": "5294248b4994d3f6dda50fa45d8e64ce"
+  "scripts/build_clasa8_fise.py": {
+    "mtime": 1787908869.4454556,
+    "seen": 1788503378.763695,
+    "ast_hash": "eb671155119cc0bf5d6a25dcf1f1a225",
+    "semantic_hash": ""
   },
-  "graphify-out/converted/S1_Planuri_lectie_016fb393.md": {
-    "mtime": 1787737213.9761963,
-    "seen": 1787738170.4379756,
-    "ast_hash": "a86b671d99c2e7ddd4d94f96472e0e3a",
-    "semantic_hash": "a86b671d99c2e7ddd4d94f96472e0e3a"
+  "scripts/fisa_engine.py": {
+    "mtime": 1787828388.3144493,
+    "seen": 1788503378.763695,
+    "ast_hash": "bf8228ef9cc0c7f84e24cdeba370ba9d",
+    "semantic_hash": ""
   },
-  "Clasa a V-a/5. Ghid.pdf": {
-    "mtime": 1767700752.3942778,
-    "seen": 1787738170.4379756,
-    "ast_hash": "f52b3d2231e6e6196a9ff4eabcbd847b",
-    "semantic_hash": "f52b3d2231e6e6196a9ff4eabcbd847b"
+  "scripts/fisa_helpers.py": {
+    "mtime": 1787767714.8998506,
+    "seen": 1788503378.763695,
+    "ast_hash": "d5987716b34238dd75347f37feef561c",
+    "semantic_hash": ""
   },
-  "Clasa a V-a/Art 5.pdf": {
-    "mtime": 1767702491.926083,
-    "seen": 1787738170.4379756,
-    "ast_hash": "b127fb8e1afbb660b3b2ecddb0b33389",
-    "semantic_hash": "b127fb8e1afbb660b3b2ecddb0b33389"
+  "scripts/inject-plan-lectie.mjs": {
+    "mtime": 1787946845.6871934,
+    "seen": 1788503378.763695,
+    "ast_hash": "560ccc8e08e5dded318f3c6863c233a1",
+    "semantic_hash": ""
+  },
+  "scripts/planuri/clasa-5-recapitulare-initiala.mjs": {
+    "mtime": 1787946940.0165603,
+    "seen": 1788503378.763695,
+    "ast_hash": "a95569457490dddacf9d07fae815a12e",
+    "semantic_hash": ""
+  },
+  "scripts/planuri/clasa-5-unitatea-1.mjs": {
+    "mtime": 1787981857.990225,
+    "seen": 1788503378.763695,
+    "ast_hash": "4bdfb756e861eeb8272be101b4aabbcd",
+    "semantic_hash": ""
+  },
+  "scripts/planuri/clasa-5-unitatea-2.mjs": {
+    "mtime": 1787982175.5703714,
+    "seen": 1788503378.763695,
+    "ast_hash": "3181dff3833c62339fc5e270f8129c59",
+    "semantic_hash": ""
+  },
+  "scripts/planuri/clasa-5-unitatea-3.mjs": {
+    "mtime": 1787982400.5765111,
+    "seen": 1788503378.763695,
+    "ast_hash": "f0fbcad0ff60f12055571c1fcd337c99",
+    "semantic_hash": ""
+  },
+  "scripts/planuri/clasa-5-unitatea-4.mjs": {
+    "mtime": 1787982621.7183826,
+    "seen": 1788503378.763695,
+    "ast_hash": "b20593aa313b5874936d0a681d03971a",
+    "semantic_hash": ""
+  },
+  "scripts/planuri/clasa-5-unitatea-5.mjs": {
+    "mtime": 1787982826.3514414,
+    "seen": 1788503378.763695,
+    "ast_hash": "1872c074cbd9876570d371e7b1074a6b",
+    "semantic_hash": ""
+  },
+  "scripts/planuri/clasa-5-unitatea-6.mjs": {
+    "mtime": 1787983023.0288012,
+    "seen": 1788503378.763695,
+    "ast_hash": "9f7c0baa667ae00f504449832bb14f76",
+    "semantic_hash": ""
+  },
+  "src/components/MaterialCard.tsx": {
+    "mtime": 1787937329.5248656,
+    "seen": 1788503378.763695,
+    "ast_hash": "0b25bdc52cb9680061b4604a43388eff",
+    "semantic_hash": ""
+  },
+  "src/components/MotivUnitate.tsx": {
+    "mtime": 1787937842.2472944,
+    "seen": 1788503378.763695,
+    "ast_hash": "e6750403cebfdfc9fc5e34e122a1f31c",
+    "semantic_hash": ""
+  },
+  "src/components/PlanProfesor.tsx": {
+    "mtime": 1787937623.364146,
+    "seen": 1788503378.763695,
+    "ast_hash": "0b823cd46aee263a5d102193e1a5db11",
+    "semantic_hash": ""
+  },
+  "src/components/ProgresBara.tsx": {
+    "mtime": 1787937519.7957137,
+    "seen": 1788503378.763695,
+    "ast_hash": "601264828c7193fe55f2a60c02ca0766",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-5/unitatea-2.js": {
+    "mtime": 1787982202.0370996,
+    "seen": 1788503378.763695,
+    "ast_hash": "c72e4fc3f7e83ad5c136588bd4f0c076",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-5/unitatea-3.js": {
+    "mtime": 1787982420.900489,
+    "seen": 1788503378.763695,
+    "ast_hash": "8cb710bc319aede84c56891fe46385e1",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-5/unitatea-4.js": {
+    "mtime": 1787982645.2934632,
+    "seen": 1788503378.763695,
+    "ast_hash": "bc8e349283088796b7814ae764fa54f2",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-5/unitatea-5.js": {
+    "mtime": 1787982844.0802305,
+    "seen": 1788503378.763695,
+    "ast_hash": "287016215e26eca46b1d4876bb4844dd",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-5/unitatea-6.js": {
+    "mtime": 1787983040.489844,
+    "seen": 1788503378.763695,
+    "ast_hash": "4e8ed25f93a20d5128d8e035ccd7d71d",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-6/index.js": {
+    "mtime": 1787762476.8635798,
+    "seen": 1788503378.763695,
+    "ast_hash": "e23e12d6d58266b93e7b6445ab5acc2d",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-6/recapitulare-initiala.js": {
+    "mtime": 1787752046.501295,
+    "seen": 1788503378.763695,
+    "ast_hash": "017c9a7f54c67d381a98944ee26693cc",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-6/unitatea-1.js": {
+    "mtime": 1787824115.1286683,
+    "seen": 1788503378.763695,
+    "ast_hash": "b62c20dc877e0bcd021e9d0284702fea",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-6/unitatea-2.js": {
+    "mtime": 1787828126.4557912,
+    "seen": 1788503378.763695,
+    "ast_hash": "df8b65233e11b8e907cd1cc7fddecdb7",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-6/unitatea-3.js": {
+    "mtime": 1787828126.4598897,
+    "seen": 1788503378.763695,
+    "ast_hash": "71a4297003efd0516fef85afbc029d57",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-6/unitatea-4.js": {
+    "mtime": 1787828126.4647992,
+    "seen": 1788503378.763695,
+    "ast_hash": "b2827a083d494c11e7fb398a2b24c0e6",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-6/unitatea-5.js": {
+    "mtime": 1787828126.4689662,
+    "seen": 1788503378.763695,
+    "ast_hash": "0442e1a57ecfebb5e49ad42d7794bfc9",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-7/index.js": {
+    "mtime": 1787899119.8560019,
+    "seen": 1788503378.763695,
+    "ast_hash": "996fcc75dd798fa3da5944f56f0e7439",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-7/recapitulare-initiala.js": {
+    "mtime": 1787770406.2008498,
+    "seen": 1788503378.763695,
+    "ast_hash": "ce56b92bca13f48e6780849b6e335e37",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-7/unitatea-1.js": {
+    "mtime": 1787899066.6772535,
+    "seen": 1788503378.763695,
+    "ast_hash": "bb47b9bd949abda0a92f468add718346",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-7/unitatea-2.js": {
+    "mtime": 1787899066.688035,
+    "seen": 1788503378.763695,
+    "ast_hash": "b1e720cd6c050761243f6f63517c0c53",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-7/unitatea-3.js": {
+    "mtime": 1787899066.6977952,
+    "seen": 1788503378.763695,
+    "ast_hash": "8600d6232114e22e2c9920d5076781c3",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-7/unitatea-4.js": {
+    "mtime": 1787897452.9541988,
+    "seen": 1788503378.763695,
+    "ast_hash": "27322cace1531118b9894839678f9367",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-7/unitatea-5.js": {
+    "mtime": 1787899066.7030125,
+    "seen": 1788503378.763695,
+    "ast_hash": "687ed2a06dc82fa9498d9fcbc4ce3ed5",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-8/recapitulare-initiala.js": {
+    "mtime": 1787821045.3634274,
+    "seen": 1788503378.763695,
+    "ast_hash": "801f853f45334f777c66a5c1f822913a",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-8/unitatea-1.js": {
+    "mtime": 1787925662.6847973,
+    "seen": 1788503378.763695,
+    "ast_hash": "9e60de72ca964fc559ec6ae8a6d83cfe",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-8/unitatea-2.js": {
+    "mtime": 1787925862.869082,
+    "seen": 1788503378.763695,
+    "ast_hash": "cf13a4b1d22f42beb125152abea78d46",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-8/unitatea-3.js": {
+    "mtime": 1787925974.0195613,
+    "seen": 1788503378.763695,
+    "ast_hash": "68d22ead6e9e66531201e3158df4263c",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-8/unitatea-4.js": {
+    "mtime": 1787926102.1206374,
+    "seen": 1788503378.763695,
+    "ast_hash": "fc948451db736673933688ab1b5c32da",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-8/unitatea-5.js": {
+    "mtime": 1787926250.4799516,
+    "seen": 1788503378.763695,
+    "ast_hash": "b65b82b37d1ae0fc035b8f29742fefff",
+    "semantic_hash": ""
+  },
+  "src/lib/ora.ts": {
+    "mtime": 1788503117.4055963,
+    "seen": 1788503378.763695,
+    "ast_hash": "98da5fe3da541928c8c891148c0d5d1a",
+    "semantic_hash": ""
+  },
+  "src/pages/CockpitPage.tsx": {
+    "mtime": 1788503166.4440904,
+    "seen": 1788503378.763695,
+    "ast_hash": "2e76a224e4dbae0d495acb7d593541f9",
+    "semantic_hash": ""
+  },
+  "docs/architecture.md": {
+    "mtime": 1788502277.9914086,
+    "seen": 1788503378.763695,
+    "ast_hash": "179512cffd25102030b16015d20c8afd",
+    "semantic_hash": ""
+  },
+  "docs/continut-si-stil.md": {
+    "mtime": 1788502496.7991595,
+    "seen": 1788503378.763695,
+    "ast_hash": "ee4599def3ca21ee5bd17b1fd4f81e46",
+    "semantic_hash": ""
+  },
+  "docs/data-model.md": {
+    "mtime": 1788502331.2894118,
+    "seen": 1788503378.763695,
+    "ast_hash": "e4eb2f5c780fc018811d56f2c6f08940",
+    "semantic_hash": ""
+  },
+  "docs/roadmap.md": {
+    "mtime": 1788502370.0179021,
+    "seen": 1788503378.763695,
+    "ast_hash": "3ab11edbb89e48b85f987cc0223e845c",
+    "semantic_hash": ""
+  },
+  "docs/ux.md": {
+    "mtime": 1788502429.9696174,
+    "seen": 1788503378.763695,
+    "ast_hash": "01ad55f18ac6413e6b757df5c26f8a01",
+    "semantic_hash": ""
+  },
+  "scratch/joc-review.html": {
+    "mtime": 1788174830.4396548,
+    "seen": 1788503378.763695,
+    "ast_hash": "3a062b2b28dcd4677396d8f4bb57ff77",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-5/drafturi-teste-si-prezentari.md": {
+    "mtime": 1787768056.0096369,
+    "seen": 1788503378.763695,
+    "ast_hash": "54cd92773940a5a3e758b35834a804dd",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-5/materiale-restante.md": {
+    "mtime": 1787803665.2716455,
+    "seen": 1788503378.763695,
+    "ast_hash": "cdf9ea866e1d4efcc00819db77007b31",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-6/materiale-restante.md": {
+    "mtime": 1787828189.2388148,
+    "seen": 1788503378.763695,
+    "ast_hash": "8963655f88f9455b2bf86856730c2fb7",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-7/materiale-restante.md": {
+    "mtime": 1787899139.4335713,
+    "seen": 1788503378.763695,
+    "ast_hash": "6eac64143418cac10c94d82a3e8f5808",
+    "semantic_hash": ""
+  },
+  "src/data/clasa-8/materiale-restante.md": {
+    "mtime": 1787926326.5291798,
+    "seen": 1788503378.763695,
+    "ast_hash": "2f0631ed65194bca424ae150dc86e92c",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-2/lectia-18/fisa.pdf": {
+    "mtime": 1787767855.8076725,
+    "seen": 1788503378.763695,
+    "ast_hash": "ca75caa2fef5d92c9c30f8141b047566",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-2/lectia-19/fisa.pdf": {
+    "mtime": 1787767855.9256935,
+    "seen": 1788503378.763695,
+    "ast_hash": "e3a15802d52d0d21e8904a4a1a013929",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-2/lectia-20/fisa.pdf": {
+    "mtime": 1787767855.9989452,
+    "seen": 1788503378.763695,
+    "ast_hash": "46047358418f0b86976232b791d10011",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-2/lectia-4/fisa.pdf": {
+    "mtime": 1787767855.4080832,
+    "seen": 1788503378.763695,
+    "ast_hash": "42eb3147a3aabcffbc99b28e2777def9",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-2/lectia-5/fisa.pdf": {
+    "mtime": 1787767855.4662364,
+    "seen": 1788503378.763695,
+    "ast_hash": "15bb1bba7d6ec16fe319036ddbe039be",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-2/lectia-6/fisa.pdf": {
+    "mtime": 1787767855.5639763,
+    "seen": 1788503378.763695,
+    "ast_hash": "98730bfa6b79ad41b7b23955434f04c8",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-2/lectia-8/fisa.pdf": {
+    "mtime": 1787767855.7344124,
+    "seen": 1788503378.763695,
+    "ast_hash": "999aa8e94c7b8a3ba71eb9605eb752bd",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-3/lectia-15/fisa.pdf": {
+    "mtime": 1787767856.7931445,
+    "seen": 1788503378.763695,
+    "ast_hash": "769b18ddc3f8174075e62282c9d3ec5e",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-3/lectia-16/fisa.pdf": {
+    "mtime": 1787767856.981573,
+    "seen": 1788503378.763695,
+    "ast_hash": "b9969257a4405e668e2fdd94976fe807",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-3/lectia-1/fisa.pdf": {
+    "mtime": 1787767856.1538124,
+    "seen": 1788503378.763695,
+    "ast_hash": "8662e92d191b4e1d036cbd3fce390db9",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-3/lectia-4/fisa.pdf": {
+    "mtime": 1787767856.2175875,
+    "seen": 1788503378.763695,
+    "ast_hash": "20ee2f1d68668ea22a62b943a1037f51",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-3/lectia-5/fisa.pdf": {
+    "mtime": 1787767856.39157,
+    "seen": 1788503378.763695,
+    "ast_hash": "6ba186f1d67cd8d8a3ae1e46d6e582b6",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-3/lectia-8/fisa.pdf": {
+    "mtime": 1787767856.5967703,
+    "seen": 1788503378.763695,
+    "ast_hash": "7176dc18d5643d06e723a9ef3f83c072",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-4/lectia-12/fisa.pdf": {
+    "mtime": 1787767859.7801764,
+    "seen": 1788503378.763695,
+    "ast_hash": "ea8ce30321b24112eeb47bb87fd4b561",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-4/lectia-16/fisa.pdf": {
+    "mtime": 1787767857.548161,
+    "seen": 1788503378.763695,
+    "ast_hash": "31da5b998d005f14e4f4d51e1607c85f",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-4/lectia-17/fisa.pdf": {
+    "mtime": 1787767857.907497,
+    "seen": 1788503378.763695,
+    "ast_hash": "6d9406b90bca93d08b3b0e1634dc161e",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-4/lectia-3/fisa.pdf": {
+    "mtime": 1787767857.0624185,
+    "seen": 1788503378.763695,
+    "ast_hash": "f98705b48052de735a8988399e17791c",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-4/lectia-4/fisa.pdf": {
+    "mtime": 1787767857.1954584,
+    "seen": 1788503378.763695,
+    "ast_hash": "7f01257bc73fa8df60631bf4db2158d7",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-4/lectia-7/fisa.pdf": {
+    "mtime": 1787767859.657941,
+    "seen": 1788503378.763695,
+    "ast_hash": "8b0f8e4b599b63d240fd30ef11f5d67b",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-4/lectia-8/fisa.pdf": {
+    "mtime": 1787767857.3486216,
+    "seen": 1788503378.763695,
+    "ast_hash": "a72b8acdf85eda19ddc1599dc837ba50",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-5/lectia-12/fisa.pdf": {
+    "mtime": 1787767858.4956431,
+    "seen": 1788503378.763695,
+    "ast_hash": "f6991ae728ad19ce6453e9453c43ed47",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-5/lectia-13/fisa.pdf": {
+    "mtime": 1787767858.8433266,
+    "seen": 1788503378.763695,
+    "ast_hash": "1bef0ad137fa0d73914687d4b80ef10f",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-5/lectia-14/fisa.pdf": {
+    "mtime": 1787767858.937927,
+    "seen": 1788503378.763695,
+    "ast_hash": "ec3b4bdf3e2d22baa4ab0f35d8b1995e",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-5/lectia-4/fisa.pdf": {
+    "mtime": 1787767858.045505,
+    "seen": 1788503378.763695,
+    "ast_hash": "d5e62d35d6c281588c672b9eb0862a87",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-5/lectia-5/fisa.pdf": {
+    "mtime": 1787767858.1044853,
+    "seen": 1788503378.763695,
+    "ast_hash": "e9a15654c99d06c32164b3803b3e8b41",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-5/lectia-7/fisa.pdf": {
+    "mtime": 1787767858.3051975,
+    "seen": 1788503378.763695,
+    "ast_hash": "ca8ed3cab4f631ce2b66b969ba995326",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-6/lectia-10/fisa.pdf": {
+    "mtime": 1787767859.263075,
+    "seen": 1788503378.763695,
+    "ast_hash": "69e7a25af59caf4ba2b0b61b11ee0844",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-6/lectia-13/fisa.pdf": {
+    "mtime": 1787767859.340598,
+    "seen": 1788503378.763695,
+    "ast_hash": "f8dd8bda86bf847ff66083fa11d7b363",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-6/lectia-14/fisa.pdf": {
+    "mtime": 1787767859.481669,
+    "seen": 1788503378.763695,
+    "ast_hash": "42293aed578c0c80a249e62ad9660cbc",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-6/lectia-3/fisa.pdf": {
+    "mtime": 1787767859.004407,
+    "seen": 1788503378.763695,
+    "ast_hash": "bc8476ffcb61b1994b778d144f57cbcc",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-6/lectia-4/fisa.pdf": {
+    "mtime": 1787767859.0913546,
+    "seen": 1788503378.763695,
+    "ast_hash": "2ad662fab1d7a6f71828b34c46d2429e",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-6/lectia-8/fisa.pdf": {
+    "mtime": 1787767859.1875079,
+    "seen": 1788503378.763695,
+    "ast_hash": "568196e6dcfb2399e35e881fefaddd57",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-1/lectia-10/fisa.pdf": {
+    "mtime": 1787827672.8258388,
+    "seen": 1788503378.763695,
+    "ast_hash": "ecaeca532a85ee6999a28c3242450f7b",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-1/lectia-15/fisa.pdf": {
+    "mtime": 1787827673.0676682,
+    "seen": 1788503378.763695,
+    "ast_hash": "0284583288c86b0421586755137e9cb2",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-1/lectia-18/fisa.pdf": {
+    "mtime": 1787827673.4346833,
+    "seen": 1788503378.763695,
+    "ast_hash": "4b313e667d82f683f98494cc8a73b67e",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-1/lectia-19/fisa.pdf": {
+    "mtime": 1787827673.697361,
+    "seen": 1788503378.763695,
+    "ast_hash": "154f514abc2ff4df903d5ea96432bb26",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-1/lectia-4/fisa.pdf": {
+    "mtime": 1787827672.164284,
+    "seen": 1788503378.763695,
+    "ast_hash": "7d9226da76bd96cdbd6f31442c4fa78c",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-1/lectia-7/fisa.pdf": {
+    "mtime": 1787827672.4845252,
+    "seen": 1788503378.763695,
+    "ast_hash": "42566e8d9d6acffa23303bdcfd342206",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-1/lectia-9/fisa.pdf": {
+    "mtime": 1787827672.6616197,
+    "seen": 1788503378.763695,
+    "ast_hash": "3e9c6d517aaa2b4cb071ecfc8364d0ba",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-2/lectia-11/fisa.pdf": {
+    "mtime": 1787827674.5244634,
+    "seen": 1788503378.763695,
+    "ast_hash": "c75d4be57de4f86e87e00654d58911f2",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-2/lectia-13/fisa.pdf": {
+    "mtime": 1787827674.6822696,
+    "seen": 1788503378.763695,
+    "ast_hash": "3668813ed577baf5e698a20068ed6593",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-2/lectia-1/fisa.pdf": {
+    "mtime": 1787827673.8674994,
+    "seen": 1788503378.763695,
+    "ast_hash": "dfaa5c1bb607d40c207842ab0617b571",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-2/lectia-20/fisa.pdf": {
+    "mtime": 1787827674.7919626,
+    "seen": 1788503378.763695,
+    "ast_hash": "f14afe2eff3efa496e3f83813dfcacd9",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-2/lectia-21/fisa.pdf": {
+    "mtime": 1787827674.921777,
+    "seen": 1788503378.763695,
+    "ast_hash": "d88b1523995927e436f8ce9b31417df8",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-2/lectia-5/fisa.pdf": {
+    "mtime": 1787827673.9804473,
+    "seen": 1788503378.763695,
+    "ast_hash": "baaa5c529f037620b3e051baad72ca5e",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-2/lectia-6/fisa.pdf": {
+    "mtime": 1787827674.1232622,
+    "seen": 1788503378.763695,
+    "ast_hash": "be2a9fc4e1eace7d5c5f0a112fcfd34c",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-2/lectia-7/fisa.pdf": {
+    "mtime": 1787827674.2595448,
+    "seen": 1788503378.763695,
+    "ast_hash": "6627e21e3fe9d6fe0f6810adbe08892e",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-2/lectia-9/fisa.pdf": {
+    "mtime": 1787827674.3908632,
+    "seen": 1788503378.763695,
+    "ast_hash": "4e2ff57582af5dae125840e948e02856",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-3/lectia-11/fisa.pdf": {
+    "mtime": 1787827675.5880532,
+    "seen": 1788503378.763695,
+    "ast_hash": "25a7e9f8724ae470b88d15a7c2961587",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-3/lectia-13/fisa.pdf": {
+    "mtime": 1787827675.8150082,
+    "seen": 1788503378.763695,
+    "ast_hash": "d387ace40e2db66171adf19e1b8969e8",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-3/lectia-21/fisa.pdf": {
+    "mtime": 1787827675.9293778,
+    "seen": 1788503378.763695,
+    "ast_hash": "ab8465ce3f4e832196fa34d8674d1431",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-3/lectia-22/fisa.pdf": {
+    "mtime": 1787827676.0977187,
+    "seen": 1788503378.763695,
+    "ast_hash": "17b811407a5fce59304fd9585e9003dd",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-3/lectia-2/fisa.pdf": {
+    "mtime": 1787827675.1171212,
+    "seen": 1788503378.763695,
+    "ast_hash": "0335cff34f5af13d481ad55e2e753e4f",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-3/lectia-5/fisa.pdf": {
+    "mtime": 1787827675.2381134,
+    "seen": 1788503378.763695,
+    "ast_hash": "9e8d96c8bb7a1668dafb8f2f27ef80ec",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-3/lectia-6/fisa.pdf": {
+    "mtime": 1787827675.3324335,
+    "seen": 1788503378.763695,
+    "ast_hash": "5dab779b61c271113388a01987f8efc7",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-3/lectia-8/fisa.pdf": {
+    "mtime": 1787827675.4450006,
+    "seen": 1788503378.763695,
+    "ast_hash": "8ab43903746be140259acd214a07e525",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-4/lectia-12/fisa.pdf": {
+    "mtime": 1787827677.1306581,
+    "seen": 1788503378.763695,
+    "ast_hash": "000d456c009630beb95f8d7e46174bc5",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-4/lectia-14/fisa.pdf": {
+    "mtime": 1787827677.4355676,
+    "seen": 1788503378.763695,
+    "ast_hash": "3f98da0482f33d1e21ffbd76931a9dc8",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-4/lectia-17/fisa.pdf": {
+    "mtime": 1787827677.5585115,
+    "seen": 1788503378.763695,
+    "ast_hash": "5d03b7963aa80920be93119812bd1477",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-4/lectia-18/fisa.pdf": {
+    "mtime": 1787827677.7495153,
+    "seen": 1788503378.763695,
+    "ast_hash": "ec42e9716ccbe29d60149c2dbd50bdca",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-4/lectia-20/fisa.pdf": {
+    "mtime": 1787827677.8806655,
+    "seen": 1788503378.763695,
+    "ast_hash": "1f0c742210a42348f151087a08b88d0d",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-4/lectia-4/fisa.pdf": {
+    "mtime": 1787827676.2956445,
+    "seen": 1788503378.763695,
+    "ast_hash": "f8501fe06d2dffee051d65419c1b7305",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-4/lectia-5/fisa.pdf": {
+    "mtime": 1787827676.4774902,
+    "seen": 1788503378.763695,
+    "ast_hash": "ed629d018ec703d556a08bf83b321dbe",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-4/lectia-6/fisa.pdf": {
+    "mtime": 1787827676.9581523,
+    "seen": 1788503378.763695,
+    "ast_hash": "28ab914943b98b5a89e5eee43e61cd7d",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-5/lectia-11/fisa.pdf": {
+    "mtime": 1787827678.650823,
+    "seen": 1788503378.763695,
+    "ast_hash": "237d3402da883486851f1d07069d9b4a",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-5/lectia-13/fisa.pdf": {
+    "mtime": 1787827678.9104817,
+    "seen": 1788503378.763695,
+    "ast_hash": "c816f01cfaa2ffeac32ab27dc95ee7ed",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-5/lectia-15/fisa.pdf": {
+    "mtime": 1787827679.1245017,
+    "seen": 1788503378.763695,
+    "ast_hash": "6522798f32d03ed4a1cdcdda810d1929",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-5/lectia-17/fisa.pdf": {
+    "mtime": 1787827679.261367,
+    "seen": 1788503378.763695,
+    "ast_hash": "a9ee01ece2b364bb8a79a3a023f71a90",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-5/lectia-19/fisa.pdf": {
+    "mtime": 1787827679.381965,
+    "seen": 1788503378.763695,
+    "ast_hash": "6443c9e6ddefd1a910caf075438f04b7",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-5/lectia-1/fisa.pdf": {
+    "mtime": 1787827678.0467374,
+    "seen": 1788503378.763695,
+    "ast_hash": "837f7b4ec55d3b1510f6886d725c9f22",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-5/lectia-5/fisa.pdf": {
+    "mtime": 1787827678.1616635,
+    "seen": 1788503378.763695,
+    "ast_hash": "558fb77eee3ccceffcf93811d6f31d6d",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-5/lectia-6/fisa.pdf": {
+    "mtime": 1787827678.2583966,
+    "seen": 1788503378.763695,
+    "ast_hash": "7d78f7520ff61a5857be2e741dc24788",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-5/lectia-7/fisa.pdf": {
+    "mtime": 1787827678.3751624,
+    "seen": 1788503378.763695,
+    "ast_hash": "06c8ab1047f85758c515b6a25a3951d4",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-5/lectia-9/fisa.pdf": {
+    "mtime": 1787827678.5167918,
+    "seen": 1788503378.763695,
+    "ast_hash": "3eb8568e038d1abab34f6bbdb1956acf",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-1/lectia-18/fisa.pdf": {
+    "mtime": 1787899151.8852882,
+    "seen": 1788503378.763695,
+    "ast_hash": "8c099bf583ce0f273012e206273e25d2",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-1/lectia-19/fisa.pdf": {
+    "mtime": 1787899152.090172,
+    "seen": 1788503378.763695,
+    "ast_hash": "d6dfa100ebb9783ee04d29e25aebdd1f",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-1/lectia-2/fisa.pdf": {
+    "mtime": 1787899151.1396024,
+    "seen": 1788503378.763695,
+    "ast_hash": "3ff2cb35491d6ecb1b68af784479f7d6",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-1/lectia-3/fisa.pdf": {
+    "mtime": 1787899151.321442,
+    "seen": 1788503378.763695,
+    "ast_hash": "cd1bfd11131934b4e3aa3f955260c4b0",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-1/lectia-4/fisa.pdf": {
+    "mtime": 1787899151.5197432,
+    "seen": 1788503378.763695,
+    "ast_hash": "8b047a299b7a2006c1c0bb0f16a24ca2",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-1/lectia-6/fisa.pdf": {
+    "mtime": 1787899151.7606435,
+    "seen": 1788503378.763695,
+    "ast_hash": "f77b0f6fdcdb3974828eaae91f425a20",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-2/lectia-11/fisa.pdf": {
+    "mtime": 1787899153.752186,
+    "seen": 1788503378.763695,
+    "ast_hash": "d1e2ae8f5e6535a9107fde9785b5ec69",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-2/lectia-14/fisa.pdf": {
+    "mtime": 1787899154.1746283,
+    "seen": 1788503378.763695,
+    "ast_hash": "0471b21a130431ea14ab92861623af92",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-2/lectia-19/fisa.pdf": {
+    "mtime": 1787899154.521138,
+    "seen": 1788503378.763695,
+    "ast_hash": "bd66240b8648228c0bbee7196b59a272",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-2/lectia-1/fisa.pdf": {
+    "mtime": 1787899152.371767,
+    "seen": 1788503378.763695,
+    "ast_hash": "b314e14b689f7470f4669e4f83946603",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-2/lectia-21/fisa.pdf": {
+    "mtime": 1787899154.6353793,
+    "seen": 1788503378.763695,
+    "ast_hash": "abaa6405f3779e1cc06959576971f4a3",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-2/lectia-22/fisa.pdf": {
+    "mtime": 1787899155.1017356,
+    "seen": 1788503378.763695,
+    "ast_hash": "56aa17e1bbf9f7bf8043e20632953bc5",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-2/lectia-3/fisa.pdf": {
+    "mtime": 1787899152.483508,
+    "seen": 1788503378.763695,
+    "ast_hash": "5c4df8ac3409aab26c6cbada835aae72",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-2/lectia-4/fisa.pdf": {
+    "mtime": 1787899152.6706398,
+    "seen": 1788503378.763695,
+    "ast_hash": "9771a3d335bfd87e60a78c82272e5a49",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-2/lectia-5/fisa.pdf": {
+    "mtime": 1787899152.8158734,
+    "seen": 1788503378.763695,
+    "ast_hash": "cb99230c798a5a281e07c17da412483d",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-2/lectia-6/fisa.pdf": {
+    "mtime": 1787899153.0504048,
+    "seen": 1788503378.763695,
+    "ast_hash": "d8451466011e69bfd7b71a723f203fb6",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-2/lectia-7/fisa.pdf": {
+    "mtime": 1787899153.1917117,
+    "seen": 1788503378.763695,
+    "ast_hash": "e70a92510544ea33f435c2717bebf3c0",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-2/lectia-8/fisa.pdf": {
+    "mtime": 1787899153.4267688,
+    "seen": 1788503378.763695,
+    "ast_hash": "af90684f3b47fb354295bb3f79e2b005",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-3/lectia-12/fisa.pdf": {
+    "mtime": 1787899156.4254856,
+    "seen": 1788503378.763695,
+    "ast_hash": "210364aa539cfac803a9782772692ebb",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-3/lectia-19/fisa.pdf": {
+    "mtime": 1787899156.5688314,
+    "seen": 1788503378.763695,
+    "ast_hash": "0e839d803fa587c13026f933572c55e3",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-3/lectia-20/fisa.pdf": {
+    "mtime": 1787899157.545949,
+    "seen": 1788503378.763695,
+    "ast_hash": "f97624d68a8ce8d15b20f1dafbec0824",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-3/lectia-21/fisa.pdf": {
+    "mtime": 1787899158.0569067,
+    "seen": 1788503378.763695,
+    "ast_hash": "dfa1363aaf1f14e680f564b417a1e84b",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-3/lectia-22/fisa.pdf": {
+    "mtime": 1787899158.6976385,
+    "seen": 1788503378.763695,
+    "ast_hash": "cfc0d59986e80f096b591373c146be99",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-3/lectia-2/fisa.pdf": {
+    "mtime": 1787899155.385757,
+    "seen": 1788503378.763695,
+    "ast_hash": "d9eaf29a0543e8773a220d1c42cb3df2",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-3/lectia-4/fisa.pdf": {
+    "mtime": 1787899155.7503936,
+    "seen": 1788503378.763695,
+    "ast_hash": "b4f4c63884781c7cd29e42bd275a7be3",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-3/lectia-7/fisa.pdf": {
+    "mtime": 1787899155.9466631,
+    "seen": 1788503378.763695,
+    "ast_hash": "727345ab8c4e1cca3818efa5d5d83db0",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-3/lectia-8/fisa.pdf": {
+    "mtime": 1787899156.0989652,
+    "seen": 1788503378.763695,
+    "ast_hash": "92501cf14c0e20789d3450e1d40936b4",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-4/lectia-20/fisa.pdf": {
+    "mtime": 1787899160.330187,
+    "seen": 1788503378.763695,
+    "ast_hash": "d6b7c8b63bc9adbd6e50ef9c48c8ea20",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-4/lectia-21/fisa.pdf": {
+    "mtime": 1787899160.5946221,
+    "seen": 1788503378.763695,
+    "ast_hash": "4b6c6163b42ea63d608e5ee8d2928294",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-4/lectia-2/fisa.pdf": {
+    "mtime": 1787899158.8987615,
+    "seen": 1788503378.763695,
+    "ast_hash": "b4b80d1dde8f71adf12e034ce051ffd3",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-4/lectia-3/fisa.pdf": {
+    "mtime": 1787899159.1137285,
+    "seen": 1788503378.763695,
+    "ast_hash": "3621d35fb28dcba3222184c84b4e98d6",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-4/lectia-4/fisa.pdf": {
+    "mtime": 1787899159.4758105,
+    "seen": 1788503378.763695,
+    "ast_hash": "7023155a48667c7fe9d502b33bfb636c",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-4/lectia-5/fisa.pdf": {
+    "mtime": 1787899159.618365,
+    "seen": 1788503378.763695,
+    "ast_hash": "fed65d6b11cc0c94126c45ff5fc0bc6b",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-4/lectia-7/fisa.pdf": {
+    "mtime": 1787899160.1758125,
+    "seen": 1788503378.763695,
+    "ast_hash": "eb493597ed5e8d6121afdaee7fa276a1",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-5/lectia-10/fisa.pdf": {
+    "mtime": 1787899161.9244118,
+    "seen": 1788503378.763695,
+    "ast_hash": "2d19762ccb2de87135cd5c8a9ba3c38f",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-5/lectia-11/fisa.pdf": {
+    "mtime": 1787899162.0370848,
+    "seen": 1788503378.763695,
+    "ast_hash": "614016962b777d3eaad2580ccb57952d",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-5/lectia-17/fisa.pdf": {
+    "mtime": 1787899162.1290991,
+    "seen": 1788503378.763695,
+    "ast_hash": "eb519037f5d1c1f42e6afc9b026182eb",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-5/lectia-18/fisa.pdf": {
+    "mtime": 1787899162.321593,
+    "seen": 1788503378.763695,
+    "ast_hash": "f93ee2053dd3636749578f54ed477f15",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-5/lectia-1/fisa.pdf": {
+    "mtime": 1787899160.7582633,
+    "seen": 1788503378.763695,
+    "ast_hash": "042735f9141dbb61ecaac5d775021778",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-5/lectia-4/fisa.pdf": {
+    "mtime": 1787899160.8750987,
+    "seen": 1788503378.763695,
+    "ast_hash": "a2ccb2f9f4ae8be57314adee6931d2d3",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-5/lectia-5/fisa.pdf": {
+    "mtime": 1787899161.009941,
+    "seen": 1788503378.763695,
+    "ast_hash": "02c4b2333c24b42f25ba043a8339147d",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-5/lectia-6/fisa.pdf": {
+    "mtime": 1787899161.5031261,
+    "seen": 1788503378.763695,
+    "ast_hash": "c630af253f8d2e43d8e08eb7f3fc5b53",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-5/lectia-7/fisa.pdf": {
+    "mtime": 1787899161.655568,
+    "seen": 1788503378.763695,
+    "ast_hash": "e55611080ccd078cb637d2af440174ed",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-5/lectia-9/fisa.pdf": {
+    "mtime": 1787899161.7873056,
+    "seen": 1788503378.763695,
+    "ast_hash": "74638916a4aefa92ec19a4a8735b3014",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-1/lectia-10/fisa.pdf": {
+    "mtime": 1787908875.6798751,
+    "seen": 1788503378.763695,
+    "ast_hash": "7a84b8dbf8f79746e664e81c0d8ba0d8",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-1/lectia-11/fisa.pdf": {
+    "mtime": 1787908875.80696,
+    "seen": 1788503378.763695,
+    "ast_hash": "eb1ab157ab499219bfd3f30f6d3042c2",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-1/lectia-20/fisa.pdf": {
+    "mtime": 1787908875.937707,
+    "seen": 1788503378.763695,
+    "ast_hash": "f88306319afbb2e402251b0caefeb2fd",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-1/lectia-21/fisa.pdf": {
+    "mtime": 1787908876.0460272,
+    "seen": 1788503378.763695,
+    "ast_hash": "79c4acb2a98e0e8a33243d629cf37400",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-1/lectia-22/fisa.pdf": {
+    "mtime": 1787908876.4177907,
+    "seen": 1788503378.763695,
+    "ast_hash": "d65398198df9402bdfd9831bf6dfd445",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-1/lectia-23/fisa.pdf": {
+    "mtime": 1787908876.5277355,
+    "seen": 1788503378.763695,
+    "ast_hash": "92ee28c93a367a2d5cbf3445bac2603a",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-1/lectia-2/fisa.pdf": {
+    "mtime": 1787908874.642147,
+    "seen": 1788503378.763695,
+    "ast_hash": "2589d8e65a46a924a6cd21d132d345a4",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-1/lectia-3/fisa.pdf": {
+    "mtime": 1787908874.8140852,
+    "seen": 1788503378.763695,
+    "ast_hash": "f6bdae7cbe48a9e290ca0637e5ddf043",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-1/lectia-4/fisa.pdf": {
+    "mtime": 1787908874.9698193,
+    "seen": 1788503378.763695,
+    "ast_hash": "3c937b5952db34c3b036ae62ee3bc72c",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-1/lectia-6/fisa.pdf": {
+    "mtime": 1787908875.1054375,
+    "seen": 1788503378.763695,
+    "ast_hash": "1a255a57c9bfb1ee95c37417d8180fe0",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-1/lectia-7/fisa.pdf": {
+    "mtime": 1787908875.2159276,
+    "seen": 1788503378.763695,
+    "ast_hash": "1406db75140ccd42c325c974172a9f2c",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-1/lectia-9/fisa.pdf": {
+    "mtime": 1787908875.4350634,
+    "seen": 1788503378.763695,
+    "ast_hash": "fc43ba8674cb3784f369f09b481cfa66",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-2/lectia-16/fisa.pdf": {
+    "mtime": 1787908877.962363,
+    "seen": 1788503378.763695,
+    "ast_hash": "af22bd45702de5fcd37d858ce2822e44",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-2/lectia-17/fisa.pdf": {
+    "mtime": 1787908878.123955,
+    "seen": 1788503378.763695,
+    "ast_hash": "16da747d0f1b050f6dd06437fa51c44e",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-2/lectia-18/fisa.pdf": {
+    "mtime": 1787908878.3485565,
+    "seen": 1788503378.763695,
+    "ast_hash": "68a781f5e10f01f18e7403240cda8cc9",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-2/lectia-19/fisa.pdf": {
+    "mtime": 1787908878.5833635,
+    "seen": 1788503378.763695,
+    "ast_hash": "2ced712937ebcf4dc0d51cc5906daa3f",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-2/lectia-2/fisa.pdf": {
+    "mtime": 1787908876.7623138,
+    "seen": 1788503378.763695,
+    "ast_hash": "2f09879bd326e22815b830b65719b5cf",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-2/lectia-3/fisa.pdf": {
+    "mtime": 1787908877.0625117,
+    "seen": 1788503378.763695,
+    "ast_hash": "9fbbd93717f83c7dd5866a0d95a51772",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-2/lectia-4/fisa.pdf": {
+    "mtime": 1787908877.225961,
+    "seen": 1788503378.763695,
+    "ast_hash": "c4409c3b33c2c04ce1715b1292b58eb2",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-2/lectia-5/fisa.pdf": {
+    "mtime": 1787908877.4175727,
+    "seen": 1788503378.763695,
+    "ast_hash": "f67ed7c3375d769a418e8c9cb4bff524",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-2/lectia-6/fisa.pdf": {
+    "mtime": 1787908877.6439376,
+    "seen": 1788503378.763695,
+    "ast_hash": "bb92fd88ac53edc618789ff26312df22",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-3/lectia-10/fisa.pdf": {
+    "mtime": 1787908880.0899048,
+    "seen": 1788503378.763695,
+    "ast_hash": "53e4daec2b4844ae94a4a3657275b6ce",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-3/lectia-15/fisa.pdf": {
+    "mtime": 1787908880.2084067,
+    "seen": 1788503378.763695,
+    "ast_hash": "729eb00a3f52446ae21fbfa9bc5ae863",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-3/lectia-17/fisa.pdf": {
+    "mtime": 1787908880.3509305,
+    "seen": 1788503378.763695,
+    "ast_hash": "3e76d854430776f042b1fd6652e3fc54",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-3/lectia-19/fisa.pdf": {
+    "mtime": 1787908880.7370636,
+    "seen": 1788503378.763695,
+    "ast_hash": "e55388122815a21d2aac770637b72be8",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-3/lectia-1/fisa.pdf": {
+    "mtime": 1787908878.6893668,
+    "seen": 1788503378.763695,
+    "ast_hash": "ea3905505f00794698fff48f26e78ad6",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-3/lectia-20/fisa.pdf": {
+    "mtime": 1787908881.028368,
+    "seen": 1788503378.763695,
+    "ast_hash": "a1a8757f06bc8bb5d60e7c8158052ada",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-3/lectia-21/fisa.pdf": {
+    "mtime": 1787908881.2705278,
+    "seen": 1788503378.763695,
+    "ast_hash": "6f210f6d40b0ea22b9b2784d27ce2ad9",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-3/lectia-2/fisa.pdf": {
+    "mtime": 1787908878.8625638,
+    "seen": 1788503378.763695,
+    "ast_hash": "5588ae020b936ba8fd9306ad25deccc8",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-3/lectia-3/fisa.pdf": {
+    "mtime": 1787908879.0625343,
+    "seen": 1788503378.763695,
+    "ast_hash": "41fbc8e5b183380b68125c24327bbc63",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-3/lectia-4/fisa.pdf": {
+    "mtime": 1787908879.3014529,
+    "seen": 1788503378.763695,
+    "ast_hash": "257f5be5f0c5376b718cea9869d3a3b0",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-3/lectia-5/fisa.pdf": {
+    "mtime": 1787908879.4667077,
+    "seen": 1788503378.763695,
+    "ast_hash": "55520e2bea382f49d65bcbf3bb6e520d",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-3/lectia-6/fisa.pdf": {
+    "mtime": 1787908879.5703113,
+    "seen": 1788503378.763695,
+    "ast_hash": "1e4023b420148021969f8d5d574812d9",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-3/lectia-8/fisa.pdf": {
+    "mtime": 1787908879.7016034,
+    "seen": 1788503378.763695,
+    "ast_hash": "1e78e3cdc4d9919382c24abf92d5c08c",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-3/lectia-9/fisa.pdf": {
+    "mtime": 1787908879.870148,
+    "seen": 1788503378.763695,
+    "ast_hash": "6996a64702c95e3a178e89a2b25f1635",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-4/lectia-16/fisa.pdf": {
+    "mtime": 1787908882.9090643,
+    "seen": 1788503378.763695,
+    "ast_hash": "b4ba21550e603c6f76c9c8f7ce637e4f",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-4/lectia-17/fisa.pdf": {
+    "mtime": 1787908883.130054,
+    "seen": 1788503378.763695,
+    "ast_hash": "073f63836cbfb55bb131eb671e49f791",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-4/lectia-1/fisa.pdf": {
+    "mtime": 1787908881.540349,
+    "seen": 1788503378.763695,
+    "ast_hash": "3da4e76843e5f1e27dfd338fec0c212e",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-4/lectia-3/fisa.pdf": {
+    "mtime": 1787908881.6677744,
+    "seen": 1788503378.763695,
+    "ast_hash": "870e4994dd982aaab7c4bb81616bc618",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-4/lectia-4/fisa.pdf": {
+    "mtime": 1787908882.0545015,
+    "seen": 1788503378.763695,
+    "ast_hash": "88e9bbc019ca49b5641ec3d2b1ef5020",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-4/lectia-5/fisa.pdf": {
+    "mtime": 1787908882.313753,
+    "seen": 1788503378.763695,
+    "ast_hash": "0b0b44367c117ca046ffd990a133758b",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-4/lectia-6/fisa.pdf": {
+    "mtime": 1787908882.4695508,
+    "seen": 1788503378.763695,
+    "ast_hash": "e9bcc1d0e21f66a60a592f62e0704e7d",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-4/lectia-7/fisa.pdf": {
+    "mtime": 1787908882.5850348,
+    "seen": 1788503378.763695,
+    "ast_hash": "0c9cece068d5ada459fbe0b44f8d30f3",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-4/lectia-8/fisa.pdf": {
+    "mtime": 1787908882.703287,
+    "seen": 1788503378.763695,
+    "ast_hash": "f7389d028ee48851fd1ee3abf2fc8560",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-5/lectia-17/fisa.pdf": {
+    "mtime": 1787908884.1430638,
+    "seen": 1788503378.763695,
+    "ast_hash": "809438e05cd8a108272fb4649bdb0b51",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-5/lectia-18/fisa.pdf": {
+    "mtime": 1787908884.3904338,
+    "seen": 1788503378.763695,
+    "ast_hash": "a45b33d4e98a3574c7b483c37df53e42",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-5/lectia-3/fisa.pdf": {
+    "mtime": 1787908883.3427768,
+    "seen": 1788503378.763695,
+    "ast_hash": "5e4161a234125c5718cd50f3770cd63e",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-5/lectia-4/fisa.pdf": {
+    "mtime": 1787908883.494151,
+    "seen": 1788503378.763695,
+    "ast_hash": "71103ffac95d742ff45b0f3888545dfa",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-5/lectia-5/fisa.pdf": {
+    "mtime": 1787908883.6276855,
+    "seen": 1788503378.763695,
+    "ast_hash": "4255643f866dfd51f330e7c2808540a9",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-5/lectia-6/fisa.pdf": {
+    "mtime": 1787908883.7858603,
+    "seen": 1788503378.763695,
+    "ast_hash": "bb0f57ee78f44341d80dff7425d68f33",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-5/lectia-7/fisa.pdf": {
+    "mtime": 1787908883.9267128,
+    "seen": 1788503378.763695,
+    "ast_hash": "c92fb1fac9e42563af7e5ecde0261626",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-1/lectia-10/schema.svg": {
+    "mtime": 1787763058.8679848,
+    "seen": 1788503378.763695,
+    "ast_hash": "a84db47988fd08524433376e108a6b2a",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-1/lectia-11/schema.svg": {
+    "mtime": 1787763066.02134,
+    "seen": 1788503378.763695,
+    "ast_hash": "a476d577872e61751b5eda472b950c0d",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-1/lectia-14/schema.svg": {
+    "mtime": 1787763074.5781887,
+    "seen": 1788503378.763695,
+    "ast_hash": "e4cf8f6fd56d4d9a7bf885fc55fa9fb7",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-1/lectia-8/schema.svg": {
+    "mtime": 1787763051.269681,
+    "seen": 1788503378.763695,
+    "ast_hash": "f1e0cce7f5d5a01f051b824dbfd07408",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-2/lectia-11/schema.svg": {
+    "mtime": 1787763271.5897253,
+    "seen": 1788503378.763695,
+    "ast_hash": "cc6971eeafaed93a66710265c2e096ab",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-2/lectia-12/schema.svg": {
+    "mtime": 1787767372.0362642,
+    "seen": 1788503378.763695,
+    "ast_hash": "fbeb9ce30c792728f897a0ecf628ccd4",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-2/lectia-13/schema.svg": {
+    "mtime": 1787767376.4313889,
+    "seen": 1788503378.763695,
+    "ast_hash": "a97d1df7cf9aa797c7d3100bba8c78a3",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-2/lectia-14/schema.svg": {
+    "mtime": 1787767381.3163483,
+    "seen": 1788503378.763695,
+    "ast_hash": "0d7174c3b102adee88b6771ab63bda31",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-2/lectia-15/schema.svg": {
+    "mtime": 1787767386.7960572,
+    "seen": 1788503378.763695,
+    "ast_hash": "19d5a116aa2da61fe450dbb1a165d702",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-2/lectia-16/schema.svg": {
+    "mtime": 1787767391.3364413,
+    "seen": 1788503378.763695,
+    "ast_hash": "2562dfc1867c2da004e0c4c4e7c05524",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-2/lectia-2/schema.svg": {
+    "mtime": 1787767361.733985,
+    "seen": 1788503378.763695,
+    "ast_hash": "0ef91e74149d58d5d7cca520cdd3ebf6",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-2/lectia-3/schema.svg": {
+    "mtime": 1787767366.5834,
+    "seen": 1788503378.763695,
+    "ast_hash": "e74b80569c916cd03d2ccc5afe491062",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-2/lectia-7/infografic.svg": {
+    "mtime": 1787767404.054112,
+    "seen": 1788503378.763695,
+    "ast_hash": "179116ca26e168b1d4378a07cd7360e8",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-3/lectia-10/schema.svg": {
+    "mtime": 1787764734.8187115,
+    "seen": 1788503378.763695,
+    "ast_hash": "cf0c250bcebc48a568ed35ad67598205",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-3/lectia-11/schema.svg": {
+    "mtime": 1787764742.3110788,
+    "seen": 1788503378.763695,
+    "ast_hash": "8a6dae3b37a9af4d32f0c2688b4e552e",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-3/lectia-12/schema.svg": {
+    "mtime": 1787767414.996269,
+    "seen": 1788503378.763695,
+    "ast_hash": "be1bcc0014a6fe2f19d4d028b864cb95",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-3/lectia-13/schema.svg": {
+    "mtime": 1787767419.9681995,
+    "seen": 1788503378.763695,
+    "ast_hash": "79cbb87a260a6e53d7b4938bc52de9ac",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-3/lectia-14/schema.svg": {
+    "mtime": 1787767424.966324,
+    "seen": 1788503378.763695,
+    "ast_hash": "92dc6643fdc6d7a2bee0c5403ac8a618",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-3/lectia-3/schema.svg": {
+    "mtime": 1787767410.078714,
+    "seen": 1788503378.763695,
+    "ast_hash": "d62ab1824932303aa36389055b2bb803",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-3/lectia-6/infografic.svg": {
+    "mtime": 1787767437.041302,
+    "seen": 1788503378.763695,
+    "ast_hash": "5f43afcad8d5fe06008520edb56e1d3f",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-3/lectia-7/infografic.svg": {
+    "mtime": 1787767445.8363955,
+    "seen": 1788503378.763695,
+    "ast_hash": "14b817644f18b6a8da828f8cafc0723c",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-4/lectia-11/schema.svg": {
+    "mtime": 1787767462.1779387,
+    "seen": 1788503378.763695,
+    "ast_hash": "78872871d1b62aa86d0b4d919c0beb2b",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-4/lectia-13/schema.svg": {
+    "mtime": 1787767466.2316034,
+    "seen": 1788503378.763695,
+    "ast_hash": "9766f0acdd4e91e255cb65943db136dd",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-4/lectia-14/schema.svg": {
+    "mtime": 1787764841.9197514,
+    "seen": 1788503378.763695,
+    "ast_hash": "d3e7cf30cd5a36d57d42f0f9ff29dd5d",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-4/lectia-15/schema.svg": {
+    "mtime": 1787764850.1909964,
+    "seen": 1788503378.763695,
+    "ast_hash": "d903068e79d91884481ecc227f940788",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-4/lectia-2/schema.svg": {
+    "mtime": 1787767452.3610806,
+    "seen": 1788503378.763695,
+    "ast_hash": "e35e266ca676775899ef0d9b13a1ca24",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-4/lectia-5/schema.svg": {
+    "mtime": 1787767457.3000202,
+    "seen": 1788503378.763695,
+    "ast_hash": "c049abd97aabfdc5fd3a7567247af5f3",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-4/lectia-6/infografic.svg": {
+    "mtime": 1787767478.6084516,
+    "seen": 1788503378.763695,
+    "ast_hash": "b1b9b6fb6fb45d3d3e4d0755460fdaf8",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-4/lectia-9/infografic.svg": {
+    "mtime": 1787767485.5982518,
+    "seen": 1788503378.763695,
+    "ast_hash": "2fe2eb2316e46862e25c35f905d8d5fa",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-5/lectia-10/schema.svg": {
+    "mtime": 1787764938.779898,
+    "seen": 1788503378.763695,
+    "ast_hash": "0148619e09db3d1971466f1891ea8f79",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-5/lectia-11/schema.svg": {
+    "mtime": 1787764943.725165,
+    "seen": 1788503378.763695,
+    "ast_hash": "6e5c8a520e4ebebb6baf72f2b805d59b",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-5/lectia-2/schema.svg": {
+    "mtime": 1787767491.6873207,
+    "seen": 1788503378.763695,
+    "ast_hash": "ad10210ca4455e15fc90eaabc33e586e",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-5/lectia-3/schema.svg": {
+    "mtime": 1787767498.209996,
+    "seen": 1788503378.763695,
+    "ast_hash": "346eea86c38e053c12dab03d7fc6a020",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-5/lectia-6/infografic.svg": {
+    "mtime": 1787767505.5643632,
+    "seen": 1788503378.763695,
+    "ast_hash": "50a3910d0ef89f9c41830dd43e53891d",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-6/lectia-11/schema.svg": {
+    "mtime": 1787767521.9930232,
+    "seen": 1788503378.763695,
+    "ast_hash": "af1d4a9488e21214fed08d606c60385f",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-6/lectia-12/schema.svg": {
+    "mtime": 1787765040.3953173,
+    "seen": 1788503378.763695,
+    "ast_hash": "e77e6d08b62ec4da78b76d97a21e1017",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-6/lectia-2/schema.svg": {
+    "mtime": 1787767516.5372136,
+    "seen": 1788503378.763695,
+    "ast_hash": "709109ef846cf585d66f8b314aef3a90",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-6/lectia-5/infografic.svg": {
+    "mtime": 1787767530.7331953,
+    "seen": 1788503378.763695,
+    "ast_hash": "308e992efdc57e0c05b88c77239054bb",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-6/lectia-6/infografic.svg": {
+    "mtime": 1787767535.688084,
+    "seen": 1788503378.763695,
+    "ast_hash": "0e969223ba0f186b81afd1e54d711a8d",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-5/unitatea-6/lectia-7/infografic.svg": {
+    "mtime": 1787767542.211136,
+    "seen": 1788503378.763695,
+    "ast_hash": "ee42ae67755cb229d4af3529577dc070",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-1/lectia-13/schema.svg": {
+    "mtime": 1787755014.8100605,
+    "seen": 1788503378.763695,
+    "ast_hash": "cc170f68d297fd0705dc1c552582c1fc",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-1/lectia-14/schema.svg": {
+    "mtime": 1787755026.2107317,
+    "seen": 1788503378.763695,
+    "ast_hash": "00f8ada49ee9ff413c2a33ca3df10c85",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-1/lectia-16/schema.svg": {
+    "mtime": 1787755038.650339,
+    "seen": 1788503378.763695,
+    "ast_hash": "e0481f431c1ab4188e581a37bbb5dcd9",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-1/lectia-2/schema.svg": {
+    "mtime": 1787754970.5058534,
+    "seen": 1788503378.763695,
+    "ast_hash": "7ed70553d37f7d2d43a547ce4906b845",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-1/lectia-3/schema.svg": {
+    "mtime": 1787754982.6102397,
+    "seen": 1788503378.763695,
+    "ast_hash": "5aff82f806c75f86c3a24f583590f7ae",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-1/lectia-6/schema.svg": {
+    "mtime": 1787754994.5803924,
+    "seen": 1788503378.763695,
+    "ast_hash": "76ecba489214e6755ca49b8a1e29142c",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-1/lectia-8/infografic.svg": {
+    "mtime": 1787755006.6666174,
+    "seen": 1788503378.763695,
+    "ast_hash": "49aee45f9f460010825089f04e0f3dc3",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-2/lectia-12/schema.svg": {
+    "mtime": 1787758943.8873975,
+    "seen": 1788503378.763695,
+    "ast_hash": "29ff8d4e0f252b47bd5cf7832154abb8",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-2/lectia-14/schema.svg": {
+    "mtime": 1787759013.034817,
+    "seen": 1788503378.763695,
+    "ast_hash": "2bba64cf6f6ebe39fe0a04aac8dece63",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-2/lectia-15/schema.svg": {
+    "mtime": 1787759021.1206903,
+    "seen": 1788503378.763695,
+    "ast_hash": "3f593b0463c5aed388cfe4852ac7016a",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-2/lectia-16/schema.svg": {
+    "mtime": 1787759032.1465275,
+    "seen": 1788503378.763695,
+    "ast_hash": "aac721032b59f9fc58fd7dfb54047604",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-2/lectia-17/schema.svg": {
+    "mtime": 1787759040.1940024,
+    "seen": 1788503378.763695,
+    "ast_hash": "4f47a1b55095f0e24b585f88b155f0c4",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-2/lectia-18/schema.svg": {
+    "mtime": 1787760604.1484084,
+    "seen": 1788503378.763695,
+    "ast_hash": "62c9626ce4872659c9600225939173e1",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-2/lectia-19/schema.svg": {
+    "mtime": 1787760610.9600122,
+    "seen": 1788503378.763695,
+    "ast_hash": "e45c8334308222e83fd53928907f40fa",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-2/lectia-3/schema.svg": {
+    "mtime": 1787758924.737195,
+    "seen": 1788503378.763695,
+    "ast_hash": "b9075b1a19464e8b1a47fe6306f837ff",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-2/lectia-4/schema.svg": {
+    "mtime": 1787758933.996638,
+    "seen": 1788503378.763695,
+    "ast_hash": "08f581e7ec99a81f3081caf3999caaba",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-2/lectia-8/infografic.svg": {
+    "mtime": 1787828126.1310904,
+    "seen": 1788503378.763695,
+    "ast_hash": "aac873b6072f831a5c1b5e972a5d27c0",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-3/lectia-10/infografic.svg": {
+    "mtime": 1787828126.1440835,
+    "seen": 1788503378.763695,
+    "ast_hash": "dd4465ad2805d5d0ccc02293c2c8750f",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-3/lectia-14/schema.svg": {
+    "mtime": 1787760741.6692884,
+    "seen": 1788503378.763695,
+    "ast_hash": "92581f4f20a2af04a77ab19c543e0eb4",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-3/lectia-15/schema.svg": {
+    "mtime": 1787760748.7725089,
+    "seen": 1788503378.763695,
+    "ast_hash": "f93753c139942cb0d71eb7af2e49ff8b",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-3/lectia-16/schema.svg": {
+    "mtime": 1787760755.930461,
+    "seen": 1788503378.763695,
+    "ast_hash": "2056ad679aa30abd4f5bc1efb184af58",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-3/lectia-17/schema.svg": {
+    "mtime": 1787760764.0753968,
+    "seen": 1788503378.763695,
+    "ast_hash": "e074825b8293e68bedd3f35e7e73ac96",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-3/lectia-18/schema.svg": {
+    "mtime": 1787760770.1033258,
+    "seen": 1788503378.763695,
+    "ast_hash": "8bdd010416285e1726b1ac2eab504034",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-3/lectia-19/schema.svg": {
+    "mtime": 1787760776.1056585,
+    "seen": 1788503378.763695,
+    "ast_hash": "dbb0b9a8be9220588978633c63939277",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-3/lectia-20/schema.svg": {
+    "mtime": 1787760781.7986567,
+    "seen": 1788503378.763695,
+    "ast_hash": "c29e9d5d1e391a9f5fbbf628540f5efa",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-3/lectia-3/schema.svg": {
+    "mtime": 1787760720.4319124,
+    "seen": 1788503378.763695,
+    "ast_hash": "185bfea2081b08fc916eb2709adc2258",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-3/lectia-4/schema.svg": {
+    "mtime": 1787760732.9729476,
+    "seen": 1788503378.763695,
+    "ast_hash": "90ddb2d6e2f4dc5ae4dd5c559d81cbaf",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-3/lectia-7/infografic.svg": {
+    "mtime": 1787828126.1359274,
+    "seen": 1788503378.763695,
+    "ast_hash": "97f577b8362c2c915448f1ef44455b4b",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-3/lectia-9/infografic.svg": {
+    "mtime": 1787828126.1400774,
+    "seen": 1788503378.763695,
+    "ast_hash": "683ab6357fc30f77c6a3017fcff6618c",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-4/lectia-10/schema.svg": {
+    "mtime": 1787761282.156581,
+    "seen": 1788503378.763695,
+    "ast_hash": "114ca193e42ef63eac25cf04d5d18a05",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-4/lectia-11/schema.svg": {
+    "mtime": 1787761289.8472116,
+    "seen": 1788503378.763695,
+    "ast_hash": "97e395bef8ca64d10f4edb8ec51918fd",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-4/lectia-13/schema.svg": {
+    "mtime": 1787761298.5182009,
+    "seen": 1788503378.763695,
+    "ast_hash": "aacc6a5903ec0a629e7aa6b8e5a41483",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-4/lectia-15/schema.svg": {
+    "mtime": 1787761306.1104152,
+    "seen": 1788503378.763695,
+    "ast_hash": "37cc0c19d52d03c0d118fb05270d5041",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-4/lectia-16/schema.svg": {
+    "mtime": 1787761313.7799067,
+    "seen": 1788503378.763695,
+    "ast_hash": "ffd2ef55181676be75ca361d17e4b292",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-4/lectia-19/schema.svg": {
+    "mtime": 1787761321.0691295,
+    "seen": 1788503378.763695,
+    "ast_hash": "86857205a71b375e713d338f0e0b73e0",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-4/lectia-2/schema.svg": {
+    "mtime": 1787761257.5756435,
+    "seen": 1788503378.763695,
+    "ast_hash": "842ad638a70f28fa362961999efdda33",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-4/lectia-3/schema.svg": {
+    "mtime": 1787761266.8695505,
+    "seen": 1788503378.763695,
+    "ast_hash": "c8ccaac7a6ec658c28bcc75eb242f962",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-4/lectia-8/infografic.svg": {
+    "mtime": 1787828126.1480863,
+    "seen": 1788503378.763695,
+    "ast_hash": "36d80c89dd9b6436c57f6d941288871b",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-5/lectia-10/infografic.svg": {
+    "mtime": 1787828126.1529346,
+    "seen": 1788503378.763695,
+    "ast_hash": "d5d19d1b822aedff81becea0da3b01a2",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-5/lectia-14/schema.svg": {
+    "mtime": 1787762366.705612,
+    "seen": 1788503378.763695,
+    "ast_hash": "bd8f272da6389b788e2399894870a16a",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-5/lectia-16/schema.svg": {
+    "mtime": 1787762374.415859,
+    "seen": 1788503378.763695,
+    "ast_hash": "78a183b893a6b43a3f209e8a3725dedd",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-5/lectia-18/schema.svg": {
+    "mtime": 1787762385.4853497,
+    "seen": 1788503378.763695,
+    "ast_hash": "3b7ae5f71610ae14325187968c408f6f",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-5/lectia-3/schema.svg": {
+    "mtime": 1787762337.6692133,
+    "seen": 1788503378.763695,
+    "ast_hash": "85a1fe5dbd20e359eb8824467c72f873",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-5/lectia-4/schema.svg": {
+    "mtime": 1787762347.492486,
+    "seen": 1788503378.763695,
+    "ast_hash": "cd6989811bd9a0c0081ffc3ec1829d7f",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-6/unitatea-5/lectia-8/schema.svg": {
+    "mtime": 1787762356.3143587,
+    "seen": 1788503378.763695,
+    "ast_hash": "ab2fd5aa30c6bcb812451fd24117ac92",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-1/lectia-10/schema.svg": {
+    "mtime": 1787770356.4209766,
+    "seen": 1788503378.763695,
+    "ast_hash": "fd269b26303d83c08da1cac5272e2f7b",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-1/lectia-11/schema.svg": {
+    "mtime": 1787770362.8532197,
+    "seen": 1788503378.763695,
+    "ast_hash": "f41134f1e7210b4c7f83a69432bf54a8",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-1/lectia-12/schema.svg": {
+    "mtime": 1787770369.9678137,
+    "seen": 1788503378.763695,
+    "ast_hash": "2601bd344a8beab905c73335727743d8",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-1/lectia-13/schema.svg": {
+    "mtime": 1787770375.6166146,
+    "seen": 1788503378.763695,
+    "ast_hash": "d876b2b728e439ea1a6f142837cd79d3",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-1/lectia-15/schema.svg": {
+    "mtime": 1787898624.475208,
+    "seen": 1788503378.763695,
+    "ast_hash": "b6474939691cd4332b719990ddf05953",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-1/lectia-16/schema.svg": {
+    "mtime": 1787898642.8798578,
+    "seen": 1788503378.763695,
+    "ast_hash": "ac1d1f2ab0514089a82666545f2f4866",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-1/lectia-5/infografic.svg": {
+    "mtime": 1787898591.9947772,
+    "seen": 1788503378.763695,
+    "ast_hash": "ff031137f0f1ee398201aa0766154b1c",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-1/lectia-7/infografic.svg": {
+    "mtime": 1787898608.3739693,
+    "seen": 1788503378.763695,
+    "ast_hash": "64cc36ab1a06f0249b117392e24d14f9",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-2/lectia-10/infografic.svg": {
+    "mtime": 1787898724.803221,
+    "seen": 1788503378.763695,
+    "ast_hash": "fa6b816a1be8cb8a02febd5e634626ba",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-2/lectia-13/schema.svg": {
+    "mtime": 1787772483.797223,
+    "seen": 1788503378.763695,
+    "ast_hash": "a85ebc55d252366739c289b61e8c93dc",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-2/lectia-15/schema.svg": {
+    "mtime": 1787898741.177083,
+    "seen": 1788503378.763695,
+    "ast_hash": "99efe888a8ca23c969e0b033cdb66d37",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-2/lectia-16/schema.svg": {
+    "mtime": 1787898755.5337982,
+    "seen": 1788503378.763695,
+    "ast_hash": "0aa4eccc9699a6632f3e5b35609fe274",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-2/lectia-17/schema.svg": {
+    "mtime": 1787898769.3617969,
+    "seen": 1788503378.763695,
+    "ast_hash": "bc7dfb148531c9907b771b1b7f811175",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-2/lectia-18/schema.svg": {
+    "mtime": 1787772489.2947502,
+    "seen": 1788503378.763695,
+    "ast_hash": "2180d3cc179c825e0c2c57d94bcb71be",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-2/lectia-20/schema.svg": {
+    "mtime": 1787772493.1939423,
+    "seen": 1788503378.763695,
+    "ast_hash": "b0d255d067a4ab4ec04e08d0c9d27d6a",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-2/lectia-9/infografic.svg": {
+    "mtime": 1787898711.0403068,
+    "seen": 1788503378.763695,
+    "ast_hash": "fe58ba7063a679f3865493482f3a92bc",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-3/lectia-10/infografic.svg": {
+    "mtime": 1787898892.1608162,
+    "seen": 1788503378.763695,
+    "ast_hash": "727f472ae4de2f3aae6ccb2e3dea5244",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-3/lectia-14/schema.svg": {
+    "mtime": 1787898909.405653,
+    "seen": 1788503378.763695,
+    "ast_hash": "1773d7bed2adfac57f0c3af3e30e84d9",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-3/lectia-15/schema.svg": {
+    "mtime": 1787772582.116462,
+    "seen": 1788503378.763695,
+    "ast_hash": "e384b25b6ae976aa7d5aad9f0f2944a2",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-3/lectia-16/schema.svg": {
+    "mtime": 1787898922.7366204,
+    "seen": 1788503378.763695,
+    "ast_hash": "2fd8ec6a61e77152a3a508ac4535b2a9",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-3/lectia-17/schema.svg": {
+    "mtime": 1787772587.7233677,
+    "seen": 1788503378.763695,
+    "ast_hash": "37ac3f0c8d1e9bf22f0a06da6842f3cc",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-3/lectia-18/schema.svg": {
+    "mtime": 1787898935.165345,
+    "seen": 1788503378.763695,
+    "ast_hash": "8c3f7a124178decbec70b8cb9599c578",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-3/lectia-3/schema.svg": {
+    "mtime": 1787898854.8763847,
+    "seen": 1788503378.763695,
+    "ast_hash": "73801307d71d5583f3e5db672700a8b1",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-3/lectia-6/schema.svg": {
+    "mtime": 1787772575.5641317,
+    "seen": 1788503378.763695,
+    "ast_hash": "2e6f0b50dfa31fad4d51483e6c716c23",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-3/lectia-9/infografic.svg": {
+    "mtime": 1787898874.8499992,
+    "seen": 1788503378.763695,
+    "ast_hash": "b8c9eb2aacfc52d5fb8d3cb194d94af6",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-4/lectia-11/schema.svg": {
+    "mtime": 1787772712.9588733,
+    "seen": 1788503378.763695,
+    "ast_hash": "c23cad29af03a34b0ce73fc488f561b2",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-4/lectia-12/schema.svg": {
+    "mtime": 1787897193.943706,
+    "seen": 1788503378.763695,
+    "ast_hash": "10cc4854bcd17fd07936f801dcd1b64f",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-4/lectia-13/schema.svg": {
+    "mtime": 1787897212.0624986,
+    "seen": 1788503378.763695,
+    "ast_hash": "b0ece6e4e4f6e13f880f29fe3db4ef58",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-4/lectia-14/schema.svg": {
+    "mtime": 1787897228.022081,
+    "seen": 1788503378.763695,
+    "ast_hash": "0ab98409241a6b5e8826cd3430bd2b27",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-4/lectia-15/schema.svg": {
+    "mtime": 1787897240.8858528,
+    "seen": 1788503378.763695,
+    "ast_hash": "9c384c707fcf607dc722b545e0e23e95",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-4/lectia-16/schema.svg": {
+    "mtime": 1787897260.6037757,
+    "seen": 1788503378.763695,
+    "ast_hash": "0d3174e0df19733f11353cd40cf42978",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-4/lectia-17/schema.svg": {
+    "mtime": 1787897273.4409046,
+    "seen": 1788503378.763695,
+    "ast_hash": "aec1ae1340e344427d16ea50efa48aa0",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-4/lectia-18/schema.svg": {
+    "mtime": 1787897287.9577506,
+    "seen": 1788503378.763695,
+    "ast_hash": "48e734e9ec52a9f08ba5d811b1767817",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-4/lectia-19/schema.svg": {
+    "mtime": 1787772717.8694935,
+    "seen": 1788503378.763695,
+    "ast_hash": "1ebf30407bc0a7c4ee8d7920248e0012",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-4/lectia-6/infografic.svg": {
+    "mtime": 1787772724.451208,
+    "seen": 1788503378.763695,
+    "ast_hash": "a3e7b66f89551091bd170fb8264ad6d0",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-4/lectia-8/infografic.svg": {
+    "mtime": 1787897312.7846975,
+    "seen": 1788503378.763695,
+    "ast_hash": "e1c5c40909653bf78af3bf046a77dbe3",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-5/lectia-14/schema.svg": {
+    "mtime": 1787772805.017753,
+    "seen": 1788503378.763695,
+    "ast_hash": "2b50270a6376e2ac0efb5ef8f304f5ed",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-5/lectia-15/schema.svg": {
+    "mtime": 1787772809.945793,
+    "seen": 1788503378.763695,
+    "ast_hash": "850cd496ed309c59d90540dc8c15f1c2",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-5/lectia-16/schema.svg": {
+    "mtime": 1787772815.7832947,
+    "seen": 1788503378.763695,
+    "ast_hash": "766efde1260fe1caee97340b9455c91d",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-7/unitatea-5/lectia-3/schema.svg": {
+    "mtime": 1787898971.0007513,
+    "seen": 1788503378.763695,
+    "ast_hash": "ff891f522550f422f7e96952cea47386",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-1/lectia-12/infografic.svg": {
+    "mtime": 1787925579.2440984,
+    "seen": 1788503378.763695,
+    "ast_hash": "b3dc4f1975ef663d8128d52e4198b1eb",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-1/lectia-14/schema.svg": {
+    "mtime": 1787925596.632127,
+    "seen": 1788503378.763695,
+    "ast_hash": "5e893a765283242bf7335ccec88bfe45",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-1/lectia-15/schema.svg": {
+    "mtime": 1787925615.2680416,
+    "seen": 1788503378.763695,
+    "ast_hash": "789f055894e919e107f332752bb24758",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-1/lectia-16/schema.svg": {
+    "mtime": 1787799546.4759855,
+    "seen": 1788503378.763695,
+    "ast_hash": "db2d9bdef966add78ab7de06cad4a968",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-1/lectia-17/schema.svg": {
+    "mtime": 1787925632.7601178,
+    "seen": 1788503378.763695,
+    "ast_hash": "e74c659f8d263972badfac33ce16ab24",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-1/lectia-18/schema.svg": {
+    "mtime": 1787925651.2844906,
+    "seen": 1788503378.763695,
+    "ast_hash": "cea3fd90800716b307c9f2dd44535fd4",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-2/lectia-10/schema.svg": {
+    "mtime": 1787925784.343945,
+    "seen": 1788503378.763695,
+    "ast_hash": "7bc36c0e4e629a797bb57f7d763dce1d",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-2/lectia-11/schema.svg": {
+    "mtime": 1787925801.0335064,
+    "seen": 1788503378.763695,
+    "ast_hash": "788d3923ad367a7d1211c2a376be703b",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-2/lectia-12/schema.svg": {
+    "mtime": 1787925817.1557875,
+    "seen": 1788503378.763695,
+    "ast_hash": "3e1ccc61cf3af09e71ea97c0ef9f6e64",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-2/lectia-13/schema.svg": {
+    "mtime": 1787925833.021304,
+    "seen": 1788503378.763695,
+    "ast_hash": "390a69b4358280b806a472929b2b3cf1",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-2/lectia-14/schema.svg": {
+    "mtime": 1787925848.3918269,
+    "seen": 1788503378.763695,
+    "ast_hash": "147b32faf9abf2e31ee65222f7418abe",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-2/lectia-15/schema.svg": {
+    "mtime": 1787799752.1311376,
+    "seen": 1788503378.763695,
+    "ast_hash": "745cbd632c5a79dbc39492d158f4d7de",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-2/lectia-7/infografic.svg": {
+    "mtime": 1787925753.432063,
+    "seen": 1788503378.763695,
+    "ast_hash": "afb89264b61a57755c7509f01350ac35",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-2/lectia-9/schema.svg": {
+    "mtime": 1787925768.0335078,
+    "seen": 1788503378.763695,
+    "ast_hash": "cbeebd354beac48bb9671669447b4cd6",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-3/lectia-12/schema.svg": {
+    "mtime": 1787799865.0020978,
+    "seen": 1788503378.763695,
+    "ast_hash": "9d8b9185f6e9d062c6f2e5fd593ee1f0",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-3/lectia-13/schema.svg": {
+    "mtime": 1787925918.722937,
+    "seen": 1788503378.763695,
+    "ast_hash": "ee0e65f1a54beadcf7c3749123db41c7",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-3/lectia-14/schema.svg": {
+    "mtime": 1787925933.9379673,
+    "seen": 1788503378.763695,
+    "ast_hash": "4ddd27e4dce60ad3c28b8f5e1d6d7aab",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-3/lectia-16/schema.svg": {
+    "mtime": 1787925947.303168,
+    "seen": 1788503378.763695,
+    "ast_hash": "8cbb039e67545903da113eaface3f6e4",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-3/lectia-18/schema.svg": {
+    "mtime": 1787925961.0370092,
+    "seen": 1788503378.763695,
+    "ast_hash": "fe759ed2d6561e1e213e1f3141a3a50e",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-4/lectia-10/schema.svg": {
+    "mtime": 1787926031.9476678,
+    "seen": 1788503378.763695,
+    "ast_hash": "0737637123c73c2fafd63f751dd264ff",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-4/lectia-11/schema.svg": {
+    "mtime": 1787926046.6239848,
+    "seen": 1788503378.763695,
+    "ast_hash": "84a269ed94297114abd2ffc548fd1f06",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-4/lectia-12/schema.svg": {
+    "mtime": 1787926060.919331,
+    "seen": 1788503378.763695,
+    "ast_hash": "f211ab16932003e7c7b7e9dcc61679d6",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-4/lectia-13/schema.svg": {
+    "mtime": 1787800015.2546701,
+    "seen": 1788503378.763695,
+    "ast_hash": "e2990c70fe243f20adf42c0e6dfa6ae6",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-4/lectia-14/schema.svg": {
+    "mtime": 1787926073.7005036,
+    "seen": 1788503378.763695,
+    "ast_hash": "0ecb3bb484d0ffbc8c0d5ca2c7a40b33",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-4/lectia-15/schema.svg": {
+    "mtime": 1787926088.6851368,
+    "seen": 1788503378.763695,
+    "ast_hash": "6e4077ee286862082ff150a79ff8abc4",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-5/lectia-11/schema.svg": {
+    "mtime": 1787926176.6253211,
+    "seen": 1788503378.763695,
+    "ast_hash": "fd64ae264e6d6786ffaf81ccb3bf9d3c",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-5/lectia-12/schema.svg": {
+    "mtime": 1787926190.7400324,
+    "seen": 1788503378.763695,
+    "ast_hash": "eedf8c9d59cda8e27d1b87facf6cd66f",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-5/lectia-13/schema.svg": {
+    "mtime": 1787926204.4587176,
+    "seen": 1788503378.763695,
+    "ast_hash": "e2be1a59550044aa774d38b54ffe424c",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-5/lectia-14/schema.svg": {
+    "mtime": 1787926219.2335932,
+    "seen": 1788503378.763695,
+    "ast_hash": "e6da4e3c16dc3237b5cb9976206c000e",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-5/lectia-15/schema.svg": {
+    "mtime": 1787800067.780786,
+    "seen": 1788503378.763695,
+    "ast_hash": "7b115ad0b33d3595787aca66982a5f7c",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-5/lectia-16/schema.svg": {
+    "mtime": 1787926235.6539369,
+    "seen": 1788503378.763695,
+    "ast_hash": "cc805166e17c14cde756cfa6bf5171ba",
+    "semantic_hash": ""
+  },
+  "public/materiale/clasa-8/unitatea-5/lectia-8/infografic.svg": {
+    "mtime": 1787926162.4664507,
+    "seen": 1788503378.763695,
+    "ast_hash": "2ae465e137599b3471878edd9b7a4664",
+    "semantic_hash": ""
   }
 }
