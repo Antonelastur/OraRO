@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 390" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="940" height="390" fill="#faf7f0"/>
+  <text x="470" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Elipsa și semnul care o marchează</text>
+  <text x="470" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 17 · Enunțuri eliptice. Norme de punctuație</text>
+  <rect x="36" y="100" width="420" height="132" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
+  <text x="56" y="130" font-size="14" font-weight="700" fill="#10233f">Elipsa verbală</text>
+  <text x="56" y="156" font-size="12" fill="#3d4a5f">Lipsește predicatul, dar se</text>
+  <text x="56" y="176" font-size="12" fill="#3d4a5f">înțelege din ce s-a spus înainte.</text>
+  <text x="56" y="196" font-size="12" fill="#3d4a5f"></text>
+  <text x="56" y="216" font-size="12" fill="#3d4a5f">Eu am fost în parc, tu, la film.</text>
+  <rect x="484" y="100" width="420" height="132" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
+  <text x="504" y="130" font-size="14" font-weight="700" fill="#10233f">Elipsa nominală</text>
+  <text x="504" y="156" font-size="12" fill="#3d4a5f">Lipsește un substantiv,</text>
+  <text x="504" y="176" font-size="12" fill="#3d4a5f">recuperabil din context.</text>
+  <text x="504" y="196" font-size="12" fill="#3d4a5f"></text>
+  <text x="504" y="216" font-size="12" fill="#3d4a5f">Unde mergi? La școală.</text>
+  <rect x="36" y="256" width="868" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="58" y="281" font-size="13" font-weight="700" fill="#10233f">Semnul care marchează lipsa</text>
+  <text x="58" y="301" font-size="12" fill="#3d4a5f">virgula, cel mai des, sau linia de pauză când vrem accent. Nu se lasă loc gol fără niciun semn.</text>
+  <rect x="36" y="320" width="868" height="56" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
+  <text x="58" y="345" font-size="13" font-weight="700" fill="#10233f">De ce vorbim eliptic</text>
+  <text x="58" y="365" font-size="12" fill="#3d4a5f">ca să nu repetăm ce se știe deja. E economie, nu neglijență, atâta timp cât sensul rămâne clar.</text>
+</svg>

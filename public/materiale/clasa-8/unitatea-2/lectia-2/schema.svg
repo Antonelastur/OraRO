@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="960" height="400" fill="#faf7f0"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cum e construit un text dramatic</text>
+  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 2 · Textul dramatic. Structuri textuale</text>
+  <rect x="36" y="100" width="216" height="150" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
+  <text x="56" y="130" font-size="14" font-weight="700" fill="#10233f">Actul</text>
+  <text x="56" y="156" font-size="12" fill="#3d4a5f">Diviziunea mare a piesei.</text>
+  <text x="56" y="176" font-size="12" fill="#3d4a5f"></text>
+  <text x="56" y="196" font-size="12" fill="#3d4a5f">Se schimbă decorul</text>
+  <text x="56" y="216" font-size="12" fill="#3d4a5f">sau trece timpul.</text>
+  <rect x="268" y="100" width="216" height="150" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
+  <text x="288" y="130" font-size="14" font-weight="700" fill="#10233f">Scena</text>
+  <text x="288" y="156" font-size="12" fill="#3d4a5f">Diviziunea din act.</text>
+  <text x="288" y="176" font-size="12" fill="#3d4a5f"></text>
+  <text x="288" y="196" font-size="12" fill="#3d4a5f">Se schimbă cine</text>
+  <text x="288" y="216" font-size="12" fill="#3d4a5f">e pe scenă.</text>
+  <rect x="500" y="100" width="216" height="150" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
+  <text x="520" y="130" font-size="14" font-weight="700" fill="#10233f">Replica</text>
+  <text x="520" y="156" font-size="12" fill="#3d4a5f">Ce spune un personaj.</text>
+  <text x="520" y="176" font-size="12" fill="#3d4a5f"></text>
+  <text x="520" y="196" font-size="12" fill="#3d4a5f">Precedată de numele</text>
+  <text x="520" y="216" font-size="12" fill="#3d4a5f">lui, cu două puncte.</text>
+  <rect x="732" y="100" width="192" height="150" rx="16" fill="#ffffff" stroke="#b0512f" stroke-width="2.5"/>
+  <text x="752" y="130" font-size="14" font-weight="700" fill="#10233f">Indicația scenică</text>
+  <text x="752" y="156" font-size="12" fill="#3d4a5f">Ce face, cum spune,</text>
+  <text x="752" y="176" font-size="12" fill="#3d4a5f">ce se vede.</text>
+  <text x="752" y="196" font-size="12" fill="#3d4a5f"></text>
+  <text x="752" y="216" font-size="12" fill="#3d4a5f">Nu se rostește.</text>
+  <rect x="36" y="274" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="58" y="299" font-size="13" font-weight="700" fill="#10233f">Ce lipsește, față de textul epic</text>
+  <text x="58" y="319" font-size="12" fill="#3d4a5f">nu există narator. Nimeni nu povestește: totul se află din ce spun și ce fac personajele.</text>
+  <rect x="36" y="342" width="888" height="56" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
+  <text x="58" y="367" font-size="13" font-weight="700" fill="#10233f">De ce contează indicațiile scenice</text>
+  <text x="58" y="387" font-size="12" fill="#3d4a5f">ele poartă informația pe care, într-un roman, ar da-o naratorul.</text>
+</svg>

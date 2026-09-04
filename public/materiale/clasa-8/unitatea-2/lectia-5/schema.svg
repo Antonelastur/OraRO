@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="940" height="400" fill="#faf7f0"/>
+  <text x="470" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cum e construită o cronică de spectacol</text>
+  <text x="470" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 5 · Textul nonliterar</text>
+  <rect x="36" y="100" width="272" height="148" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
+  <text x="56" y="130" font-size="14" font-weight="700" fill="#10233f">Prezentarea</text>
+  <text x="56" y="156" font-size="12" fill="#3d4a5f">ce spectacol, unde,</text>
+  <text x="56" y="176" font-size="12" fill="#3d4a5f">cine a regizat,</text>
+  <text x="56" y="196" font-size="12" fill="#3d4a5f">cine joacă</text>
+  <path d="M310 174 L328 174" stroke="#b8944f" stroke-width="3"/>
+  <path d="M322 167 L330 174 L322 181 Z" fill="#b8944f"/>
+  <rect x="332" y="100" width="272" height="148" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
+  <text x="352" y="130" font-size="14" font-weight="700" fill="#10233f">Analiza</text>
+  <text x="352" y="156" font-size="12" fill="#3d4a5f">jocul actorilor,</text>
+  <text x="352" y="176" font-size="12" fill="#3d4a5f">decorul, lumina,</text>
+  <text x="352" y="196" font-size="12" fill="#3d4a5f">muzica, ritmul</text>
+  <path d="M606 174 L624 174" stroke="#b8944f" stroke-width="3"/>
+  <path d="M618 167 L626 174 L618 181 Z" fill="#b8944f"/>
+  <rect x="628" y="100" width="272" height="148" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
+  <text x="648" y="130" font-size="14" font-weight="700" fill="#10233f">Opinia argumentată</text>
+  <text x="648" y="156" font-size="12" fill="#3d4a5f">ce a mers, ce nu,</text>
+  <text x="648" y="176" font-size="12" fill="#3d4a5f">de ce merită</text>
+  <text x="648" y="196" font-size="12" fill="#3d4a5f">sau nu văzut</text>
+  <rect x="36" y="272" width="868" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="58" y="297" font-size="13" font-weight="700" fill="#10233f">E un text de opinie, deci subiectiv</text>
+  <text x="58" y="317" font-size="12" fill="#3d4a5f">autorul are voie să nu-i placă. Are însă obligația să spună de ce, cu argumente din spectacol.</text>
+  <rect x="36" y="336" width="868" height="56" rx="14" fill="#ffffff" stroke="#c1503a" stroke-width="2"/>
+  <text x="58" y="361" font-size="13" font-weight="700" fill="#10233f">Ce NU face o cronică</text>
+  <text x="58" y="381" font-size="12" fill="#3d4a5f">nu povestește tot și nu dezvăluie finalul. Ar strica exact ce recomandă.</text>
+</svg>

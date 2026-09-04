@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="960" height="400" fill="#faf7f0"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cronica de film, ce conține și ce nu</text>
+  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 18 · Redactare și etica redactării</text>
+  <rect x="36" y="100" width="432" height="228" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
+  <text x="60" y="132" font-size="15" font-weight="700" fill="#1c7f5e">CE INTRĂ</text>
+  <circle cx="70" cy="166" r="6" fill="#1c7f5e"/>
+  <text x="88" y="171" font-size="12.5" fill="#3d4a5f">Titlu, regizor, an</text>
+  <circle cx="70" cy="200" r="6" fill="#1c7f5e"/>
+  <text x="88" y="205" font-size="12.5" fill="#3d4a5f">Subiectul, fără final</text>
+  <circle cx="70" cy="234" r="6" fill="#1c7f5e"/>
+  <text x="88" y="239" font-size="12.5" fill="#3d4a5f">Jocul actorilor</text>
+  <circle cx="70" cy="268" r="6" fill="#1c7f5e"/>
+  <text x="88" y="273" font-size="12.5" fill="#3d4a5f">Imagine, sunet, ritm</text>
+  <circle cx="70" cy="302" r="6" fill="#1c7f5e"/>
+  <text x="88" y="307" font-size="12.5" fill="#3d4a5f">Părerea mea, argumentată</text>
+  <rect x="492" y="100" width="432" height="228" rx="16" fill="#ffffff" stroke="#c1503a" stroke-width="2.5"/>
+  <text x="516" y="132" font-size="15" font-weight="700" fill="#c1503a">CE NU INTRĂ</text>
+  <circle cx="526" cy="166" r="6" fill="#c1503a"/>
+  <text x="544" y="171" font-size="12.5" fill="#3d4a5f">Rezumatul complet</text>
+  <circle cx="526" cy="200" r="6" fill="#c1503a"/>
+  <text x="544" y="205" font-size="12.5" fill="#3d4a5f">Punctul culminant dezvăluit</text>
+  <circle cx="526" cy="234" r="6" fill="#c1503a"/>
+  <text x="544" y="239" font-size="12.5" fill="#3d4a5f">Opinii preluate fără sursă</text>
+  <circle cx="526" cy="268" r="6" fill="#c1503a"/>
+  <text x="544" y="273" font-size="12.5" fill="#3d4a5f">Atac la persoană</text>
+  <circle cx="526" cy="302" r="6" fill="#c1503a"/>
+  <text x="544" y="307" font-size="12.5" fill="#3d4a5f">Text copiat de altundeva</text>
+  <rect x="36" y="344" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="58" y="369" font-size="13" font-weight="700" fill="#10233f">Etica redactării</text>
+  <text x="58" y="389" font-size="12" fill="#3d4a5f">orice idee preluată de la altcineva se pune între ghilimele, cu sursa. Fără asta, e plagiat, oricât de scurt ar fi.</text>
+</svg>

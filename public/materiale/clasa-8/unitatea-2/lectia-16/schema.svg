@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="960" height="420" fill="#faf7f0"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Coordonare și subordonare, față în față</text>
+  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 16 · Fraza</text>
+  <rect x="36" y="100" width="432" height="230" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
+  <text x="58" y="132" font-size="15" font-weight="700" fill="#3b5fa8">COORDONARE</text>
+  <text x="58" y="160" font-size="12.5" fill="#3d4a5f">Propoziții egale, niciuna nu depinde</text>
+  <text x="58" y="180" font-size="12.5" fill="#3d4a5f">de cealaltă.</text>
+  <text x="58" y="212" font-size="13" font-weight="700" fill="#10233f">Cum se leagă</text>
+  <text x="58" y="236" font-size="11.5" fill="#3d4a5f">și, nici — copulativ</text>
+  <text x="58" y="255" font-size="11.5" fill="#3d4a5f">dar, iar, însă, ci — adversativ</text>
+  <text x="58" y="274" font-size="11.5" fill="#3d4a5f">sau, ori, fie — disjunctiv</text>
+  <text x="58" y="293" font-size="11.5" fill="#3d4a5f">deci, așadar — concluziv</text>
+  <text x="58" y="312" font-size="11.5" fill="#3d4a5f">sau doar prin virgulă — juxtapunere</text>
+  <rect x="492" y="100" width="432" height="230" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
+  <text x="514" y="132" font-size="15" font-weight="700" fill="#a1417e">SUBORDONARE</text>
+  <text x="514" y="160" font-size="12.5" fill="#3d4a5f">Una depinde de cealaltă. Fără regentă,</text>
+  <text x="514" y="180" font-size="12.5" fill="#3d4a5f">subordonata nu se înțelege.</text>
+  <text x="514" y="212" font-size="13" font-weight="700" fill="#10233f">Cum se leagă</text>
+  <text x="514" y="236" font-size="11.5" fill="#3d4a5f">că, să, dacă — conjuncții</text>
+  <text x="514" y="255" font-size="11.5" fill="#3d4a5f">care, cine, ce — pronume relative</text>
+  <text x="514" y="274" font-size="11.5" fill="#3d4a5f">unde, când, cum — adverbe relative</text>
+  <text x="514" y="293" font-size="11.5" fill="#3d4a5f">pentru că, de vreme ce — locuțiuni</text>
+  <text x="514" y="312" font-size="11.5" fill="#3d4a5f">niciodată doar prin virgulă</text>
+  <rect x="36" y="348" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="58" y="373" font-size="13" font-weight="700" fill="#10233f">Proba sigură</text>
+  <text x="58" y="393" font-size="12" fill="#3d4a5f">acoperă o propoziție cu degetul. Dacă cealaltă se înțelege singură, e coordonare. Dacă rămâne în aer, e subordonare.</text>
+</svg>

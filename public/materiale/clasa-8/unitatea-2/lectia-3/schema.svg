@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="960" height="380" fill="#faf7f0"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Timpul, spațiul, acțiunea, personajele</text>
+  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 3 · Take, Ianke și Cadâr</text>
+  <rect x="36" y="100" width="290" height="140" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
+  <text x="56" y="130" font-size="14" font-weight="700" fill="#10233f">Unde și când</text>
+  <text x="56" y="156" font-size="12" fill="#3d4a5f">Un târg de provincie,</text>
+  <text x="56" y="176" font-size="12" fill="#3d4a5f">la începutul secolului XX.</text>
+  <text x="56" y="196" font-size="12" fill="#3d4a5f"></text>
+  <text x="56" y="216" font-size="12" fill="#3d4a5f">Spațiu închis: prăvăliile.</text>
+  <rect x="340" y="100" width="290" height="140" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
+  <text x="360" y="130" font-size="14" font-weight="700" fill="#10233f">Ce se întâmplă</text>
+  <text x="360" y="156" font-size="12" fill="#3d4a5f">Cei trei se ceartă,</text>
+  <text x="360" y="176" font-size="12" fill="#3d4a5f">se împacă, se ajută.</text>
+  <text x="360" y="196" font-size="12" fill="#3d4a5f"></text>
+  <text x="360" y="216" font-size="12" fill="#3d4a5f">Conflictul e mărunt,</text>
+  <text x="360" y="236" font-size="12" fill="#3d4a5f">relația e adâncă.</text>
+  <rect x="644" y="100" width="280" height="140" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
+  <text x="664" y="130" font-size="14" font-weight="700" fill="#10233f">Cine</text>
+  <text x="664" y="156" font-size="12" fill="#3d4a5f">Take, român.</text>
+  <text x="664" y="176" font-size="12" fill="#3d4a5f">Ianke, evreu.</text>
+  <text x="664" y="196" font-size="12" fill="#3d4a5f">Cadâr, turc.</text>
+  <text x="664" y="216" font-size="12" fill="#3d4a5f"></text>
+  <text x="664" y="236" font-size="12" fill="#3d4a5f">Trei credințe, un târg.</text>
+  <rect x="36" y="264" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="58" y="289" font-size="13" font-weight="700" fill="#10233f">Cum caracterizezi un personaj dramatic</text>
+  <text x="58" y="309" font-size="12" fill="#3d4a5f">doar din replici și din indicații scenice. Nu ai narator care să îți spună cum e.</text>
+  <rect x="36" y="328" width="888" height="56" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
+  <text x="58" y="353" font-size="13" font-weight="700" fill="#10233f">Atenție</text>
+  <text x="58" y="373" font-size="12" fill="#3d4a5f">ce spune un personaj despre altul e părerea lui, nu adevărul. Compară cu faptele.</text>
+</svg>

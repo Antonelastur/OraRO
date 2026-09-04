@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 450" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="1000" height="450" fill="#faf7f0"/>
+  <text x="500" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Toate construcțiile din unitate, la un loc</text>
+  <text x="500" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 21 · Recapitulare, limbă română</text>
+  <rect x="36" y="100" width="160" height="50" rx="12" fill="#3b5fa8"/>
+  <text x="116" y="131" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">Activă</text>
+  <rect x="208" y="100" width="392" height="50" rx="12" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="228" y="131" font-size="14" fill="#10233f">Elevii citesc piesa.</text>
+  <rect x="612" y="100" width="352" height="50" rx="12" fill="#fef8e9" stroke="#b8944f" stroke-width="1.5"/>
+  <text x="632" y="131" font-size="12.5" fill="#3d4a5f">subiectul face acțiunea</text>
+  <rect x="36" y="162" width="160" height="50" rx="12" fill="#a1417e"/>
+  <text x="116" y="193" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">Pasivă</text>
+  <rect x="208" y="162" width="392" height="50" rx="12" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="228" y="193" font-size="14" fill="#10233f">Piesa e citită de elevi.</text>
+  <rect x="612" y="162" width="352" height="50" rx="12" fill="#fef8e9" stroke="#b8944f" stroke-width="1.5"/>
+  <text x="632" y="193" font-size="12.5" fill="#3d4a5f">subiectul o primește</text>
+  <rect x="36" y="224" width="160" height="50" rx="12" fill="#1c7f5e"/>
+  <text x="116" y="255" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">Reflexivă</text>
+  <rect x="208" y="224" width="392" height="50" rx="12" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="228" y="255" font-size="14" fill="#10233f">Elevii se pregătesc.</text>
+  <rect x="612" y="224" width="352" height="50" rx="12" fill="#fef8e9" stroke="#b8944f" stroke-width="1.5"/>
+  <text x="632" y="255" font-size="12.5" fill="#3d4a5f">acțiunea se întoarce</text>
+  <rect x="36" y="286" width="160" height="50" rx="12" fill="#b0512f"/>
+  <text x="116" y="317" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">Impersonală</text>
+  <rect x="208" y="286" width="392" height="50" rx="12" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="228" y="317" font-size="14" fill="#10233f">Se spune că vine.</text>
+  <rect x="612" y="286" width="352" height="50" rx="12" fill="#fef8e9" stroke="#b8944f" stroke-width="1.5"/>
+  <text x="632" y="317" font-size="12.5" fill="#3d4a5f">nu se știe cine</text>
+  <rect x="36" y="348" width="160" height="50" rx="12" fill="#6f5ea8"/>
+  <text x="116" y="379" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">Incidentă</text>
+  <rect x="208" y="348" width="392" height="50" rx="12" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="228" y="379" font-size="14" fill="#10233f">Take, cred, are dreptate.</text>
+  <rect x="612" y="348" width="352" height="50" rx="12" fill="#fef8e9" stroke="#b8944f" stroke-width="1.5"/>
+  <text x="632" y="379" font-size="12.5" fill="#3d4a5f">fără funcție sintactică</text>
+  <rect x="36" y="418" width="928" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="58" y="443" font-size="13" font-weight="700" fill="#10233f">Fraza</text>
+  <text x="58" y="463" font-size="12" fill="#3d4a5f">numeri predicatele ca să afli câte propoziții ai. Apoi verifici: se înțeleg separat, e coordonare; una atârnă de alta, e subordonare.</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 440" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="960" height="440" fill="#faf7f0"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Patru feluri de a reacționa, unul singur asertiv</text>
+  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 8 · Atitudini comunicative</text>
+  <rect x="36" y="100" width="432" height="126" rx="16" fill="#ffffff" stroke="#846b36" stroke-width="2.5"/>
+  <text x="58" y="132" font-size="15" font-weight="700" fill="#846b36">PASIV</text>
+  <text x="58" y="162" font-size="12.5" fill="#3d4a5f">Nu spun ce vreau, ca să nu supăr.</text>
+  <text x="58" y="192" font-size="12" font-style="italic" fill="#5b6b83">Ceilalți contează, eu nu.</text>
+  <rect x="492" y="100" width="432" height="126" rx="16" fill="#ffffff" stroke="#c1503a" stroke-width="2.5"/>
+  <text x="514" y="132" font-size="15" font-weight="700" fill="#c1503a">AGRESIV</text>
+  <text x="514" y="162" font-size="12.5" fill="#3d4a5f">Îmi impun dorința, indiferent de ceilalți.</text>
+  <text x="514" y="192" font-size="12" font-style="italic" fill="#5b6b83">Eu contez, ceilalți nu.</text>
+  <rect x="36" y="246" width="432" height="126" rx="16" fill="#ffffff" stroke="#6f5ea8" stroke-width="2.5"/>
+  <text x="58" y="278" font-size="15" font-weight="700" fill="#6f5ea8">MANIPULATOR</text>
+  <text x="58" y="308" font-size="12.5" fill="#3d4a5f">Nu cer direct, dar te fac să te simți vinovat.</text>
+  <text x="58" y="338" font-size="12" font-style="italic" fill="#5b6b83">Par că nu contez, dar obțin ce vreau.</text>
+  <rect x="492" y="246" width="432" height="126" rx="16" fill="#fef8e9" stroke="#1c7f5e" stroke-width="3.5"/>
+  <text x="514" y="278" font-size="15" font-weight="700" fill="#1c7f5e">ASERTIV</text>
+  <text x="514" y="308" font-size="12.5" fill="#3d4a5f">Spun clar și calm ce vreau, fără să te calc.</text>
+  <text x="514" y="338" font-size="12" font-style="italic" fill="#5b6b83">Contăm amândoi, în egală măsură.</text>
+  <rect x="36" y="390" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="58" y="415" font-size="13" font-weight="700" fill="#10233f">Cum sună asertiv</text>
+  <text x="58" y="435" font-size="12" fill="#3d4a5f">Nu pot sâmbătă, dar aș vrea să ne vedem. Ce zici de duminică? Spun ce nu merge, spun ce vreau, las loc de răspuns.</text>
+</svg>
