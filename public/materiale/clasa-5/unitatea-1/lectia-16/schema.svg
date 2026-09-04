@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 430" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="960" height="430" fill="#faf7f0"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Scriu, apoi îmi recitesc textul</text>
+  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 16 · Redactarea și revizuirea textului</text>
+
+  <text x="60" y="112" font-size="14" font-weight="700" fill="#1c7f5e">1. STRUCTURA TEXTULUI</text>
+  <g>
+    <rect x="60" y="126" width="380" height="58" rx="12" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
+    <text x="82" y="150" font-size="14" font-weight="700" fill="#10233f">Introducere</text>
+    <text x="82" y="171" font-size="12" fill="#3d4a5f">Când și unde s-a întâmplat. Cine era acolo.</text>
+  </g>
+  <g>
+    <rect x="60" y="192" width="380" height="58" rx="12" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
+    <text x="82" y="216" font-size="14" font-weight="700" fill="#10233f">Cuprins</text>
+    <text x="82" y="237" font-size="12" fill="#3d4a5f">Întâmplarea, pas cu pas. Partea cea mai lungă.</text>
+  </g>
+  <g>
+    <rect x="60" y="258" width="380" height="58" rx="12" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
+    <text x="82" y="282" font-size="14" font-weight="700" fill="#10233f">Încheiere</text>
+    <text x="82" y="303" font-size="12" fill="#3d4a5f">Cum s-a terminat. Ce am simțit sau ce am învățat.</text>
+  </g>
+  <text x="60" y="340" font-size="12" font-style="italic" fill="#5b6b83">Un paragraf nou la fiecare idee nouă, cu alineat.</text>
+
+  <text x="520" y="112" font-size="14" font-weight="700" fill="#a1417e">2. LISTA DE CONTROL</text>
+  <rect x="520" y="126" width="380" height="190" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
+  <g fill="#3d4a5f" font-size="12.5">
+    <rect x="542" y="146" width="14" height="14" rx="3" fill="none" stroke="#a1417e" stroke-width="2"/>
+    <text x="566" y="158">Se înțelege de la prima citire?</text>
+    <rect x="542" y="176" width="14" height="14" rx="3" fill="none" stroke="#a1417e" stroke-width="2"/>
+    <text x="566" y="188">Are introducere, cuprins și încheiere?</text>
+    <rect x="542" y="206" width="14" height="14" rx="3" fill="none" stroke="#a1417e" stroke-width="2"/>
+    <text x="566" y="218">Am repetat același cuvânt de prea multe ori?</text>
+    <rect x="542" y="236" width="14" height="14" rx="3" fill="none" stroke="#a1417e" stroke-width="2"/>
+    <text x="566" y="248">Punctele și majusculele sunt la locul lor?</text>
+    <rect x="542" y="266" width="14" height="14" rx="3" fill="none" stroke="#a1417e" stroke-width="2"/>
+    <text x="566" y="278">Diacriticele sunt scrise peste tot?</text>
+  </g>
+  <text x="520" y="340" font-size="12" font-style="italic" fill="#5b6b83">Revizuiesc singur, apoi schimb foaia cu colegul de bancă.</text>
+
+  <rect x="60" y="362" width="840" height="48" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="84" y="391" font-size="13" fill="#3d4a5f"><tspan font-weight="700" fill="#10233f">A revizui</tspan> înseamnă să schimb ce spun. <tspan font-weight="700" fill="#10233f">A edita</tspan> înseamnă să îndrept cum am scris. Întâi revizuiesc, abia apoi editez.</text>
+</svg>

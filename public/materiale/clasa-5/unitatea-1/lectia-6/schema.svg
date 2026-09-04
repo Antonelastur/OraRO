@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="960" height="420" fill="#faf7f0"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Două texte, aceeași descoperire</text>
+  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 6 · Text auxiliar, „Hronicul și cântecul vârstelor” de Lucian Blaga</text>
+
+  <g>
+    <rect x="40" y="104" width="380" height="212" rx="18" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
+    <rect x="40" y="104" width="380" height="42" rx="18" fill="#3b5fa8"/>
+    <rect x="40" y="132" width="380" height="14" fill="#3b5fa8"/>
+    <text x="230" y="132" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">„Prietenul meu”, Ioana Pârvulescu</text>
+    <text x="64" y="182" font-size="13" font-weight="700" fill="#10233f">Cine descoperă</text>
+    <text x="210" y="182" font-size="13" fill="#3d4a5f">o fetiță, în oraș</text>
+    <text x="64" y="214" font-size="13" font-weight="700" fill="#10233f">Ce descoperă</text>
+    <text x="210" y="214" font-size="13" fill="#3d4a5f">ce înseamnă un prieten</text>
+    <text x="64" y="246" font-size="13" font-weight="700" fill="#10233f">Cu cine împarte</text>
+    <text x="210" y="246" font-size="13" fill="#3d4a5f">cu cititorul, direct</text>
+    <text x="64" y="278" font-size="13" font-weight="700" fill="#10233f">Cum se simte</text>
+    <text x="210" y="278" font-size="13" fill="#3d4a5f">bucurie, apropiere</text>
+  </g>
+
+  <g>
+    <rect x="540" y="104" width="380" height="212" rx="18" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
+    <rect x="540" y="104" width="380" height="42" rx="18" fill="#a1417e"/>
+    <rect x="540" y="132" width="380" height="14" fill="#a1417e"/>
+    <text x="730" y="132" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">„Hronicul...”, Lucian Blaga</text>
+    <text x="564" y="182" font-size="13" font-weight="700" fill="#10233f">Cine descoperă</text>
+    <text x="710" y="182" font-size="13" fill="#3d4a5f">Lulu, în satul natal</text>
+    <text x="564" y="214" font-size="13" font-weight="700" fill="#10233f">Ce descoperă</text>
+    <text x="710" y="214" font-size="13" fill="#3d4a5f">că cerul îl urmărește</text>
+    <text x="564" y="246" font-size="13" font-weight="700" fill="#10233f">Cu cine împarte</text>
+    <text x="710" y="246" font-size="13" fill="#3d4a5f">cu Adam al Vicii, în secret</text>
+    <text x="564" y="278" font-size="13" font-weight="700" fill="#10233f">Cum se simte</text>
+    <text x="710" y="278" font-size="13" fill="#3d4a5f">mirare, apoi nedumerire</text>
+  </g>
+
+  <circle cx="480" cy="210" r="52" fill="#fef8e9" stroke="#b8944f" stroke-width="3"/>
+  <text x="480" y="200" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">CE AU</text>
+  <text x="480" y="220" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">ÎN COMUN</text>
+  <path d="M424 210 L426 210" stroke="#b8944f" stroke-width="3"/>
+  <path d="M420 210 L432 210 M528 210 L540 210" stroke="#b8944f" stroke-width="3"/>
+
+  <rect x="40" y="336" width="880" height="60" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
+  <text x="64" y="362" font-size="13" font-weight="700" fill="#10233f">Amândouă textele:</text>
+  <text x="212" y="362" font-size="13" fill="#3d4a5f">un copil face o descoperire despre lume și simte nevoia să o împartă cu cineva.</text>
+  <text x="64" y="383" font-size="12" font-style="italic" fill="#5b6b83">Aceeași temă, două lumi diferite. Așa comparăm două texte: pe puncte, nu în general.</text>
+</svg>

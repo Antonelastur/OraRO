@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="960" height="400" fill="#faf7f0"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cinci pași pentru un text citit prima dată</text>
+  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 17 · Recapitulare, citire și comprehensiune</text>
+
+  <line x1="88" y1="215" x2="872" y2="215" stroke="#6f5ea8" stroke-width="3"/>
+
+  <g>
+    <circle cx="128" cy="215" r="26" fill="#6f5ea8"/>
+    <text x="128" y="223" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">1</text>
+    <rect x="42" y="104" width="172" height="80" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="128" y="130" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Citesc de două ori</text>
+    <text x="128" y="152" text-anchor="middle" font-size="11.5" fill="#3d4a5f">Prima dată pentru poveste,</text>
+    <text x="128" y="169" text-anchor="middle" font-size="11.5" fill="#3d4a5f">a doua cu creionul în mână.</text>
+  </g>
+
+  <g>
+    <circle cx="316" cy="215" r="26" fill="#6f5ea8"/>
+    <text x="316" y="223" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">2</text>
+    <rect x="230" y="246" width="172" height="80" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="316" y="272" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Delimitez fragmente</text>
+    <text x="316" y="294" text-anchor="middle" font-size="11.5" fill="#3d4a5f">Unde se schimbă locul,</text>
+    <text x="316" y="311" text-anchor="middle" font-size="11.5" fill="#3d4a5f">timpul sau personajele.</text>
+  </g>
+
+  <g>
+    <circle cx="504" cy="215" r="26" fill="#6f5ea8"/>
+    <text x="504" y="223" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">3</text>
+    <rect x="418" y="104" width="172" height="80" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="504" y="130" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Caut cuvântul-cheie</text>
+    <text x="504" y="152" text-anchor="middle" font-size="11.5" fill="#3d4a5f">Cuvântul fără de care</text>
+    <text x="504" y="169" text-anchor="middle" font-size="11.5" fill="#3d4a5f">fragmentul nu se înțelege.</text>
+  </g>
+
+  <g>
+    <circle cx="692" cy="215" r="26" fill="#6f5ea8"/>
+    <text x="692" y="223" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">4</text>
+    <rect x="606" y="246" width="172" height="80" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+    <text x="692" y="272" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Scriu ideea principală</text>
+    <text x="692" y="294" text-anchor="middle" font-size="11.5" fill="#3d4a5f">O propoziție pentru</text>
+    <text x="692" y="311" text-anchor="middle" font-size="11.5" fill="#3d4a5f">fiecare fragment.</text>
+  </g>
+
+  <g>
+    <circle cx="856" cy="215" r="26" fill="#b8944f"/>
+    <text x="856" y="223" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">5</text>
+    <rect x="770" y="104" width="172" height="80" rx="12" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+    <text x="856" y="130" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Formulez tema</text>
+    <text x="856" y="152" text-anchor="middle" font-size="11.5" fill="#3d4a5f">Despre ce e vorba,</text>
+    <text x="856" y="169" text-anchor="middle" font-size="11.5" fill="#3d4a5f">în două sau trei cuvinte.</text>
+  </g>
+
+  <rect x="42" y="348" width="900" height="40" rx="12" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
+  <text x="66" y="373" font-size="12.5" fill="#3d4a5f">Ideile principale, puse cap la cap și în ordine, formează <tspan font-weight="700" fill="#10233f">planul simplu de idei</tspan>.</text>
+</svg>

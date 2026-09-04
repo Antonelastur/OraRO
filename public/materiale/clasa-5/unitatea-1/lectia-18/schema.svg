@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 430" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="980" height="430" fill="#faf7f0"/>
+  <text x="490" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Tot ce am învățat despre limbă în Unitatea I</text>
+  <text x="490" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 18 · Recapitulare, gramatică și vocabular</text>
+
+  <g>
+    <rect x="36" y="100" width="296" height="140" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
+    <rect x="36" y="100" width="296" height="34" rx="16" fill="#3b5fa8"/>
+    <rect x="36" y="120" width="296" height="14" fill="#3b5fa8"/>
+    <text x="184" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">GRAMATICĂ</text>
+    <text x="58" y="160" font-size="13" font-weight="700" fill="#10233f">Propoziția</text>
+    <text x="58" y="182" font-size="12" fill="#3d4a5f">simplă sau dezvoltată</text>
+    <text x="58" y="202" font-size="12" fill="#3d4a5f">afirmativă sau negativă</text>
+    <text x="58" y="224" font-size="12" fill="#3d4a5f">subiect și predicat</text>
+  </g>
+
+  <g>
+    <rect x="348" y="100" width="296" height="140" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
+    <rect x="348" y="100" width="296" height="34" rx="16" fill="#a1417e"/>
+    <rect x="348" y="120" width="296" height="14" fill="#a1417e"/>
+    <text x="496" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">VOCABULAR</text>
+    <text x="370" y="160" font-size="13" font-weight="700" fill="#10233f">Relații între cuvinte</text>
+    <text x="370" y="182" font-size="12" fill="#3d4a5f">sinonime, sens asemănător</text>
+    <text x="370" y="202" font-size="12" fill="#3d4a5f">antonime, sens opus</text>
+    <text x="370" y="224" font-size="12" fill="#3d4a5f">câmp lexical, aceeași idee</text>
+  </g>
+
+  <g>
+    <rect x="660" y="100" width="284" height="140" rx="16" fill="#ffffff" stroke="#0a7d75" stroke-width="2.5"/>
+    <rect x="660" y="100" width="284" height="34" rx="16" fill="#0a7d75"/>
+    <rect x="660" y="120" width="284" height="14" fill="#0a7d75"/>
+    <text x="802" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">FONETICĂ</text>
+    <text x="682" y="160" font-size="13" font-weight="700" fill="#10233f">Sunetul și silaba</text>
+    <text x="682" y="182" font-size="12" fill="#3d4a5f">vocale, consoane, semivocale</text>
+    <text x="682" y="202" font-size="12" fill="#3d4a5f">o silabă are o singură vocală</text>
+    <text x="682" y="224" font-size="12" fill="#3d4a5f">accentul, după DOOM3</text>
+  </g>
+
+  <rect x="36" y="262" width="908" height="76" rx="16" fill="#fef8e9" stroke="#b8944f" stroke-width="2.5"/>
+  <text x="60" y="288" font-size="13" font-weight="700" fill="#10233f">Capcanele care se cer cel mai des la test</text>
+  <text x="60" y="311" font-size="12" fill="#3d4a5f">Ana citește o carte, e propoziție dezvoltată, nu simplă · vesel și trist sunt antonime, nu doar cuvinte diferite</text>
+  <text x="60" y="331" font-size="12" fill="#3d4a5f">emoție are patru silabe, e-mo-ți-e · ácele și acéle se scriu la fel, dar accentul le schimbă sensul</text>
+
+  <rect x="36" y="356" width="908" height="52" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
+  <text x="60" y="381" font-size="13" font-weight="700" fill="#10233f">La redactare:</text>
+  <text x="168" y="381" font-size="12.5" fill="#3d4a5f">respect etapele scrierii, structura introducere, cuprins, încheiere, și recitesc înainte să predau.</text>
+  <text x="60" y="400" font-size="12" font-style="italic" fill="#5b6b83">Un text bun nu e cel scris repede, ci cel recitit măcar o dată.</text>
+</svg>
