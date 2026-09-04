@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 430" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="1000" height="430" fill="#faf7f0"/>
+  <text x="500" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cele cinci structuri textuale și cum se îmbină</text>
+  <text x="500" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 3 · Combinarea structurilor textuale</text>
+  <rect x="36" y="104" width="168" height="86" rx="14" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
+  <text x="120" y="136" text-anchor="middle" font-size="14" font-weight="700" fill="#3b5fa8">Narativ</text>
+  <text x="120" y="162" text-anchor="middle" font-size="12" font-style="italic" fill="#5b6b83">ce se întâmplă?</text>
+  <rect x="224" y="104" width="168" height="86" rx="14" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
+  <text x="308" y="136" text-anchor="middle" font-size="14" font-weight="700" fill="#a1417e">Descriptiv</text>
+  <text x="308" y="162" text-anchor="middle" font-size="12" font-style="italic" fill="#5b6b83">cum arată?</text>
+  <rect x="412" y="104" width="168" height="86" rx="14" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
+  <text x="496" y="136" text-anchor="middle" font-size="14" font-weight="700" fill="#1c7f5e">Dialogat</text>
+  <text x="496" y="162" text-anchor="middle" font-size="12" font-style="italic" fill="#5b6b83">cine vorbește?</text>
+  <rect x="600" y="104" width="168" height="86" rx="14" fill="#ffffff" stroke="#b0512f" stroke-width="2.5"/>
+  <text x="684" y="136" text-anchor="middle" font-size="14" font-weight="700" fill="#b0512f">Explicativ</text>
+  <text x="684" y="162" text-anchor="middle" font-size="12" font-style="italic" fill="#5b6b83">cum funcționează?</text>
+  <rect x="788" y="104" width="168" height="86" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2.5"/>
+  <text x="872" y="136" text-anchor="middle" font-size="14" font-weight="700" fill="#6f5ea8">Argumentativ</text>
+  <text x="872" y="162" text-anchor="middle" font-size="12" font-style="italic" fill="#5b6b83">de ce?</text>
+  <text x="500" y="230" text-anchor="middle" font-size="15" font-weight="700" fill="#10233f">Trei feluri de a le îmbina</text>
+  <rect x="36" y="250" width="292" height="108" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
+  <text x="56" y="280" font-size="14" font-weight="700" fill="#10233f">Succesiune</text>
+  <text x="56" y="306" font-size="12" fill="#3d4a5f">una după alta,</text>
+  <text x="56" y="326" font-size="12" fill="#3d4a5f">pe rând</text>
+  <rect x="352" y="250" width="292" height="108" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
+  <text x="372" y="280" font-size="14" font-weight="700" fill="#10233f">Alternanță</text>
+  <text x="372" y="306" font-size="12" fill="#3d4a5f">se schimbă între ele,</text>
+  <text x="372" y="326" font-size="12" fill="#3d4a5f">de mai multe ori</text>
+  <rect x="668" y="250" width="292" height="108" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
+  <text x="688" y="280" font-size="14" font-weight="700" fill="#10233f">Inserție</text>
+  <text x="688" y="306" font-size="12" fill="#3d4a5f">una e cuprinsă</text>
+  <text x="688" y="326" font-size="12" fill="#3d4a5f">în interiorul alteia</text>
+  <rect x="36" y="374" width="928" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="58" y="399" font-size="13" font-weight="700" fill="#10233f">De ce contează</text>
+  <text x="58" y="419" font-size="12" fill="#3d4a5f">un text bun nu folosește o singură structură. Recunoașterea lor te ajută să înțelegi de ce autorul a construit așa.</text>
+</svg>

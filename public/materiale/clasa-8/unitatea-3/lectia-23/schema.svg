@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 450" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="1000" height="450" fill="#faf7f0"/>
+  <text x="500" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Atribute și complemente, toate la un loc</text>
+  <text x="500" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 23 · Recapitulare, limbă română</text>
+  <rect x="36" y="96" width="460" height="34" rx="10" fill="#3b5fa8"/>
+  <text x="266" y="119" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">DETERMINĂ UN SUBSTANTIV</text>
+  <rect x="512" y="96" width="452" height="34" rx="10" fill="#a1417e"/>
+  <text x="738" y="119" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">DETERMINĂ UN VERB</text>
+  <rect x="36" y="142" width="460" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
+  <text x="58" y="166" font-size="13" font-weight="700" fill="#10233f">Atributul</text>
+  <text x="58" y="186" font-size="12" fill="#3d4a5f">cartea veche, cartea Anei</text>
+  <rect x="36" y="210" width="460" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
+  <text x="58" y="234" font-size="13" font-weight="700" fill="#10233f">Apoziția</text>
+  <text x="58" y="254" font-size="12" fill="#3d4a5f">Sofia, eleva, a citit</text>
+  <rect x="36" y="278" width="460" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
+  <text x="58" y="302" font-size="13" font-weight="700" fill="#10233f">Atributiva</text>
+  <text x="58" y="322" font-size="12" fill="#3d4a5f">cartea care mi-a plăcut</text>
+  <rect x="512" y="142" width="452" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
+  <text x="534" y="166" font-size="13" font-weight="700" fill="#10233f">Compl. direct</text>
+  <text x="534" y="186" font-size="12" fill="#3d4a5f">citesc cartea — ce?</text>
+  <rect x="512" y="210" width="452" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
+  <text x="534" y="234" font-size="13" font-weight="700" fill="#10233f">Compl. indirect</text>
+  <text x="534" y="254" font-size="12" fill="#3d4a5f">dau Anei — cui?</text>
+  <rect x="512" y="278" width="452" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
+  <text x="534" y="302" font-size="13" font-weight="700" fill="#10233f">Compl. prepozițional</text>
+  <text x="534" y="322" font-size="12" fill="#3d4a5f">mă gândesc la ea — prepoziție cerută</text>
+  <rect x="36" y="352" width="928" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="58" y="377" font-size="13" font-weight="700" fill="#10233f">Fiecare are propoziția lui</text>
+  <text x="58" y="397" font-size="12" fill="#3d4a5f">atributul are atributiva, complementul direct are completiva directă, și tot așa. Ce e parte de propoziție se poate desface în propoziție.</text>
+  <rect x="36" y="416" width="928" height="56" rx="14" fill="#ffffff" stroke="#c1503a" stroke-width="2"/>
+  <text x="58" y="441" font-size="13" font-weight="700" fill="#10233f">Proba care nu dă greș</text>
+  <text x="58" y="461" font-size="12" fill="#3d4a5f">pune întrebarea de la cuvântul regent. Substantiv regent, e atribut. Verb regent, e complement.</text>
+</svg>

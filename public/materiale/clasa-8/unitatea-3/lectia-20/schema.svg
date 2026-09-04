@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="940" height="400" fill="#faf7f0"/>
+  <text x="470" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Comparație și analogie</text>
+  <text x="470" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 20 · Tipare textuale de structurare a ideilor</text>
+  <rect x="36" y="100" width="420" height="156" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
+  <text x="56" y="130" font-size="14" font-weight="700" fill="#10233f">COMPARAȚIA</text>
+  <text x="56" y="156" font-size="12" fill="#3d4a5f">Pun două lucruri alături</text>
+  <text x="56" y="176" font-size="12" fill="#3d4a5f">și le urmăresc pe criterii.</text>
+  <text x="56" y="196" font-size="12" fill="#3d4a5f"></text>
+  <text x="56" y="216" font-size="12" fill="#3d4a5f">Criteriile trebuie să fie</text>
+  <text x="56" y="236" font-size="12" fill="#3d4a5f">aceleași pentru amândouă.</text>
+  <rect x="484" y="100" width="420" height="156" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
+  <text x="504" y="130" font-size="14" font-weight="700" fill="#10233f">ANALOGIA</text>
+  <text x="504" y="156" font-size="12" fill="#3d4a5f">Explic ceva necunoscut</text>
+  <text x="504" y="176" font-size="12" fill="#3d4a5f">prin ceva cunoscut.</text>
+  <text x="504" y="196" font-size="12" fill="#3d4a5f"></text>
+  <text x="504" y="216" font-size="12" fill="#3d4a5f">Asemănarea e parțială:</text>
+  <text x="504" y="236" font-size="12" fill="#3d4a5f">seamănă într-o privință.</text>
+  <rect x="36" y="280" width="868" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="58" y="305" font-size="13" font-weight="700" fill="#10233f">Exemplu de analogie</text>
+  <text x="58" y="325" font-size="12" fill="#3d4a5f">structura atomului seamănă cu Sistemul Solar. Nu e la fel, dar imaginea te ajută să înțelegi.</text>
+  <rect x="36" y="344" width="868" height="56" rx="14" fill="#ffffff" stroke="#c1503a" stroke-width="2"/>
+  <text x="58" y="369" font-size="13" font-weight="700" fill="#10233f">Capcana analogiei</text>
+  <text x="58" y="389" font-size="12" fill="#3d4a5f">dacă o duci prea departe, te înșală. Atomul NU e un sistem solar; doar seamănă într-un singur punct.</text>
+</svg>

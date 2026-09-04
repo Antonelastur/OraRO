@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="960" height="400" fill="#faf7f0"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cum citesc un text discontinuu</text>
+  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 5 · Textul discontinuu</text>
+  <rect x="36" y="100" width="290" height="150" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
+  <text x="56" y="130" font-size="14" font-weight="700" fill="#10233f">Ce este</text>
+  <text x="56" y="156" font-size="12" fill="#3d4a5f">hartă, tabel, diagramă,</text>
+  <text x="56" y="176" font-size="12" fill="#3d4a5f">schemă, grafic, orar</text>
+  <text x="56" y="196" font-size="12" fill="#3d4a5f"></text>
+  <text x="56" y="216" font-size="12" fill="#3d4a5f">informația nu curge</text>
+  <text x="56" y="236" font-size="12" fill="#3d4a5f">de la stânga la dreapta</text>
+  <rect x="340" y="100" width="290" height="150" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
+  <text x="360" y="130" font-size="14" font-weight="700" fill="#10233f">Cum îl citesc</text>
+  <text x="360" y="156" font-size="12" fill="#3d4a5f">1. văd cum e organizat</text>
+  <text x="360" y="176" font-size="12" fill="#3d4a5f">2. citesc legenda</text>
+  <text x="360" y="196" font-size="12" fill="#3d4a5f">3. caut ce mă interesează</text>
+  <text x="360" y="216" font-size="12" fill="#3d4a5f">4. corelez rânduri</text>
+  <text x="360" y="236" font-size="12" fill="#3d4a5f">   și coloane</text>
+  <rect x="644" y="100" width="280" height="150" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
+  <text x="664" y="130" font-size="14" font-weight="700" fill="#10233f">Ce greșesc des</text>
+  <text x="664" y="156" font-size="12" fill="#3d4a5f">sar peste legendă</text>
+  <text x="664" y="176" font-size="12" fill="#3d4a5f"></text>
+  <text x="664" y="196" font-size="12" fill="#3d4a5f">citesc liniar,</text>
+  <text x="664" y="216" font-size="12" fill="#3d4a5f">ca la un roman</text>
+  <text x="664" y="236" font-size="12" fill="#3d4a5f"></text>
+  <text x="664" y="256" font-size="12" fill="#3d4a5f">ignor scara sau unitatea</text>
+  <rect x="36" y="272" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="58" y="297" font-size="13" font-weight="700" fill="#10233f">Regula de aur</text>
+  <text x="58" y="317" font-size="12" fill="#3d4a5f">nu începe cu datele. Începe cu întrebarea „cum e organizat documentul ăsta?”. Restul vine singur.</text>
+  <rect x="36" y="336" width="888" height="56" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
+  <text x="58" y="361" font-size="13" font-weight="700" fill="#10233f">Unde îl întâlnești</text>
+  <text x="58" y="381" font-size="12" fill="#3d4a5f">la Evaluarea Națională, la geografie, la biologie, în orarul școlii și pe orice bilet de tren.</text>
+</svg>

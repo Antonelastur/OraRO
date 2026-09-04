@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="1000" height="400" fill="#faf7f0"/>
+  <text x="500" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cele trei completive, față în față</text>
+  <text x="500" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 19 · Completiva prepozițională</text>
+  <rect x="36" y="100" width="292" height="40" rx="12" fill="#3b5fa8"/>
+  <text x="182" y="126" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">DIRECTĂ</text>
+  <rect x="36" y="150" width="292" height="56" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="52" y="170" font-size="10.5" fill="#5b6b83">Întrebarea</text>
+  <text x="52" y="192" font-size="12.5" fill="#10233f">pe cine? ce?</text>
+  <rect x="36" y="216" width="292" height="56" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="52" y="236" font-size="10.5" fill="#5b6b83">Exemplu</text>
+  <text x="52" y="258" font-size="12.5" fill="#10233f">Vreau să pleci.</text>
+  <rect x="36" y="282" width="292" height="56" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="52" y="302" font-size="10.5" fill="#5b6b83">Elemente de relație</text>
+  <text x="52" y="324" font-size="12.5" fill="#10233f">că, să, cine, ce</text>
+  <rect x="352" y="100" width="292" height="40" rx="12" fill="#a1417e"/>
+  <text x="498" y="126" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">INDIRECTĂ</text>
+  <rect x="352" y="150" width="292" height="56" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="368" y="170" font-size="10.5" fill="#5b6b83">Întrebarea</text>
+  <text x="368" y="192" font-size="12.5" fill="#10233f">cui?</text>
+  <rect x="352" y="216" width="292" height="56" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="368" y="236" font-size="10.5" fill="#5b6b83">Exemplu</text>
+  <text x="368" y="258" font-size="12.5" fill="#10233f">Dau cui vine primul.</text>
+  <rect x="352" y="282" width="292" height="56" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="368" y="302" font-size="10.5" fill="#5b6b83">Elemente de relație</text>
+  <text x="368" y="324" font-size="12.5" fill="#10233f">cui, că, să</text>
+  <rect x="668" y="100" width="292" height="40" rx="12" fill="#1c7f5e"/>
+  <text x="814" y="126" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">PREPOZIȚIONALĂ</text>
+  <rect x="668" y="150" width="292" height="56" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="684" y="170" font-size="10.5" fill="#5b6b83">Întrebarea</text>
+  <text x="684" y="192" font-size="12.5" fill="#10233f">la ce? de ce? pe ce?</text>
+  <rect x="668" y="216" width="292" height="56" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="684" y="236" font-size="10.5" fill="#5b6b83">Exemplu</text>
+  <text x="684" y="258" font-size="12.5" fill="#10233f">Mă gândesc la ce ai spus.</text>
+  <rect x="668" y="282" width="292" height="56" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="684" y="302" font-size="10.5" fill="#5b6b83">Elemente de relație</text>
+  <text x="684" y="324" font-size="12.5" fill="#10233f">la ce, de ce, pe care</text>
+  <rect x="36" y="356" width="928" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="58" y="381" font-size="13" font-weight="700" fill="#10233f">Regula care le deosebește pe toate</text>
+  <text x="58" y="401" font-size="12" fill="#3d4a5f">întrebarea se pune de la REGENT, nu de la elementul de relație. Două fraze care încep amândouă cu „că” pot fi subordonate diferite.</text>
+</svg>

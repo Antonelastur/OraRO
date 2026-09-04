@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="960" height="420" fill="#faf7f0"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Teză, argument, exemplu</text>
+  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 9 · Textul argumentativ, repere</text>
+  <rect x="240" y="98" width="480" height="60" rx="14" fill="#3b5fa8"/>
+  <text x="480" y="124" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">TEZA</text>
+  <text x="480" y="146" text-anchor="middle" font-size="12.5" fill="#ffffff">ce susțin, într-o singură propoziție</text>
+  <path d="M480 160 L480 178" stroke="#b8944f" stroke-width="3"/>
+  <rect x="100" y="182" width="400" height="60" rx="14" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
+  <text x="300" y="208" text-anchor="middle" font-size="13" font-weight="700" fill="#a1417e">ARGUMENTUL 1</text>
+  <text x="300" y="230" text-anchor="middle" font-size="12" fill="#3d4a5f">pentru că..., deoarece...</text>
+  <path d="M300 244 L300 262" stroke="#b8944f" stroke-width="3"/>
+  <rect x="100" y="266" width="400" height="60" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2.5"/>
+  <text x="300" y="292" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">EXEMPLUL 1</text>
+  <text x="300" y="314" text-anchor="middle" font-size="12" fill="#3d4a5f">de exemplu..., cum ar fi...</text>
+  <rect x="560" y="182" width="400" height="60" rx="14" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
+  <text x="760" y="208" text-anchor="middle" font-size="13" font-weight="700" fill="#a1417e">ARGUMENTUL 2</text>
+  <text x="760" y="230" text-anchor="middle" font-size="12" fill="#3d4a5f">pentru că..., deoarece...</text>
+  <path d="M760 244 L760 262" stroke="#b8944f" stroke-width="3"/>
+  <rect x="560" y="266" width="400" height="60" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2.5"/>
+  <text x="760" y="292" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">EXEMPLUL 2</text>
+  <text x="760" y="314" text-anchor="middle" font-size="12" fill="#3d4a5f">de exemplu..., cum ar fi...</text>
+  <path d="M180 176 L400 176" stroke="#b8944f" stroke-width="2"/>
+  <path d="M560 176 L780 176" stroke="#b8944f" stroke-width="2"/>
+  <rect x="36" y="344" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="58" y="369" font-size="13" font-weight="700" fill="#10233f">Regula fără de care nu convingi</text>
+  <text x="58" y="389" font-size="12" fill="#3d4a5f">orice argument are nevoie de exemplul lui. Un argument fără exemplu rămâne o simplă afirmație, ușor de contrazis.</text>
+</svg>

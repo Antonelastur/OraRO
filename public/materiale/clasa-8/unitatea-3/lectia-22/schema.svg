@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 390" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="960" height="390" fill="#faf7f0"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Ce am învățat despre lectură în Unitatea III</text>
+  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 22 · Recapitulare</text>
+  <rect x="36" y="100" width="290" height="150" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
+  <text x="56" y="130" font-size="14" font-weight="700" fill="#10233f">Ficțiunea</text>
+  <text x="56" y="156" font-size="12" fill="#3d4a5f">lume construită</text>
+  <text x="56" y="176" font-size="12" fill="#3d4a5f">prin limbaj</text>
+  <text x="56" y="196" font-size="12" fill="#3d4a5f"></text>
+  <text x="56" y="216" font-size="12" fill="#3d4a5f">pactul cu cititorul</text>
+  <text x="56" y="236" font-size="12" fill="#3d4a5f">binomul fantastic</text>
+  <rect x="340" y="100" width="290" height="150" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
+  <text x="360" y="130" font-size="14" font-weight="700" fill="#10233f">Structurile textuale</text>
+  <text x="360" y="156" font-size="12" fill="#3d4a5f">narativ, descriptiv,</text>
+  <text x="360" y="176" font-size="12" fill="#3d4a5f">dialogat, explicativ,</text>
+  <text x="360" y="196" font-size="12" fill="#3d4a5f">argumentativ</text>
+  <text x="360" y="216" font-size="12" fill="#3d4a5f"></text>
+  <text x="360" y="236" font-size="12" fill="#3d4a5f">succesiune, alternanță,</text>
+  <text x="360" y="256" font-size="12" fill="#3d4a5f">inserție</text>
+  <rect x="644" y="100" width="280" height="150" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
+  <text x="664" y="130" font-size="14" font-weight="700" fill="#10233f">Textul discontinuu</text>
+  <text x="664" y="156" font-size="12" fill="#3d4a5f">hartă, tabel, diagramă</text>
+  <text x="664" y="176" font-size="12" fill="#3d4a5f"></text>
+  <text x="664" y="196" font-size="12" fill="#3d4a5f">citesc întâi organizarea,</text>
+  <text x="664" y="216" font-size="12" fill="#3d4a5f">apoi datele</text>
+  <rect x="36" y="272" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="58" y="297" font-size="13" font-weight="700" fill="#10233f">Firul unității</text>
+  <text x="58" y="317" font-size="12" fill="#3d4a5f">toate personajele descoperă lumea punând întrebări: fetița cu codițe, Jonathan, Sofia, Micul prinț.</text>
+  <rect x="36" y="336" width="888" height="56" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
+  <text x="58" y="361" font-size="13" font-weight="700" fill="#10233f">Întrebarea unității</text>
+  <text x="58" y="381" font-size="12" fill="#3d4a5f">cum descoperim lumea? Răspunsul textelor: nu primind răspunsuri, ci învățând să punem întrebări.</text>
+</svg>
