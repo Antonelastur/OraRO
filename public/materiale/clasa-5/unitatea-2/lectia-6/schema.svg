@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="920" height="400" fill="#faf7f0"/>
+  <text x="460" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Jurnalul cu dublă intrare</text>
+  <text x="460" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 6 · Text auxiliar, Exuvii de Simona Popescu</text>
+  <rect x="40" y="100" width="400" height="46" rx="12" fill="#3b5fa8"/>
+  <text x="240" y="129" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">CE SPUNE TEXTUL</text>
+  <rect x="480" y="100" width="400" height="46" rx="12" fill="#a1417e"/>
+  <text x="680" y="129" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">CE SPUN EU</text>
+  <rect x="40" y="158" width="400" height="50" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="60" y="189" font-size="12.5" fill="#3d4a5f">Un citat care mi-a atras atenția.</text>
+  <rect x="480" y="158" width="400" height="50" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="500" y="189" font-size="12.5" fill="#3d4a5f">De ce l-am ales. Ce mi-a amintit.</text>
+  <path d="M446 183 L472 183" stroke="#b8944f" stroke-width="2.5"/>
+  <path d="M466 177 L474 183 L466 189 Z" fill="#b8944f"/>
+  <rect x="40" y="220" width="400" height="50" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="60" y="251" font-size="12.5" fill="#3d4a5f">Copiez exact, cu ghilimele.</text>
+  <rect x="480" y="220" width="400" height="50" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="500" y="251" font-size="12.5" fill="#3d4a5f">Ce simt, ce mă întreb, cu ce seamănă.</text>
+  <path d="M446 245 L472 245" stroke="#b8944f" stroke-width="2.5"/>
+  <path d="M466 239 L474 245 L466 251 Z" fill="#b8944f"/>
+  <rect x="40" y="282" width="400" height="50" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="60" y="313" font-size="12.5" fill="#3d4a5f">Notez pagina.</text>
+  <rect x="480" y="282" width="400" height="50" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="500" y="313" font-size="12.5" fill="#3d4a5f">Legătura cu textul de bază, Vizită...</text>
+  <path d="M446 307 L472 307" stroke="#b8944f" stroke-width="2.5"/>
+  <path d="M466 301 L474 307 L466 313 Z" fill="#b8944f"/>
+  <rect x="40" y="344" width="840" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="62" y="369" font-size="13" font-weight="700" fill="#10233f">La ce folosește</text>
+  <text x="62" y="389" font-size="12" fill="#3d4a5f">te obligă să nu doar citești, ci să și răspunzi textului. Nicio coloană nu are voie să rămână goală.</text>
+</svg>

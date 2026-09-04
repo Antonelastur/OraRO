@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="960" height="400" fill="#faf7f0"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Ce răspund la o invitație, un reproș, un compliment</text>
+  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 9 · Schimburi de replici în dialog</text>
+  <rect x="36" y="100" width="150" height="76" rx="12" fill="#3b5fa8"/>
+  <text x="111" y="144" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">INVITAȚIE</text>
+  <rect x="200" y="100" width="300" height="76" rx="12" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="220" y="128" font-size="11.5" fill="#5b6b83">ce mi se spune</text>
+  <text x="220" y="152" font-size="13" fill="#10233f">Vii sâmbătă la mine?</text>
+  <path d="M508 138 L530 138" stroke="#b8944f" stroke-width="2.5"/>
+  <path d="M524 132 L534 138 L524 144 Z" fill="#b8944f"/>
+  <rect x="542" y="100" width="382" height="76" rx="12" fill="#fef8e9" stroke="#b8944f" stroke-width="1.5"/>
+  <text x="562" y="128" font-size="11.5" fill="#5b6b83">ce răspund</text>
+  <text x="562" y="152" font-size="12.5" fill="#10233f">Accept sau refuz, motivat politicos. Mulțumesc, dar...</text>
+  <rect x="36" y="192" width="150" height="76" rx="12" fill="#b0512f"/>
+  <text x="111" y="236" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">REPROȘ</text>
+  <rect x="200" y="192" width="300" height="76" rx="12" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="220" y="220" font-size="11.5" fill="#5b6b83">ce mi se spune</text>
+  <text x="220" y="244" font-size="13" fill="#10233f">M-ai lăsat să te aștept.</text>
+  <path d="M508 230 L530 230" stroke="#b8944f" stroke-width="2.5"/>
+  <path d="M524 224 L534 230 L524 236 Z" fill="#b8944f"/>
+  <rect x="542" y="192" width="382" height="76" rx="12" fill="#fef8e9" stroke="#b8944f" stroke-width="1.5"/>
+  <text x="562" y="220" font-size="11.5" fill="#5b6b83">ce răspund</text>
+  <text x="562" y="244" font-size="12.5" fill="#10233f">Recunosc, îmi cer scuze, explic. Ai dreptate, îmi pare rău.</text>
+  <rect x="36" y="284" width="150" height="76" rx="12" fill="#1c7f5e"/>
+  <text x="111" y="328" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">COMPLIMENT</text>
+  <rect x="200" y="284" width="300" height="76" rx="12" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="220" y="312" font-size="11.5" fill="#5b6b83">ce mi se spune</text>
+  <text x="220" y="336" font-size="13" fill="#10233f">Ți-a ieșit foarte bine.</text>
+  <path d="M508 322 L530 322" stroke="#b8944f" stroke-width="2.5"/>
+  <path d="M524 316 L534 322 L524 328 Z" fill="#b8944f"/>
+  <rect x="542" y="284" width="382" height="76" rx="12" fill="#fef8e9" stroke="#b8944f" stroke-width="1.5"/>
+  <text x="562" y="312" font-size="11.5" fill="#5b6b83">ce răspund</text>
+  <text x="562" y="336" font-size="12.5" fill="#10233f">Mulțumesc. Nu mă apăr, nu mă laud mai departe.</text>
+  <rect x="36" y="372" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="58" y="397" font-size="13" font-weight="700" fill="#10233f">Regula de aur</text>
+  <text x="58" y="417" font-size="12" fill="#3d4a5f">orice replică primește un răspuns. Tăcerea, într-un dialog, e tot un răspuns, dar rareori cel potrivit.</text>
+</svg>

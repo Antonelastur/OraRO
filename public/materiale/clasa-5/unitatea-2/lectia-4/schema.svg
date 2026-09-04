@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="960" height="400" fill="#faf7f0"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cum aflăm cum e un personaj</text>
+  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 4 · Personajele</text>
+  <rect x="36" y="100" width="216" height="156" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
+  <text x="56" y="130" font-size="14" font-weight="700" fill="#10233f">Ce face</text>
+  <text x="56" y="156" font-size="12" fill="#3d4a5f">Faptele lui.</text>
+  <text x="56" y="176" font-size="12" fill="#3d4a5f"></text>
+  <text x="56" y="196" font-size="12" fill="#3d4a5f">Ionel sparge tava</text>
+  <text x="56" y="216" font-size="12" fill="#3d4a5f">cu dulceață.</text>
+  <rect x="268" y="100" width="216" height="156" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
+  <text x="288" y="130" font-size="14" font-weight="700" fill="#10233f">Ce spune</text>
+  <text x="288" y="156" font-size="12" fill="#3d4a5f">Vorbele lui și</text>
+  <text x="288" y="176" font-size="12" fill="#3d4a5f">felul cum le spune.</text>
+  <rect x="500" y="100" width="216" height="156" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
+  <text x="520" y="130" font-size="14" font-weight="700" fill="#10233f">Cum arată</text>
+  <text x="520" y="156" font-size="12" fill="#3d4a5f">Înfățișarea,</text>
+  <text x="520" y="176" font-size="12" fill="#3d4a5f">îmbrăcămintea,</text>
+  <text x="520" y="196" font-size="12" fill="#3d4a5f">gesturile.</text>
+  <rect x="732" y="100" width="192" height="156" rx="16" fill="#ffffff" stroke="#6f5ea8" stroke-width="2.5"/>
+  <text x="752" y="130" font-size="14" font-weight="700" fill="#10233f">Ce spun alții</text>
+  <text x="752" y="156" font-size="12" fill="#3d4a5f">Ce cred despre el</text>
+  <text x="752" y="176" font-size="12" fill="#3d4a5f">celelalte personaje</text>
+  <text x="752" y="196" font-size="12" fill="#3d4a5f">sau povestitorul.</text>
+  <rect x="36" y="280" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="58" y="305" font-size="13" font-weight="700" fill="#10233f">Trăsătură fizică față de trăsătură morală</text>
+  <text x="58" y="325" font-size="12" fill="#3d4a5f">fizică e ce se vede: înalt, blond. Morală e cum e el pe dinăuntru: răsfățat, curajos, harnic.</text>
+  <rect x="36" y="344" width="888" height="56" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
+  <text x="58" y="369" font-size="13" font-weight="700" fill="#10233f">Regula</text>
+  <text x="58" y="389" font-size="12" fill="#3d4a5f">nu spui doar că e răsfățat. Arăți fapta din text care dovedește asta.</text>
+</svg>

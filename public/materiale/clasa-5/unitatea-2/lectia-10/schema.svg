@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="960" height="380" fill="#faf7f0"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Regulile de acces la cuvânt</text>
+  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 10 · Comunicare în grup</text>
+  <rect x="36" y="100" width="432" height="212" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
+  <text x="60" y="132" font-size="15" font-weight="700" fill="#1c7f5e">AȘA DA</text>
+  <circle cx="70" cy="164" r="6" fill="#1c7f5e"/>
+  <text x="88" y="169" font-size="13" fill="#3d4a5f">Aștept să termine cine vorbește</text>
+  <circle cx="70" cy="200" r="6" fill="#1c7f5e"/>
+  <text x="88" y="205" font-size="13" fill="#3d4a5f">Ridic mâna sau fac un semn</text>
+  <circle cx="70" cy="236" r="6" fill="#1c7f5e"/>
+  <text x="88" y="241" font-size="13" fill="#3d4a5f">Vorbesc la subiect</text>
+  <circle cx="70" cy="272" r="6" fill="#1c7f5e"/>
+  <text x="88" y="277" font-size="13" fill="#3d4a5f">Las loc și celor tăcuți</text>
+  <rect x="492" y="100" width="432" height="212" rx="16" fill="#ffffff" stroke="#c1503a" stroke-width="2.5"/>
+  <text x="516" y="132" font-size="15" font-weight="700" fill="#c1503a">AȘA NU</text>
+  <circle cx="526" cy="164" r="6" fill="#c1503a"/>
+  <text x="544" y="169" font-size="13" fill="#3d4a5f">Întrerup la mijloc de frază</text>
+  <circle cx="526" cy="200" r="6" fill="#c1503a"/>
+  <text x="544" y="205" font-size="13" fill="#3d4a5f">Vorbesc peste ceilalți</text>
+  <circle cx="526" cy="236" r="6" fill="#c1503a"/>
+  <text x="544" y="241" font-size="13" fill="#3d4a5f">Schimb tema fără motiv</text>
+  <circle cx="526" cy="272" r="6" fill="#c1503a"/>
+  <text x="544" y="277" font-size="13" fill="#3d4a5f">Vorbesc tot timpul eu</text>
+  <rect x="36" y="328" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="58" y="353" font-size="13" font-weight="700" fill="#10233f">De ce contează</text>
+  <text x="58" y="373" font-size="12" fill="#3d4a5f">fără reguli, într-un grup vorbește cine e mai gălăgios, nu cine are ceva de spus.</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="980" height="380" fill="#faf7f0"/>
+  <text x="490" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Proiectul Jocuri fără vârstă, pas cu pas</text>
+  <text x="490" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 8 · Proiect individual, anunțare</text>
+  <rect x="36" y="104" width="212" height="112" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
+  <circle cx="70" cy="134" r="17" fill="#3b5fa8"/>
+  <text x="70" y="140" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">1</text>
+  <text x="96" y="140" font-size="13" font-weight="700" fill="#10233f">Aleg jocul</text>
+  <text x="56" y="174" font-size="11.5" fill="#3d4a5f">un joc care se juca</text>
+  <text x="56" y="192" font-size="11.5" fill="#3d4a5f">acum 30-50 de ani</text>
+  <path d="M250 160 L268 160" stroke="#b8944f" stroke-width="2.5"/>
+  <path d="M262 154 L270 160 L262 166 Z" fill="#b8944f"/>
+  <rect x="272" y="104" width="212" height="112" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
+  <circle cx="306" cy="134" r="17" fill="#a1417e"/>
+  <text x="306" y="140" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">2</text>
+  <text x="332" y="140" font-size="13" font-weight="700" fill="#10233f">Mă documentez</text>
+  <text x="292" y="174" font-size="11.5" fill="#3d4a5f">întreb părinții,</text>
+  <text x="292" y="192" font-size="11.5" fill="#3d4a5f">bunicii, caut online</text>
+  <path d="M486 160 L504 160" stroke="#b8944f" stroke-width="2.5"/>
+  <path d="M498 154 L506 160 L498 166 Z" fill="#b8944f"/>
+  <rect x="508" y="104" width="212" height="112" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
+  <circle cx="542" cy="134" r="17" fill="#1c7f5e"/>
+  <text x="542" y="140" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">3</text>
+  <text x="568" y="140" font-size="13" font-weight="700" fill="#10233f">Scriu</text>
+  <text x="528" y="174" font-size="11.5" fill="#3d4a5f">reguli, de unde vine,</text>
+  <text x="528" y="192" font-size="11.5" fill="#3d4a5f">de ce îmi place</text>
+  <path d="M722 160 L740 160" stroke="#b8944f" stroke-width="2.5"/>
+  <path d="M734 154 L742 160 L734 166 Z" fill="#b8944f"/>
+  <rect x="744" y="104" width="212" height="112" rx="16" fill="#ffffff" stroke="#b8944f" stroke-width="2.5"/>
+  <circle cx="778" cy="134" r="17" fill="#b8944f"/>
+  <text x="778" y="140" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">4</text>
+  <text x="804" y="140" font-size="13" font-weight="700" fill="#10233f">Pregătesc prezentarea</text>
+  <text x="764" y="174" font-size="11.5" fill="#3d4a5f">3 minute, cu un</text>
+  <text x="764" y="192" font-size="11.5" fill="#3d4a5f">material vizual</text>
+  <rect x="36" y="238" width="908" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="58" y="263" font-size="13" font-weight="700" fill="#10233f">Ce se notează</text>
+  <text x="58" y="283" font-size="12" fill="#3d4a5f">documentarea, claritatea textului scris, prezentarea orală și materialul vizual. Fiecare, separat.</text>
+  <rect x="36" y="306" width="908" height="56" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
+  <text x="58" y="331" font-size="13" font-weight="700" fill="#10233f">Termenul</text>
+  <text x="58" y="351" font-size="12" fill="#3d4a5f">se anunță azi și se prezintă la lecția 20. Ai timp, dar nu lăsa totul pe ultima seară.</text>
+</svg>
