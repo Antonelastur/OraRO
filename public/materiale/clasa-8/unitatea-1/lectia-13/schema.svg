@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 340" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="980" height="340" fill="#faf7f0"/>
+  <text x="490" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cele patru etape ale ascultării active</text>
+  <text x="490" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 13 · Strategii de ascultare activă</text>
+  <circle cx="66" cy="128" r="24" fill="#3b5fa8"/>
+  <text x="66" y="136" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">1</text>
+  <text x="102" y="134" font-size="13.5" font-weight="700" fill="#10233f">Concentrez atenția</text>
+  <text x="36" y="178" font-size="11.5" fill="#3d4a5f">Înlătur ce mă distrage.</text>
+  <text x="36" y="197" font-size="11.5" fill="#3d4a5f">Telefonul jos, privirea sus.</text>
+  <path d="M244 128 L262 128" stroke="#b8944f" stroke-width="2.5"/>
+  <path d="M256 122 L266 128 L256 134 Z" fill="#b8944f"/>
+  <circle cx="302" cy="128" r="24" fill="#a1417e"/>
+  <text x="302" y="136" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">2</text>
+  <text x="338" y="134" font-size="13.5" font-weight="700" fill="#10233f">Încurajez vorbitorul</text>
+  <text x="272" y="178" font-size="11.5" fill="#3d4a5f">Contact vizual, aha, hmm.</text>
+  <text x="272" y="197" font-size="11.5" fill="#3d4a5f">Nu preiau locul central.</text>
+  <path d="M480 128 L498 128" stroke="#b8944f" stroke-width="2.5"/>
+  <path d="M492 122 L502 128 L492 134 Z" fill="#b8944f"/>
+  <circle cx="538" cy="128" r="24" fill="#1c7f5e"/>
+  <text x="538" y="136" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">3</text>
+  <text x="574" y="134" font-size="13.5" font-weight="700" fill="#10233f">Reflectez</text>
+  <text x="508" y="178" font-size="11.5" fill="#3d4a5f">Reformulez ca să verific</text>
+  <text x="508" y="197" font-size="11.5" fill="#3d4a5f">că am înțeles corect.</text>
+  <path d="M716 128 L734 128" stroke="#b8944f" stroke-width="2.5"/>
+  <path d="M728 122 L738 128 L728 134 Z" fill="#b8944f"/>
+  <circle cx="774" cy="128" r="24" fill="#b8944f"/>
+  <text x="774" y="136" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">4</text>
+  <text x="810" y="134" font-size="13.5" font-weight="700" fill="#10233f">Ofer feedback</text>
+  <text x="744" y="178" font-size="11.5" fill="#3d4a5f">Abia acum îmi spun</text>
+  <text x="744" y="197" font-size="11.5" fill="#3d4a5f">părerea, la temă.</text>
+  <rect x="36" y="248" width="908" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="58" y="273" font-size="13" font-weight="700" fill="#10233f">Bariere care o strică</text>
+  <text x="58" y="293" font-size="12" fill="#3d4a5f">întreruperea, schimbarea temei, pregătirea răspunsului în timp ce celălalt încă vorbește.</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 410" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="960" height="410" fill="#faf7f0"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Figurile de stil din unitate</text>
+  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 3 · Limbajul figurat. Aliterația</text>
+  <rect x="36" y="100" width="290" height="128" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
+  <text x="56" y="130" font-size="14" font-weight="700" fill="#10233f">Epitetul</text>
+  <text x="56" y="156" font-size="12" fill="#3d4a5f">Însușire care nu doar</text>
+  <text x="56" y="176" font-size="12" fill="#3d4a5f">descrie, ci sugerează.</text>
+  <text x="56" y="196" font-size="12" fill="#3d4a5f">codru de aramă</text>
+  <rect x="340" y="100" width="290" height="128" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
+  <text x="360" y="130" font-size="14" font-weight="700" fill="#10233f">Metafora</text>
+  <text x="360" y="156" font-size="12" fill="#3d4a5f">Comparație din care</text>
+  <text x="360" y="176" font-size="12" fill="#3d4a5f">lipsește termenul comparat.</text>
+  <text x="360" y="196" font-size="12" fill="#3d4a5f">izvorul nopții</text>
+  <rect x="644" y="100" width="280" height="128" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
+  <text x="664" y="130" font-size="14" font-weight="700" fill="#10233f">Comparația</text>
+  <text x="664" y="156" font-size="12" fill="#3d4a5f">Doi termeni alăturați</text>
+  <text x="664" y="176" font-size="12" fill="#3d4a5f">printr-un cuvânt de legătură.</text>
+  <text x="664" y="196" font-size="12" fill="#3d4a5f">ca, precum, asemenea</text>
+  <rect x="36" y="244" width="290" height="128" rx="16" fill="#ffffff" stroke="#b0512f" stroke-width="2.5"/>
+  <text x="56" y="274" font-size="14" font-weight="700" fill="#10233f">Personificarea</text>
+  <text x="56" y="300" font-size="12" fill="#3d4a5f">Însușiri omenești date</text>
+  <text x="56" y="320" font-size="12" fill="#3d4a5f">unui lucru sau fenomen.</text>
+  <text x="56" y="340" font-size="12" fill="#3d4a5f">codrul care cheamă</text>
+  <rect x="340" y="244" width="584" height="128" rx="16" fill="#ffffff" stroke="#0a7d75" stroke-width="2.5"/>
+  <text x="360" y="274" font-size="14" font-weight="700" fill="#10233f">Aliterația, figura nouă a lecției</text>
+  <text x="360" y="300" font-size="12" fill="#3d4a5f">Repetarea aceluiași sunet consonantic în cuvinte apropiate.</text>
+  <text x="360" y="320" font-size="12" fill="#3d4a5f">Nu adaugă un sens, ci o sonoritate: șuierat, foșnet, duritate.</text>
+  <text x="360" y="340" font-size="12" fill="#3d4a5f">Se aude, nu se vede. Citește versul cu voce tare ca să o prinzi.</text>
+</svg>

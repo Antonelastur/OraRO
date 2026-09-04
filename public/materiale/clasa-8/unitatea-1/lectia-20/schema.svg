@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="960" height="380" fill="#faf7f0"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Anafora, cum legăm un text</text>
+  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 20 · Organizarea coerentă a textului</text>
+  <rect x="60" y="106" width="330" height="86" rx="14" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
+  <text x="80" y="134" font-size="13" font-weight="700" fill="#3b5fa8">ANTECEDENT</text>
+  <text x="80" y="164" font-size="15" fill="#10233f">Eminescu a scris poezia.</text>
+  <path d="M398 149 L556 149" stroke="#b8944f" stroke-width="3"/>
+  <path d="M548 142 L560 149 L548 156 Z" fill="#b8944f"/>
+  <text x="477" y="138" text-anchor="middle" font-size="12" font-style="italic" fill="#5b6b83">e reluat de</text>
+  <rect x="568" y="106" width="330" height="86" rx="14" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
+  <text x="588" y="134" font-size="13" font-weight="700" fill="#a1417e">ANAFORIC</text>
+  <text x="588" y="164" font-size="15" fill="#10233f">El a publicat-o în 1883.</text>
+  <rect x="60" y="214" width="400" height="112" rx="16" fill="#ffffff" stroke="#6f5ea8" stroke-width="2.5"/>
+  <text x="80" y="244" font-size="14" font-weight="700" fill="#10233f">Ce poate fi anaforic</text>
+  <text x="80" y="270" font-size="12" fill="#3d4a5f">pronume: el, acesta, care</text>
+  <text x="80" y="290" font-size="12" fill="#3d4a5f">adverb: acolo, atunci</text>
+  <text x="80" y="310" font-size="12" fill="#3d4a5f">numeral, substantiv, da, nu, a face</text>
+  <rect x="498" y="214" width="400" height="112" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
+  <text x="518" y="244" font-size="14" font-weight="700" fill="#10233f">La ce folosește</text>
+  <text x="518" y="270" font-size="12" fill="#3d4a5f">scoate repetițiile supărătoare</text>
+  <text x="518" y="290" font-size="12" fill="#3d4a5f">ține textul legat logic</text>
+  <text x="518" y="310" font-size="12" fill="#3d4a5f">arată despre cine vorbim</text>
+</svg>

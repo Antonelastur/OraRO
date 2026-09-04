@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 390" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="980" height="390" fill="#faf7f0"/>
+  <text x="490" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Etapele scrierii și feedbackul util</text>
+  <text x="490" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 21 · Integrarea feedbackului</text>
+  <rect x="36" y="104" width="164" height="80" rx="14" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
+  <text x="118" y="134" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Pregătirea</text>
+  <text x="118" y="158" text-anchor="middle" font-size="11.5" fill="#3d4a5f">plan, idei</text>
+  <path d="M202 144 L218 144" stroke="#b8944f" stroke-width="2.5"/>
+  <rect x="220" y="104" width="164" height="80" rx="14" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
+  <text x="302" y="134" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Ciorna</text>
+  <text x="302" y="158" text-anchor="middle" font-size="11.5" fill="#3d4a5f">prima variantă</text>
+  <path d="M386 144 L402 144" stroke="#b8944f" stroke-width="2.5"/>
+  <rect x="404" y="104" width="164" height="80" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2.5"/>
+  <text x="486" y="134" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Revizuirea</text>
+  <text x="486" y="158" text-anchor="middle" font-size="11.5" fill="#3d4a5f">schimb CE spun</text>
+  <path d="M570 144 L586 144" stroke="#b8944f" stroke-width="2.5"/>
+  <rect x="588" y="104" width="164" height="80" rx="14" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
+  <text x="670" y="134" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Editarea</text>
+  <text x="670" y="158" text-anchor="middle" font-size="11.5" fill="#3d4a5f">îndrept CUM scriu</text>
+  <path d="M754 144 L770 144" stroke="#b8944f" stroke-width="2.5"/>
+  <rect x="772" y="104" width="164" height="80" rx="14" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
+  <text x="854" y="134" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Publicarea</text>
+  <text x="854" y="158" text-anchor="middle" font-size="11.5" fill="#3d4a5f">o arăt altora</text>
+  <rect x="36" y="206" width="440" height="152" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
+  <text x="56" y="236" font-size="14" font-weight="700" fill="#10233f">Feedback care ajută</text>
+  <text x="56" y="262" font-size="12" fill="#3d4a5f">e concret: spune ce anume și unde</text>
+  <text x="56" y="282" font-size="12" fill="#3d4a5f">e echilibrat: ce merge și ce nu</text>
+  <text x="56" y="302" font-size="12" fill="#3d4a5f">e despre text, nu despre persoană</text>
+  <text x="56" y="322" font-size="12" fill="#3d4a5f">propune, nu impune</text>
+  <rect x="504" y="206" width="440" height="152" rx="16" fill="#ffffff" stroke="#c1503a" stroke-width="2.5"/>
+  <text x="524" y="236" font-size="14" font-weight="700" fill="#10233f">Feedback care nu ajută</text>
+  <text x="524" y="262" font-size="12" fill="#3d4a5f">e vag: nu mi-a plăcut</text>
+  <text x="524" y="282" font-size="12" fill="#3d4a5f">e doar negativ sau doar politicos</text>
+  <text x="524" y="302" font-size="12" fill="#3d4a5f">atacă autorul, nu lucrarea</text>
+  <text x="524" y="322" font-size="12" fill="#3d4a5f">rescrie textul în locul lui</text>
+</svg>

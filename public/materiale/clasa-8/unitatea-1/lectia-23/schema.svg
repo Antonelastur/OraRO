@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="960" height="380" fill="#faf7f0"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Ce face o imagine într-un text</text>
+  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 23 · Rolul elementelor grafice</text>
+  <rect x="36" y="100" width="212" height="120" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
+  <text x="56" y="130" font-size="14" font-weight="700" fill="#10233f">Informează</text>
+  <text x="56" y="156" font-size="12" fill="#3d4a5f">grafic, schemă, tabel</text>
+  <text x="56" y="176" font-size="12" fill="#3d4a5f">date greu de spus în cuvinte</text>
+  <rect x="268" y="100" width="212" height="120" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
+  <text x="288" y="130" font-size="14" font-weight="700" fill="#10233f">Emoționează</text>
+  <text x="288" y="156" font-size="12" fill="#3d4a5f">fotografie, ilustrație</text>
+  <text x="288" y="176" font-size="12" fill="#3d4a5f">atinge cititorul direct</text>
+  <rect x="500" y="100" width="212" height="120" rx="16" fill="#ffffff" stroke="#b0512f" stroke-width="2.5"/>
+  <text x="520" y="130" font-size="14" font-weight="700" fill="#10233f">Convinge</text>
+  <text x="520" y="156" font-size="12" fill="#3d4a5f">imagine de reclamă</text>
+  <text x="520" y="176" font-size="12" fill="#3d4a5f">susține un punct de vedere</text>
+  <rect x="732" y="100" width="212" height="120" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
+  <text x="752" y="130" font-size="14" font-weight="700" fill="#10233f">Amuză</text>
+  <text x="752" y="156" font-size="12" fill="#3d4a5f">caricatură, meme</text>
+  <text x="752" y="176" font-size="12" fill="#3d4a5f">apropie și destinde</text>
+  <rect x="36" y="244" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="58" y="269" font-size="13" font-weight="700" fill="#10233f">Cum citim o imagine</text>
+  <text x="58" y="289" font-size="12" fill="#3d4a5f">în doi pași rapizi: mai întâi identific ce văd, apoi interpretez ce înseamnă în legătură cu textul.</text>
+  <rect x="36" y="312" width="888" height="56" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
+  <text x="58" y="337" font-size="13" font-weight="700" fill="#10233f">Regula practică</text>
+  <text x="58" y="357" font-size="12" fill="#3d4a5f">orice imagine dintr-un text are titlu sau legendă. Fără ele, cititorul ghicește.</text>
+</svg>

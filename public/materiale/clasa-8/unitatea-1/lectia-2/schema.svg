@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="960" height="400" fill="#faf7f0"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Versificația, ce măsurăm într-o poezie</text>
+  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 2 · Structura poeziei și caracteristicile textului liric</text>
+  <rect x="36" y="100" width="216" height="150" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
+  <text x="56" y="130" font-size="14" font-weight="700" fill="#10233f">Strofa</text>
+  <text x="56" y="156" font-size="12" fill="#3d4a5f">Grupul de versuri,</text>
+  <text x="56" y="176" font-size="12" fill="#3d4a5f">despărțit prin pauză.</text>
+  <text x="56" y="196" font-size="12" fill="#3d4a5f"></text>
+  <text x="56" y="216" font-size="12" fill="#3d4a5f">distih 2, terțină 3,</text>
+  <text x="56" y="236" font-size="12" fill="#3d4a5f">catren 4 versuri</text>
+  <rect x="268" y="100" width="216" height="150" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
+  <text x="288" y="130" font-size="14" font-weight="700" fill="#10233f">Versul</text>
+  <text x="288" y="156" font-size="12" fill="#3d4a5f">Un rând din poezie.</text>
+  <text x="288" y="176" font-size="12" fill="#3d4a5f"></text>
+  <text x="288" y="196" font-size="12" fill="#3d4a5f">Nu coincide mereu</text>
+  <text x="288" y="216" font-size="12" fill="#3d4a5f">cu o propoziție.</text>
+  <rect x="500" y="100" width="216" height="150" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
+  <text x="520" y="130" font-size="14" font-weight="700" fill="#10233f">Măsura</text>
+  <text x="520" y="156" font-size="12" fill="#3d4a5f">Numărul de silabe</text>
+  <text x="520" y="176" font-size="12" fill="#3d4a5f">dintr-un vers.</text>
+  <text x="520" y="196" font-size="12" fill="#3d4a5f"></text>
+  <text x="520" y="216" font-size="12" fill="#3d4a5f">Poate fi constantă</text>
+  <text x="520" y="236" font-size="12" fill="#3d4a5f">sau variabilă.</text>
+  <rect x="732" y="100" width="192" height="150" rx="16" fill="#ffffff" stroke="#6f5ea8" stroke-width="2.5"/>
+  <text x="752" y="130" font-size="14" font-weight="700" fill="#10233f">Rima</text>
+  <text x="752" y="156" font-size="12" fill="#3d4a5f">Potrivirea sunetelor</text>
+  <text x="752" y="176" font-size="12" fill="#3d4a5f">la sfârșit de vers.</text>
+  <text x="752" y="196" font-size="12" fill="#3d4a5f"></text>
+  <text x="752" y="216" font-size="12" fill="#3d4a5f">împerecheată,</text>
+  <text x="752" y="236" font-size="12" fill="#3d4a5f">încrucișată, îmbrățișată</text>
+  <rect x="36" y="274" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="58" y="299" font-size="13" font-weight="700" fill="#10233f">Ritmul</text>
+  <text x="58" y="319" font-size="12" fill="#3d4a5f">alternanța silabelor accentuate cu cele neaccentuate. Dă muzicalitatea versului.</text>
+  <rect x="36" y="342" width="888" height="56" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
+  <text x="58" y="367" font-size="13" font-weight="700" fill="#10233f">Vers alb față de vers liber</text>
+  <text x="58" y="387" font-size="12" fill="#3d4a5f">albul păstrează ritmul și măsura, dar nu are rimă. Liberul renunță la toate trei.</text>
+</svg>
