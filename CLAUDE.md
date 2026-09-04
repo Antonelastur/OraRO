@@ -1,152 +1,166 @@
-# CLAUDE.md — OraRO
+# CLAUDE.md — OraRO 2.0
 
-Instrucțiuni de proiect pentru Claude, valabile în orice sesiune de lucru pe acest proiect, în Cowork sau în alt context. Nu te abați de la ele fără confirmarea explicită a Antoanelei.
+Instrucțiuni de proiect valabile în orice sesiune de lucru pe OraRO. Nu te abate
+de la ele fără confirmarea explicită a Antoanelei.
 
-## Ce este acest proiect
+Detaliile nu se dublează aici. Consultă `docs/` înainte de a implementa etapele
+relevante, vezi secțiunea 6.
 
-Curs online personal și privat de limba și literatura română, pentru gimnaziu, gândit pentru predare, învățare și evaluare la clasă, față în față cu elevii. Nu este LimbaRo. LimbaRo rămâne instrumentul de exersare independentă a elevului, după ce materia a fost predată. OraRO este instrumentul de lucru al profesoarei, folosit înainte și în timpul orei.
+## 1. Identitatea proiectului
 
-## Domeniu de aplicare
+OraRO 2.0 este o platformă digitală pentru profesorul de limba și literatura
+română din gimnaziu, clasele a V-a până la a VIII-a. Este instrumentul de lucru
+al profesoarei Antoanela Pohoață, folosit înainte, în timpul și după oră.
 
-- Clasele a V-a și a VIII-a sunt prioritare în acest an școlar. Clasa a VI-a va fi predată anul viitor, clasa a VII-a peste doi ani, nu sunt interzise, doar amânate ca ordine de implementare și se pot realiza imediat ce terminăm cu a V-a și a VIII-a.
-- Clasa a V-a, prioritate, se duce până la capăt prima.
-- Clasa a VIII-a, a doua prioritate. Antoanela predă anul acesta doar la clasa a V-a și la clasa a VIII-a, de-asta rămân cele două priorități principale.
-- Clasele a VI-a și a VII-a nu mai sunt interzise, doar amânate ca ordine de implementare completă, clasa a VI-a vine la anul, clasa a VII-a peste doi ani. Multe lecții se leagă între clase, aproape toată materia clasei a V-a se reia și la clasele a VI-a și a VII-a, cu ceva în plus, așa că poți lucra la ele oricând apare ocazia, mai ales unde o lecție se reia aproape identic. Scopul rămâne să finalizăm aplicația pentru toate clasele cât mai repede, cu accent tot pe clasa a V-a și a VIII-a.
-- Nu presupui că LimbaRo acoperă deja toate lecțiile la clasa a V-a. Verifici înainte de orice presupunere și semnalezi dacă găsești contradicții între conținutul din LimbaRo și sursele noi.
-- **Convenție diferită de numerotare a lecțiilor, între clase, decizie asumată, nu inconsecvență.** Clasa a V-a urmează numerotarea proprie a manualului: o lecție de site corespunde unei „Lecția N” din manual, cu granularitatea dată de manual însuși. Clasele a VI-a, a VII-a și a VIII-a, decizie explicită confirmată separat pentru fiecare, sunt împărțite pe ore de curs din proiectarea pe unități, o resursă de site per oră: unde o singură lecție de manual se predă în 2 sau 3 ore, apare ca 2 sau 3 lecții de site, cu sursaManual notând „partea 1/2”, „partea 2/2” etc., ca să nu pară o eroare de citare. Rezultatul, aceste clase au semnificativ mai multe lecții de site decât numărul propriu de lecții al manualului. Dacă mai reiei vreodată clasele a VI-a, a VII-a sau a VIII-a de la zero, alegi din nou explicit una dintre cele două convenții, nu presupui automat una sau alta.
-- **Ediția manualului la clasa a VIII-a, verificată explicit, discrepanță reală descoperită și rezolvată cu Antoanela.** Sursele locale `8_proiectare pe unitati.doc` și `8_planificare calendaristica.doc` sunt scrise pentru anul școlar 2022-2023 și au o structură de 5 unități complet diferită de manualul din folder (`Manual Art 8.pdf`, generat 2025) și de `8. Ghid.pdf`: unități cu alte titluri, altă ordine, iar unitatea „Ce înseamnă prietenia?” cu Platanos de Doina Ruști nu există deloc în ediția 2025. S-a ales manualul nou și ghidul ca autoritate — ghidul conține propria planificare calendaristică orientativă 2025-2026 și proiectare a unităților de învățare, actualizate pentru ediția curentă, folosite la construirea claselor a VIII-a. Documentele `.doc` vechi rămân nefolosite. Dacă apar surse noi pentru clasa a VIII-a, verifici mai întâi dacă țin de aceeași ediție 2025, nu presupui automat că se potrivesc.
+Nu este LimbaRo. LimbaRo rămâne instrumentul de exersare independentă a
+elevului, după ce materia a fost predată.
 
-## Arhitectură tehnică
+OraRO nu se tratează ca o simplă bibliotecă de materiale didactice.
 
-Vite și React, site static, fără backend, găzduit gratuit. Fără librărie de gestiune a stării, complexitatea proiectului nu o justifică. Conținutul stă separat de interfață, în fișiere de date, nu bătut direct în componente.
+## 2. Obiectivul OraRO 2.0
 
-De la redesignul „aplicație premium", din 2026, se adaugă: Tailwind CSS (v4, token-uri de temă în `src/index.css`), TypeScript pornit treptat (fișierele noi sunt `.tsx`/`.ts`, cele vechi simple rămân `.jsx`, coexistă), componente în stil shadcn/ui în `src/components/ui/` (Radix + Tailwind, cod propriu, nu rulăm CLI-ul), iconografie Lucide, animații cu `motion` (Motion.dev). Rămân excluse din arhitectură: Next.js, React Query, orice backend sau bază de date, cont de utilizator.
+Scopul este să devină un sistem de operare pentru ora de limba română.
+Profesorul intră în platformă, deschide ora planificată, conduce lecția pas cu
+pas, distribuie materiale elevilor, folosește activități interactive, evaluează
+rapid și notează observații după oră.
+
+Principiul central al produsului:
+
+> Profesorul nu trebuie să caute materiale ca să construiască o oră. OraRO
+> trebuie să-i ofere structura unei ore pe care profesorul o poate adapta.
+
+Fluxul fundamental:
 
 ```
-src/
-  data/
-    clasa-5/unitatea-1.js
-    clasa-8/unitatea-1.js
-  components/
-    ui/              (button, switch, tooltip, command, sheet — stil shadcn)
-    AppShell.tsx     (sidebar + topbar + tranziții de pagină)
-    Sidebar.tsx
-    SearchPalette.tsx (căutare instant, Ctrl/Cmd+K)
-    Prezentare.jsx
-    Test.jsx         (linkuri Google Forms, opțional niveluri de dificultate și rubrică)
-    Fisa.jsx
-    Joc/             (motor reutilizabil pentru exerciții și escape room)
-    Infografic.jsx
-    Schema.jsx
-  contexts/
-    ThemeContext.tsx (comutator light/dark, persistat local)
-  lib/
-    lectii.ts        (calcule pe date: completitudine lecție, listă flat de lecții)
-    utils.ts
-  pages/
-    DashboardPage.tsx
-    ClasePage.tsx
-    BibliotecaPage.tsx (toate materialele, filtrabile pe tip)
-    SetariPage.tsx
-    ClasaPage.jsx
-    UnitatePage.jsx
-    LectiePage.jsx
-  App.jsx            (rutare: /clasa-5/unitatea-1/lectia-3)
+DASHBOARD → CLASĂ → UNITATE → LECȚIE → ACTIVITĂȚI → EVALUARE
 ```
 
-Forma de date pentru o lecție, fixă, indiferent de clasă:
+**Criteriul de succes.** Nu se măsoară prin numărul de pagini sau de componente
+create. Întrebarea este una singură:
 
-```js
-{
-  id, titlu, obiective,
-  sursaManual, rezolvareGhid,
-  planLectie: {...} | null,   // document intern, nu se publică, vezi Găzduire și acces
-  materiale: {
-    prezentare: {...} | null,
-    video: {...} | null,
-    test: { linkGoogleForms } | null,
-    fisa: {...} | null,
-    joc: {...} | null,
-    infografic: {...} | null,
-    schema: {...} | null,
-    altele: []
-  }
-}
-```
+> Poate un profesor să intre în OraRO cu două minute înainte de oră și să
+> înceapă lecția fără să caute prin foldere, PDF-uri și linkuri?
 
-Un material lipsă rămâne `null`. Nu completezi de umplutură, doar fiindcă structura are câmpul.
+Dacă răspunsul e da, arhitectura funcționează. Dacă profesorul trebuie să
+navigheze prin multe meniuri ca să găsească ce-i trebuie în acel moment,
+interfața se simplifică.
 
-## Reguli obligatorii de conținut
+**Cele șapte întrebări.** Gândește-te permanent la profesorul care intră în
+clasă cu 30 de secunde înainte să înceapă ora. El nu are nevoie de un site, are
+nevoie să știe: ce predau, ce fac acum, cât timp mai am, ce fac dacă activitatea
+nu merge, ce le dau elevilor, cum verific dacă au înțeles, ce trebuie să reiau
+data viitoare.
 
-1. Conținutul se împarte în două categorii, cu reguli diferite de sursă.
-   - Conținut de bază: definiții, reguli gramaticale, informații despre autori și opere, texte literare studiate la clasă. Acesta vine mereu din manual, din ghidul profesorului sau din altă sursă indicată explicit de Antoanela, cu sursa atașată. Nu inventezi niciodată acest tip de conținut.
-   - Materiale de sprijin: enunțuri de exerciții, texte pentru teste sau fișe, context și poveste pentru jocuri sau escape room, întrebări de discuție, prezentări originale. Acestea pot fi originale, scrise de tine sau de Antoanela, fără să fie legate strict de un pasaj din manual. Condiția, să fie corecte gramatical, potrivite vârstei și nivelului clasei și să servească exact obiectivul lecției. Nu ai nevoie de sursă exactă pentru ele și **nu mai aștepți aprobare explicită pas cu pas înainte să intre în cod**: le generezi și le integrezi direct, ea le vede publicate și corectează sau cere modificări dacă e cazul. Asta nu se aplică conținutului de bază, care rămâne mereu din surse verificate, indiferent cât de mult cere cineva generare automată.
+Orice funcționalitate nouă se evaluează prin întrebarea „îl ajută pe profesor să
+pregătească, să conducă sau să evalueze ora?". Dacă nu, se justifică înainte de
+implementare.
 
-   Scopul general al materialelor de sprijin, să fie cât mai vizuale, gamificate, atractive și interactive, ca să placă elevilor, fără să sacrifice rigoarea, elevii tot trebuie să învețe serios materia din spatele jocului sau al fișei.
-2. Acolo unde sursa conținutului de bază nu e clară, marchezi și întrebi. Nu completezi din memorie sau din presupuneri.
-3. NotebookLM e instrument de bază în procesul de producție, folosit pentru prezentări, infografice, unele video-uri, quizuri și chestionare. Rămâne un instrument de punere în formă, nu o sursă de conținut, materialul generat pornește tot din manual, ghid sau alte surse indicate, la fel ca orice alt draft, trece prin aprobare explicită înainte de integrare. Sursa NotebookLM rămâne o notă internă, editorială, nu apare ca etichetă pe site.
-4. Producția pe tip de material:
+## 3. Contractul de lucru
 
-| Material | Cine îl produce | Verificare |
-|---|---|---|
-| Prezentare | NotebookLM, pornind de la manual și ghid, sau draft original prin tine | Dacă vine din NotebookLM sau conține conținut de bază, aprobare explicită; dacă e original, integrare directă |
-| Quiz | NotebookLM | Aprobare explicită înainte de integrare |
-| Test, chestionar | Antoanela îl construiește în Google Forms, tu sau NotebookLM propuneți itemii de plecare | Ea decide punctajul și forma finală; itemii originali intră direct |
-| Fișă de lucru | Draft prin tine, conținutul de bază din surse indicate, enunțurile pot fi originale | Integrare directă, fără aprobare pas cu pas |
-| Joc, escape room | Tu scrii logica, conținutul de bază din manual, povestea sau contextul jocului pot fi originale | Integrare directă; testare tot obligatorie înainte de publicare |
-| Video | NotebookLM sau materiale aduse de Antoanela | Vizionare obligatorie înainte de a lega linkul |
-| Infografic, schemă | NotebookLM sau Canva, ori draft prin tine ca punct de plecare | Finalizare vizuală de către ea |
-| Plan de lecție | Draft prin tine, pornind de la ghid, planificare și obiectivele lecției, obligatoriu pentru fiecare lecție | Aprobare explicită, document intern, nu se publică niciodată |
+**Înainte să modifici codul:**
 
-5. Materialele de sprijin (fișe, jocuri, teste, prezentări originale) intră direct în cod, fără aprobare explicită pas cu pas, conform deciziei din 2026. Planul de lecție rămâne document intern cu aprobare explicită, ca înainte. Conținutul de bază rămâne mereu din surse verificate, cu sursă atașată, indiferent de acest punct.
-6. Pe slide-urile de prezentare apar întotdeauna două lucruri, distinct marcate, etapa lecției, de exemplu deschidere, dirijarea învățării, joc, temă, și conținutul pe care elevii trebuie să îl scrie în caiete. Nu amesteci cele două fără să le separi vizual.
+1. Inspectează structura proiectului.
+2. Identifică framework-ul, dependențele și punctele de intrare.
+3. Identifică componentele reutilizabile și modul actual de gestionare a datelor.
+4. Verifică ce funcționalități există deja.
+5. Nu presupune că arhitectura actuală e cea descrisă în documentație. Dacă
+   documentația contrazice codul, inspectează codul și semnalează conflictul
+   înainte de modificări majore.
+6. Nu rescrie cod fără un motiv tehnic clar.
 
-## Surse
+**Lucrează incremental.** Pentru fiecare etapă: analizează, implementează,
+testează, corectează, continuă. Nu implementa mai multe etape simultan. Oprește-te
+după fiecare etapă pentru verificare. Fiecare etapă trebuie să producă o versiune
+utilizabilă.
 
-Sursele stau local, în rădăcina proiectului, în folderul `Clasa a V-a/`, și mai târziu în `Clasa a VIII-a/`. Amândouă sunt în `.gitignore`, nu intră niciodată în git, conțin manualul, ghidul profesorului, planificarea, proiectarea pe unități și orice alt draft de lecție pus acolo de Antoanela. Înainte de a lucra o lecție, cauți direct în acest folder, cu instrumentele de fișiere, și selectezi ce e relevant pentru conținutul cerut, fără să aștepți să fii îndrumat exact la fișier. Dacă nu găsești acolo o sursă de care ai nevoie, cauți suplimentar și în Google Drive, la care ai acces direct prin instrumentele conectate, sau întrebi pe Antoanela. Folosești doar sursele care chiar corespund lecției sau unității în lucru, fără să presupui legături care nu ți-au fost date, și verifici ediția, un manual vechi poate avea altă paginație decât cel curent. Dacă un manual e scanat ca imagine, nu text selectabil, semnalezi înainte de a cita pagini exacte, ar putea fi nevoie de OCR.
+**Regula „nu inventa".** Nu inventa API-uri, endpoint-uri, structuri de bază de
+date, autentificare, date curriculare, resurse, rezultate ale elevilor sau
+funcționalități despre care codul nu oferă dovezi. Dacă o funcție cere o
+infrastructură care nu există, marchează clar limitarea și pregătește interfața
+pentru integrarea ulterioară.
 
-## Flux de lucru, pe unitate de învățare
+**Regula de finalizare.** O funcție e terminată numai când e implementată, e
+accesibilă din interfață, funcționează în fluxul real, nu rupe funcțiile
+existente, gestionează erorile și e verificată pe dimensiunile relevante de
+ecran. O componentă izolată nu e o funcție finalizată.
 
-Unitățile au până la douăzeci de lecții. Lucrezi o unitate completă înainte de a trece la următoarea.
+**Nu publica, nu trimite și nu finaliza nimic fără aprobarea explicită a
+Antoanelei.**
 
-1. Antoanela indică clasa, unitatea, paginile din planificare, manual, ghid și orice alte surse relevante.
-2. Arăți un tabel cu lecțiile unității și materialele propuse pentru fiecare, nu toate tipurile pentru toate lecțiile. Aștepți aprobare explicită înainte de a continua.
-3. Lucrezi lecție cu lecție, în ordine: draft, verificare, aprobare, abia apoi lecția următoare.
-4. După aprobarea întregii unități, integrezi conținutul în codul React, ca fișier nou de date.
-5. Testați local navigarea și afișarea, apoi faceți deploy.
+## 4. Principii tehnice
 
-Nu treci la unitatea următoare fără confirmarea explicită că cea curentă e gata.
+1. Simplitatea are prioritate față de numărul de funcții.
+2. Lecția e centrul platformei, nu resursa izolată.
+3. O resursă poate fi reutilizată în mai multe lecții. Nu duplica aceeași
+   resursă în fiecare lecție, folosește referințe.
+4. Profesorul controlează ce ajunge la elev.
+5. Păstrează separarea clară între date, logică și interfață.
+6. Păstrează codul modular. Nu introduce dependențe noi dacă problema se rezolvă
+   cu infrastructura existentă.
+7. Nu modifica sau șterge funcționalități existente fără să verifici impactul.
+8. Nu rescrie componente existente doar ca să schimbi stilul codului.
+9. Nu introduce funcționalități complexe care nu contribuie direct la
+   activitatea didactică.
 
-## Direcție respinsă sau amânată, 2026
+**Securitate, regulă strictă.** Nu implementa protecția conținutului privat
+exclusiv în frontend. Ascunderea unui element de interfață nu e control de acces.
+Aplicația e un frontend static, deci orice informație trimisă către browser se
+consideră accesibilă utilizatorului. Pentru planuri personale, baremuri, notițe,
+date despre elevi și materiale private e nevoie de un backend cu autentificare și
+autorizare reale. Arhitectura trebuie să permită această migrare fără rescrierea
+întregii aplicații. Vezi `docs/architecture.md`.
 
-Antoanela a cerut la un moment dat o platformă completă, gen Notion, Canva și Google Classroom, cu backend, cont de elev, gamification, AI Assistant live și, separat, un portofoliu digital al elevului pe tot ciclul gimnazial și un copilot AI live în timpul orei. A confirmat explicit, prin întrebări directe, că:
+**Regula pentru AI.** AI-ul e o funcție a platformei, nu platforma însăși. OraRO
+trebuie să fie util și fără AI. O lecție generată de AI se transformă în entități
+reale ale aplicației, `Lesson → LessonBlock → Activity → Resource → Assessment`,
+nu se salvează ca text lung. Nu prezenta date generate drept date reale.
 
-- OraRO rămâne fără backend, site static, instrument personal, cel puțin deocamdată. Portofoliul digital al elevului (date reale ale unor minori, pe mai mulți ani, cer bază de date și măsuri serioase de confidențialitate) și copilotul AI live (cere o cheie API ascunsă de un server) rămân idei de viitor, nu se construiesc fără backend.
-- „Asistentul editorial pentru revista școlii" ține de alt proiect, Site-Principele-Carol, nu de OraRO.
-- Constructor de lecții, asistent de evaluare și centru multimedia s-au construit ca variante fezabile fără backend: indicator de completitudine pe lecție, teste cu niveluri de dificultate opționale, modulul Bibliotecă.
+## 5. Ordinea obligatorie a implementării
 
-Dacă apare din nou cererea de backend, cont de elev sau AI live, verifici mai întâi acest istoric, nu presupui că discuția pornește de la zero.
+Respectă ordinea. Nu o inversa fiindcă o funcție pare mai spectaculoasă.
 
-## Găzduire și acces
+**ETAPA 1, nucleul.** Dashboard, Ora de azi, Planificare, Unități de învățare,
+Lecții, Lecții modulare, Cockpitul orei, Timer, Navigarea între blocuri,
+Marcarea lecției ca parcursă, Reflecția după oră.
+Rezultat: profesorul poate intra în OraRO și poate conduce o oră completă.
 
-Site static, rezultat din build-ul React, găzduit gratuit pe GitHub Pages sau pe Netlify.
+**ETAPA 2, resurse și evaluare.** Biblioteca inteligentă, Resurse, Căutare,
+Favorite, Materiale recente, Distribuire către elevi, Activități, Jocuri,
+Quizuri, Evaluări, Exit ticket, Rezultate.
 
-Zona elevilor, fișe de lucru, jocuri, escape room, se publică, cu link dat lor direct. Zona Antoanelei, bareme, răspunsuri, notițe despre clase, planuri de lecție, nu se publică deloc, rămâne separată, local sau într-un folder Drive privat. Dacă la un moment dat se pune un ecran de parolă peste zona profesoarei, spui clar că e un filtru, nu securitate reală, un elev priceput la browser poate vedea codul sursă.
+**ETAPA 3, inteligență și spațiul elevului.** Spațiul elevului, Autentificare
+reală, Permisiuni, Conținut privat, Laboratorul de lecții, Ora rapidă, „Nu știu
+ce să fac azi", Generator de activități, Recomandări AI, Adaptarea lecțiilor,
+Analiza progresului.
 
-## Stil de redactare, obligatoriu pentru orice text generat aici
+Nu trece la ETAPA 2 până când fluxul din ETAPA 1 nu e stabil. Nu trece la ETAPA 3
+până când nucleul și sistemul de resurse și evaluare nu sunt stabile.
 
-Limbaj natural, apropiat de un vorbitor nativ, fără cuvinte bombastice. Fără linii de pauză, le înlocuiești cu virgulă, punct sau punct și virgulă. Fără „nu este doar X, ci Y" și variantele ei. Fără „versus", „vs" sau „&", folosești „și". Titluri cu majusculă doar la primul cuvânt. Diacritice corecte întotdeauna, ă, â, î, ș, ț. Eviți pasivul dezumanizat de tipul „se observă că", preferi „observăm că" sau adresarea directă. Eviți nominalizările excesive, preferi verbele. Ritm variat de frază, nu propoziții toate de aceeași lungime. Verifici expresiile care sună a traducere mecanică din engleză și le reformulezi natural.
+**Prioritatea produsului**, în ordine: Ora de azi, Cockpitul orei, Lecția
+modulară, Dashboardul, Planificarea, Resursele, Activitățile, Evaluarea, Spațiul
+elevului, AI.
 
-## Reguli de finalizare
+## 6. Documentația de referință
 
-Nu publici, nu trimiți și nu finalizezi nimic fără aprobarea explicită a Antoanelei. Semnalezi orice contradicție găsită între surse sau între acest proiect și LimbaRo. Verifici sursele înainte de a scrie fapte sau cifre, nu inventezi referințe.
+| Document | Ce conține |
+|---|---|
+| `docs/architecture.md` | Cele două spații, permisiuni, protecția conținutului privat, starea actuală a codului față de model, decizii de arhitectură |
+| `docs/roadmap.md` | Cele trei etape în detaliu, ce e blocat de lipsa backendului, starea reală față de plan |
+| `docs/data-model.md` | Entitățile, relațiile, identitatea lecției, blocurile, activitățile, resursele, evaluarea, maparea de la datele actuale |
+| `docs/ux.md` | Sidebar, dashboard, Ora de azi, cockpit, laboratorul, spațiul elevului, design, responsive, accesibilitate, fluxul ideal |
+| `docs/continut-si-stil.md` | Regulile de conținut, sursele, convențiile de numerotare, stilul de redactare obligatoriu |
+
+Dacă documentația contrazice codul existent, inspectează codul și semnalează
+conflictul înainte de a face modificări majore.
 
 ## graphify
 
-This project has a knowledge graph at graphify-out/ with god nodes, community structure, and cross-file relationships.
+Proiectul are un graf de cunoștințe în `graphify-out/`.
 
-Rules:
-- For codebase questions, first run `graphify query "<question>"` when graphify-out/graph.json exists. Use `graphify path "<A>" "<B>"` for relationships and `graphify explain "<concept>"` for focused concepts. These return a scoped subgraph, usually much smaller than GRAPH_REPORT.md or raw grep output.
-- If graphify-out/wiki/index.md exists, use it for broad navigation instead of raw source browsing.
-- Read graphify-out/GRAPH_REPORT.md only for broad architecture review or when query/path/explain do not surface enough context.
-- After modifying code, run `graphify update .` to keep the graph current (AST-only, no API cost).
+- Pentru întrebări despre cod, rulează întâi `graphify query "<întrebare>"`.
+  Folosește `graphify path "<A>" "<B>"` pentru relații și
+  `graphify explain "<concept>"` pentru concepte punctuale.
+- `graphify-out/wiki/index.md`, dacă există, e bun pentru navigare generală.
+- `graphify-out/GRAPH_REPORT.md` doar pentru analiză de arhitectură pe scară
+  largă.
+- După modificarea codului, rulează `graphify update .`.
