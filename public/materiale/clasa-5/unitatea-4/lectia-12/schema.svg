@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 410" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="940" height="410" fill="#faf7f0"/>
+  <text x="470" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Din SMS în limba română corectă</text>
+  <text x="470" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 12 · Pronumele personal, aspecte normative</text>
+  <rect x="40" y="100" width="400" height="46" rx="12" fill="#c1503a"/>
+  <text x="240" y="129" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">CUM SCRIU ÎN GRABĂ</text>
+  <rect x="500" y="100" width="400" height="46" rx="12" fill="#1c7f5e"/>
+  <text x="700" y="129" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">CUM SE SCRIE CORECT</text>
+  <rect x="40" y="158" width="400" height="44" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="60" y="186" font-size="13" fill="#3d4a5f">nush ce sa fac</text>
+  <path d="M448 180 L482 180" stroke="#b8944f" stroke-width="2.5"/>
+  <path d="M476 174 L486 180 L476 186 Z" fill="#b8944f"/>
+  <rect x="500" y="158" width="400" height="44" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="520" y="186" font-size="13" fill="#10233f">Nu știu ce să fac.</text>
+  <rect x="40" y="212" width="400" height="44" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="60" y="240" font-size="13" fill="#3d4a5f">ma duc si eu acolo</text>
+  <path d="M448 234 L482 234" stroke="#b8944f" stroke-width="2.5"/>
+  <path d="M476 228 L486 234 L476 240 Z" fill="#b8944f"/>
+  <rect x="500" y="212" width="400" height="44" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="520" y="240" font-size="13" fill="#10233f">Mă duc și eu acolo.</text>
+  <rect x="40" y="266" width="400" height="44" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="60" y="294" font-size="13" fill="#3d4a5f">kd vii?</text>
+  <path d="M448 288 L482 288" stroke="#b8944f" stroke-width="2.5"/>
+  <path d="M476 282 L486 288 L476 294 Z" fill="#b8944f"/>
+  <rect x="500" y="266" width="400" height="44" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="520" y="294" font-size="13" fill="#10233f">Când vii?</text>
+  <rect x="40" y="320" width="400" height="44" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="60" y="348" font-size="13" fill="#3d4a5f">mersi mult :)</text>
+  <path d="M448 342 L482 342" stroke="#b8944f" stroke-width="2.5"/>
+  <path d="M476 336 L486 342 L476 348 Z" fill="#b8944f"/>
+  <rect x="500" y="320" width="400" height="44" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="520" y="348" font-size="13" fill="#10233f">Mulțumesc mult.</text>
+  <rect x="40" y="380" width="860" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="62" y="405" font-size="13" font-weight="700" fill="#10233f">Nu e vorba că SMS-ul e greșit</text>
+  <text x="62" y="425" font-size="12" fill="#3d4a5f">e vorba că fiecare situație cere altă scriere. La școală și în texte oficiale se scrie complet, cu diacritice.</text>
+</svg>

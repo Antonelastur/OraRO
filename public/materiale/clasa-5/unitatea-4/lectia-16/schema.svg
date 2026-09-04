@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="980" height="420" fill="#faf7f0"/>
+  <text x="490" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cum îmi fac autoportretul</text>
+  <text x="490" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 16 · Descrierea unei persoane, pregătire</text>
+  <rect x="36" y="100" width="452" height="150" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
+  <text x="56" y="130" font-size="14" font-weight="700" fill="#10233f">Trăsături FIZICE</text>
+  <text x="56" y="156" font-size="12" fill="#3d4a5f">cum arăt: înălțime, păr, ochi,</text>
+  <text x="56" y="176" font-size="12" fill="#3d4a5f">un semn care mă face de recunoscut</text>
+  <text x="56" y="196" font-size="12" fill="#3d4a5f"></text>
+  <text x="56" y="216" font-size="12" fill="#3d4a5f">Nu tot ce se vede merită scris.</text>
+  <text x="56" y="236" font-size="12" fill="#3d4a5f">Alege ce te deosebește.</text>
+  <rect x="512" y="100" width="432" height="150" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
+  <text x="532" y="130" font-size="14" font-weight="700" fill="#10233f">Trăsături MORALE</text>
+  <text x="532" y="156" font-size="12" fill="#3d4a5f">cum sunt: răbdător, curios,</text>
+  <text x="532" y="176" font-size="12" fill="#3d4a5f">încăpățânat, vesel</text>
+  <text x="532" y="196" font-size="12" fill="#3d4a5f"></text>
+  <text x="532" y="216" font-size="12" fill="#3d4a5f">Aici e miezul autoportretului.</text>
+  <rect x="36" y="272" width="908" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="58" y="297" font-size="13" font-weight="700" fill="#10233f">Regula fără de care nu iese</text>
+  <text x="58" y="317" font-size="12" fill="#3d4a5f">orice trăsătură morală are nevoie de o faptă care o dovedește. Nu scrie sunt curajos; scrie ce ai făcut când ți-a fost frică.</text>
+  <rect x="36" y="336" width="908" height="56" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
+  <text x="58" y="361" font-size="13" font-weight="700" fill="#10233f">Ordinea</text>
+  <text x="58" y="381" font-size="12" fill="#3d4a5f">începe cu fizicul, pe scurt, apoi treci la moral și rămâi acolo. Autoportretul nu e o fișă de identitate.</text>
+  <text x="490" y="404" text-anchor="middle" font-size="12" font-style="italic" fill="#5b6b83">Cel mai greu la un autoportret e să fii sincer, nu să scrii frumos.</text>
+</svg>

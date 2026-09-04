@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 450" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="1000" height="450" fill="#faf7f0"/>
+  <text x="500" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Pronumele și adjectivul, tot la un loc</text>
+  <text x="500" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 19 · Recapitulare, gramatică</text>
+  <rect x="36" y="96" width="460" height="34" rx="10" fill="#3b5fa8"/>
+  <text x="266" y="119" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">PRONUMELE</text>
+  <rect x="512" y="96" width="452" height="34" rx="10" fill="#a1417e"/>
+  <text x="738" y="119" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">ADJECTIVUL</text>
+  <rect x="36" y="142" width="460" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
+  <text x="58" y="166" font-size="13" font-weight="700" fill="#10233f">Personal</text>
+  <text x="58" y="186" font-size="12" fill="#3d4a5f">eu, tu, el, ea, noi, voi, ei, ele</text>
+  <rect x="36" y="210" width="460" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
+  <text x="58" y="234" font-size="13" font-weight="700" fill="#10233f">De politețe</text>
+  <text x="58" y="254" font-size="12" fill="#3d4a5f">dumneata, dumneavoastră, dumnealui</text>
+  <rect x="36" y="278" width="460" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
+  <text x="58" y="302" font-size="13" font-weight="700" fill="#10233f">Ce face</text>
+  <text x="58" y="322" font-size="12" fill="#3d4a5f">înlocuiește un substantiv</text>
+  <rect x="512" y="142" width="452" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
+  <text x="534" y="166" font-size="13" font-weight="700" fill="#10233f">Acordul</text>
+  <text x="534" y="186" font-size="12" fill="#3d4a5f">în gen și număr cu substantivul</text>
+  <rect x="512" y="210" width="452" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
+  <text x="534" y="234" font-size="13" font-weight="700" fill="#10233f">Gradele</text>
+  <text x="534" y="254" font-size="12" fill="#3d4a5f">pozitiv, comparativ, superlativ</text>
+  <rect x="512" y="278" width="452" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
+  <text x="534" y="302" font-size="13" font-weight="700" fill="#10233f">Articolul demonstrativ</text>
+  <text x="534" y="322" font-size="12" fill="#3d4a5f">cel, cea: eroul cel curajos</text>
+  <rect x="36" y="352" width="928" height="56" rx="14" fill="#ffffff" stroke="#c1503a" stroke-width="2"/>
+  <text x="58" y="377" font-size="13" font-weight="700" fill="#10233f">Capcana de la politețe</text>
+  <text x="58" y="397" font-size="12" fill="#3d4a5f">dumneavoastră cere verb la plural: dumneavoastră SUNTEȚI, niciodată dumneavoastră ești.</text>
+  <rect x="36" y="416" width="928" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="58" y="441" font-size="13" font-weight="700" fill="#10233f">Capcana de la grade</text>
+  <text x="58" y="461" font-size="12" fill="#3d4a5f">unele adjective nu au grade: principal, veșnic, complet. Nu spui mai principal.</text>
+</svg>
