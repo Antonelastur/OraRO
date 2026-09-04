@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 440" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="1000" height="440" fill="#faf7f0"/>
+  <text x="500" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Substantivul, tot ce trebuie să știu</text>
+  <text x="500" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 18 · Recapitulare, gramatică</text>
+  <rect x="36" y="100" width="300" height="154" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
+  <text x="56" y="130" font-size="14" font-weight="700" fill="#10233f">Felul</text>
+  <text x="56" y="156" font-size="12" fill="#3d4a5f">comun: stradă, casă, copil</text>
+  <text x="56" y="176" font-size="12" fill="#3d4a5f">propriu: Zorilor, Ana</text>
+  <text x="56" y="196" font-size="12" fill="#3d4a5f"></text>
+  <text x="56" y="216" font-size="12" fill="#3d4a5f">Propriul se scrie</text>
+  <text x="56" y="236" font-size="12" fill="#3d4a5f">cu majusculă.</text>
+  <rect x="350" y="100" width="300" height="154" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
+  <text x="370" y="130" font-size="14" font-weight="700" fill="#10233f">Genul</text>
+  <text x="370" y="156" font-size="12" fill="#3d4a5f">masculin: un, doi</text>
+  <text x="370" y="176" font-size="12" fill="#3d4a5f">feminin: o, două</text>
+  <text x="370" y="196" font-size="12" fill="#3d4a5f">neutru: un, două</text>
+  <text x="370" y="216" font-size="12" fill="#3d4a5f"></text>
+  <text x="370" y="236" font-size="12" fill="#3d4a5f">Proba: numără!</text>
+  <rect x="664" y="100" width="300" height="154" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
+  <text x="684" y="130" font-size="14" font-weight="700" fill="#10233f">Numărul</text>
+  <text x="684" y="156" font-size="12" fill="#3d4a5f">singular: strada</text>
+  <text x="684" y="176" font-size="12" fill="#3d4a5f">plural: străzile</text>
+  <text x="684" y="196" font-size="12" fill="#3d4a5f"></text>
+  <text x="684" y="216" font-size="12" fill="#3d4a5f">Unele n-au plural:</text>
+  <text x="684" y="236" font-size="12" fill="#3d4a5f">curaj, miere.</text>
+  <rect x="36" y="272" width="460" height="130" rx="16" fill="#ffffff" stroke="#6f5ea8" stroke-width="2.5"/>
+  <text x="56" y="302" font-size="14" font-weight="700" fill="#10233f">Articolul</text>
+  <text x="56" y="328" font-size="12" fill="#3d4a5f">hotărât, la sfârșit: strada, copiii</text>
+  <text x="56" y="348" font-size="12" fill="#3d4a5f">nehotărât, înainte: o stradă, un copil</text>
+  <text x="56" y="368" font-size="12" fill="#3d4a5f"></text>
+  <text x="56" y="388" font-size="12" fill="#3d4a5f">Capcana: copiii cu trei i, ochii cu doi.</text>
+  <rect x="510" y="272" width="454" height="130" rx="16" fill="#ffffff" stroke="#b0512f" stroke-width="2.5"/>
+  <text x="530" y="302" font-size="14" font-weight="700" fill="#10233f">Ce se leagă de substantiv</text>
+  <text x="530" y="328" font-size="12" fill="#3d4a5f">atribut: casa veche, casa bunicii</text>
+  <text x="530" y="348" font-size="12" fill="#3d4a5f">prepoziție simplă: la, pe, în, de</text>
+  <text x="530" y="368" font-size="12" fill="#3d4a5f">prepoziție compusă: de la, din cauza</text>
+  <rect x="36" y="414" width="928" height="56" rx="14" fill="#ffffff" stroke="#c1503a" stroke-width="2"/>
+  <text x="58" y="439" font-size="13" font-weight="700" fill="#10233f">Acordul</text>
+  <text x="58" y="459" font-size="12" fill="#3d4a5f">subiect multiplu, predicat la plural. Ana și Maria au plecat, niciodată a plecat.</text>
+</svg>

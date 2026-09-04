@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="940" height="400" fill="#faf7f0"/>
+  <text x="470" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cum ascult cu adevărat</text>
+  <text x="470" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 9 · Ascultarea activă</text>
+  <rect x="36" y="100" width="418" height="248" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
+  <text x="60" y="134" font-size="15" font-weight="700" fill="#1c7f5e">AȘA DA</text>
+  <circle cx="70" cy="170" r="6" fill="#1c7f5e"/>
+  <text x="88" y="175" font-size="12.5" fill="#3d4a5f">Mă uit la cel care vorbește</text>
+  <circle cx="70" cy="204" r="6" fill="#1c7f5e"/>
+  <text x="88" y="209" font-size="12.5" fill="#3d4a5f">Îl las să termine</text>
+  <circle cx="70" cy="238" r="6" fill="#1c7f5e"/>
+  <text x="88" y="243" font-size="12.5" fill="#3d4a5f">Dau din cap, arăt că sunt atent</text>
+  <circle cx="70" cy="272" r="6" fill="#1c7f5e"/>
+  <text x="88" y="277" font-size="12.5" fill="#3d4a5f">Întreb dacă nu am înțeles</text>
+  <circle cx="70" cy="306" r="6" fill="#1c7f5e"/>
+  <text x="88" y="311" font-size="12.5" fill="#3d4a5f">Repet cu vorbele mele ce a spus</text>
+  <rect x="486" y="100" width="418" height="248" rx="16" fill="#ffffff" stroke="#c1503a" stroke-width="2.5"/>
+  <text x="510" y="134" font-size="15" font-weight="700" fill="#c1503a">AȘA NU</text>
+  <circle cx="520" cy="170" r="6" fill="#c1503a"/>
+  <text x="538" y="175" font-size="12.5" fill="#3d4a5f">Mă uit pe geam sau la telefon</text>
+  <circle cx="520" cy="204" r="6" fill="#c1503a"/>
+  <text x="538" y="209" font-size="12.5" fill="#3d4a5f">Îl întrerup la mijloc</text>
+  <circle cx="520" cy="238" r="6" fill="#c1503a"/>
+  <text x="538" y="243" font-size="12.5" fill="#3d4a5f">Pregătesc răspunsul în timp ce vorbește</text>
+  <circle cx="520" cy="272" r="6" fill="#c1503a"/>
+  <text x="538" y="277" font-size="12.5" fill="#3d4a5f">Schimb subiectul</text>
+  <circle cx="520" cy="306" r="6" fill="#c1503a"/>
+  <text x="538" y="311" font-size="12.5" fill="#3d4a5f">Mă gândesc la altceva</text>
+  <rect x="36" y="360" width="868" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="58" y="385" font-size="13" font-weight="700" fill="#10233f">Proba</text>
+  <text x="58" y="405" font-size="12" fill="#3d4a5f">la final, poți spune cu vorbele tale ce a zis celălalt? Dacă da, ai ascultat.</text>
+</svg>
