@@ -15,6 +15,12 @@
 // planLectie conține o schiță de plan în 6 pași (momentele lecției), afișată
 // pe site sub eticheta discretă „Doar profesor” din PlanProfesor.tsx.
 // Planurile ERR mai vechi din notite-profesor/ rămân neatinse, sunt altă formă.
+//
+// Lecțiile 3 și 4 sunt probele de evaluare inițială. Testele NU se publică:
+// site-ul e static, iar elevii au linkul, deci un test pus aici ar fi vizibil
+// înainte de administrare. Rămân `test: null`, iar Antoanela le tipărește din
+// Clasa a V-a/U1/S1_L2_Test_initial_receptare.docx și S1_L3_..._comunicare.docx.
+// Decizie confirmată 2026-09-04, vezi docs/architecture.md, secțiunea 5.
 
 export const recapitulareInitiala = {
   id: 'recapitulare-initiala',
@@ -78,7 +84,7 @@ export const recapitulareInitiala = {
         evaluare: 'Observarea sistematică a participării la joc și la discuție; fișa cu așteptări, fără notare.',
       },
       materiale: {
-        prezentare: null,
+        prezentare: { fisier: '/materiale/clasa-5/recapitulare-initiala/lectia-1/prezentare.pdf' },
         video: null,
         test: null,
         fisa: null,
@@ -348,7 +354,7 @@ export const recapitulareInitiala = {
         prezentare: null,
         video: null,
         test: null,
-        fisa: null,
+        fisa: { fisier: '/materiale/clasa-5/recapitulare-initiala/lectia-5/fisa.pdf' },
         joc: null,
         infografic: null,
         schema: null,
