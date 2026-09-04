@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 430" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="1000" height="430" fill="#faf7f0"/>
+  <text x="500" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cum e construită o reclamă</text>
+  <text x="500" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 6 · Textul multimodal. Reclama</text>
+  <rect x="36" y="100" width="220" height="116" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
+  <text x="56" y="130" font-size="14" font-weight="700" fill="#10233f">Imaginea</text>
+  <text x="56" y="156" font-size="12" fill="#3d4a5f">atrage privirea</text>
+  <text x="56" y="176" font-size="12" fill="#3d4a5f">în prima secundă</text>
+  <rect x="276" y="100" width="220" height="116" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
+  <text x="296" y="130" font-size="14" font-weight="700" fill="#10233f">Sloganul</text>
+  <text x="296" y="156" font-size="12" fill="#3d4a5f">scurt, ușor de reținut,</text>
+  <text x="296" y="176" font-size="12" fill="#3d4a5f">adesea cu joc de cuvinte</text>
+  <rect x="516" y="100" width="220" height="116" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
+  <text x="536" y="130" font-size="14" font-weight="700" fill="#10233f">Textul</text>
+  <text x="536" y="156" font-size="12" fill="#3d4a5f">argumentul,</text>
+  <text x="536" y="176" font-size="12" fill="#3d4a5f">de obicei mic</text>
+  <rect x="756" y="100" width="220" height="116" rx="16" fill="#ffffff" stroke="#b0512f" stroke-width="2.5"/>
+  <text x="776" y="130" font-size="14" font-weight="700" fill="#10233f">Marca</text>
+  <text x="776" y="156" font-size="12" fill="#3d4a5f">cine vinde,</text>
+  <text x="776" y="176" font-size="12" fill="#3d4a5f">ca să reții</text>
+  <text x="500" y="256" text-anchor="middle" font-size="15" font-weight="700" fill="#10233f">Cum te convinge</text>
+  <rect x="36" y="272" width="928" height="38" rx="10" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="58" y="296" font-size="12.5" font-weight="700" fill="#6f5ea8">Îți promite o schimbare</text>
+  <text x="330" y="296" font-size="12" fill="#3d4a5f">vei fi mai rapid, mai frumos, mai liber</text>
+  <rect x="36" y="318" width="928" height="38" rx="10" fill="#ffffff" stroke="#846b36" stroke-width="2"/>
+  <text x="58" y="342" font-size="12.5" font-weight="700" fill="#846b36">Îți arată oameni fericiți</text>
+  <text x="330" y="342" font-size="12" fill="#3d4a5f">ca să asociezi produsul cu starea lor</text>
+  <rect x="36" y="364" width="928" height="38" rx="10" fill="#ffffff" stroke="#c1503a" stroke-width="2"/>
+  <text x="58" y="388" font-size="12.5" font-weight="700" fill="#c1503a">Îți creează o lipsă</text>
+  <text x="330" y="388" font-size="12" fill="#3d4a5f">ofertă limitată, doar azi, ultimele bucăți</text>
+  <rect x="36" y="410" width="928" height="56" rx="14" fill="#ffffff" stroke="#c1503a" stroke-width="2"/>
+  <text x="58" y="435" font-size="13" font-weight="700" fill="#10233f">Întrebarea de pus la orice reclamă</text>
+  <text x="58" y="455" font-size="12" fill="#3d4a5f">ce vinde de fapt? Rareori obiectul. De obicei o stare: siguranță, apartenență, admirație.</text>
+</svg>

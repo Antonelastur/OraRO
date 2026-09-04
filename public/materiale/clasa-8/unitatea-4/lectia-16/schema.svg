@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="960" height="420" fill="#faf7f0"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Tiparul pro-contra</text>
+  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 16 · Tipare textuale de structurare a ideilor</text>
+  <rect x="36" y="100" width="432" height="180" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
+  <text x="58" y="132" font-size="15" font-weight="700" fill="#1c7f5e">PRO</text>
+  <text x="58" y="162" font-size="12.5" fill="#3d4a5f">Argument 1 + exemplul lui</text>
+  <text x="58" y="186" font-size="12.5" fill="#3d4a5f">Argument 2 + exemplul lui</text>
+  <text x="58" y="222" font-size="12" font-style="italic" fill="#5b6b83">în primul rând, mai mult,</text>
+  <text x="58" y="242" font-size="12" font-style="italic" fill="#5b6b83">de asemenea</text>
+  <rect x="492" y="100" width="432" height="180" rx="16" fill="#ffffff" stroke="#c1503a" stroke-width="2.5"/>
+  <text x="514" y="132" font-size="15" font-weight="700" fill="#c1503a">CONTRA</text>
+  <text x="514" y="162" font-size="12.5" fill="#3d4a5f">Contraargument 1 + exemplu</text>
+  <text x="514" y="186" font-size="12.5" fill="#3d4a5f">Contraargument 2 + exemplu</text>
+  <text x="514" y="222" font-size="12" font-style="italic" fill="#5b6b83">dar, dimpotrivă, totuși,</text>
+  <text x="514" y="242" font-size="12" font-style="italic" fill="#5b6b83">în schimb, pe de altă parte</text>
+  <path d="M474 190 L486 190" stroke="#b8944f" stroke-width="3"/>
+  <rect x="36" y="296" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="58" y="321" font-size="13" font-weight="700" fill="#10233f">Încheierea</text>
+  <text x="58" y="341" font-size="12" fill="#3d4a5f">îți asumi o poziție. Un text pro-contra care nu se decide la final nu convinge pe nimeni.</text>
+  <rect x="36" y="360" width="888" height="56" rx="14" fill="#ffffff" stroke="#c1503a" stroke-width="2"/>
+  <text x="58" y="385" font-size="13" font-weight="700" fill="#10233f">Greșeala frecventă</text>
+  <text x="58" y="405" font-size="12" fill="#3d4a5f">argumentele contra puse ca să fie bifate, fără exemple. Ele trebuie tratate la fel de serios ca cele pro.</text>
+</svg>

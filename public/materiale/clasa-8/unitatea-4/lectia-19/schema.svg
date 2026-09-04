@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 430" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="1000" height="430" fill="#faf7f0"/>
+  <text x="500" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Toate circumstanțialele, la un loc</text>
+  <text x="500" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 19 · Recapitulare, limbă română</text>
+  <rect x="36" y="96" width="180" height="36" rx="10" fill="#e2d9c4"/>
+  <text x="126" y="120" text-anchor="middle" font-size="12" font-weight="700" fill="#10233f">TIPUL</text>
+  <rect x="228" y="96" width="360" height="36" rx="10" fill="#e2d9c4"/>
+  <text x="408" y="120" text-anchor="middle" font-size="12" font-weight="700" fill="#10233f">ÎNTREBĂRI</text>
+  <rect x="600" y="96" width="364" height="36" rx="10" fill="#e2d9c4"/>
+  <text x="782" y="120" text-anchor="middle" font-size="12" font-weight="700" fill="#10233f">ELEMENTE DE RELAȚIE (pentru propoziție)</text>
+  <rect x="36" y="144" width="180" height="52" rx="12" fill="#3b5fa8"/>
+  <text x="126" y="176" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">DE LOC</text>
+  <rect x="228" y="144" width="360" height="52" rx="12" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="248" y="176" font-size="12.5" fill="#10233f">unde? de unde? încotro?</text>
+  <rect x="600" y="144" width="364" height="52" rx="12" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="620" y="176" font-size="12" fill="#3d4a5f">unde, oriunde, de unde</text>
+  <rect x="36" y="206" width="180" height="52" rx="12" fill="#a1417e"/>
+  <text x="126" y="238" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">DE TIMP</text>
+  <rect x="228" y="206" width="360" height="52" rx="12" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="248" y="238" font-size="12.5" fill="#10233f">când? cât timp? până când?</text>
+  <rect x="600" y="206" width="364" height="52" rx="12" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="620" y="238" font-size="12" fill="#3d4a5f">când, până când, după ce</text>
+  <rect x="36" y="268" width="180" height="52" rx="12" fill="#1c7f5e"/>
+  <text x="126" y="300" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">DE MOD</text>
+  <rect x="228" y="268" width="360" height="52" rx="12" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="248" y="300" font-size="12.5" fill="#10233f">cum? în ce fel? cât?</text>
+  <rect x="600" y="268" width="364" height="52" rx="12" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
+  <text x="620" y="300" font-size="12" fill="#3d4a5f">cum, precum, ca și cum, cu cât</text>
+  <rect x="36" y="336" width="928" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="58" y="361" font-size="13" font-weight="700" fill="#10233f">Fiecare are două forme</text>
+  <text x="58" y="381" font-size="12" fill="#3d4a5f">circumstanțialul e parte de propoziție, circumstanțiala e propoziție. Se opresc ACOLO, față de Se opresc UNDE VOR EI.</text>
+  <rect x="36" y="400" width="928" height="56" rx="14" fill="#ffffff" stroke="#c1503a" stroke-width="2"/>
+  <text x="58" y="425" font-size="13" font-weight="700" fill="#10233f">Virgula</text>
+  <text x="58" y="445" font-size="12" fill="#3d4a5f">obligatorie când subordonata stă înaintea regentei. Când s-a înserat, au plecat.</text>
+</svg>
