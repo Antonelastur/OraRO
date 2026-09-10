@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 513" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="1000" height="513" fill="#faf7f0"/>
+  <text x="500" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">A explica, a recomanda, a afirma</text>
+  <text x="500" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea VI · Acte de limbaj</text>
+  <rect x="36" y="96" width="301" height="34" rx="10" fill="#3b5fa8"/>
+  <text x="186.5" y="119" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">A EXPLICA</text>
+  <rect x="36" y="142" width="301" height="77" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
+  <text x="56" y="166" font-size="13" font-weight="700" fill="#10233f">Ce faci</text>
+  <text x="56" y="186" font-size="12" fill="#3d4a5f">lămurești un subiect, ca să fie</text>
+  <text x="56" y="205" font-size="12" fill="#3d4a5f">ușor de înțeles</text>
+  <rect x="36" y="231" width="301" height="77" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
+  <text x="56" y="255" font-size="13" font-weight="700" fill="#10233f">Două întrebări</text>
+  <text x="56" y="275" font-size="12" fill="#3d4a5f">de ce? (cauza)</text>
+  <text x="56" y="294" font-size="12" fill="#3d4a5f">cum? (instrucțiuni, un traseu)</text>
+  <rect x="36" y="320" width="301" height="77" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
+  <text x="56" y="344" font-size="13" font-weight="700" fill="#10233f">Cuvinte-cheie</text>
+  <text x="56" y="364" font-size="12" fill="#3d4a5f">pentru că, deoarece, fiindcă;</text>
+  <text x="56" y="383" font-size="12" fill="#3d4a5f">prin urmare, deci, în consecință</text>
+  <rect x="349" y="96" width="301" height="34" rx="10" fill="#a1417e"/>
+  <text x="499.5" y="119" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">A RECOMANDA</text>
+  <rect x="349" y="142" width="301" height="77" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
+  <text x="369" y="166" font-size="13" font-weight="700" fill="#10233f">Ce faci</text>
+  <text x="369" y="186" font-size="12" fill="#3d4a5f">îl îndemni pe cineva să acționeze,</text>
+  <text x="369" y="205" font-size="12" fill="#3d4a5f">îi dai un sfat, îi propui ceva</text>
+  <rect x="349" y="231" width="301" height="96" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
+  <text x="369" y="255" font-size="13" font-weight="700" fill="#10233f">Formule</text>
+  <text x="369" y="275" font-size="12" fill="#3d4a5f">Îți recomand să…</text>
+  <text x="369" y="294" font-size="12" fill="#3d4a5f">Te sfătuiesc să…</text>
+  <text x="369" y="313" font-size="12" fill="#3d4a5f">Îți propun să…</text>
+  <rect x="662" y="96" width="301" height="34" rx="10" fill="#0d9c92"/>
+  <text x="812.5" y="119" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">A AFIRMA</text>
+  <rect x="662" y="142" width="301" height="77" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="682" y="166" font-size="13" font-weight="700" fill="#10233f">Ce faci</text>
+  <text x="682" y="186" font-size="12" fill="#3d4a5f">enunți un fapt sau susții</text>
+  <text x="682" y="205" font-size="12" fill="#3d4a5f">că ceva e adevărat</text>
+  <rect x="662" y="231" width="301" height="77" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="682" y="255" font-size="13" font-weight="700" fill="#10233f">Exemple</text>
+  <text x="682" y="275" font-size="12" fill="#3d4a5f">Pământul este rotund.</text>
+  <text x="682" y="294" font-size="12" fill="#3d4a5f">Recunosc că am greșit.</text>
+  <rect x="36" y="409" width="928" height="58" rx="12" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="56" y="433" font-size="13" font-weight="700" fill="#10233f">Toate trei, într-o singură prezentare</text>
+  <text x="56" y="453" font-size="12" fill="#3d4a5f">Afirmi ceva despre o localitate, explici de ce te atrage și le recomanzi colegilor să o viziteze.</text>
+  <text x="500" y="499" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 7, pp. 183-184</text>
+</svg>

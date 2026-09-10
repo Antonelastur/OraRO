@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 615" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="1000" height="615" fill="#faf7f0"/>
+  <text x="500" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Enunțul, tot la un loc</text>
+  <text x="500" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea VI · Recapitulare, gramatică</text>
+  <rect x="36" y="96" width="928" height="58" rx="12" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="56" y="120" font-size="13" font-weight="700" fill="#10233f">Enunțul: unitatea de bază a comunicării, construită de obicei în jurul unui predicat</text>
+  <text x="56" y="140" font-size="12" fill="#3d4a5f">Îl clasifici în două feluri: după câte propoziții are și după scopul comunicării.</text>
+  <rect x="36" y="166" width="458" height="34" rx="10" fill="#0d9c92"/>
+  <text x="265" y="189" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">DUPĂ NUMĂRUL DE PROPOZIȚII</text>
+  <rect x="36" y="212" width="458" height="58" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="56" y="236" font-size="13" font-weight="700" fill="#10233f">Simplu</text>
+  <text x="56" y="256" font-size="12" fill="#3d4a5f">o singură propoziție: Trenul a plecat.</text>
+  <rect x="36" y="282" width="458" height="58" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="56" y="306" font-size="13" font-weight="700" fill="#10233f">Complex</text>
+  <text x="56" y="326" font-size="12" fill="#3d4a5f">două sau mai multe: Au stat, au ascultat, au plecat.</text>
+  <rect x="36" y="352" width="458" height="58" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="56" y="376" font-size="13" font-weight="700" fill="#10233f">Cum verifici</text>
+  <text x="56" y="396" font-size="12" fill="#3d4a5f">numeri predicatele, nu cuvintele</text>
+  <rect x="506" y="166" width="458" height="34" rx="10" fill="#6f5ea8"/>
+  <text x="735" y="189" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">DUPĂ SCOP</text>
+  <rect x="506" y="212" width="458" height="58" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="526" y="236" font-size="13" font-weight="700" fill="#10233f">Asertiv  .</text>
+  <text x="526" y="256" font-size="12" fill="#3d4a5f">dă o informație: Afară plouă.</text>
+  <rect x="506" y="282" width="458" height="58" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="526" y="306" font-size="13" font-weight="700" fill="#10233f">Interogativ  ?</text>
+  <text x="526" y="326" font-size="12" fill="#3d4a5f">cere o informație: Cine nu a venit?</text>
+  <rect x="506" y="352" width="458" height="58" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="526" y="376" font-size="13" font-weight="700" fill="#10233f">Imperativ  !</text>
+  <text x="526" y="396" font-size="12" fill="#3d4a5f">ordin, rugăminte: Ajută-mă!</text>
+  <rect x="506" y="422" width="458" height="58" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="526" y="446" font-size="13" font-weight="700" fill="#10233f">Exclamativ  !</text>
+  <text x="526" y="466" font-size="12" fill="#3d4a5f">emoție: Ce idee bună ai avut!</text>
+  <rect x="36" y="492" width="928" height="77" rx="12" fill="#ffffff" stroke="#c1503a" stroke-width="2"/>
+  <text x="56" y="516" font-size="13" font-weight="700" fill="#10233f">Capcanele</text>
+  <text x="56" y="536" font-size="12" fill="#3d4a5f">Semnul exclamării apare și la imperativ, și la exclamativ: enunțul cere o acțiune sau arată o emoție?</text>
+  <text x="56" y="555" font-size="12" fill="#3d4a5f">Punctele de suspensie arată o întrerupere intenționată · un enunț lung poate fi simplu</text>
+  <text x="500" y="601" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 8, pp. 185-186</text>
+</svg>
