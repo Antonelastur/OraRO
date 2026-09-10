@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 596" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="1000" height="596" fill="#faf7f0"/>
+  <text x="500" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cuvintele care arată ce cred</text>
+  <text x="500" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V · Redactare</text>
+  <rect x="36" y="96" width="928" height="58" rx="12" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="56" y="120" font-size="13" font-weight="700" fill="#10233f">Cuvintele care arată atitudinea vorbitorului</text>
+  <text x="56" y="140" font-size="12" fill="#3d4a5f">verbe de opinie, adverbe, adjective, locuțiuni și expresii</text>
+  <rect x="36" y="166" width="458" height="34" rx="10" fill="#3b5fa8"/>
+  <text x="265" y="189" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">CÂT DE SIGUR SUNT</text>
+  <rect x="36" y="212" width="458" height="77" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
+  <text x="56" y="236" font-size="13" font-weight="700" fill="#10233f">Certitudine</text>
+  <text x="56" y="256" font-size="12" fill="#3d4a5f">știu că, e limpede că, am convingerea că,</text>
+  <text x="56" y="275" font-size="12" fill="#3d4a5f">bineînțeles, firește</text>
+  <rect x="36" y="301" width="458" height="77" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
+  <text x="56" y="325" font-size="13" font-weight="700" fill="#10233f">Probabilitate</text>
+  <text x="56" y="345" font-size="12" fill="#3d4a5f">s-ar putea să, nu e exclus să,</text>
+  <text x="56" y="364" font-size="12" fill="#3d4a5f">poate, probabil, pesemne</text>
+  <rect x="36" y="390" width="458" height="77" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
+  <text x="56" y="414" font-size="13" font-weight="700" fill="#10233f">Incertitudine</text>
+  <text x="56" y="434" font-size="12" fill="#3d4a5f">bănuiesc că, presupun că, cred că,</text>
+  <text x="56" y="453" font-size="12" fill="#3d4a5f">mă îndoiesc că</text>
+  <rect x="506" y="166" width="458" height="34" rx="10" fill="#a1417e"/>
+  <text x="735" y="189" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">CE VREAU ȘI CE APRECIEZ</text>
+  <rect x="506" y="212" width="458" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
+  <text x="526" y="236" font-size="13" font-weight="700" fill="#10233f">Necesitate</text>
+  <text x="526" y="256" font-size="12" fill="#3d4a5f">trebuie să, e nevoie să, se cuvine să, neapărat</text>
+  <rect x="506" y="282" width="458" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
+  <text x="526" y="306" font-size="13" font-weight="700" fill="#10233f">Dorință</text>
+  <text x="526" y="326" font-size="12" fill="#3d4a5f">doresc să, vreau să, am intenția să</text>
+  <rect x="506" y="352" width="458" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
+  <text x="526" y="376" font-size="13" font-weight="700" fill="#10233f">Apreciere pozitivă</text>
+  <text x="526" y="396" font-size="12" fill="#3d4a5f">apreciez, merită să, e util să</text>
+  <rect x="506" y="422" width="458" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
+  <text x="526" y="446" font-size="13" font-weight="700" fill="#10233f">Apreciere negativă</text>
+  <text x="526" y="466" font-size="12" fill="#3d4a5f">regret că, din păcate, e greșit</text>
+  <rect x="36" y="492" width="928" height="58" rx="12" fill="#ffffff" stroke="#c1503a" stroke-width="2"/>
+  <text x="56" y="516" font-size="13" font-weight="700" fill="#10233f">Capcana</text>
+  <text x="56" y="536" font-size="12" fill="#3d4a5f">„Cred că” ține de incertitudine. Pentru o opinie fermă, folosești formule de certitudine: am convingerea că.</text>
+  <text x="500" y="582" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, p. 198</text>
+</svg>

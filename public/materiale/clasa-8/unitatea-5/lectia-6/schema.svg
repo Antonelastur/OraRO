@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 615" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="1000" height="615" fill="#faf7f0"/>
+  <text x="500" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cum e construit un text de opinie</text>
+  <text x="500" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V · Textul nonliterar</text>
+  <rect x="36" y="96" width="928" height="58" rx="12" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="56" y="120" font-size="13" font-weight="700" fill="#10233f">Textul de opinie: autorul își susține opinia, ca să-i convingă pe cititori</text>
+  <text x="56" y="140" font-size="12" fill="#3d4a5f">Predomină structurile argumentative și explicative; narațiunea și descrierea apar ca exemple.</text>
+  <rect x="36" y="166" width="458" height="34" rx="10" fill="#3b5fa8"/>
+  <text x="265" y="189" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">CU CE CONVINGE</text>
+  <rect x="36" y="212" width="458" height="77" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
+  <text x="56" y="236" font-size="13" font-weight="700" fill="#10233f">Argumente raționale</text>
+  <text x="56" y="256" font-size="12" fill="#3d4a5f">fapte, dovezi, exemple din realitate,</text>
+  <text x="56" y="275" font-size="12" fill="#3d4a5f">deducții logice</text>
+  <rect x="36" y="301" width="458" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
+  <text x="56" y="325" font-size="13" font-weight="700" fill="#10233f">Argumente emoționale</text>
+  <text x="56" y="345" font-size="12" fill="#3d4a5f">impresii, convingeri personale</text>
+  <rect x="36" y="371" width="458" height="77" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
+  <text x="56" y="395" font-size="13" font-weight="700" fill="#10233f">Procedee</text>
+  <text x="56" y="415" font-size="12" fill="#3d4a5f">adresare directă, întrebări,</text>
+  <text x="56" y="434" font-size="12" fill="#3d4a5f">figuri de stil</text>
+  <rect x="506" y="166" width="458" height="34" rx="10" fill="#a1417e"/>
+  <text x="735" y="189" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">STRATEGII</text>
+  <rect x="506" y="212" width="458" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
+  <text x="526" y="236" font-size="13" font-weight="700" fill="#10233f">Obiecția</text>
+  <text x="526" y="256" font-size="12" fill="#3d4a5f">formulezi ideea opusă, ca s-o respingi</text>
+  <rect x="506" y="282" width="458" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
+  <text x="526" y="306" font-size="13" font-weight="700" fill="#10233f">Concesia</text>
+  <text x="526" y="326" font-size="12" fill="#3d4a5f">accepți, în parte, o idee opusă</text>
+  <rect x="506" y="352" width="458" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
+  <text x="526" y="376" font-size="13" font-weight="700" fill="#10233f">Analogia</text>
+  <text x="526" y="396" font-size="12" fill="#3d4a5f">găsești asemănări cu alte situații</text>
+  <rect x="506" y="422" width="458" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
+  <text x="526" y="446" font-size="13" font-weight="700" fill="#10233f">Examenul critic și confruntarea</text>
+  <text x="526" y="466" font-size="12" fill="#3d4a5f">puncte tari și slabe; pro și contra, față în față</text>
+  <rect x="36" y="492" width="928" height="77" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="56" y="516" font-size="13" font-weight="700" fill="#10233f">Conectorii</text>
+  <text x="56" y="536" font-size="12" fill="#3d4a5f">ierarhie: în primul rând, în al doilea rând, în cele din urmă · adaos: în plus, mai mult</text>
+  <text x="56" y="555" font-size="12" fill="#3d4a5f">concesie: totuși, cu toate acestea · opoziție: în schimb, dimpotrivă · concluzie: așadar, deci</text>
+  <text x="500" y="601" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, p. 180</text>
+</svg>
