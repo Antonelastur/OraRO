@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 634" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+  <rect width="1000" height="634" fill="#faf7f0"/>
+  <text x="500" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Numeralul, tot la un loc</text>
+  <text x="500" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V · Recapitulare, gramatică</text>
+  <rect x="36" y="96" width="928" height="58" rx="12" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="56" y="120" font-size="13" font-weight="700" fill="#10233f">Numeralul exprimă un număr sau ordinea obiectelor prin numărare</text>
+  <text x="56" y="140" font-size="12" fill="#3d4a5f">Câte? → cardinal: trei pești.   Al câtelea? → ordinal: al treilea pește.</text>
+  <rect x="36" y="166" width="452" height="34" rx="10" fill="#0d9c92"/>
+  <text x="262" y="189" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">CARDINALUL</text>
+  <rect x="512" y="166" width="452" height="34" rx="10" fill="#6f5ea8"/>
+  <text x="738" y="189" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">ORDINALUL</text>
+  <rect x="36" y="212" width="452" height="58" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="56" y="236" font-size="13" font-weight="700" fill="#10233f">Simple și compuse</text>
+  <text x="56" y="256" font-size="12" fill="#3d4a5f">simple: unu ... zece; compuse: unsprezece, o sută cinci</text>
+  <rect x="36" y="282" width="452" height="58" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="56" y="306" font-size="13" font-weight="700" fill="#10233f">Își schimbă forma după gen</text>
+  <text x="56" y="326" font-size="12" fill="#3d4a5f">un băiat, o fată; doi băieți, două fete</text>
+  <rect x="36" y="352" width="452" height="77" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+  <text x="56" y="376" font-size="13" font-weight="700" fill="#10233f">Un, o sunt numerale când</text>
+  <text x="56" y="396" font-size="12" fill="#3d4a5f">stau lângă alt numeral, lângă singur, numai, doar</text>
+  <text x="56" y="415" font-size="12" fill="#3d4a5f">sau arată o măsură: după o secundă</text>
+  <rect x="512" y="212" width="452" height="58" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="532" y="236" font-size="13" font-weight="700" fill="#10233f">Forma după gen</text>
+  <text x="532" y="256" font-size="12" fill="#3d4a5f">masculin și neutru: al doilea; feminin: a doua</text>
+  <rect x="512" y="282" width="452" height="58" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="532" y="306" font-size="13" font-weight="700" fill="#10233f">Începutul seriei</text>
+  <text x="532" y="326" font-size="12" fill="#3d4a5f">întâiul, întâia = primul, prima</text>
+  <rect x="512" y="352" width="452" height="58" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+  <text x="532" y="376" font-size="13" font-weight="700" fill="#10233f">Cu cifre</text>
+  <text x="532" y="396" font-size="12" fill="#3d4a5f">arabe sau romane: al XX-lea, a 27-a</text>
+  <rect x="36" y="441" width="928" height="77" rx="12" fill="#ffffff" stroke="#c1503a" stroke-width="2"/>
+  <text x="56" y="465" font-size="13" font-weight="700" fill="#10233f">Capcanele de scriere</text>
+  <text x="56" y="485" font-size="12" fill="#3d4a5f">paisprezece, șaisprezece, șaizeci (nu patrusprezece, șasesprezece) · șaptesprezece, optsprezece</text>
+  <text x="56" y="504" font-size="12" fill="#3d4a5f">ora două, ora douăsprezece, patruzeci și două de cărți: doi se acordă cu femininul</text>
+  <rect x="36" y="530" width="928" height="58" rx="12" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
+  <text x="56" y="554" font-size="13" font-weight="700" fill="#10233f">În texte</text>
+  <text x="56" y="574" font-size="12" fill="#3d4a5f">numeralele sub zece se scriu în cuvinte, celelalte cu cifre: șapte pitici, 64 de căsuțe</text>
+  <text x="500" y="620" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecțiile 9-10, pp. 158-161</text>
+</svg>
