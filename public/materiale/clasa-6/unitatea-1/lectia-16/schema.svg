@@ -1,50 +1,93 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="420" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Diftongul, triftongul, hiatul</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 15 · exemplu: pă-ian-jen</text>
-
-  <g>
-    <rect x="40" y="95" width="260" height="200" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="170" y="124" text-anchor="middle" font-size="15" font-weight="700" fill="#10233f">DIFTONG</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="170" y="152">O vocală și o</tspan>
-      <tspan x="170" y="168">semivocală, în</tspan>
-      <tspan x="170" y="184">aceeași silabă.</tspan>
-    </text>
-    <rect x="60" y="204" width="220" height="70" rx="10" fill="#eaf6f4"/>
-    <text x="170" y="230" text-anchor="middle" font-size="16" font-weight="700" fill="#10233f">pă-<tspan fill="#0d9c92">ian</tspan>-jen</text>
-    <text x="170" y="252" text-anchor="middle" font-size="10.5" fill="#3a3226">i = semivocală, a = vocală</text>
-    <text x="170" y="266" text-anchor="middle" font-size="10.5" fill="#3a3226">— în aceeași silabă „ian”</text>
-  </g>
-
-  <g>
-    <rect x="320" y="95" width="260" height="200" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="450" y="124" text-anchor="middle" font-size="15" font-weight="700" fill="#10233f">TRIFTONG</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="450" y="152">O vocală și două</tspan>
-      <tspan x="450" y="168">semivocale, în</tspan>
-      <tspan x="450" y="184">aceeași silabă.</tspan>
-    </text>
-    <rect x="340" y="204" width="220" height="70" rx="10" fill="#f1ecfa"/>
-    <text x="450" y="230" text-anchor="middle" font-size="16" font-weight="700" fill="#10233f"><tspan fill="#6f5ea8">leoa</tspan>i-că</text>
-    <text x="450" y="252" text-anchor="middle" font-size="10.5" fill="#3a3226">e, o = semivocale, a = vocală</text>
-    <text x="450" y="266" text-anchor="middle" font-size="10.5" fill="#3a3226">— în aceeași silabă „leoa”</text>
-  </g>
-
-  <g>
-    <rect x="600" y="95" width="260" height="200" rx="14" fill="#ffffff" stroke="#b8944f" stroke-width="2"/>
-    <text x="730" y="124" text-anchor="middle" font-size="15" font-weight="700" fill="#10233f">HIAT</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="730" y="152">Două vocale alăturate,</tspan>
-      <tspan x="730" y="168">dar în silabe</tspan>
-      <tspan x="730" y="184">diferite.</tspan>
-    </text>
-    <rect x="620" y="204" width="220" height="70" rx="10" fill="#fff3da"/>
-    <text x="730" y="230" text-anchor="middle" font-size="16" font-weight="700" fill="#10233f">u-ri-<tspan fill="#b8944f">a</tspan>ș</text>
-    <text x="730" y="252" text-anchor="middle" font-size="10.5" fill="#3a3226">i și a rămân vocale,</text>
-    <text x="730" y="266" text-anchor="middle" font-size="10.5" fill="#3a3226">fiecare în silaba ei</text>
-  </g>
-
-  <text x="450" y="330" text-anchor="middle" font-size="12" fill="#3a3226">Pentru a le identifica, desparți întâi cuvântul în silabe.</text>
-  <text x="450" y="398" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 15, pp. 34-35</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 969" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="969" fill="#faf7f0"/>
+<text x="269.8" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="360.9" lengthAdjust="spacing">Diftongul, triftongul, hiatul</text>
+<text x="224.3" y="74.4" font-size="14" fill="#5b6b83" textLength="451.4" lengthAdjust="spacing">Clasa a VI-a · Unitatea I, Lecția 16 · Manual, pp. 34-35 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. DIFTONGUL</text>
+<rect x="40" y="128.6" width="820" height="162.4" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="72.3" lengthAdjust="spacing">Diftongul</text>
+<text x="138.6" y="162.6" font-size="16" fill="#10233f" textLength="194.5" lengthAdjust="spacing">este un grup format dintr-o</text>
+<text x="337.5" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="47.8" lengthAdjust="spacing">vocală</text>
+<text x="389.7" y="162.6" font-size="16" fill="#10233f" textLength="24.3" lengthAdjust="spacing">și o</text>
+<text x="418.3" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="82.7" lengthAdjust="spacing">semivocală</text>
+<text x="501.0" y="162.6" font-size="16" fill="#10233f" textLength="87.0" lengthAdjust="spacing">, pronunțate</text>
+<text x="592.4" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="120.2" lengthAdjust="spacing">în aceeași silabă</text>
+<text x="712.5" y="162.6" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="181.4" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="209.4" font-size="16" fill="#0d9c92" font-weight="700" textLength="147.5" lengthAdjust="spacing">urcător (ascendent)</text>
+<text x="78.0" y="232.7" font-size="14.5" fill="#3a3226" textLength="128.2" lengthAdjust="spacing">semivocală + vocală</text>
+<text x="78.0" y="256.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="41.9" lengthAdjust="spacing">floa-re</text>
+<text x="119.9" y="256.6" font-size="14.5" fill="#3a3226" textLength="31.8" lengthAdjust="spacing">: [ŏa]</text>
+<rect x="458.0" y="181.4" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="209.4" font-size="16" fill="#6f5ea8" font-weight="700" textLength="177.1" lengthAdjust="spacing">coborâtor (descendent)</text>
+<text x="474.0" y="232.7" font-size="14.5" fill="#3a3226" textLength="128.2" lengthAdjust="spacing">vocală + semivocală</text>
+<text x="474.0" y="256.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="45.1" lengthAdjust="spacing">mâi-ne</text>
+<text x="519.1" y="256.6" font-size="14.5" fill="#3a3226" textLength="26.7" lengthAdjust="spacing">: [âĭ]</text>
+<rect x="40" y="311.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="334.0" font-size="16" font-weight="700" fill="#ffffff">2. TRIFTONGUL</text>
+<rect x="40" y="345.0" width="820" height="80.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="379.0" font-size="16" fill="#10233f" font-weight="700" textLength="76.3" lengthAdjust="spacing">Triftongul</text>
+<text x="142.6" y="379.0" font-size="16" fill="#10233f" textLength="194.5" lengthAdjust="spacing">este un grup format dintr-o</text>
+<text x="341.5" y="379.0" font-size="16" fill="#10233f" font-weight="700" textLength="47.8" lengthAdjust="spacing">vocală</text>
+<text x="393.6" y="379.0" font-size="16" fill="#10233f" textLength="10.6" lengthAdjust="spacing">și</text>
+<text x="408.5" y="379.0" font-size="16" fill="#10233f" font-weight="700" textLength="125.3" lengthAdjust="spacing">două semivocale</text>
+<text x="533.8" y="379.0" font-size="16" fill="#10233f" textLength="87.0" lengthAdjust="spacing">, pronunțate</text>
+<text x="625.2" y="379.0" font-size="16" fill="#10233f" font-weight="700" textLength="120.2" lengthAdjust="spacing">în aceeași silabă</text>
+<text x="745.3" y="379.0" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">:</text>
+<text x="753.2" y="379.0" font-size="16" fill="#10233f" font-style="italic" textLength="71.7" lengthAdjust="spacing">cre-ioa-ne</text>
+<text x="62.0" y="402.2" font-size="16" fill="#10233f" textLength="34.6" lengthAdjust="spacing">[ĭoa].</text>
+<rect x="40" y="445.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="468.0" font-size="16" font-weight="700" fill="#ffffff">3. HIATUL</text>
+<rect x="40" y="479.0" width="820" height="56.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="513.0" font-size="16" fill="#10233f" font-weight="700" textLength="45.9" lengthAdjust="spacing">Hiatul</text>
+<text x="112.2" y="513.0" font-size="16" fill="#10233f" textLength="76.3" lengthAdjust="spacing">apare între</text>
+<text x="192.9" y="513.0" font-size="16" fill="#10233f" font-weight="700" textLength="162.6" lengthAdjust="spacing">două vocale alăturate</text>
+<text x="359.8" y="513.0" font-size="16" fill="#10233f" textLength="222.2" lengthAdjust="spacing">ale aceluiași cuvânt, pronunțate</text>
+<text x="586.3" y="513.0" font-size="16" fill="#10233f" font-weight="700" textLength="121.3" lengthAdjust="spacing">în silabe diferite</text>
+<text x="707.6" y="513.0" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">:</text>
+<text x="715.4" y="513.0" font-size="16" fill="#10233f" font-style="italic" textLength="47.7" lengthAdjust="spacing">ca-i-să</text>
+<text x="763.1" y="513.0" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<rect x="40" y="555.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="578.8" font-size="16" font-weight="700" fill="#ffffff">4. ATENȚIE LA</text>
+<rect x="40" y="589.8" width="820" height="328.5" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="607.8" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="629.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="48.5" lengthAdjust="spacing">Situația</text>
+<text x="423.2" y="629.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="92.9" lengthAdjust="spacing">Ce se întâmplă</text>
+<line x1="62.0" y1="639.3" x2="838.0" y2="639.3" stroke="#e3dccb"/>
+<text x="74.0" y="661.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="182.6" lengthAdjust="spacing">ce, ci, ge, gi, che, chi, ghe, ghi</text>
+<text x="260.5" y="661.8" font-size="14.5" fill="#3a3226" textLength="126.7" lengthAdjust="spacing">înaintea unei vocale</text>
+<text x="423.2" y="661.8" font-size="14.5" fill="#3a3226" textLength="61.5" lengthAdjust="spacing">de obicei,</text>
+<text x="488.6" y="661.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="17.7" lengthAdjust="spacing">nu</text>
+<text x="510.2" y="661.8" font-size="14.5" fill="#3a3226" textLength="116.9" lengthAdjust="spacing">formează diftongi:</text>
+<text x="631.0" y="661.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="27.1" lengthAdjust="spacing">ceas</text>
+<text x="662.0" y="661.8" font-size="14.5" fill="#3a3226" textLength="98.6" lengthAdjust="spacing">= [č] + [a] + [s];</text>
+<text x="764.5" y="661.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="43.4" lengthAdjust="spacing">gheață</text>
+<text x="807.9" y="661.8" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">:</text>
+<text x="423.2" y="682.8" font-size="14.5" fill="#3a3226" textLength="54.4" lengthAdjust="spacing">[g’] + [a]</text>
+<line x1="62.0" y1="693.2" x2="838.0" y2="693.2" stroke="#e3dccb"/>
+<text x="74.0" y="715.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="62.5" lengthAdjust="spacing">strângeau</text>
+<text x="423.2" y="715.7" font-size="14.5" fill="#3a3226" textLength="11.7" lengthAdjust="spacing">în</text>
+<text x="438.9" y="715.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="36.7" lengthAdjust="spacing">-geau</text>
+<text x="475.5" y="715.7" font-size="14.5" fill="#3a3226" textLength="194.0" lengthAdjust="spacing">: consoana [ğ] + diftongul [aŭ]</text>
+<line x1="62.0" y1="726.0" x2="838.0" y2="726.0" stroke="#e3dccb"/>
+<text x="74.0" y="748.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="121.7" lengthAdjust="spacing">este, e, eram, el, ele</text>
+<text x="423.2" y="748.5" font-size="14.5" fill="#3a3226" textLength="158.2" lengthAdjust="spacing">se pronunță cu diftongul</text>
+<text x="585.3" y="748.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="22.6" lengthAdjust="spacing">[ĭe]</text>
+<line x1="62.0" y1="758.9" x2="838.0" y2="758.9" stroke="#e3dccb"/>
+<text x="74.0" y="781.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="33.2" lengthAdjust="spacing">eu, ei</text>
+<text x="423.2" y="781.4" font-size="14.5" fill="#3a3226" textLength="154.9" lengthAdjust="spacing">se pronunță cu triftongii</text>
+<text x="582.0" y="781.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="66.1" lengthAdjust="spacing">[ĭeŭ], [ĭeĭ]</text>
+<line x1="62.0" y1="791.8" x2="838.0" y2="791.8" stroke="#e3dccb"/>
+<text x="74.0" y="814.2" font-size="14.5" fill="#3a3226" textLength="170.1" lengthAdjust="spacing">cuvinte legate prin cratimă</text>
+<text x="423.2" y="814.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="29.9" lengthAdjust="spacing">mi-a</text>
+<text x="457.0" y="814.2" font-size="14.5" fill="#3a3226" textLength="133.8" lengthAdjust="spacing">formează un diftong,</text>
+<text x="594.7" y="814.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="37.0" lengthAdjust="spacing">ne-au</text>
+<text x="635.6" y="814.2" font-size="14.5" fill="#3a3226" textLength="68.7" lengthAdjust="spacing">un triftong</text>
+<line x1="62.0" y1="824.6" x2="838.0" y2="824.6" stroke="#e3dccb"/>
+<line x1="411.2" y1="607.8" x2="411.2" y2="824.6" stroke="#e3dccb"/>
+<rect x="62.0" y="838.6" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><text x="78.0" y="865.1" font-size="14.5" fill="#10233f" font-weight="700" textLength="110.3" lengthAdjust="spacing">Regula de lucru:</text>
+<text x="78.0" y="883.9" font-size="14.5" fill="#3a3226" textLength="137.8" lengthAdjust="spacing">întâi despart cuvântul</text>
+<text x="219.7" y="883.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="56.1" lengthAdjust="spacing">în silabe</text>
+<text x="275.8" y="883.9" font-size="14.5" fill="#3a3226" textLength="334.2" lengthAdjust="spacing">, apoi caut vocalele și semivocalele din fiecare silabă.</text>
+<text x="329.5" y="949.8" font-size="11.5" fill="#5b6b83" textLength="240.9" lengthAdjust="spacing">Sursa: Manual Art 6, pp. 34-35, rubricile Repere.</text>
 </svg>
