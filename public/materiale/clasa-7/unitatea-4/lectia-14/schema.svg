@@ -1,22 +1,76 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="380" fill="#faf7f0"/>
-  <text x="450" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Pronumele și adjectivul pronominal nehotărât</text>
-  <text x="450" y="60" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV · lecția 14 · nu dă informații precise despre obiectul înlocuit</text>
-
-  <rect x="60" y="82" width="390" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="80" y="108" font-size="13" font-weight="700" fill="#10233f">Simple</text>
-  <text font-size="11.5" fill="#3a3226"><tspan x="80" y="132">unul, altul, atât, mult, puțin, tot, cutare</tspan></text>
-  <text x="80" y="164" font-size="13" font-weight="700" fill="#10233f">Compuse</text>
-  <text font-size="11.5" fill="#3a3226"><tspan x="80" y="188">altceva, altcineva, careva, ceva, cineva,</tspan><tspan x="80" y="208">fiecare, oricare, oricine, orice, vreunul</tspan></text>
-
-  <rect x="470" y="82" width="370" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="490" y="108" font-size="13" font-weight="700" fill="#10233f">Reguli de scriere</text>
-  <text font-size="11" fill="#3a3226"><tspan x="490" y="130">compusele se scriu într-un singur cuvânt:</tspan><tspan x="490" y="148">vreun / vreo (nu vre-un), oricare, orice</tspan><tspan x="490" y="168">compusele cu ori- au i „șoptit”: oricare</tspan><tspan x="490" y="196">„fiecare” subiect cere acordul la singular:</tspan><tspan x="490" y="214" font-style="italic">Fiecare știe acest lucru.</tspan></text>
-
-  <rect x="60" y="248" width="780" height="66" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="80" y="272" font-size="13" font-weight="700" fill="#10233f">Locuțiunea pronominală nehotărâtă</text>
-  <text font-size="11" fill="#3a3226"><tspan x="80" y="294">grup de cuvinte cu înțeles unitar, care se comportă ca un pronume: cine știe cine, nu știu ce, te miri cine</tspan></text>
-
-  <text x="450" y="340" text-anchor="middle" font-size="11" fill="#5b6b83">Are aceleași funcții sintactice ca substantivul. Când determină un substantiv, devine adjectiv pronominal nehotărât (atribut adjectival).</text>
-  <text x="450" y="366" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, p. 152</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 899" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="899" fill="#faf7f0"/>
+<text x="147.9" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="605.4" lengthAdjust="spacing">Pronumele și adjectivul pronominal nehotărât</text>
+<text x="217.0" y="74.4" font-size="14" fill="#5b6b83" textLength="466.1" lengthAdjust="spacing">Clasa a VII-a · Unitatea a IV-a, Lecția 14 · Manual, p. 152 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ESTE</text>
+<rect x="40" y="128.6" width="820" height="217.7" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="160.3" lengthAdjust="spacing">Pronumele nehotărât</text>
+<text x="226.6" y="162.6" font-size="16" fill="#10233f" textLength="430.7" lengthAdjust="spacing">nu dă informații precise despre obiectul pe care îl înlocuiește.</text>
+<rect x="62.0" y="181.4" width="380.0" height="88.7" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="209.4" font-size="16" fill="#0d9c92" font-weight="700" textLength="49.3" lengthAdjust="spacing">simple</text>
+<text x="78.0" y="232.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="241.7" lengthAdjust="spacing">atât, unul, altul, mult, puțin, tot, cutare</text>
+<rect x="458.0" y="181.4" width="380.0" height="88.7" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="209.4" font-size="16" fill="#6f5ea8" font-weight="700" textLength="67.5" lengthAdjust="spacing">compuse</text>
+<text x="474.0" y="232.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="331.0" lengthAdjust="spacing">altceva, altcineva, careva, ceva, cineva, câtva, fiecare,</text>
+<text x="474.0" y="253.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="227.2" lengthAdjust="spacing">oricare, oricine, orice, oricât, vreunul</text>
+<text x="62.0" y="299.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="299.1" font-size="15" fill="#3a3226" font-weight="700" textLength="241.8" lengthAdjust="spacing">Locuțiuni pronominale nehotărâte</text>
+<text x="316.0" y="299.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="323.4" y="299.1" font-size="15" fill="#10233f" font-style="italic" textLength="231.9" lengthAdjust="spacing">cine știe cine, nu știu ce, te miri cine</text>
+<text x="555.2" y="299.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="323.8" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="323.8" font-size="15" fill="#3a3226" textLength="129.3" lengthAdjust="spacing">Pronume care arată</text>
+<text x="207.5" y="323.8" font-size="15" fill="#3a3226" font-weight="700" textLength="64.0" lengthAdjust="spacing">gruparea</text>
+<text x="271.6" y="323.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="278.9" y="323.8" font-size="15" fill="#10233f" font-style="italic" textLength="215.4" lengthAdjust="spacing">amândoi, ambii, tustrei, câteșitrei</text>
+<text x="494.3" y="323.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="501.7" y="323.8" font-size="15" fill="#10233f" font-style="italic" textLength="288.7" lengthAdjust="spacing">Amândoi au plecat. Amândurora le-a plăcut.</text>
+<rect x="40" y="366.3" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="389.3" font-size="16" font-weight="700" fill="#ffffff">2. FUNCȚII ȘI ADJECTIVUL NEHOTĂRÂT</text>
+<rect x="40" y="400.3" width="820" height="151.5" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="418.3" width="380.0" height="115.5" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="446.3" font-size="16" fill="#0d9c92" font-weight="700" textLength="147.4" lengthAdjust="spacing">pronume nehotărât</text>
+<text x="78.0" y="469.6" font-size="14.5" fill="#3a3226" textLength="143.0" lengthAdjust="spacing">funcțiile substantivului</text>
+<text x="78.0" y="493.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="36.5" lengthAdjust="spacing">Mulți</text>
+<text x="118.5" y="493.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="147.9" lengthAdjust="spacing">îndrăznesc să se opună.</text>
+<rect x="458.0" y="418.3" width="380.0" height="115.5" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="446.3" font-size="16" fill="#6f5ea8" font-weight="700" textLength="229.3" lengthAdjust="spacing">adjectiv pronominal nehotărât</text>
+<text x="474.0" y="469.6" font-size="14.5" fill="#3a3226" textLength="250.4" lengthAdjust="spacing">însoțește substantivul și se acordă cu el</text>
+<text x="474.0" y="493.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="47.9" lengthAdjust="spacing">Fiecare</text>
+<text x="525.8" y="493.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="105.8" lengthAdjust="spacing">copil își dorește...</text>
+<text x="474.0" y="517.5" font-size="14.5" fill="#3a3226" textLength="46.7" lengthAdjust="spacing">funcția:</text>
+<text x="524.6" y="517.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="116.0" lengthAdjust="spacing">atribut adjectival</text>
+<rect x="40" y="571.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="594.8" font-size="16" font-weight="700" fill="#ffffff">3. ORTOGRAFIE ȘI ACORD</text>
+<rect x="40" y="605.8" width="820" height="242.3" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="623.8" width="776.0" height="109.6" rx="12" fill="#f3efe4"/><rect x="62.0" y="623.8" width="6" height="109.6" rx="3" fill="#b4432c"/><text x="84.0" y="650.3" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="669.2" font-size="14.5" fill="#3a3226">•</text>
+<text x="95.9" y="669.2" font-size="14.5" fill="#3a3226" textLength="122.5" lengthAdjust="spacing">Compusele se scriu</text>
+<text x="222.3" y="669.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="97.9" lengthAdjust="spacing">într-un cuvânt</text>
+<text x="320.2" y="669.2" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">:</text>
+<text x="327.3" y="669.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="69.5" lengthAdjust="spacing">vreun, vreo</text>
+<text x="400.6" y="669.2" font-size="14.5" fill="#3a3226" textLength="20.9" lengthAdjust="spacing">(nu</text>
+<text x="425.4" y="669.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="81.1" lengthAdjust="spacing">vre-un, vre-o</text>
+<text x="506.5" y="669.2" font-size="14.5" fill="#3a3226" textLength="7.5" lengthAdjust="spacing">).</text>
+<text x="84.0" y="693.1" font-size="14.5" fill="#3a3226">•</text>
+<text x="95.9" y="693.1" font-size="14.5" fill="#3a3226" textLength="104.1" lengthAdjust="spacing">În compusele cu</text>
+<text x="203.9" y="693.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="22.6" lengthAdjust="spacing">ori-</text>
+<text x="230.4" y="693.1" font-size="14.5" fill="#3a3226" textLength="98.9" lengthAdjust="spacing">scriu și pronunț</text>
+<text x="333.2" y="693.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="4.1" lengthAdjust="spacing">i</text>
+<text x="337.3" y="693.1" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">:</text>
+<text x="344.4" y="693.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="80.8" lengthAdjust="spacing">oricare, orice</text>
+<text x="429.1" y="693.1" font-size="14.5" fill="#3a3226" textLength="20.9" lengthAdjust="spacing">(nu</text>
+<text x="453.9" y="693.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="73.2" lengthAdjust="spacing">orcare, orce</text>
+<text x="527.1" y="693.1" font-size="14.5" fill="#3a3226" textLength="7.5" lengthAdjust="spacing">).</text>
+<text x="84.0" y="717.0" font-size="14.5" fill="#3a3226">•</text>
+<text x="95.9" y="717.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="44.5" lengthAdjust="spacing">Fiecare</text>
+<text x="140.4" y="717.0" font-size="14.5" fill="#3a3226" textLength="163.1" lengthAdjust="spacing">, ca subiect, cere verbul la</text>
+<text x="307.4" y="717.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="54.8" lengthAdjust="spacing">singular</text>
+<text x="362.2" y="717.0" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">:</text>
+<text x="369.3" y="717.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="144.1" lengthAdjust="spacing">Fiecare știe acest lucru.</text>
+<rect x="62.0" y="747.4" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="773.9" font-size="14.5" fill="#10233f" font-weight="700" textLength="119.9" lengthAdjust="spacing">Model de analiză:</text>
+<text x="78.0" y="792.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="692.5" lengthAdjust="spacing">„vreunul” – pronume nehotărât compus, genul masculin, numărul singular, cazul acuzativ, funcția sintactică de</text>
+<text x="78.0" y="813.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="119.8" lengthAdjust="spacing">complement direct.</text>
+<text x="286.6" y="879.6" font-size="11.5" fill="#5b6b83" textLength="326.8" lengthAdjust="spacing">Sursa: Manual Art 7, p. 152, rubrica Repere și modelul de analiză.</text>
 </svg>

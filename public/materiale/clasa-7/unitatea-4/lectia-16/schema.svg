@@ -1,20 +1,95 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 370" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="370" fill="#faf7f0"/>
-  <text x="450" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Pronumele și adjectivul pronominal relativ</text>
-  <text x="450" y="60" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV · lecția 16 · face legătura, în frază, între o secundară și propoziția de care depinde</text>
-
-  <rect x="60" y="82" width="780" height="76" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="80" y="106" font-size="13" font-weight="700" fill="#10233f">Forme</text>
-  <text font-size="12" fill="#3a3226"><tspan x="80" y="128" font-style="italic">care, cine, ce, cât, câtă, câți, câte</tspan><tspan x="80" y="146">omonime cu pronumele interogative; compus: ceea ce; popular, invariabil: de</tspan></text>
-
-  <rect x="60" y="174" width="375" height="118" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="80" y="198" font-size="13" font-weight="700" fill="#10233f">Funcția sintactică</text>
-  <text font-size="11" fill="#3a3226"><tspan x="80" y="222">o îndeplinește chiar în propoziția</tspan><tspan x="80" y="242">pe care o introduce: subiect, nume</tspan><tspan x="80" y="262">predicativ, complement, atribut</tspan><tspan x="80" y="282">pronominal genitival, circumstanțial…</tspan></text>
-
-  <rect x="465" y="174" width="375" height="118" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="485" y="198" font-size="13" font-weight="700" fill="#10233f">De reținut</text>
-  <text font-size="11" fill="#3a3226"><tspan x="485" y="220">„care” complement direct primește</tspan><tspan x="485" y="238">obligatoriu prepoziția „pe”</tspan><tspan x="485" y="264">la genitiv, se acordă în gen și număr</tspan><tspan x="485" y="282">cu substantivul înlocuit: a cărui, a cărei</tspan></text>
-
-  <text x="450" y="330" text-anchor="middle" font-size="11" fill="#5b6b83">Când determină un substantiv nearticulat înaintea căruia stă și se acordă cu el, devine adjectiv pronominal relativ: atribut adjectival.</text>
-  <text x="450" y="356" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, pp. 154-155</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 982" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="982" fill="#faf7f0"/>
+<text x="171.0" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="559.2" lengthAdjust="spacing">Pronumele și adjectivul pronominal relativ</text>
+<text x="198.7" y="74.4" font-size="14" fill="#5b6b83" textLength="502.6" lengthAdjust="spacing">Clasa a VII-a · Unitatea a IV-a, Lecția 16 · Manual, pp. 154-155 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ESTE</text>
+<rect x="40" y="128.6" width="820" height="135.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="125.5" lengthAdjust="spacing">Pronumele relativ</text>
+<text x="191.6" y="161.6" font-size="15" fill="#3a3226" textLength="107.2" lengthAdjust="spacing">leagă, în frază, o</text>
+<text x="302.9" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="148.3" lengthAdjust="spacing">propoziție secundară</text>
+<text x="455.3" y="161.6" font-size="15" fill="#3a3226" textLength="237.4" lengthAdjust="spacing">de propoziția de care depinde și are</text>
+<text x="696.8" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="120.0" lengthAdjust="spacing">funcție sintactică</text>
+<text x="820.8" y="161.6" font-size="15" fill="#3a3226" textLength="12.2" lengthAdjust="spacing">în</text>
+<text x="62.0" y="183.3" font-size="15" fill="#3a3226" textLength="203.4" lengthAdjust="spacing">propoziția pe care o introduce.</text>
+<text x="62.0" y="216.8" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="216.8" font-size="15" fill="#3a3226" textLength="287.2" lengthAdjust="spacing">Formele sunt aceleași cu ale interogativului:</text>
+<text x="365.5" y="216.8" font-size="15" fill="#10233f" font-style="italic" textLength="209.1" lengthAdjust="spacing">care, cine, ce, cât, câtă, câți, câte</text>
+<text x="574.6" y="216.8" font-size="15" fill="#3a3226" textLength="103.2" lengthAdjust="spacing">; plus compusul</text>
+<text x="681.8" y="216.8" font-size="15" fill="#3a3226" font-weight="700" textLength="51.0" lengthAdjust="spacing">ceea ce</text>
+<text x="732.8" y="216.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="241.6" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="241.6" font-size="15" fill="#10233f" font-style="italic" textLength="79.0" lengthAdjust="spacing">cel ce, cei ce</text>
+<text x="157.3" y="241.6" font-size="15" fill="#3a3226" textLength="168.4" lengthAdjust="spacing">= demonstrativ + relativ (</text>
+<text x="325.7" y="241.6" font-size="15" fill="#10233f" font-style="italic" textLength="13.9" lengthAdjust="spacing">ce</text>
+<text x="343.7" y="241.6" font-size="15" fill="#3a3226" textLength="10.2" lengthAdjust="spacing">=</text>
+<text x="358.0" y="241.6" font-size="15" fill="#10233f" font-style="italic" textLength="27.4" lengthAdjust="spacing">care</text>
+<text x="385.4" y="241.6" font-size="15" fill="#3a3226" textLength="186.8" lengthAdjust="spacing">); popular: relativul invariabil</text>
+<text x="576.2" y="241.6" font-size="15" fill="#10233f" font-style="italic" textLength="15.4" lengthAdjust="spacing">de</text>
+<text x="595.7" y="241.6" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="600.2" y="241.6" font-size="15" fill="#10233f" font-style="italic" textLength="104.8" lengthAdjust="spacing">Omul de-l vezi...</text>
+<text x="705.1" y="241.6" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">).</text>
+<rect x="40" y="284.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="307.1" font-size="16" font-weight="700" fill="#ffffff">2. FUNCȚIILE</text>
+<rect x="40" y="318.1" width="820" height="285.7" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="336.1" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="357.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="46.3" lengthAdjust="spacing">Funcția</text>
+<text x="306.8" y="357.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="367.7" x2="838.0" y2="367.7" stroke="#e3dccb"/>
+<text x="74.0" y="390.2" font-size="14.5" fill="#3a3226" textLength="45.5" lengthAdjust="spacing">subiect</text>
+<text x="306.8" y="390.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="351.5" lengthAdjust="spacing">Întâmplarea 1/ care m-a speriat 2/ n-are o explicație. 1/</text>
+<line x1="62.0" y1="400.5" x2="838.0" y2="400.5" stroke="#e3dccb"/>
+<text x="74.0" y="423.0" font-size="14.5" fill="#3a3226" textLength="120.6" lengthAdjust="spacing">complement direct</text>
+<text x="306.8" y="423.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="321.6" lengthAdjust="spacing">Femeia 1/ pe care am văzut-o 2/ a intrat în bloc. 1/</text>
+<line x1="62.0" y1="433.4" x2="838.0" y2="433.4" stroke="#e3dccb"/>
+<text x="74.0" y="455.9" font-size="14.5" fill="#3a3226" textLength="168.8" lengthAdjust="spacing">complement prepozițional</text>
+<text x="306.8" y="455.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="246.2" lengthAdjust="spacing">Întâmplarea 1/ la care mă gândesc 2/...</text>
+<line x1="62.0" y1="466.2" x2="838.0" y2="466.2" stroke="#e3dccb"/>
+<text x="74.0" y="488.7" font-size="14.5" fill="#3a3226" textLength="132.4" lengthAdjust="spacing">complement indirect</text>
+<text x="306.8" y="488.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="304.9" lengthAdjust="spacing">Persoana 1/ căreia îi povestesc 2/ m-a înțeles. 1/</text>
+<line x1="62.0" y1="499.1" x2="838.0" y2="499.1" stroke="#e3dccb"/>
+<text x="74.0" y="521.5" font-size="14.5" fill="#3a3226" textLength="100.6" lengthAdjust="spacing">atribut genitival</text>
+<text x="306.8" y="521.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="277.7" lengthAdjust="spacing">Întâmplarea 1/ al cărei sens nu-l înțeleg 2/...</text>
+<line x1="62.0" y1="531.9" x2="838.0" y2="531.9" stroke="#e3dccb"/>
+<text x="74.0" y="554.4" font-size="14.5" fill="#3a3226" textLength="192.0" lengthAdjust="spacing">circumstanțial (loc, timp, mod,</text>
+<text x="74.0" y="575.4" font-size="14.5" fill="#3a3226" textLength="77.6" lengthAdjust="spacing">cauză, scop)</text>
+<text x="306.8" y="554.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="497.3" lengthAdjust="spacing">Locul 1/ spre care mă îndrept 2/... Felul 1/ în care a procedat 2/... Motivul 1/ din</text>
+<text x="306.8" y="575.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="124.1" lengthAdjust="spacing">care ai acționat 2/...</text>
+<line x1="62.0" y1="585.8" x2="838.0" y2="585.8" stroke="#e3dccb"/>
+<line x1="294.8" y1="336.1" x2="294.8" y2="585.8" stroke="#e3dccb"/>
+<rect x="40" y="623.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="646.8" font-size="16" font-weight="700" fill="#ffffff">3. DE REȚINUT</text>
+<rect x="40" y="657.8" width="820" height="273.6" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="675.8" width="776.0" height="106.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="675.8" width="6" height="106.7" rx="3" fill="#b4432c"/><text x="84.0" y="702.3" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="721.1" font-size="14.5" fill="#3a3226">•</text>
+<text x="95.9" y="721.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="29.4" lengthAdjust="spacing">Care</text>
+<text x="129.2" y="721.1" font-size="14.5" fill="#3a3226" textLength="180.2" lengthAdjust="spacing">complement direct primește</text>
+<text x="313.4" y="721.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="76.0" lengthAdjust="spacing">obligatoriu</text>
+<text x="393.3" y="721.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="14.9" lengthAdjust="spacing">pe</text>
+<text x="408.2" y="721.1" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">:</text>
+<text x="415.3" y="721.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="42.6" lengthAdjust="spacing">femeia</text>
+<text x="461.8" y="721.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="49.3" lengthAdjust="spacing">pe care</text>
+<text x="515.1" y="721.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="71.8" lengthAdjust="spacing">am văzut-o</text>
+<text x="586.8" y="721.1" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="84.0" y="745.0" font-size="14.5" fill="#3a3226">•</text>
+<text x="95.9" y="745.0" font-size="14.5" fill="#3a3226" textLength="64.5" lengthAdjust="spacing">La genitiv:</text>
+<text x="164.3" y="745.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="56.0" lengthAdjust="spacing">relativul</text>
+<text x="224.2" y="745.0" font-size="14.5" fill="#3a3226" textLength="317.4" lengthAdjust="spacing">se acordă cu substantivul pe care îl înlocuiește, iar</text>
+<text x="545.5" y="745.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="119.3" lengthAdjust="spacing">articolul genitival</text>
+<text x="668.8" y="745.0" font-size="14.5" fill="#3a3226" textLength="95.6" lengthAdjust="spacing">cu substantivul</text>
+<text x="95.9" y="766.1" font-size="14.5" fill="#3a3226" textLength="73.4" lengthAdjust="spacing">determinat:</text>
+<text x="173.1" y="766.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="50.6" lengthAdjust="spacing">Expertul</text>
+<text x="227.7" y="766.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="45.4" lengthAdjust="spacing">a cărui</text>
+<text x="277.0" y="766.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="123.1" lengthAdjust="spacing">părere ne-a ajutat...</text>
+<text x="62.0" y="811.4" font-size="15" fill="#3a3226" font-weight="700" textLength="119.5" lengthAdjust="spacing">Adjectivul relativ</text>
+<text x="185.6" y="811.4" font-size="15" fill="#3a3226" textLength="349.6" lengthAdjust="spacing">însoțește un substantiv nearticulat pe care îl precedă:</text>
+<text x="539.3" y="811.4" font-size="15" fill="#10233f" font-style="italic" textLength="24.6" lengthAdjust="spacing">Știu</text>
+<text x="567.9" y="811.4" font-size="15" fill="#3a3226" font-weight="700" textLength="29.4" lengthAdjust="spacing">care</text>
+<text x="601.4" y="811.4" font-size="15" fill="#10233f" font-style="italic" textLength="129.9" lengthAdjust="spacing">prieten mă va ajuta.</text>
+<text x="735.3" y="811.4" font-size="15" fill="#3a3226" textLength="51.0" lengthAdjust="spacing">Funcția:</text>
+<text x="62.0" y="833.2" font-size="15" fill="#3a3226" font-weight="700" textLength="120.0" lengthAdjust="spacing">atribut adjectival</text>
+<text x="182.0" y="833.2" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="851.7" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><text x="78.0" y="878.2" font-size="14.5" fill="#10233f" font-weight="700" textLength="119.9" lengthAdjust="spacing">Model de analiză:</text>
+<text x="78.0" y="897.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="698.1" lengthAdjust="spacing">„pe care” – pronume relativ, cazul acuzativ, precedat de prepoziția „pe”, funcția sintactică de complement direct.</text>
+<text x="221.9" y="962.9" font-size="11.5" fill="#5b6b83" textLength="456.2" lengthAdjust="spacing">Sursa: Manual Art 7, pp. 154-155, rubricile Repere, tabelul funcțiilor și modelele de analiză.</text>
 </svg>

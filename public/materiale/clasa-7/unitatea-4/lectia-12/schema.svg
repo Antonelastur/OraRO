@@ -1,20 +1,114 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="380" fill="#faf7f0"/>
-  <text x="450" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Pronumele și adjectivul pronominal posesiv</text>
-  <text x="450" y="60" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV · lecția 12</text>
-
-  <rect x="60" y="82" width="780" height="86" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="80" y="108" font-size="13" font-weight="700" fill="#10233f">Alcătuire</text>
-  <text font-size="11.5" fill="#3a3226"><tspan x="80" y="130">articol posesiv (al, a, ai, ale) — indică obiectul posedat</tspan><tspan x="80" y="150">+ formă specifică (meu, tău, său, nostru, vostru) — indică posesorul</tspan></text>
-
-  <rect x="60" y="186" width="375" height="120" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="80" y="212" font-size="13" font-weight="700" fill="#10233f">De reținut</text>
-  <text font-size="11" fill="#3a3226"><tspan x="80" y="234">nu are forme pentru persoana a III-a plural;</tspan><tspan x="80" y="252">în loc se folosește genitivul plural al</tspan><tspan x="80" y="270">pronumelui personal: cartea lor</tspan><tspan x="80" y="292">nu are forme de singular la G. și D.</tspan></text>
-
-  <rect x="465" y="186" width="375" height="120" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="485" y="212" font-size="13" font-weight="700" fill="#10233f">Funcții sintactice</text>
-  <text font-size="11" fill="#3a3226"><tspan x="485" y="234">pronumele posesiv: toate funcțiile</tspan><tspan x="485" y="252">substantivului (subiect, nume predicativ,</tspan><tspan x="485" y="270">complemente, atribut pronominal…)</tspan><tspan x="485" y="292" font-style="italic">adjectivul pronominal posesiv: atribut adjectival</tspan></text>
-
-  <text x="450" y="342" text-anchor="middle" font-size="11" fill="#5b6b83">Când determină substantivul care numește obiectul posedat, pronumele posesiv devine adjectiv pronominal posesiv.</text>
-  <text x="450" y="366" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, pp. 148-149</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1007" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1007" fill="#faf7f0"/>
+<text x="164.0" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="573.2" lengthAdjust="spacing">Pronumele și adjectivul pronominal posesiv</text>
+<text x="198.7" y="74.4" font-size="14" fill="#5b6b83" textLength="502.6" lengthAdjust="spacing">Clasa a VII-a · Unitatea a IV-a, Lecția 12 · Manual, pp. 148-149 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. PRONUMELE POSESIV</text>
+<rect x="40" y="128.6" width="820" height="113.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" textLength="71.1" lengthAdjust="spacing">Înlocuiește</text>
+<text x="137.1" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="224.2" lengthAdjust="spacing">și obiectul posedat, și posesorul</text>
+<text x="361.4" y="161.6" font-size="15" fill="#3a3226" textLength="172.5" lengthAdjust="spacing">, arătând relația dintre ele.</text>
+<text x="62.0" y="196.1" font-size="16" fill="#0d9c92" font-weight="700" textLength="13.1" lengthAdjust="spacing">al</text>
+<text x="79.4" y="196.1" font-size="16" fill="#6f5ea8" font-weight="700" textLength="33.1" lengthAdjust="spacing">meu</text>
+<text x="116.9" y="196.1" font-size="16" fill="#3a3226" textLength="13.8" lengthAdjust="spacing">→</text>
+<text x="135.0" y="196.1" font-size="16" fill="#0d9c92" textLength="113.1" lengthAdjust="spacing">articolul posesiv</text>
+<text x="252.4" y="196.1" font-size="16" fill="#3a3226" textLength="35.5" lengthAdjust="spacing">arată</text>
+<text x="292.2" y="196.1" font-size="16" fill="#3a3226" font-weight="700" textLength="125.6" lengthAdjust="spacing">obiectul posedat</text>
+<text x="422.2" y="196.1" font-size="16" fill="#3a3226" textLength="93.6" lengthAdjust="spacing">(gen, număr);</text>
+<text x="520.1" y="196.1" font-size="16" fill="#6f5ea8" textLength="106.2" lengthAdjust="spacing">forma specifică</text>
+<text x="630.6" y="196.1" font-size="16" fill="#3a3226" textLength="35.5" lengthAdjust="spacing">arată</text>
+<text x="670.5" y="196.1" font-size="16" fill="#3a3226" font-weight="700" textLength="72.8" lengthAdjust="spacing">posesorul</text>
+<text x="747.6" y="196.1" font-size="16" fill="#3a3226" textLength="73.3" lengthAdjust="spacing">(persoană,</text>
+<text x="62.0" y="219.3" font-size="16" fill="#3a3226" textLength="50.6" lengthAdjust="spacing">număr)</text>
+<rect x="40" y="262.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="285.1" font-size="16" font-weight="700" fill="#ffffff">2. FORMELE (NOMINATIV-ACUZATIV)</text>
+<rect x="40" y="296.1" width="820" height="257.2" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="314.1" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="335.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="108.0" lengthAdjust="spacing">Obiectul posedat</text>
+<text x="306.4" y="335.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="15.5" lengthAdjust="spacing">eu</text>
+<text x="423.8" y="335.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="13.5" lengthAdjust="spacing">tu</text>
+<text x="530.5" y="335.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="33.1" lengthAdjust="spacing">el, ea</text>
+<text x="653.3" y="335.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="20.2" lengthAdjust="spacing">noi</text>
+<text x="770.1" y="335.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="19.3" lengthAdjust="spacing">voi</text>
+<line x1="62.0" y1="345.7" x2="838.0" y2="345.7" stroke="#e3dccb"/>
+<text x="74.0" y="368.2" font-size="14.5" fill="#3a3226" textLength="77.9" lengthAdjust="spacing">masculin sg.</text>
+<text x="292.7" y="368.2" font-size="14.5" fill="#3a3226" textLength="43.1" lengthAdjust="spacing">al meu</text>
+<text x="412.9" y="368.2" font-size="14.5" fill="#3a3226" textLength="35.4" lengthAdjust="spacing">al tău</text>
+<text x="528.7" y="368.2" font-size="14.5" fill="#3a3226" textLength="36.5" lengthAdjust="spacing">al său</text>
+<text x="635.4" y="368.2" font-size="14.5" fill="#3a3226" textLength="56.0" lengthAdjust="spacing">al nostru</text>
+<text x="752.5" y="368.2" font-size="14.5" fill="#3a3226" textLength="54.7" lengthAdjust="spacing">al vostru</text>
+<line x1="62.0" y1="378.5" x2="838.0" y2="378.5" stroke="#e3dccb"/>
+<text x="74.0" y="401.0" font-size="14.5" fill="#3a3226" textLength="69.7" lengthAdjust="spacing">feminin sg.</text>
+<text x="294.8" y="401.0" font-size="14.5" fill="#3a3226" textLength="38.7" lengthAdjust="spacing">a mea</text>
+<text x="418.8" y="401.0" font-size="14.5" fill="#3a3226" textLength="23.6" lengthAdjust="spacing">a ta</text>
+<text x="534.6" y="401.0" font-size="14.5" fill="#3a3226" textLength="24.8" lengthAdjust="spacing">a sa</text>
+<text x="633.9" y="401.0" font-size="14.5" fill="#3a3226" textLength="59.0" lengthAdjust="spacing">a noastră</text>
+<text x="750.9" y="401.0" font-size="14.5" fill="#3a3226" textLength="57.7" lengthAdjust="spacing">a voastră</text>
+<line x1="62.0" y1="411.4" x2="838.0" y2="411.4" stroke="#e3dccb"/>
+<text x="74.0" y="433.9" font-size="14.5" fill="#3a3226" textLength="75.3" lengthAdjust="spacing">masculin pl.</text>
+<text x="295.1" y="433.9" font-size="14.5" fill="#3a3226" textLength="38.3" lengthAdjust="spacing">ai mei</text>
+<text x="415.3" y="433.9" font-size="14.5" fill="#3a3226" textLength="30.6" lengthAdjust="spacing">ai tăi</text>
+<text x="531.1" y="433.9" font-size="14.5" fill="#3a3226" textLength="31.8" lengthAdjust="spacing">ai săi</text>
+<text x="637.8" y="433.9" font-size="14.5" fill="#3a3226" textLength="51.2" lengthAdjust="spacing">ai noștri</text>
+<text x="754.9" y="433.9" font-size="14.5" fill="#3a3226" textLength="49.9" lengthAdjust="spacing">ai voștri</text>
+<line x1="62.0" y1="444.2" x2="838.0" y2="444.2" stroke="#e3dccb"/>
+<text x="74.0" y="466.7" font-size="14.5" fill="#3a3226" textLength="67.1" lengthAdjust="spacing">feminin pl.</text>
+<text x="287.5" y="466.7" font-size="14.5" fill="#3a3226" textLength="53.4" lengthAdjust="spacing">ale mele</text>
+<text x="407.8" y="466.7" font-size="14.5" fill="#3a3226" textLength="45.7" lengthAdjust="spacing">ale tale</text>
+<text x="523.6" y="466.7" font-size="14.5" fill="#3a3226" textLength="46.8" lengthAdjust="spacing">ale sale</text>
+<text x="628.3" y="466.7" font-size="14.5" fill="#3a3226" textLength="70.2" lengthAdjust="spacing">ale noastre</text>
+<text x="745.4" y="466.7" font-size="14.5" fill="#3a3226" textLength="68.9" lengthAdjust="spacing">ale voastre</text>
+<line x1="62.0" y1="477.1" x2="838.0" y2="477.1" stroke="#e3dccb"/>
+<line x1="256.0" y1="314.1" x2="256.0" y2="477.1" stroke="#e3dccb"/>
+<line x1="372.4" y1="314.1" x2="372.4" y2="477.1" stroke="#e3dccb"/>
+<line x1="488.8" y1="314.1" x2="488.8" y2="477.1" stroke="#e3dccb"/>
+<line x1="605.2" y1="314.1" x2="605.2" y2="477.1" stroke="#e3dccb"/>
+<line x1="721.6" y1="314.1" x2="721.6" y2="477.1" stroke="#e3dccb"/>
+<text x="62.0" y="506.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="506.1" font-size="15" fill="#3a3226" textLength="14.7" lengthAdjust="spacing">La</text>
+<text x="93.0" y="506.1" font-size="15" fill="#3a3226" font-weight="700" textLength="90.5" lengthAdjust="spacing">genitiv-dativ</text>
+<text x="187.5" y="506.1" font-size="15" fill="#3a3226" textLength="136.2" lengthAdjust="spacing">există doar forme de</text>
+<text x="327.7" y="506.1" font-size="15" fill="#3a3226" font-weight="700" textLength="41.0" lengthAdjust="spacing">plural</text>
+<text x="368.6" y="506.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="376.0" y="506.1" font-size="15" fill="#10233f" font-style="italic" textLength="180.9" lengthAdjust="spacing">alor mei, alor tăi, alor noștri</text>
+<text x="556.9" y="506.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="530.8" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="530.8" font-size="15" fill="#3a3226" font-weight="700" textLength="21.0" lengthAdjust="spacing">Nu</text>
+<text x="99.2" y="530.8" font-size="15" fill="#3a3226" textLength="426.0" lengthAdjust="spacing">are forme pentru mai mulți posesori de persoana a III-a: folosesc</text>
+<text x="529.3" y="530.8" font-size="15" fill="#3a3226" font-weight="700" textLength="19.4" lengthAdjust="spacing">lor</text>
+<text x="552.7" y="530.8" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="557.2" y="530.8" font-size="15" fill="#10233f" font-style="italic" textLength="33.5" lengthAdjust="spacing">ai lor</text>
+<text x="590.6" y="530.8" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">).</text>
+<rect x="40" y="573.3" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="596.3" font-size="16" font-weight="700" fill="#ffffff">3. FUNCȚII ȘI ADJECTIVUL POSESIV</text>
+<rect x="40" y="607.3" width="820" height="348.4" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="640.3" font-size="15" fill="#3a3226" font-weight="700" textLength="133.1" lengthAdjust="spacing">Pronumele posesiv</text>
+<text x="199.1" y="640.3" font-size="15" fill="#3a3226" textLength="235.6" lengthAdjust="spacing">are funcțiile substantivului: subiect (</text>
+<text x="434.7" y="640.3" font-size="15" fill="#10233f" font-style="italic" textLength="137.4" lengthAdjust="spacing">Ai mei sunt la atelier.</text>
+<text x="572.1" y="640.3" font-size="15" fill="#3a3226" textLength="127.0" lengthAdjust="spacing">), nume predicativ (</text>
+<text x="699.2" y="640.3" font-size="15" fill="#10233f" font-style="italic" textLength="96.2" lengthAdjust="spacing">Cana este a ta.</text>
+<text x="795.3" y="640.3" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">),</text>
+<text x="62.0" y="662.0" font-size="15" fill="#3a3226" textLength="237.0" lengthAdjust="spacing">complement, circumstanțial, atribut.</text>
+<rect x="62.0" y="680.5" width="380.0" height="115.5" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="708.5" font-size="16" fill="#0d9c92" font-weight="700" textLength="129.0" lengthAdjust="spacing">pronume posesiv</text>
+<text x="78.0" y="731.8" font-size="14.5" fill="#3a3226" textLength="207.6" lengthAdjust="spacing">stă singur, în locul substantivului</text>
+<text x="78.0" y="755.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="114.4" lengthAdjust="spacing">Mi-l împrumuți pe</text>
+<text x="196.3" y="755.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="38.3" lengthAdjust="spacing">al tău</text>
+<text x="234.6" y="755.8" font-size="14.5" fill="#3a3226" textLength="6.5" lengthAdjust="spacing">?</text>
+<rect x="458.0" y="680.5" width="380.0" height="115.5" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="708.5" font-size="16" fill="#6f5ea8" font-weight="700" textLength="210.9" lengthAdjust="spacing">adjectiv pronominal posesiv</text>
+<text x="474.0" y="731.8" font-size="14.5" fill="#3a3226" textLength="250.4" lengthAdjust="spacing">însoțește substantivul și se acordă cu el</text>
+<text x="474.0" y="755.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="55.7" lengthAdjust="spacing">prietenul</text>
+<text x="533.6" y="755.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="30.0" lengthAdjust="spacing">meu</text>
+<text x="563.6" y="755.8" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="570.7" y="755.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="51.6" lengthAdjust="spacing">prietena</text>
+<text x="626.2" y="755.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="29.0" lengthAdjust="spacing">mea</text>
+<text x="474.0" y="779.7" font-size="14.5" fill="#3a3226" textLength="46.7" lengthAdjust="spacing">funcția:</text>
+<text x="524.6" y="779.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="116.0" lengthAdjust="spacing">atribut adjectival</text>
+<rect x="62.0" y="810.0" width="776.0" height="127.7" rx="12" fill="#f3efe4"/><text x="78.0" y="836.5" font-size="14.5" fill="#10233f" font-weight="700" textLength="127.7" lengthAdjust="spacing">Modele de analiză:</text>
+<text x="78.0" y="855.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="716.4" lengthAdjust="spacing">„pe ai mei” – pronume posesiv, un singur posesor (persoana I), mai multe obiecte posedate (masculin, plural), cazul</text>
+<text x="78.0" y="876.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="354.5" lengthAdjust="spacing">acuzativ, precedat de prepoziția „pe”, complement direct.</text>
+<text x="78.0" y="900.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="728.4" lengthAdjust="spacing">„mea” – adjectiv pronominal posesiv, acordat cu „bunica” (feminin, singular, nominativ), un singur obiect posedat, un</text>
+<text x="78.0" y="921.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="283.9" lengthAdjust="spacing">singur posesor (persoana I), atribut adjectival.</text>
+<text x="222.5" y="987.2" font-size="11.5" fill="#5b6b83" textLength="455.1" lengthAdjust="spacing">Sursa: Manual Art 7, pp. 148-149, rubricile Repere, tabelul formelor și modelele de analiză.</text>
 </svg>

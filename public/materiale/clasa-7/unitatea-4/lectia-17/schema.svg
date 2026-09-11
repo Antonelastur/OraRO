@@ -1,22 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 350" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="350" fill="#faf7f0"/>
-  <text x="450" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Pronumele și adjectivul pronominal negativ</text>
-  <text x="450" y="60" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV · lecția 17 · înlocuiește numele obiectelor prezentate ca inexistente</text>
-
-  <rect x="60" y="82" width="375" height="120" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="80" y="106" font-size="13" font-weight="700" fill="#10233f">Pronume negative</text>
-  <text font-size="12" fill="#3a3226"><tspan x="80" y="130" font-style="italic">nimeni, nimic, niciunul, niciuna</tspan></text>
-  <text font-size="11" fill="#3a3226"><tspan x="80" y="158">apar numai în enunțuri negative</tspan><tspan x="80" y="178">(predicat la formă negativă)</tspan></text>
-
-  <rect x="465" y="82" width="375" height="120" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="485" y="106" font-size="13" font-weight="700" fill="#10233f">Adjective pronominale negative</text>
-  <text font-size="12" fill="#3a3226"><tspan x="485" y="130" font-style="italic">niciun, nicio</tspan></text>
-  <text font-size="11" fill="#3a3226"><tspan x="485" y="158">se acordă cu substantivul în gen,</tspan><tspan x="485" y="178">număr și caz — atribut adjectival</tspan></text>
-
-  <rect x="60" y="218" width="780" height="60" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="80" y="242" font-size="13" font-weight="700" fill="#10233f">Acordul</text>
-  <text font-size="11" fill="#3a3226"><tspan x="80" y="264">„nimeni” și „nimic” subiecte fac acordul cu verbul doar la singular: Nimeni dintre ei n-a răspuns.</tspan></text>
-
-  <text x="450" y="316" text-anchor="middle" font-size="11" fill="#5b6b83">Pronumele negativ are aceleași funcții sintactice ca substantivul.</text>
-  <text x="450" y="338" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, p. 156</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 905" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="905" fill="#faf7f0"/>
+<text x="163.3" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="574.6" lengthAdjust="spacing">Pronumele și adjectivul pronominal negativ</text>
+<text x="217.0" y="74.4" font-size="14" fill="#5b6b83" textLength="466.1" lengthAdjust="spacing">Clasa a VII-a · Unitatea a IV-a, Lecția 17 · Manual, p. 156 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ESTE</text>
+<rect x="40" y="128.6" width="820" height="176.7" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="142.7" lengthAdjust="spacing">Pronumele negativ</text>
+<text x="209.0" y="162.6" font-size="16" fill="#10233f" textLength="325.8" lengthAdjust="spacing">înlocuiește numele unor obiecte prezentate ca</text>
+<text x="539.1" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="82.7" lengthAdjust="spacing">inexistente</text>
+<text x="621.8" y="162.6" font-size="16" fill="#10233f" textLength="49.8" lengthAdjust="spacing">. Apare</text>
+<text x="675.9" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="135.4" lengthAdjust="spacing">numai în enunțuri</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="65.0" lengthAdjust="spacing">negative</text>
+<text x="127.0" y="185.8" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">:</text>
+<text x="134.8" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="234.1" lengthAdjust="spacing">nimeni, nimic, niciunul, niciuna</text>
+<text x="368.9" y="185.8" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="204.6" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="204.6" width="6" height="82.7" rx="3" fill="#b4432c"/><text x="84.0" y="231.1" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="249.9" font-size="14.5" fill="#3a3226" textLength="76.6" lengthAdjust="spacing">Ca subiecte,</text>
+<text x="164.5" y="249.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="43.4" lengthAdjust="spacing">nimeni</text>
+<text x="211.7" y="249.9" font-size="14.5" fill="#3a3226" textLength="9.6" lengthAdjust="spacing">și</text>
+<text x="225.2" y="249.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="34.5" lengthAdjust="spacing">nimic</text>
+<text x="263.7" y="249.9" font-size="14.5" fill="#3a3226" textLength="77.9" lengthAdjust="spacing">cer verbul la</text>
+<text x="345.4" y="249.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="54.8" lengthAdjust="spacing">singular</text>
+<text x="400.2" y="249.9" font-size="14.5" fill="#3a3226" textLength="279.3" lengthAdjust="spacing">, chiar dacă se referă la mai multe persoane:</text>
+<text x="683.4" y="249.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="127.2" lengthAdjust="spacing">Nimeni dintre ei n-a</text>
+<text x="84.0" y="271.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="238.1" lengthAdjust="spacing">răspuns. Nimeni și nimic nu îl oprește.</text>
+<rect x="40" y="325.3" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="348.3" font-size="16" font-weight="700" fill="#ffffff">2. FUNCȚIILE</text>
+<rect x="40" y="359.3" width="820" height="285.7" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="377.3" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="91.5" y="398.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="34.2" lengthAdjust="spacing">Cazul</text>
+<text x="167.1" y="398.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="46.3" lengthAdjust="spacing">Funcția</text>
+<text x="462.0" y="398.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="408.9" x2="838.0" y2="408.9" stroke="#e3dccb"/>
+<text x="103.1" y="431.4" font-size="14.5" fill="#3a3226" textLength="10.9" lengthAdjust="spacing">N</text>
+<text x="167.1" y="431.4" font-size="14.5" fill="#3a3226" textLength="45.5" lengthAdjust="spacing">subiect</text>
+<text x="462.0" y="431.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="140.9" lengthAdjust="spacing">Nimeni n-a ieșit afară.</text>
+<line x1="62.0" y1="441.7" x2="838.0" y2="441.7" stroke="#e3dccb"/>
+<text x="103.1" y="464.2" font-size="14.5" fill="#3a3226" textLength="10.9" lengthAdjust="spacing">N</text>
+<text x="167.1" y="464.2" font-size="14.5" fill="#3a3226" textLength="103.1" lengthAdjust="spacing">nume predicativ</text>
+<text x="462.0" y="464.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="233.4" lengthAdjust="spacing">Noul medic nu este niciunul dintre ei.</text>
+<line x1="62.0" y1="474.6" x2="838.0" y2="474.6" stroke="#e3dccb"/>
+<text x="100.5" y="497.1" font-size="14.5" fill="#3a3226" textLength="16.1" lengthAdjust="spacing">Ac</text>
+<text x="167.1" y="497.1" font-size="14.5" fill="#3a3226" textLength="218.5" lengthAdjust="spacing">complement direct / prepozițional</text>
+<text x="462.0" y="497.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="317.0" lengthAdjust="spacing">Nu observ pe nimeni. Nu mă gândesc la nimic rău.</text>
+<line x1="62.0" y1="507.4" x2="838.0" y2="507.4" stroke="#e3dccb"/>
+<text x="100.5" y="529.9" font-size="14.5" fill="#3a3226" textLength="16.1" lengthAdjust="spacing">Ac</text>
+<text x="167.1" y="529.9" font-size="14.5" fill="#3a3226" textLength="253.0" lengthAdjust="spacing">atribut prepozițional / circumstanțial de</text>
+<text x="167.1" y="550.9" font-size="14.5" fill="#3a3226" textLength="18.7" lengthAdjust="spacing">loc</text>
+<text x="462.0" y="529.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="262.2" lengthAdjust="spacing">Darul de la niciunul... N-a mers la nimeni.</text>
+<line x1="62.0" y1="561.3" x2="838.0" y2="561.3" stroke="#e3dccb"/>
+<text x="103.5" y="583.8" font-size="14.5" fill="#3a3226" textLength="10.2" lengthAdjust="spacing">D</text>
+<text x="167.1" y="583.8" font-size="14.5" fill="#3a3226" textLength="132.4" lengthAdjust="spacing">complement indirect</text>
+<text x="462.0" y="583.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="195.6" lengthAdjust="spacing">Nu i-am spus nimănui secretul.</text>
+<line x1="62.0" y1="594.1" x2="838.0" y2="594.1" stroke="#e3dccb"/>
+<text x="103.6" y="616.6" font-size="14.5" fill="#3a3226" textLength="10.0" lengthAdjust="spacing">G</text>
+<text x="167.1" y="616.6" font-size="14.5" fill="#3a3226" textLength="178.6" lengthAdjust="spacing">atribut pronominal genitival</text>
+<text x="462.0" y="616.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="215.0" lengthAdjust="spacing">Caietul niciunuia nu este pe masă.</text>
+<line x1="62.0" y1="627.0" x2="838.0" y2="627.0" stroke="#e3dccb"/>
+<line x1="155.1" y1="377.3" x2="155.1" y2="627.0" stroke="#e3dccb"/>
+<line x1="450.0" y1="377.3" x2="450.0" y2="627.0" stroke="#e3dccb"/>
+<rect x="40" y="665.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="688.0" font-size="16" font-weight="700" fill="#ffffff">3. ADJECTIVUL NEGATIV</text>
+<rect x="40" y="699.0" width="820" height="155.1" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="732.0" font-size="15" fill="#3a3226" font-weight="700" textLength="85.2" lengthAdjust="spacing">niciun, nicio</text>
+<text x="147.2" y="732.0" font-size="15" fill="#3a3226" textLength="325.0" lengthAdjust="spacing">: însoțesc un substantiv și se acordă cu el; funcția:</text>
+<text x="476.3" y="732.0" font-size="15" fill="#3a3226" font-weight="700" textLength="120.0" lengthAdjust="spacing">atribut adjectival</text>
+<text x="596.3" y="732.0" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="750.5" width="776.0" height="85.6" rx="12" fill="#f3efe4"/><text x="78.0" y="777.0" font-size="14.5" fill="#10233f" font-weight="700" textLength="127.7" lengthAdjust="spacing">Modele de analiză:</text>
+<text x="78.0" y="795.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="398.0" lengthAdjust="spacing">„nimănui” – pronume negativ, cazul dativ, complement indirect.</text>
+<text x="78.0" y="819.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="635.4" lengthAdjust="spacing">„niciun” – adjectiv pronominal negativ, acordat cu „inel” (neutru, singular, acuzativ), atribut adjectival.</text>
+<text x="239.7" y="885.6" font-size="11.5" fill="#5b6b83" textLength="420.6" lengthAdjust="spacing">Sursa: Manual Art 7, p. 156, rubrica Repere, tabelul funcțiilor și modelele de analiză.</text>
 </svg>

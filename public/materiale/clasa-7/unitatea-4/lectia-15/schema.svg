@@ -1,20 +1,78 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="360" fill="#faf7f0"/>
-  <text x="450" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Pronumele și adjectivul pronominal interogativ</text>
-  <text x="450" y="60" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV · lecția 15 · ține locul substantivului așteptat ca răspuns la o întrebare</text>
-
-  <rect x="60" y="82" width="780" height="70" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="80" y="106" font-size="13" font-weight="700" fill="#10233f">Forme</text>
-  <text font-size="13" fill="#3a3226"><tspan x="80" y="132" font-style="italic">care, cine, ce, cât, câtă, câți, câte</tspan></text>
-
-  <rect x="60" y="168" width="375" height="120" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="80" y="192" font-size="13" font-weight="700" fill="#10233f">Unde apare</text>
-  <text font-size="11" fill="#3a3226"><tspan x="80" y="214">numai în enunțuri interogative,</tspan><tspan x="80" y="232">de obicei la începutul lor</tspan><tspan x="80" y="258" font-style="italic">Cine vorbește? — Vorbește Ana.</tspan></text>
-
-  <rect x="465" y="168" width="375" height="120" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="485" y="192" font-size="13" font-weight="700" fill="#10233f">Funcția sintactică</text>
-  <text font-size="11" fill="#3a3226"><tspan x="485" y="214">este aceeași cu a cuvântului</tspan><tspan x="485" y="232">așteptat ca răspuns la întrebare</tspan><tspan x="485" y="258">(subiect, nume predicativ, complement,</tspan><tspan x="485" y="274">atribut pronominal genitival…)</tspan></text>
-
-  <text x="450" y="322" text-anchor="middle" font-size="11" fill="#5b6b83">Când determină un substantiv cu care se acordă în gen, număr și caz, devine adjectiv pronominal interogativ: atribut adjectival.</text>
-  <text x="450" y="346" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, p. 153</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 924" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="924" fill="#faf7f0"/>
+<text x="139.8" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="621.6" lengthAdjust="spacing">Pronumele și adjectivul pronominal interogativ</text>
+<text x="217.0" y="74.4" font-size="14" fill="#5b6b83" textLength="466.1" lengthAdjust="spacing">Clasa a VII-a · Unitatea a IV-a, Lecția 15 · Manual, p. 153 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ESTE</text>
+<rect x="40" y="128.6" width="820" height="152.9" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" textLength="158.8" lengthAdjust="spacing">Ține locul substantivului</text>
+<text x="224.9" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="136.3" lengthAdjust="spacing">așteptat ca răspuns</text>
+<text x="361.2" y="161.6" font-size="15" fill="#3a3226" textLength="64.2" lengthAdjust="spacing">. Formele:</text>
+<text x="429.5" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="227.8" lengthAdjust="spacing">care, cine, ce, cât, câtă, câți, câte</text>
+<text x="657.4" y="161.6" font-size="15" fill="#3a3226" textLength="46.6" lengthAdjust="spacing">. Apare</text>
+<text x="708.0" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="126.9" lengthAdjust="spacing">numai în enunțuri</text>
+<text x="62.0" y="183.3" font-size="15" fill="#3a3226" font-weight="700" textLength="86.1" lengthAdjust="spacing">interogative</text>
+<text x="148.1" y="183.3" font-size="15" fill="#3a3226" textLength="139.7" lengthAdjust="spacing">, de obicei la început.</text>
+<rect x="62.0" y="201.8" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="201.8" width="6" height="61.7" rx="3" fill="#b4432c"/><text x="84.0" y="228.3" font-size="14.5" fill="#b4432c" font-weight="700" textLength="102.8" lengthAdjust="spacing">Regula funcției</text>
+<text x="84.0" y="247.2" font-size="14.5" fill="#3a3226" textLength="166.3" lengthAdjust="spacing">Pronumele interogativ are</text>
+<text x="254.2" y="247.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="100.5" lengthAdjust="spacing">aceeași funcție</text>
+<text x="358.6" y="247.2" font-size="14.5" fill="#3a3226" textLength="82.7" lengthAdjust="spacing">ca răspunsul:</text>
+<text x="445.2" y="247.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="29.7" lengthAdjust="spacing">Cine</text>
+<text x="478.8" y="247.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="58.6" lengthAdjust="spacing">vorbește?</text>
+<text x="541.3" y="247.2" font-size="14.5" fill="#3a3226" textLength="12.5" lengthAdjust="spacing">→</text>
+<text x="557.7" y="247.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="54.7" lengthAdjust="spacing">Vorbește</text>
+<text x="616.3" y="247.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="26.8" lengthAdjust="spacing">Ana</text>
+<text x="643.1" y="247.2" font-size="14.5" fill="#3a3226" textLength="133.5" lengthAdjust="spacing">. (amândouă subiect)</text>
+<rect x="40" y="301.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="324.5" font-size="16" font-weight="700" fill="#ffffff">2. FUNCȚIILE</text>
+<rect x="40" y="335.5" width="820" height="306.7" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="353.5" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="91.5" y="375.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="34.2" lengthAdjust="spacing">Cazul</text>
+<text x="167.1" y="375.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="46.3" lengthAdjust="spacing">Funcția</text>
+<text x="462.0" y="375.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="385.1" x2="838.0" y2="385.1" stroke="#e3dccb"/>
+<text x="103.1" y="407.6" font-size="14.5" fill="#3a3226" textLength="10.9" lengthAdjust="spacing">N</text>
+<text x="167.1" y="407.6" font-size="14.5" fill="#3a3226" textLength="162.1" lengthAdjust="spacing">subiect / nume predicativ</text>
+<text x="462.0" y="407.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="216.5" lengthAdjust="spacing">Cine a venit? Cine au fost invitații?</text>
+<line x1="62.0" y1="417.9" x2="838.0" y2="417.9" stroke="#e3dccb"/>
+<text x="100.5" y="440.4" font-size="14.5" fill="#3a3226" textLength="16.1" lengthAdjust="spacing">Ac</text>
+<text x="167.1" y="440.4" font-size="14.5" fill="#3a3226" textLength="120.6" lengthAdjust="spacing">complement direct</text>
+<text x="462.0" y="440.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="127.2" lengthAdjust="spacing">Pe cine ai remarcat?</text>
+<line x1="62.0" y1="450.8" x2="838.0" y2="450.8" stroke="#e3dccb"/>
+<text x="100.5" y="473.3" font-size="14.5" fill="#3a3226" textLength="16.1" lengthAdjust="spacing">Ac</text>
+<text x="167.1" y="473.3" font-size="14.5" fill="#3a3226" textLength="218.8" lengthAdjust="spacing">complement prepozițional / nume</text>
+<text x="167.1" y="494.3" font-size="14.5" fill="#3a3226" textLength="62.6" lengthAdjust="spacing">predicativ</text>
+<text x="462.0" y="473.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="262.0" lengthAdjust="spacing">Despre ce ați vorbit? Din ce era costumul?</text>
+<line x1="62.0" y1="504.7" x2="838.0" y2="504.7" stroke="#e3dccb"/>
+<text x="100.5" y="527.2" font-size="14.5" fill="#3a3226" textLength="16.1" lengthAdjust="spacing">Ac</text>
+<text x="167.1" y="527.2" font-size="14.5" fill="#3a3226" textLength="217.2" lengthAdjust="spacing">circumstanțial de loc / timp / mod</text>
+<text x="462.0" y="527.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="326.1" lengthAdjust="spacing">Spre ce ai mers? După cine ai sosit? Precum cine s-a</text>
+<text x="462.0" y="548.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="44.5" lengthAdjust="spacing">purtat?</text>
+<line x1="62.0" y1="558.5" x2="838.0" y2="558.5" stroke="#e3dccb"/>
+<text x="103.5" y="581.0" font-size="14.5" fill="#3a3226" textLength="10.2" lengthAdjust="spacing">D</text>
+<text x="167.1" y="581.0" font-size="14.5" fill="#3a3226" textLength="132.4" lengthAdjust="spacing">complement indirect</text>
+<text x="462.0" y="581.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="127.3" lengthAdjust="spacing">Cui i-ai dat fructele?</text>
+<line x1="62.0" y1="591.4" x2="838.0" y2="591.4" stroke="#e3dccb"/>
+<text x="103.6" y="613.9" font-size="14.5" fill="#3a3226" textLength="10.0" lengthAdjust="spacing">G</text>
+<text x="167.1" y="613.9" font-size="14.5" fill="#3a3226" textLength="178.6" lengthAdjust="spacing">atribut pronominal genitival</text>
+<text x="462.0" y="613.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="158.9" lengthAdjust="spacing">Al cui costum ți-a plăcut?</text>
+<line x1="62.0" y1="624.2" x2="838.0" y2="624.2" stroke="#e3dccb"/>
+<line x1="155.1" y1="353.5" x2="155.1" y2="624.2" stroke="#e3dccb"/>
+<line x1="450.0" y1="353.5" x2="450.0" y2="624.2" stroke="#e3dccb"/>
+<rect x="40" y="662.2" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="685.2" font-size="16" font-weight="700" fill="#ffffff">3. ADJECTIVUL INTEROGATIV</text>
+<rect x="40" y="696.2" width="820" height="176.9" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="729.2" font-size="15" fill="#3a3226" textLength="271.8" lengthAdjust="spacing">Însoțește un substantiv și se acordă cu el:</text>
+<text x="337.8" y="729.2" font-size="15" fill="#3a3226" font-weight="700" textLength="31.4" lengthAdjust="spacing">Câte</text>
+<text x="373.2" y="729.2" font-size="15" fill="#10233f" font-style="italic" textLength="127.0" lengthAdjust="spacing">prăjituri ai mâncat?</text>
+<text x="504.3" y="729.2" font-size="15" fill="#3a3226" font-weight="700" textLength="31.5" lengthAdjust="spacing">Care</text>
+<text x="539.9" y="729.2" font-size="15" fill="#10233f" font-style="italic" textLength="134.2" lengthAdjust="spacing">prieten te-a chemat?</text>
+<text x="678.2" y="729.2" font-size="15" fill="#3a3226" textLength="51.0" lengthAdjust="spacing">Funcția:</text>
+<text x="733.2" y="729.2" font-size="15" fill="#3a3226" font-weight="700" textLength="48.5" lengthAdjust="spacing">atribut</text>
+<text x="62.0" y="751.0" font-size="15" fill="#3a3226" font-weight="700" textLength="67.3" lengthAdjust="spacing">adjectival</text>
+<text x="129.3" y="751.0" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="769.5" width="776.0" height="85.6" rx="12" fill="#f3efe4"/><text x="78.0" y="796.0" font-size="14.5" fill="#10233f" font-weight="700" textLength="127.7" lengthAdjust="spacing">Modele de analiză:</text>
+<text x="78.0" y="814.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="596.3" lengthAdjust="spacing">„pe cine” – pronume interogativ, cazul acuzativ, precedat de prepoziția „pe”, complement direct.</text>
+<text x="78.0" y="838.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="664.1" lengthAdjust="spacing">„câte” – adjectiv pronominal interogativ, acordat cu „prăjituri” (feminin, plural, acuzativ), atribut adjectival.</text>
+<text x="239.7" y="904.6" font-size="11.5" fill="#5b6b83" textLength="420.6" lengthAdjust="spacing">Sursa: Manual Art 7, p. 153, rubrica Repere, tabelul funcțiilor și modelele de analiză.</text>
 </svg>

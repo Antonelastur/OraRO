@@ -1,40 +1,130 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="380" fill="#faf7f0"/>
-  <text x="450" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Pronumele și adjectivul pronominal demonstrativ</text>
-  <text x="450" y="60" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV · lecția 13 · arată apropierea, depărtarea, identitatea sau diferențierea</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 999" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="999" fill="#faf7f0"/>
+<text x="124.6" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="651.8" lengthAdjust="spacing">Pronumele și adjectivul pronominal demonstrativ</text>
+<text x="198.7" y="74.4" font-size="14" fill="#5b6b83" textLength="502.6" lengthAdjust="spacing">Clasa a VII-a · Unitatea a IV-a, Lecția 13 · Manual, pp. 150-151 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ARATĂ</text>
+<rect x="40" y="128.6" width="820" height="77.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="175.2" lengthAdjust="spacing">Pronumele demonstrativ</text>
+<text x="241.2" y="161.6" font-size="15" fill="#3a3226" textLength="253.6" lengthAdjust="spacing">înlocuiește numele unui obiect și arată</text>
+<text x="498.9" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="76.3" lengthAdjust="spacing">apropierea</text>
+<text x="579.3" y="161.6" font-size="15" fill="#3a3226" textLength="22.5" lengthAdjust="spacing">sau</text>
+<text x="605.9" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="77.0" lengthAdjust="spacing">depărtarea</text>
+<text x="686.9" y="161.6" font-size="15" fill="#3a3226" textLength="149.4" lengthAdjust="spacing">lui (în spațiu sau timp),</text>
+<text x="62.0" y="183.3" font-size="15" fill="#3a3226" font-weight="700" textLength="76.8" lengthAdjust="spacing">identitatea</text>
+<text x="142.9" y="183.3" font-size="15" fill="#3a3226" textLength="22.5" lengthAdjust="spacing">sau</text>
+<text x="169.4" y="183.3" font-size="15" fill="#3a3226" font-weight="700" textLength="90.9" lengthAdjust="spacing">diferențierea</text>
+<text x="264.4" y="183.3" font-size="15" fill="#3a3226" textLength="247.0" lengthAdjust="spacing">față de alte obiecte. Nu are persoană.</text>
+<rect x="40" y="225.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="248.8" font-size="16" font-weight="700" fill="#ffffff">2. FORMELE</text>
+<rect x="40" y="259.9" width="820" height="346.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="277.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="299.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="30.1" lengthAdjust="spacing">Felul</text>
+<text x="235.0" y="299.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="34.2" lengthAdjust="spacing">Cazul</text>
+<text x="345.8" y="299.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="37.8" lengthAdjust="spacing">m. sg.</text>
+<text x="486.6" y="299.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="35.6" lengthAdjust="spacing">m. pl.</text>
+<text x="624.9" y="299.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="30.5" lengthAdjust="spacing">f. sg.</text>
+<text x="757.9" y="299.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="28.3" lengthAdjust="spacing">f. pl.</text>
+<line x1="62.0" y1="309.4" x2="838.0" y2="309.4" stroke="#e3dccb"/>
+<text x="74.0" y="330.4" font-size="13" fill="#3a3226" font-weight="700" textLength="59.1" lengthAdjust="spacing">apropiere</text>
+<text x="237.4" y="330.4" font-size="13" fill="#3a3226" textLength="29.4" lengthAdjust="spacing">N-Ac</text>
+<text x="329.5" y="330.4" font-size="13" fill="#3a3226" textLength="70.3" lengthAdjust="spacing">acesta (ăsta)</text>
+<text x="466.0" y="330.4" font-size="13" fill="#3a3226" textLength="76.6" lengthAdjust="spacing">aceștia (ăștia)</text>
+<text x="601.6" y="330.4" font-size="13" fill="#3a3226" textLength="77.0" lengthAdjust="spacing">aceasta (asta)</text>
+<text x="730.1" y="330.4" font-size="13" fill="#3a3226" textLength="83.8" lengthAdjust="spacing">acestea (astea)</text>
+<line x1="62.0" y1="340.3" x2="838.0" y2="340.3" stroke="#e3dccb"/>
 
-  <g font-size="11" fill="#3a3226">
-    <rect x="55" y="82" width="200" height="128" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="155" y="106" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Apropiere</text>
-    <text x="155" y="130" text-anchor="middle">obiect mai aproape</text>
-    <text x="155" y="150" text-anchor="middle">de vorbitor</text>
-    <text x="155" y="178" text-anchor="middle" font-style="italic">acesta, aceasta</text>
-    <text x="155" y="196" text-anchor="middle" font-style="italic">(vorbit: ăsta, asta)</text>
+<text x="240.5" y="361.3" font-size="13" fill="#3a3226" textLength="23.3" lengthAdjust="spacing">G-D</text>
+<text x="341.4" y="361.3" font-size="13" fill="#3a3226" textLength="46.4" lengthAdjust="spacing">acestuia</text>
+<text x="480.3" y="361.3" font-size="13" fill="#3a3226" textLength="48.1" lengthAdjust="spacing">acestora</text>
+<text x="617.2" y="361.3" font-size="13" fill="#3a3226" textLength="45.8" lengthAdjust="spacing">acesteia</text>
+<text x="748.0" y="361.3" font-size="13" fill="#3a3226" textLength="48.1" lengthAdjust="spacing">acestora</text>
+<line x1="62.0" y1="371.2" x2="838.0" y2="371.2" stroke="#e3dccb"/>
+<text x="74.0" y="392.2" font-size="13" fill="#3a3226" font-weight="700" textLength="59.7" lengthAdjust="spacing">depărtare</text>
+<text x="237.4" y="392.2" font-size="13" fill="#3a3226" textLength="29.4" lengthAdjust="spacing">N-Ac</text>
+<text x="336.2" y="392.2" font-size="13" fill="#3a3226" textLength="56.8" lengthAdjust="spacing">acela (ăla)</text>
+<text x="475.9" y="392.2" font-size="13" fill="#3a3226" textLength="56.8" lengthAdjust="spacing">aceia (ăia)</text>
+<text x="609.9" y="392.2" font-size="13" fill="#3a3226" textLength="60.5" lengthAdjust="spacing">aceea (aia)</text>
+<text x="736.9" y="392.2" font-size="13" fill="#3a3226" textLength="70.3" lengthAdjust="spacing">acelea (alea)</text>
+<line x1="62.0" y1="402.1" x2="838.0" y2="402.1" stroke="#e3dccb"/>
 
-    <rect x="265" y="82" width="200" height="128" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="365" y="106" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Depărtare</text>
-    <text x="365" y="130" text-anchor="middle">obiect mai departe</text>
-    <text x="365" y="150" text-anchor="middle">de vorbitor</text>
-    <text x="365" y="178" text-anchor="middle" font-style="italic">acela, aceea</text>
-    <text x="365" y="196" text-anchor="middle" font-style="italic">(vorbit: ăla, aia)</text>
+<text x="240.5" y="423.1" font-size="13" fill="#3a3226" textLength="23.3" lengthAdjust="spacing">G-D</text>
+<text x="344.8" y="423.1" font-size="13" fill="#3a3226" textLength="39.6" lengthAdjust="spacing">aceluia</text>
+<text x="483.7" y="423.1" font-size="13" fill="#3a3226" textLength="41.3" lengthAdjust="spacing">acelora</text>
+<text x="620.6" y="423.1" font-size="13" fill="#3a3226" textLength="39.0" lengthAdjust="spacing">aceleia</text>
+<text x="751.4" y="423.1" font-size="13" fill="#3a3226" textLength="41.3" lengthAdjust="spacing">acelora</text>
+<line x1="62.0" y1="433.0" x2="838.0" y2="433.0" stroke="#e3dccb"/>
+<text x="74.0" y="454.0" font-size="13" fill="#3a3226" font-weight="700" textLength="59.5" lengthAdjust="spacing">identitate</text>
+<text x="237.4" y="454.0" font-size="13" fill="#3a3226" textLength="29.4" lengthAdjust="spacing">N-Ac</text>
+<text x="345.8" y="454.0" font-size="13" fill="#3a3226" textLength="37.7" lengthAdjust="spacing">același</text>
+<text x="485.5" y="454.0" font-size="13" fill="#3a3226" textLength="37.7" lengthAdjust="spacing">aceiași</text>
+<text x="619.5" y="454.0" font-size="13" fill="#3a3226" textLength="41.3" lengthAdjust="spacing">aceeași</text>
+<text x="749.8" y="454.0" font-size="13" fill="#3a3226" textLength="44.5" lengthAdjust="spacing">aceleași</text>
+<line x1="62.0" y1="463.9" x2="838.0" y2="463.9" stroke="#e3dccb"/>
 
-    <rect x="475" y="82" width="200" height="128" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="575" y="106" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Identitate</text>
-    <text x="575" y="130" text-anchor="middle">obiect identic</text>
-    <text x="575" y="150" text-anchor="middle">cu altul</text>
-    <text x="575" y="178" text-anchor="middle" font-style="italic">același, aceeași</text>
+<text x="240.5" y="484.9" font-size="13" fill="#3a3226" textLength="23.3" lengthAdjust="spacing">G-D</text>
+<text x="340.5" y="484.9" font-size="13" fill="#3a3226" textLength="48.2" lengthAdjust="spacing">aceluiași</text>
+<text x="479.4" y="484.9" font-size="13" fill="#3a3226" textLength="49.9" lengthAdjust="spacing">acelorași</text>
+<text x="616.3" y="484.9" font-size="13" fill="#3a3226" textLength="47.6" lengthAdjust="spacing">aceleiași</text>
+<text x="747.1" y="484.9" font-size="13" fill="#3a3226" textLength="49.9" lengthAdjust="spacing">acelorași</text>
+<line x1="62.0" y1="494.8" x2="838.0" y2="494.8" stroke="#e3dccb"/>
+<text x="74.0" y="515.8" font-size="13" fill="#3a3226" font-weight="700" textLength="71.8" lengthAdjust="spacing">diferențiere</text>
+<text x="237.4" y="515.8" font-size="13" fill="#3a3226" textLength="29.4" lengthAdjust="spacing">N-Ac</text>
+<text x="344.8" y="515.8" font-size="13" fill="#3a3226" textLength="39.8" lengthAdjust="spacing">celălalt</text>
+<text x="486.2" y="515.8" font-size="13" fill="#3a3226" textLength="36.3" lengthAdjust="spacing">ceilalți</text>
+<text x="618.5" y="515.8" font-size="13" fill="#3a3226" textLength="43.3" lengthAdjust="spacing">cealaltă</text>
+<text x="748.7" y="515.8" font-size="13" fill="#3a3226" textLength="46.7" lengthAdjust="spacing">celelalte</text>
+<line x1="62.0" y1="525.7" x2="838.0" y2="525.7" stroke="#e3dccb"/>
 
-    <rect x="685" y="82" width="200" height="128" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="785" y="106" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Diferențiere</text>
-    <text x="785" y="130" text-anchor="middle">deosebire față</text>
-    <text x="785" y="150" text-anchor="middle">de alt obiect</text>
-    <text x="785" y="178" text-anchor="middle" font-style="italic">celălalt, cealaltă</text>
-  </g>
-
-  <rect x="55" y="224" width="830" height="88" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="75" y="248" font-size="13" font-weight="700" fill="#10233f">De reținut</text>
-  <text font-size="11" fill="#3a3226"><tspan x="75" y="270">este lipsit de categoria persoanei; îndeplinește aceleași funcții sintactice ca substantivul</tspan><tspan x="75" y="290">cel, cea, cei, cele = demonstrative semiindependente (cea verde, cel care te-a chemat)</tspan></text>
-
-  <text x="450" y="338" text-anchor="middle" font-size="11" fill="#5b6b83">Adjectivul pronominal demonstrativ: antepus, formă fără -a (acest băiat); postpus, formă cu -a (băiatul acesta). Funcția: atribut adjectival.</text>
-  <text x="450" y="366" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, pp. 150-151</text>
+<text x="240.5" y="546.7" font-size="13" fill="#3a3226" textLength="23.3" lengthAdjust="spacing">G-D</text>
+<text x="342.8" y="546.7" font-size="13" fill="#3a3226" textLength="43.7" lengthAdjust="spacing">celuilalt</text>
+<text x="480.1" y="546.7" font-size="13" fill="#3a3226" textLength="48.5" lengthAdjust="spacing">celorlalți</text>
+<text x="615.2" y="546.7" font-size="13" fill="#3a3226" textLength="49.8" lengthAdjust="spacing">celeilalte</text>
+<text x="746.0" y="546.7" font-size="13" fill="#3a3226" textLength="52.1" lengthAdjust="spacing">celorlalte</text>
+<line x1="62.0" y1="556.6" x2="838.0" y2="556.6" stroke="#e3dccb"/>
+<line x1="209.4" y1="277.9" x2="209.4" y2="556.6" stroke="#e3dccb"/>
+<line x1="294.8" y1="277.9" x2="294.8" y2="556.6" stroke="#e3dccb"/>
+<line x1="434.5" y1="277.9" x2="434.5" y2="556.6" stroke="#e3dccb"/>
+<line x1="574.2" y1="277.9" x2="574.2" y2="556.6" stroke="#e3dccb"/>
+<line x1="706.1" y1="277.9" x2="706.1" y2="556.6" stroke="#e3dccb"/>
+<text x="62.0" y="584.6" font-size="14" fill="#5b6b83" textLength="147.8" lengthAdjust="spacing">Între paranteze: formele</text>
+<text x="213.6" y="584.6" font-size="14" fill="#5b6b83" font-weight="700" textLength="47.3" lengthAdjust="spacing">vorbite</text>
+<text x="260.9" y="584.6" font-size="14" fill="#5b6b83" textLength="203.4" lengthAdjust="spacing">. În scris folosesc formele literare.</text>
+<rect x="40" y="626.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="649.8" font-size="16" font-weight="700" fill="#ffffff">3. DE REȚINUT</text>
+<rect x="40" y="660.8" width="820" height="287.6" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="693.8" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="693.8" font-size="15" fill="#10233f" font-style="italic" textLength="27.0" lengthAdjust="spacing">asta</text>
+<text x="105.2" y="693.8" font-size="15" fill="#3a3226" textLength="127.5" lengthAdjust="spacing">are în limba literară</text>
+<text x="236.8" y="693.8" font-size="15" fill="#3a3226" font-weight="700" textLength="102.3" lengthAdjust="spacing">valoare neutră</text>
+<text x="339.1" y="693.8" font-size="15" fill="#3a3226" textLength="204.7" lengthAdjust="spacing">, când nu se referă la persoane:</text>
+<text x="547.9" y="693.8" font-size="15" fill="#10233f" font-style="italic" textLength="126.9" lengthAdjust="spacing">Nu mi-ai spus asta!</text>
+<text x="62.0" y="718.5" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="718.5" font-size="15" fill="#10233f" font-style="italic" textLength="105.0" lengthAdjust="spacing">cel, cea, cei, cele</text>
+<text x="183.2" y="718.5" font-size="15" fill="#3a3226" textLength="127.5" lengthAdjust="spacing">sunt demonstrative</text>
+<text x="314.8" y="718.5" font-size="15" fill="#3a3226" font-weight="700" textLength="130.5" lengthAdjust="spacing">semiindependente</text>
+<text x="449.3" y="718.5" font-size="15" fill="#3a3226" textLength="336.9" lengthAdjust="spacing">când înlocuiesc un substantiv și au un determinant:</text>
+<text x="790.3" y="718.5" font-size="15" fill="#10233f" font-style="italic" textLength="22.0" lengthAdjust="spacing">cea</text>
+<text x="74.2" y="740.3" font-size="15" fill="#10233f" font-style="italic" textLength="414.3" lengthAdjust="spacing">verde, cei de acolo; Cel 1/ care te-a chemat 2/ este directorul. 1/</text>
+<text x="62.0" y="765.0" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="765.0" font-size="15" fill="#3a3226" textLength="187.6" lengthAdjust="spacing">Pronumele demonstrativ are</text>
+<text x="265.9" y="765.0" font-size="15" fill="#3a3226" font-weight="700" textLength="161.6" lengthAdjust="spacing">funcțiile substantivului</text>
+<text x="427.4" y="765.0" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="783.5" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="811.5" font-size="16" fill="#0d9c92" font-weight="700" textLength="234.4" lengthAdjust="spacing">adjectivul demonstrativ înainte</text>
+<text x="78.0" y="834.8" font-size="14.5" fill="#3a3226" textLength="38.0" lengthAdjust="spacing">formă</text>
+<text x="119.9" y="834.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="44.7" lengthAdjust="spacing">fără -a</text>
+<text x="78.0" y="858.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="237.6" lengthAdjust="spacing">acest, acel băiat; acea fată; aceste fete</text>
+<rect x="458.0" y="783.5" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="811.5" font-size="16" fill="#6f5ea8" font-weight="700" textLength="220.6" lengthAdjust="spacing">adjectivul demonstrativ după</text>
+<text x="474.0" y="834.8" font-size="14.5" fill="#3a3226" textLength="38.0" lengthAdjust="spacing">formă</text>
+<text x="515.9" y="834.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="33.5" lengthAdjust="spacing">cu -a</text>
+<text x="474.0" y="858.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="244.3" lengthAdjust="spacing">băiatul acesta; fata aceea; fetele acelea</text>
+<text x="62.0" y="904.1" font-size="15" fill="#3a3226" textLength="371.4" lengthAdjust="spacing">Adjectivul demonstrativ se acordă cu substantivul și este</text>
+<text x="437.4" y="904.1" font-size="15" fill="#3a3226" font-weight="700" textLength="120.0" lengthAdjust="spacing">atribut adjectival</text>
+<text x="557.4" y="904.1" font-size="15" fill="#3a3226" textLength="267.3" lengthAdjust="spacing">; cel de diferențiere nu își schimbă forma</text>
+<text x="62.0" y="925.9" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="66.5" y="925.9" font-size="15" fill="#10233f" font-style="italic" textLength="192.1" lengthAdjust="spacing">cealaltă mână, mâna cealaltă</text>
+<text x="258.6" y="925.9" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">).</text>
+<text x="219.8" y="979.9" font-size="11.5" fill="#5b6b83" textLength="460.5" lengthAdjust="spacing">Sursa: Manual Art 7, pp. 150-151, rubricile Repere, tabelele formelor și modelele de analiză.</text>
 </svg>

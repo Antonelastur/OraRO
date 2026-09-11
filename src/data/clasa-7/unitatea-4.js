@@ -676,7 +676,7 @@ export const unitatea4 = {
         ],
         resurse: [
           'Manual Art 7, pp. 146-147',
-          'Schema „Pronumele personal, de politețe, reflexiv” (/materiale/clasa-7/unitatea-4/lectia-11/schema.svg)',
+          'Schema „Pronumele personal, de politețe și reflexiv” (/materiale/clasa-7/unitatea-4/lectia-11/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -713,7 +713,7 @@ export const unitatea4 = {
         ],
         evaluare: 'Observarea sistematică a elevilor; aprecieri.',
       },
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-4/lectia-11/schema.svg', titlu: 'Pronumele personal, de politețe, reflexiv' }, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-4/lectia-11/schema.svg', titlu: 'Pronumele personal, de politețe și reflexiv' }, altele: [] },
     },
     {
       id: 'lectia-12',
@@ -1132,7 +1132,7 @@ export const unitatea4 = {
         ],
         resurse: [
           'Manual Art 7, pp. 158-159',
-          'Schema „Posibilități combinatorii ale pronumelui” (/materiale/clasa-7/unitatea-4/lectia-19/schema.svg)',
+          'Schema „Posibilitățile combinatorii ale pronumelui” (/materiale/clasa-7/unitatea-4/lectia-19/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -1169,7 +1169,7 @@ export const unitatea4 = {
         ],
         evaluare: 'Observarea sistematică a elevilor; autoevaluarea de la p. 159. Minitestul lecției e în varianta digitală a manualului, cu baremul în Anexa 7.d a Ghidului profesorului.',
       },
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-4/lectia-19/schema.svg', titlu: 'Posibilități combinatorii ale pronumelui' }, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-4/lectia-19/schema.svg', titlu: 'Posibilitățile combinatorii ale pronumelui' }, altele: [] },
     },
     {
       id: 'lectia-20',

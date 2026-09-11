@@ -1,20 +1,88 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 350" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="350" fill="#faf7f0"/>
-  <text x="450" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Adjectivul pronominal de întărire</text>
-  <text x="450" y="60" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV · lecția 18 · precizează prin insistență persoana la care se referă</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 773" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="773" fill="#faf7f0"/>
+<text x="231.5" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="437.9" lengthAdjust="spacing">Adjectivul pronominal de întărire</text>
+<text x="217.0" y="74.4" font-size="14" fill="#5b6b83" textLength="466.1" lengthAdjust="spacing">Clasa a VII-a · Unitatea a IV-a, Lecția 18 · Manual, p. 157 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ESTE</text>
+<rect x="40" y="128.6" width="820" height="132.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="76.8" lengthAdjust="spacing">Pronumele</text>
+<text x="142.9" y="161.6" font-size="15" fill="#3a3226" textLength="365.2" lengthAdjust="spacing">de întărire a dispărut din limba de azi; se folosește doar</text>
+<text x="512.1" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="232.2" lengthAdjust="spacing">adjectivul pronominal de întărire</text>
+<text x="744.3" y="161.6" font-size="15" fill="#3a3226" textLength="88.5" lengthAdjust="spacing">. Se acordă în</text>
+<text x="62.0" y="183.3" font-size="15" fill="#3a3226" textLength="411.0" lengthAdjust="spacing">gen, număr și caz cu substantivul sau pronumele determinat și</text>
+<text x="477.0" y="183.3" font-size="15" fill="#3a3226" font-weight="700" textLength="178.3" lengthAdjust="spacing">precizează prin insistență</text>
+<text x="659.4" y="183.3" font-size="15" fill="#3a3226" textLength="64.2" lengthAdjust="spacing">persoana:</text>
+<text x="727.7" y="183.3" font-size="15" fill="#10233f" font-style="italic" textLength="64.5" lengthAdjust="spacing">Directorul</text>
+<text x="796.2" y="183.3" font-size="15" fill="#3a3226" font-weight="700" textLength="39.9" lengthAdjust="spacing">însuși</text>
+<text x="62.0" y="205.1" font-size="15" fill="#10233f" font-style="italic" textLength="85.2" lengthAdjust="spacing">ne-a sprijinit.</text>
+<text x="62.0" y="238.6" font-size="15" fill="#3a3226" textLength="51.0" lengthAdjust="spacing">Funcția:</text>
+<text x="117.0" y="238.6" font-size="15" fill="#3a3226" font-weight="700" textLength="120.0" lengthAdjust="spacing">atribut adjectival</text>
+<text x="237.0" y="238.6" font-size="15" fill="#3a3226" textLength="199.2" lengthAdjust="spacing">. Tendința de azi: înlocuirea cu</text>
+<text x="440.3" y="238.6" font-size="15" fill="#3a3226" font-weight="700" textLength="34.5" lengthAdjust="spacing">chiar</text>
+<text x="474.8" y="238.6" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="482.1" y="238.6" font-size="15" fill="#10233f" font-style="italic" textLength="100.0" lengthAdjust="spacing">A venit chiar el.</text>
+<rect x="40" y="281.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="304.1" font-size="16" font-weight="700" fill="#ffffff">2. FORMELE</text>
+<rect x="40" y="315.1" width="820" height="253.0" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="333.1" width="776.0" height="31.6" fill="#efeaf8"/>
 
-  <rect x="60" y="82" width="780" height="66" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="80" y="106" font-size="13" font-weight="700" fill="#10233f">Situația în limba de azi</text>
-  <text font-size="11" fill="#3a3226"><tspan x="80" y="128">pronumele de întărire a dispărut din limba română contemporană;</tspan><tspan x="80" y="146">se folosește numai adjectivul pronominal de întărire</tspan></text>
+<text x="215.6" y="354.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="34.2" lengthAdjust="spacing">Cazul</text>
+<text x="330.3" y="354.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="37.8" lengthAdjust="spacing">m. sg.</text>
+<text x="473.6" y="354.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="30.5" lengthAdjust="spacing">f. sg.</text>
+<text x="610.7" y="354.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="35.6" lengthAdjust="spacing">m. pl.</text>
+<text x="754.1" y="354.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="28.3" lengthAdjust="spacing">f. pl.</text>
+<line x1="62.0" y1="364.7" x2="838.0" y2="364.7" stroke="#e3dccb"/>
+<text x="74.0" y="385.7" font-size="13" fill="#3a3226" textLength="59.8" lengthAdjust="spacing">persoana I</text>
+<text x="218.0" y="385.7" font-size="13" fill="#3a3226" textLength="29.4" lengthAdjust="spacing">N-Ac</text>
+<text x="330.3" y="385.7" font-size="13" fill="#3a3226" textLength="37.7" lengthAdjust="spacing">însumi</text>
+<text x="470.3" y="385.7" font-size="13" fill="#3a3226" textLength="36.9" lengthAdjust="spacing">însămi</text>
+<text x="611.8" y="385.7" font-size="13" fill="#3a3226" textLength="33.3" lengthAdjust="spacing">înșine</text>
+<text x="749.7" y="385.7" font-size="13" fill="#3a3226" textLength="36.9" lengthAdjust="spacing">însene</text>
+<line x1="62.0" y1="395.6" x2="838.0" y2="395.6" stroke="#e3dccb"/>
 
-  <rect x="60" y="164" width="375" height="120" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="80" y="188" font-size="13" font-weight="700" fill="#10233f">Forme</text>
-  <text font-size="11" fill="#3a3226"><tspan x="80" y="210" font-style="italic">însumi, însămi, însuți, însăți,</tspan><tspan x="80" y="228" font-style="italic">însuși, însăși</tspan><tspan x="80" y="252" font-style="italic">înșine, însene, înșivă, însevă,</tspan><tspan x="80" y="270" font-style="italic">înșiși, înseși / însele</tspan></text>
+<text x="221.1" y="416.6" font-size="13" fill="#3a3226" textLength="23.3" lengthAdjust="spacing">D-G</text>
+<text x="330.3" y="416.6" font-size="13" fill="#3a3226" textLength="37.7" lengthAdjust="spacing">însumi</text>
+<text x="470.3" y="416.6" font-size="13" fill="#3a3226" textLength="37.0" lengthAdjust="spacing">însemi</text>
+<text x="611.8" y="416.6" font-size="13" fill="#3a3226" textLength="33.3" lengthAdjust="spacing">înșine</text>
+<text x="749.7" y="416.6" font-size="13" fill="#3a3226" textLength="36.9" lengthAdjust="spacing">însene</text>
+<line x1="62.0" y1="426.4" x2="838.0" y2="426.4" stroke="#e3dccb"/>
+<text x="74.0" y="447.5" font-size="13" fill="#3a3226" textLength="85.3" lengthAdjust="spacing">persoana a II-a</text>
+<text x="218.0" y="447.5" font-size="13" fill="#3a3226" textLength="29.4" lengthAdjust="spacing">N-Ac</text>
+<text x="333.6" y="447.5" font-size="13" fill="#3a3226" textLength="30.9" lengthAdjust="spacing">însuți</text>
+<text x="473.7" y="447.5" font-size="13" fill="#3a3226" textLength="30.2" lengthAdjust="spacing">însăți</text>
+<text x="612.5" y="447.5" font-size="13" fill="#3a3226" textLength="32.0" lengthAdjust="spacing">înșivă</text>
+<text x="750.4" y="447.5" font-size="13" fill="#3a3226" textLength="35.6" lengthAdjust="spacing">însevă</text>
+<line x1="62.0" y1="457.4" x2="838.0" y2="457.4" stroke="#e3dccb"/>
 
-  <rect x="465" y="164" width="375" height="120" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="485" y="188" font-size="13" font-weight="700" fill="#10233f">Acord și funcție</text>
-  <text font-size="11" fill="#3a3226"><tspan x="485" y="210">se acordă în gen, număr și caz cu</tspan><tspan x="485" y="228">substantivul sau pronumele determinat</tspan><tspan x="485" y="252">funcția sintactică: atribut adjectival</tspan><tspan x="485" y="272">tinde să fie înlocuit cu „chiar”: chiar el</tspan></text>
+<text x="221.1" y="478.4" font-size="13" fill="#3a3226" textLength="23.3" lengthAdjust="spacing">D-G</text>
+<text x="333.6" y="478.4" font-size="13" fill="#3a3226" textLength="30.9" lengthAdjust="spacing">însuți</text>
+<text x="473.7" y="478.4" font-size="13" fill="#3a3226" textLength="30.3" lengthAdjust="spacing">înseți</text>
+<text x="612.5" y="478.4" font-size="13" fill="#3a3226" textLength="32.0" lengthAdjust="spacing">înșivă</text>
+<text x="750.4" y="478.4" font-size="13" fill="#3a3226" textLength="35.6" lengthAdjust="spacing">însevă</text>
+<line x1="62.0" y1="488.2" x2="838.0" y2="488.2" stroke="#e3dccb"/>
+<text x="74.0" y="509.2" font-size="13" fill="#3a3226" textLength="88.8" lengthAdjust="spacing">persoana a III-a</text>
+<text x="218.0" y="509.2" font-size="13" fill="#3a3226" textLength="29.4" lengthAdjust="spacing">N-Ac</text>
+<text x="333.1" y="509.2" font-size="13" fill="#3a3226" textLength="32.0" lengthAdjust="spacing">însuși</text>
+<text x="473.2" y="509.2" font-size="13" fill="#3a3226" textLength="31.2" lengthAdjust="spacing">însăși</text>
+<text x="614.6" y="509.2" font-size="13" fill="#3a3226" textLength="27.7" lengthAdjust="spacing">înșiși</text>
+<text x="733.0" y="509.2" font-size="13" fill="#3a3226" textLength="70.3" lengthAdjust="spacing">înseși, însele</text>
+<line x1="62.0" y1="519.1" x2="838.0" y2="519.1" stroke="#e3dccb"/>
 
-  <text x="450" y="326" text-anchor="middle" font-size="11" fill="#5b6b83">Exemplu: Directorul însuși ne-a sprijinit. · Dana vorbește despre ea însăși.</text>
-  <text x="450" y="344" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, p. 157</text>
+<text x="221.1" y="540.2" font-size="13" fill="#3a3226" textLength="23.3" lengthAdjust="spacing">D-G</text>
+<text x="333.1" y="540.2" font-size="13" fill="#3a3226" textLength="32.0" lengthAdjust="spacing">însuși</text>
+<text x="473.1" y="540.2" font-size="13" fill="#3a3226" textLength="31.3" lengthAdjust="spacing">înseși</text>
+<text x="614.6" y="540.2" font-size="13" fill="#3a3226" textLength="27.7" lengthAdjust="spacing">înșiși</text>
+<text x="733.0" y="540.2" font-size="13" fill="#3a3226" textLength="70.3" lengthAdjust="spacing">înseși, însele</text>
+<line x1="62.0" y1="550.1" x2="838.0" y2="550.1" stroke="#e3dccb"/>
+<line x1="186.2" y1="333.1" x2="186.2" y2="550.1" stroke="#e3dccb"/>
+<line x1="279.3" y1="333.1" x2="279.3" y2="550.1" stroke="#e3dccb"/>
+<line x1="419.0" y1="333.1" x2="419.0" y2="550.1" stroke="#e3dccb"/>
+<line x1="558.6" y1="333.1" x2="558.6" y2="550.1" stroke="#e3dccb"/>
+<line x1="698.3" y1="333.1" x2="698.3" y2="550.1" stroke="#e3dccb"/>
+<rect x="40" y="588.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="611.1" font-size="16" font-weight="700" fill="#ffffff">3. MODEL DE ANALIZĂ</text>
+<rect x="40" y="622.1" width="820" height="99.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="640.1" width="776.0" height="63.9" rx="12" fill="#f3efe4"/><text x="78.0" y="666.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="674.5" lengthAdjust="spacing">„însăși” – adjectiv pronominal de întărire, acordat în gen, număr și caz cu pronumele „ea” (feminin, singular,</text>
+<text x="78.0" y="687.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="312.5" lengthAdjust="spacing">nominativ), funcția sintactică de atribut adjectival.</text>
+<text x="243.0" y="753.4" font-size="11.5" fill="#5b6b83" textLength="414.0" lengthAdjust="spacing">Sursa: Manual Art 7, p. 157, rubrica Repere, tabelul formelor și modelul de analiză.</text>
 </svg>

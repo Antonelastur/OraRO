@@ -186,7 +186,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Reactualizează pronumele personal, pronumele personal de politețe și pronumele reflexiv și categoriile lor gramaticale.'],
-    resurse: ['Manual Art 7, pp. 146-147', 'Schema „Pronumele personal, de politețe, reflexiv” (/materiale/clasa-7/unitatea-4/lectia-11/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 7, pp. 146-147', 'Schema „Pronumele personal, de politețe și reflexiv” (/materiale/clasa-7/unitatea-4/lectia-11/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Citim invitația la cursul de mărțișoare din porțelan rece de la p. 146 și găsim pronumele, cu substantivele pe care le înlocuiesc.' },
@@ -322,7 +322,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Identifică funcțiile sintactice ale pronumelui, precizând dacă e centru sau adjunct.'],
-    resurse: ['Manual Art 7, pp. 158-159', 'Schema „Posibilități combinatorii ale pronumelui” (/materiale/clasa-7/unitatea-4/lectia-19/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 7, pp. 158-159', 'Schema „Posibilitățile combinatorii ale pronumelui” (/materiale/clasa-7/unitatea-4/lectia-19/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Citim dialogul despre trifoiul cu patru foi de la p. 158 și îi întreb pe elevi dacă ar păstra un astfel de talisman.' },
