@@ -1,20 +1,78 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="380" fill="#faf7f0"/>
-  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Circumstanțialul de scop</text>
-  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V · lecția 13 · arată scopul desfășurării unei acțiuni sau al prezenței unei însușiri</text>
-
-  <rect x="55" y="80" width="790" height="56" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
-  <text x="75" y="102" font-size="13" font-weight="700" fill="#10233f">Întrebări</text>
-  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="124">cu ce scop?, în ce scop?</tspan></text>
-
-  <rect x="55" y="152" width="390" height="128" rx="14" fill="none" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="75" y="176" font-size="13" font-weight="700" fill="#10233f">Regentul</text>
-  <text font-size="11" fill="#3a3226"><tspan x="75" y="198">un verb sau o locuțiune verbală, o interjecție</tspan><tspan x="75" y="216">predicativă (Hai la plimbare!), un adjectiv</tspan><tspan x="75" y="234">(atent pentru a înțelege) sau un adverb</tspan></text>
-
-  <rect x="465" y="152" width="380" height="128" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
-  <text x="485" y="176" font-size="13" font-weight="700" fill="#10233f">Se exprimă prin</text>
-  <text font-size="11" fill="#3a3226"><tspan x="485" y="198">substantiv, pronume, numeral în acuzativ</tspan><tspan x="485" y="216">sau genitiv, cu pentru, spre, în, cu, după, la,</tspan><tspan x="485" y="234">în vederea; locuțiune adverbială;</tspan><tspan x="485" y="252">verb la infinitiv (spre a se convinge) sau supin</tspan></text>
-
-  <text x="450" y="326" text-anchor="middle" font-size="11.5" fill="#3a3226">Exemple: Am adunat fonduri pentru ajutorarea copiilor. Ogorul a fost pregătit pentru semănat.</text>
-  <text x="450" y="360" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, p. 191</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 977" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="977" fill="#faf7f0"/>
+<text x="288.7" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="323.1" lengthAdjust="spacing">Circumstanțialul de scop</text>
+<text x="217.0" y="74.4" font-size="14" fill="#5b6b83" textLength="466.1" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a V-a, Lecția 13 · Manual, p. 191 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ESTE</text>
+<rect x="40" y="128.6" width="820" height="185.6" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="184.6" lengthAdjust="spacing">Circumstanțialul de scop</text>
+<text x="251.0" y="162.6" font-size="16" fill="#10233f" textLength="35.5" lengthAdjust="spacing">arată</text>
+<text x="290.8" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="48.6" lengthAdjust="spacing">scopul</text>
+<text x="343.8" y="162.6" font-size="16" fill="#10233f" textLength="387.5" lengthAdjust="spacing">unei acțiuni sau al unei însușiri. Răspunde la întrebările:</text>
+<text x="735.6" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="102.9" lengthAdjust="spacing">cu ce scop? în</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="62.2" lengthAdjust="spacing">ce scop?</text>
+<rect x="62.0" y="204.6" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#10233f" stroke-width="2"/>
+<text x="78.0" y="232.6" font-size="16" fill="#10233f" font-weight="700" textLength="42.4" lengthAdjust="spacing">cauza</text>
+<text x="78.0" y="255.9" font-size="14.5" fill="#3a3226" textLength="7.5" lengthAdjust="spacing">e</text>
+<text x="89.5" y="255.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="47.1" lengthAdjust="spacing">înainte</text>
+<text x="140.5" y="255.9" font-size="14.5" fill="#3a3226" textLength="66.6" lengthAdjust="spacing">de acțiune</text>
+<text x="78.0" y="279.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="104.1" lengthAdjust="spacing">A plecat de frică.</text>
+<rect x="458.0" y="204.6" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#9a7433" stroke-width="2"/>
+<text x="474.0" y="232.6" font-size="16" fill="#9a7433" font-weight="700" textLength="48.6" lengthAdjust="spacing">scopul</text>
+<text x="474.0" y="255.9" font-size="14.5" fill="#3a3226" textLength="7.5" lengthAdjust="spacing">e</text>
+<text x="485.5" y="255.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="34.7" lengthAdjust="spacing">după</text>
+<text x="524.0" y="255.9" font-size="14.5" fill="#3a3226" textLength="139.2" lengthAdjust="spacing">acțiune, urmărit de ea</text>
+<text x="474.0" y="279.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="180.1" lengthAdjust="spacing">A plecat pentru cumpărături.</text>
+<rect x="40" y="334.2" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="357.2" font-size="16" font-weight="700" fill="#ffffff">2. DE CE DEPINDE</text>
+<rect x="40" y="368.2" width="820" height="198.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="386.2" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="407.7" font-size="13.5" fill="#10233f" font-weight="700" textLength="57.2" lengthAdjust="spacing">Regentul</text>
+<text x="345.6" y="407.7" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="417.7" x2="838.0" y2="417.7" stroke="#e3dccb"/>
+<text x="74.0" y="440.2" font-size="14.5" fill="#3a3226" textLength="145.0" lengthAdjust="spacing">verb, locuțiune verbală</text>
+<text x="345.6" y="440.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="119.0" lengthAdjust="spacing">Am adunat fonduri</text>
+<text x="468.6" y="440.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="176.0" lengthAdjust="spacing">pentru ajutorarea copiilor</text>
+<text x="644.6" y="440.2" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="450.6" x2="838.0" y2="450.6" stroke="#e3dccb"/>
+<text x="74.0" y="473.1" font-size="14.5" fill="#3a3226" textLength="136.9" lengthAdjust="spacing">interjecție predicativă</text>
+<text x="345.6" y="473.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="21.9" lengthAdjust="spacing">Hai</text>
+<text x="371.4" y="473.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="76.8" lengthAdjust="spacing">la plimbare</text>
+<text x="448.3" y="473.1" font-size="14.5" fill="#3a3226" textLength="4.1" lengthAdjust="spacing">!</text>
+<line x1="62.0" y1="483.4" x2="838.0" y2="483.4" stroke="#e3dccb"/>
+<text x="74.0" y="505.9" font-size="14.5" fill="#3a3226" textLength="49.0" lengthAdjust="spacing">adjectiv</text>
+<text x="345.6" y="505.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="108.3" lengthAdjust="spacing">Era mereu atentă</text>
+<text x="457.8" y="505.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="157.5" lengthAdjust="spacing">pentru a înțelege lecția</text>
+<text x="615.3" y="505.9" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="516.3" x2="838.0" y2="516.3" stroke="#e3dccb"/>
+<text x="74.0" y="538.8" font-size="14.5" fill="#3a3226" textLength="44.1" lengthAdjust="spacing">adverb</text>
+<text x="345.6" y="538.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="155.3" lengthAdjust="spacing">A colectat deșeurile bine,</text>
+<text x="504.8" y="538.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="235.6" lengthAdjust="spacing">pentru a nu mai face încă un drum</text>
+<text x="740.4" y="538.8" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="549.1" x2="838.0" y2="549.1" stroke="#e3dccb"/>
+<line x1="333.6" y1="386.2" x2="333.6" y2="549.1" stroke="#e3dccb"/>
+<rect x="40" y="587.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="610.1" font-size="16" font-weight="700" fill="#ffffff">3. PRIN CE SE EXPRIMĂ</text>
+<rect x="40" y="621.1" width="820" height="304.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="639.1" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="660.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="109.8" lengthAdjust="spacing">Partea de vorbire</text>
+<text x="423.2" y="660.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="670.7" x2="838.0" y2="670.7" stroke="#e3dccb"/>
+<text x="74.0" y="693.2" font-size="14.5" fill="#3a3226" textLength="290.9" lengthAdjust="spacing">substantiv, pronume, numeral în Ac. sau G. cu</text>
+<text x="74.0" y="714.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="281.0" lengthAdjust="spacing">pentru, spre, întru, în, cu, după, la, în vederea</text>
+<text x="423.2" y="693.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="380.2" lengthAdjust="spacing">Mergem la cumpărături. Testul e greu și în vederea lui m-am</text>
+<text x="423.2" y="714.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="52.1" lengthAdjust="spacing">pregătit.</text>
+<line x1="62.0" y1="724.5" x2="838.0" y2="724.5" stroke="#e3dccb"/>
+<text x="74.0" y="747.0" font-size="14.5" fill="#3a3226" textLength="129.2" lengthAdjust="spacing">locuțiune adverbială</text>
+<text x="423.2" y="747.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="297.8" lengthAdjust="spacing">De aceea te-a vizitat, pentru a-ți face o bucurie.</text>
+<line x1="62.0" y1="757.4" x2="838.0" y2="757.4" stroke="#e3dccb"/>
+<text x="74.0" y="779.9" font-size="14.5" fill="#3a3226" textLength="95.0" lengthAdjust="spacing">infinitiv / supin</text>
+<text x="423.2" y="779.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="361.0" lengthAdjust="spacing">Spre a se convinge, a venit el însuși. Ogorul a fost pregătit</text>
+<text x="423.2" y="800.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="101.9" lengthAdjust="spacing">pentru semănat.</text>
+<line x1="62.0" y1="811.3" x2="838.0" y2="811.3" stroke="#e3dccb"/>
+<line x1="411.2" y1="639.1" x2="411.2" y2="811.3" stroke="#e3dccb"/>
+<rect x="62.0" y="825.3" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="851.8" font-size="14.5" fill="#10233f" font-weight="700" textLength="119.9" lengthAdjust="spacing">Model de analiză:</text>
+<text x="78.0" y="870.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="730.0" lengthAdjust="spacing">„cu scopul” – circumstanțial de scop, exprimat prin substantiv comun, genul neutru, numărul singular, cazul acuzativ,</text>
+<text x="78.0" y="891.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="424.0" lengthAdjust="spacing">articulat cu articolul hotărât „-l”, precedat de prepoziția simplă „cu”.</text>
+<text x="164.3" y="957.5" font-size="11.5" fill="#5b6b83" textLength="571.4" lengthAdjust="spacing">Sursa: Manual Art 8, p. 191, rubrica Repere și modelul de analiză. Unele exemple sunt create pentru aceste notițe.</text>
 </svg>

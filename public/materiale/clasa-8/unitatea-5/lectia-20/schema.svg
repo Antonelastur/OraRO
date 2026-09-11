@@ -1,73 +1,85 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 583" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="1000" height="583" fill="#faf7f0"/>
-  <text x="500" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Circumstanțialele, tot la un loc</text>
-  <text x="500" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V · Recapitulare, gramatică</text>
-  <rect x="36" y="96" width="223" height="34" rx="10" fill="#0d9c92"/>
-  <text x="147.5" y="119" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">CAUZĂ</text>
-  <rect x="36" y="142" width="223" height="58" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="56" y="166" font-size="13" font-weight="700" fill="#10233f">Întrebarea</text>
-  <text x="56" y="186" font-size="12" fill="#3d4a5f">din ce cauză?</text>
-  <rect x="36" y="212" width="223" height="58" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="56" y="236" font-size="13" font-weight="700" fill="#10233f">În propoziție</text>
-  <text x="56" y="256" font-size="12" fill="#3d4a5f">Am înghețat de frig.</text>
-  <rect x="36" y="282" width="223" height="77" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="56" y="306" font-size="13" font-weight="700" fill="#10233f">În frază</text>
-  <text x="56" y="326" font-size="12" fill="#3d4a5f">fiindcă, deoarece,</text>
-  <text x="56" y="345" font-size="12" fill="#3d4a5f">pentru că, din cauză că</text>
-  <rect x="36" y="371" width="223" height="77" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="56" y="395" font-size="13" font-weight="700" fill="#10233f">Virgula</text>
-  <text x="56" y="415" font-size="12" fill="#3d4a5f">de obicei, da;</text>
-  <text x="56" y="434" font-size="12" fill="#3d4a5f">nu, dacă e singura cauză</text>
-  <rect x="271" y="96" width="223" height="34" rx="10" fill="#3b5fa8"/>
-  <text x="382.5" y="119" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">SCOP</text>
-  <rect x="271" y="142" width="223" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="291" y="166" font-size="13" font-weight="700" fill="#10233f">Întrebarea</text>
-  <text x="291" y="186" font-size="12" fill="#3d4a5f">cu ce scop?</text>
-  <rect x="271" y="212" width="223" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="291" y="236" font-size="13" font-weight="700" fill="#10233f">În propoziție</text>
-  <text x="291" y="256" font-size="12" fill="#3d4a5f">Mergem la cumpărături.</text>
-  <rect x="271" y="282" width="223" height="77" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="291" y="306" font-size="13" font-weight="700" fill="#10233f">În frază</text>
-  <text x="291" y="326" font-size="12" fill="#3d4a5f">ca să, să, de,</text>
-  <text x="291" y="345" font-size="12" fill="#3d4a5f">pentru ca … să</text>
-  <rect x="271" y="371" width="223" height="77" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="291" y="395" font-size="13" font-weight="700" fill="#10233f">Virgula</text>
-  <text x="291" y="415" font-size="12" fill="#3d4a5f">nu, după să și de;</text>
-  <text x="291" y="434" font-size="12" fill="#3d4a5f">da, cu un corelativ</text>
-  <rect x="506" y="96" width="223" height="34" rx="10" fill="#6f5ea8"/>
-  <text x="617.5" y="119" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">CONCESIV</text>
-  <rect x="506" y="142" width="223" height="58" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="526" y="166" font-size="13" font-weight="700" fill="#10233f">Întrebarea</text>
-  <text x="526" y="186" font-size="12" fill="#3d4a5f">în ciuda cărui fapt?</text>
-  <rect x="506" y="212" width="223" height="58" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="526" y="236" font-size="13" font-weight="700" fill="#10233f">În propoziție</text>
-  <text x="526" y="256" font-size="12" fill="#3d4a5f">În ciuda ploii, a ieșit.</text>
-  <rect x="506" y="282" width="223" height="77" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="526" y="306" font-size="13" font-weight="700" fill="#10233f">În frază</text>
-  <text x="526" y="326" font-size="12" fill="#3d4a5f">deși, cu toate că,</text>
-  <text x="526" y="345" font-size="12" fill="#3d4a5f">chiar dacă, chit că</text>
-  <rect x="506" y="371" width="223" height="58" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="526" y="395" font-size="13" font-weight="700" fill="#10233f">Virgula</text>
-  <text x="526" y="415" font-size="12" fill="#3d4a5f">întotdeauna</text>
-  <rect x="741" y="96" width="223" height="34" rx="10" fill="#a1417e"/>
-  <text x="852.5" y="119" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">CONDIȚIONAL</text>
-  <rect x="741" y="142" width="223" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
-  <text x="761" y="166" font-size="13" font-weight="700" fill="#10233f">Întrebarea</text>
-  <text x="761" y="186" font-size="12" fill="#3d4a5f">cu ce condiție?</text>
-  <rect x="741" y="212" width="223" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
-  <text x="761" y="236" font-size="13" font-weight="700" fill="#10233f">În propoziție</text>
-  <text x="761" y="256" font-size="12" fill="#3d4a5f">Fără materiale, nu lucrezi.</text>
-  <rect x="741" y="282" width="223" height="77" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
-  <text x="761" y="306" font-size="13" font-weight="700" fill="#10233f">În frază</text>
-  <text x="761" y="326" font-size="12" fill="#3d4a5f">dacă, de, să,</text>
-  <text x="761" y="345" font-size="12" fill="#3d4a5f">în caz că, fără să</text>
-  <rect x="741" y="371" width="223" height="77" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
-  <text x="761" y="395" font-size="13" font-weight="700" fill="#10233f">Virgula</text>
-  <text x="761" y="415" font-size="12" fill="#3d4a5f">mai ales când</text>
-  <text x="761" y="434" font-size="12" fill="#3d4a5f">stă înaintea regentului</text>
-  <rect x="36" y="460" width="928" height="77" rx="12" fill="#ffffff" stroke="#c1503a" stroke-width="2"/>
-  <text x="56" y="484" font-size="13" font-weight="700" fill="#10233f">Capcanele</text>
-  <text x="56" y="504" font-size="12" fill="#3d4a5f">din cauza = efect rău, datorită = efect bun · „ca să”, niciodată „că să”</text>
-  <text x="56" y="523" font-size="12" fill="#3d4a5f">„dacă” poate introduce și o completivă: Ne-a întrebat dacă avem încredere. · „cum” cauzal stă mereu înainte</text>
-  <text x="500" y="569" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 188-197</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 854" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="854" fill="#faf7f0"/>
+<text x="148.9" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="603.4" lengthAdjust="spacing">Recapitulare: cauza, scopul, concesia, condiția</text>
+<text x="164.8" y="74.4" font-size="14" fill="#5b6b83" textLength="570.4" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a V-a, Lecția 20 · Manual, pp. 188-197 și 200-201 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. PATRU CIRCUMSTANȚIALE</text>
+<rect x="40" y="128.6" width="820" height="262.0" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="146.6" width="776.0" height="31.6" fill="#efeaf8"/>
+
+<text x="182.6" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="66.1" lengthAdjust="spacing">Întrebarea</text>
+<text x="368.9" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="121.9" lengthAdjust="spacing">Parte de propoziție</text>
+<text x="586.2" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="159.2" lengthAdjust="spacing">Propoziție introdusă prin</text>
+<line x1="62.0" y1="178.2" x2="838.0" y2="178.2" stroke="#e3dccb"/>
+<text x="74.0" y="200.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="38.4" lengthAdjust="spacing">cauză</text>
+<text x="182.6" y="200.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="84.0" lengthAdjust="spacing">din ce cauză?</text>
+<text x="368.9" y="200.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="159.4" lengthAdjust="spacing">de frig, din neglijență, din</text>
+<text x="368.9" y="221.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="56.3" lengthAdjust="spacing">cauza lui</text>
+<text x="586.2" y="200.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="230.8" lengthAdjust="spacing">pentru că, fiindcă, deoarece, întrucât,</text>
+<text x="586.2" y="221.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="79.8" lengthAdjust="spacing">căci, că, cum</text>
+<line x1="62.0" y1="232.0" x2="838.0" y2="232.0" stroke="#e3dccb"/>
+<text x="74.0" y="254.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="31.2" lengthAdjust="spacing">scop</text>
+<text x="182.6" y="254.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="69.9" lengthAdjust="spacing">cu ce scop?</text>
+<text x="368.9" y="254.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="138.3" lengthAdjust="spacing">pentru ajutorarea..., la</text>
+<text x="368.9" y="275.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="131.8" lengthAdjust="spacing">cumpărături, spre a...</text>
+<text x="586.2" y="254.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="171.8" lengthAdjust="spacing">ca să, să, de, pentru ca ... să</text>
+<line x1="62.0" y1="285.9" x2="838.0" y2="285.9" stroke="#e3dccb"/>
+<text x="74.0" y="308.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="57.7" lengthAdjust="spacing">concesie</text>
+<text x="182.6" y="308.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="119.8" lengthAdjust="spacing">în ciuda cărui fapt?</text>
+<text x="368.9" y="308.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="180.8" lengthAdjust="spacing">în ciuda..., cu toată..., fără a...</text>
+<text x="586.2" y="308.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="223.7" lengthAdjust="spacing">deși, cu toate că, chiar dacă, chit că,</text>
+<text x="586.2" y="329.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="57.9" lengthAdjust="spacing">măcar că</text>
+<line x1="62.0" y1="339.8" x2="838.0" y2="339.8" stroke="#e3dccb"/>
+<text x="74.0" y="362.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="55.2" lengthAdjust="spacing">condiție</text>
+<text x="182.6" y="362.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="91.5" lengthAdjust="spacing">cu ce condiție?</text>
+<text x="368.9" y="362.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="188.8" lengthAdjust="spacing">în caz de..., cu condiția..., altfel</text>
+<text x="586.2" y="362.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="184.3" lengthAdjust="spacing">dacă, de, să, în caz că, fără să</text>
+<line x1="62.0" y1="372.6" x2="838.0" y2="372.6" stroke="#e3dccb"/>
+<line x1="170.6" y1="146.6" x2="170.6" y2="372.6" stroke="#e3dccb"/>
+<line x1="356.9" y1="146.6" x2="356.9" y2="372.6" stroke="#e3dccb"/>
+<line x1="574.2" y1="146.6" x2="574.2" y2="372.6" stroke="#e3dccb"/>
+<rect x="40" y="410.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="433.6" font-size="16" font-weight="700" fill="#ffffff">2. VIRGULA</text>
+<rect x="40" y="444.6" width="820" height="198.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="462.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="484.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="98.8" lengthAdjust="spacing">Circumstanțiala</text>
+<text x="268.0" y="484.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="45.9" lengthAdjust="spacing">Virgula</text>
+<line x1="62.0" y1="494.2" x2="838.0" y2="494.2" stroke="#e3dccb"/>
+<text x="74.0" y="516.7" font-size="14.5" fill="#3a3226" textLength="56.3" lengthAdjust="spacing">de cauză</text>
+<text x="268.0" y="516.7" font-size="14.5" fill="#3a3226" textLength="480.2" lengthAdjust="spacing">de obicei cu virgulă; fără, dacă e singura cauză sau legătura e foarte strânsă</text>
+<line x1="62.0" y1="527.0" x2="838.0" y2="527.0" stroke="#e3dccb"/>
+<text x="74.0" y="549.5" font-size="14.5" fill="#3a3226" textLength="49.9" lengthAdjust="spacing">de scop</text>
+<text x="268.0" y="549.5" font-size="14.5" fill="#3a3226" textLength="14.9" lengthAdjust="spacing">cu</text>
+<text x="286.9" y="549.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="35.7" lengthAdjust="spacing">să, de</text>
+<text x="322.5" y="549.5" font-size="14.5" fill="#3a3226" textLength="433.4" lengthAdjust="spacing">: fără virgulă; înainte de regentă: de obicei cu; cu corelativ: mereu cu</text>
+<line x1="62.0" y1="559.9" x2="838.0" y2="559.9" stroke="#e3dccb"/>
+<text x="74.0" y="582.4" font-size="14.5" fill="#3a3226" textLength="61.6" lengthAdjust="spacing">concesivă</text>
+<text x="268.0" y="582.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="83.2" lengthAdjust="spacing">întotdeauna</text>
+<text x="355.1" y="582.4" font-size="14.5" fill="#3a3226" textLength="62.1" lengthAdjust="spacing">cu virgulă</text>
+<line x1="62.0" y1="592.7" x2="838.0" y2="592.7" stroke="#e3dccb"/>
+<text x="74.0" y="615.2" font-size="14.5" fill="#3a3226" textLength="79.0" lengthAdjust="spacing">condițională</text>
+<text x="268.0" y="615.2" font-size="14.5" fill="#3a3226" textLength="358.1" lengthAdjust="spacing">după legătura dorită; mai des cu virgulă când stă înainte</text>
+<line x1="62.0" y1="625.6" x2="838.0" y2="625.6" stroke="#e3dccb"/>
+<line x1="256.0" y1="462.6" x2="256.0" y2="625.6" stroke="#e3dccb"/>
+<rect x="40" y="663.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="686.6" font-size="16" font-weight="700" fill="#ffffff">3. ATENȚIE LA SENS</text>
+<rect x="40" y="697.6" width="820" height="105.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="730.6" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="730.6" font-size="15" fill="#3a3226" font-weight="700" textLength="149.8" lengthAdjust="spacing">din cauza, din pricina</text>
+<text x="228.1" y="730.6" font-size="15" fill="#3a3226" textLength="127.5" lengthAdjust="spacing">= efect nefavorabil;</text>
+<text x="359.6" y="730.6" font-size="15" fill="#3a3226" font-weight="700" textLength="56.5" lengthAdjust="spacing">datorită</text>
+<text x="420.2" y="730.6" font-size="15" fill="#3a3226" textLength="97.8" lengthAdjust="spacing">= efect pozitiv.</text>
+<text x="62.0" y="755.3" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="755.3" font-size="15" fill="#3a3226" textLength="51.8" lengthAdjust="spacing">Cauza e</text>
+<text x="130.0" y="755.3" font-size="15" fill="#3a3226" font-weight="700" textLength="56.9" lengthAdjust="spacing">înaintea</text>
+<text x="190.9" y="755.3" font-size="15" fill="#3a3226" textLength="109.8" lengthAdjust="spacing">acțiunii; scopul e</text>
+<text x="304.8" y="755.3" font-size="15" fill="#3a3226" font-weight="700" textLength="53.1" lengthAdjust="spacing">urmărit</text>
+<text x="361.9" y="755.3" font-size="15" fill="#3a3226" textLength="72.2" lengthAdjust="spacing">de acțiune.</text>
+<text x="62.0" y="780.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="780.1" font-size="15" fill="#3a3226" textLength="130.8" lengthAdjust="spacing">Aceeași conjuncție (</text>
+<text x="205.0" y="780.1" font-size="15" fill="#10233f" font-style="italic" textLength="126.2" lengthAdjust="spacing">să, dacă, cum, când</text>
+<text x="331.1" y="780.1" font-size="15" fill="#3a3226" textLength="265.6" lengthAdjust="spacing">) poate introduce propoziții diferite: pun</text>
+<text x="600.8" y="780.1" font-size="15" fill="#3a3226" font-weight="700" textLength="72.9" lengthAdjust="spacing">întrebarea</text>
+<text x="677.8" y="780.1" font-size="15" fill="#3a3226" textLength="82.6" lengthAdjust="spacing">de la regent.</text>
+<text x="154.8" y="834.1" font-size="11.5" fill="#5b6b83" textLength="590.4" lengthAdjust="spacing">Sursa: Manual Art 8, rubricile Repere din lecțiile 10-15 (pp. 188-197); cerințele de limbă din recapitularea de la p. 201.</text>
 </svg>

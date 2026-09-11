@@ -1,35 +1,64 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 545" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="1000" height="545" fill="#faf7f0"/>
-  <text x="500" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Logos, patos, etos: cum convingi</text>
-  <text x="500" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V · Comunicare orală</text>
-  <rect x="36" y="96" width="928" height="58" rx="12" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="56" y="120" font-size="13" font-weight="700" fill="#10233f">O argumentare e bună dacă e eficace: dacă îl convinge pe cel care ascultă</text>
-  <text x="56" y="140" font-size="12" fill="#3d4a5f">Pentru asta, apelează la trei elemente deodată.</text>
-  <rect x="36" y="166" width="301" height="34" rx="10" fill="#3b5fa8"/>
-  <text x="186.5" y="189" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">LOGOS</text>
-  <rect x="36" y="212" width="301" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="56" y="236" font-size="13" font-weight="700" fill="#10233f">Logica</text>
-  <text x="56" y="256" font-size="12" fill="#3d4a5f">argumente corecte logic</text>
-  <rect x="349" y="166" width="301" height="34" rx="10" fill="#a1417e"/>
-  <text x="499.5" y="189" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">PATOS</text>
-  <rect x="349" y="212" width="301" height="77" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
-  <text x="369" y="236" font-size="13" font-weight="700" fill="#10233f">Emoția</text>
-  <text x="369" y="256" font-size="12" fill="#3d4a5f">implicarea emoțională</text>
-  <text x="369" y="275" font-size="12" fill="#3d4a5f">a celor care ascultă</text>
-  <rect x="662" y="166" width="301" height="34" rx="10" fill="#0d9c92"/>
-  <text x="812.5" y="189" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">ETOS</text>
-  <rect x="662" y="212" width="301" height="77" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="682" y="236" font-size="13" font-weight="700" fill="#10233f">Credibilitatea</text>
-  <text x="682" y="256" font-size="12" fill="#3d4a5f">vorbitorului: valori comune,</text>
-  <text x="682" y="275" font-size="12" fill="#3d4a5f">argumente de calitate</text>
-  <rect x="36" y="301" width="928" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="56" y="325" font-size="13" font-weight="700" fill="#10233f">Forța unui argument vine din două lucruri</text>
-  <text x="56" y="345" font-size="12" fill="#3d4a5f">premise juste (fapte, exemple, dovezi adevărate sau credibile) și o legătură corectă între argument și concluzie</text>
-  <rect x="36" y="371" width="928" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
-  <text x="56" y="395" font-size="13" font-weight="700" fill="#10233f">Receptorul contează</text>
-  <text x="56" y="415" font-size="12" fill="#3d4a5f">Ce știe despre temă? Are convingeri ferme? Are idei preconcepute? După răspuns îți alegi argumentele.</text>
-  <rect x="36" y="441" width="928" height="58" rx="12" fill="#ffffff" stroke="#c1503a" stroke-width="2"/>
-  <text x="56" y="465" font-size="13" font-weight="700" fill="#10233f">Capcana</text>
-  <text x="56" y="485" font-size="12" fill="#3d4a5f">Fără legătură între argument și concluzie nu convingi: „Gulliver vizitează școala, deci e elev al ei.”</text>
-  <text x="500" y="531" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 186-187</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 917" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="917" fill="#faf7f0"/>
+<text x="143.1" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="615.2" lengthAdjust="spacing">Argumentare și persuasiune: logos, patos, etos</text>
+<text x="202.5" y="74.4" font-size="14" fill="#5b6b83" textLength="495.0" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a V-a, Lecția 9 · Manual, pp. 186-187 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE FACE O ARGUMENTARE BUNĂ</text>
+<rect x="40" y="128.6" width="820" height="182.7" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" textLength="302.9" lengthAdjust="spacing">Calitatea unei argumentări se măsoară prin</text>
+<text x="369.2" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="86.1" lengthAdjust="spacing">eficacitatea</text>
+<text x="459.6" y="162.6" font-size="16" fill="#10233f" textLength="170.1" lengthAdjust="spacing">ei, adică prin puterea de</text>
+<text x="634.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="90.1" lengthAdjust="spacing">persuasiune</text>
+<text x="728.4" y="162.6" font-size="16" fill="#10233f" textLength="22.6" lengthAdjust="spacing">(de</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" textLength="86.6" lengthAdjust="spacing">convingere).</text>
+<rect x="62.0" y="204.6" width="248.0" height="88.7" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="232.6" font-size="16" fill="#0d9c92" font-weight="700" textLength="52.8" lengthAdjust="spacing">LOGOS</text>
+<text x="78.0" y="255.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="143.0" lengthAdjust="spacing">corectitudinea logică</text>
+<text x="224.9" y="255.9" font-size="14.5" fill="#3a3226" textLength="7.4" lengthAdjust="spacing">a</text>
+<text x="78.0" y="276.9" font-size="14.5" fill="#3a3226" textLength="87.1" lengthAdjust="spacing">argumentelor</text>
+<rect x="326.0" y="204.6" width="248.0" height="88.7" rx="12" fill="#ffffff" stroke="#b4432c" stroke-width="2"/>
+<text x="342.0" y="232.6" font-size="16" fill="#b4432c" font-weight="700" textLength="51.5" lengthAdjust="spacing">PATOS</text>
+<text x="342.0" y="255.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="152.0" lengthAdjust="spacing">implicarea emoțională</text>
+<text x="497.9" y="255.9" font-size="14.5" fill="#3a3226" textLength="7.4" lengthAdjust="spacing">a</text>
+<text x="342.0" y="276.9" font-size="14.5" fill="#3a3226" textLength="73.2" lengthAdjust="spacing">auditoriului</text>
+<rect x="590.0" y="204.6" width="248.0" height="88.7" rx="12" fill="#ffffff" stroke="#10233f" stroke-width="2"/>
+<text x="606.0" y="232.6" font-size="16" fill="#10233f" font-weight="700" textLength="39.0" lengthAdjust="spacing">ETOS</text>
+<text x="606.0" y="255.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="89.6" lengthAdjust="spacing">credibilitatea</text>
+<text x="699.5" y="255.9" font-size="14.5" fill="#3a3226" textLength="116.7" lengthAdjust="spacing">vorbitorului: valori</text>
+<text x="606.0" y="276.9" font-size="14.5" fill="#3a3226" textLength="198.6" lengthAdjust="spacing">comune, argumente de calitate</text>
+<rect x="40" y="331.3" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="354.3" font-size="16" font-weight="700" fill="#ffffff">2. FORȚA UNUI ARGUMENT</text>
+<rect x="40" y="365.3" width="820" height="210.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="398.3" font-size="15" fill="#3a3226" textLength="151.3" lengthAdjust="spacing">Depinde de doi factori:</text>
+<text x="62.0" y="431.8" font-size="15" fill="#3a3226" font-weight="700">1.</text>
+<text x="81.0" y="431.8" font-size="15" fill="#3a3226" font-weight="700" textLength="68.4" lengthAdjust="spacing">premisele</text>
+<text x="153.4" y="431.8" font-size="15" fill="#3a3226" textLength="377.8" lengthAdjust="spacing">sunt juste: fapte, exemple, dovezi adevărate sau credibile;</text>
+<text x="62.0" y="456.5" font-size="15" fill="#3a3226" font-weight="700">2.</text>
+<text x="81.0" y="456.5" font-size="15" fill="#3a3226" font-weight="700" textLength="58.8" lengthAdjust="spacing">legătura</text>
+<text x="143.8" y="456.5" font-size="15" fill="#3a3226" textLength="390.7" lengthAdjust="spacing">dintre argument și concluzie e potrivită: deducția e corectă.</text>
+<rect x="62.0" y="475.0" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="501.5" font-size="14.5" fill="#10233f" font-weight="700" textLength="293.2" lengthAdjust="spacing">Un raționament greșit (model din manual):</text>
+<text x="78.0" y="520.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="460.2" lengthAdjust="spacing">Gulliver merge la școala din Laputa, deci Gulliver este elev al acestei școli.</text>
+<text x="542.1" y="520.4" font-size="14.5" fill="#3a3226" textLength="262.7" lengthAdjust="spacing">Este greșit, pentru că nu există o legătură</text>
+<text x="78.0" y="541.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="78.0" lengthAdjust="spacing">cauză-efect</text>
+<text x="159.9" y="541.4" font-size="14.5" fill="#3a3226" textLength="247.5" lengthAdjust="spacing">între vizita la școală și calitatea de elev.</text>
+<rect x="40" y="595.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="618.8" font-size="16" font-weight="700" fill="#ffffff">3. RECEPTORUL</text>
+<rect x="40" y="629.8" width="820" height="235.9" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="662.8" font-size="15" fill="#3a3226" textLength="751.2" lengthAdjust="spacing">Vorbitorul vrea să-i schimbe receptorului convingerile, credințele sau acțiunile. Impactul argumentelor depinde de</text>
+<text x="62.0" y="684.5" font-size="15" fill="#3a3226" textLength="59.1" lengthAdjust="spacing">receptor:</text>
+<text x="62.0" y="718.0" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="718.0" font-size="15" fill="#3a3226" textLength="14.7" lengthAdjust="spacing">ce</text>
+<text x="93.0" y="718.0" font-size="15" fill="#3a3226" font-weight="700" textLength="24.8" lengthAdjust="spacing">știe</text>
+<text x="121.8" y="718.0" font-size="15" fill="#3a3226" textLength="85.6" lengthAdjust="spacing">despre temă;</text>
+<text x="62.0" y="742.8" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="742.8" font-size="15" fill="#3a3226" textLength="55.8" lengthAdjust="spacing">dacă are</text>
+<text x="134.0" y="742.8" font-size="15" fill="#3a3226" font-weight="700" textLength="120.5" lengthAdjust="spacing">convingeri ferme</text>
+<text x="254.5" y="742.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">;</text>
+<text x="62.0" y="767.5" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="767.5" font-size="15" fill="#3a3226" textLength="55.8" lengthAdjust="spacing">dacă are</text>
+<text x="134.0" y="767.5" font-size="15" fill="#3a3226" font-weight="700" textLength="126.6" lengthAdjust="spacing">idei preconcepute</text>
+<text x="260.6" y="767.5" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="786.0" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="786.0" width="6" height="61.7" rx="3" fill="#b4432c"/><text x="84.0" y="812.5" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="831.4" font-size="14.5" fill="#3a3226" textLength="646.4" lengthAdjust="spacing">Același subiect cere argumente diferite pentru ascultători diferiți (de exemplu, părinții sau un prieten).</text>
+<text x="223.1" y="897.2" font-size="11.5" fill="#5b6b83" textLength="453.8" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 186-187, rubrica Repere și modelul de raționament din Explorare.</text>
 </svg>

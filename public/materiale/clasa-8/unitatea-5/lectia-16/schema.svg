@@ -1,20 +1,85 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="400" fill="#faf7f0"/>
-  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Construcțiile condiționale</text>
-  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V · lecția 16 · o ipoteză sau o condiție de care depinde desfășurarea unui proces · Cu ce condiție?</text>
-
-  <rect x="55" y="80" width="790" height="60" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
-  <text x="75" y="102" font-size="13" font-weight="700" fill="#10233f">Regentul</text>
-  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="124">un verb sau o locuțiune verbală, un adjectiv (o mască utilizabilă în caz de incendiu), o interjecție predicativă</tspan></text>
-
-  <rect x="55" y="156" width="390" height="130" rx="14" fill="none" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="75" y="180" font-size="13" font-weight="700" fill="#10233f">În propoziție</text>
-  <text font-size="11" fill="#3a3226"><tspan x="75" y="202">• substantiv (sau substitut) în acuzativ ori</tspan><tspan x="75" y="220">  genitiv, cu prepoziții sau locuțiuni (cu</tspan><tspan x="75" y="238">  condiția să…, în caz de…, în locul lor)</tspan><tspan x="75" y="256">• gerunziu (Ascultând cu atenție, vei înțelege.)</tspan><tspan x="75" y="272">• adverb (Antrenează-te, altfel nu poți câștiga!)</tspan></text>
-
-  <rect x="465" y="156" width="380" height="130" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
-  <text x="485" y="180" font-size="13" font-weight="700" fill="#10233f">În frază (subordonate)</text>
-  <text font-size="11" fill="#3a3226"><tspan x="485" y="202">• conjuncții (dacă, de, să, când cu sens</tspan><tspan x="485" y="220">  condițional)</tspan><tspan x="485" y="238">• locuțiuni conjuncționale (în caz că, fără să)</tspan><tspan x="485" y="256">• pronume + locuțiunea prepozițională „în locul”</tspan><tspan x="485" y="274">• juxtapunere: Muncești, ai de toate!</tspan></text>
-
-  <text x="450" y="332" text-anchor="middle" font-size="11.5" fill="#3a3226">Topica e liberă; virgula apare mai frecvent când construcția e antepusă: Dacă are timp, va veni.</text>
-  <text x="450" y="378" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 196-197</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 910" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="910" fill="#faf7f0"/>
+<text x="292.8" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="314.7" lengthAdjust="spacing">Construcții condiționale</text>
+<text x="198.7" y="74.4" font-size="14" fill="#5b6b83" textLength="502.6" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a V-a, Lecția 16 · Manual, pp. 196-197 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE SUNT</text>
+<rect x="40" y="128.6" width="820" height="135.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="193.0" lengthAdjust="spacing">Construcțiile condiționale</text>
+<text x="259.3" y="162.6" font-size="16" fill="#10233f" textLength="49.3" lengthAdjust="spacing">arată o</text>
+<text x="312.9" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="55.4" lengthAdjust="spacing">ipoteză</text>
+<text x="372.6" y="162.6" font-size="16" fill="#10233f" textLength="37.8" lengthAdjust="spacing">sau o</text>
+<text x="414.6" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="61.0" lengthAdjust="spacing">condiție</text>
+<text x="479.9" y="162.6" font-size="16" fill="#10233f" textLength="348.8" lengthAdjust="spacing">de care depinde o acțiune. Răspund la întrebarea:</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="110.7" lengthAdjust="spacing">cu ce condiție?</text>
+<text x="62.0" y="219.6" font-size="15" fill="#3a3226" font-weight="700" textLength="63.6" lengthAdjust="spacing">Regentul</text>
+<text x="125.6" y="219.6" font-size="15" fill="#3a3226" textLength="189.1" lengthAdjust="spacing">: verb sau locuțiune verbală (</text>
+<text x="314.7" y="219.6" font-size="15" fill="#10233f" font-style="italic" textLength="337.9" lengthAdjust="spacing">Dacă o să fie vreme bună, 1/ mergem în excursie. 2/</text>
+<text x="652.7" y="219.6" font-size="15" fill="#3a3226" textLength="71.1" lengthAdjust="spacing">), adjectiv (</text>
+<text x="723.8" y="219.6" font-size="15" fill="#10233f" font-style="italic" textLength="53.8" lengthAdjust="spacing">o mască</text>
+<text x="62.0" y="241.3" font-size="15" fill="#10233f" font-style="italic" textLength="63.8" lengthAdjust="spacing">utilizabilă</text>
+<text x="129.8" y="241.3" font-size="15" fill="#3a3226" font-weight="700" textLength="126.3" lengthAdjust="spacing">în caz de incendiu</text>
+<text x="256.1" y="241.3" font-size="15" fill="#3a3226" textLength="162.0" lengthAdjust="spacing">), interjecție predicativă (</text>
+<text x="418.1" y="241.3" font-size="15" fill="#10233f" font-style="italic" textLength="157.7" lengthAdjust="spacing">Hai și tu 1/ dacă vrei! 2/</text>
+<text x="575.7" y="241.3" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">).</text>
+<rect x="40" y="283.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="306.9" font-size="16" font-weight="700" fill="#ffffff">2. ÎN PROPOZIȚIE (CIRCUMSTANȚIAL CONDIȚIONAL)</text>
+<rect x="40" y="317.9" width="820" height="187.1" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="335.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="357.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="25.6" lengthAdjust="spacing">Prin</text>
+<text x="423.2" y="357.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="367.4" x2="838.0" y2="367.4" stroke="#e3dccb"/>
+<text x="74.0" y="389.9" font-size="14.5" fill="#3a3226" textLength="259.3" lengthAdjust="spacing">substantiv (sau substitut) în Ac. sau G. cu</text>
+<text x="337.2" y="389.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="14.5" lengthAdjust="spacing">cu</text>
+<text x="74.0" y="410.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="165.4" lengthAdjust="spacing">condiția, în caz de, în locul</text>
+<text x="423.2" y="389.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="381.2" lengthAdjust="spacing">În caz de furtună, adăpostește-te! În locul lor, l-aș fi pedepsit.</text>
+<line x1="62.0" y1="421.3" x2="838.0" y2="421.3" stroke="#e3dccb"/>
+<text x="74.0" y="443.8" font-size="14.5" fill="#3a3226" textLength="56.0" lengthAdjust="spacing">gerunziu</text>
+<text x="423.2" y="443.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="208.5" lengthAdjust="spacing">Ascultând cu atenție, vei înțelege.</text>
+<line x1="62.0" y1="454.1" x2="838.0" y2="454.1" stroke="#e3dccb"/>
+<text x="74.0" y="476.6" font-size="14.5" fill="#3a3226" textLength="44.1" lengthAdjust="spacing">adverb</text>
+<text x="423.2" y="476.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="228.5" lengthAdjust="spacing">Antrenează-te, altfel nu poți câștiga!</text>
+<line x1="62.0" y1="487.0" x2="838.0" y2="487.0" stroke="#e3dccb"/>
+<line x1="411.2" y1="335.9" x2="411.2" y2="487.0" stroke="#e3dccb"/>
+<rect x="40" y="525.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="548.0" font-size="16" font-weight="700" fill="#ffffff">3. ÎN FRAZĂ (CIRCUMSTANȚIALA CONDIȚIONALĂ)</text>
+<rect x="40" y="559.0" width="820" height="300.0" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="577.0" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="598.5" font-size="13.5" fill="#10233f" font-weight="700" textLength="126.8" lengthAdjust="spacing">Elementul de relație</text>
+<text x="399.9" y="598.5" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="608.5" x2="838.0" y2="608.5" stroke="#e3dccb"/>
+<text x="74.0" y="631.0" font-size="14.5" fill="#3a3226" textLength="65.2" lengthAdjust="spacing">conjuncții:</text>
+<text x="143.2" y="631.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="72.6" lengthAdjust="spacing">dacă, de, să</text>
+<text x="215.8" y="631.0" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">;</text>
+<text x="222.9" y="631.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="30.2" lengthAdjust="spacing">când</text>
+<text x="257.0" y="631.0" font-size="14.5" fill="#3a3226" textLength="46.8" lengthAdjust="spacing">cu sens</text>
+<text x="74.0" y="652.0" font-size="14.5" fill="#3a3226" textLength="71.6" lengthAdjust="spacing">condițional</text>
+<text x="399.9" y="631.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="424.1" lengthAdjust="spacing">Nu va fi pedepsit 1/ dacă nu este vinovat. 2/ Când aș ști 1/ că minți,</text>
+<text x="399.9" y="652.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="116.7" lengthAdjust="spacing">2/ m-aș supăra. 3/</text>
+<line x1="62.0" y1="662.4" x2="838.0" y2="662.4" stroke="#e3dccb"/>
+<text x="74.0" y="684.9" font-size="14.5" fill="#3a3226" textLength="58.6" lengthAdjust="spacing">locuțiuni:</text>
+<text x="136.5" y="684.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="104.5" lengthAdjust="spacing">în caz că, fără să</text>
+<text x="399.9" y="684.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="295.5" lengthAdjust="spacing">Nu mai plecăm la munte, 1/ în caz că plouă. 2/</text>
+<line x1="62.0" y1="695.2" x2="838.0" y2="695.2" stroke="#e3dccb"/>
+<text x="74.0" y="717.8" font-size="14.5" fill="#3a3226" textLength="215.2" lengthAdjust="spacing">pronume relative și nehotărâte cu</text>
+<text x="293.1" y="717.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="45.7" lengthAdjust="spacing">în locul</text>
+<text x="399.9" y="717.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="314.8" lengthAdjust="spacing">În locul cui a intervenit, 1/ eu nu aș fi spus asta. 2/</text>
+<line x1="62.0" y1="728.1" x2="838.0" y2="728.1" stroke="#e3dccb"/>
+<text x="74.0" y="750.6" font-size="14.5" fill="#3a3226" textLength="76.0" lengthAdjust="spacing">juxtapunere</text>
+<text x="399.9" y="750.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="169.1" lengthAdjust="spacing">Muncești, 1/ ai de toate! 2/</text>
+<line x1="62.0" y1="761.0" x2="838.0" y2="761.0" stroke="#e3dccb"/>
+<line x1="387.9" y1="577.0" x2="387.9" y2="761.0" stroke="#e3dccb"/>
+<text x="62.0" y="790.0" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="790.0" font-size="15" fill="#3a3226" font-weight="700" textLength="46.8" lengthAdjust="spacing">Topica</text>
+<text x="125.0" y="790.0" font-size="15" fill="#3a3226" textLength="216.0" lengthAdjust="spacing">e liberă: înainte sau după regent.</text>
+<text x="62.0" y="814.7" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="814.7" font-size="15" fill="#3a3226" font-weight="700" textLength="51.0" lengthAdjust="spacing">Virgula</text>
+<text x="129.2" y="814.7" font-size="15" fill="#3a3226" textLength="343.5" lengthAdjust="spacing">depinde de legătura pe care o face vorbitorul; apare</text>
+<text x="476.8" y="814.7" font-size="15" fill="#3a3226" font-weight="700" textLength="54.3" lengthAdjust="spacing">mai des</text>
+<text x="535.1" y="814.7" font-size="15" fill="#3a3226" textLength="140.8" lengthAdjust="spacing">când condiționala stă</text>
+<text x="680.0" y="814.7" font-size="15" fill="#3a3226" font-weight="700" textLength="48.8" lengthAdjust="spacing">înainte</text>
+<text x="728.8" y="814.7" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="736.1" y="814.7" font-size="15" fill="#10233f" font-style="italic" textLength="95.4" lengthAdjust="spacing">Dacă are timp,</text>
+<text x="74.2" y="836.5" font-size="15" fill="#10233f" font-style="italic" textLength="49.2" lengthAdjust="spacing">va veni.</text>
+<text x="323.3" y="890.5" font-size="11.5" fill="#5b6b83" textLength="253.3" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 196-197, rubricile Repere.</text>
 </svg>

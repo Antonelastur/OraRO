@@ -270,7 +270,7 @@ export default {
     tipOra: 'Predare, limbă română',
     durata: 50,
     obiective: ['Identifică construcțiile condiționale la nivel de propoziție și de frază.'],
-    resurse: ['Manual Art 8, pp. 196-197', 'Schema „Construcțiile condiționale” (/materiale/clasa-8/unitatea-5/lectia-16/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 8, pp. 196-197', 'Schema „Construcții condiționale” (/materiale/clasa-8/unitatea-5/lectia-16/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le dau „Dacă ar dispărea cărțile..." și le cer să completeze, fiecare cum crede.' },

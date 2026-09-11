@@ -1,19 +1,76 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="400" fill="#faf7f0"/>
-  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Circumstanțiala de cauză</text>
-  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V · lecția 12 · realizarea propozițională a circumstanțialului de cauză</text>
-
-  <rect x="55" y="80" width="390" height="130" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
-  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Regentul</text>
-  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="128">• un verb sau o locuțiune verbală</tspan><tspan x="75" y="148">• un adjectiv (Fericit pentru că…,)</tspan><tspan x="75" y="168">• un adverb (Dansează grațios, fiindcă…)</tspan><tspan x="75" y="188">• o interjecție predicativă</tspan></text>
-
-  <rect x="465" y="80" width="380" height="130" rx="14" fill="none" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="485" y="104" font-size="13" font-weight="700" fill="#10233f">Elemente de relație</text>
-  <text font-size="11" fill="#3a3226"><tspan x="485" y="126">• conjuncții (căci, că, deoarece, fiindcă,</tspan><tspan x="485" y="144">  întrucât; cum, când, unde cu sens cauzal)</tspan><tspan x="485" y="162">• locuțiuni (pentru că, din cauză că, de vreme</tspan><tspan x="485" y="180">  ce, din moment ce, odată ce)</tspan><tspan x="485" y="198">• pronume și adjective pronominale relative</tspan></text>
-
-  <rect x="55" y="226" width="790" height="88" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
-  <text x="75" y="250" font-size="12.5" font-weight="700" fill="#10233f">Topica și punctuația</text>
-  <text font-size="11" fill="#3a3226"><tspan x="75" y="272">în regentă pot apărea adverbe și locuțiuni adverbiale corelative (de aceea, de asta), care marchează relația</tspan><tspan x="75" y="292">expansiunea unui circumstanțial de cauză dă o circumstanțială de cauză, cu păstrarea sensului</tspan></text>
-
-  <text x="450" y="378" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 189-190</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 871" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="871" fill="#faf7f0"/>
+<text x="286.6" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="327.3" lengthAdjust="spacing">Circumstanțiala de cauză</text>
+<text x="198.7" y="74.4" font-size="14" fill="#5b6b83" textLength="502.6" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a V-a, Lecția 12 · Manual, pp. 189-190 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ESTE</text>
+<rect x="40" y="128.6" width="820" height="157.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="187.0" lengthAdjust="spacing">Circumstanțiala de cauză</text>
+<text x="253.4" y="162.6" font-size="16" fill="#10233f" textLength="335.7" lengthAdjust="spacing">este circumstanțialul de cauză exprimat printr-o</text>
+<text x="593.3" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="77.3" lengthAdjust="spacing">propoziție</text>
+<text x="670.6" y="162.6" font-size="16" fill="#10233f" textLength="97.6" lengthAdjust="spacing">. Răspunde la:</text>
+<text x="772.5" y="162.6" font-size="16" fill="#10233f" font-style="italic" textLength="41.0" lengthAdjust="spacing">din ce</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" font-style="italic" textLength="246.9" lengthAdjust="spacing">cauză? din ce pricină? din ce motiv?</text>
+<text x="62.0" y="219.6" font-size="15" fill="#3a3226" font-weight="700" textLength="63.6" lengthAdjust="spacing">Regentul</text>
+<text x="125.6" y="219.6" font-size="15" fill="#3a3226" textLength="189.1" lengthAdjust="spacing">: verb sau locuțiune verbală (</text>
+<text x="314.7" y="219.6" font-size="15" fill="#10233f" font-style="italic" textLength="281.7" lengthAdjust="spacing">Toți te apreciază, 1/ pentru că ești silitor. 2/</text>
+<text x="596.4" y="219.6" font-size="15" fill="#3a3226" textLength="71.1" lengthAdjust="spacing">), adjectiv (</text>
+<text x="667.5" y="219.6" font-size="15" fill="#10233f" font-style="italic" textLength="142.9" lengthAdjust="spacing">Fericită 1/ pentru că a</text>
+<text x="62.0" y="241.3" font-size="15" fill="#10233f" font-style="italic" textLength="104.7" lengthAdjust="spacing">avut succes, 2/...</text>
+<text x="166.7" y="241.3" font-size="15" fill="#3a3226" textLength="66.0" lengthAdjust="spacing">), adverb (</text>
+<text x="232.7" y="241.3" font-size="15" fill="#10233f" font-style="italic" textLength="324.4" lengthAdjust="spacing">Dansează grațios, 1/ fiindcă a luat ore de balet. 2/</text>
+<text x="557.1" y="241.3" font-size="15" fill="#3a3226" textLength="162.0" lengthAdjust="spacing">), interjecție predicativă (</text>
+<text x="719.1" y="241.3" font-size="15" fill="#10233f" font-style="italic" textLength="112.0" lengthAdjust="spacing">Trosc! cu pumnul</text>
+<text x="62.0" y="263.1" font-size="15" fill="#10233f" font-style="italic" textLength="191.6" lengthAdjust="spacing">în masă, 1/ că se enervase. 2/</text>
+<text x="253.6" y="263.1" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">).</text>
+<rect x="40" y="305.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="328.6" font-size="16" font-weight="700" fill="#ffffff">2. ELEMENTELE DE RELAȚIE</text>
+<rect x="40" y="339.6" width="820" height="241.0" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="357.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="379.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="63.5" lengthAdjust="spacing">Elementul</text>
+<text x="423.2" y="379.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="389.2" x2="838.0" y2="389.2" stroke="#e3dccb"/>
+<text x="74.0" y="411.7" font-size="14.5" fill="#3a3226" textLength="65.2" lengthAdjust="spacing">conjuncții:</text>
+<text x="143.2" y="411.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="251.1" lengthAdjust="spacing">căci, că, dacă, deoarece, fiindcă, întrucât</text>
+<text x="394.3" y="411.7" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">;</text>
+<text x="74.0" y="432.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="102.5" lengthAdjust="spacing">cum, când, unde</text>
+<text x="180.4" y="432.7" font-size="14.5" fill="#3a3226" textLength="90.5" lengthAdjust="spacing">cu sens cauzal</text>
+<text x="423.2" y="411.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="306.4" lengthAdjust="spacing">Cum nu s-a întors la timp, 1/ m-am îngrijorat. 2/</text>
+<line x1="62.0" y1="443.0" x2="838.0" y2="443.0" stroke="#e3dccb"/>
+<text x="74.0" y="465.5" font-size="14.5" fill="#3a3226" textLength="58.6" lengthAdjust="spacing">locuțiuni:</text>
+<text x="136.5" y="465.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="251.1" lengthAdjust="spacing">pentru că, pe motiv că, din cauză că, din</text>
+<text x="74.0" y="486.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="304.3" lengthAdjust="spacing">pricină că, de vreme ce, din moment ce, odată ce</text>
+<text x="423.2" y="465.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="301.0" lengthAdjust="spacing">Vine mereu la noi, 1/ pentru că se simte bine. 2/</text>
+<line x1="62.0" y1="496.9" x2="838.0" y2="496.9" stroke="#e3dccb"/>
+<text x="74.0" y="519.4" font-size="14.5" fill="#3a3226" textLength="192.0" lengthAdjust="spacing">pronume relative cu prepoziții</text>
+<text x="423.2" y="519.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="244.9" lengthAdjust="spacing">Nu mă doare capul 1/ de ce crezi tu. 2/</text>
+<line x1="62.0" y1="529.8" x2="838.0" y2="529.8" stroke="#e3dccb"/>
+<text x="74.0" y="552.2" font-size="14.5" fill="#3a3226" textLength="192.4" lengthAdjust="spacing">adjective pronominale relative</text>
+<text x="423.2" y="552.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="245.5" lengthAdjust="spacing">Nu-i tace gura, 1/ de câte istorii știe. 2/</text>
+<line x1="62.0" y1="562.6" x2="838.0" y2="562.6" stroke="#e3dccb"/>
+<line x1="411.2" y1="357.6" x2="411.2" y2="562.6" stroke="#e3dccb"/>
+<rect x="40" y="600.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="623.6" font-size="16" font-weight="700" fill="#ffffff">3. CORELATIVE, TOPICĂ, VIRGULĂ</text>
+<rect x="40" y="634.6" width="820" height="185.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="667.6" font-size="15" fill="#3a3226" textLength="140.7" lengthAdjust="spacing">Corelative în regentă:</text>
+<text x="206.7" y="667.6" font-size="15" fill="#10233f" font-style="italic" textLength="332.2" lengthAdjust="spacing">de aceea, de asta, de aia, pentru aceea, atunci, apoi</text>
+<text x="539.0" y="667.6" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="686.1" width="380.0" height="115.5" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="714.1" font-size="16" fill="#0d9c92" font-weight="700" textLength="46.7" lengthAdjust="spacing">topica</text>
+<text x="78.0" y="737.4" font-size="14.5" fill="#3a3226" textLength="158.9" lengthAdjust="spacing">înainte sau după regentă</text>
+<text x="78.0" y="761.3" font-size="14.5" fill="#3a3226" textLength="14.9" lengthAdjust="spacing">cu</text>
+<text x="96.9" y="761.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="29.1" lengthAdjust="spacing">cum</text>
+<text x="126.0" y="761.3" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">:</text>
+<text x="133.1" y="761.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="94.8" lengthAdjust="spacing">mereu înainte</text>
+<text x="78.0" y="785.2" font-size="14.5" fill="#3a3226" textLength="14.9" lengthAdjust="spacing">cu</text>
+<text x="96.9" y="785.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="48.6" lengthAdjust="spacing">că, căci</text>
+<text x="145.4" y="785.2" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">:</text>
+<text x="152.5" y="785.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="82.4" lengthAdjust="spacing">mereu după</text>
+<rect x="458.0" y="686.1" width="380.0" height="115.5" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="714.1" font-size="16" fill="#6f5ea8" font-weight="700" textLength="52.3" lengthAdjust="spacing">virgula</text>
+<text x="474.0" y="737.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="136.9" lengthAdjust="spacing">de obicei, cu virgulă</text>
+<text x="474.0" y="761.3" font-size="14.5" fill="#3a3226" textLength="295.7" lengthAdjust="spacing">fără virgulă, dacă legătura cauză-efect e foarte</text>
+<text x="474.0" y="782.3" font-size="14.5" fill="#3a3226" textLength="243.7" lengthAdjust="spacing">importantă pentru vorbitor sau dacă e</text>
+<text x="721.7" y="782.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="93.2" lengthAdjust="spacing">singura cauză</text>
+<text x="323.3" y="851.1" font-size="11.5" fill="#5b6b83" textLength="253.3" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 189-190, rubricile Repere.</text>
 </svg>

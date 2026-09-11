@@ -1,23 +1,89 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="320" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Construcții concesive</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V</text>
-
-  <g>
-    <rect x="60" y="100" width="360" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="240" y="128" text-anchor="middle" font-size="15" font-weight="700" fill="#6f5ea8">La nivel de propoziție</text>
-    <text x="240" y="155" text-anchor="middle" font-size="12" fill="#10233f"><tspan fill="#6f5ea8" font-weight="700">În ciuda ploii</tspan>, a ieșit la plimbare.</text>
-    <text x="240" y="178" text-anchor="middle" font-size="10" fill="#5b6b83">grup prepozițional-centru</text>
-    <text x="240" y="210" text-anchor="middle" font-size="12" fill="#10233f">obstacol care nu împiedică acțiunea</text>
-  </g>
-
-  <g>
-    <rect x="480" y="100" width="360" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="660" y="128" text-anchor="middle" font-size="15" font-weight="700" fill="#0d9c92">La nivel de frază</text>
-    <text x="660" y="155" text-anchor="middle" font-size="12" fill="#10233f"><tspan fill="#0d9c92" font-weight="700">Deși ploua</tspan>, a ieșit la plimbare.</text>
-    <text x="660" y="178" text-anchor="middle" font-size="10" fill="#5b6b83">circumstanțială concesivă, element de relație: deși</text>
-    <text x="660" y="210" text-anchor="middle" font-size="12" fill="#10233f">propoziție subordonată, același rol</text>
-  </g>
-
-  <text x="450" y="280" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 194-195</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1046" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1046" fill="#faf7f0"/>
+<text x="311.4" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="277.5" lengthAdjust="spacing">Construcții concesive</text>
+<text x="198.7" y="74.4" font-size="14" fill="#5b6b83" textLength="502.6" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a V-a, Lecția 15 · Manual, pp. 194-195 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE SUNT</text>
+<rect x="40" y="128.6" width="820" height="135.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="171.7" lengthAdjust="spacing">Construcțiile concesive</text>
+<text x="238.0" y="162.6" font-size="16" fill="#10233f" textLength="169.0" lengthAdjust="spacing">arată o împrejurare care</text>
+<text x="411.3" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="140.2" lengthAdjust="spacing">ar putea împiedica</text>
+<text x="555.8" y="162.6" font-size="16" fill="#10233f" textLength="168.3" lengthAdjust="spacing">o acțiune sau o însușire,</text>
+<text x="728.4" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="63.2" lengthAdjust="spacing">dar nu o</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="73.0" lengthAdjust="spacing">împiedică</text>
+<text x="135.0" y="185.8" font-size="16" fill="#10233f" textLength="89.3" lengthAdjust="spacing">. Răspund la:</text>
+<text x="228.6" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="298.9" lengthAdjust="spacing">în ciuda cărui fapt? în pofida cărui fapt?</text>
+<text x="62.0" y="219.6" font-size="15" fill="#3a3226" font-weight="700" textLength="63.6" lengthAdjust="spacing">Regentul</text>
+<text x="125.6" y="219.6" font-size="15" fill="#3a3226" textLength="694.0" lengthAdjust="spacing">: verb sau locuțiune verbală, adjectiv sau locuțiune adjectivală, adverb sau locuțiune adverbială, interjecție</text>
+<text x="62.0" y="241.3" font-size="15" fill="#3a3226" textLength="75.7" lengthAdjust="spacing">predicativă:</text>
+<text x="141.8" y="241.3" font-size="15" fill="#10233f" font-style="italic" textLength="159.6" lengthAdjust="spacing">Echipa a fost victorioasă,</text>
+<text x="305.4" y="241.3" font-size="15" fill="#3a3226" font-weight="700" textLength="129.0" lengthAdjust="spacing">în pofida caniculei</text>
+<text x="434.4" y="241.3" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="441.8" y="241.3" font-size="15" fill="#10233f" font-style="italic" textLength="87.6" lengthAdjust="spacing">Hai cu noi, 1/</text>
+<text x="533.4" y="241.3" font-size="15" fill="#3a3226" font-weight="700" textLength="123.5" lengthAdjust="spacing">deși nu prea e loc</text>
+<text x="656.9" y="241.3" font-size="15" fill="#3a3226" textLength="4.2" lengthAdjust="spacing">!</text>
+<text x="665.1" y="241.3" font-size="15" fill="#10233f" font-style="italic" textLength="14.1" lengthAdjust="spacing">2/</text>
+<rect x="40" y="283.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="306.9" font-size="16" font-weight="700" fill="#ffffff">2. ÎN PROPOZIȚIE (CIRCUMSTANȚIAL CONCESIV)</text>
+<rect x="40" y="317.9" width="820" height="294.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="335.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="357.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="25.6" lengthAdjust="spacing">Prin</text>
+<text x="423.2" y="357.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="367.4" x2="838.0" y2="367.4" stroke="#e3dccb"/>
+<text x="74.0" y="389.9" font-size="14.5" fill="#3a3226" textLength="165.4" lengthAdjust="spacing">substantiv în Ac. sau G. cu</text>
+<text x="243.4" y="389.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="111.4" lengthAdjust="spacing">cu tot, în ciuda, în</text>
+<text x="74.0" y="410.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="125.4" lengthAdjust="spacing">pofida, indiferent de</text>
+<text x="423.2" y="389.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="361.8" lengthAdjust="spacing">Cu toată vremea urâtă, am ieșit. În ciuda părerii tale, e un</text>
+<text x="423.2" y="410.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="75.3" lengthAdjust="spacing">profesionist.</text>
+<line x1="62.0" y1="421.3" x2="838.0" y2="421.3" stroke="#e3dccb"/>
+<text x="74.0" y="443.8" font-size="14.5" fill="#3a3226" textLength="67.9" lengthAdjust="spacing">adjectiv cu</text>
+<text x="145.8" y="443.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="99.3" lengthAdjust="spacing">chiar (și), și, nici</text>
+<text x="423.2" y="443.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="138.3" lengthAdjust="spacing">Nu ar veni nici invitat.</text>
+<line x1="62.0" y1="454.1" x2="838.0" y2="454.1" stroke="#e3dccb"/>
+<text x="74.0" y="476.6" font-size="14.5" fill="#3a3226" textLength="137.2" lengthAdjust="spacing">pronume, numeral cu</text>
+<text x="215.1" y="476.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="25.2" lengthAdjust="spacing">fără</text>
+<text x="240.3" y="476.6" font-size="14.5" fill="#3a3226" textLength="74.4" lengthAdjust="spacing">, însoțite de</text>
+<text x="318.6" y="476.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="53.5" lengthAdjust="spacing">chiar (și)</text>
+<text x="423.2" y="476.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="226.8" lengthAdjust="spacing">Chiar fără tine, tot ne-am descurcat.</text>
+<line x1="62.0" y1="487.0" x2="838.0" y2="487.0" stroke="#e3dccb"/>
+<text x="74.0" y="509.5" font-size="14.5" fill="#3a3226" textLength="180.4" lengthAdjust="spacing">adverb, locuțiune adverbială</text>
+<text x="423.2" y="509.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="398.2" lengthAdjust="spacing">Contrar impresiei voastre, ea este serioasă. Cu toate acestea, nu</text>
+<text x="423.2" y="530.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="68.7" lengthAdjust="spacing">a renunțat.</text>
+<line x1="62.0" y1="540.9" x2="838.0" y2="540.9" stroke="#e3dccb"/>
+<text x="74.0" y="563.4" font-size="14.5" fill="#3a3226" textLength="116.3" lengthAdjust="spacing">infinitiv / gerunziu</text>
+<text x="423.2" y="563.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="389.8" lengthAdjust="spacing">Fără a fi prezent, tot a știut. Neștiind prea multe, s-a descurcat</text>
+<text x="423.2" y="584.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="38.0" lengthAdjust="spacing">totuși.</text>
+<line x1="62.0" y1="594.7" x2="838.0" y2="594.7" stroke="#e3dccb"/>
+<line x1="411.2" y1="335.9" x2="411.2" y2="594.7" stroke="#e3dccb"/>
+<rect x="40" y="632.7" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="655.7" font-size="16" font-weight="700" fill="#ffffff">3. ÎN FRAZĂ (CIRCUMSTANȚIALA CONCESIVĂ)</text>
+<rect x="40" y="666.7" width="820" height="328.5" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="684.7" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="706.2" font-size="13.5" fill="#10233f" font-weight="700" textLength="126.8" lengthAdjust="spacing">Elementul de relație</text>
+<text x="423.2" y="706.2" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="716.3" x2="838.0" y2="716.3" stroke="#e3dccb"/>
+<text x="74.0" y="738.8" font-size="14.5" fill="#3a3226" textLength="65.2" lengthAdjust="spacing">conjuncții:</text>
+<text x="143.2" y="738.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="125.6" lengthAdjust="spacing">deși, dacă, de, să, că</text>
+<text x="423.2" y="738.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="249.5" lengthAdjust="spacing">Am mers cu ei, 1/ deși aveam treabă. 2/</text>
+<line x1="62.0" y1="749.1" x2="838.0" y2="749.1" stroke="#e3dccb"/>
+<text x="74.0" y="771.6" font-size="14.5" fill="#3a3226" textLength="58.6" lengthAdjust="spacing">locuțiuni:</text>
+<text x="136.5" y="771.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="257.2" lengthAdjust="spacing">cu toate că, chiar dacă, chiar de, chiar să,</text>
+<text x="74.0" y="792.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="301.7" lengthAdjust="spacing">măcar că, măcar să, fără să, fără ca ... să, chit că</text>
+<text x="423.2" y="771.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="305.2" lengthAdjust="spacing">Se temea de el, 1/ cu toate că nu avea motive. 2/</text>
+<line x1="62.0" y1="803.0" x2="838.0" y2="803.0" stroke="#e3dccb"/>
+<text x="74.0" y="825.5" font-size="14.5" fill="#3a3226" textLength="206.5" lengthAdjust="spacing">pronume și adjective nehotărâte</text>
+<text x="423.2" y="825.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="309.7" lengthAdjust="spacing">Oricâte necazuri ar avea, 1/ e mereu zâmbitor. 2/</text>
+<line x1="62.0" y1="835.9" x2="838.0" y2="835.9" stroke="#e3dccb"/>
+<text x="74.0" y="858.4" font-size="14.5" fill="#3a3226" textLength="125.4" lengthAdjust="spacing">adverbe nehotărâte</text>
+<text x="423.2" y="858.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="249.3" lengthAdjust="spacing">Oricând ai veni, 1/ tot aici ne găsești. 2/</text>
+<line x1="62.0" y1="868.7" x2="838.0" y2="868.7" stroke="#e3dccb"/>
+<text x="74.0" y="891.2" font-size="14.5" fill="#3a3226" textLength="232.0" lengthAdjust="spacing">juxtapunere (fără element de relație)</text>
+<text x="423.2" y="891.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="198.5" lengthAdjust="spacing">Supără-te, 1/ noi tot plecăm! 2/</text>
+<line x1="62.0" y1="901.6" x2="838.0" y2="901.6" stroke="#e3dccb"/>
+<line x1="411.2" y1="684.7" x2="411.2" y2="901.5" stroke="#e3dccb"/>
+<rect x="62.0" y="915.5" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="915.5" width="6" height="61.7" rx="3" fill="#b4432c"/><text x="84.0" y="942.0" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="960.9" font-size="14.5" fill="#3a3226" textLength="376.9" lengthAdjust="spacing">Construcțiile concesive, înainte sau după regent, se despart</text>
+<text x="464.8" y="960.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="166.5" lengthAdjust="spacing">întotdeauna prin virgulă</text>
+<text x="631.2" y="960.9" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="323.3" y="1026.8" font-size="11.5" fill="#5b6b83" textLength="253.3" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 194-195, rubricile Repere.</text>
 </svg>

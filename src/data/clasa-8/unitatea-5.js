@@ -2044,7 +2044,7 @@ export const unitatea5 = {
         ],
         resurse: [
           'Manual Art 8, pp. 196-197',
-          'Schema „Construcțiile condiționale” (/materiale/clasa-8/unitatea-5/lectia-16/schema.svg)',
+          'Schema „Construcții condiționale” (/materiale/clasa-8/unitatea-5/lectia-16/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -2203,7 +2203,7 @@ export const unitatea5 = {
           ],
         },
         infografic: null,
-        schema: { fisier: '/materiale/clasa-8/unitatea-5/lectia-16/schema.svg', titlu: 'Construcțiile condiționale' },
+        schema: { fisier: '/materiale/clasa-8/unitatea-5/lectia-16/schema.svg', titlu: 'Construcții condiționale' },
         altele: [],
       },
     },

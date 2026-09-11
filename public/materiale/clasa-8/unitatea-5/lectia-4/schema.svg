@@ -1,44 +1,85 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 615" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="1000" height="615" fill="#faf7f0"/>
-  <text x="500" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Personajele și tipurile de conflict</text>
-  <text x="500" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V · Lectură</text>
-  <rect x="36" y="96" width="458" height="34" rx="10" fill="#3b5fa8"/>
-  <text x="265" y="119" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">CONFLICTUL EXTERIOR</text>
-  <rect x="36" y="142" width="458" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="56" y="166" font-size="13" font-weight="700" fill="#10233f">Omul și altă persoană</text>
-  <text x="56" y="186" font-size="12" fill="#3d4a5f">ciocnire de interese sau de valori</text>
-  <rect x="36" y="212" width="458" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="56" y="236" font-size="13" font-weight="700" fill="#10233f">Omul și societatea</text>
-  <text x="56" y="256" font-size="12" fill="#3d4a5f">personajul încalcă normele comunității</text>
-  <rect x="36" y="282" width="458" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="56" y="306" font-size="13" font-weight="700" fill="#10233f">Omul și natura</text>
-  <text x="56" y="326" font-size="12" fill="#3d4a5f">înfruntă forțele dezlănțuite ale naturii</text>
-  <rect x="36" y="352" width="458" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="56" y="376" font-size="13" font-weight="700" fill="#10233f">Omul și tehnologia</text>
-  <text x="56" y="396" font-size="12" fill="#3d4a5f">roboți, androizi, inteligență artificială</text>
-  <rect x="36" y="422" width="458" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="56" y="446" font-size="13" font-weight="700" fill="#10233f">Omul și soarta</text>
-  <text x="56" y="466" font-size="12" fill="#3d4a5f">sau forțele supranaturale</text>
-  <rect x="506" y="96" width="458" height="34" rx="10" fill="#a1417e"/>
-  <text x="735" y="119" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">CONFLICTUL INTERIOR · PERSONAJELE</text>
-  <rect x="506" y="142" width="458" height="77" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
-  <text x="526" y="166" font-size="13" font-weight="700" fill="#10233f">Omul și sine însuși</text>
-  <text x="526" y="186" font-size="12" fill="#3d4a5f">porniri, idei, atitudini contradictorii,</text>
-  <text x="526" y="205" font-size="12" fill="#3d4a5f">confruntarea cu propriile limite</text>
-  <rect x="506" y="231" width="458" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
-  <text x="526" y="255" font-size="13" font-weight="700" fill="#10233f">Personajele, după rol</text>
-  <text x="526" y="275" font-size="12" fill="#3d4a5f">principal sau secundar</text>
-  <rect x="506" y="301" width="458" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
-  <text x="526" y="325" font-size="13" font-weight="700" fill="#10233f">După poziția în conflict</text>
-  <text x="526" y="345" font-size="12" fill="#3d4a5f">protagonist sau antagonist</text>
-  <rect x="506" y="371" width="458" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
-  <text x="526" y="395" font-size="13" font-weight="700" fill="#10233f">După număr</text>
-  <text x="526" y="415" font-size="12" fill="#3d4a5f">individual sau colectiv</text>
-  <rect x="506" y="441" width="458" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
-  <text x="526" y="465" font-size="13" font-weight="700" fill="#10233f">După evoluție</text>
-  <text x="526" y="485" font-size="12" fill="#3d4a5f">care se schimbă sau care rămân la fel</text>
-  <rect x="36" y="511" width="928" height="58" rx="12" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="56" y="535" font-size="13" font-weight="700" fill="#10233f">Cum lucrezi cu tabelul</text>
-  <text x="56" y="555" font-size="12" fill="#3d4a5f">Pentru fiecare conflict din roman, întreabă: cine se ciocnește cu cine sau cu ce? Răspunsul îți dă tipul.</text>
-  <text x="500" y="601" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 174-175</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 963" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="963" fill="#faf7f0"/>
+<text x="303.4" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="293.4" lengthAdjust="spacing">Personajele. Conflictul</text>
+<text x="202.5" y="74.4" font-size="14" fill="#5b6b83" textLength="495.0" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a V-a, Lecția 4 · Manual, pp. 174-175 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CUM CLASIFIC PERSONAJELE</text>
+<rect x="40" y="128.6" width="820" height="231.1" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="146.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="51.3" lengthAdjust="spacing">Criteriul</text>
+<text x="306.8" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="48.6" lengthAdjust="spacing">Tipurile</text>
+<line x1="62.0" y1="178.2" x2="838.0" y2="178.2" stroke="#e3dccb"/>
+<text x="74.0" y="200.7" font-size="14.5" fill="#3a3226" textLength="71.1" lengthAdjust="spacing">importanța</text>
+<text x="306.8" y="200.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="59.6" lengthAdjust="spacing">principal</text>
+<text x="370.3" y="200.7" font-size="14.5" fill="#3a3226" textLength="5.7" lengthAdjust="spacing">/</text>
+<text x="379.9" y="200.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="61.5" lengthAdjust="spacing">secundar</text>
+<line x1="62.0" y1="211.0" x2="838.0" y2="211.0" stroke="#e3dccb"/>
+<text x="74.0" y="233.5" font-size="14.5" fill="#3a3226" textLength="95.0" lengthAdjust="spacing">rolul în conflict</text>
+<text x="306.8" y="233.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="79.9" lengthAdjust="spacing">protagonist</text>
+<text x="390.6" y="233.5" font-size="14.5" fill="#3a3226" textLength="5.7" lengthAdjust="spacing">/</text>
+<text x="400.2" y="233.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="72.9" lengthAdjust="spacing">antagonist</text>
+<line x1="62.0" y1="243.8" x2="838.0" y2="243.8" stroke="#e3dccb"/>
+<text x="74.0" y="266.4" font-size="14.5" fill="#3a3226" textLength="53.2" lengthAdjust="spacing">numărul</text>
+<text x="306.8" y="266.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="67.6" lengthAdjust="spacing">individual</text>
+<text x="378.3" y="266.4" font-size="14.5" fill="#3a3226" textLength="5.7" lengthAdjust="spacing">/</text>
+<text x="387.9" y="266.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="52.2" lengthAdjust="spacing">colectiv</text>
+<line x1="62.0" y1="276.7" x2="838.0" y2="276.7" stroke="#e3dccb"/>
+<text x="74.0" y="299.2" font-size="14.5" fill="#3a3226" textLength="50.6" lengthAdjust="spacing">evoluția</text>
+<text x="306.8" y="299.2" font-size="14.5" fill="#3a3226" textLength="93.1" lengthAdjust="spacing">personaje care</text>
+<text x="403.8" y="299.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="74.5" lengthAdjust="spacing">se schimbă</text>
+<text x="482.2" y="299.2" font-size="14.5" fill="#3a3226" textLength="36.2" lengthAdjust="spacing">/ care</text>
+<text x="522.4" y="299.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="134.1" lengthAdjust="spacing">rămân neschimbate</text>
+<line x1="62.0" y1="309.6" x2="838.0" y2="309.6" stroke="#e3dccb"/>
+<line x1="294.8" y1="146.6" x2="294.8" y2="309.5" stroke="#e3dccb"/>
+<text x="62.0" y="337.5" font-size="14" fill="#5b6b83" textLength="229.0" lengthAdjust="spacing">Autorul poate construi personajele în</text>
+<text x="294.8" y="337.5" font-size="14" fill="#5b6b83" font-weight="700" textLength="114.5" lengthAdjust="spacing">perechi antitetice</text>
+<text x="413.1" y="337.5" font-size="14" fill="#5b6b83" textLength="60.2" lengthAdjust="spacing">(antiteza).</text>
+<rect x="40" y="379.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="402.8" font-size="16" font-weight="700" fill="#ffffff">2. CONFLICTUL</text>
+<rect x="40" y="413.8" width="820" height="367.3" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="431.8" width="380.0" height="88.7" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="459.8" font-size="16" fill="#0d9c92" font-weight="700" textLength="120.0" lengthAdjust="spacing">conflict exterior</text>
+<text x="78.0" y="483.1" font-size="14.5" fill="#3a3226" textLength="331.2" lengthAdjust="spacing">personajul se confruntă cu ceva sau cineva din afara</text>
+<text x="78.0" y="504.1" font-size="14.5" fill="#3a3226" textLength="15.2" lengthAdjust="spacing">lui</text>
+<rect x="458.0" y="431.8" width="380.0" height="88.7" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="459.8" font-size="16" fill="#6f5ea8" font-weight="700" textLength="116.8" lengthAdjust="spacing">conflict interior</text>
+<text x="474.0" y="483.1" font-size="14.5" fill="#3a3226" textLength="301.6" lengthAdjust="spacing">porniri, idei, atitudini contradictorii ale aceluiași</text>
+<text x="474.0" y="504.1" font-size="14.5" fill="#3a3226" textLength="55.0" lengthAdjust="spacing">personaj</text>
+<rect x="62.0" y="534.4" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="555.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="120.2" lengthAdjust="spacing">Omul în conflict cu</text>
+<text x="306.8" y="555.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="79.9" lengthAdjust="spacing">Ce înseamnă</text>
+<line x1="62.0" y1="566.0" x2="838.0" y2="566.0" stroke="#e3dccb"/>
+<text x="74.0" y="588.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="91.8" lengthAdjust="spacing">altă persoană</text>
+<text x="306.8" y="588.5" font-size="14.5" fill="#3a3226" textLength="285.8" lengthAdjust="spacing">ciocnire de interese, de valori între personaje</text>
+<line x1="62.0" y1="598.8" x2="838.0" y2="598.8" stroke="#e3dccb"/>
+<text x="74.0" y="621.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="68.9" lengthAdjust="spacing">societatea</text>
+<text x="306.8" y="621.3" font-size="14.5" fill="#3a3226" textLength="413.1" lengthAdjust="spacing">încalcă normele sociale, politice, culturale, morale ale comunității</text>
+<line x1="62.0" y1="631.7" x2="838.0" y2="631.7" stroke="#e3dccb"/>
+<text x="74.0" y="654.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="44.8" lengthAdjust="spacing">natura</text>
+<text x="306.8" y="654.2" font-size="14.5" fill="#3a3226" textLength="286.8" lengthAdjust="spacing">înfruntă forțele naturii sau provoacă dezastre</text>
+<line x1="62.0" y1="664.5" x2="838.0" y2="664.5" stroke="#e3dccb"/>
+<text x="74.0" y="687.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="73.7" lengthAdjust="spacing">tehnologia</text>
+<text x="306.8" y="687.0" font-size="14.5" fill="#3a3226" textLength="373.2" lengthAdjust="spacing">se confruntă cu inteligența artificială: roboți, androizi, nave</text>
+<line x1="62.0" y1="697.4" x2="838.0" y2="697.4" stroke="#e3dccb"/>
+<text x="74.0" y="719.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="69.7" lengthAdjust="spacing">sine însuși</text>
+<text x="306.8" y="719.9" font-size="14.5" fill="#3a3226" textLength="317.0" lengthAdjust="spacing">idei contradictorii, confruntarea cu propriile limite</text>
+<line x1="62.0" y1="730.2" x2="838.0" y2="730.2" stroke="#e3dccb"/>
+<text x="74.0" y="752.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="194.4" lengthAdjust="spacing">soarta, forțele supranaturale</text>
+<text x="306.8" y="752.7" font-size="14.5" fill="#3a3226" textLength="213.3" lengthAdjust="spacing">destinul, puteri mai presus de om</text>
+<line x1="62.0" y1="763.1" x2="838.0" y2="763.1" stroke="#e3dccb"/>
+<line x1="294.8" y1="534.4" x2="294.8" y2="763.1" stroke="#e3dccb"/>
+<rect x="40" y="801.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="824.1" font-size="16" font-weight="700" fill="#ffffff">3. BLAZONUL PERSONAJULUI</text>
+<rect x="40" y="835.1" width="820" height="77.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="868.1" font-size="15" fill="#3a3226" textLength="56.5" lengthAdjust="spacing">numele ·</text>
+<text x="122.6" y="868.1" font-size="15" fill="#3a3226" font-weight="700" textLength="57.1" lengthAdjust="spacing">mottoul</text>
+<text x="183.8" y="868.1" font-size="15" fill="#3a3226" textLength="24.4" lengthAdjust="spacing">· un</text>
+<text x="212.3" y="868.1" font-size="15" fill="#3a3226" font-weight="700" textLength="150.2" lengthAdjust="spacing">eveniment important</text>
+<text x="366.5" y="868.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">·</text>
+<text x="373.9" y="868.1" font-size="15" fill="#3a3226" font-weight="700" textLength="133.6" lengthAdjust="spacing">calitatea principală</text>
+<text x="511.6" y="868.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">·</text>
+<text x="518.9" y="868.1" font-size="15" fill="#3a3226" font-weight="700" textLength="123.4" lengthAdjust="spacing">defectul principal</text>
+<text x="646.4" y="868.1" font-size="15" fill="#3a3226" textLength="189.3" lengthAdjust="spacing">· alt personaj literar cu care îl</text>
+<text x="62.0" y="889.8" font-size="15" fill="#3a3226" textLength="448.6" lengthAdjust="spacing">asemăn · o vietate, o plantă sau o formă de relief care i se potrivește</text>
+<text x="207.2" y="943.8" font-size="11.5" fill="#5b6b83" textLength="485.6" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 174-175, rubrica Repere, criteriile din Explorare și blazonul personajului.</text>
 </svg>

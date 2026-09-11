@@ -1,31 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 456" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="1000" height="456" fill="#faf7f0"/>
-  <text x="500" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cum convingi, oral și în scris</text>
-  <text x="500" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V · Recapitulare, comunicare și redactare</text>
-  <rect x="36" y="96" width="458" height="34" rx="10" fill="#3b5fa8"/>
-  <text x="265" y="119" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">ORAL: ARGUMENTAREA</text>
-  <rect x="36" y="142" width="458" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="56" y="166" font-size="13" font-weight="700" fill="#10233f">Logos, patos, etos</text>
-  <text x="56" y="186" font-size="12" fill="#3d4a5f">logică, emoție, credibilitate</text>
-  <rect x="36" y="212" width="458" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="56" y="236" font-size="13" font-weight="700" fill="#10233f">Argumentul puternic</text>
-  <text x="56" y="256" font-size="12" fill="#3d4a5f">premise juste și o concluzie care decurge din ele</text>
-  <rect x="36" y="282" width="458" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="56" y="306" font-size="13" font-weight="700" fill="#10233f">Receptorul</text>
-  <text x="56" y="326" font-size="12" fill="#3d4a5f">îți alegi argumentele după cel care ascultă</text>
-  <rect x="506" y="96" width="458" height="34" rx="10" fill="#a1417e"/>
-  <text x="735" y="119" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">SCRIS: TEXTUL DE OPINIE</text>
-  <rect x="506" y="142" width="458" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
-  <text x="526" y="166" font-size="13" font-weight="700" fill="#10233f">Planul</text>
-  <text x="526" y="186" font-size="12" fill="#3d4a5f">opinia, două argumente, concluzia</text>
-  <rect x="506" y="212" width="458" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
-  <text x="526" y="236" font-size="13" font-weight="700" fill="#10233f">Strategiile</text>
-  <text x="526" y="256" font-size="12" fill="#3d4a5f">obiecție, concesie, analogie</text>
-  <rect x="506" y="282" width="458" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
-  <text x="526" y="306" font-size="13" font-weight="700" fill="#10233f">Formulele</text>
-  <text x="526" y="326" font-size="12" fill="#3d4a5f">certitudine, probabilitate, necesitate</text>
-  <rect x="36" y="352" width="928" height="58" rx="12" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="56" y="376" font-size="13" font-weight="700" fill="#10233f">Grila de verificare, oral sau în scris</text>
-  <text x="56" y="396" font-size="12" fill="#3d4a5f">Opinia reiese clar? Argumentele sunt logice și sprijinite pe exemple? Stilul e atractiv?</text>
-  <text x="500" y="442" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 186-199</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 795" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="795" fill="#faf7f0"/>
+<text x="208.4" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="484.1" lengthAdjust="spacing">Recapitulare: argumentarea și opinia</text>
+<text x="140.9" y="74.4" font-size="14" fill="#5b6b83" textLength="618.2" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a V-a, Lecția 21 · Manual, pp. 178-180, 186-187, 198-199 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CUM CONVING</text>
+<rect x="40" y="128.6" width="820" height="158.2" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="146.6" width="248.0" height="88.7" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="174.6" font-size="16" fill="#0d9c92" font-weight="700" textLength="52.8" lengthAdjust="spacing">LOGOS</text>
+<text x="78.0" y="197.9" font-size="14.5" fill="#3a3226" textLength="213.4" lengthAdjust="spacing">argumente corecte logic, premise</text>
+<text x="78.0" y="218.9" font-size="14.5" fill="#3a3226" textLength="62.8" lengthAdjust="spacing">adevărate</text>
+<rect x="326.0" y="146.6" width="248.0" height="88.7" rx="12" fill="#ffffff" stroke="#b4432c" stroke-width="2"/>
+<text x="342.0" y="174.6" font-size="16" fill="#b4432c" font-weight="700" textLength="51.5" lengthAdjust="spacing">PATOS</text>
+<text x="342.0" y="197.9" font-size="14.5" fill="#3a3226" textLength="152.8" lengthAdjust="spacing">implicarea emoțională a</text>
+<text x="342.0" y="218.9" font-size="14.5" fill="#3a3226" textLength="62.5" lengthAdjust="spacing">publicului</text>
+<rect x="590.0" y="146.6" width="248.0" height="88.7" rx="12" fill="#ffffff" stroke="#10233f" stroke-width="2"/>
+<text x="606.0" y="174.6" font-size="16" fill="#10233f" font-weight="700" textLength="39.0" lengthAdjust="spacing">ETOS</text>
+<text x="606.0" y="197.9" font-size="14.5" fill="#3a3226" textLength="166.9" lengthAdjust="spacing">credibilitatea mea, valorile</text>
+<text x="606.0" y="218.9" font-size="14.5" fill="#3a3226" textLength="51.8" lengthAdjust="spacing">comune</text>
+<text x="62.0" y="264.3" font-size="15" fill="#3a3226" textLength="190.3" lengthAdjust="spacing">Strategii din textul de opinie:</text>
+<text x="256.4" y="264.3" font-size="15" fill="#3a3226" font-weight="700" textLength="408.4" lengthAdjust="spacing">obiecția, concesia, analogia, examenul critic, confruntarea</text>
+<text x="664.8" y="264.3" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="40" y="306.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="329.8" font-size="16" font-weight="700" fill="#ffffff">2. CUM ÎMI EXPRIM OPINIA</text>
+<rect x="40" y="340.8" width="820" height="220.0" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="358.8" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="380.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="55.6" lengthAdjust="spacing">Valoarea</text>
+<text x="268.0" y="380.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="53.7" lengthAdjust="spacing">Exemple</text>
+<line x1="62.0" y1="390.3" x2="838.0" y2="390.3" stroke="#e3dccb"/>
+<text x="74.0" y="412.8" font-size="14.5" fill="#3a3226" textLength="68.7" lengthAdjust="spacing">certitudine</text>
+<text x="268.0" y="412.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="171.7" lengthAdjust="spacing">știu că, e limpede că, firește</text>
+<line x1="62.0" y1="423.2" x2="838.0" y2="423.2" stroke="#e3dccb"/>
+<text x="74.0" y="445.7" font-size="14.5" fill="#3a3226" textLength="90.1" lengthAdjust="spacing">incertitudine /</text>
+<text x="74.0" y="466.7" font-size="14.5" fill="#3a3226" textLength="81.9" lengthAdjust="spacing">probabilitate</text>
+<text x="268.0" y="445.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="282.3" lengthAdjust="spacing">cred că, presupun că / s-ar putea să, probabil</text>
+<line x1="62.0" y1="477.0" x2="838.0" y2="477.0" stroke="#e3dccb"/>
+<text x="74.0" y="499.5" font-size="14.5" fill="#3a3226" textLength="64.4" lengthAdjust="spacing">necesitate</text>
+<text x="268.0" y="499.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="137.8" lengthAdjust="spacing">trebuie să, e nevoie să</text>
+<line x1="62.0" y1="509.9" x2="838.0" y2="509.9" stroke="#e3dccb"/>
+<text x="74.0" y="532.4" font-size="14.5" fill="#3a3226" textLength="58.9" lengthAdjust="spacing">apreciere</text>
+<text x="268.0" y="532.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="255.8" lengthAdjust="spacing">merită să, e util să / din păcate, regret că</text>
+<line x1="62.0" y1="542.8" x2="838.0" y2="542.8" stroke="#e3dccb"/>
+<line x1="256.0" y1="358.8" x2="256.0" y2="542.8" stroke="#e3dccb"/>
+<rect x="40" y="580.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="603.8" font-size="16" font-weight="700" fill="#ffffff">3. TEXTUL DE OPINIE: CERINȚA-TIP</text>
+<rect x="40" y="614.8" width="820" height="129.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="647.8" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="647.8" font-size="15" fill="#3a3226" textLength="133.2" lengthAdjust="spacing">conținut adecvat, cu</text>
+<text x="211.4" y="647.8" font-size="15" fill="#3a3226" font-weight="700" textLength="279.3" lengthAdjust="spacing">strategii de argumentare și persuasiune</text>
+<text x="490.7" y="647.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">;</text>
+<text x="62.0" y="672.5" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="672.5" font-size="15" fill="#3a3226" font-weight="700" textLength="134.2" lengthAdjust="spacing">mijloace lingvistice</text>
+<text x="212.5" y="672.5" font-size="15" fill="#3a3226" textLength="210.0" lengthAdjust="spacing">potrivite de exprimare a opiniei;</text>
+<text x="62.0" y="697.2" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="697.2" font-size="15" fill="#3a3226" textLength="588.1" lengthAdjust="spacing">introducere (opinia), cuprins (două argumente cu exemple), încheiere (poziția reafirmată);</text>
+<text x="62.0" y="722.0" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="722.0" font-size="15" fill="#3a3226" textLength="444.0" lengthAdjust="spacing">exprimare clară și corectă, ortografie, punctuație, așezare în pagină.</text>
+<text x="177.5" y="776.0" font-size="11.5" fill="#5b6b83" textLength="545.0" lengthAdjust="spacing">Sursa: Manual Art 8, rubricile Repere din lecțiile 6, 9 și 16; cerința de redactare din recapitularea de la p. 201.</text>
 </svg>
