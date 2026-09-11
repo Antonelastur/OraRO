@@ -70,12 +70,12 @@ nu cere blocuri editabile. Dacă modelul se dovedește greșit, se schimbă un
 fișier, nu 480. Promovarea blocurilor la entități editabile se face în ETAPA 2,
 când apare nevoia reală (lecția modulară cu adăugare, reordonare, salvare).
 
-**Ce e deja acoperit cu date reale.** Clasa a V-a are `planLectie` populat pe
-toate cele 120 de lecții, cu 6 blocuri fiecare, adică 720 de blocuri reale cu
-titlu, durată și descriere. Cockpitul și timerul pornesc de aici, nu de la zero.
-Clasele a VI-a, a VII-a și a VIII-a au `planLectie: null` și au nevoie de
-generare, la fel cum s-a procedat pentru clasa a V-a
-(`scripts/planuri/`, `scripts/inject-plan-lectie.mjs`).
+**Ce e deja acoperit cu date reale.** Toate cele patru clase au `planLectie`
+populat pe fiecare lecție: a V-a 120, a VI-a 122, a VII-a 119, a VIII-a 119,
+adică 480 de lecții cu 6 blocuri fiecare și 2.880 de blocuri reale cu titlu,
+durată și descriere. Cockpitul și timerul pornesc de aici, nu de la zero.
+Planurile se scriu în `scripts/planuri/` și se injectează cu
+`scripts/inject-plan-lectie.mjs`.
 
 **Ce lipsește complet și cere date noi.** Maparea dată calendaristică → lecție,
 fără de care „Ora de azi" nu are ce afișa. Se construiește din planificarea

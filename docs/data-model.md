@@ -102,8 +102,8 @@ didactic pe care Antoanela îl folosește la clasă. **Nu converti automat unele
 altele**, ambele sunt secvențe valide de blocuri. Tipul `LessonBlock` trebuie să
 accepte orice titlu de bloc, nu o enumerare închisă.
 
-Clasele a VI-a, a VII-a și a VIII-a au `planLectie: null`, deci zero blocuri.
-Trebuie generate, vezi `docs/continut-si-stil.md`.
+Toate cele patru clase au `planLectie` populat, cu 6 blocuri pe lecție, 480 de
+lecții în total. Regulile de redactare sunt în `docs/continut-si-stil.md`.
 
 ## 6. Activity
 
