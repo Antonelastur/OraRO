@@ -1,41 +1,100 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="980" height="380" fill="#faf7f0"/>
-  <text x="490" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Proiectul Limbi inventate, pas cu pas</text>
-  <text x="490" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 8 · Proiect de grup</text>
-  <rect x="36" y="104" width="212" height="112" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-  <circle cx="70" cy="134" r="17" fill="#3b5fa8"/>
-  <text x="70" y="140" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">1</text>
-  <text x="96" y="140" font-size="13" font-weight="700" fill="#10233f">Alegem o limbă</text>
-  <text x="56" y="174" font-size="11.5" fill="#3d4a5f">dintr-o carte sau</text>
-  <text x="56" y="192" font-size="11.5" fill="#3d4a5f">dintr-un film cunoscut</text>
-  <path d="M250 160 L268 160" stroke="#b8944f" stroke-width="2.5"/>
-  <path d="M262 154 L270 160 L262 166 Z" fill="#b8944f"/>
-  <rect x="272" y="104" width="212" height="112" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
-  <circle cx="306" cy="134" r="17" fill="#a1417e"/>
-  <text x="306" y="140" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">2</text>
-  <text x="332" y="140" font-size="13" font-weight="700" fill="#10233f">Ne documentăm</text>
-  <text x="292" y="174" font-size="11.5" fill="#3d4a5f">cine a inventat-o,</text>
-  <text x="292" y="192" font-size="11.5" fill="#3d4a5f">ce reguli are, de ce</text>
-  <path d="M486 160 L504 160" stroke="#b8944f" stroke-width="2.5"/>
-  <path d="M498 154 L506 160 L498 166 Z" fill="#b8944f"/>
-  <rect x="508" y="104" width="212" height="112" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
-  <circle cx="542" cy="134" r="17" fill="#1c7f5e"/>
-  <text x="542" y="140" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">3</text>
-  <text x="568" y="140" font-size="13" font-weight="700" fill="#10233f">Construim</text>
-  <text x="528" y="174" font-size="11.5" fill="#3d4a5f">un mic dicționar</text>
-  <text x="528" y="192" font-size="11.5" fill="#3d4a5f">sau câteva propoziții</text>
-  <path d="M722 160 L740 160" stroke="#b8944f" stroke-width="2.5"/>
-  <path d="M734 154 L742 160 L734 166 Z" fill="#b8944f"/>
-  <rect x="744" y="104" width="212" height="112" rx="16" fill="#ffffff" stroke="#b8944f" stroke-width="2.5"/>
-  <circle cx="778" cy="134" r="17" fill="#b8944f"/>
-  <text x="778" y="140" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">4</text>
-  <text x="804" y="140" font-size="13" font-weight="700" fill="#10233f">Prezentăm</text>
-  <text x="764" y="174" font-size="11.5" fill="#3d4a5f">5 minute pe grupă,</text>
-  <text x="764" y="192" font-size="11.5" fill="#3d4a5f">cu un exemplu rostit</text>
-  <rect x="36" y="238" width="908" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="58" y="263" font-size="13" font-weight="700" fill="#10233f">Idei de pornire</text>
-  <text x="58" y="283" font-size="12" fill="#3d4a5f">elfa lui Tolkien, klingoniana, dothraki, na vi din Avatar, esperanto. Sau una inventată chiar de grupă.</text>
-  <rect x="36" y="306" width="908" height="56" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
-  <text x="58" y="331" font-size="13" font-weight="700" fill="#10233f">Întrebarea de fond</text>
-  <text x="58" y="351" font-size="12" fill="#3d4a5f">de ce inventează oamenii limbi? Ce spune asta despre felul în care descoperim și numim lumea?</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1128" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1128" fill="#faf7f0"/>
+<text x="238.3" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="424.5" lengthAdjust="spacing">Proiect de grup. Limbi inventate</text>
+<text x="219.4" y="74.4" font-size="14" fill="#5b6b83" textLength="461.2" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a III-a, Lecția 8 · Manual, p. 109 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. LIMBI NATURALE ȘI LIMBI ARTIFICIALE</text>
+<rect x="40" y="128.6" width="820" height="127.6" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="146.6" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="174.6" font-size="16" fill="#0d9c92" font-weight="700" textLength="118.2" lengthAdjust="spacing">limbile naturale</text>
+<text x="78.0" y="197.9" font-size="14.5" fill="#3a3226" textLength="169.2" lengthAdjust="spacing">apărute în decursul istoriei</text>
+<text x="78.0" y="221.8" font-size="14.5" fill="#3a3226" textLength="259.5" lengthAdjust="spacing">parte a culturii unei populații numeroase</text>
+<rect x="458.0" y="146.6" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="174.6" font-size="16" fill="#6f5ea8" font-weight="700" textLength="125.9" lengthAdjust="spacing">limbile artificiale</text>
+<text x="474.0" y="197.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="64.4" lengthAdjust="spacing">inventate</text>
+<text x="542.3" y="197.9" font-size="14.5" fill="#3a3226" textLength="236.3" lengthAdjust="spacing">de un om sau de un grup restrâns de</text>
+<text x="474.0" y="218.9" font-size="14.5" fill="#3a3226" textLength="47.7" lengthAdjust="spacing">oameni</text>
+<rect x="40" y="276.2" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="299.2" font-size="16" font-weight="700" fill="#ffffff">2. TIPURI DE LIMBI ARTIFICIALE</text>
+<rect x="40" y="310.2" width="820" height="252.8" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="328.2" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="349.7" font-size="13.5" fill="#10233f" font-weight="700" textLength="32.1" lengthAdjust="spacing">Tipul</text>
+<text x="205.9" y="349.7" font-size="13.5" fill="#10233f" font-weight="700" textLength="60.2" lengthAdjust="spacing">Pentru ce</text>
+<text x="462.0" y="349.7" font-size="13.5" fill="#10233f" font-weight="700" textLength="53.7" lengthAdjust="spacing">Exemple</text>
+<line x1="62.0" y1="359.7" x2="838.0" y2="359.7" stroke="#e3dccb"/>
+<text x="74.0" y="382.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="58.3" lengthAdjust="spacing">auxiliare</text>
+<text x="205.9" y="382.2" font-size="14.5" fill="#3a3226" textLength="175.2" lengthAdjust="spacing">comunicarea dintre oameni</text>
+<text x="462.0" y="382.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="61.5" lengthAdjust="spacing">esperanto</text>
+<text x="527.4" y="382.2" font-size="14.5" fill="#3a3226" textLength="206.9" lengthAdjust="spacing">(gândită ca limbă internațională)</text>
+<line x1="62.0" y1="392.6" x2="838.0" y2="392.6" stroke="#e3dccb"/>
+<text x="74.0" y="415.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="41.9" lengthAdjust="spacing">fictive</text>
+<text x="205.9" y="415.1" font-size="14.5" fill="#3a3226" textLength="195.3" lengthAdjust="spacing">creații artistice: literatură, filme</text>
+<text x="462.0" y="415.1" font-size="14.5" fill="#3a3226" textLength="100.3" lengthAdjust="spacing">elfa lui Tolkien (</text>
+<text x="562.3" y="415.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="103.5" lengthAdjust="spacing">quenya, sindarin</text>
+<text x="665.8" y="415.1" font-size="14.5" fill="#3a3226" textLength="7.5" lengthAdjust="spacing">),</text>
+<text x="677.3" y="415.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="89.0" lengthAdjust="spacing">dothraki, na’vi</text>
+<text x="766.3" y="415.1" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="462.0" y="436.1" font-size="14.5" fill="#3a3226" textLength="147.5" lengthAdjust="spacing">minioneza, klingoniana</text>
+<line x1="62.0" y1="446.4" x2="838.0" y2="446.4" stroke="#e3dccb"/>
+<text x="74.0" y="468.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="97.9" lengthAdjust="spacing">experimentale</text>
+<text x="205.9" y="468.9" font-size="14.5" fill="#3a3226" textLength="135.6" lengthAdjust="spacing">cercetarea lingviștilor</text>
+<text x="462.0" y="468.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="115.7" lengthAdjust="spacing">Toki Pona, Laadan</text>
+<line x1="62.0" y1="479.3" x2="838.0" y2="479.3" stroke="#e3dccb"/>
+<text x="74.0" y="501.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="48.3" lengthAdjust="spacing">secrete</text>
+<text x="205.9" y="501.8" font-size="14.5" fill="#3a3226" textLength="142.4" lengthAdjust="spacing">codificarea informației</text>
+<text x="462.0" y="501.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="86.4" lengthAdjust="spacing">Lingua Ignota</text>
+<text x="552.3" y="501.8" font-size="14.5" fill="#3a3226" textLength="112.1" lengthAdjust="spacing">(secolul al XII-lea)</text>
+<line x1="62.0" y1="512.1" x2="838.0" y2="512.1" stroke="#e3dccb"/>
+<text x="74.0" y="534.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="40.7" lengthAdjust="spacing">ludice</text>
+<text x="205.9" y="534.6" font-size="14.5" fill="#3a3226" textLength="98.3" lengthAdjust="spacing">jocurile copiilor</text>
+<text x="462.0" y="534.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="69.5" lengthAdjust="spacing">păsăreasca</text>
+<line x1="62.0" y1="545.0" x2="838.0" y2="545.0" stroke="#e3dccb"/>
+<line x1="193.9" y1="328.2" x2="193.9" y2="545.0" stroke="#e3dccb"/>
+<line x1="450.0" y1="328.2" x2="450.0" y2="545.0" stroke="#e3dccb"/>
+<rect x="40" y="583.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="606.0" font-size="16" font-weight="700" fill="#ffffff">3. PAȘII PROIECTULUI</text>
+<rect x="40" y="617.0" width="820" height="129.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="650.0" font-size="15" fill="#3a3226" font-weight="700">1.</text>
+<text x="81.0" y="650.0" font-size="15" fill="#3a3226" textLength="285.9" lengthAdjust="spacing">Alegem, în grupe de 3-4, o limbă inventată.</text>
+<text x="62.0" y="674.8" font-size="15" fill="#3a3226" font-weight="700">2.</text>
+<text x="81.0" y="674.8" font-size="15" fill="#3a3226" textLength="19.1" lengthAdjust="spacing">Ne</text>
+<text x="104.0" y="674.8" font-size="15" fill="#3a3226" font-weight="700" textLength="93.6" lengthAdjust="spacing">documentăm</text>
+<text x="201.7" y="674.8" font-size="15" fill="#3a3226" textLength="302.7" lengthAdjust="spacing">și căutăm exemple (cărți, filme, documentare).</text>
+<text x="62.0" y="699.5" font-size="15" fill="#3a3226" font-weight="700">3.</text>
+<text x="81.0" y="699.5" font-size="15" fill="#3a3226" textLength="492.1" lengthAdjust="spacing">Împărțim sarcinile și pregătim prezentarea (PowerPoint sau produs media).</text>
+<text x="62.0" y="724.2" font-size="15" fill="#3a3226" font-weight="700">4.</text>
+<text x="81.0" y="724.2" font-size="15" fill="#3a3226" textLength="309.0" lengthAdjust="spacing">Prezentăm proiectul clasei. Timp: o săptămână.</text>
+<rect x="40" y="766.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="789.8" font-size="16" font-weight="700" fill="#ffffff">4. CUM EVALUĂM</text>
+<rect x="40" y="800.8" width="820" height="275.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="818.8" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="840.2" font-size="13.5" fill="#10233f" font-weight="700" textLength="51.3" lengthAdjust="spacing">Criteriul</text>
+<text x="268.0" y="840.2" font-size="13.5" fill="#10233f" font-weight="700" textLength="74.4" lengthAdjust="spacing">Ce urmărim</text>
+<line x1="62.0" y1="850.3" x2="838.0" y2="850.3" stroke="#e3dccb"/>
+<text x="74.0" y="872.8" font-size="14.5" fill="#3a3226" textLength="67.9" lengthAdjust="spacing">organizare</text>
+<text x="268.0" y="872.8" font-size="14.5" fill="#3a3226" textLength="249.4" lengthAdjust="spacing">material bine structurat, ușor de înțeles</text>
+<line x1="62.0" y1="883.1" x2="838.0" y2="883.1" stroke="#e3dccb"/>
+<text x="74.0" y="905.6" font-size="14.5" fill="#3a3226" textLength="53.4" lengthAdjust="spacing">conținut</text>
+<text x="268.0" y="905.6" font-size="14.5" fill="#3a3226" textLength="253.3" lengthAdjust="spacing">informații relevante pentru limba aleasă</text>
+<line x1="62.0" y1="916.0" x2="838.0" y2="916.0" stroke="#e3dccb"/>
+<text x="74.0" y="938.5" font-size="14.5" fill="#3a3226" textLength="68.3" lengthAdjust="spacing">colaborare</text>
+<text x="268.0" y="938.5" font-size="14.5" fill="#3a3226" textLength="177.9" lengthAdjust="spacing">fiecare membru a contribuit</text>
+<line x1="62.0" y1="948.9" x2="838.0" y2="948.9" stroke="#e3dccb"/>
+<text x="74.0" y="971.4" font-size="14.5" fill="#3a3226" textLength="68.4" lengthAdjust="spacing">prezentare</text>
+<text x="268.0" y="971.4" font-size="14.5" fill="#3a3226" textLength="243.4" lengthAdjust="spacing">clară; text și imagini combinate creativ</text>
+<line x1="62.0" y1="981.7" x2="838.0" y2="981.7" stroke="#e3dccb"/>
+<line x1="256.0" y1="818.8" x2="256.0" y2="981.7" stroke="#e3dccb"/>
+<text x="62.0" y="1010.7" font-size="15" fill="#3a3226" font-weight="700" textLength="132.9" lengthAdjust="spacing">Scara feedbackului</text>
+<text x="194.9" y="1010.7" font-size="15" fill="#3a3226" textLength="65.7" lengthAdjust="spacing">: clarifică (</text>
+<text x="260.6" y="1010.7" font-size="15" fill="#10233f" font-style="italic" textLength="223.1" lengthAdjust="spacing">Mă poți ajuta să înțeleg mai bine...</text>
+<text x="483.6" y="1010.7" font-size="15" fill="#3a3226" textLength="96.1" lengthAdjust="spacing">) → apreciază (</text>
+<text x="579.8" y="1010.7" font-size="15" fill="#10233f" font-style="italic" textLength="220.9" lengthAdjust="spacing">Apreciez... Îmi place... Mi s-a părut</text>
+<text x="62.0" y="1032.5" font-size="15" fill="#10233f" font-style="italic" textLength="59.7" lengthAdjust="spacing">original...</text>
+<text x="121.7" y="1032.5" font-size="15" fill="#3a3226" textLength="101.7" lengthAdjust="spacing">) → analizează (</text>
+<text x="223.4" y="1032.5" font-size="15" fill="#10233f" font-style="italic" textLength="171.6" lengthAdjust="spacing">Mi se pare că... Mă întreb...</text>
+<text x="395.0" y="1032.5" font-size="15" fill="#3a3226" textLength="100.6" lengthAdjust="spacing">) → sugerează (</text>
+<text x="495.6" y="1032.5" font-size="15" fill="#10233f" font-style="italic" textLength="311.4" lengthAdjust="spacing">Ai putea adăuga... Ai putea reformula... Ai putea</text>
+<text x="62.0" y="1054.2" font-size="15" fill="#10233f" font-style="italic" textLength="64.0" lengthAdjust="spacing">dezvolta...</text>
+<text x="126.0" y="1054.2" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">).</text>
+<text x="245.4" y="1108.2" font-size="11.5" fill="#5b6b83" textLength="409.3" lengthAdjust="spacing">Sursa: Manual Art 8, p. 109, rubricile Punere în temă, Pași și Evaluarea proiectului.</text>
 </svg>

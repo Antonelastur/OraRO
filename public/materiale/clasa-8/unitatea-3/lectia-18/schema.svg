@@ -1,20 +1,96 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="380" fill="#faf7f0"/>
-  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Complementul prepozițional</text>
-  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III · lecția 18 · obiectul care e ținta acțiunii sau pentru care se acționează</text>
-
-  <rect x="55" y="80" width="790" height="66" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
-  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Întrebări</text>
-  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="126">pentru cine?, pentru ce?, de cine?, de ce?, la cine?, la ce?, de la cine?, despre cine?, despre ce? etc.</tspan></text>
-
-  <rect x="55" y="162" width="390" height="130" rx="14" fill="none" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="75" y="186" font-size="13" font-weight="700" fill="#10233f">Regentul</text>
-  <text font-size="11" fill="#3a3226"><tspan x="75" y="208">un verb cu categoria modului sau la o formă</tspan><tspan x="75" y="226">nepersonală, o locuțiune verbală, un adjectiv</tspan><tspan x="75" y="244">(capabil de asta), un adverb (stă departe de)</tspan><tspan x="75" y="262">sau o interjecție (Mersi pentru tot!)</tspan></text>
-
-  <rect x="465" y="162" width="380" height="130" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
-  <text x="485" y="186" font-size="13" font-weight="700" fill="#10233f">Se exprimă prin</text>
-  <text font-size="11" fill="#3a3226"><tspan x="485" y="208">substantiv, pronume sau numeral în acuzativ</tspan><tspan x="485" y="226">ori genitiv, cu prepoziție sau locuțiune</tspan><tspan x="485" y="244">prepozițională; verb sau locuțiune verbală</tspan><tspan x="485" y="262">la infinitiv sau supin</tspan></text>
-
-  <text x="450" y="336" text-anchor="middle" font-size="11.5" fill="#3a3226">Stă de obicei după regent, fără virgulă; antepus, are uz emfatic (Despre tine vreau să vorbim.).</text>
-  <text x="450" y="362" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, p. 123</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1156" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1156" fill="#faf7f0"/>
+<text x="261.4" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="377.4" lengthAdjust="spacing">Complementul prepozițional</text>
+<text x="215.6" y="74.4" font-size="14" fill="#5b6b83" textLength="468.7" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a III-a, Lecția 18 · Manual, p. 123 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ESTE</text>
+<rect x="40" y="128.6" width="820" height="135.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="215.7" lengthAdjust="spacing">Complementul prepozițional</text>
+<text x="282.0" y="162.6" font-size="16" fill="#10233f" textLength="163.5" lengthAdjust="spacing">arată obiectul care este</text>
+<text x="449.8" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="95.4" lengthAdjust="spacing">ținta acțiunii</text>
+<text x="549.5" y="162.6" font-size="16" fill="#10233f" textLength="243.7" lengthAdjust="spacing">sau pentru care acționează autorul</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" textLength="43.7" lengthAdjust="spacing">faptei.</text>
+<text x="62.0" y="219.6" font-size="15" fill="#3a3226" textLength="233.8" lengthAdjust="spacing">Răspunde la întrebări cu prepoziție:</text>
+<text x="299.9" y="219.6" font-size="15" fill="#10233f" font-style="italic" textLength="499.0" lengthAdjust="spacing">pentru cine? pentru ce? de cine? de ce? la cine? la ce? de la cine? despre cine?</text>
+<text x="62.0" y="241.3" font-size="15" fill="#10233f" font-style="italic" textLength="66.7" lengthAdjust="spacing">despre ce?</text>
+<text x="132.8" y="241.3" font-size="15" fill="#3a3226" textLength="23.1" lengthAdjust="spacing">etc.</text>
+<rect x="40" y="283.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="306.9" font-size="16" font-weight="700" fill="#ffffff">2. DE CE DEPINDE</text>
+<rect x="40" y="317.9" width="820" height="264.6" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="335.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="357.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="57.2" lengthAdjust="spacing">Regentul</text>
+<text x="345.6" y="357.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="367.4" x2="838.0" y2="367.4" stroke="#e3dccb"/>
+<text x="74.0" y="389.9" font-size="14.5" fill="#3a3226" textLength="155.7" lengthAdjust="spacing">verb la un mod personal</text>
+<text x="345.6" y="389.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="74.5" lengthAdjust="spacing">Se gândește</text>
+<text x="424.0" y="389.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="69.6" lengthAdjust="spacing">la examen</text>
+<text x="493.6" y="389.9" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="500.8" y="389.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="47.9" lengthAdjust="spacing">Mă tem</text>
+<text x="552.5" y="389.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="49.9" lengthAdjust="spacing">de eșec</text>
+<text x="602.4" y="389.9" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="400.3" x2="838.0" y2="400.3" stroke="#e3dccb"/>
+<text x="74.0" y="422.8" font-size="14.5" fill="#3a3226" textLength="170.4" lengthAdjust="spacing">formă verbală nepersonală</text>
+<text x="345.6" y="422.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="73.2" lengthAdjust="spacing">Bazându-se</text>
+<text x="422.7" y="422.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="69.9" lengthAdjust="spacing">pe intuiție</text>
+<text x="492.6" y="422.8" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="499.7" y="422.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="105.1" lengthAdjust="spacing">a răspuns corect.</text>
+<line x1="62.0" y1="433.1" x2="838.0" y2="433.1" stroke="#e3dccb"/>
+<text x="74.0" y="455.6" font-size="14.5" fill="#3a3226" textLength="109.8" lengthAdjust="spacing">locuțiune verbală</text>
+<text x="345.6" y="455.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="102.5" lengthAdjust="spacing">Își aduce aminte</text>
+<text x="452.0" y="455.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="45.1" lengthAdjust="spacing">de toți</text>
+<text x="497.1" y="455.6" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="466.0" x2="838.0" y2="466.0" stroke="#e3dccb"/>
+<text x="74.0" y="488.5" font-size="14.5" fill="#3a3226" textLength="49.0" lengthAdjust="spacing">adjectiv</text>
+<text x="345.6" y="488.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="70.6" lengthAdjust="spacing">Ești capabil</text>
+<text x="420.1" y="488.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="48.6" lengthAdjust="spacing">de asta</text>
+<text x="468.7" y="488.5" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="498.8" x2="838.0" y2="498.8" stroke="#e3dccb"/>
+<text x="74.0" y="521.3" font-size="14.5" fill="#3a3226" textLength="44.1" lengthAdjust="spacing">adverb</text>
+<text x="345.6" y="521.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="71.2" lengthAdjust="spacing">Stă departe</text>
+<text x="420.7" y="521.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="78.7" lengthAdjust="spacing">de patinoar</text>
+<text x="499.4" y="521.3" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="531.6" x2="838.0" y2="531.6" stroke="#e3dccb"/>
+<text x="74.0" y="554.1" font-size="14.5" fill="#3a3226" textLength="62.9" lengthAdjust="spacing">interjecție</text>
+<text x="345.6" y="554.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="33.8" lengthAdjust="spacing">Mersi</text>
+<text x="383.3" y="554.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="70.2" lengthAdjust="spacing">pentru tot</text>
+<text x="453.5" y="554.1" font-size="14.5" fill="#3a3226" textLength="4.1" lengthAdjust="spacing">!</text>
+<line x1="62.0" y1="564.5" x2="838.0" y2="564.5" stroke="#e3dccb"/>
+<line x1="333.6" y1="335.9" x2="333.6" y2="564.5" stroke="#e3dccb"/>
+<rect x="40" y="602.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="625.5" font-size="16" font-weight="700" fill="#ffffff">3. PRIN CE SE EXPRIMĂ</text>
+<rect x="40" y="636.5" width="820" height="241.0" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="654.5" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="676.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="109.8" lengthAdjust="spacing">Partea de vorbire</text>
+<text x="399.9" y="676.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="686.0" x2="838.0" y2="686.0" stroke="#e3dccb"/>
+<text x="74.0" y="708.5" font-size="14.5" fill="#3a3226" textLength="298.8" lengthAdjust="spacing">substantiv sau locuțiune substantivală în Ac. cu</text>
+<text x="74.0" y="729.6" font-size="14.5" fill="#3a3226" textLength="291.3" lengthAdjust="spacing">prepoziție / locuțiune prepozițională sau în G.</text>
+<text x="74.0" y="750.6" font-size="14.5" fill="#3a3226" textLength="83.1" lengthAdjust="spacing">cu prepoziție</text>
+<text x="399.9" y="708.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="418.8" lengthAdjust="spacing">Depinde de sprijinul altora. Era mândră față de colege. Necazul s-a</text>
+<text x="399.9" y="729.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="136.6" lengthAdjust="spacing">abătut asupra satului.</text>
+<line x1="62.0" y1="760.9" x2="838.0" y2="760.9" stroke="#e3dccb"/>
+<text x="74.0" y="783.5" font-size="14.5" fill="#3a3226" textLength="227.4" lengthAdjust="spacing">pronume în Ac. sau G. cu prepoziție</text>
+<text x="399.9" y="783.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="300.6" lengthAdjust="spacing">Nu-și amintește de tine. Vina a căzut asupra lui.</text>
+<line x1="62.0" y1="793.8" x2="838.0" y2="793.8" stroke="#e3dccb"/>
+<text x="74.0" y="816.3" font-size="14.5" fill="#3a3226" textLength="207.0" lengthAdjust="spacing">numeral cu valoare pronominală</text>
+<text x="399.9" y="816.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="181.1" lengthAdjust="spacing">Se teme de doi / de al doilea.</text>
+<line x1="62.0" y1="826.6" x2="838.0" y2="826.6" stroke="#e3dccb"/>
+<text x="74.0" y="849.1" font-size="14.5" fill="#3a3226" textLength="297.2" lengthAdjust="spacing">verb sau locuțiune verbală la infinitiv sau supin</text>
+<text x="399.9" y="849.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="273.3" lengthAdjust="spacing">M-am săturat de a căuta / de căutat cartea.</text>
+<line x1="62.0" y1="859.5" x2="838.0" y2="859.5" stroke="#e3dccb"/>
+<line x1="387.9" y1="654.5" x2="387.9" y2="859.5" stroke="#e3dccb"/>
+<rect x="40" y="897.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="920.5" font-size="16" font-weight="700" fill="#ffffff">4. POZIȚIA ȘI MODELUL</text>
+<rect x="40" y="931.5" width="820" height="174.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="964.5" font-size="15" fill="#3a3226" textLength="85.0" lengthAdjust="spacing">Stă de obicei</text>
+<text x="151.1" y="964.5" font-size="15" fill="#3a3226" font-weight="700" textLength="86.5" lengthAdjust="spacing">după regent</text>
+<text x="237.6" y="964.5" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">,</text>
+<text x="245.0" y="964.5" font-size="15" fill="#3a3226" font-weight="700" textLength="81.2" lengthAdjust="spacing">fără virgulă</text>
+<text x="326.1" y="964.5" font-size="15" fill="#3a3226" textLength="298.9" lengthAdjust="spacing">. Poate sta și înainte, ca să fie pus în evidență:</text>
+<text x="629.1" y="964.5" font-size="15" fill="#10233f" font-style="italic" textLength="181.3" lengthAdjust="spacing">Despre tine vreau să vorbim</text>
+<text x="62.0" y="986.2" font-size="15" fill="#10233f" font-style="italic" textLength="39.3" lengthAdjust="spacing">acum.</text>
+<rect x="62.0" y="1004.8" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="1031.2" font-size="14.5" fill="#10233f" font-weight="700" textLength="119.9" lengthAdjust="spacing">Model de analiză:</text>
+<text x="78.0" y="1050.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="705.4" lengthAdjust="spacing">„de emoție” – complement prepozițional, exprimat prin substantiv comun, genul feminin, numărul singular, cazul</text>
+<text x="78.0" y="1071.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="350.7" lengthAdjust="spacing">acuzativ, nearticulat, precedat de prepoziția simplă „de”.</text>
+<text x="286.6" y="1137.0" font-size="11.5" fill="#5b6b83" textLength="326.8" lengthAdjust="spacing">Sursa: Manual Art 8, p. 123, rubrica Repere și modelul de analiză.</text>
 </svg>

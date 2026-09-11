@@ -1,19 +1,95 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="400" fill="#faf7f0"/>
-  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Atributiva</text>
-  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III · lecția 13 · realizarea propozițională a atributului · răspunde la care?, ce fel de?</text>
-
-  <rect x="55" y="80" width="390" height="130" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
-  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Regentul</text>
-  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="128">• un substantiv comun sau propriu</tspan><tspan x="75" y="148">• un pronume (Acela care vorbește…)</tspan><tspan x="75" y="168">• un numeral cu valoare pronominală</tspan><tspan x="75" y="192">stă totdeauna după termenul determinat,</tspan><tspan x="75" y="192"> </tspan></text>
-
-  <rect x="465" y="80" width="380" height="130" rx="14" fill="none" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="485" y="104" font-size="13" font-weight="700" fill="#10233f">Elemente de relație</text>
-  <text font-size="11" fill="#3a3226"><tspan x="485" y="126">• pronume relative (N, Ac, D, G)</tspan><tspan x="485" y="144">• adjective pronominale relative</tspan><tspan x="485" y="162">• pronume și adjective pronominale nehotărâte</tspan><tspan x="485" y="180">• adverbe relative (numai la substantive cu</tspan><tspan x="485" y="196">  idee de loc, timp, mod)</tspan><tspan x="485" y="214">• conjuncții subordonatoare</tspan></text>
-
-  <rect x="55" y="226" width="790" height="110" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
-  <text x="75" y="250" font-size="12.5" font-weight="700" fill="#10233f">Contragere și expansiune</text>
-  <text font-size="11" fill="#3a3226"><tspan x="75" y="272">contragerea: transformarea unei propoziții în partea de propoziție corespunzătoare, cu păstrarea sensului</tspan><tspan x="75" y="290">expansiunea: transformarea unei părți de propoziție în propoziția corespunzătoare (se opune contragerii)</tspan><tspan x="75" y="312">de obicei nu se desparte prin virgulă; există și atributive izolate, cu regent nume propriu sau pronume individualizat</tspan></text>
-
-  <text x="450" y="378" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 115-116</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1001" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1001" fill="#faf7f0"/>
+<text x="383.5" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="133.0" lengthAdjust="spacing">Atributiva</text>
+<text x="197.4" y="74.4" font-size="14" fill="#5b6b83" textLength="505.3" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a III-a, Lecția 13 · Manual, pp. 115-116 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ESTE ATRIBUTIVA</text>
+<rect x="40" y="128.6" width="820" height="195.9" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="76.0" lengthAdjust="spacing">Atributiva</text>
+<text x="142.3" y="162.6" font-size="16" fill="#10233f" textLength="218.5" lengthAdjust="spacing">este atributul exprimat printr-o</text>
+<text x="365.2" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="77.3" lengthAdjust="spacing">propoziție</text>
+<text x="442.5" y="162.6" font-size="16" fill="#10233f" textLength="169.9" lengthAdjust="spacing">. Răspunde la întrebările</text>
+<text x="616.7" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="38.4" lengthAdjust="spacing">care?</text>
+<text x="655.1" y="162.6" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">,</text>
+<text x="662.9" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="70.1" lengthAdjust="spacing">ce fel de?</text>
+<rect x="62.0" y="181.4" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="209.4" font-size="16" fill="#0d9c92" font-weight="700" textLength="90.7" lengthAdjust="spacing">contragerea</text>
+<text x="78.0" y="232.7" font-size="14.5" fill="#3a3226" textLength="315.4" lengthAdjust="spacing">propoziția → partea de propoziție, cu același sens</text>
+<text x="78.0" y="256.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="153.3" lengthAdjust="spacing">cartea pe care am citit-o</text>
+<text x="235.2" y="256.6" font-size="14.5" fill="#3a3226" textLength="12.5" lengthAdjust="spacing">→</text>
+<text x="251.6" y="256.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="74.0" lengthAdjust="spacing">cartea citită</text>
+<rect x="458.0" y="181.4" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="209.4" font-size="16" fill="#6f5ea8" font-weight="700" textLength="94.1" lengthAdjust="spacing">expansiunea</text>
+<text x="474.0" y="232.7" font-size="14.5" fill="#3a3226" textLength="315.4" lengthAdjust="spacing">partea de propoziție → propoziția, cu același sens</text>
+<text x="474.0" y="256.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="88.2" lengthAdjust="spacing">inima de fetru</text>
+<text x="566.1" y="256.6" font-size="14.5" fill="#3a3226" textLength="12.5" lengthAdjust="spacing">→</text>
+<text x="582.5" y="256.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="134.4" lengthAdjust="spacing">inima care e din fetru</text>
+<text x="62.0" y="302.0" font-size="15" fill="#3a3226" font-weight="700" textLength="63.6" lengthAdjust="spacing">Regentul</text>
+<text x="129.6" y="302.0" font-size="15" fill="#3a3226" textLength="71.7" lengthAdjust="spacing">poate fi un</text>
+<text x="205.4" y="302.0" font-size="15" fill="#3a3226" font-weight="700" textLength="72.9" lengthAdjust="spacing">substantiv</text>
+<text x="282.3" y="302.0" font-size="15" fill="#3a3226" textLength="159.0" lengthAdjust="spacing">(comun sau propriu), un</text>
+<text x="445.4" y="302.0" font-size="15" fill="#3a3226" font-weight="700" textLength="64.7" lengthAdjust="spacing">pronume</text>
+<text x="514.1" y="302.0" font-size="15" fill="#3a3226" textLength="43.6" lengthAdjust="spacing">sau un</text>
+<text x="561.8" y="302.0" font-size="15" fill="#3a3226" font-weight="700" textLength="58.5" lengthAdjust="spacing">numeral</text>
+<text x="624.3" y="302.0" font-size="15" fill="#3a3226" textLength="159.1" lengthAdjust="spacing">cu valoare pronominală.</text>
+<rect x="40" y="344.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="367.5" font-size="16" font-weight="700" fill="#ffffff">2. ELEMENTELE DE RELAȚIE</text>
+<rect x="40" y="378.5" width="820" height="314.8" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="396.5" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="418.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="63.5" lengthAdjust="spacing">Elementul</text>
+<text x="368.9" y="418.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="428.0" x2="838.0" y2="428.0" stroke="#e3dccb"/>
+<text x="74.0" y="450.5" font-size="14.5" fill="#3a3226" textLength="202.8" lengthAdjust="spacing">pronume relative (N., Ac., D., G.)</text>
+<text x="368.9" y="450.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="342.0" lengthAdjust="spacing">Textul 1/ pe care l-am citit 2/ mi s-a părut minunat. 1/</text>
+<line x1="62.0" y1="460.9" x2="838.0" y2="460.9" stroke="#e3dccb"/>
+<text x="74.0" y="483.4" font-size="14.5" fill="#3a3226" textLength="192.4" lengthAdjust="spacing">adjective pronominale relative</text>
+<text x="368.9" y="483.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="296.7" lengthAdjust="spacing">Hotărârea 1/ ce cărți să citim 2/ ne aparține. 1/</text>
+<line x1="62.0" y1="493.7" x2="838.0" y2="493.7" stroke="#e3dccb"/>
+<text x="74.0" y="516.2" font-size="14.5" fill="#3a3226" textLength="206.5" lengthAdjust="spacing">pronume și adjective nehotărâte</text>
+<text x="368.9" y="516.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="319.4" lengthAdjust="spacing">Speranța 1/ oricui scrie 2/ este de a avea cititori. 1/</text>
+<line x1="62.0" y1="526.6" x2="838.0" y2="526.6" stroke="#e3dccb"/>
+<text x="74.0" y="549.1" font-size="14.5" fill="#3a3226" textLength="101.9" lengthAdjust="spacing">adverbe relative</text>
+<text x="368.9" y="549.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="327.7" lengthAdjust="spacing">Momentul 1/ când ne vom întâlni 2/ l-am stabilit. 1/</text>
+<line x1="62.0" y1="559.4" x2="838.0" y2="559.4" stroke="#e3dccb"/>
+<text x="74.0" y="581.9" font-size="14.5" fill="#3a3226" textLength="168.8" lengthAdjust="spacing">conjuncții subordonatoare</text>
+<text x="368.9" y="581.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="336.2" lengthAdjust="spacing">Nu ascundea dorința 1/ să meargă la un spectacol. 2/</text>
+<line x1="62.0" y1="592.3" x2="838.0" y2="592.3" stroke="#e3dccb"/>
+<line x1="356.9" y1="396.5" x2="356.9" y2="592.3" stroke="#e3dccb"/>
+<text x="62.0" y="621.3" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="621.3" font-size="15" fill="#3a3226" textLength="245.4" lengthAdjust="spacing">Adverbele relative introduc atributive</text>
+<text x="323.6" y="621.3" font-size="15" fill="#3a3226" font-weight="700" textLength="32.5" lengthAdjust="spacing">doar</text>
+<text x="360.2" y="621.3" font-size="15" fill="#3a3226" textLength="201.6" lengthAdjust="spacing">după substantive care exprimă</text>
+<text x="565.9" y="621.3" font-size="15" fill="#3a3226" font-weight="700" textLength="166.5" lengthAdjust="spacing">locul, timpul sau modul</text>
+<text x="732.4" y="621.3" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="646.0" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="646.0" font-size="15" fill="#10233f" font-style="italic" textLength="46.8" lengthAdjust="spacing">ca ... să</text>
+<text x="125.0" y="646.0" font-size="15" fill="#3a3226" textLength="122.7" lengthAdjust="spacing">se folosește numai</text>
+<text x="251.8" y="646.0" font-size="15" fill="#3a3226" font-weight="700" textLength="63.3" lengthAdjust="spacing">despărțit</text>
+<text x="319.1" y="646.0" font-size="15" fill="#3a3226" textLength="99.9" lengthAdjust="spacing">de alte cuvinte:</text>
+<text x="423.1" y="646.0" font-size="15" fill="#10233f" font-style="italic" textLength="360.3" lengthAdjust="spacing">Dorința profesorului 1/ ca toți elevii să ia note mari 2/...</text>
+<text x="62.0" y="670.8" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="670.8" font-size="15" fill="#3a3226" textLength="165.9" lengthAdjust="spacing">În limbajul popular apare</text>
+<text x="244.1" y="670.8" font-size="15" fill="#10233f" font-style="italic" textLength="15.4" lengthAdjust="spacing">de</text>
+<text x="259.6" y="670.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="266.9" y="670.8" font-size="15" fill="#10233f" font-style="italic" textLength="230.6" lengthAdjust="spacing">Omul 1/ de-l vezi 2/ e tatăl meu. 1/</text>
+<rect x="40" y="713.3" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="736.3" font-size="16" font-weight="700" fill="#ffffff">3. POZIȚIA ȘI VIRGULA</text>
+<rect x="40" y="747.3" width="820" height="203.1" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="780.3" font-size="15" fill="#3a3226" textLength="87.7" lengthAdjust="spacing">Atributiva stă</text>
+<text x="153.8" y="780.3" font-size="15" fill="#3a3226" font-weight="700" textLength="126.1" lengthAdjust="spacing">întotdeauna după</text>
+<text x="284.0" y="780.3" font-size="15" fill="#3a3226" textLength="376.0" lengthAdjust="spacing">termenul determinat, de obicei imediat după el; adesea e</text>
+<text x="664.1" y="780.3" font-size="15" fill="#3a3226" font-weight="700" textLength="74.8" lengthAdjust="spacing">intercalată</text>
+<text x="743.0" y="780.3" font-size="15" fill="#3a3226" textLength="70.5" lengthAdjust="spacing">în regentă.</text>
+<rect x="62.0" y="798.8" width="380.0" height="133.6" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="826.8" font-size="16" fill="#0d9c92" font-weight="700" textLength="158.2" lengthAdjust="spacing">de cele mai multe ori</text>
+<text x="78.0" y="850.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="78.4" lengthAdjust="spacing">fără virgulă</text>
+<text x="78.0" y="874.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="334.1" lengthAdjust="spacing">Scriitorii 1/ pe care i-am citit 2/ m-au impresionat. 1/</text>
+<rect x="458.0" y="798.8" width="380.0" height="133.6" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="826.8" font-size="16" fill="#6f5ea8" font-weight="700" textLength="127.8" lengthAdjust="spacing">atributiva izolată</text>
+<text x="474.0" y="850.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="67.3" lengthAdjust="spacing">cu virgulă</text>
+<text x="541.3" y="850.1" font-size="14.5" fill="#3a3226" textLength="270.4" lengthAdjust="spacing">, după un nume propriu, un substantiv sau</text>
+<text x="474.0" y="871.1" font-size="14.5" fill="#3a3226" textLength="203.6" lengthAdjust="spacing">pronume puternic individualizat</text>
+<text x="474.0" y="895.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="313.2" lengthAdjust="spacing">Ana, 1/ care este prietena mea cea mai bună, 2/ a</text>
+<text x="474.0" y="916.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="73.1" lengthAdjust="spacing">întârziat. 1/</text>
+<text x="326.1" y="981.9" font-size="11.5" fill="#5b6b83" textLength="247.7" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 115-116, rubrica Repere.</text>
 </svg>

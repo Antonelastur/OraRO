@@ -1,33 +1,66 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="960" height="400" fill="#faf7f0"/>
-  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cum citesc un text discontinuu</text>
-  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 5 · Textul discontinuu</text>
-  <rect x="36" y="100" width="290" height="150" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-  <text x="56" y="130" font-size="14" font-weight="700" fill="#10233f">Ce este</text>
-  <text x="56" y="156" font-size="12" fill="#3d4a5f">hartă, tabel, diagramă,</text>
-  <text x="56" y="176" font-size="12" fill="#3d4a5f">schemă, grafic, orar</text>
-  <text x="56" y="196" font-size="12" fill="#3d4a5f"></text>
-  <text x="56" y="216" font-size="12" fill="#3d4a5f">informația nu curge</text>
-  <text x="56" y="236" font-size="12" fill="#3d4a5f">de la stânga la dreapta</text>
-  <rect x="340" y="100" width="290" height="150" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
-  <text x="360" y="130" font-size="14" font-weight="700" fill="#10233f">Cum îl citesc</text>
-  <text x="360" y="156" font-size="12" fill="#3d4a5f">1. văd cum e organizat</text>
-  <text x="360" y="176" font-size="12" fill="#3d4a5f">2. citesc legenda</text>
-  <text x="360" y="196" font-size="12" fill="#3d4a5f">3. caut ce mă interesează</text>
-  <text x="360" y="216" font-size="12" fill="#3d4a5f">4. corelez rânduri</text>
-  <text x="360" y="236" font-size="12" fill="#3d4a5f">   și coloane</text>
-  <rect x="644" y="100" width="280" height="150" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
-  <text x="664" y="130" font-size="14" font-weight="700" fill="#10233f">Ce greșesc des</text>
-  <text x="664" y="156" font-size="12" fill="#3d4a5f">sar peste legendă</text>
-  <text x="664" y="176" font-size="12" fill="#3d4a5f"></text>
-  <text x="664" y="196" font-size="12" fill="#3d4a5f">citesc liniar,</text>
-  <text x="664" y="216" font-size="12" fill="#3d4a5f">ca la un roman</text>
-  <text x="664" y="236" font-size="12" fill="#3d4a5f"></text>
-  <text x="664" y="256" font-size="12" fill="#3d4a5f">ignor scara sau unitatea</text>
-  <rect x="36" y="272" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="58" y="297" font-size="13" font-weight="700" fill="#10233f">Regula de aur</text>
-  <text x="58" y="317" font-size="12" fill="#3d4a5f">nu începe cu datele. Începe cu întrebarea „cum e organizat documentul ăsta?”. Restul vine singur.</text>
-  <rect x="36" y="336" width="888" height="56" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
-  <text x="58" y="361" font-size="13" font-weight="700" fill="#10233f">Unde îl întâlnești</text>
-  <text x="58" y="381" font-size="12" fill="#3d4a5f">la Evaluarea Națională, la geografie, la biologie, în orarul școlii și pe orice bilet de tren.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 791" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="791" fill="#faf7f0"/>
+<text x="327.2" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="245.8" lengthAdjust="spacing">Textul discontinuu</text>
+<text x="219.4" y="74.4" font-size="14" fill="#5b6b83" textLength="461.2" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a III-a, Lecția 5 · Manual, p. 106 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. TEXTELE DUPĂ FORMAT</text>
+<rect x="40" y="128.6" width="820" height="148.6" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="146.6" width="248.0" height="112.6" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="174.6" font-size="16" fill="#0d9c92" font-weight="700" textLength="66.1" lengthAdjust="spacing">continue</text>
+<text x="78.0" y="197.9" font-size="14.5" fill="#3a3226" textLength="194.6" lengthAdjust="spacing">propoziții și paragrafe înșiruite</text>
+<text x="78.0" y="221.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="153.4" lengthAdjust="spacing">eseuri, rapoarte, romane</text>
+<rect x="326.0" y="146.6" width="248.0" height="112.6" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="342.0" y="174.6" font-size="16" fill="#6f5ea8" font-weight="700" textLength="87.5" lengthAdjust="spacing">discontinue</text>
+<text x="342.0" y="197.9" font-size="14.5" fill="#3a3226" textLength="133.8" lengthAdjust="spacing">informații prezentate</text>
+<text x="479.7" y="197.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="51.3" lengthAdjust="spacing">neliniar</text>
+<text x="342.0" y="221.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="177.3" lengthAdjust="spacing">liste, tabele, hărți, diagrame,</text>
+<text x="342.0" y="242.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="90.2" lengthAdjust="spacing">reclame, orare</text>
+<rect x="590.0" y="146.6" width="248.0" height="112.6" rx="12" fill="#ffffff" stroke="#9a7433" stroke-width="2"/>
+<text x="606.0" y="174.6" font-size="16" fill="#9a7433" font-weight="700" textLength="42.9" lengthAdjust="spacing">mixte</text>
+<text x="606.0" y="197.9" font-size="14.5" fill="#3a3226" textLength="205.9" lengthAdjust="spacing">secvențe continue + imagini sau</text>
+<text x="606.0" y="218.9" font-size="14.5" fill="#3a3226" textLength="43.2" lengthAdjust="spacing">grafice</text>
+<text x="606.0" y="242.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="116.0" lengthAdjust="spacing">reviste, pagini web</text>
+<rect x="40" y="297.2" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="320.2" font-size="16" font-weight="700" fill="#ffffff">2. TEXTUL DISCONTINUU</text>
+<rect x="40" y="331.2" width="820" height="80.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="365.2" font-size="16" fill="#10233f" font-weight="700" textLength="140.5" lengthAdjust="spacing">Textul discontinuu</text>
+<text x="206.8" y="365.2" font-size="16" fill="#10233f" textLength="127.7" lengthAdjust="spacing">este un document</text>
+<text x="338.8" y="365.2" font-size="16" fill="#10233f" font-weight="700" textLength="43.7" lengthAdjust="spacing">vizual</text>
+<text x="382.5" y="365.2" font-size="16" fill="#10233f" textLength="343.4" lengthAdjust="spacing">, neorganizat în propoziții și paragrafe. De aceea,</text>
+<text x="730.1" y="365.2" font-size="16" fill="#10233f" font-weight="700" textLength="99.0" lengthAdjust="spacing">lectura lui nu</text>
+<text x="62.0" y="388.4" font-size="16" fill="#10233f" font-weight="700" textLength="81.9" lengthAdjust="spacing">este liniară</text>
+<text x="143.9" y="388.4" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<rect x="40" y="431.2" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="454.2" font-size="16" font-weight="700" fill="#ffffff">3. CUM ÎL CITESC</text>
+<rect x="40" y="465.2" width="820" height="275.3" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="498.2" font-size="15" fill="#3a3226" textLength="78.3" lengthAdjust="spacing">Întâi înțeleg</text>
+<text x="144.4" y="498.2" font-size="15" fill="#3a3226" font-weight="700" textLength="146.7" lengthAdjust="spacing">modul de organizare</text>
+<text x="295.1" y="498.2" font-size="15" fill="#3a3226" textLength="110.4" lengthAdjust="spacing">al documentului:</text>
+<rect x="62.0" y="516.7" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="538.2" font-size="13.5" fill="#10233f" font-weight="700" textLength="78.2" lengthAdjust="spacing">Documentul</text>
+<text x="268.0" y="538.2" font-size="13.5" fill="#10233f" font-weight="700" textLength="38.3" lengthAdjust="spacing">Ce fac</text>
+<line x1="62.0" y1="548.2" x2="838.0" y2="548.2" stroke="#e3dccb"/>
+<text x="74.0" y="570.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="47.3" lengthAdjust="spacing">tabelul</text>
+<text x="268.0" y="570.8" font-size="14.5" fill="#3a3226" textLength="177.3" lengthAdjust="spacing">aflu ce informații are fiecare</text>
+<text x="449.2" y="570.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="53.2" lengthAdjust="spacing">coloană</text>
+<text x="506.4" y="570.8" font-size="14.5" fill="#3a3226" textLength="55.7" lengthAdjust="spacing">și fiecare</text>
+<text x="566.0" y="570.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="31.5" lengthAdjust="spacing">rând</text>
+<line x1="62.0" y1="581.1" x2="838.0" y2="581.1" stroke="#e3dccb"/>
+<text x="74.0" y="603.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="64.7" lengthAdjust="spacing">diagrama</text>
+<text x="268.0" y="603.6" font-size="14.5" fill="#3a3226" textLength="188.9" lengthAdjust="spacing">corelez informațiile așezate în</text>
+<text x="460.8" y="603.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="96.4" lengthAdjust="spacing">poziții diferite</text>
+<line x1="62.0" y1="614.0" x2="838.0" y2="614.0" stroke="#e3dccb"/>
+<text x="74.0" y="636.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="35.8" lengthAdjust="spacing">harta</text>
+<text x="268.0" y="636.5" font-size="14.5" fill="#3a3226" textLength="112.4" lengthAdjust="spacing">mă orientez după</text>
+<text x="384.3" y="636.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="44.1" lengthAdjust="spacing">repere</text>
+<text x="432.3" y="636.5" font-size="14.5" fill="#3a3226" textLength="348.9" lengthAdjust="spacing">(legendă, puncte cardinale, nume) ca să găsesc locurile</text>
+<line x1="62.0" y1="646.8" x2="838.0" y2="646.8" stroke="#e3dccb"/>
+<line x1="256.0" y1="516.7" x2="256.0" y2="646.8" stroke="#e3dccb"/>
+<rect x="62.0" y="660.8" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><text x="78.0" y="687.3" font-size="14.5" fill="#10233f" font-weight="700" textLength="100.5" lengthAdjust="spacing">Și în literatură:</text>
+<text x="78.0" y="706.1" font-size="14.5" fill="#3a3226" textLength="120.3" lengthAdjust="spacing">unele romane au o</text>
+<text x="202.3" y="706.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="35.8" lengthAdjust="spacing">hartă</text>
+<text x="242.0" y="706.1" font-size="14.5" fill="#3a3226" textLength="443.7" lengthAdjust="spacing">a lumii inventate de autor (de exemplu, harta lui Norton Juster pentru</text>
+<text x="689.6" y="706.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="94.2" lengthAdjust="spacing">Vama fantomă</text>
+<text x="783.9" y="706.1" font-size="14.5" fill="#3a3226" textLength="7.5" lengthAdjust="spacing">).</text>
+<text x="341.2" y="772.0" font-size="11.5" fill="#5b6b83" textLength="217.7" lengthAdjust="spacing">Sursa: Manual Art 8, p. 106, rubrica Repere.</text>
 </svg>

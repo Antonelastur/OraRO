@@ -1,32 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="960" height="400" fill="#faf7f0"/>
-  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Ce face un text să fie ficțional</text>
-  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 2 · Lumea ficțională</text>
-  <rect x="36" y="100" width="290" height="152" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-  <text x="56" y="130" font-size="14" font-weight="700" fill="#10233f">O lume construită</text>
-  <text x="56" y="156" font-size="12" fill="#3d4a5f">cu ajutorul limbajului</text>
-  <text x="56" y="176" font-size="12" fill="#3d4a5f"></text>
-  <text x="56" y="196" font-size="12" fill="#3d4a5f">poate semăna cu realitatea</text>
-  <text x="56" y="216" font-size="12" fill="#3d4a5f">sau se poate depărta</text>
-  <text x="56" y="236" font-size="12" fill="#3d4a5f">oricât de mult</text>
-  <rect x="340" y="100" width="290" height="152" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
-  <text x="360" y="130" font-size="14" font-weight="700" fill="#10233f">Un pact cu cititorul</text>
-  <text x="360" y="156" font-size="12" fill="#3d4a5f">știu că nu e adevărat</text>
-  <text x="360" y="176" font-size="12" fill="#3d4a5f">și accept asta</text>
-  <text x="360" y="196" font-size="12" fill="#3d4a5f"></text>
-  <text x="360" y="216" font-size="12" fill="#3d4a5f">nu întreb dacă</text>
-  <text x="360" y="236" font-size="12" fill="#3d4a5f">s-a întâmplat cu adevărat</text>
-  <rect x="644" y="100" width="280" height="152" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
-  <text x="664" y="130" font-size="14" font-weight="700" fill="#10233f">Binomul fantastic</text>
-  <text x="664" y="156" font-size="12" fill="#3d4a5f">două cuvinte fără legătură,</text>
-  <text x="664" y="176" font-size="12" fill="#3d4a5f">alăturate</text>
-  <text x="664" y="196" font-size="12" fill="#3d4a5f"></text>
-  <text x="664" y="216" font-size="12" fill="#3d4a5f">din alăturare se naște</text>
-  <text x="664" y="236" font-size="12" fill="#3d4a5f">o lume nouă</text>
-  <rect x="36" y="274" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="58" y="299" font-size="13" font-weight="700" fill="#10233f">Ficțional nu înseamnă fals</text>
-  <text x="58" y="319" font-size="12" fill="#3d4a5f">înseamnă inventat. Un text ficțional poate spune adevăruri despre oameni, chiar dacă întâmplarea nu s-a petrecut.</text>
-  <rect x="36" y="338" width="888" height="56" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
-  <text x="58" y="363" font-size="13" font-weight="700" fill="#10233f">Proba</text>
-  <text x="58" y="383" font-size="12" fill="#3d4a5f">întreabă-te dacă are sens să verifici informația. La un text ficțional, întrebarea nu se pune.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 890" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="890" fill="#faf7f0"/>
+<text x="341.1" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="218.1" lengthAdjust="spacing">Lumea ficțională</text>
+<text x="201.2" y="74.4" font-size="14" fill="#5b6b83" textLength="497.7" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a III-a, Lecția 2 · Manual, pp. 101-102 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. FICȚIUNEA</text>
+<rect x="40" y="128.6" width="820" height="115.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="68.0" lengthAdjust="spacing">Ficțiunea</text>
+<text x="134.3" y="162.6" font-size="16" fill="#10233f" textLength="97.3" lengthAdjust="spacing">(din latinescul</text>
+<text x="235.9" y="162.6" font-size="16" fill="#10233f" font-style="italic" textLength="33.9" lengthAdjust="spacing">fictio</text>
+<text x="269.8" y="162.6" font-size="16" fill="#10233f" textLength="315.7" lengthAdjust="spacing">, „născocire”) este o reprezentare produsă de</text>
+<text x="589.8" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="80.0" lengthAdjust="spacing">imaginația</text>
+<text x="674.1" y="162.6" font-size="16" fill="#10233f" textLength="39.7" lengthAdjust="spacing">cuiva.</text>
+<text x="62.0" y="196.4" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="196.4" font-size="15" fill="#3a3226" textLength="370.2" lengthAdjust="spacing">Apare în arte, în filme, în jocuri video: toate au în comun</text>
+<text x="448.4" y="196.4" font-size="15" fill="#3a3226" font-weight="700" textLength="56.8" lengthAdjust="spacing">invenția</text>
+<text x="505.3" y="196.4" font-size="15" fill="#3a3226" textLength="167.1" lengthAdjust="spacing">, evenimente și personaje</text>
+<text x="676.4" y="196.4" font-size="15" fill="#3a3226" font-weight="700" textLength="71.0" lengthAdjust="spacing">imaginare</text>
+<text x="747.4" y="196.4" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="221.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="221.1" font-size="15" fill="#3a3226" textLength="537.1" lengthAdjust="spacing">În sens restrâns, înseamnă narațiunile în proză; e folosit adesea ca sinonim pentru</text>
+<text x="615.4" y="221.1" font-size="15" fill="#3a3226" font-weight="700" textLength="46.2" lengthAdjust="spacing">roman</text>
+<text x="661.6" y="221.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="40" y="263.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="286.6" font-size="16" font-weight="700" fill="#ffffff">2. FICȚIUNEA LITERARĂ</text>
+<rect x="40" y="297.6" width="820" height="174.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="330.6" font-size="15" fill="#3a3226" font-weight="700" textLength="118.5" lengthAdjust="spacing">Ficțiunea literară</text>
+<text x="184.6" y="330.6" font-size="15" fill="#3a3226" textLength="39.9" lengthAdjust="spacing">este o</text>
+<text x="228.5" y="330.6" font-size="15" fill="#3a3226" font-weight="700" textLength="106.0" lengthAdjust="spacing">lume inventată</text>
+<text x="334.5" y="330.6" font-size="15" fill="#3a3226" textLength="147.9" lengthAdjust="spacing">, construită cu ajutorul</text>
+<text x="486.5" y="330.6" font-size="15" fill="#3a3226" font-weight="700" textLength="70.5" lengthAdjust="spacing">limbajului</text>
+<text x="557.0" y="330.6" font-size="15" fill="#3a3226" textLength="254.6" lengthAdjust="spacing">, mai apropiată sau mai îndepărtată de</text>
+<text x="62.0" y="352.4" font-size="15" fill="#3a3226" textLength="56.8" lengthAdjust="spacing">realitate.</text>
+<rect x="62.0" y="370.9" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="397.4" font-size="14.5" fill="#10233f" font-weight="700" textLength="117.0" lengthAdjust="spacing">Pactul cititorului:</text>
+<text x="78.0" y="416.2" font-size="14.5" fill="#3a3226" textLength="524.9" lengthAdjust="spacing">când intră într-o lume ficțională, cititorul acceptă că nu va găsi o lume reală, ci una</text>
+<text x="606.8" y="416.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="64.4" lengthAdjust="spacing">inventată</text>
+<text x="671.2" y="416.2" font-size="14.5" fill="#3a3226" textLength="123.8" lengthAdjust="spacing">, prin care autorul îi</text>
+<text x="78.0" y="437.3" font-size="14.5" fill="#3a3226" textLength="61.8" lengthAdjust="spacing">comunică</text>
+<text x="143.7" y="437.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="270.3" lengthAdjust="spacing">felul în care percepe sau înțelege lumea</text>
+<text x="414.0" y="437.3" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<rect x="40" y="491.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="514.6" font-size="16" font-weight="700" fill="#ffffff">3. LIMBAJUL CREEAZĂ LUMEA</text>
+<rect x="40" y="525.6" width="820" height="182.1" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="558.6" font-size="15" fill="#3a3226" textLength="381.6" lengthAdjust="spacing">Felul în care cititorul înțelege lumea ficțională depinde de:</text>
+<rect x="62.0" y="577.1" width="248.0" height="112.6" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="605.1" font-size="16" fill="#0d9c92" font-weight="700" textLength="55.2" lengthAdjust="spacing">cuvinte</text>
+<text x="78.0" y="628.4" font-size="14.5" fill="#3a3226" textLength="121.7" lengthAdjust="spacing">alegerea cuvintelor</text>
+<text x="78.0" y="652.3" font-size="14.5" fill="#3a3226" textLength="170.1" lengthAdjust="spacing">combinarea lor în enunțuri</text>
+<rect x="326.0" y="577.1" width="248.0" height="112.6" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="342.0" y="605.1" font-size="16" fill="#6f5ea8" font-weight="700" textLength="80.3" lengthAdjust="spacing">organizare</text>
+<text x="342.0" y="628.4" font-size="14.5" fill="#3a3226" textLength="72.5" lengthAdjust="spacing">paragrafele</text>
+<text x="342.0" y="652.3" font-size="14.5" fill="#3a3226" textLength="169.6" lengthAdjust="spacing">așezarea textului în pagină</text>
+<rect x="590.0" y="577.1" width="248.0" height="112.6" rx="12" fill="#ffffff" stroke="#9a7433" stroke-width="2"/>
+<text x="606.0" y="605.1" font-size="16" fill="#9a7433" font-weight="700" textLength="49.3" lengthAdjust="spacing">scriere</text>
+<text x="606.0" y="628.4" font-size="14.5" fill="#3a3226" textLength="63.5" lengthAdjust="spacing">ortografia</text>
+<text x="606.0" y="652.3" font-size="14.5" fill="#3a3226" textLength="154.1" lengthAdjust="spacing">punctuația (de exemplu,</text>
+<text x="606.0" y="673.4" font-size="14.5" fill="#3a3226" textLength="157.9" lengthAdjust="spacing">majusculele neobișnuite)</text>
+<rect x="40" y="727.7" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="750.7" font-size="16" font-weight="700" fill="#ffffff">4. CUM SE NAȘTE O POVESTE</text>
+<rect x="40" y="761.7" width="820" height="77.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="794.7" font-size="15" fill="#3a3226" textLength="309.1" lengthAdjust="spacing">Gianni Rodari: o povestire poate porni de la un</text>
+<text x="375.2" y="794.7" font-size="15" fill="#3a3226" font-weight="700" textLength="125.2" lengthAdjust="spacing">„binom fantastic”</text>
+<text x="500.4" y="794.7" font-size="15" fill="#3a3226" textLength="131.7" lengthAdjust="spacing">, adică două cuvinte</text>
+<text x="636.2" y="794.7" font-size="15" fill="#3a3226" font-weight="700" textLength="82.1" lengthAdjust="spacing">îndepărtate</text>
+<text x="722.3" y="794.7" font-size="15" fill="#3a3226" textLength="72.8" lengthAdjust="spacing">ca sens (de</text>
+<text x="62.0" y="816.5" font-size="15" fill="#3a3226" textLength="59.7" lengthAdjust="spacing">exemplu,</text>
+<text x="125.7" y="816.5" font-size="15" fill="#10233f" font-style="italic" textLength="45.6" lengthAdjust="spacing">lumină</text>
+<text x="175.4" y="816.5" font-size="15" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">și</text>
+<text x="189.3" y="816.5" font-size="15" fill="#10233f" font-style="italic" textLength="45.9" lengthAdjust="spacing">pantofi</text>
+<text x="235.2" y="816.5" font-size="15" fill="#3a3226" textLength="414.7" lengthAdjust="spacing">). Imaginația caută o lume în care cele două să poată conviețui.</text>
+<text x="123.3" y="870.5" font-size="11.5" fill="#5b6b83" textLength="653.4" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 101-102, rubricile Repere și Provocări; textul de bază este „În Țara-Obiectelor-cu-Suflet” de Angela Baciu.</text>
 </svg>

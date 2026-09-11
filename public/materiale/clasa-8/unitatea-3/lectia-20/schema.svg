@@ -1,25 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="940" height="400" fill="#faf7f0"/>
-  <text x="470" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Comparație și analogie</text>
-  <text x="470" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 20 · Tipare textuale de structurare a ideilor</text>
-  <rect x="36" y="100" width="420" height="156" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-  <text x="56" y="130" font-size="14" font-weight="700" fill="#10233f">COMPARAȚIA</text>
-  <text x="56" y="156" font-size="12" fill="#3d4a5f">Pun două lucruri alături</text>
-  <text x="56" y="176" font-size="12" fill="#3d4a5f">și le urmăresc pe criterii.</text>
-  <text x="56" y="196" font-size="12" fill="#3d4a5f"></text>
-  <text x="56" y="216" font-size="12" fill="#3d4a5f">Criteriile trebuie să fie</text>
-  <text x="56" y="236" font-size="12" fill="#3d4a5f">aceleași pentru amândouă.</text>
-  <rect x="484" y="100" width="420" height="156" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
-  <text x="504" y="130" font-size="14" font-weight="700" fill="#10233f">ANALOGIA</text>
-  <text x="504" y="156" font-size="12" fill="#3d4a5f">Explic ceva necunoscut</text>
-  <text x="504" y="176" font-size="12" fill="#3d4a5f">prin ceva cunoscut.</text>
-  <text x="504" y="196" font-size="12" fill="#3d4a5f"></text>
-  <text x="504" y="216" font-size="12" fill="#3d4a5f">Asemănarea e parțială:</text>
-  <text x="504" y="236" font-size="12" fill="#3d4a5f">seamănă într-o privință.</text>
-  <rect x="36" y="280" width="868" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="58" y="305" font-size="13" font-weight="700" fill="#10233f">Exemplu de analogie</text>
-  <text x="58" y="325" font-size="12" fill="#3d4a5f">structura atomului seamănă cu Sistemul Solar. Nu e la fel, dar imaginea te ajută să înțelegi.</text>
-  <rect x="36" y="344" width="868" height="56" rx="14" fill="#ffffff" stroke="#c1503a" stroke-width="2"/>
-  <text x="58" y="369" font-size="13" font-weight="700" fill="#10233f">Capcana analogiei</text>
-  <text x="58" y="389" font-size="12" fill="#3d4a5f">dacă o duci prea departe, te înșală. Atomul NU e un sistem solar; doar seamănă într-un singur punct.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 873" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="873" fill="#faf7f0"/>
+<text x="194.9" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="511.3" lengthAdjust="spacing">Tipare textuale: comparația și analogia</text>
+<text x="197.4" y="74.4" font-size="14" fill="#5b6b83" textLength="505.3" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a III-a, Lecția 20 · Manual, pp. 126-127 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. COMPARAȚIA</text>
+<rect x="40" y="128.6" width="820" height="245.1" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" textLength="10.4" lengthAdjust="spacing">A</text>
+<text x="76.7" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="65.8" lengthAdjust="spacing">compara</text>
+<text x="146.8" y="162.6" font-size="16" fill="#10233f" textLength="682.1" lengthAdjust="spacing">două sau mai multe elemente (obiecte, persoane, idei, emoții, fenomene) înseamnă a le evidenția</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="90.1" lengthAdjust="spacing">asemănările</text>
+<text x="156.4" y="185.8" font-size="16" fill="#10233f" textLength="10.6" lengthAdjust="spacing">și</text>
+<text x="171.3" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="82.4" lengthAdjust="spacing">deosebirile</text>
+<text x="253.7" y="185.8" font-size="16" fill="#10233f" textLength="44.0" lengthAdjust="spacing">, după</text>
+<text x="302.0" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="48.8" lengthAdjust="spacing">criterii</text>
+<text x="355.1" y="185.8" font-size="16" fill="#10233f" textLength="62.6" lengthAdjust="spacing">potrivite.</text>
+<rect x="62.0" y="204.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="226.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="42.7" lengthAdjust="spacing">Gradul</text>
+<text x="384.4" y="226.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="53.6" lengthAdjust="spacing">Mijloace</text>
+<line x1="62.0" y1="236.2" x2="838.0" y2="236.2" stroke="#e3dccb"/>
+<text x="74.0" y="258.6" font-size="14.5" fill="#3a3226" textLength="91.5" lengthAdjust="spacing">comparativ de</text>
+<text x="169.4" y="258.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="59.7" lengthAdjust="spacing">egalitate</text>
+<text x="384.4" y="258.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="320.9" lengthAdjust="spacing">tot atât de..., la fel de..., tot așa de..., deopotrivă de...</text>
+<line x1="62.0" y1="269.0" x2="838.0" y2="269.0" stroke="#e3dccb"/>
+<text x="74.0" y="291.5" font-size="14.5" fill="#3a3226" textLength="91.5" lengthAdjust="spacing">comparativ de</text>
+<text x="169.4" y="291.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="87.6" lengthAdjust="spacing">superioritate</text>
+<text x="260.9" y="291.5" font-size="14.5" fill="#3a3226" textLength="5.7" lengthAdjust="spacing">/</text>
+<text x="270.5" y="291.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="81.8" lengthAdjust="spacing">inferioritate</text>
+<text x="384.4" y="291.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="117.3" lengthAdjust="spacing">mai... / mai puțin...</text>
+<line x1="62.0" y1="301.9" x2="838.0" y2="301.9" stroke="#e3dccb"/>
+<text x="74.0" y="324.4" font-size="14.5" fill="#3a3226" textLength="218.9" lengthAdjust="spacing">superlativ relativ de superioritate /</text>
+<text x="74.0" y="345.4" font-size="14.5" fill="#3a3226" textLength="74.2" lengthAdjust="spacing">inferioritate</text>
+<text x="384.4" y="324.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="227.5" lengthAdjust="spacing">cel (cea) mai... / cel (cea) mai puțin...</text>
+<line x1="62.0" y1="355.7" x2="838.0" y2="355.7" stroke="#e3dccb"/>
+<line x1="372.4" y1="204.6" x2="372.4" y2="355.7" stroke="#e3dccb"/>
+<rect x="40" y="393.7" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="416.7" font-size="16" font-weight="700" fill="#ffffff">2. ANALOGIA</text>
+<rect x="40" y="427.7" width="820" height="210.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="461.7" font-size="16" fill="#10233f" font-weight="700" textLength="66.9" lengthAdjust="spacing">Analogia</text>
+<text x="133.2" y="461.7" font-size="16" fill="#10233f" textLength="377.9" lengthAdjust="spacing">compară noțiuni, situații, fenomene între care există o</text>
+<text x="515.4" y="461.7" font-size="16" fill="#10233f" font-weight="700" textLength="143.0" lengthAdjust="spacing">asemănare parțială</text>
+<text x="658.5" y="461.7" font-size="16" fill="#10233f" textLength="110.2" lengthAdjust="spacing">. Explică noțiuni</text>
+<text x="62.0" y="484.9" font-size="16" fill="#10233f" font-weight="700" textLength="69.4" lengthAdjust="spacing">abstracte</text>
+<text x="135.8" y="484.9" font-size="16" fill="#10233f" textLength="97.8" lengthAdjust="spacing">prin elemente</text>
+<text x="237.8" y="484.9" font-size="16" fill="#10233f" font-weight="700" textLength="140.2" lengthAdjust="spacing">concrete, familiare</text>
+<text x="378.0" y="484.9" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="503.7" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="530.2" font-size="14.5" fill="#10233f" font-weight="700" textLength="128.3" lengthAdjust="spacing">Model din manual:</text>
+<text x="78.0" y="549.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="720.1" lengthAdjust="spacing">Lectura este ca o călătorie. Când citești, poți descoperi, la fel ca atunci când călătorești, o diversitate de locuri, tipuri</text>
+<text x="78.0" y="570.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="182.8" lengthAdjust="spacing">umane, situații, emoții și idei.</text>
+<text x="62.0" y="615.5" font-size="15" fill="#3a3226" textLength="311.1" lengthAdjust="spacing">Observ: numesc cele două elemente, apoi spun</text>
+<text x="377.2" y="615.5" font-size="15" fill="#3a3226" font-weight="700" textLength="107.0" lengthAdjust="spacing">ce au în comun</text>
+<text x="488.2" y="615.5" font-size="15" fill="#3a3226" textLength="107.4" lengthAdjust="spacing">(baza analogiei).</text>
+<rect x="40" y="658.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="681.0" font-size="16" font-weight="700" fill="#ffffff">3. CÂND SCRIU UN TEXT COMPARATIV</text>
+<rect x="40" y="692.0" width="820" height="129.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="725.0" font-size="15" fill="#3a3226" font-weight="700">1.</text>
+<text x="81.0" y="725.0" font-size="15" fill="#3a3226" textLength="56.1" lengthAdjust="spacing">stabilesc</text>
+<text x="141.1" y="725.0" font-size="15" fill="#3a3226" font-weight="700" textLength="58.0" lengthAdjust="spacing">criteriile</text>
+<text x="199.2" y="725.0" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">;</text>
+<text x="62.0" y="749.7" font-size="15" fill="#3a3226" font-weight="700">2.</text>
+<text x="81.0" y="749.7" font-size="15" fill="#3a3226" textLength="45.9" lengthAdjust="spacing">prezint</text>
+<text x="130.9" y="749.7" font-size="15" fill="#3a3226" font-weight="700" textLength="126.3" lengthAdjust="spacing">aspectele comune</text>
+<text x="261.2" y="749.7" font-size="15" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">și</text>
+<text x="275.2" y="749.7" font-size="15" fill="#3a3226" font-weight="700" textLength="121.2" lengthAdjust="spacing">aspectele diferite</text>
+<text x="396.4" y="749.7" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">;</text>
+<text x="62.0" y="774.5" font-size="15" fill="#3a3226" font-weight="700">3.</text>
+<text x="81.0" y="774.5" font-size="15" fill="#3a3226" textLength="54.5" lengthAdjust="spacing">adaug o</text>
+<text x="139.5" y="774.5" font-size="15" fill="#3a3226" font-weight="700" textLength="60.3" lengthAdjust="spacing">analogie</text>
+<text x="203.8" y="774.5" font-size="15" fill="#3a3226" textLength="58.5" lengthAdjust="spacing">potrivită;</text>
+<text x="62.0" y="799.2" font-size="15" fill="#3a3226" font-weight="700">4.</text>
+<text x="81.0" y="799.2" font-size="15" fill="#3a3226" textLength="430.0" lengthAdjust="spacing">verific: text coerent, clar structurat, exprimare nuanțată și corectă.</text>
+<text x="219.0" y="853.2" font-size="11.5" fill="#5b6b83" textLength="462.1" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 126-127, rubrica Repere, modelul din Explorare și grila de evaluare.</text>
 </svg>

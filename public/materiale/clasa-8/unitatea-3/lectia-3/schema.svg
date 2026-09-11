@@ -1,36 +1,83 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 430" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="1000" height="430" fill="#faf7f0"/>
-  <text x="500" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cele cinci structuri textuale și cum se îmbină</text>
-  <text x="500" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 3 · Combinarea structurilor textuale</text>
-  <rect x="36" y="104" width="168" height="86" rx="14" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-  <text x="120" y="136" text-anchor="middle" font-size="14" font-weight="700" fill="#3b5fa8">Narativ</text>
-  <text x="120" y="162" text-anchor="middle" font-size="12" font-style="italic" fill="#5b6b83">ce se întâmplă?</text>
-  <rect x="224" y="104" width="168" height="86" rx="14" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
-  <text x="308" y="136" text-anchor="middle" font-size="14" font-weight="700" fill="#a1417e">Descriptiv</text>
-  <text x="308" y="162" text-anchor="middle" font-size="12" font-style="italic" fill="#5b6b83">cum arată?</text>
-  <rect x="412" y="104" width="168" height="86" rx="14" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
-  <text x="496" y="136" text-anchor="middle" font-size="14" font-weight="700" fill="#1c7f5e">Dialogat</text>
-  <text x="496" y="162" text-anchor="middle" font-size="12" font-style="italic" fill="#5b6b83">cine vorbește?</text>
-  <rect x="600" y="104" width="168" height="86" rx="14" fill="#ffffff" stroke="#b0512f" stroke-width="2.5"/>
-  <text x="684" y="136" text-anchor="middle" font-size="14" font-weight="700" fill="#b0512f">Explicativ</text>
-  <text x="684" y="162" text-anchor="middle" font-size="12" font-style="italic" fill="#5b6b83">cum funcționează?</text>
-  <rect x="788" y="104" width="168" height="86" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2.5"/>
-  <text x="872" y="136" text-anchor="middle" font-size="14" font-weight="700" fill="#6f5ea8">Argumentativ</text>
-  <text x="872" y="162" text-anchor="middle" font-size="12" font-style="italic" fill="#5b6b83">de ce?</text>
-  <text x="500" y="230" text-anchor="middle" font-size="15" font-weight="700" fill="#10233f">Trei feluri de a le îmbina</text>
-  <rect x="36" y="250" width="292" height="108" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-  <text x="56" y="280" font-size="14" font-weight="700" fill="#10233f">Succesiune</text>
-  <text x="56" y="306" font-size="12" fill="#3d4a5f">una după alta,</text>
-  <text x="56" y="326" font-size="12" fill="#3d4a5f">pe rând</text>
-  <rect x="352" y="250" width="292" height="108" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
-  <text x="372" y="280" font-size="14" font-weight="700" fill="#10233f">Alternanță</text>
-  <text x="372" y="306" font-size="12" fill="#3d4a5f">se schimbă între ele,</text>
-  <text x="372" y="326" font-size="12" fill="#3d4a5f">de mai multe ori</text>
-  <rect x="668" y="250" width="292" height="108" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
-  <text x="688" y="280" font-size="14" font-weight="700" fill="#10233f">Inserție</text>
-  <text x="688" y="306" font-size="12" fill="#3d4a5f">una e cuprinsă</text>
-  <text x="688" y="326" font-size="12" fill="#3d4a5f">în interiorul alteia</text>
-  <rect x="36" y="374" width="928" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="58" y="399" font-size="13" font-weight="700" fill="#10233f">De ce contează</text>
-  <text x="58" y="419" font-size="12" fill="#3d4a5f">un text bun nu folosește o singură structură. Recunoașterea lor te ajută să înțelegi de ce autorul a construit așa.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 983" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="983" fill="#faf7f0"/>
+<text x="235.1" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="430.4" lengthAdjust="spacing">Combinarea structurilor textuale</text>
+<text x="201.2" y="74.4" font-size="14" fill="#5b6b83" textLength="497.7" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a III-a, Lecția 3 · Manual, pp. 103-104 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. STRUCTURILE TEXTUALE ȘI ÎNTREBĂRILE LOR</text>
+<rect x="40" y="128.6" width="820" height="336.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="146.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="59.1" lengthAdjust="spacing">Structura</text>
+<text x="213.7" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="45.6" lengthAdjust="spacing">Ce face</text>
+<text x="555.1" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="77.4" lengthAdjust="spacing">Răspunde la</text>
+<line x1="62.0" y1="178.2" x2="838.0" y2="178.2" stroke="#e3dccb"/>
+<text x="74.0" y="200.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="55.7" lengthAdjust="spacing">narativă</text>
+<text x="213.7" y="200.7" font-size="14.5" fill="#3a3226" textLength="234.9" lengthAdjust="spacing">prezintă întâmplări, raportate la timp</text>
+<text x="555.1" y="200.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="268.5" lengthAdjust="spacing">cine? ce face? unde? când? în ce ordine? de</text>
+<text x="555.1" y="221.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="108.3" lengthAdjust="spacing">ce? cu ce urmări?</text>
+<line x1="62.0" y1="232.0" x2="838.0" y2="232.0" stroke="#e3dccb"/>
+<text x="74.0" y="254.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="74.4" lengthAdjust="spacing">descriptivă</text>
+<text x="213.7" y="254.5" font-size="14.5" fill="#3a3226" textLength="296.5" lengthAdjust="spacing">informații despre personaje, peisaje, obiecte în</text>
+<text x="213.7" y="275.5" font-size="14.5" fill="#3a3226" textLength="38.7" lengthAdjust="spacing">spațiu</text>
+<text x="555.1" y="254.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="269.2" lengthAdjust="spacing">ce descrie? cum arată? din ce e compus? ce</text>
+<text x="555.1" y="275.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="83.4" lengthAdjust="spacing">trăsături are?</text>
+<line x1="62.0" y1="285.9" x2="838.0" y2="285.9" stroke="#e3dccb"/>
+<text x="74.0" y="308.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="64.1" lengthAdjust="spacing">dialogată</text>
+<text x="213.7" y="308.4" font-size="14.5" fill="#3a3226" textLength="286.1" lengthAdjust="spacing">replicile personajelor; le caracterizează și dau</text>
+<text x="213.7" y="329.4" font-size="14.5" fill="#3a3226" textLength="136.6" lengthAdjust="spacing">detalii despre acțiune</text>
+<text x="555.1" y="308.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="204.6" lengthAdjust="spacing">cine vorbește? despre ce discută?</text>
+<line x1="62.0" y1="339.8" x2="838.0" y2="339.8" stroke="#e3dccb"/>
+<text x="74.0" y="362.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="73.1" lengthAdjust="spacing">explicativă</text>
+<text x="213.7" y="362.3" font-size="14.5" fill="#3a3226" textLength="261.9" lengthAdjust="spacing">explicații pentru acțiuni, comportamente,</text>
+<text x="213.7" y="383.3" font-size="14.5" fill="#3a3226" textLength="178.9" lengthAdjust="spacing">elemente ale lumii ficționale</text>
+<text x="555.1" y="362.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="97.3" lengthAdjust="spacing">cum se explică?</text>
+<line x1="62.0" y1="393.6" x2="838.0" y2="393.6" stroke="#e3dccb"/>
+<text x="74.0" y="416.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="100.3" lengthAdjust="spacing">argumentativă</text>
+<text x="213.7" y="416.1" font-size="14.5" fill="#3a3226" textLength="279.1" lengthAdjust="spacing">susține un punct de vedere cu argumente și</text>
+<text x="213.7" y="437.2" font-size="14.5" fill="#3a3226" textLength="53.8" lengthAdjust="spacing">exemple</text>
+<text x="555.1" y="416.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="38.6" lengthAdjust="spacing">de ce?</text>
+<line x1="62.0" y1="447.5" x2="838.0" y2="447.5" stroke="#e3dccb"/>
+<line x1="201.7" y1="146.6" x2="201.7" y2="447.5" stroke="#e3dccb"/>
+<line x1="543.1" y1="146.6" x2="543.1" y2="447.5" stroke="#e3dccb"/>
+<rect x="40" y="485.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="508.5" font-size="16" font-weight="700" fill="#ffffff">2. DE CE LE COMBINĂ AUTORII</text>
+<rect x="40" y="519.5" width="820" height="126.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="552.5" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="552.5" font-size="15" fill="#3a3226" textLength="177.3" lengthAdjust="spacing">Combinarea structurilor dă</text>
+<text x="255.5" y="552.5" font-size="15" fill="#3a3226" font-weight="700" textLength="69.2" lengthAdjust="spacing">dinamism</text>
+<text x="328.7" y="552.5" font-size="15" fill="#3a3226" textLength="442.9" lengthAdjust="spacing">textului: universul ficțional devine complex și divers, ca lumea reală.</text>
+<text x="62.0" y="577.3" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="577.3" font-size="15" fill="#3a3226" textLength="210.6" lengthAdjust="spacing">Recunoscând structurile, înțeleg</text>
+<text x="288.8" y="577.3" font-size="15" fill="#3a3226" font-weight="700" textLength="331.2" lengthAdjust="spacing">ce vrea autorul să comunice în fiecare secvență</text>
+<text x="624.1" y="577.3" font-size="15" fill="#3a3226" textLength="53.4" lengthAdjust="spacing">și care e</text>
+<text x="681.5" y="577.3" font-size="15" fill="#3a3226" font-weight="700" textLength="92.2" lengthAdjust="spacing">sensul global</text>
+<text x="773.8" y="577.3" font-size="15" fill="#3a3226" textLength="41.2" lengthAdjust="spacing">, după</text>
+<text x="74.2" y="599.0" font-size="15" fill="#3a3226" textLength="90.3" lengthAdjust="spacing">structura care</text>
+<text x="168.5" y="599.0" font-size="15" fill="#3a3226" font-weight="700" textLength="77.1" lengthAdjust="spacing">predomină</text>
+<text x="245.6" y="599.0" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="623.8" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="623.8" font-size="15" fill="#3a3226" textLength="739.9" lengthAdjust="spacing">Mulți autori contemporani depășesc granițele tipurilor tradiționale de texte prin felul în care combină structurile.</text>
+<rect x="40" y="666.3" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="689.3" font-size="16" font-weight="700" fill="#ffffff">3. ȘI ÎN TEXTELE NONLITERARE</text>
+<rect x="40" y="700.3" width="820" height="231.8" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="718.3" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="739.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="59.1" lengthAdjust="spacing">Structura</text>
+<text x="268.0" y="739.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="90.7" lengthAdjust="spacing">Unde o găsesc</text>
+<line x1="62.0" y1="749.8" x2="838.0" y2="749.8" stroke="#e3dccb"/>
+<text x="74.0" y="772.3" font-size="14.5" fill="#3a3226" textLength="50.9" lengthAdjust="spacing">narativă</text>
+<text x="268.0" y="772.3" font-size="14.5" fill="#3a3226" textLength="278.0" lengthAdjust="spacing">reportaj, carte de istorie, știre, relatare orală</text>
+<line x1="62.0" y1="782.7" x2="838.0" y2="782.7" stroke="#e3dccb"/>
+<text x="74.0" y="805.2" font-size="14.5" fill="#3a3226" textLength="68.7" lengthAdjust="spacing">descriptivă</text>
+<text x="268.0" y="805.2" font-size="14.5" fill="#3a3226" textLength="184.3" lengthAdjust="spacing">reclamă, pliant turistic, anunț</text>
+<line x1="62.0" y1="815.5" x2="838.0" y2="815.5" stroke="#e3dccb"/>
+<text x="74.0" y="838.0" font-size="14.5" fill="#3a3226" textLength="66.6" lengthAdjust="spacing">explicativă</text>
+<text x="268.0" y="838.0" font-size="14.5" fill="#3a3226" textLength="507.6" lengthAdjust="spacing">prezentarea unor concepte, instrucțiuni de folosire, diagrame, hărți conceptuale</text>
+<line x1="62.0" y1="848.4" x2="838.0" y2="848.4" stroke="#e3dccb"/>
+<text x="74.0" y="870.9" font-size="14.5" fill="#3a3226" textLength="92.6" lengthAdjust="spacing">argumentativă</text>
+<text x="268.0" y="870.9" font-size="14.5" fill="#3a3226" textLength="256.4" lengthAdjust="spacing">eseu, teorie științifică, discurs, dezbatere</text>
+<line x1="62.0" y1="881.2" x2="838.0" y2="881.2" stroke="#e3dccb"/>
+<text x="74.0" y="903.7" font-size="14.5" fill="#3a3226" textLength="59.7" lengthAdjust="spacing">dialogată</text>
+<text x="268.0" y="903.7" font-size="14.5" fill="#3a3226" textLength="349.6" lengthAdjust="spacing">e-mailuri, mesaje, interviu, bloguri, rețele de socializare</text>
+<line x1="62.0" y1="914.1" x2="838.0" y2="914.1" stroke="#e3dccb"/>
+<line x1="256.0" y1="718.3" x2="256.0" y2="914.1" stroke="#e3dccb"/>
+<text x="326.1" y="963.6" font-size="11.5" fill="#5b6b83" textLength="247.7" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 103-104, rubrica Repere.</text>
 </svg>

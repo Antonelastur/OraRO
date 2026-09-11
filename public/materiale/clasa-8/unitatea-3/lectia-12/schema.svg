@@ -1,27 +1,139 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="320" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Atributul. Apoziția</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III</text>
-
-  <g>
-    <rect x="60" y="95" width="360" height="170" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="240" y="122" text-anchor="middle" font-size="15" font-weight="700" fill="#6f5ea8">Atributul</text>
-    <text x="240" y="145" text-anchor="middle" font-size="11" fill="#3a3226">determină un substantiv, face parte din grupul nominal</text>
-    <text x="240" y="175" text-anchor="middle" font-size="12" fill="#10233f">o <tspan font-weight="700">poveste</tspan> <tspan fill="#6f5ea8" font-weight="700">fantastică</tspan></text>
-    <text x="240" y="195" text-anchor="middle" font-size="10" fill="#5b6b83">adjectival</text>
-    <text x="240" y="220" text-anchor="middle" font-size="12" fill="#10233f">cartea <tspan fill="#6f5ea8" font-weight="700">prietenei</tspan></text>
-    <text x="240" y="240" text-anchor="middle" font-size="10" fill="#5b6b83">substantival genitival</text>
-  </g>
-
-  <g>
-    <rect x="480" y="95" width="360" height="170" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="660" y="122" text-anchor="middle" font-size="15" font-weight="700" fill="#0d9c92">Apoziția</text>
-    <text x="660" y="145" text-anchor="middle" font-size="11" fill="#3a3226">explică sau identifică un substantiv, alăturată acestuia</text>
-    <text x="660" y="180" text-anchor="middle" font-size="12" fill="#10233f">Ion, <tspan fill="#0d9c92" font-weight="700">colegul meu</tspan>, a plecat.</text>
-    <text x="660" y="200" text-anchor="middle" font-size="10" fill="#5b6b83">izolată prin virgule</text>
-    <text x="660" y="230" text-anchor="middle" font-size="12" fill="#10233f">romanul <tspan fill="#0d9c92" font-weight="700">Ion</tspan></text>
-    <text x="660" y="250" text-anchor="middle" font-size="10" fill="#5b6b83">fără virgulă, titlu identificator</text>
-  </g>
-
-  <text x="450" y="290" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 112-114</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1391" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1391" fill="#faf7f0"/>
+<text x="327.9" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="244.4" lengthAdjust="spacing">Atributul. Apoziția</text>
+<text x="197.4" y="74.4" font-size="14" fill="#5b6b83" textLength="505.3" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a III-a, Lecția 12 · Manual, pp. 112-114 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. ATRIBUTUL</text>
+<rect x="40" y="128.6" width="820" height="80.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="68.5" lengthAdjust="spacing">Atributul</text>
+<text x="134.8" y="162.6" font-size="16" fill="#10233f" textLength="94.6" lengthAdjust="spacing">determină un</text>
+<text x="233.7" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="77.8" lengthAdjust="spacing">substantiv</text>
+<text x="315.8" y="162.6" font-size="16" fill="#10233f" textLength="501.1" lengthAdjust="spacing">sau un substitut al lui (pronume, numeral cu valoare pronominală). Este</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" textLength="208.5" lengthAdjust="spacing">adjunct într-un grup nominal.</text>
+<rect x="40" y="228.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="251.6" font-size="16" font-weight="700" fill="#ffffff">2. FELURILE ATRIBUTULUI</text>
+<rect x="40" y="262.6" width="820" height="552.4" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="280.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="302.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="30.1" lengthAdjust="spacing">Felul</text>
+<text x="213.7" y="302.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="100.2" lengthAdjust="spacing">Se exprimă prin</text>
+<text x="555.1" y="302.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="312.2" x2="838.0" y2="312.2" stroke="#e3dccb"/>
+<text x="74.0" y="334.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="65.1" lengthAdjust="spacing">adjectival</text>
+<text x="213.7" y="334.7" font-size="14.5" fill="#3a3226" textLength="294.3" lengthAdjust="spacing">adjectiv (toate gradele), adjectiv din participiu,</text>
+<text x="213.7" y="355.7" font-size="14.5" fill="#3a3226" textLength="292.9" lengthAdjust="spacing">din gerunziu, din adverb, adjectiv pronominal,</text>
+<text x="213.7" y="376.7" font-size="14.5" fill="#3a3226" textLength="190.2" lengthAdjust="spacing">locuțiune adjectivală, numeral</text>
+<text x="555.1" y="334.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="262.3" lengthAdjust="spacing">blocul foarte înalt, străzile ninse, așa vânt,</text>
+<text x="555.1" y="355.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="241.4" lengthAdjust="spacing">casa noastră, om de treabă, trei copaci</text>
+<line x1="62.0" y1="387.1" x2="838.0" y2="387.1" stroke="#e3dccb"/>
+<text x="74.0" y="409.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="82.4" lengthAdjust="spacing">substantival</text>
+<text x="74.0" y="430.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="59.2" lengthAdjust="spacing">genitival</text>
+<text x="213.7" y="409.6" font-size="14.5" fill="#3a3226" textLength="127.7" lengthAdjust="spacing">substantiv în genitiv</text>
+<text x="555.1" y="409.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="172.1" lengthAdjust="spacing">Ferestrele caselor sunt mici.</text>
+<line x1="62.0" y1="440.9" x2="838.0" y2="440.9" stroke="#e3dccb"/>
+<text x="74.0" y="463.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="82.4" lengthAdjust="spacing">substantival</text>
+<text x="74.0" y="484.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="90.8" lengthAdjust="spacing">prepozițional</text>
+<text x="213.7" y="463.4" font-size="14.5" fill="#3a3226" textLength="279.7" lengthAdjust="spacing">substantiv în Ac., G. sau D. cu prepoziție sau</text>
+<text x="213.7" y="484.4" font-size="14.5" fill="#3a3226" textLength="155.1" lengthAdjust="spacing">locuțiune prepozițională</text>
+<text x="555.1" y="463.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="231.8" lengthAdjust="spacing">gardul de beton, ceaiul contra răcelii,</text>
+<text x="555.1" y="484.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="246.1" lengthAdjust="spacing">clădirea din spatele casei, reușita grație</text>
+<text x="555.1" y="505.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="60.9" lengthAdjust="spacing">ajutorului</text>
+<line x1="62.0" y1="515.8" x2="838.0" y2="515.8" stroke="#e3dccb"/>
+<text x="74.0" y="538.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="99.3" lengthAdjust="spacing">substantival în</text>
+<text x="74.0" y="559.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="69.3" lengthAdjust="spacing">nominativ</text>
+<text x="213.7" y="538.3" font-size="14.5" fill="#3a3226" textLength="148.3" lengthAdjust="spacing">substantiv în nominativ</text>
+<text x="555.1" y="538.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="182.4" lengthAdjust="spacing">Orașul București este frumos.</text>
+<line x1="62.0" y1="569.7" x2="838.0" y2="569.7" stroke="#e3dccb"/>
+<text x="74.0" y="592.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="99.3" lengthAdjust="spacing">substantival în</text>
+<text x="74.0" y="613.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="34.4" lengthAdjust="spacing">dativ</text>
+<text x="213.7" y="592.2" font-size="14.5" fill="#3a3226" textLength="215.5" lengthAdjust="spacing">substantiv în dativ, fără prepoziție</text>
+<text x="555.1" y="592.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="115.3" lengthAdjust="spacing">Ana este vară Inei.</text>
+<line x1="62.0" y1="623.6" x2="838.0" y2="623.6" stroke="#e3dccb"/>
+<text x="74.0" y="646.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="79.5" lengthAdjust="spacing">pronominal</text>
+<text x="213.7" y="646.1" font-size="14.5" fill="#3a3226" textLength="294.5" lengthAdjust="spacing">pronume în G., în Ac./G./D. cu prepoziție, în D.</text>
+<text x="213.7" y="667.1" font-size="14.5" fill="#3a3226" textLength="92.5" lengthAdjust="spacing">fără prepoziție</text>
+<text x="555.1" y="646.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="270.6" lengthAdjust="spacing">Părerea acestora... Unul dintre ei... Sufletu-i</text>
+<text x="555.1" y="667.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="40.2" lengthAdjust="spacing">vesel...</text>
+<line x1="62.0" y1="677.5" x2="838.0" y2="677.5" stroke="#e3dccb"/>
+<text x="74.0" y="700.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="42.3" lengthAdjust="spacing">verbal</text>
+<text x="213.7" y="700.0" font-size="14.5" fill="#3a3226" textLength="286.6" lengthAdjust="spacing">verb (sau locuțiune verbală) la infinitiv, supin,</text>
+<text x="213.7" y="721.0" font-size="14.5" fill="#3a3226" textLength="56.0" lengthAdjust="spacing">gerunziu</text>
+<text x="555.1" y="700.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="264.8" lengthAdjust="spacing">Bucuria de a vedea ninsoarea... Drumul de</text>
+<text x="555.1" y="721.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="192.4" lengthAdjust="spacing">străbătut... Ninsoarea căzând...</text>
+<line x1="62.0" y1="731.3" x2="838.0" y2="731.3" stroke="#e3dccb"/>
+<text x="74.0" y="753.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="63.2" lengthAdjust="spacing">adverbial</text>
+<text x="213.7" y="753.8" font-size="14.5" fill="#3a3226" textLength="202.9" lengthAdjust="spacing">adverb sau locuțiune adverbială</text>
+<text x="555.1" y="753.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="224.1" lengthAdjust="spacing">Vântul de aici e rece. Pomii din jur...</text>
+<line x1="62.0" y1="764.2" x2="838.0" y2="764.2" stroke="#e3dccb"/>
+<text x="74.0" y="786.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="90.3" lengthAdjust="spacing">interjecțional</text>
+<text x="213.7" y="786.7" font-size="14.5" fill="#3a3226" textLength="62.9" lengthAdjust="spacing">interjecție</text>
+<text x="555.1" y="786.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="188.4" lengthAdjust="spacing">Am mâncat o prăjitură mmm!</text>
+<line x1="62.0" y1="797.0" x2="838.0" y2="797.0" stroke="#e3dccb"/>
+<line x1="201.7" y1="280.6" x2="201.7" y2="797.0" stroke="#e3dccb"/>
+<line x1="543.1" y1="280.6" x2="543.1" y2="797.0" stroke="#e3dccb"/>
+<rect x="40" y="835.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="858.0" font-size="16" font-weight="700" fill="#ffffff">3. APOZIȚIA</text>
+<rect x="40" y="869.0" width="820" height="471.1" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="902.0" font-size="15" fill="#3a3226" font-weight="700" textLength="58.5" lengthAdjust="spacing">Apoziția</text>
+<text x="124.5" y="902.0" font-size="15" fill="#3a3226" textLength="131.4" lengthAdjust="spacing">exprimă o relație de</text>
+<text x="260.0" y="902.0" font-size="15" fill="#3a3226" font-weight="700" textLength="136.3" lengthAdjust="spacing">echivalență de sens</text>
+<text x="400.4" y="902.0" font-size="15" fill="#3a3226" textLength="386.2" lengthAdjust="spacing">între două cuvinte sau grupuri de cuvinte; a doua secvență</text>
+<text x="62.0" y="923.8" font-size="15" fill="#3a3226" textLength="236.5" lengthAdjust="spacing">precizează informații despre prima (</text>
+<text x="298.5" y="923.8" font-size="15" fill="#3a3226" font-weight="700" textLength="32.7" lengthAdjust="spacing">baza</text>
+<text x="331.2" y="923.8" font-size="15" fill="#3a3226" textLength="61.9" lengthAdjust="spacing">). Poate fi</text>
+<text x="397.2" y="923.8" font-size="15" fill="#3a3226" font-weight="700" textLength="71.1" lengthAdjust="spacing">suprimată</text>
+<text x="468.3" y="923.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="957.3" font-size="15" fill="#10233f" font-style="italic" textLength="185.6" lengthAdjust="spacing">O voi vizita pe prietena mea,</text>
+<text x="251.6" y="957.3" font-size="15" fill="#3a3226" font-weight="700" textLength="27.8" lengthAdjust="spacing">Ana</text>
+<text x="279.4" y="957.3" font-size="15" fill="#3a3226" textLength="13.2" lengthAdjust="spacing">. /</text>
+<text x="296.6" y="957.3" font-size="15" fill="#10233f" font-style="italic" textLength="125.7" lengthAdjust="spacing">O voi vizita pe Ana,</text>
+<text x="426.4" y="957.3" font-size="15" fill="#3a3226" font-weight="700" textLength="93.0" lengthAdjust="spacing">prietena mea</text>
+<text x="519.4" y="957.3" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="975.8" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="997.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="43.7" lengthAdjust="spacing">Regula</text>
+<text x="268.0" y="997.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="50.6" lengthAdjust="spacing">Pe scurt</text>
+<line x1="62.0" y1="1007.3" x2="838.0" y2="1007.3" stroke="#e3dccb"/>
+<text x="74.0" y="1029.8" font-size="14.5" fill="#3a3226" textLength="42.9" lengthAdjust="spacing">poziția</text>
+<text x="268.0" y="1029.8" font-size="14.5" fill="#3a3226" textLength="77.6" lengthAdjust="spacing">întotdeauna</text>
+<text x="349.5" y="1029.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="34.7" lengthAdjust="spacing">după</text>
+<text x="388.1" y="1029.8" font-size="14.5" fill="#3a3226" textLength="324.2" lengthAdjust="spacing">bază (substantiv, pronume, numeral, adjectiv, verb)</text>
+<line x1="62.0" y1="1040.2" x2="838.0" y2="1040.2" stroke="#e3dccb"/>
+<text x="74.0" y="1062.7" font-size="14.5" fill="#3a3226" textLength="68.2" lengthAdjust="spacing">punctuația</text>
+<text x="268.0" y="1062.7" font-size="14.5" fill="#3a3226" textLength="102.5" lengthAdjust="spacing">se desparte prin</text>
+<text x="374.4" y="1062.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="47.4" lengthAdjust="spacing">virgulă</text>
+<text x="425.8" y="1062.7" font-size="14.5" fill="#3a3226" textLength="21.8" lengthAdjust="spacing">sau</text>
+<text x="451.4" y="1062.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="94.2" lengthAdjust="spacing">linie de pauză</text>
+<text x="549.6" y="1062.7" font-size="14.5" fill="#3a3226" textLength="116.1" lengthAdjust="spacing">ori e precedată de</text>
+<text x="669.6" y="1062.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="85.7" lengthAdjust="spacing">două puncte</text>
+<line x1="62.0" y1="1073.0" x2="838.0" y2="1073.0" stroke="#e3dccb"/>
+<text x="74.0" y="1095.5" font-size="14.5" fill="#3a3226" textLength="32.3" lengthAdjust="spacing">cazul</text>
+<text x="268.0" y="1095.5" font-size="14.5" fill="#3a3226" textLength="58.3" lengthAdjust="spacing">de obicei</text>
+<text x="330.2" y="1095.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="69.3" lengthAdjust="spacing">nominativ</text>
+<text x="399.5" y="1095.5" font-size="14.5" fill="#3a3226" textLength="309.4" lengthAdjust="spacing">, oricare ar fi cazul bazei; poate relua cazul bazei:</text>
+<text x="712.8" y="1095.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="80.0" lengthAdjust="spacing">Am vorbit cu</text>
+<text x="268.0" y="1116.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="135.1" lengthAdjust="spacing">Dan, cu prietenul tău.</text>
+<line x1="62.0" y1="1126.9" x2="838.0" y2="1126.9" stroke="#e3dccb"/>
+<text x="74.0" y="1149.4" font-size="14.5" fill="#3a3226" textLength="89.9" lengthAdjust="spacing">introdusă prin</text>
+<text x="268.0" y="1149.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="222.1" lengthAdjust="spacing">adică, anume, mai exact, altfel spus</text>
+<text x="494.1" y="1149.4" font-size="14.5" fill="#3a3226" textLength="143.8" lengthAdjust="spacing">(fără funcție sintactică)</text>
+<line x1="62.0" y1="1159.8" x2="838.0" y2="1159.8" stroke="#e3dccb"/>
+<text x="74.0" y="1182.2" font-size="14.5" fill="#3a3226" textLength="98.0" lengthAdjust="spacing">se exprimă prin</text>
+<text x="268.0" y="1182.2" font-size="14.5" fill="#3a3226" textLength="424.4" lengthAdjust="spacing">substantiv, pronume, numeral, adjectiv, forme verbale nepersonale</text>
+<line x1="62.0" y1="1192.6" x2="838.0" y2="1192.6" stroke="#e3dccb"/>
+<text x="74.0" y="1215.1" font-size="14.5" fill="#3a3226" textLength="27.3" lengthAdjust="spacing">felul</text>
+<text x="268.0" y="1215.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="44.7" lengthAdjust="spacing">simplă</text>
+<text x="316.6" y="1215.1" font-size="14.5" fill="#3a3226" textLength="100.6" lengthAdjust="spacing">(un termen) sau</text>
+<text x="421.1" y="1215.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="71.5" lengthAdjust="spacing">dezvoltată</text>
+<text x="492.6" y="1215.1" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">:</text>
+<text x="499.7" y="1215.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="187.5" lengthAdjust="spacing">Petre, colegul de bancă al Inei</text>
+<line x1="62.0" y1="1225.5" x2="838.0" y2="1225.5" stroke="#e3dccb"/>
+<line x1="256.0" y1="975.8" x2="256.0" y2="1225.5" stroke="#e3dccb"/>
+<rect x="62.0" y="1239.5" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="1239.5" width="6" height="82.7" rx="3" fill="#b4432c"/><text x="84.0" y="1266.0" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="1284.8" font-size="14.5" fill="#3a3226" textLength="52.3" lengthAdjust="spacing">Apoziția</text>
+<text x="140.3" y="1284.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="100.3" lengthAdjust="spacing">nu este atribut</text>
+<text x="240.6" y="1284.8" font-size="14.5" fill="#3a3226" textLength="155.1" lengthAdjust="spacing">. Atributul în nominativ (</text>
+<text x="395.7" y="1284.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="99.9" lengthAdjust="spacing">orașul București</text>
+<text x="495.7" y="1284.8" font-size="14.5" fill="#3a3226" textLength="294.3" lengthAdjust="spacing">) nu se poate suprima, stă doar în nominativ și</text>
+<text x="793.9" y="1284.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="17.7" lengthAdjust="spacing">nu</text>
+<text x="84.0" y="1305.8" font-size="14.5" fill="#3a3226" textLength="152.8" lengthAdjust="spacing">se desparte prin virgulă.</text>
+<text x="323.3" y="1371.7" font-size="11.5" fill="#5b6b83" textLength="253.3" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 112-114, rubricile Repere.</text>
 </svg>

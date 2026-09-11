@@ -1,20 +1,103 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="380" fill="#faf7f0"/>
-  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Complementul direct</text>
-  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III · lecția 14 · parte secundară de propoziție · răspunde la pe cine?, ce?</text>
-
-  <rect x="55" y="80" width="790" height="72" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
-  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Ce arată. Regentul</text>
-  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="126">arată obiectul asupra căruia acționează autorul unei fapte; îl au doar verbele care permit trecerea la pasiv</tspan><tspan x="75" y="144">regent: verb cu categoria modului sau formă nepersonală, locuțiune verbală, interjecție predicativă (Iată cartea!)</tspan></text>
-
-  <rect x="55" y="168" width="390" height="130" rx="14" fill="none" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="75" y="192" font-size="13" font-weight="700" fill="#10233f">Cazul și marca</text>
-  <text font-size="11" fill="#3a3226"><tspan x="75" y="214">stă în cazul acuzativ,</tspan><tspan x="75" y="232">însoțit sau nu de prepoziția „pe”</tspan><tspan x="75" y="254">(marcă a complementului direct)</tspan></text>
-
-  <rect x="465" y="168" width="380" height="130" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
-  <text x="485" y="192" font-size="13" font-weight="700" fill="#10233f">Se exprimă prin</text>
-  <text font-size="11" fill="#3a3226"><tspan x="485" y="214">substantiv sau locuțiune substantivală,</tspan><tspan x="485" y="232">pronume, numeral cu valoare pronominală,</tspan><tspan x="485" y="250">verb sau locuțiune verbală la forme</tspan><tspan x="485" y="266">nepersonale (infinitiv, gerunziu, supin)</tspan></text>
-
-  <text x="450" y="334" text-anchor="middle" font-size="11.5" fill="#3a3226">Se dublează prin clitic pronominal în acuzativ: anticipare (I-am întrebat pe toți.) sau reluare (Pe Andreea o știu.).</text>
-  <text x="450" y="362" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, p. 117</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1118" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1118" fill="#faf7f0"/>
+<text x="311.1" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="278.0" lengthAdjust="spacing">Complementul direct</text>
+<text x="215.6" y="74.4" font-size="14" fill="#5b6b83" textLength="468.7" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a III-a, Lecția 14 · Manual, p. 117 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ESTE</text>
+<rect x="40" y="128.6" width="820" height="138.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="158.9" lengthAdjust="spacing">Complementul direct</text>
+<text x="225.2" y="162.6" font-size="16" fill="#10233f" textLength="593.3" lengthAdjust="spacing">determină un verb, o locuțiune verbală sau o interjecție predicativă și arată, mai ales,</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="250.6" lengthAdjust="spacing">obiectul asupra căruia acționează</text>
+<text x="316.9" y="185.8" font-size="16" fill="#10233f" textLength="265.1" lengthAdjust="spacing">autorul faptei. Răspunde la întrebările</text>
+<text x="586.3" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="60.6" lengthAdjust="spacing">pe cine?</text>
+<text x="647.0" y="185.8" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">,</text>
+<text x="654.8" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="23.4" lengthAdjust="spacing">ce?</text>
+<text x="62.0" y="219.6" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="219.6" font-size="15" fill="#3a3226" textLength="74.4" lengthAdjust="spacing">Stă în cazul</text>
+<text x="152.6" y="219.6" font-size="15" fill="#3a3226" font-weight="700" textLength="57.9" lengthAdjust="spacing">acuzativ</text>
+<text x="210.5" y="219.6" font-size="15" fill="#3a3226" textLength="148.9" lengthAdjust="spacing">, cu sau fără prepoziția</text>
+<text x="363.5" y="219.6" font-size="15" fill="#3a3226" font-weight="700" textLength="17.4" lengthAdjust="spacing">pe</text>
+<text x="385.0" y="219.6" font-size="15" fill="#3a3226" textLength="72.4" lengthAdjust="spacing">(marca lui).</text>
+<text x="62.0" y="244.3" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="244.3" font-size="15" fill="#3a3226" textLength="365.5" lengthAdjust="spacing">Au complement direct doar verbele care pot trece de la</text>
+<text x="443.8" y="244.3" font-size="15" fill="#3a3226" font-weight="700" textLength="181.2" lengthAdjust="spacing">forma activă la cea pasivă</text>
+<text x="625.0" y="244.3" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="40" y="286.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="309.9" font-size="16" font-weight="700" fill="#ffffff">2. DE CE DEPINDE</text>
+<rect x="40" y="320.9" width="820" height="198.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="338.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="360.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="57.2" lengthAdjust="spacing">Regentul</text>
+<text x="368.9" y="360.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="370.4" x2="838.0" y2="370.4" stroke="#e3dccb"/>
+<text x="74.0" y="392.9" font-size="14.5" fill="#3a3226" textLength="155.7" lengthAdjust="spacing">verb la un mod personal</text>
+<text x="368.9" y="392.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="85.8" lengthAdjust="spacing">Elevul rezolvă</text>
+<text x="458.6" y="392.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="54.2" lengthAdjust="spacing">exerciții</text>
+<text x="512.9" y="392.9" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="403.3" x2="838.0" y2="403.3" stroke="#e3dccb"/>
+<text x="74.0" y="425.8" font-size="14.5" fill="#3a3226" textLength="95.0" lengthAdjust="spacing">infinitiv / supin</text>
+<text x="368.9" y="425.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="71.2" lengthAdjust="spacing">Pot inventa</text>
+<text x="444.0" y="425.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="49.6" lengthAdjust="spacing">povești</text>
+<text x="493.6" y="425.8" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="500.7" y="425.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="127.0" lengthAdjust="spacing">Îi era greu de înțeles</text>
+<text x="631.6" y="425.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="65.2" lengthAdjust="spacing">explicația</text>
+<text x="696.9" y="425.8" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="436.1" x2="838.0" y2="436.1" stroke="#e3dccb"/>
+<text x="74.0" y="458.6" font-size="14.5" fill="#3a3226" textLength="109.8" lengthAdjust="spacing">locuțiune verbală</text>
+<text x="368.9" y="458.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="179.1" lengthAdjust="spacing">Profesorul a băgat de seamă</text>
+<text x="551.9" y="458.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="56.8" lengthAdjust="spacing">greșelile</text>
+<text x="608.7" y="458.6" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="469.0" x2="838.0" y2="469.0" stroke="#e3dccb"/>
+<text x="74.0" y="491.5" font-size="14.5" fill="#3a3226" textLength="136.9" lengthAdjust="spacing">interjecție predicativă</text>
+<text x="368.9" y="491.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="24.2" lengthAdjust="spacing">Iată</text>
+<text x="397.0" y="491.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="41.9" lengthAdjust="spacing">cartea</text>
+<text x="442.8" y="491.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="55.4" lengthAdjust="spacing">promisă!</text>
+<line x1="62.0" y1="501.8" x2="838.0" y2="501.8" stroke="#e3dccb"/>
+<line x1="356.9" y1="338.9" x2="356.9" y2="501.8" stroke="#e3dccb"/>
+<rect x="40" y="539.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="562.8" font-size="16" font-weight="700" fill="#ffffff">3. PRIN CE SE EXPRIMĂ</text>
+<rect x="40" y="573.8" width="820" height="262.0" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="591.8" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="613.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="109.8" lengthAdjust="spacing">Partea de vorbire</text>
+<text x="399.9" y="613.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="623.3" x2="838.0" y2="623.3" stroke="#e3dccb"/>
+<text x="74.0" y="645.8" font-size="14.5" fill="#3a3226" textLength="218.6" lengthAdjust="spacing">substantiv, locuțiune substantivală</text>
+<text x="399.9" y="645.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="217.4" lengthAdjust="spacing">Ascult muzică. Are ținere de minte.</text>
+<line x1="62.0" y1="656.2" x2="838.0" y2="656.2" stroke="#e3dccb"/>
+<text x="74.0" y="678.7" font-size="14.5" fill="#3a3226" textLength="253.6" lengthAdjust="spacing">pronume (personal, de politețe, reflexiv,</text>
+<text x="74.0" y="699.7" font-size="14.5" fill="#3a3226" textLength="287.5" lengthAdjust="spacing">posesiv, demonstrativ, nehotărât, interogativ,</text>
+<text x="74.0" y="720.7" font-size="14.5" fill="#3a3226" textLength="97.4" lengthAdjust="spacing">relativ, negativ)</text>
+<text x="399.9" y="678.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="114.3" lengthAdjust="spacing">Nu sun pe nimeni.</text>
+<line x1="62.0" y1="731.1" x2="838.0" y2="731.1" stroke="#e3dccb"/>
+<text x="74.0" y="753.6" font-size="14.5" fill="#3a3226" textLength="207.0" lengthAdjust="spacing">numeral cu valoare pronominală</text>
+<text x="399.9" y="753.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="234.0" lengthAdjust="spacing">Am văzut trei dintre filmele premiate.</text>
+<line x1="62.0" y1="763.9" x2="838.0" y2="763.9" stroke="#e3dccb"/>
+<text x="74.0" y="786.4" font-size="14.5" fill="#3a3226" textLength="299.3" lengthAdjust="spacing">verb sau locuțiune verbală la infinitiv, gerunziu,</text>
+<text x="74.0" y="807.5" font-size="14.5" fill="#3a3226" textLength="34.7" lengthAdjust="spacing">supin</text>
+<text x="399.9" y="786.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="354.8" lengthAdjust="spacing">Pot rezolva problema. Aud tunând. A terminat de predat.</text>
+<line x1="62.0" y1="817.8" x2="838.0" y2="817.8" stroke="#e3dccb"/>
+<line x1="387.9" y1="591.8" x2="387.9" y2="817.8" stroke="#e3dccb"/>
+<rect x="40" y="855.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="878.8" font-size="16" font-weight="700" fill="#ffffff">4. DUBLAREA, POZIȚIA, MODELUL</text>
+<rect x="40" y="889.8" width="820" height="177.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="922.8" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="922.8" font-size="15" fill="#3a3226" font-weight="700" textLength="133.9" lengthAdjust="spacing">Dublarea prin clitic</text>
+<text x="212.2" y="922.8" font-size="15" fill="#3a3226" textLength="72.9" lengthAdjust="spacing">în acuzativ:</text>
+<text x="289.2" y="922.8" font-size="15" fill="#3a3226" font-weight="700" textLength="70.2" lengthAdjust="spacing">anticipare</text>
+<text x="363.4" y="922.8" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="367.9" y="922.8" font-size="15" fill="#10233f" font-style="italic" textLength="134.4" lengthAdjust="spacing">I-am întrebat pe toți.</text>
+<text x="502.3" y="922.8" font-size="15" fill="#3a3226" textLength="31.1" lengthAdjust="spacing">) sau</text>
+<text x="537.4" y="922.8" font-size="15" fill="#3a3226" font-weight="700" textLength="49.6" lengthAdjust="spacing">reluare</text>
+<text x="591.1" y="922.8" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="595.6" y="922.8" font-size="15" fill="#10233f" font-style="italic" textLength="187.9" lengthAdjust="spacing">Pe Andreea o știu din tabără.</text>
+<text x="783.5" y="922.8" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">).</text>
+<text x="62.0" y="947.6" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="947.6" font-size="15" fill="#3a3226" textLength="85.0" lengthAdjust="spacing">Stă de obicei</text>
+<text x="163.3" y="947.6" font-size="15" fill="#3a3226" font-weight="700" textLength="71.5" lengthAdjust="spacing">după verb</text>
+<text x="238.9" y="947.6" font-size="15" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">și</text>
+<text x="252.8" y="947.6" font-size="15" fill="#3a3226" font-weight="700" textLength="18.3" lengthAdjust="spacing">nu</text>
+<text x="275.2" y="947.6" font-size="15" fill="#3a3226" textLength="194.2" lengthAdjust="spacing">se desparte de el prin virgulă.</text>
+<rect x="62.0" y="966.1" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="992.6" font-size="14.5" fill="#10233f" font-weight="700" textLength="119.9" lengthAdjust="spacing">Model de analiză:</text>
+<text x="78.0" y="1011.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="710.5" lengthAdjust="spacing">„știri” – complement direct exprimat prin substantiv comun, simplu, genul feminin, numărul plural, cazul acuzativ,</text>
+<text x="78.0" y="1032.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="70.6" lengthAdjust="spacing">nearticulat.</text>
+<text x="286.6" y="1098.3" font-size="11.5" fill="#5b6b83" textLength="326.8" lengthAdjust="spacing">Sursa: Manual Art 8, p. 117, rubrica Repere și modelul de analiză.</text>
 </svg>
