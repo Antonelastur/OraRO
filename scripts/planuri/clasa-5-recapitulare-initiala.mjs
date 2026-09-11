@@ -1,6 +1,11 @@
-// Schițe de plan de lecție, model în 6 pași (momentele lecției), pentru
-// Recapitularea inițială, clasa a V-a. Conținut derivat din datele existente
-// ale lecțiilor (obiective, sursă, materiale). Durata totală 50 de minute.
+// Planuri de lecție detaliate pentru Recapitularea inițială, clasa a V-a.
+// Fără moment organizatoric (se subînțelege); fiecare etapă are pașii concreți ai
+// orei. Surse: planurile de lecție ale Antoanelei pentru săptămâna I, fișele și
+// testele inițiale proprii, Ghidul profesorului (III.1). Testele și rezolvările
+// nu intră aici (datele ajung în browser). 50 min / lecție.
+
+const pasi = (...linii) => linii.map((l) => `– ${l}`).join('\n')
+const fisa = (n) => `Fișa de exerciții (/materiale/clasa-5/recapitulare-initiala/lectia-${n}/fisa-exercitii.pdf)`
 
 export default {
   'lectia-1': {
@@ -13,19 +18,36 @@ export default {
       'Elevii își exprimă pasiunile și așteptările de la disciplină, iar profesorul comunică regulile de organizare a orei și criteriile de evaluare.',
     ],
     resurse: [
-      'Jocul „Cartea de vizită”, fișă tipărită (/materiale/clasa-5/recapitulare-initiala/lectia-1/joc.pdf)',
-      'Fișă cu așteptările elevilor',
+      'Prezentarea „Bun venit la Limba Română!” (/materiale/clasa-5/recapitulare-initiala/lectia-1/prezentare.pdf)',
+      'Jocurile de intercunoaștere: Vânătoarea de colegi și Pașaportul clasei a V-a (/materiale/clasa-5/recapitulare-initiala/lectia-1/joc.pdf)',
       'Manualul de clasa a V-a, pentru prezentarea Unității I',
+      'Bandă adezivă, pentru pașapoarte',
     ],
     desfasurare: [
-      { etapa: 'Moment organizatoric', timp: '3 min', activitate: 'Salut elevii, verific prezența și pregătirea caietelor și a instrumentelor de scris pentru prima oră de română din gimnaziu.' },
-      { etapa: 'Captarea atenției', timp: '7 min', activitate: 'Le cer elevilor să spună într-un cuvânt cum se simt în prima zi de școală și pornesc de la răspunsuri o scurtă discuție despre ce așteaptă de la ora de română.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '3 min', activitate: 'Anunț că ora e dedicată cunoașterii reciproce și organizării disciplinei și scriu pe tablă cele două repere ale orei: ne cunoaștem, stabilim regulile de lucru.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Întreb ce le-a plăcut și ce li s-a părut greu la română în clasa a IV-a, ca să văd cu ce bagaj vin în gimnaziu.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Conduc jocul „Cartea de vizită” din fișa tipărită, fiecare elev își completează și își prezintă cartea de vizită, apoi prezint pe scurt disciplina, manualul și Unitatea I și comunic regulile de organizare a orei și criteriile de evaluare.' },
-      { etapa: 'Obținerea performanței', timp: '10 min', activitate: 'Fiecare elev completează fișa cu trei așteptări proprii de la orele de română și o citește cu voce tare; strâng fișele ca să le folosesc pe parcursul anului.' },
+      { etapa: 'Bun venit', timp: '4 min', activitate: pasi(
+        'Prezentarea, slide-urile 1-2: mă prezint pe scurt (ce predau, cum îmi doresc să fie orele noastre).',
+        'Fiecare elev spune într-un cuvânt cum se simte în prima oră de română din gimnaziu.') },
+      { etapa: 'Vânătoarea de colegi', timp: '13 min', activitate: pasi(
+        'Împart grila de bingo (joc.pdf, p. 2) și explic regulile: elevii circulă, pun întrebarea din căsuță, notează numele colegului care răspunde „da”; un nume o singură dată.',
+        'Primul care completează un rând, o coloană sau o diagonală strigă „Bingo!” și citește numele din grilă.',
+        'Dacă e nevoie de o variantă mai liniștită: jocul „Cartea de vizită” din prezentare (numele, o carte sau un film preferat, un lucru care te reprezintă).') },
+      { etapa: 'Ce se schimbă în clasa a V-a', timp: '6 min', activitate: pasi(
+        'Slide-ul „Ce se schimbă”: mai mulți profesori; ora de română are lectură, comunicare orală, limbă română și redactare; accent pe interpretare și argumentare.',
+        'Arăt manualul: cum arată o unitate și rubricile ei (Pentru început, Explorare, Repere, Aplicații).') },
+      { etapa: 'Reguli și evaluare', timp: '8 min', activitate: pasi(
+        'Materialele: caiet de clasă, caiet de teme, dicționar. Regulile: ridicăm mâna, ascultăm până la capăt, temele se predau la timp.',
+        'Sistemul de evaluare: teste scrise, teme și activitate la clasă, portofoliu.',
+        'Elevii notează regulile pe prima pagină a caietului de clasă.') },
+      { etapa: 'Pașaportul clasei a V-a', timp: '12 min', activitate: pasi(
+        'Fiecare completează pașaportul (joc.pdf, p. 3): numele, o pasiune, o așteptare de la orele de română, un desen sau simbol personal. Îl completez și eu pe al meu.',
+        'Câțiva elevi își citesc așteptarea; pașapoartele se lipesc pe peretele clasei, sub titlul „Clasa a V-a”, până la sfârșitul semestrului.') },
+      { etapa: 'Unitatea I', timp: '4 min', activitate: pasi(
+        'Anunț tema unității: „Despre mine. Selfie”. Întrebarea de deschidere: ce credeți că spune un selfie despre voi?') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: materialele pentru ora următoare (caietele, dicționarul).',
+        'Anunț ora de recapitulare și cele două teste inițiale, care nu se trec în catalog.') },
     ],
-    evaluare: 'Observarea sistematică a participării la joc și la discuție; fișa cu așteptări, fără notare.',
+    evaluare: 'Observarea sistematică a participării la joc și la discuție; pașaportul cu așteptări, fără notare.',
   },
   'lectia-2': {
     titlu: 'Recapitulare inițială, exerciții',
@@ -37,19 +59,31 @@ export default {
       'Recunoaște părțile de vorbire și tipurile de propoziție învățate în ciclul primar și redactează, după dictare, un text funcțional simplu.',
     ],
     resurse: [
-      'Fișă de exerciții tipărită (/materiale/clasa-5/recapitulare-initiala/lectia-2/fisa.pdf)',
+      'Fișa de recapitulare (/materiale/clasa-5/recapitulare-initiala/lectia-2/fisa.pdf)',
+      fisa(2),
       'Tablă, caiete',
-      'Un scurt text pentru dictare, pregătit de profesor',
     ],
     desfasurare: [
-      { etapa: 'Moment organizatoric', timp: '3 min', activitate: 'Salut elevii, verific prezența și mă asigur că fiecare are caietul și un instrument de scris pentru lucrul pe fișă.' },
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le propun un joc scurt de cuvinte, găsesc repede un sinonim și un antonim pentru „vesel”, ca să reintre în atmosfera exercițiilor de limbă.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că recapitulăm, prin exerciții, vocabularul, fonetica, ortografia și gramatica din ciclul primar și că la final scriem un text scurt după dictare.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '7 min', activitate: 'Reamintesc pe scurt, cu exemple la tablă, ce sunt sinonimele și antonimele, cum se despart cuvintele în silabe și care sunt părțile de vorbire învățate în clasa a IV-a.' },
-      { etapa: 'Dirijarea învățării', timp: '23 min', activitate: 'Distribui fișa de exerciții, circul prin clasă și ofer sprijin individual, apoi corectăm pe rând la tablă exercițiile de vocabular, fonetică, ortografie și gramatică.' },
-      { etapa: 'Obținerea performanței', timp: '10 min', activitate: 'Dictez un text funcțional scurt, un bilet sau un anunț, pe care elevii îl scriu singuri respectând ortografia și punctuația; verific câteva caiete pe loc.' },
+      { etapa: 'Joc de cuvinte', timp: '5 min', activitate: pasi(
+        'Lanțul sinonimelor: spun un cuvânt (frumos, a merge, mare), elevii dau pe rând câte un sinonim; apoi la fel cu antonimele.') },
+      { etapa: 'Vocabular și sunete', timp: '10 min', activitate: pasi(
+        'Fișa de recapitulare, ex. 1-2 (sinonime și antonime, despărțirea în silabe, diftongii), individual, 6 minute.',
+        'Verificare, 4 minute; la tablă, despărțim în silabe două cuvinte mai grele.') },
+      { etapa: 'Scrierea corectă', timp: '6 min', activitate: pasi(
+        'Fișa de recapitulare, ex. 3: corectăm la tablă enunțurile greșite.',
+        'În caiete: ortogramele din ciclul primar (s-a / sa, i-a / ia, s-au / sau, într-o), cu câte un exemplu.') },
+      { etapa: 'Gramatică', timp: '8 min', activitate: pasi(
+        'Fișa de recapitulare, ex. 4: substantivele și verbele din propoziție; felul propozițiilor după scopul comunicării.',
+        'Reamintim, cu exemple la tablă, părțile de vorbire știute (substantiv, verb, adjectiv, pronume, numeral) și subiectul și predicatul.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '13 min', activitate: pasi(
+        'Pagina 2: ex. 4 (părțile de vorbire), ex. 5 (subiect și predicat) și ex. 6 (felul propozițiilor), individual, 9 minute.',
+        'Verificare, 4 minute; notez cine are nevoie de sprijin la gramatică.') },
+      { etapa: 'Dictare', timp: '5 min', activitate: pasi(
+        'Fișa de recapitulare, ex. 5: dictez textul despre începutul anului școlar; elevii scriu în caiet; verific câteva caiete pe loc.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: fișa de recapitulare, ex. 6 (invitația); fișa de exerciții, pagina 1 și ex. 7 (biletul).') },
     ],
-    evaluare: 'Observarea sistematică a rezolvării fișei; verificarea textului scris după dictare, fără notare în catalog.',
+    evaluare: 'Observarea sistematică a rezolvării fișelor; verificarea textului scris după dictare, fără notare în catalog.',
   },
   'lectia-3': {
     titlu: 'Evaluare inițială, receptarea mesajului scris',
@@ -65,12 +99,17 @@ export default {
       'Text-suport la prima vedere, potrivit vârstei',
     ],
     desfasurare: [
-      { etapa: 'Moment organizatoric', timp: '3 min', activitate: 'Salut elevii, verific prezența și așez clasa pentru lucru individual, câte unul în bancă.' },
-      { etapa: 'Captarea atenției', timp: '3 min', activitate: 'Le spun că testul de azi nu se trece în catalog și că rezultatul mă ajută să văd de unde pornim împreună, ca să lucreze liniștiți.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că elevii citesc un text nou și răspund la întrebări care arată cât de bine înțeleg ce citesc și cât de bogat le e vocabularul.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '4 min', activitate: 'Reamintesc pe scurt pașii lecturii unui text la prima vedere: citesc de două ori, subliniez cuvintele necunoscute, caut răspunsul în text.' },
-      { etapa: 'Dirijarea învățării', timp: '5 min', activitate: 'Distribui testele, citesc cu voce tare cerințele, explic cum se completează și cât timp au la dispoziție, apoi răspund la întrebările de clarificare.' },
-      { etapa: 'Obținerea performanței', timp: '33 min', activitate: 'Elevii rezolvă individual testul de receptare a mesajului scris; supraveghez discret, gestionez timpul și strâng lucrările la final.' },
+      { etapa: 'Instructajul', timp: '5 min', activitate: pasi(
+        'Așez clasa câte un elev în bancă și distribui testele.',
+        'Spun că testul nu se trece în catalog: rezultatul mă ajută să văd de unde pornim.',
+        'Structura: I. Înțelegerea textului (30 de puncte), II. Vocabular (20), III. Exprimare personală, 4-6 rânduri (30), IV. Corectitudine (10); 10 puncte din oficiu; 40 de minute.',
+        'Sfaturi: citiți textul de două ori, subliniați, căutați răspunsul în text; lăsați câteva minute pentru textul de la subiectul III.') },
+      { etapa: 'Rezolvarea individuală', timp: '40 min', activitate: pasi(
+        'Elevii lucrează individual, în liniște; monitorizez fără să intervin pe conținut.',
+        'Anunț timpul rămas la 20 de minute și la 5 minute înainte de final.') },
+      { etapa: 'Strângerea lucrărilor', timp: '5 min', activitate: pasi(
+        'Elevii își recitesc răspunsurile, apoi strâng testele.',
+        'Anunț că rezultatele se discută la ora de analiză.') },
     ],
     evaluare: 'Evaluare inițială scrisă, cu punctaj orientativ, fără notă în catalog; rezultatele se discută la lecția de analiză și remediere.',
   },
@@ -86,12 +125,16 @@ export default {
       'Test inițial de construcție a comunicării, tipărit, câte un exemplar pentru fiecare elev',
     ],
     desfasurare: [
-      { etapa: 'Moment organizatoric', timp: '3 min', activitate: 'Salut elevii, verific prezența și așez clasa pentru lucru individual.' },
-      { etapa: 'Captarea atenției', timp: '2 min', activitate: 'Le reamintesc că e a doua probă din evaluarea inițială, tot fără notă, și că împreună cele două teste îmi arată clar unde stăm.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că testul de azi verifică părțile de vorbire, propoziția și punctuația, adică regulile de bază ale limbii, învățate în ciclul primar.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '4 min', activitate: 'Recapitulăm în două minute, la tablă, ce este substantivul, verbul, adjectivul și ce semne de punctuație închid o propoziție.' },
-      { etapa: 'Dirijarea învățării', timp: '6 min', activitate: 'Distribui testele, citesc cerințele, explic modul de completare și timpul de lucru și răspund la întrebările de clarificare.' },
-      { etapa: 'Obținerea performanței', timp: '33 min', activitate: 'Elevii rezolvă individual testul de construcție a comunicării; supraveghez discret, gestionez timpul și strâng lucrările la final.' },
+      { etapa: 'Instructajul', timp: '5 min', activitate: pasi(
+        'Așez clasa câte un elev în bancă și distribui testele; reamintesc că e a doua probă a evaluării inițiale, tot fără notă în catalog.',
+        'Structura: I. Tipuri de propoziții (20 de puncte), II. Părți de vorbire (30), III. Subiect și predicat (20), IV. Punctuație (20); 10 puncte din oficiu; 40 de minute.',
+        'Citesc cerințele cu voce tare și răspund doar la întrebări despre ce se cere.') },
+      { etapa: 'Rezolvarea individuală', timp: '40 min', activitate: pasi(
+        'Elevii lucrează individual, în liniște; monitorizez fără să intervin pe conținut.',
+        'Anunț timpul rămas la 20 de minute și la 5 minute înainte de final.') },
+      { etapa: 'Strângerea lucrărilor', timp: '5 min', activitate: pasi(
+        'Elevii își verifică răspunsurile, apoi strâng testele.',
+        'Anunț ora de analiză: fiecare își va primi lucrarea și își va stabili obiectivele.') },
     ],
     evaluare: 'Evaluare inițială scrisă, cu punctaj orientativ, fără notă în catalog; erorile frecvente se centralizează pentru lecția de remediere.',
   },
@@ -106,17 +149,27 @@ export default {
     ],
     resurse: [
       'Lucrările corectate de la cele două teste inițiale',
-      'Fișă individuală de progres, câte una pentru fiecare elev',
+      'Fișa de remediere individuală (/materiale/clasa-5/recapitulare-initiala/lectia-5/fisa.pdf)',
       'Tablă, pentru centralizarea erorilor frecvente',
     ],
     desfasurare: [
-      { etapa: 'Moment organizatoric', timp: '3 min', activitate: 'Salut elevii, verific prezența și pregătesc lucrările corectate și fișele individuale de progres.' },
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Prezint, centralizat și fără nume, trei tipuri de greșeli care au apărut cel mai des în clasă și întreb elevii care cred că e cauza lor.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '3 min', activitate: 'Anunț că azi înțelegem ce a ieșit la testele inițiale și ce are fiecare de exersat mai departe, fără să ne comparăm între noi.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '9 min', activitate: 'Reluăm regulile pe care s-au poticnit cei mai mulți elevi: despărțirea în silabe, acordul, punctuația propoziției, cu exemple corectate la tablă.' },
-      { etapa: 'Dirijarea învățării', timp: '20 min', activitate: 'Discut pe rând greșelile tipice, arăt cum se corectează fiecare, apoi înmânez lucrările și trec pe la fiecare elev pentru o observație scurtă și concretă.' },
-      { etapa: 'Obținerea performanței', timp: '10 min', activitate: 'Fiecare elev completează fișa individuală de progres cu două lucruri pe care le face bine și două obiective de exersat până la prima recapitulare.' },
+      { etapa: 'Rezultatele clasei', timp: '5 min', activitate: pasi(
+        'Prezint, fără nume, cum arată rezultatele clasei la cele două teste și ce a mers bine în general.',
+        'Ora depinde de corectare: greșelile discutate se aleg după ce văd lucrările.') },
+      { etapa: 'Greșelile frecvente', timp: '12 min', activitate: pasi(
+        'Scriu pe tablă, fără nume, trei-patru greșeli care au apărut des (de exemplu, la felul propoziției și punctuație, la părțile de vorbire, la subiect și predicat, la scrierea corectă).',
+        'Elevii spun de ce cred că au apărut și cum se corectează; notăm regula lângă fiecare greșeală.') },
+      { etapa: 'Exersăm regulile', timp: '10 min', activitate: pasi(
+        'Pentru fiecare regulă, două exemple noi pe care le rezolvă elevii la tablă, cu ajutorul clasei; restul clasei lucrează în caiete.') },
+      { etapa: 'Lucrările înapoi', timp: '8 min', activitate: pasi(
+        'Împart lucrările corectate; fiecare își citește observațiile și își corectează în caiet o greșeală proprie.',
+        'Trec pe la bănci pentru o observație scurtă și concretă.') },
+      { etapa: 'Fișa de remediere', timp: '12 min', activitate: pasi(
+        'Fiecare elev completează fișa: punctajele celor două teste, ce a mers bine, ce e de exersat, unul-două obiective realiste pentru primele săptămâni.',
+        'Bifez eu măsurile de sprijin; cu elevii care au nevoie, stabilesc un moment de verificare.') },
+      { etapa: 'Încheiere', timp: '3 min', activitate: pasi(
+        'Fișele se păstrează în portofoliu și le revedem la prima recapitulare, după Unitatea I.') },
     ],
-    evaluare: 'Observarea sistematică a participării la discuție; fișa individuală de progres, folosită ca reper pe parcursul semestrului.',
+    evaluare: 'Observarea sistematică a participării la discuție; fișa individuală de remediere, folosită ca reper pe parcursul semestrului.',
   },
 }
