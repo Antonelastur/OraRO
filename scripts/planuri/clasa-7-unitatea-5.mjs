@@ -50,7 +50,7 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Investighează structura textului dramatic și identifică indicațiile scenice.'],
-    resurse: ['Manual Art 7, p. 172', 'Schema „Structura textului dramatic” (/materiale/clasa-7/unitatea-5/lectia-3/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 7, p. 172', 'Schema „Textul dramatic. Structura. Indicațiile scenice” (/materiale/clasa-7/unitatea-5/lectia-3/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Îi întreb pe elevi dacă piesa lui Matei Vișniec a fost scrisă pentru a fi citită sau pentru a fi jucată și cât ar dura spectacolul.' },
@@ -237,7 +237,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Reactualizează numeralul cardinal și ordinal, recunoscând valorile morfologice și funcțiile sintactice ale numeralului.'],
-    resurse: ['Manual Art 7, pp. 188-189', 'Schema „Numeralul, actualizare” (/materiale/clasa-7/unitatea-5/lectia-14/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 7, pp. 188-189', 'Schema „Numeralul. Posibilitățile combinatorii ale numeralului” (/materiale/clasa-7/unitatea-5/lectia-14/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Citim fragmentul din jurnalul Alexandrei, care a pus în scenă aceeași piesă, de la p. 188, și găsim numeralele.' },
@@ -254,7 +254,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Reactualizează tipurile de adverb, identificând calitatea de centru sau adjunct și atributul adverbial.'],
-    resurse: ['Manual Art 7, pp. 190-191', 'Schema „Adverbul, actualizare” (/materiale/clasa-7/unitatea-5/lectia-15/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 7, pp. 190-191', 'Schema „Adverbul. Posibilitățile combinatorii ale adverbului” (/materiale/clasa-7/unitatea-5/lectia-15/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Citim anunțul pentru selecția noii trupe de teatru a școlii și mesajele dintre cei doi colegi, de la p. 190, și găsim adverbele.' },
@@ -271,7 +271,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Identifică interjecțiile de adresare, onomatopeele și interjecțiile predicative și redactează texte care le conțin.'],
-    resurse: ['Manual Art 7, pp. 192-193', 'Schema „Interjecția. Onomatopeele” (/materiale/clasa-7/unitatea-5/lectia-16/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 7, pp. 192-193', 'Schema „Interjecția. Onomatopeele. Interjecția predicativă” (/materiale/clasa-7/unitatea-5/lectia-16/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Citim replicile „O… ce caraghios…”, „Ah, uite că începe să plouă…”, „Hei, unde este ieșirea” și spunem ce exprimă cuvintele colorate, apoi imităm sunetele animalelor din imaginile de la p. 192.' },

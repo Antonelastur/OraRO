@@ -1,20 +1,93 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="400" fill="#faf7f0"/>
-  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Structura textului dramatic</text>
-  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V · lecția 3 · text scris pentru a fi jucat pe scenă</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 967" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="967" fill="#faf7f0"/>
+<text x="154.3" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="592.4" lengthAdjust="spacing">Textul dramatic. Structura. Indicațiile scenice</text>
+<text x="222.6" y="74.4" font-size="14" fill="#5b6b83" textLength="454.7" lengthAdjust="spacing">Clasa a VII-a · Unitatea a V-a, Lecția 3 · Manual, p. 172 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. TEXTUL DRAMATIC</text>
+<rect x="40" y="128.6" width="820" height="230.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="118.5" lengthAdjust="spacing">Textul dramatic</text>
+<text x="184.9" y="162.6" font-size="16" fill="#10233f" textLength="123.8" lengthAdjust="spacing">este scris ca să fie</text>
+<text x="313.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="106.1" lengthAdjust="spacing">jucat pe scenă</text>
+<text x="419.1" y="162.6" font-size="16" fill="#10233f" textLength="294.4" lengthAdjust="spacing">. Fiind destinat spectacolului, are limite de</text>
+<text x="717.8" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="35.4" lengthAdjust="spacing">timp</text>
+<text x="757.5" y="162.6" font-size="16" fill="#10233f" textLength="32.6" lengthAdjust="spacing">și de</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="46.1" lengthAdjust="spacing">spațiu</text>
+<text x="112.4" y="185.8" font-size="16" fill="#10233f" textLength="78.9" lengthAdjust="spacing">ale acțiunii.</text>
+<rect x="62.0" y="204.6" width="380.0" height="136.5" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="232.6" font-size="16" fill="#0d9c92" font-weight="700" textLength="36.8" lengthAdjust="spacing">actul</text>
+<text x="78.0" y="255.9" font-size="14.5" fill="#3a3226" textLength="161.2" lengthAdjust="spacing">diviziune formală a piesei</text>
+<text x="78.0" y="279.8" font-size="14.5" fill="#3a3226" textLength="176.6" lengthAdjust="spacing">separat de celelalte printr-o</text>
+<text x="258.5" y="279.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="40.5" lengthAdjust="spacing">pauză</text>
+<text x="299.0" y="279.8" font-size="14.5" fill="#3a3226" textLength="100.5" lengthAdjust="spacing">: se lasă cortina,</text>
+<text x="78.0" y="300.8" font-size="14.5" fill="#3a3226" textLength="117.2" lengthAdjust="spacing">spectatorii pot ieși</text>
+<text x="78.0" y="324.8" font-size="14.5" fill="#3a3226" textLength="178.1" lengthAdjust="spacing">poate avea mai multe scene</text>
+<rect x="458.0" y="204.6" width="380.0" height="136.5" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="232.6" font-size="16" fill="#6f5ea8" font-weight="700" textLength="111.4" lengthAdjust="spacing">scena (tabloul)</text>
+<text x="474.0" y="255.9" font-size="14.5" fill="#3a3226" textLength="137.2" lengthAdjust="spacing">subdiviziune a actului</text>
+<text x="474.0" y="279.8" font-size="14.5" fill="#3a3226" textLength="83.7" lengthAdjust="spacing">delimitată de</text>
+<text x="561.6" y="279.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="128.6" lengthAdjust="spacing">intrarea sau ieșirea</text>
+<text x="694.1" y="279.8" font-size="14.5" fill="#3a3226" textLength="108.2" lengthAdjust="spacing">unui personaj ori</text>
+<text x="474.0" y="300.8" font-size="14.5" fill="#3a3226" textLength="220.7" lengthAdjust="spacing">de schimbarea locului și a timpului</text>
+<text x="474.0" y="324.8" font-size="14.5" fill="#3a3226" textLength="170.4" lengthAdjust="spacing">uneori, de unitatea acțiunii</text>
+<rect x="40" y="379.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="402.1" font-size="16" font-weight="700" fill="#ffffff">2. CELE DOUĂ COMPONENTE</text>
+<rect x="40" y="413.1" width="820" height="241.7" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="431.1" width="776.0" height="31.6" fill="#efeaf8"/>
 
-  <rect x="55" y="80" width="790" height="60" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="75" y="102" font-size="13" font-weight="700" fill="#10233f">Împărțirea</text>
-  <text font-size="10.5" fill="#3a3226"><tspan x="75" y="121">acte: diviziuni formale, separate de o pauză în care se lasă cortina</tspan><tspan x="75" y="136">scene sau tablouri: subdiviziuni ale actului, la intrarea/ieșirea unui personaj sau la schimbarea locului</tspan></text>
-
-  <rect x="55" y="150" width="390" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="75" y="174" font-size="13" font-weight="700" fill="#10233f">Textul dialogat</text>
-  <text font-size="11" fill="#3a3226"><tspan x="75" y="196">alcătuit din replicile personajelor</tspan><tspan x="75" y="214">(fiecare intervenție a unui personaj)</tspan><tspan x="75" y="236">autorul imaginează acțiunea și</tspan><tspan x="75" y="254">construiește schimbul de replici</tspan><tspan x="75" y="276">reprezintă partea literară a textului</tspan></text>
-
-  <rect x="465" y="150" width="380" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="485" y="174" font-size="13" font-weight="700" fill="#10233f">Indicațiile autorului (didascalii)</text>
-  <text font-size="11" fill="#3a3226"><tspan x="485" y="196">nu sunt rostite de actori; între paranteze,</tspan><tspan x="485" y="214">de obicei cu italice</tspan><tspan x="485" y="236">externe: titlul, lista personajelor, spațiul,</tspan><tspan x="485" y="254">timpul, decorul</tspan><tspan x="485" y="272">interne: decupajul în acte și scene, intrări,</tspan><tspan x="485" y="290">ieșiri, deplasare, intonație, gesturi, tăceri</tspan></text>
-
-  <text x="450" y="336" text-anchor="middle" font-size="11" fill="#3a3226">Numele personajului, în fața replicii și cu majuscule, este tot o indicație internă.</text>
-  <text x="450" y="378" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, p. 172</text>
+<text x="198.2" y="452.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="96.1" lengthAdjust="spacing">Textul dialogat</text>
+<text x="524.1" y="452.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="124.6" lengthAdjust="spacing">Indicațiile autorului</text>
+<line x1="62.0" y1="462.7" x2="838.0" y2="462.7" stroke="#e3dccb"/>
+<text x="74.0" y="485.2" font-size="14.5" fill="#3a3226" textLength="44.2" lengthAdjust="spacing">ce este</text>
+<text x="198.2" y="485.2" font-size="14.5" fill="#3a3226" textLength="141.1" lengthAdjust="spacing">replicile personajelor (</text>
+<text x="339.2" y="485.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="45.5" lengthAdjust="spacing">replica</text>
+<text x="388.7" y="485.2" font-size="14.5" fill="#3a3226" textLength="98.6" lengthAdjust="spacing">= o intervenție)</text>
+<text x="524.1" y="485.2" font-size="14.5" fill="#3a3226" textLength="119.2" lengthAdjust="spacing">indicațiile scenice (</text>
+<text x="643.3" y="485.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="75.1" lengthAdjust="spacing">didascaliile</text>
+<text x="718.4" y="485.2" font-size="14.5" fill="#3a3226" textLength="7.5" lengthAdjust="spacing">);</text>
+<text x="729.8" y="485.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="51.5" lengthAdjust="spacing">nu sunt</text>
+<text x="524.1" y="506.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="44.2" lengthAdjust="spacing">rostite</text>
+<text x="572.2" y="506.2" font-size="14.5" fill="#3a3226" textLength="56.1" lengthAdjust="spacing">de actori</text>
+<line x1="62.0" y1="516.5" x2="838.0" y2="516.5" stroke="#e3dccb"/>
+<text x="74.0" y="539.0" font-size="14.5" fill="#3a3226" textLength="32.6" lengthAdjust="spacing">unde</text>
+<text x="198.2" y="539.0" font-size="14.5" fill="#3a3226" textLength="166.6" lengthAdjust="spacing">după numele personajului</text>
+<text x="524.1" y="539.0" font-size="14.5" fill="#3a3226" textLength="272.0" lengthAdjust="spacing">înaintea textului dialogat și în interiorul lui,</text>
+<text x="524.1" y="560.1" font-size="14.5" fill="#3a3226" textLength="29.3" lengthAdjust="spacing">între</text>
+<text x="557.3" y="560.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="67.6" lengthAdjust="spacing">paranteze</text>
+<text x="624.9" y="560.1" font-size="14.5" fill="#3a3226" textLength="84.2" lengthAdjust="spacing">, de obicei cu</text>
+<text x="713.0" y="560.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="40.5" lengthAdjust="spacing">italice</text>
+<line x1="62.0" y1="570.4" x2="838.0" y2="570.4" stroke="#e3dccb"/>
+<text x="74.0" y="592.9" font-size="14.5" fill="#3a3226" textLength="63.1" lengthAdjust="spacing">ce parte e</text>
+<text x="198.2" y="592.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="96.9" lengthAdjust="spacing">partea literară</text>
+<text x="524.1" y="592.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="123.4" lengthAdjust="spacing">partea nonliterară</text>
+<line x1="62.0" y1="603.3" x2="838.0" y2="603.3" stroke="#e3dccb"/>
+<line x1="186.2" y1="431.1" x2="186.2" y2="603.3" stroke="#e3dccb"/>
+<line x1="512.1" y1="431.1" x2="512.1" y2="603.3" stroke="#e3dccb"/>
+<text x="62.0" y="632.3" font-size="15" fill="#3a3226" font-weight="700" textLength="90.8" lengthAdjust="spacing">Dramaturgul</text>
+<text x="156.8" y="632.3" font-size="15" fill="#3a3226" textLength="574.2" lengthAdjust="spacing">imaginează acțiunea, construiește schimbul de replici și dă indicații despre interpretare.</text>
+<rect x="40" y="674.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="697.8" font-size="16" font-weight="700" fill="#ffffff">3. INDICAȚIILE AUTORULUI</text>
+<rect x="40" y="708.8" width="820" height="207.5" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="726.8" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="748.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="30.1" lengthAdjust="spacing">Felul</text>
+<text x="229.2" y="748.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="68.3" lengthAdjust="spacing">Ce cuprind</text>
+<line x1="62.0" y1="758.3" x2="838.0" y2="758.3" stroke="#e3dccb"/>
+<text x="74.0" y="780.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="51.8" lengthAdjust="spacing">externe</text>
+<text x="229.2" y="780.8" font-size="14.5" fill="#3a3226" textLength="31.8" lengthAdjust="spacing">titlul,</text>
+<text x="264.9" y="780.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="117.2" lengthAdjust="spacing">lista personajelor</text>
+<text x="382.0" y="780.8" font-size="14.5" fill="#3a3226" textLength="160.9" lengthAdjust="spacing">, spațiul și timpul acțiunii,</text>
+<text x="546.9" y="780.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="51.3" lengthAdjust="spacing">decorul</text>
+<line x1="62.0" y1="791.2" x2="838.0" y2="791.2" stroke="#e3dccb"/>
+<text x="74.0" y="813.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="48.9" lengthAdjust="spacing">interne</text>
+<text x="229.2" y="813.7" font-size="14.5" fill="#3a3226" textLength="501.1" lengthAdjust="spacing">împărțirea în acte și scene; intrările și ieșirile personajelor, deplasarea pe scenă,</text>
+<text x="734.2" y="813.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="65.5" lengthAdjust="spacing">intonația,</text>
+<text x="229.2" y="834.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="117.0" lengthAdjust="spacing">mimica, gesturile</text>
+<text x="346.2" y="834.7" font-size="14.5" fill="#3a3226" textLength="206.8" lengthAdjust="spacing">, acțiunile, momentele de tăcere;</text>
+<text x="556.9" y="834.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="139.2" lengthAdjust="spacing">numele personajului</text>
+<text x="700.0" y="834.7" font-size="14.5" fill="#3a3226" textLength="113.8" lengthAdjust="spacing">scris cu majuscule</text>
+<text x="229.2" y="855.7" font-size="14.5" fill="#3a3226" textLength="96.4" lengthAdjust="spacing">înaintea replicii</text>
+<line x1="62.0" y1="866.1" x2="838.0" y2="866.1" stroke="#e3dccb"/>
+<line x1="217.2" y1="726.8" x2="217.2" y2="866.1" stroke="#e3dccb"/>
+<text x="62.0" y="894.1" font-size="14" fill="#5b6b83" font-style="italic" textLength="58.9" lengthAdjust="spacing">Didascalii</text>
+<text x="124.7" y="894.1" font-size="14" fill="#5b6b83" textLength="543.3" lengthAdjust="spacing">vine din greacă: așa se numeau caietele cu indicații date actorilor înaintea reprezentației.</text>
+<text x="154.1" y="947.8" font-size="11.5" fill="#5b6b83" textLength="591.8" lengthAdjust="spacing">Sursa: Manual Art 7, p. 172, rubrica Repere; textul de bază este „Vrem să vă dăruim câte o fereastră” de Matei Vișniec.</text>
 </svg>

@@ -149,7 +149,7 @@ export const unitatea5 = {
         ],
         resurse: [
           'Manual Art 7, p. 172',
-          'Schema „Structura textului dramatic” (/materiale/clasa-7/unitatea-5/lectia-3/schema.svg)',
+          'Schema „Textul dramatic. Structura. Indicațiile scenice” (/materiale/clasa-7/unitatea-5/lectia-3/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -186,7 +186,7 @@ export const unitatea5 = {
         ],
         evaluare: 'Observarea sistematică a elevilor; aprecieri.',
       },
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-5/lectia-3/schema.svg', titlu: 'Structura textului dramatic' }, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-5/lectia-3/schema.svg', titlu: 'Textul dramatic. Structura. Indicațiile scenice' }, altele: [] },
     },
     {
       id: 'lectia-4',
@@ -880,7 +880,7 @@ export const unitatea5 = {
         ],
         resurse: [
           'Manual Art 7, pp. 188-189',
-          'Schema „Numeralul, actualizare” (/materiale/clasa-7/unitatea-5/lectia-14/schema.svg)',
+          'Schema „Numeralul. Posibilitățile combinatorii ale numeralului” (/materiale/clasa-7/unitatea-5/lectia-14/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -917,7 +917,7 @@ export const unitatea5 = {
         ],
         evaluare: 'Observarea sistematică a elevilor; aprecieri.',
       },
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-5/lectia-14/schema.svg', titlu: 'Numeralul, actualizare' }, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-5/lectia-14/schema.svg', titlu: 'Numeralul. Posibilitățile combinatorii ale numeralului' }, altele: [] },
     },
     {
       id: 'lectia-15',
@@ -937,7 +937,7 @@ export const unitatea5 = {
         ],
         resurse: [
           'Manual Art 7, pp. 190-191',
-          'Schema „Adverbul, actualizare” (/materiale/clasa-7/unitatea-5/lectia-15/schema.svg)',
+          'Schema „Adverbul. Posibilitățile combinatorii ale adverbului” (/materiale/clasa-7/unitatea-5/lectia-15/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -974,7 +974,7 @@ export const unitatea5 = {
         ],
         evaluare: 'Observarea sistematică a elevilor; aprecieri. Temă de portofoliu: indicații de decor, de 30-50 de cuvinte, cu cât mai multe adverbe.',
       },
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-5/lectia-15/schema.svg', titlu: 'Adverbul, actualizare' }, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-5/lectia-15/schema.svg', titlu: 'Adverbul. Posibilitățile combinatorii ale adverbului' }, altele: [] },
     },
     {
       id: 'lectia-16',
@@ -994,7 +994,7 @@ export const unitatea5 = {
         ],
         resurse: [
           'Manual Art 7, pp. 192-193',
-          'Schema „Interjecția. Onomatopeele” (/materiale/clasa-7/unitatea-5/lectia-16/schema.svg)',
+          'Schema „Interjecția. Onomatopeele. Interjecția predicativă” (/materiale/clasa-7/unitatea-5/lectia-16/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -1031,7 +1031,7 @@ export const unitatea5 = {
         ],
         evaluare: 'Observarea sistematică a elevilor; autoevaluarea de la p. 193. Minitestul lecției e în varianta digitală a manualului, cu baremul în Anexa 7.e a Ghidului profesorului.',
       },
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-5/lectia-16/schema.svg', titlu: 'Interjecția. Onomatopeele' }, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-5/lectia-16/schema.svg', titlu: 'Interjecția. Onomatopeele. Interjecția predicativă' }, altele: [] },
     },
     {
       id: 'lectia-17',
