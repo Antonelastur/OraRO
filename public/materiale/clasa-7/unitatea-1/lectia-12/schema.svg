@@ -1,21 +1,121 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="340" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Derivarea</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 11</text>
-  <g>
-    <rect x="60" y="95" width="240" height="170" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="180" y="123" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Cu prefix/sufix</text>
-    <text font-size="11" fill="#3a3226" text-anchor="middle"><tspan x="180" y="150">cuvânt de bază +</tspan><tspan x="180" y="166">prefix sau sufix</tspan><tspan x="180" y="192" font-style="italic">citi → citi-tor</tspan></text>
-  </g>
-  <g>
-    <rect x="330" y="95" width="240" height="170" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="450" y="123" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Parasintetic</text>
-    <text font-size="11" fill="#3a3226" text-anchor="middle"><tspan x="450" y="150">prefix + rădăcină</tspan><tspan x="450" y="166">+ sufix, deodată</tspan><tspan x="450" y="192" font-style="italic">în-frumuseț-are</tspan></text>
-  </g>
-  <g>
-    <rect x="600" y="95" width="240" height="170" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="720" y="123" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Diminutival</text>
-    <text font-size="11" fill="#3a3226" text-anchor="middle"><tspan x="720" y="150">sufix care arată</tspan><tspan x="720" y="166">mărime mai mică</tspan><tspan x="720" y="192" font-style="italic">carte → cărticică</tspan></text>
-  </g>
-  <text x="450" y="300" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, pp. 32-33</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1139" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1139" fill="#faf7f0"/>
+<text x="386.7" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="126.6" lengthAdjust="spacing">Derivarea</text>
+<text x="222.4" y="74.4" font-size="14" fill="#5b6b83" textLength="455.1" lengthAdjust="spacing">Clasa a VII-a · Unitatea I, Lecția 12 · Manual, pp. 32-33 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CUVÂNTUL DE BAZĂ ȘI RĂDĂCINA</text>
+<rect x="40" y="128.6" width="820" height="221.3" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="121.5" lengthAdjust="spacing">Cuvântul de bază</text>
+<text x="187.5" y="161.6" font-size="15" fill="#3a3226" textLength="282.0" lengthAdjust="spacing">este punctul de plecare pentru cuvinte noi.</text>
+<text x="473.6" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="63.9" lengthAdjust="spacing">Rădăcina</text>
+<text x="541.5" y="161.6" font-size="15" fill="#3a3226" textLength="272.7" lengthAdjust="spacing">este partea comună cuvântului de bază și</text>
+<text x="62.0" y="183.3" font-size="15" fill="#3a3226" textLength="523.6" lengthAdjust="spacing">tuturor cuvintelor formate din el; poate avea altă formă decât cuvântul de bază:</text>
+<rect x="62.0" y="201.8" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="135.5" y="223.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="109.3" lengthAdjust="spacing">Cuvântul de bază</text>
+<text x="420.8" y="223.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="58.3" lengthAdjust="spacing">Derivatul</text>
+<text x="681.2" y="223.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="57.5" lengthAdjust="spacing">Rădăcina</text>
+<line x1="62.0" y1="233.4" x2="838.0" y2="233.4" stroke="#e3dccb"/>
+<text x="172.3" y="255.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="35.5" lengthAdjust="spacing">nepot</text>
+<text x="426.8" y="255.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="46.4" lengthAdjust="spacing">nepoțel</text>
+<text x="689.3" y="255.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="41.3" lengthAdjust="spacing">nepoț-</text>
+<line x1="62.0" y1="266.2" x2="838.0" y2="266.2" stroke="#e3dccb"/>
+<text x="177.3" y="288.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="25.5" lengthAdjust="spacing">măr</text>
+<text x="426.3" y="288.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="47.4" lengthAdjust="spacing">merișor</text>
+<text x="694.7" y="288.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="30.6" lengthAdjust="spacing">mer-</text>
+<line x1="62.0" y1="299.1" x2="838.0" y2="299.1" stroke="#e3dccb"/>
+<text x="173.0" y="321.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="34.1" lengthAdjust="spacing">verde</text>
+<text x="423.5" y="321.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="53.1" lengthAdjust="spacing">a înverzi</text>
+<text x="694.2" y="321.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="31.5" lengthAdjust="spacing">verz-</text>
+<line x1="62.0" y1="332.0" x2="838.0" y2="332.0" stroke="#e3dccb"/>
+<line x1="318.1" y1="201.8" x2="318.1" y2="331.9" stroke="#e3dccb"/>
+<line x1="581.9" y1="201.8" x2="581.9" y2="331.9" stroke="#e3dccb"/>
+<rect x="40" y="369.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="392.9" font-size="16" font-weight="700" fill="#ffffff">2. SUFIXELE ȘI PREFIXELE</text>
+<rect x="40" y="403.9" width="820" height="418.6" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="421.9" width="776.0" height="31.6" fill="#efeaf8"/>
+
+<text x="244.7" y="443.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="64.1" lengthAdjust="spacing">Unde stau</text>
+<text x="462.0" y="443.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="53.7" lengthAdjust="spacing">Exemple</text>
+<line x1="62.0" y1="453.5" x2="838.0" y2="453.5" stroke="#e3dccb"/>
+<text x="74.0" y="476.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="95.3" lengthAdjust="spacing">sufixe lexicale</text>
+<text x="244.7" y="476.0" font-size="14.5" fill="#3a3226" textLength="157.5" lengthAdjust="spacing">după rădăcină; formează</text>
+<text x="244.7" y="497.0" font-size="14.5" fill="#3a3226" textLength="70.3" lengthAdjust="spacing">cuvinte noi</text>
+<text x="462.0" y="476.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="103.7" lengthAdjust="spacing">inim-os, copil-aș</text>
+<line x1="62.0" y1="507.4" x2="838.0" y2="507.4" stroke="#e3dccb"/>
+<text x="74.0" y="529.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="124.8" lengthAdjust="spacing">sufixe gramaticale</text>
+<text x="244.7" y="529.9" font-size="14.5" fill="#3a3226" textLength="170.2" lengthAdjust="spacing">creează forme ale aceluiași</text>
+<text x="244.7" y="550.9" font-size="14.5" fill="#3a3226" textLength="42.5" lengthAdjust="spacing">cuvânt</text>
+<text x="462.0" y="529.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="80.2" lengthAdjust="spacing">cumpăr-a-se</text>
+<text x="542.2" y="529.9" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">:</text>
+<text x="549.3" y="529.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="19.4" lengthAdjust="spacing">-a-</text>
+<text x="572.6" y="529.9" font-size="14.5" fill="#3a3226" textLength="103.0" lengthAdjust="spacing">(perfect simplu),</text>
+<text x="679.5" y="529.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="24.5" lengthAdjust="spacing">-se-</text>
+<text x="462.0" y="550.9" font-size="14.5" fill="#3a3226" textLength="137.5" lengthAdjust="spacing">(mai-mult-ca-perfect)</text>
+<line x1="62.0" y1="561.2" x2="838.0" y2="561.2" stroke="#e3dccb"/>
+<text x="74.0" y="583.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="48.0" lengthAdjust="spacing">prefixe</text>
+<text x="244.7" y="583.8" font-size="14.5" fill="#3a3226" textLength="108.5" lengthAdjust="spacing">înaintea rădăcinii</text>
+<text x="462.0" y="583.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="129.9" lengthAdjust="spacing">stră-vechi, ne-înțeles</text>
+<line x1="62.0" y1="594.1" x2="838.0" y2="594.1" stroke="#e3dccb"/>
+<line x1="232.7" y1="421.9" x2="232.7" y2="594.1" stroke="#e3dccb"/>
+<line x1="450.0" y1="421.9" x2="450.0" y2="594.1" stroke="#e3dccb"/>
+<text x="62.0" y="623.1" font-size="15" fill="#3a3226" textLength="152.1" lengthAdjust="spacing">Sufixul lexical îl caut pe</text>
+<text x="218.2" y="623.1" font-size="15" fill="#3a3226" font-weight="700" textLength="131.7" lengthAdjust="spacing">forma de dicționar</text>
+<text x="349.9" y="623.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="357.2" y="623.1" font-size="15" fill="#10233f" font-style="italic" textLength="57.0" lengthAdjust="spacing">copilașul</text>
+<text x="418.2" y="623.1" font-size="15" fill="#3a3226" textLength="12.9" lengthAdjust="spacing">→</text>
+<text x="435.2" y="623.1" font-size="15" fill="#10233f" font-style="italic" textLength="44.7" lengthAdjust="spacing">copilaș</text>
+<text x="483.9" y="623.1" font-size="15" fill="#3a3226" textLength="12.9" lengthAdjust="spacing">→</text>
+<text x="500.9" y="623.1" font-size="15" fill="#3a3226" font-weight="700" textLength="20.7" lengthAdjust="spacing">-aș</text>
+<text x="521.6" y="623.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="641.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="663.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="136.9" lengthAdjust="spacing">Diminutivele exprimă</text>
+<text x="345.6" y="663.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="673.1" x2="838.0" y2="673.1" stroke="#e3dccb"/>
+<text x="74.0" y="695.6" font-size="14.5" fill="#3a3226" textLength="69.7" lengthAdjust="spacing">micșorarea</text>
+<text x="345.6" y="695.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="43.2" lengthAdjust="spacing">copilaș</text>
+<line x1="62.0" y1="706.0" x2="838.0" y2="706.0" stroke="#e3dccb"/>
+<text x="74.0" y="728.5" font-size="14.5" fill="#3a3226" textLength="53.8" lengthAdjust="spacing">simpatia</text>
+<text x="345.6" y="728.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="125.1" lengthAdjust="spacing">Am un nepoțel isteț.</text>
+<line x1="62.0" y1="738.9" x2="838.0" y2="738.9" stroke="#e3dccb"/>
+<text x="74.0" y="761.4" font-size="14.5" fill="#3a3226" textLength="75.0" lengthAdjust="spacing">deprecierea</text>
+<text x="345.6" y="761.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="152.8" lengthAdjust="spacing">Era un biet funcționăraș.</text>
+<line x1="62.0" y1="771.7" x2="838.0" y2="771.7" stroke="#e3dccb"/>
+<text x="74.0" y="794.2" font-size="14.5" fill="#3a3226" textLength="63.8" lengthAdjust="spacing">atenuarea</text>
+<text x="345.6" y="794.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="115.7" lengthAdjust="spacing">Stai un momențel!</text>
+<line x1="62.0" y1="804.6" x2="838.0" y2="804.6" stroke="#e3dccb"/>
+<line x1="333.6" y1="641.6" x2="333.6" y2="804.5" stroke="#e3dccb"/>
+<rect x="40" y="842.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="865.5" font-size="16" font-weight="700" fill="#ffffff">3. DERIVAREA</text>
+<rect x="40" y="876.5" width="820" height="211.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="910.5" font-size="16" fill="#10233f" font-weight="700" textLength="72.3" lengthAdjust="spacing">Derivarea</text>
+<text x="138.6" y="910.5" font-size="16" fill="#10233f" textLength="227.2" lengthAdjust="spacing">formează cuvinte noi cu ajutorul</text>
+<text x="370.1" y="910.5" font-size="16" fill="#10233f" font-weight="700" textLength="65.4" lengthAdjust="spacing">sufixelor</text>
+<text x="439.9" y="910.5" font-size="16" fill="#10233f" textLength="26.9" lengthAdjust="spacing">și al</text>
+<text x="471.1" y="910.5" font-size="16" fill="#10233f" font-weight="700" textLength="73.6" lengthAdjust="spacing">prefixelor</text>
+<text x="544.7" y="910.5" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<text x="62.0" y="944.3" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="944.3" font-size="15" fill="#3a3226" font-weight="700" textLength="138.3" lengthAdjust="spacing">Derivat parasintetic</text>
+<text x="212.5" y="944.3" font-size="15" fill="#3a3226" textLength="193.9" lengthAdjust="spacing">: prefix și sufix în același timp:</text>
+<text x="410.5" y="944.3" font-size="15" fill="#10233f" font-style="italic" textLength="72.9" lengthAdjust="spacing">a în-lemn-i</text>
+<text x="483.4" y="944.3" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="969.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="969.1" font-size="15" fill="#3a3226" font-weight="700" textLength="109.0" lengthAdjust="spacing">Serie derivativă</text>
+<text x="183.2" y="969.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="190.6" y="969.1" font-size="15" fill="#10233f" font-style="italic" textLength="214.3" lengthAdjust="spacing">grădină → grădinar → grădinărie</text>
+<text x="404.9" y="969.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="987.6" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="987.6" width="6" height="82.7" rx="3" fill="#b4432c"/><text x="84.0" y="1014.1" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.2" lengthAdjust="spacing">Scrierea</text>
+<text x="84.0" y="1032.9" font-size="14.5" fill="#3a3226" textLength="105.0" lengthAdjust="spacing">Prefixele se scriu</text>
+<text x="192.9" y="1032.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="34.4" lengthAdjust="spacing">legat</text>
+<text x="227.3" y="1032.9" font-size="14.5" fill="#3a3226" textLength="63.2" lengthAdjust="spacing">; excepție:</text>
+<text x="294.4" y="1032.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="19.6" lengthAdjust="spacing">ex-</text>
+<text x="317.9" y="1032.9" font-size="14.5" fill="#3a3226" textLength="105.8" lengthAdjust="spacing">cu sensul „fost” (</text>
+<text x="423.7" y="1032.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="84.1" lengthAdjust="spacing">ex-președinte</text>
+<text x="507.8" y="1032.9" font-size="14.5" fill="#3a3226" textLength="141.7" lengthAdjust="spacing">). Dacă baza începe cu</text>
+<text x="653.4" y="1032.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="4.1" lengthAdjust="spacing">î</text>
+<text x="657.5" y="1032.9" font-size="14.5" fill="#3a3226" textLength="127.6" lengthAdjust="spacing">, derivatul păstrează</text>
+<text x="789.0" y="1032.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="4.1" lengthAdjust="spacing">î</text>
+<text x="84.0" y="1054.0" font-size="14.5" fill="#3a3226" textLength="75.7" lengthAdjust="spacing">după prefix:</text>
+<text x="163.6" y="1054.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="61.2" lengthAdjust="spacing">neînceput</text>
+<text x="224.8" y="1054.0" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="332.4" y="1119.8" font-size="11.5" fill="#5b6b83" textLength="235.3" lengthAdjust="spacing">Sursa: Manual Art 7, pp. 32-33, rubrica Repere.</text>
 </svg>

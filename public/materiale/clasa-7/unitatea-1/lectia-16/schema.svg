@@ -1,38 +1,107 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="400" fill="#faf7f0"/>
-  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Îmbinări libere de cuvinte și locuțiuni</text>
-  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I · lecția 16 · termeni științifici, limbaj popular, variație regională</text>
-
-  <rect x="55" y="80" width="380" height="118" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Locuțiunile</text>
-  <text font-size="11" fill="#3a3226"><tspan x="75" y="126">grupuri stabile cu sens unitar; termenii</tspan><tspan x="75" y="144">își pierd sensul inițial, grupul se comportă</tspan><tspan x="75" y="162">ca un cuvânt, cu valoarea morfologică</tspan><tspan x="75" y="180">a cuvântului sinonim</tspan></text>
-
-  <rect x="465" y="80" width="380" height="118" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="485" y="104" font-size="13" font-weight="700" fill="#10233f">Îmbinările libere</text>
-  <text font-size="11" fill="#3a3226"><tspan x="485" y="126">fiecare component își păstrează autonomia</tspan><tspan x="485" y="144">sintactică și de sens; tind să devină</tspan><tspan x="485" y="162">locuțiuni</tspan><tspan x="485" y="182" font-style="italic">aurul negru = „petrol”</tspan></text>
-
-  <g font-size="10.5" fill="#3a3226">
-    <rect x="55" y="214" width="255" height="120" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="182" y="236" text-anchor="middle" font-size="12" font-weight="700" fill="#10233f">Termeni științifici</text>
-    <text x="182" y="258" text-anchor="middle">cuvinte din domenii:</text>
-    <text x="182" y="276" text-anchor="middle">sit (arheologie),</text>
-    <text x="182" y="294" text-anchor="middle">ecuație (matematică),</text>
-    <text x="182" y="312" text-anchor="middle">incizie (medicină)</text>
-
-    <rect x="322" y="214" width="255" height="120" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="450" y="236" text-anchor="middle" font-size="12" font-weight="700" fill="#10233f">Limbaj popular</text>
-    <text x="450" y="258" text-anchor="middle">răspândit pe tot teritoriul,</text>
-    <text x="450" y="276" text-anchor="middle">cunoscut de toți, dar</text>
-    <text x="450" y="294" text-anchor="middle">neliterar: lănucă,</text>
-    <text x="450" y="312" text-anchor="middle">a umbla lela</text>
-
-    <rect x="589" y="214" width="256" height="120" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="717" y="236" text-anchor="middle" font-size="12" font-weight="700" fill="#10233f">Variație regională</text>
-    <text x="717" y="258" text-anchor="middle">pronunții (ținci = „cinci”),</text>
-    <text x="717" y="276" text-anchor="middle">forme (o făcut = „a făcut”),</text>
-    <text x="717" y="294" text-anchor="middle">cuvinte zonale: laibăr</text>
-    <text x="717" y="312" text-anchor="middle">(Ardeal), blagă (Banat)</text>
-  </g>
-
-  <text x="450" y="366" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, p. 38</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 977" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="977" fill="#faf7f0"/>
+<text x="42.5" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="816.7" lengthAdjust="spacing">Locuțiuni, termeni științifici, limbaj popular, variație regională</text>
+<text x="236.9" y="74.4" font-size="14" fill="#5b6b83" textLength="426.2" lengthAdjust="spacing">Clasa a VII-a · Unitatea I, Lecția 16 · Manual, p. 38 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. LOCUȚIUNILE ȘI ÎMBINĂRILE LIBERE</text>
+<rect x="40" y="128.6" width="820" height="193.6" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="146.6" width="380.0" height="157.6" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="174.6" font-size="16" fill="#0d9c92" font-weight="700" textLength="79.2" lengthAdjust="spacing">locuțiunea</text>
+<text x="78.0" y="197.9" font-size="14.5" fill="#3a3226" textLength="30.4" lengthAdjust="spacing">grup</text>
+<text x="112.4" y="197.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="37.0" lengthAdjust="spacing">stabil</text>
+<text x="149.3" y="197.9" font-size="14.5" fill="#3a3226" textLength="22.0" lengthAdjust="spacing">, cu</text>
+<text x="175.3" y="197.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="74.5" lengthAdjust="spacing">sens unitar</text>
+<text x="249.8" y="197.9" font-size="14.5" fill="#3a3226" textLength="157.6" lengthAdjust="spacing">; termenii își pierd sensul</text>
+<text x="78.0" y="218.9" font-size="14.5" fill="#3a3226" textLength="34.5" lengthAdjust="spacing">inițial</text>
+<text x="78.0" y="242.8" font-size="14.5" fill="#3a3226" textLength="99.8" lengthAdjust="spacing">funcționează ca</text>
+<text x="181.7" y="242.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="114.7" lengthAdjust="spacing">un singur cuvânt</text>
+<text x="300.3" y="242.8" font-size="14.5" fill="#3a3226" textLength="91.2" lengthAdjust="spacing">și are valoarea</text>
+<text x="78.0" y="263.9" font-size="14.5" fill="#3a3226" textLength="188.8" lengthAdjust="spacing">cuvântului cu care e sinonimă</text>
+<text x="78.0" y="287.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="126.1" lengthAdjust="spacing">a o lua la sănătoasa</text>
+<text x="208.1" y="287.8" font-size="14.5" fill="#3a3226" textLength="58.6" lengthAdjust="spacing">(= a fugi)</text>
+<rect x="458.0" y="146.6" width="380.0" height="157.6" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="174.6" font-size="16" fill="#6f5ea8" font-weight="700" textLength="122.7" lengthAdjust="spacing">îmbinarea liberă</text>
+<text x="474.0" y="197.9" font-size="14.5" fill="#3a3226" textLength="170.4" lengthAdjust="spacing">fiecare cuvânt își păstrează</text>
+<text x="648.3" y="197.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="42.3" lengthAdjust="spacing">sensul</text>
+<text x="694.5" y="197.9" font-size="14.5" fill="#3a3226" textLength="9.6" lengthAdjust="spacing">și</text>
+<text x="708.0" y="197.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="47.7" lengthAdjust="spacing">funcția</text>
+<text x="474.0" y="218.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="64.2" lengthAdjust="spacing">sintactică</text>
+<text x="474.0" y="242.8" font-size="14.5" fill="#3a3226" textLength="190.2" lengthAdjust="spacing">unele tind să devină locuțiuni:</text>
+<text x="668.2" y="242.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="73.4" lengthAdjust="spacing">aurul negru</text>
+<text x="745.4" y="242.8" font-size="14.5" fill="#3a3226" textLength="57.9" lengthAdjust="spacing">(„petrol”)</text>
+<text x="474.0" y="266.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="78.3" lengthAdjust="spacing">a lua o carte</text>
+<rect x="40" y="342.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="365.1" font-size="16" font-weight="700" fill="#ffffff">2. TERMENII ȘTIINȚIFICI</text>
+<rect x="40" y="376.1" width="820" height="166.1" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="394.1" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="415.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="62.0" lengthAdjust="spacing">Domeniul</text>
+<text x="244.7" y="415.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<text x="462.0" y="415.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="62.0" lengthAdjust="spacing">Domeniul</text>
+<text x="632.7" y="415.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="425.7" x2="838.0" y2="425.7" stroke="#e3dccb"/>
+<text x="74.0" y="448.2" font-size="14.5" fill="#3a3226" textLength="68.4" lengthAdjust="spacing">arheologie</text>
+<text x="244.7" y="448.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="14.2" lengthAdjust="spacing">sit</text>
+<text x="462.0" y="448.2" font-size="14.5" fill="#3a3226" textLength="62.8" lengthAdjust="spacing">lingvistică</text>
+<text x="632.7" y="448.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="63.4" lengthAdjust="spacing">substantiv</text>
+<line x1="62.0" y1="458.6" x2="838.0" y2="458.6" stroke="#e3dccb"/>
+<text x="74.0" y="481.0" font-size="14.5" fill="#3a3226" textLength="52.2" lengthAdjust="spacing">biologie</text>
+<text x="244.7" y="481.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="68.2" lengthAdjust="spacing">citoplasmă</text>
+<text x="462.0" y="481.0" font-size="14.5" fill="#3a3226" textLength="74.7" lengthAdjust="spacing">matematică</text>
+<text x="632.7" y="481.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="45.0" lengthAdjust="spacing">ecuație</text>
+<line x1="62.0" y1="491.4" x2="838.0" y2="491.4" stroke="#e3dccb"/>
+<text x="74.0" y="513.9" font-size="14.5" fill="#3a3226" textLength="32.0" lengthAdjust="spacing">fizică</text>
+<text x="244.7" y="513.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="70.2" lengthAdjust="spacing">densimetru</text>
+<text x="462.0" y="513.9" font-size="14.5" fill="#3a3226" textLength="57.9" lengthAdjust="spacing">medicină</text>
+<text x="632.7" y="513.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="39.4" lengthAdjust="spacing">incizie</text>
+<line x1="62.0" y1="524.2" x2="838.0" y2="524.2" stroke="#e3dccb"/>
+<line x1="232.7" y1="394.1" x2="232.7" y2="524.2" stroke="#e3dccb"/>
+<line x1="450.0" y1="394.1" x2="450.0" y2="524.2" stroke="#e3dccb"/>
+<line x1="620.7" y1="394.1" x2="620.7" y2="524.2" stroke="#e3dccb"/>
+<rect x="40" y="562.2" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="585.2" font-size="16" font-weight="700" fill="#ffffff">3. LIMBAJUL POPULAR ȘI VARIAȚIA REGIONALĂ</text>
+<rect x="40" y="596.2" width="820" height="329.9" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="629.2" font-size="15" fill="#3a3226" font-weight="700" textLength="120.0" lengthAdjust="spacing">Limbajul popular</text>
+<text x="186.0" y="629.2" font-size="15" fill="#3a3226" textLength="234.4" lengthAdjust="spacing">e cunoscut pe tot teritoriul țării, dar</text>
+<text x="424.5" y="629.2" font-size="15" fill="#3a3226" font-weight="700" textLength="97.8" lengthAdjust="spacing">nu este literar</text>
+<text x="522.3" y="629.2" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="529.7" y="629.2" font-size="15" fill="#10233f" font-style="italic" textLength="41.7" lengthAdjust="spacing">lănțug</text>
+<text x="575.4" y="629.2" font-size="15" fill="#3a3226" textLength="72.6" lengthAdjust="spacing">(„lănțișor”),</text>
+<text x="652.1" y="629.2" font-size="15" fill="#10233f" font-style="italic" textLength="80.8" lengthAdjust="spacing">a umbla lela</text>
+<text x="737.0" y="629.2" font-size="15" fill="#3a3226" textLength="92.7" lengthAdjust="spacing">(„a umbla fără</text>
+<text x="62.0" y="651.0" font-size="15" fill="#3a3226" textLength="325.6" lengthAdjust="spacing">rost”); în sens larg, și limbajul urban nonstandard.</text>
+<rect x="62.0" y="669.5" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="691.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="142.1" lengthAdjust="spacing">Variația regională prin</text>
+<text x="345.6" y="691.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="228.4" lengthAdjust="spacing">Exemple (formă regională / literară)</text>
+<line x1="62.0" y1="701.0" x2="838.0" y2="701.0" stroke="#e3dccb"/>
+<text x="74.0" y="723.5" font-size="14.5" fill="#3a3226" textLength="62.9" lengthAdjust="spacing">pronunție</text>
+<text x="345.6" y="723.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="27.3" lengthAdjust="spacing">șinși</text>
+<text x="376.8" y="723.5" font-size="14.5" fill="#3a3226" textLength="5.7" lengthAdjust="spacing">/</text>
+<text x="386.3" y="723.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="28.4" lengthAdjust="spacing">cinci</text>
+<line x1="62.0" y1="733.9" x2="838.0" y2="733.9" stroke="#e3dccb"/>
+<text x="74.0" y="756.4" font-size="14.5" fill="#3a3226" textLength="116.4" lengthAdjust="spacing">forme gramaticale</text>
+<text x="345.6" y="756.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="43.1" lengthAdjust="spacing">o făcut</text>
+<text x="392.6" y="756.4" font-size="14.5" fill="#3a3226" textLength="5.7" lengthAdjust="spacing">/</text>
+<text x="402.1" y="756.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="43.1" lengthAdjust="spacing">a făcut</text>
+<text x="445.2" y="756.4" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">;</text>
+<text x="452.3" y="756.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="65.4" lengthAdjust="spacing">ei mersese</text>
+<text x="521.6" y="756.4" font-size="14.5" fill="#3a3226" textLength="5.7" lengthAdjust="spacing">/</text>
+<text x="531.2" y="756.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="78.4" lengthAdjust="spacing">ei merseseră</text>
+<line x1="62.0" y1="766.8" x2="838.0" y2="766.8" stroke="#e3dccb"/>
+<text x="74.0" y="789.2" font-size="14.5" fill="#3a3226" textLength="129.8" lengthAdjust="spacing">construcții sintactice</text>
+<text x="345.6" y="789.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="59.9" lengthAdjust="spacing">ei s-a dus</text>
+<text x="409.4" y="789.2" font-size="14.5" fill="#3a3226" textLength="5.7" lengthAdjust="spacing">/</text>
+<text x="419.0" y="789.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="68.0" lengthAdjust="spacing">ei s-au dus</text>
+<line x1="62.0" y1="799.6" x2="838.0" y2="799.6" stroke="#e3dccb"/>
+<text x="74.0" y="822.1" font-size="14.5" fill="#3a3226" textLength="170.8" lengthAdjust="spacing">cuvinte specifice unei zone</text>
+<text x="345.6" y="822.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="36.2" lengthAdjust="spacing">laibăr</text>
+<text x="385.8" y="822.1" font-size="14.5" fill="#3a3226" textLength="104.4" lengthAdjust="spacing">(„vestă”, Ardeal),</text>
+<text x="494.1" y="822.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="35.1" lengthAdjust="spacing">blagă</text>
+<text x="533.1" y="822.1" font-size="14.5" fill="#3a3226" textLength="112.1" lengthAdjust="spacing">(„bogăție”, Banat)</text>
+<line x1="62.0" y1="832.5" x2="838.0" y2="832.5" stroke="#e3dccb"/>
+<line x1="333.6" y1="669.5" x2="333.6" y2="832.5" stroke="#e3dccb"/>
+<rect x="62.0" y="846.5" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="846.5" width="6" height="61.7" rx="3" fill="#b4432c"/><text x="84.0" y="873.0" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="891.8" font-size="14.5" fill="#3a3226" textLength="223.7" lengthAdjust="spacing">În scris și la școală folosesc formele</text>
+<text x="311.6" y="891.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="48.9" lengthAdjust="spacing">literare</text>
+<text x="360.5" y="891.8" font-size="14.5" fill="#3a3226" textLength="319.1" lengthAdjust="spacing">; formele regionale le recunosc în texte și le explic.</text>
+<text x="222.0" y="957.6" font-size="11.5" fill="#5b6b83" textLength="456.1" lengthAdjust="spacing">Sursa: Manual Art 7, p. 38, rubrica Repere. Unele exemple sunt create pentru aceste notițe.</text>
 </svg>

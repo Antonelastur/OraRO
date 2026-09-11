@@ -675,7 +675,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 7, pp. 28-29',
-          'Schema „Fraza. Norme de punctuație” (/materiale/clasa-7/unitatea-1/lectia-10/schema.svg)',
+          'Schema „Fraza. Coordonarea. Punctul și virgula” (/materiale/clasa-7/unitatea-1/lectia-10/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -719,7 +719,7 @@ export const unitatea1 = {
         fisa: null,
         joc: null,
         infografic: null,
-        schema: { fisier: '/materiale/clasa-7/unitatea-1/lectia-10/schema.svg', titlu: 'Fraza. Norme de punctuație' },
+        schema: { fisier: '/materiale/clasa-7/unitatea-1/lectia-10/schema.svg', titlu: 'Fraza. Coordonarea. Punctul și virgula' },
         altele: [],
       },
     },
@@ -1115,7 +1115,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 7, p. 38',
-          'Schema „Îmbinări libere de cuvinte și locuțiuni” (/materiale/clasa-7/unitatea-1/lectia-16/schema.svg)',
+          'Schema „Locuțiuni, termeni științifici, limbaj popular, variație regională” (/materiale/clasa-7/unitatea-1/lectia-16/schema.svg)',
           'DEX sau dexonline.ro',
         ],
         desfasurare: [
@@ -1159,7 +1159,7 @@ export const unitatea1 = {
         fisa: null,
         joc: null,
         infografic: null,
-        schema: { fisier: '/materiale/clasa-7/unitatea-1/lectia-16/schema.svg', titlu: 'Îmbinări libere de cuvinte și locuțiuni' },
+        schema: { fisier: '/materiale/clasa-7/unitatea-1/lectia-16/schema.svg', titlu: 'Locuțiuni, termeni științifici, limbaj popular, variație regională' },
         altele: [],
       },
     },

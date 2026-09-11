@@ -1,38 +1,84 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="400" fill="#faf7f0"/>
-  <text x="450" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Categoriile semantice. Confuziile paronimice</text>
-  <text x="450" y="60" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I · lecția 15 · actualizare</text>
-
-  <g font-size="11" fill="#3a3226">
-    <rect x="55" y="82" width="255" height="96" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="182" y="104" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Sinonime / antonime</text>
-    <text x="182" y="126" text-anchor="middle">formă diferită, sens</text>
-    <text x="182" y="143" text-anchor="middle">asemănător (sinonime)</text>
-    <text x="182" y="160" text-anchor="middle">sau opus (antonime)</text>
-
-    <rect x="322" y="82" width="255" height="96" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="450" y="104" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Sens propriu / figurat</text>
-    <text x="450" y="126" text-anchor="middle">propriu de bază și secundar</text>
-    <text x="450" y="143" text-anchor="middle">(umeri largi / umerii</text>
-    <text x="450" y="160" text-anchor="middle">sacoului); figurat = expresiv</text>
-
-    <rect x="589" y="82" width="256" height="96" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="717" y="104" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Omonime</text>
-    <text x="717" y="126" text-anchor="middle">aceeași formă, sensuri</text>
-    <text x="717" y="143" text-anchor="middle">complet diferite; omofone</text>
-    <text x="717" y="160" text-anchor="middle">(la fel rostite), omografe</text>
-
-    <rect x="55" y="194" width="380" height="96" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="245" y="216" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Cuvântul polisemantic</text>
-    <text x="245" y="240" text-anchor="middle">are mai multe sensuri legate între ele,</text>
-    <text x="245" y="258" text-anchor="middle">mai mult sau mai puțin apropiate</text>
-
-    <rect x="465" y="194" width="380" height="96" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="655" y="216" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Paronime</text>
-    <text x="655" y="240" text-anchor="middle">asemănătoare ca formă, înțeles diferit</text>
-    <text x="655" y="258" text-anchor="middle">temporal / temporar, oral / orar</text>
-  </g>
-
-  <text x="450" y="330" text-anchor="middle" font-size="12" fill="#3a3226">Confuzia paronimică e greșeala de a folosi un cuvânt în locul paronimului său.</text>
-  <text x="450" y="376" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, p. 37</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1003" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1003" fill="#faf7f0"/>
+<text x="157.5" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="585.8" lengthAdjust="spacing">Categoriile semantice. Confuziile paronimice</text>
+<text x="236.9" y="74.4" font-size="14" fill="#5b6b83" textLength="426.2" lengthAdjust="spacing">Clasa a VII-a · Unitatea I, Lecția 15 · Manual, p. 37 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. RELAȚII DE SENS</text>
+<rect x="40" y="128.6" width="820" height="252.8" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="146.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="61.3" lengthAdjust="spacing">Categoria</text>
+<text x="268.0" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="45.2" lengthAdjust="spacing">Ce este</text>
+<line x1="62.0" y1="178.2" x2="838.0" y2="178.2" stroke="#e3dccb"/>
+<text x="74.0" y="200.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="74.1" lengthAdjust="spacing">sinonimele</text>
+<text x="268.0" y="200.7" font-size="14.5" fill="#3a3226" textLength="273.5" lengthAdjust="spacing">formă diferită, sens asemănător sau identic</text>
+<line x1="62.0" y1="211.0" x2="838.0" y2="211.0" stroke="#e3dccb"/>
+<text x="74.0" y="233.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="77.1" lengthAdjust="spacing">antonimele</text>
+<text x="268.0" y="233.5" font-size="14.5" fill="#3a3226" textLength="221.6" lengthAdjust="spacing">formă diferită, sens diametral opus</text>
+<line x1="62.0" y1="243.8" x2="838.0" y2="243.8" stroke="#e3dccb"/>
+<text x="74.0" y="266.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="77.0" lengthAdjust="spacing">omonimele</text>
+<text x="268.0" y="266.4" font-size="14.5" fill="#3a3226" textLength="139.9" lengthAdjust="spacing">aceeași formă, sensuri</text>
+<text x="411.8" y="266.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="109.5" lengthAdjust="spacing">complet diferite</text>
+<text x="521.3" y="266.4" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">;</text>
+<text x="528.4" y="266.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="73.9" lengthAdjust="spacing">omofonele</text>
+<text x="606.3" y="266.4" font-size="14.5" fill="#3a3226" textLength="114.3" lengthAdjust="spacing">se pronunță la fel,</text>
+<text x="724.5" y="266.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="78.9" lengthAdjust="spacing">omografele</text>
+<text x="807.2" y="266.4" font-size="14.5" fill="#3a3226" textLength="13.6" lengthAdjust="spacing">se</text>
+<text x="268.0" y="287.4" font-size="14.5" fill="#3a3226" textLength="63.8" lengthAdjust="spacing">scriu la fel</text>
+<line x1="62.0" y1="297.7" x2="838.0" y2="297.7" stroke="#e3dccb"/>
+<text x="74.0" y="320.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="149.8" lengthAdjust="spacing">cuvântul polisemantic</text>
+<text x="268.0" y="320.2" font-size="14.5" fill="#3a3226" textLength="112.7" lengthAdjust="spacing">mai multe sensuri</text>
+<text x="384.6" y="320.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="102.2" lengthAdjust="spacing">legate între ele</text>
+<line x1="62.0" y1="330.6" x2="838.0" y2="330.6" stroke="#e3dccb"/>
+<text x="74.0" y="353.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="77.4" lengthAdjust="spacing">paronimele</text>
+<text x="268.0" y="353.1" font-size="14.5" fill="#3a3226" textLength="221.8" lengthAdjust="spacing">formă asemănătoare, înțeles diferit</text>
+<line x1="62.0" y1="363.4" x2="838.0" y2="363.4" stroke="#e3dccb"/>
+<line x1="256.0" y1="146.6" x2="256.0" y2="363.4" stroke="#e3dccb"/>
+<rect x="40" y="401.4" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="424.4" font-size="16" font-weight="700" fill="#ffffff">2. SENSURILE UNUI CUVÂNT</text>
+<rect x="40" y="435.4" width="820" height="166.1" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="453.4" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="474.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="41.0" lengthAdjust="spacing">Sensul</text>
+<text x="345.6" y="474.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="485.0" x2="838.0" y2="485.0" stroke="#e3dccb"/>
+<text x="74.0" y="507.5" font-size="14.5" fill="#3a3226" textLength="101.4" lengthAdjust="spacing">propriu de bază</text>
+<text x="345.6" y="507.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="99.3" lengthAdjust="spacing">Era înalt și avea</text>
+<text x="448.8" y="507.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="39.9" lengthAdjust="spacing">umeri</text>
+<text x="492.6" y="507.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="31.6" lengthAdjust="spacing">largi.</text>
+<line x1="62.0" y1="517.8" x2="838.0" y2="517.8" stroke="#e3dccb"/>
+<text x="74.0" y="540.3" font-size="14.5" fill="#3a3226" textLength="109.3" lengthAdjust="spacing">propriu secundar</text>
+<text x="345.6" y="540.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="100.0" lengthAdjust="spacing">Am un sacou cu</text>
+<text x="449.6" y="540.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="39.9" lengthAdjust="spacing">umeri</text>
+<text x="493.4" y="540.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="63.5" lengthAdjust="spacing">prea largi.</text>
+<line x1="62.0" y1="550.7" x2="838.0" y2="550.7" stroke="#e3dccb"/>
+<text x="74.0" y="573.2" font-size="14.5" fill="#3a3226" textLength="164.4" lengthAdjust="spacing">figurat (valoare expresivă)</text>
+<text x="345.6" y="573.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="155.0" lengthAdjust="spacing">A reușit sprijinindu-se pe</text>
+<text x="504.5" y="573.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="43.9" lengthAdjust="spacing">umerii</text>
+<text x="552.4" y="573.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="40.3" lengthAdjust="spacing">altora.</text>
+<line x1="62.0" y1="583.5" x2="838.0" y2="583.5" stroke="#e3dccb"/>
+<line x1="333.6" y1="453.4" x2="333.6" y2="583.5" stroke="#e3dccb"/>
+<rect x="40" y="621.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="644.5" font-size="16" font-weight="700" fill="#ffffff">3. PARONIMELE ȘI CONFUZIA PARONIMICĂ</text>
+<rect x="40" y="655.5" width="820" height="296.3" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="688.5" font-size="15" fill="#3a3226" textLength="424.8" lengthAdjust="spacing">Paronimele se deosebesc printr-un sunet, cel mult două sau prin</text>
+<text x="490.8" y="688.5" font-size="15" fill="#3a3226" font-weight="700" textLength="54.0" lengthAdjust="spacing">ordinea</text>
+<text x="548.9" y="688.5" font-size="15" fill="#3a3226" textLength="65.1" lengthAdjust="spacing">sunetelor:</text>
+<rect x="62.0" y="707.0" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="728.5" font-size="13.5" fill="#10233f" font-weight="700" textLength="57.4" lengthAdjust="spacing">Perechea</text>
+<text x="345.6" y="728.5" font-size="13.5" fill="#10233f" font-weight="700" textLength="57.5" lengthAdjust="spacing">Sensurile</text>
+<line x1="62.0" y1="738.6" x2="838.0" y2="738.6" stroke="#e3dccb"/>
+<text x="74.0" y="761.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="129.9" lengthAdjust="spacing">temporal – temporar</text>
+<text x="345.6" y="761.1" font-size="14.5" fill="#3a3226" textLength="315.8" lengthAdjust="spacing">care se referă la timp / pentru o perioadă de timp</text>
+<line x1="62.0" y1="771.4" x2="838.0" y2="771.4" stroke="#e3dccb"/>
+<text x="74.0" y="793.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="65.8" lengthAdjust="spacing">oral – orar</text>
+<text x="345.6" y="793.9" font-size="14.5" fill="#3a3226" textLength="193.6" lengthAdjust="spacing">rostit / program stabilit pe ore</text>
+<line x1="62.0" y1="804.3" x2="838.0" y2="804.3" stroke="#e3dccb"/>
+<text x="74.0" y="826.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="114.3" lengthAdjust="spacing">a revela – a releva</text>
+<text x="345.6" y="826.8" font-size="14.5" fill="#3a3226" textLength="146.4" lengthAdjust="spacing">a dezvălui / a evidenția</text>
+<line x1="62.0" y1="837.1" x2="838.0" y2="837.1" stroke="#e3dccb"/>
+<line x1="333.6" y1="707.0" x2="333.6" y2="837.1" stroke="#e3dccb"/>
+<rect x="62.0" y="851.1" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="851.1" width="6" height="82.7" rx="3" fill="#b4432c"/><text x="84.0" y="877.6" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="896.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="140.5" lengthAdjust="spacing">Confuzia paronimică</text>
+<text x="228.4" y="896.5" font-size="14.5" fill="#3a3226" textLength="580.0" lengthAdjust="spacing">este greșeala de a folosi un cuvânt în locul paronimului său. Când am îndoieli, verific sensul</text>
+<text x="84.0" y="917.5" font-size="14.5" fill="#3a3226" textLength="75.2" lengthAdjust="spacing">în dicționar.</text>
+<text x="344.3" y="983.3" font-size="11.5" fill="#5b6b83" textLength="211.5" lengthAdjust="spacing">Sursa: Manual Art 7, p. 37, rubrica Repere.</text>
 </svg>

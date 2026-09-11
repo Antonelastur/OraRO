@@ -1,16 +1,125 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="340" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Compunerea. Familia lexicală</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 12</text>
-  <g>
-    <rect x="90" y="95" width="330" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="255" y="123" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Compunerea</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle"><tspan x="255" y="150">Unește doi sau mai mulți</tspan><tspan x="255" y="166">termeni într-un cuvânt nou.</tspan><tspan x="255" y="192" font-style="italic">bună + stare → bunăstare</tspan></text>
-  </g>
-  <g>
-    <rect x="480" y="95" width="330" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="645" y="123" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Familia lexicală</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle"><tspan x="645" y="150">Toate cuvintele formate</tspan><tspan x="645" y="166">de la aceeași rădăcină.</tspan><tspan x="645" y="192" font-style="italic">carte → cărticică, cărturar</tspan></text>
-  </g>
-  <text x="450" y="280" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, pp. 34-35</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1140" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1140" fill="#faf7f0"/>
+<text x="258.6" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="383.3" lengthAdjust="spacing">Compunerea. Familia lexicală</text>
+<text x="222.4" y="74.4" font-size="14" fill="#5b6b83" textLength="455.1" lengthAdjust="spacing">Clasa a VII-a · Unitatea I, Lecția 13 · Manual, pp. 34-35 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. COMPUNEREA</text>
+<rect x="40" y="128.6" width="820" height="339.7" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="96.2" lengthAdjust="spacing">Compunerea</text>
+<text x="162.5" y="162.6" font-size="16" fill="#10233f" textLength="649.3" lengthAdjust="spacing">formează cuvinte noi unind sau alăturând doi sau mai mulți termeni, care își pierd, de obicei,</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" textLength="160.5" lengthAdjust="spacing">sensul de sine stătător.</text>
+<rect x="62.0" y="204.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="226.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="63.3" lengthAdjust="spacing">Procedeul</text>
+<text x="345.6" y="226.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="53.7" lengthAdjust="spacing">Exemple</text>
+<line x1="62.0" y1="236.2" x2="838.0" y2="236.2" stroke="#e3dccb"/>
+<text x="74.0" y="258.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="69.3" lengthAdjust="spacing">alăturarea</text>
+<text x="147.2" y="258.6" font-size="14.5" fill="#3a3226" textLength="158.6" lengthAdjust="spacing">(termenii nu depind unul</text>
+<text x="74.0" y="279.7" font-size="14.5" fill="#3a3226" textLength="51.9" lengthAdjust="spacing">de altul)</text>
+<text x="345.6" y="258.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="453.6" lengthAdjust="spacing">câine-lup, despre, după-amiază, anglo-român, Cluj-Napoca, de pe lângă</text>
+<line x1="62.0" y1="290.0" x2="838.0" y2="290.0" stroke="#e3dccb"/>
+<text x="74.0" y="312.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="94.8" lengthAdjust="spacing">subordonarea</text>
+<text x="172.7" y="312.5" font-size="14.5" fill="#3a3226" textLength="147.0" lengthAdjust="spacing">(un termen depinde de</text>
+<text x="74.0" y="333.5" font-size="14.5" fill="#3a3226" textLength="48.7" lengthAdjust="spacing">celălalt)</text>
+<text x="345.6" y="312.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="449.2" lengthAdjust="spacing">coate-goale, capră-neagră, rea-voință, mătasea-broaștei, stea-de-mare,</text>
+<text x="345.6" y="333.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="68.3" lengthAdjust="spacing">papă-lapte</text>
+<line x1="62.0" y1="343.9" x2="838.0" y2="343.9" stroke="#e3dccb"/>
+<text x="74.0" y="366.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="71.6" lengthAdjust="spacing">abrevierea</text>
+<text x="345.6" y="366.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="31.8" lengthAdjust="spacing">ONU</text>
+<text x="381.3" y="366.4" font-size="14.5" fill="#3a3226" textLength="53.9" lengthAdjust="spacing">(inițiale),</text>
+<text x="439.1" y="366.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="41.0" lengthAdjust="spacing">Tarom</text>
+<text x="484.1" y="366.4" font-size="14.5" fill="#3a3226" textLength="137.6" lengthAdjust="spacing">(inițiale și fragmente),</text>
+<text x="625.6" y="366.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="45.7" lengthAdjust="spacing">Petrom</text>
+<text x="675.2" y="366.4" font-size="14.5" fill="#3a3226" textLength="78.2" lengthAdjust="spacing">(fragmente),</text>
+<text x="757.2" y="366.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="50.9" lengthAdjust="spacing">Romgaz</text>
+<text x="345.6" y="387.4" font-size="14.5" fill="#3a3226" textLength="138.5" lengthAdjust="spacing">(fragmente și cuvinte)</text>
+<line x1="62.0" y1="397.8" x2="838.0" y2="397.8" stroke="#e3dccb"/>
+<line x1="333.6" y1="204.6" x2="333.6" y2="397.8" stroke="#e3dccb"/>
+<text x="62.0" y="425.8" font-size="14" fill="#5b6b83" textLength="243.6" lengthAdjust="spacing">Compuse pot fi toate părțile de vorbire:</text>
+<text x="309.4" y="425.8" font-size="14" fill="#5b6b83" font-style="italic" textLength="517.3" lengthAdjust="spacing">bunăvoință, a binecuvânta, cuminte, dumneavoastră, unsprezece, numai, de pe lângă,</text>
+<text x="62.0" y="446.1" font-size="14" fill="#5b6b83" font-style="italic" textLength="30.7" lengthAdjust="spacing">ca să</text>
+<text x="92.7" y="446.1" font-size="14" fill="#5b6b83" textLength="3.1" lengthAdjust="spacing">.</text>
+<rect x="40" y="488.3" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="511.3" font-size="16" font-weight="700" fill="#ffffff">2. ELEMENTELE SAVANTE</text>
+<rect x="40" y="522.3" width="820" height="231.8" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="540.3" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="561.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="51.4" lengthAdjust="spacing">Element</text>
+<text x="198.2" y="561.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="29.0" lengthAdjust="spacing">Sens</text>
+<text x="462.0" y="561.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="51.4" lengthAdjust="spacing">Element</text>
+<text x="586.2" y="561.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="29.0" lengthAdjust="spacing">Sens</text>
+<line x1="62.0" y1="571.8" x2="838.0" y2="571.8" stroke="#e3dccb"/>
+<text x="74.0" y="594.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="34.2" lengthAdjust="spacing">auto-</text>
+<text x="198.2" y="594.3" font-size="14.5" fill="#3a3226" textLength="114.8" lengthAdjust="spacing">de la sine, propriu</text>
+<text x="462.0" y="594.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="41.5" lengthAdjust="spacing">micro-</text>
+<text x="586.2" y="594.3" font-size="14.5" fill="#3a3226" textLength="22.6" lengthAdjust="spacing">mic</text>
+<line x1="62.0" y1="604.7" x2="838.0" y2="604.7" stroke="#e3dccb"/>
+<text x="74.0" y="627.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="25.2" lengthAdjust="spacing">bio-</text>
+<text x="198.2" y="627.2" font-size="14.5" fill="#3a3226" textLength="100.6" lengthAdjust="spacing">referitor la viață</text>
+<text x="462.0" y="627.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="45.5" lengthAdjust="spacing">macro-</text>
+<text x="586.2" y="627.2" font-size="14.5" fill="#3a3226" textLength="32.5" lengthAdjust="spacing">mare</text>
+<line x1="62.0" y1="637.5" x2="838.0" y2="637.5" stroke="#e3dccb"/>
+<text x="74.0" y="660.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="28.6" lengthAdjust="spacing">geo-</text>
+<text x="198.2" y="660.0" font-size="14.5" fill="#3a3226" textLength="119.5" lengthAdjust="spacing">referitor la pământ</text>
+<text x="462.0" y="660.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="29.0" lengthAdjust="spacing">poli-</text>
+<text x="586.2" y="660.0" font-size="14.5" fill="#3a3226" textLength="59.9" lengthAdjust="spacing">mai mulți</text>
+<line x1="62.0" y1="670.4" x2="838.0" y2="670.4" stroke="#e3dccb"/>
+<text x="74.0" y="692.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="38.6" lengthAdjust="spacing">hidro-</text>
+<text x="198.2" y="692.9" font-size="14.5" fill="#3a3226" textLength="93.8" lengthAdjust="spacing">referitor la apă</text>
+<text x="462.0" y="692.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="50.3" lengthAdjust="spacing">pseudo-</text>
+<text x="586.2" y="692.9" font-size="14.5" fill="#3a3226" textLength="21.5" lengthAdjust="spacing">fals</text>
+<line x1="62.0" y1="703.2" x2="838.0" y2="703.2" stroke="#e3dccb"/>
+<text x="74.0" y="725.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="28.4" lengthAdjust="spacing">tele-</text>
+<text x="198.2" y="725.7" font-size="14.5" fill="#3a3226" textLength="122.5" lengthAdjust="spacing">departe, la distanță</text>
+<text x="462.0" y="725.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="28.0" lengthAdjust="spacing">zoo-</text>
+<text x="586.2" y="725.7" font-size="14.5" fill="#3a3226" textLength="120.5" lengthAdjust="spacing">referitor la animale</text>
+<line x1="62.0" y1="736.1" x2="838.0" y2="736.1" stroke="#e3dccb"/>
+<line x1="186.2" y1="540.3" x2="186.2" y2="736.1" stroke="#e3dccb"/>
+<line x1="450.0" y1="540.3" x2="450.0" y2="736.1" stroke="#e3dccb"/>
+<line x1="574.2" y1="540.3" x2="574.2" y2="736.1" stroke="#e3dccb"/>
+<rect x="40" y="774.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="797.1" font-size="16" font-weight="700" fill="#ffffff">3. DE REȚINUT</text>
+<rect x="40" y="808.1" width="820" height="126.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="841.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="841.1" font-size="15" fill="#3a3226" textLength="264.3" lengthAdjust="spacing">Abrevierile cu inițiale se scriu, preferabil,</text>
+<text x="342.5" y="841.1" font-size="15" fill="#3a3226" font-weight="700" textLength="80.8" lengthAdjust="spacing">fără puncte</text>
+<text x="427.4" y="841.1" font-size="15" fill="#3a3226" textLength="66.9" lengthAdjust="spacing">(DOOM3):</text>
+<text x="498.4" y="841.1" font-size="15" fill="#10233f" font-style="italic" textLength="32.9" lengthAdjust="spacing">ONU</text>
+<text x="531.2" y="841.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="865.8" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="865.8" font-size="15" fill="#3a3226" textLength="230.8" lengthAdjust="spacing">Nu toate abrevierile sunt compuse:</text>
+<text x="309.1" y="865.8" font-size="15" fill="#10233f" font-style="italic" textLength="11.2" lengthAdjust="spacing">N</text>
+<text x="324.4" y="865.8" font-size="15" fill="#3a3226" textLength="43.8" lengthAdjust="spacing">(nord),</text>
+<text x="372.2" y="865.8" font-size="15" fill="#10233f" font-style="italic" textLength="16.8" lengthAdjust="spacing">dr.</text>
+<text x="389.0" y="865.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">,</text>
+<text x="396.4" y="865.8" font-size="15" fill="#10233f" font-style="italic" textLength="21.6" lengthAdjust="spacing">art.</text>
+<text x="418.0" y="865.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">,</text>
+<text x="425.3" y="865.8" font-size="15" fill="#10233f" font-style="italic" textLength="23.7" lengthAdjust="spacing">ian.</text>
+<text x="453.1" y="865.8" font-size="15" fill="#3a3226" textLength="28.5" lengthAdjust="spacing">sunt</text>
+<text x="485.6" y="865.8" font-size="15" fill="#3a3226" font-weight="700" textLength="76.5" lengthAdjust="spacing">prescurtări</text>
+<text x="562.1" y="865.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="890.6" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="890.6" font-size="15" fill="#3a3226" font-weight="700" textLength="73.8" lengthAdjust="spacing">Ortografia</text>
+<text x="152.1" y="890.6" font-size="15" fill="#3a3226" textLength="400.9" lengthAdjust="spacing">nu arată procedeul: un compus scris legat poate fi alăturare (</text>
+<text x="553.0" y="890.6" font-size="15" fill="#10233f" font-style="italic" textLength="42.3" lengthAdjust="spacing">despre</text>
+<text x="595.3" y="890.6" font-size="15" fill="#3a3226" textLength="105.1" lengthAdjust="spacing">), subordonare (</text>
+<text x="700.4" y="890.6" font-size="15" fill="#10233f" font-style="italic" textLength="65.1" lengthAdjust="spacing">binevoitor</text>
+<text x="765.5" y="890.6" font-size="15" fill="#3a3226" textLength="31.1" lengthAdjust="spacing">) sau</text>
+<text x="74.2" y="912.3" font-size="15" fill="#3a3226" textLength="69.7" lengthAdjust="spacing">abreviere (</text>
+<text x="143.9" y="912.3" font-size="15" fill="#10233f" font-style="italic" textLength="50.0" lengthAdjust="spacing">aprozar</text>
+<text x="193.9" y="912.3" font-size="15" fill="#3a3226" textLength="63.3" lengthAdjust="spacing">). Cratima</text>
+<text x="261.2" y="912.3" font-size="15" fill="#3a3226" font-weight="700" textLength="18.3" lengthAdjust="spacing">nu</text>
+<text x="283.6" y="912.3" font-size="15" fill="#3a3226" textLength="211.5" lengthAdjust="spacing">e un criteriu. La nevoie, verific în</text>
+<text x="499.1" y="912.3" font-size="15" fill="#3a3226" font-weight="700" textLength="57.0" lengthAdjust="spacing">DOOM3</text>
+<text x="556.1" y="912.3" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="40" y="954.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="977.8" font-size="16" font-weight="700" fill="#ffffff">4. FAMILIA LEXICALĂ</text>
+<rect x="40" y="988.8" width="820" height="99.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="1006.8" width="776.0" height="63.9" rx="12" fill="#f3efe4"/><text x="78.0" y="1033.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="103.4" lengthAdjust="spacing">Familia lexicală</text>
+<text x="185.3" y="1033.3" font-size="14.5" fill="#3a3226" textLength="393.8" lengthAdjust="spacing">cuprinde toate cuvintele formate de la un cuvânt de bază prin</text>
+<text x="583.0" y="1033.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="56.0" lengthAdjust="spacing">derivare</text>
+<text x="639.0" y="1033.3" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="646.1" y="1033.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="77.3" lengthAdjust="spacing">compunere</text>
+<text x="727.3" y="1033.3" font-size="14.5" fill="#3a3226" textLength="9.6" lengthAdjust="spacing">și</text>
+<text x="78.0" y="1054.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="82.1" lengthAdjust="spacing">conversiune</text>
+<text x="164.0" y="1054.3" font-size="14.5" fill="#3a3226" textLength="460.7" lengthAdjust="spacing">(trecerea în altă clasă gramaticală, de exemplu adjectivele din participiu).</text>
+<text x="329.5" y="1120.2" font-size="11.5" fill="#5b6b83" textLength="240.9" lengthAdjust="spacing">Sursa: Manual Art 7, pp. 34-35, rubricile Repere.</text>
 </svg>

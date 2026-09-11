@@ -169,7 +169,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Diferențiază propozițiile de fraze, identifică tipurile de coordonare și propozițiile principale de cele secundare.'],
-    resurse: ['Manual Art 7, pp. 28-29', 'Schema „Fraza. Norme de punctuație” (/materiale/clasa-7/unitatea-1/lectia-10/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 7, pp. 28-29', 'Schema „Fraza. Coordonarea. Punctul și virgula” (/materiale/clasa-7/unitatea-1/lectia-10/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Citim replicile fetei și ale băiatului despre filmul cu tigrul de la p. 28 și numărăm predicatele și enunțurile.' },
@@ -271,7 +271,7 @@ export default {
     tipOra: 'Predare, vocabular',
     durata: 50,
     obiective: ['Diferențiază îmbinările libere de locuțiuni și identifică termeni științifici, limbaj popular și variații regionale ale limbii.'],
-    resurse: ['Manual Art 7, p. 38', 'Schema „Îmbinări libere de cuvinte și locuțiuni” (/materiale/clasa-7/unitatea-1/lectia-16/schema.svg)', 'DEX sau dexonline.ro'],
+    resurse: ['Manual Art 7, p. 38', 'Schema „Locuțiuni, termeni științifici, limbaj popular, variație regională” (/materiale/clasa-7/unitatea-1/lectia-16/schema.svg)', 'DEX sau dexonline.ro'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Citim schimbul de replici de la p. 38, cu „a pus la cale”, „a găsi nod în papură”, „punere la punct”, „acid sulfuric”.' },
