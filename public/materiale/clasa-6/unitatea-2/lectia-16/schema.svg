@@ -1,44 +1,83 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="380" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Predicatul nominal</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 12 · verbul copulativ a fi</text>
-
-  <rect x="230" y="95" width="440" height="60" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text font-size="18" font-weight="700" text-anchor="middle" fill="#10233f">
-    <tspan x="450" y="132">verb copulativ + nume predicativ</tspan>
-  </text>
-
-  <path d="M 340 155 L 340 178" stroke="#b8944f" stroke-width="2" fill="none" marker-end="url(#arrow3)"/>
-  <path d="M 560 155 L 560 178" stroke="#b8944f" stroke-width="2" fill="none" marker-end="url(#arrow3)"/>
-  <defs>
-    <marker id="arrow3" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto">
-      <path d="M0,0 L8,4 L0,8 z" fill="#b8944f"/>
-    </marker>
-  </defs>
-
-  <g>
-    <rect x="90" y="180" width="330" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="255" y="207" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">a fi, copulativ</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="255" y="230">Nu are sens complet singur,</tspan>
-      <tspan x="255" y="246">se combină obligatoriu cu</tspan>
-      <tspan x="255" y="262">un substantiv sau adjectiv.</tspan>
-      <tspan x="255" y="292" font-style="italic">Maria </tspan><tspan font-weight="700" fill="#0d9c92">este</tspan><tspan font-style="italic"> prietena Corinei.</tspan>
-      <tspan x="255" y="310" font-style="italic">El </tspan><tspan font-weight="700" fill="#0d9c92">este</tspan><tspan font-style="italic"> talentat.</tspan>
-    </text>
-  </g>
-
-  <g>
-    <rect x="480" y="180" width="330" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="645" y="207" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">numele predicativ</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="645" y="230">Cuvântul care completează</tspan>
-      <tspan x="645" y="246">sensul lui a fi, arată o</tspan>
-      <tspan x="645" y="262">însușire sau o identitate.</tspan>
-      <tspan x="645" y="292" font-style="italic">Maria este </tspan><tspan font-weight="700" fill="#6f5ea8">prietena Corinei</tspan><tspan font-style="italic">.</tspan>
-      <tspan x="645" y="310" font-style="italic">El este </tspan><tspan font-weight="700" fill="#6f5ea8">talentat</tspan><tspan font-style="italic">.</tspan>
-    </text>
-  </g>
-
-  <text x="450" y="360" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 12, p. 72</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 923" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="923" fill="#faf7f0"/>
+<text x="185.6" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="530.3" lengthAdjust="spacing">Verbul copulativ a fi. Predicatul nominal</text>
+<text x="210.6" y="74.4" font-size="14" fill="#5b6b83" textLength="478.8" lengthAdjust="spacing">Clasa a VI-a · Unitatea a II-a, Lecția 16 · Manual, pp. 72-73 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. PREDICATUL NOMINAL</text>
+<rect x="40" y="128.6" width="820" height="123.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="142.1" lengthAdjust="spacing">Predicatul nominal</text>
+<text x="208.4" y="162.6" font-size="16" fill="#10233f" textLength="127.8" lengthAdjust="spacing">= verbul copulativ</text>
+<text x="340.6" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="23.7" lengthAdjust="spacing">a fi</text>
+<text x="368.6" y="162.6" font-size="16" fill="#10233f" textLength="10.9" lengthAdjust="spacing">+</text>
+<text x="383.8" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="122.4" lengthAdjust="spacing">nume predicativ</text>
+<text x="506.2" y="162.6" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<text x="62.0" y="197.4" font-size="16" fill="#10233f" font-style="italic" textLength="39.2" lengthAdjust="spacing">Ioana</text>
+<text x="105.5" y="197.4" font-size="16" fill="#6f5ea8" font-weight="700" textLength="30.6" lengthAdjust="spacing">este</text>
+<text x="140.4" y="197.4" font-size="16" fill="#9a7433" font-weight="700" textLength="39.0" lengthAdjust="spacing">elevă</text>
+<text x="179.4" y="197.4" font-size="16" fill="#3a3226" textLength="11.4" lengthAdjust="spacing">. ·</text>
+<text x="195.1" y="197.4" font-size="16" fill="#10233f" font-style="italic" textLength="40.6" lengthAdjust="spacing">Fetele</text>
+<text x="240.1" y="197.4" font-size="16" fill="#6f5ea8" font-weight="700" textLength="32.8" lengthAdjust="spacing">sunt</text>
+<text x="277.2" y="197.4" font-size="16" fill="#9a7433" font-weight="700" textLength="42.2" lengthAdjust="spacing">înalte</text>
+<text x="319.4" y="197.4" font-size="16" fill="#3a3226" textLength="3.5" lengthAdjust="spacing">.</text>
+<text x="62.0" y="230.2" font-size="14" fill="#6f5ea8" textLength="87.2" lengthAdjust="spacing">verb copulativ</text>
+<text x="153.0" y="230.2" font-size="14" fill="#5b6b83" textLength="9.5" lengthAdjust="spacing">+</text>
+<text x="166.3" y="230.2" font-size="14" fill="#9a7433" textLength="99.5" lengthAdjust="spacing">nume predicativ</text>
+<rect x="40" y="272.4" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="295.4" font-size="16" font-weight="700" fill="#ffffff">2. VERBUL COPULATIV ȘI NUMELE PREDICATIV</text>
+<rect x="40" y="306.4" width="820" height="227.8" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="324.4" width="380.0" height="136.5" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="78.0" y="352.4" font-size="16" fill="#6f5ea8" font-weight="700" textLength="121.9" lengthAdjust="spacing">verbul copulativ</text>
+<text x="78.0" y="375.7" font-size="14.5" fill="#3a3226" textLength="305.4" lengthAdjust="spacing">face legătura dintre subiect și numele predicativ</text>
+<text x="78.0" y="399.6" font-size="14.5" fill="#3a3226" textLength="279.3" lengthAdjust="spacing">nu are înțeles de sine stătător (nepredicativ)</text>
+<text x="78.0" y="423.6" font-size="14.5" fill="#3a3226" textLength="230.1" lengthAdjust="spacing">formează predicat nominal când are</text>
+<text x="312.0" y="423.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="31.2" lengthAdjust="spacing">mod</text>
+<rect x="458.0" y="324.4" width="380.0" height="136.5" rx="12" fill="#ffffff" stroke="#9a7433" stroke-width="2"/>
+<text x="474.0" y="352.4" font-size="16" fill="#9a7433" font-weight="700" textLength="135.5" lengthAdjust="spacing">numele predicativ</text>
+<text x="474.0" y="375.7" font-size="14.5" fill="#3a3226" textLength="44.7" lengthAdjust="spacing">arată o</text>
+<text x="522.6" y="375.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="89.6" lengthAdjust="spacing">caracteristică</text>
+<text x="616.1" y="375.7" font-size="14.5" fill="#3a3226" textLength="80.3" lengthAdjust="spacing">a subiectului</text>
+<text x="474.0" y="399.6" font-size="14.5" fill="#3a3226" textLength="98.0" lengthAdjust="spacing">se exprimă prin</text>
+<text x="575.9" y="399.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="53.2" lengthAdjust="spacing">adjectiv</text>
+<text x="633.1" y="399.6" font-size="14.5" fill="#3a3226" textLength="21.8" lengthAdjust="spacing">sau</text>
+<text x="658.7" y="399.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="70.5" lengthAdjust="spacing">substantiv</text>
+<text x="474.0" y="423.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="45.7" lengthAdjust="spacing">simplu</text>
+<text x="523.6" y="423.6" font-size="14.5" fill="#3a3226" textLength="4.3" lengthAdjust="spacing">(</text>
+<text x="527.9" y="423.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="86.0" lengthAdjust="spacing">Ina este mică.</text>
+<text x="613.9" y="423.6" font-size="14.5" fill="#3a3226" textLength="30.0" lengthAdjust="spacing">) sau</text>
+<text x="647.9" y="423.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="57.9" lengthAdjust="spacing">multiplu</text>
+<text x="709.6" y="423.6" font-size="14.5" fill="#3a3226" textLength="4.3" lengthAdjust="spacing">(</text>
+<text x="714.0" y="423.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="96.3" lengthAdjust="spacing">Ina este mică și</text>
+<text x="474.0" y="444.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="53.8" lengthAdjust="spacing">cuminte.</text>
+<text x="527.8" y="444.6" font-size="14.5" fill="#3a3226" textLength="4.3" lengthAdjust="spacing">)</text>
+<text x="62.0" y="489.9" font-size="15" fill="#3a3226" textLength="196.3" lengthAdjust="spacing">Numele predicativ intră într-o</text>
+<text x="262.4" y="489.9" font-size="15" fill="#3a3226" font-weight="700" textLength="100.0" lengthAdjust="spacing">relație ternară</text>
+<text x="362.4" y="489.9" font-size="15" fill="#3a3226" textLength="427.8" lengthAdjust="spacing">: e cerut de verbul copulativ și depinde de subiect, care îi impune</text>
+<text x="794.3" y="489.9" font-size="15" fill="#3a3226" font-weight="700" textLength="39.9" lengthAdjust="spacing">genul</text>
+<text x="62.0" y="511.7" font-size="15" fill="#3a3226" font-weight="700" textLength="74.5" lengthAdjust="spacing">și numărul</text>
+<text x="140.6" y="511.7" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="145.1" y="511.7" font-size="15" fill="#10233f" font-style="italic" textLength="257.7" lengthAdjust="spacing">Fetele sunt eleve. Băiatul este inteligent.</text>
+<text x="402.8" y="511.7" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">).</text>
+<rect x="40" y="554.2" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="577.2" font-size="16" font-weight="700" fill="#ffffff">3. TREI FELURI DE A FI</text>
+<rect x="40" y="588.2" width="820" height="283.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="606.2" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="627.7" font-size="13.5" fill="#10233f" font-weight="700" textLength="51.7" lengthAdjust="spacing">A fi este</text>
+<text x="306.8" y="627.7" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="637.7" x2="838.0" y2="637.7" stroke="#e3dccb"/>
+<text x="74.0" y="660.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="63.1" lengthAdjust="spacing">copulativ</text>
+<text x="306.8" y="660.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="133.7" lengthAdjust="spacing">Ileana este frumoasă.</text>
+<line x1="62.0" y1="670.6" x2="838.0" y2="670.6" stroke="#e3dccb"/>
+<text x="74.0" y="693.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="68.0" lengthAdjust="spacing">predicativ</text>
+<text x="145.9" y="693.1" font-size="14.5" fill="#3a3226" textLength="92.2" lengthAdjust="spacing">(se află, există)</text>
+<text x="306.8" y="693.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="138.0" lengthAdjust="spacing">Vlad este în laborator.</text>
+<line x1="62.0" y1="703.4" x2="838.0" y2="703.4" stroke="#e3dccb"/>
+<text x="74.0" y="725.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="50.5" lengthAdjust="spacing">auxiliar</text>
+<text x="306.8" y="725.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="130.9" lengthAdjust="spacing">Aș fi mâncat un măr.</text>
+<line x1="62.0" y1="736.3" x2="838.0" y2="736.3" stroke="#e3dccb"/>
+<line x1="294.8" y1="606.2" x2="294.8" y2="736.3" stroke="#e3dccb"/>
+<rect x="62.0" y="750.3" width="776.0" height="103.8" rx="12" fill="#f3efe4"/><text x="78.0" y="776.8" font-size="14.5" fill="#10233f" font-weight="700" textLength="119.9" lengthAdjust="spacing">Model de analiză:</text>
+<text x="78.0" y="795.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="727.6" lengthAdjust="spacing">„să fie mai ușoară” – predicat nominal alcătuit din verb copulativ, modul conjunctiv, timpul prezent, persoana a III-a,</text>
+<text x="78.0" y="816.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="686.7" lengthAdjust="spacing">numărul singular + nume predicativ exprimat prin adjectiv propriu-zis, variabil, acordat cu „trezirea” (feminin,</text>
+<text x="78.0" y="837.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="281.9" lengthAdjust="spacing">singular), gradul comparativ de superioritate.</text>
+<text x="275.0" y="903.5" font-size="11.5" fill="#5b6b83" textLength="350.1" lengthAdjust="spacing">Sursa: Manual Art 6, pp. 72-73, rubricile Repere și modelul de analiză.</text>
 </svg>

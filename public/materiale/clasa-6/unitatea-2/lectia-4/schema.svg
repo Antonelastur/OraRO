@@ -1,46 +1,74 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="380" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Etapele acțiunii</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 3 · momentele subiectului literar, recapitulare din clasa a V-a</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="900" fill="#faf7f0"/>
+<text x="184.7" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="531.4" lengthAdjust="spacing">Etapele acțiunii (momentele subiectului)</text>
+<text x="214.4" y="74.4" font-size="14" fill="#5b6b83" textLength="471.2" lengthAdjust="spacing">Clasa a VI-a · Unitatea a II-a, Lecția 4 · Manual, pp. 49-51 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. DE LA TREI PĂRȚI LA CINCI MOMENTE</text>
+<rect x="40" y="128.6" width="820" height="77.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" textLength="640.2" lengthAdjust="spacing">Cele trei părți ale narațiunii (situația inițială, succesiunea de întâmplări, situația finală) se împart în</text>
+<text x="706.2" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="128.7" lengthAdjust="spacing">cinci momente ale</text>
+<text x="62.0" y="183.3" font-size="15" fill="#3a3226" font-weight="700" textLength="77.1" lengthAdjust="spacing">subiectului</text>
+<text x="139.1" y="183.3" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="40" y="225.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="248.8" font-size="16" font-weight="700" fill="#ffffff">2. MOMENTELE SUBIECTULUI</text>
+<rect x="40" y="259.9" width="820" height="357.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="277.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="299.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="66.4" lengthAdjust="spacing">Momentul</text>
+<text x="229.2" y="299.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="75.6" lengthAdjust="spacing">Ce cuprinde</text>
+<text x="593.9" y="299.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="161.0" lengthAdjust="spacing">Verbele folosite de obicei</text>
+<line x1="62.0" y1="309.4" x2="838.0" y2="309.4" stroke="#e3dccb"/>
+<text x="74.0" y="331.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="87.7" lengthAdjust="spacing">expozițiunea</text>
+<text x="229.2" y="331.9" font-size="14.5" fill="#3a3226" textLength="299.9" lengthAdjust="spacing">situația inițială, starea de echilibru; personajele,</text>
+<text x="229.2" y="352.9" font-size="14.5" fill="#3a3226" textLength="90.5" lengthAdjust="spacing">timpul, spațiul</text>
+<text x="593.9" y="331.9" font-size="14.5" fill="#3a3226" textLength="195.9" lengthAdjust="spacing">indicativ imperfect sau prezent</text>
+<line x1="62.0" y1="363.3" x2="838.0" y2="363.3" stroke="#e3dccb"/>
+<text x="74.0" y="385.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="45.2" lengthAdjust="spacing">intriga</text>
+<text x="229.2" y="385.8" font-size="14.5" fill="#3a3226" textLength="286.7" lengthAdjust="spacing">întâmplarea sau motivul interior (o dorință, o</text>
+<text x="229.2" y="406.8" font-size="14.5" fill="#3a3226" textLength="282.0" lengthAdjust="spacing">problemă) care declanșează acțiunea și rupe</text>
+<text x="229.2" y="427.8" font-size="14.5" fill="#3a3226" textLength="58.3" lengthAdjust="spacing">echilibrul</text>
+<text x="593.9" y="385.8" font-size="14.5" fill="#3a3226" textLength="197.3" lengthAdjust="spacing">perfect compus sau prezent (în</text>
+<text x="593.9" y="406.8" font-size="14.5" fill="#3a3226" textLength="171.0" lengthAdjust="spacing">texte vechi, perfect simplu)</text>
+<line x1="62.0" y1="438.2" x2="838.0" y2="438.2" stroke="#e3dccb"/>
+<text x="74.0" y="460.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="86.9" lengthAdjust="spacing">desfășurarea</text>
+<text x="74.0" y="481.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="50.3" lengthAdjust="spacing">acțiunii</text>
+<text x="229.2" y="460.7" font-size="14.5" fill="#3a3226" textLength="302.9" lengthAdjust="spacing">cea mai întinsă parte; întâmplările provocate de</text>
+<text x="229.2" y="481.7" font-size="14.5" fill="#3a3226" textLength="41.2" lengthAdjust="spacing">intrigă</text>
+<text x="593.9" y="460.7" font-size="14.5" fill="#3a3226" textLength="203.1" lengthAdjust="spacing">perfect compus, prezent; uneori</text>
+<text x="593.9" y="481.7" font-size="14.5" fill="#3a3226" textLength="140.5" lengthAdjust="spacing">mai-mult-ca-perfectul</text>
+<line x1="62.0" y1="492.1" x2="838.0" y2="492.1" stroke="#e3dccb"/>
+<text x="74.0" y="514.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="124.7" lengthAdjust="spacing">punctul culminant</text>
+<text x="229.2" y="514.5" font-size="14.5" fill="#3a3226" textLength="66.0" lengthAdjust="spacing">momentul</text>
+<text x="299.1" y="514.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="116.1" lengthAdjust="spacing">cel mai tensionat</text>
+<text x="415.2" y="514.5" font-size="14.5" fill="#3a3226" textLength="109.2" lengthAdjust="spacing">, care pune capăt</text>
+<text x="229.2" y="535.6" font-size="14.5" fill="#3a3226" textLength="214.9" lengthAdjust="spacing">întâmplărilor provocate de intrigă</text>
 
-  <path d="M 90 200 L 810 200" stroke="#b8944f" stroke-width="3" fill="none" marker-end="url(#arrow2)"/>
-  <defs>
-    <marker id="arrow2" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
-      <path d="M0,0 L10,5 L0,10 z" fill="#b8944f"/>
-    </marker>
-  </defs>
-
-  <g>
-    <rect x="60" y="130" width="220" height="140" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="170" y="158" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">Situația inițială</text>
-    <text font-size="12" fill="#3a3226" text-anchor="middle">
-      <tspan x="170" y="184">Cadrul de la</tspan>
-      <tspan x="170" y="200">începutul poveștii,</tspan>
-      <tspan x="170" y="216">înainte să se</tspan>
-      <tspan x="170" y="232">întâmple ceva nou.</tspan>
-    </text>
-  </g>
-
-  <g>
-    <rect x="340" y="130" width="220" height="140" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="450" y="158" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">Succesiunea</text>
-    <text x="450" y="176" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">de întâmplări</text>
-    <text font-size="12" fill="#3a3226" text-anchor="middle">
-      <tspan x="450" y="202">Evenimentele, în</tspan>
-      <tspan x="450" y="218">ordinea în care</tspan>
-      <tspan x="450" y="234">se petrec.</tspan>
-    </text>
-  </g>
-
-  <g>
-    <rect x="620" y="130" width="220" height="140" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="730" y="158" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">Situația finală</text>
-    <text font-size="12" fill="#3a3226" text-anchor="middle">
-      <tspan x="730" y="184">Cum rămân lucrurile</tspan>
-      <tspan x="730" y="200">după ce s-au</tspan>
-      <tspan x="730" y="216">petrecut întâmplările.</tspan>
-    </text>
-  </g>
-
-  <text x="450" y="340" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 3, p. 49</text>
+<line x1="62.0" y1="545.9" x2="838.0" y2="545.9" stroke="#e3dccb"/>
+<text x="74.0" y="568.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="106.9" lengthAdjust="spacing">deznodământul</text>
+<text x="229.2" y="568.4" font-size="14.5" fill="#3a3226" textLength="130.8" lengthAdjust="spacing">încheierea acțiunii; o</text>
+<text x="363.9" y="568.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="156.2" lengthAdjust="spacing">nouă stare de echilibru</text>
+<text x="520.1" y="568.4" font-size="14.5" fill="#3a3226" textLength="48.3" lengthAdjust="spacing">, uneori</text>
+<text x="229.2" y="589.4" font-size="14.5" fill="#3a3226" textLength="155.0" lengthAdjust="spacing">legată de situația inițială</text>
+<text x="593.9" y="568.4" font-size="14.5" fill="#3a3226" textLength="203.1" lengthAdjust="spacing">perfect compus, prezent, uneori</text>
+<text x="593.9" y="589.4" font-size="14.5" fill="#3a3226" textLength="60.8" lengthAdjust="spacing">imperfect</text>
+<line x1="62.0" y1="599.8" x2="838.0" y2="599.8" stroke="#e3dccb"/>
+<line x1="217.2" y1="277.9" x2="217.2" y2="599.8" stroke="#e3dccb"/>
+<line x1="581.9" y1="277.9" x2="581.9" y2="599.8" stroke="#e3dccb"/>
+<rect x="40" y="637.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="660.8" font-size="16" font-weight="700" fill="#ffffff">3. DE REȚINUT</text>
+<rect x="40" y="671.8" width="820" height="177.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="704.8" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="704.8" font-size="15" fill="#3a3226" font-weight="700" textLength="57.5" lengthAdjust="spacing">Epilogul</text>
+<text x="135.7" y="704.8" font-size="15" fill="#3a3226" textLength="142.2" lengthAdjust="spacing">prezintă momente de</text>
+<text x="281.9" y="704.8" font-size="15" fill="#3a3226" font-weight="700" textLength="35.8" lengthAdjust="spacing">după</text>
+<text x="321.8" y="704.8" font-size="15" fill="#3a3226" textLength="122.4" lengthAdjust="spacing">încheierea acțiunii.</text>
+<text x="62.0" y="729.5" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="729.5" font-size="15" fill="#3a3226" textLength="378.9" lengthAdjust="spacing">Momentele nu sunt întotdeauna clar delimitate: uneori își</text>
+<text x="457.1" y="729.5" font-size="15" fill="#3a3226" font-weight="700" textLength="116.4" lengthAdjust="spacing">schimbă ordinea</text>
+<text x="573.5" y="729.5" font-size="15" fill="#3a3226" textLength="89.5" lengthAdjust="spacing">, alteori unele</text>
+<text x="667.1" y="729.5" font-size="15" fill="#3a3226" font-weight="700" textLength="46.2" lengthAdjust="spacing">lipsesc</text>
+<text x="713.3" y="729.5" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="748.0" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="774.5" font-size="14.5" fill="#10233f" font-weight="700" textLength="79.6" lengthAdjust="spacing">Cum lucrez:</text>
+<text x="78.0" y="793.4" font-size="14.5" fill="#3a3226" textLength="718.2" lengthAdjust="spacing">asociez fiecare moment cu secvențele din planul simplu de idei; pentru fiecare pot formula 3-4 întrebări ale căror</text>
+<text x="78.0" y="814.4" font-size="14.5" fill="#3a3226" textLength="205.6" lengthAdjust="spacing">răspunsuri sunt ideile principale.</text>
+<text x="329.5" y="880.3" font-size="11.5" fill="#5b6b83" textLength="240.9" lengthAdjust="spacing">Sursa: Manual Art 6, pp. 49-51, rubricile Repere.</text>
 </svg>

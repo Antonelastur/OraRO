@@ -1,41 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="420" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Timpul și spațiul într-o narațiune</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 2 · Oracolul de Mircea Cărtărescu</text>
-
-  <g>
-    <rect x="40" y="95" width="390" height="200" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="235" y="124" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">Timpul desfășurării întâmplărilor</text>
-    <text font-size="12" fill="#3a3226" text-anchor="middle">
-      <tspan x="235" y="152">Momentul în care se petrec</tspan>
-      <tspan x="235" y="169">întâmplările: trecut, prezent</tspan>
-      <tspan x="235" y="186">sau viitor față de narare.</tspan>
-      <tspan x="235" y="216">Se marchează prin timpul</tspan>
-      <tspan x="235" y="233">verbelor din pasajele narate.</tspan>
-      <tspan x="235" y="263" font-style="italic">Ex.: întâmplarea cu Petruța</tspan>
-      <tspan x="235" y="279" font-style="italic">s-a petrecut în copilărie.</tspan>
-    </text>
-  </g>
-
-  <g>
-    <rect x="470" y="95" width="390" height="200" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="665" y="124" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">Timpul povestirii întâmplărilor</text>
-    <text font-size="12" fill="#3a3226" text-anchor="middle">
-      <tspan x="665" y="152">Momentul în care naratorul</tspan>
-      <tspan x="665" y="169">relatează întâmplările —</tspan>
-      <tspan x="665" y="186">nu coincide mereu cu primul.</tspan>
-      <tspan x="665" y="216">Are propriul lui timp verbal,</tspan>
-      <tspan x="665" y="233">de obicei diferit de al acțiunii.</tspan>
-      <tspan x="665" y="263" font-style="italic">Ex.: naratorul povestește la</tspan>
-      <tspan x="665" y="279" font-style="italic">mulți ani distanță, ca adult.</tspan>
-    </text>
-  </g>
-
-  <rect x="150" y="325" width="600" height="52" rx="14" fill="#fff3da" stroke="#b8944f" stroke-width="1.5"/>
-  <text font-size="12" fill="#3a3226" text-anchor="middle">
-    <tspan x="450" y="346">Spațiul se identifică la fel: cauți indicii spațiale — locul acțiunii</tspan>
-    <tspan x="450" y="363">și, separat, locul din care naratorul povestește azi.</tspan>
-  </text>
-
-  <text x="450" y="400" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 2, p. 47</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 793" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="793" fill="#faf7f0"/>
+<text x="233.4" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="434.3" lengthAdjust="spacing">Timpul și spațiul într-o narațiune</text>
+<text x="214.4" y="74.4" font-size="14" fill="#5b6b83" textLength="471.2" lengthAdjust="spacing">Clasa a VI-a · Unitatea a II-a, Lecția 3 · Manual, pp. 47-48 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. DOUĂ TIMPURI ÎNTR-O NARAȚIUNE</text>
+<rect x="40" y="128.6" width="820" height="248.2" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="146.6" width="380.0" height="136.5" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="174.6" font-size="16" fill="#0d9c92" font-weight="700" textLength="244.5" lengthAdjust="spacing">timpul desfășurării întâmplărilor</text>
+<text x="78.0" y="197.9" font-size="14.5" fill="#3a3226" textLength="100.2" lengthAdjust="spacing">când se petrece</text>
+<text x="182.1" y="197.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="57.9" lengthAdjust="spacing">acțiunea</text>
+<text x="78.0" y="221.8" font-size="14.5" fill="#3a3226" textLength="48.9" lengthAdjust="spacing">poate fi</text>
+<text x="130.8" y="221.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="168.1" lengthAdjust="spacing">trecut, prezent sau viitor</text>
+<text x="302.7" y="221.8" font-size="14.5" fill="#3a3226" textLength="114.1" lengthAdjust="spacing">față de momentul</text>
+<text x="78.0" y="242.8" font-size="14.5" fill="#3a3226" textLength="40.2" lengthAdjust="spacing">narării</text>
+<text x="78.0" y="266.8" font-size="14.5" fill="#3a3226" textLength="286.5" lengthAdjust="spacing">marcat prin verbe la trecut, prezent sau viitor</text>
+<rect x="458.0" y="146.6" width="380.0" height="136.5" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="174.6" font-size="16" fill="#6f5ea8" font-weight="700" textLength="227.0" lengthAdjust="spacing">timpul povestirii întâmplărilor</text>
+<text x="474.0" y="197.9" font-size="14.5" fill="#3a3226" textLength="112.2" lengthAdjust="spacing">momentul în care</text>
+<text x="590.1" y="197.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="129.2" lengthAdjust="spacing">naratorul relatează</text>
+<text x="474.0" y="221.8" font-size="14.5" fill="#3a3226" textLength="127.6" lengthAdjust="spacing">marcat prin verbe la</text>
+<text x="605.5" y="221.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="51.9" lengthAdjust="spacing">prezent</text>
+<rect x="62.0" y="297.1" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="297.1" width="6" height="61.7" rx="3" fill="#b4432c"/><text x="84.0" y="323.6" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="342.5" font-size="14.5" fill="#3a3226" textLength="114.4" lengthAdjust="spacing">Cele două timpuri</text>
+<text x="202.3" y="342.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="157.8" lengthAdjust="spacing">nu coincid întotdeauna</text>
+<text x="360.1" y="342.5" font-size="14.5" fill="#3a3226" textLength="402.1" lengthAdjust="spacing">: naratorul poate povesti azi ceva petrecut cu mulți ani în urmă.</text>
+<rect x="40" y="396.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="419.8" font-size="16" font-weight="700" fill="#ffffff">2. RITMUL POVESTIRII</text>
+<rect x="40" y="430.8" width="820" height="105.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="463.8" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="463.8" font-size="15" fill="#3a3226" textLength="141.0" lengthAdjust="spacing">Unele episoade pot fi</text>
+<text x="219.2" y="463.8" font-size="15" fill="#3a3226" font-weight="700" textLength="38.9" lengthAdjust="spacing">sărite</text>
+<text x="258.1" y="463.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="488.6" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="488.6" font-size="15" fill="#3a3226" textLength="76.8" lengthAdjust="spacing">Altele pot fi</text>
+<text x="155.0" y="488.6" font-size="15" fill="#3a3226" font-weight="700" textLength="85.5" lengthAdjust="spacing">comprimate</text>
+<text x="240.5" y="488.6" font-size="15" fill="#3a3226" textLength="102.9" lengthAdjust="spacing">, prin rezumare.</text>
+<text x="62.0" y="513.3" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="513.3" font-size="15" fill="#3a3226" textLength="171.9" lengthAdjust="spacing">Acțiunea se poate petrece</text>
+<text x="250.1" y="513.3" font-size="15" fill="#3a3226" font-weight="700" textLength="122.8" lengthAdjust="spacing">într-un singur loc</text>
+<text x="377.0" y="513.3" font-size="15" fill="#3a3226" textLength="22.5" lengthAdjust="spacing">sau</text>
+<text x="403.6" y="513.3" font-size="15" fill="#3a3226" font-weight="700" textLength="133.1" lengthAdjust="spacing">în mai multe locuri</text>
+<text x="536.6" y="513.3" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="40" y="555.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="578.8" font-size="16" font-weight="700" fill="#ffffff">3. PLANUL DEZVOLTAT DE IDEI</text>
+<rect x="40" y="589.8" width="820" height="152.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="622.8" font-size="15" fill="#3a3226" textLength="88.0" lengthAdjust="spacing">Pornesc de la</text>
+<text x="154.1" y="622.8" font-size="15" fill="#3a3226" font-weight="700" textLength="95.5" lengthAdjust="spacing">planul simplu</text>
+<text x="253.7" y="622.8" font-size="15" fill="#3a3226" textLength="254.5" lengthAdjust="spacing">(ideile principale) și adaug, sub fiecare,</text>
+<text x="512.3" y="622.8" font-size="15" fill="#3a3226" font-weight="700" textLength="114.0" lengthAdjust="spacing">ideile secundare</text>
+<text x="626.3" y="622.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="641.3" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="667.8" font-size="14.5" fill="#10233f" font-weight="700" textLength="47.8" lengthAdjust="spacing">Verific:</text>
+<text x="78.0" y="686.7" font-size="14.5" fill="#3a3226" textLength="737.7" lengthAdjust="spacing">fiecare idee principală are una sau mai multe idei secundare · respect ordinea întâmplărilor din text · respect regulile</text>
+<text x="78.0" y="707.7" font-size="14.5" fill="#3a3226" textLength="243.5" lengthAdjust="spacing">de exprimare, ortografie și punctuație.</text>
+<text x="135.2" y="773.5" font-size="11.5" fill="#5b6b83" textLength="629.6" lengthAdjust="spacing">Sursa: Manual Art 6, pp. 47-48, rubrica Repere și grila planului dezvoltat; textul de bază este „Oracolul” de Mircea Cărtărescu.</text>
 </svg>

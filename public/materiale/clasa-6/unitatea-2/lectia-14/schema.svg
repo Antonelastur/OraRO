@@ -1,35 +1,117 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="380" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Modul conjunctiv</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 10</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 965" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="965" fill="#faf7f0"/>
+<text x="334.6" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="231.0" lengthAdjust="spacing">Modul conjunctiv</text>
+<text x="210.6" y="74.4" font-size="14" fill="#5b6b83" textLength="478.8" lengthAdjust="spacing">Clasa a VI-a · Unitatea a II-a, Lecția 14 · Manual, pp. 68-69 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ARATĂ</text>
+<rect x="40" y="128.6" width="820" height="115.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="94.7" lengthAdjust="spacing">Conjunctivul</text>
+<text x="161.0" y="162.6" font-size="16" fill="#10233f" textLength="105.0" lengthAdjust="spacing">arată o acțiune</text>
+<text x="270.3" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="144.0" lengthAdjust="spacing">posibilă, realizabilă</text>
+<text x="414.3" y="162.6" font-size="16" fill="#10233f" textLength="169.9" lengthAdjust="spacing">. Marca lui este cuvântul</text>
+<text x="588.6" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="15.7" lengthAdjust="spacing">să</text>
+<text x="604.2" y="162.6" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<text x="62.0" y="196.4" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="196.4" font-size="15" fill="#3a3226" textLength="425.4" lengthAdjust="spacing">La începutul enunțurilor orale, persoana a III-a poate apărea fără</text>
+<text x="503.6" y="196.4" font-size="15" fill="#10233f" font-style="italic" textLength="14.1" lengthAdjust="spacing">să</text>
+<text x="517.7" y="196.4" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="525.1" y="196.4" font-size="15" fill="#10233f" font-style="italic" textLength="96.6" lengthAdjust="spacing">Facă ce-o dori!</text>
+<text x="62.0" y="221.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="221.1" font-size="15" fill="#3a3226" textLength="304.2" lengthAdjust="spacing">Verbele predicative la conjunctiv au funcția de</text>
+<text x="382.4" y="221.1" font-size="15" fill="#3a3226" font-weight="700" textLength="106.0" lengthAdjust="spacing">predicat verbal</text>
+<text x="488.5" y="221.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="40" y="263.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="286.6" font-size="16" font-weight="700" fill="#ffffff">2. TIMPURILE</text>
+<rect x="40" y="297.6" width="820" height="385.1" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="315.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="337.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="44.5" lengthAdjust="spacing">Timpul</text>
+<text x="182.6" y="337.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="52.0" lengthAdjust="spacing">Ce arată</text>
+<text x="415.4" y="337.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="109.3" lengthAdjust="spacing">Cum se formează</text>
+<text x="663.8" y="337.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="347.2" x2="838.0" y2="347.2" stroke="#e3dccb"/>
+<text x="74.0" y="369.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="51.9" lengthAdjust="spacing">prezent</text>
+<text x="182.6" y="369.7" font-size="14.5" fill="#3a3226" textLength="185.6" lengthAdjust="spacing">acțiune posibilă în momentul</text>
+<text x="182.6" y="390.7" font-size="14.5" fill="#3a3226" textLength="107.0" lengthAdjust="spacing">vorbirii sau după</text>
+<text x="415.4" y="369.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="13.6" lengthAdjust="spacing">să</text>
+<text x="433.0" y="369.7" font-size="14.5" fill="#3a3226" textLength="192.7" lengthAdjust="spacing">+ indicativ prezent (altă formă</text>
+<text x="415.4" y="390.7" font-size="14.5" fill="#3a3226" textLength="89.8" lengthAdjust="spacing">la pers. a III-a)</text>
+<text x="663.8" y="369.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="103.2" lengthAdjust="spacing">să cânt, să cânte</text>
+<line x1="62.0" y1="401.1" x2="838.0" y2="401.1" stroke="#e3dccb"/>
+<text x="74.0" y="423.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="48.6" lengthAdjust="spacing">perfect</text>
+<text x="182.6" y="423.6" font-size="14.5" fill="#3a3226" textLength="167.3" lengthAdjust="spacing">acțiune posibilă înainte de</text>
+<text x="182.6" y="444.6" font-size="14.5" fill="#3a3226" textLength="114.5" lengthAdjust="spacing">momentul vorbirii</text>
+<text x="415.4" y="423.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="13.6" lengthAdjust="spacing">să</text>
+<text x="433.0" y="423.6" font-size="14.5" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">+</text>
+<text x="446.8" y="423.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="8.1" lengthAdjust="spacing">fi</text>
+<text x="458.8" y="423.6" font-size="14.5" fill="#3a3226" textLength="76.9" lengthAdjust="spacing">+ participiu;</text>
+<text x="539.6" y="423.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="94.1" lengthAdjust="spacing">aceeași formă</text>
+<text x="415.4" y="444.6" font-size="14.5" fill="#3a3226" textLength="122.1" lengthAdjust="spacing">la toate persoanele</text>
+<text x="663.8" y="423.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="69.0" lengthAdjust="spacing">să fi cântat</text>
+<line x1="62.0" y1="454.9" x2="838.0" y2="454.9" stroke="#e3dccb"/>
+<line x1="170.6" y1="315.6" x2="170.6" y2="454.9" stroke="#e3dccb"/>
+<line x1="403.4" y1="315.6" x2="403.4" y2="454.9" stroke="#e3dccb"/>
+<line x1="651.8" y1="315.6" x2="651.8" y2="454.9" stroke="#e3dccb"/>
+<rect x="62.0" y="468.9" width="776.0" height="31.6" fill="#efeaf8"/>
 
-  <rect x="150" y="95" width="600" height="80" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="450" y="123" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Ce arată</text>
-  <text font-size="12" fill="#3a3226" text-anchor="middle">
-    <tspan x="450" y="145">Acțiuni posibile, realizabile — nu certitudini, ca la indicativ.</tspan>
-    <tspan x="450" y="162">Se formează cu particula „să” + forma verbului.</tspan>
-  </text>
-
-  <g>
-    <rect x="80" y="205" width="360" height="130" rx="14" fill="#eaf6f4"/>
-    <text x="260" y="232" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Exemplu din text</text>
-    <text font-size="12" fill="#3a3226" text-anchor="middle">
-      <tspan x="260" y="258">„Îl mâhnește </tspan><tspan font-weight="700" fill="#0d9c92">să-i certe</tspan><tspan> pe copii.”</tspan>
-      <tspan x="260" y="280">„Îi încântă </tspan><tspan font-weight="700" fill="#0d9c92">să joace</tspan><tspan> fotbal.”</tspan>
-      <tspan x="260" y="308" font-style="italic">„să” + verbul la conjunctiv</tspan>
-    </text>
-  </g>
-
-  <g>
-    <rect x="460" y="205" width="360" height="130" rx="14" fill="#fff3da"/>
-    <text x="640" y="232" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">De reținut</text>
-    <text font-size="12" fill="#3a3226" text-anchor="middle">
-      <tspan x="640" y="258">Prezent: să cânt, să cânți...</tspan>
-      <tspan x="640" y="280">Perfect: să fi cântat...</tspan>
-      <tspan x="640" y="308">Timpul se stabilește față de</tspan>
-      <tspan x="640" y="326">momentul vorbirii.</tspan>
-    </text>
-  </g>
-
-  <text x="450" y="360" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 10, pp. 68-69</text>
+<text x="291.5" y="490.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="45.6" lengthAdjust="spacing">a cânta</text>
+<text x="497.9" y="490.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="51.8" lengthAdjust="spacing">a merge</text>
+<text x="718.1" y="490.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="30.4" lengthAdjust="spacing">a citi</text>
+<line x1="62.0" y1="500.5" x2="838.0" y2="500.5" stroke="#e3dccb"/>
+<text x="74.0" y="523.0" font-size="14.5" fill="#3a3226" textLength="15.8" lengthAdjust="spacing">eu</text>
+<text x="291.9" y="523.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="44.5" lengthAdjust="spacing">să cânt</text>
+<text x="498.6" y="523.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="50.2" lengthAdjust="spacing">să merg</text>
+<text x="707.4" y="523.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="51.6" lengthAdjust="spacing">să citesc</text>
+<line x1="62.0" y1="533.4" x2="838.0" y2="533.4" stroke="#e3dccb"/>
+<text x="74.0" y="555.9" font-size="14.5" fill="#3a3226" textLength="13.2" lengthAdjust="spacing">tu</text>
+<text x="290.1" y="555.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="48.3" lengthAdjust="spacing">să cânți</text>
+<text x="496.8" y="555.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="53.9" lengthAdjust="spacing">să mergi</text>
+<text x="706.4" y="555.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="53.6" lengthAdjust="spacing">să citești</text>
+<line x1="62.0" y1="566.2" x2="838.0" y2="566.2" stroke="#e3dccb"/>
+<text x="74.0" y="588.7" font-size="14.5" fill="#3a3226" textLength="76.8" lengthAdjust="spacing">el, ea, ei, ele</text>
+<text x="288.4" y="588.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="51.6" lengthAdjust="spacing">să cânte</text>
+<text x="490.8" y="588.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="65.8" lengthAdjust="spacing">să meargă</text>
+<text x="699.6" y="588.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="67.3" lengthAdjust="spacing">să citească</text>
+<line x1="62.0" y1="599.1" x2="838.0" y2="599.1" stroke="#e3dccb"/>
+<text x="74.0" y="621.5" font-size="14.5" fill="#3a3226" textLength="20.3" lengthAdjust="spacing">noi</text>
+<text x="281.8" y="621.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="64.8" lengthAdjust="spacing">să cântăm</text>
+<text x="488.8" y="621.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="69.7" lengthAdjust="spacing">să mergem</text>
+<text x="709.0" y="621.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="48.6" lengthAdjust="spacing">să citim</text>
+<line x1="62.0" y1="631.9" x2="838.0" y2="631.9" stroke="#e3dccb"/>
+<text x="74.0" y="654.4" font-size="14.5" fill="#3a3226" textLength="19.0" lengthAdjust="spacing">voi</text>
+<text x="283.8" y="654.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="60.8" lengthAdjust="spacing">să cântați</text>
+<text x="490.9" y="654.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="65.7" lengthAdjust="spacing">să mergeți</text>
+<text x="711.0" y="654.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="44.5" lengthAdjust="spacing">să citiți</text>
+<line x1="62.0" y1="664.8" x2="838.0" y2="664.8" stroke="#e3dccb"/>
+<line x1="209.4" y1="468.9" x2="209.4" y2="664.8" stroke="#e3dccb"/>
+<line x1="419.0" y1="468.9" x2="419.0" y2="664.8" stroke="#e3dccb"/>
+<line x1="628.5" y1="468.9" x2="628.5" y2="664.8" stroke="#e3dccb"/>
+<rect x="40" y="702.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="725.8" font-size="16" font-weight="700" fill="#ffffff">3. FORMA NEGATIVĂ ȘI ORDINEA CUVINTELOR</text>
+<rect x="40" y="736.8" width="820" height="177.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="769.8" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="769.8" font-size="15" fill="#3a3226" textLength="132.3" lengthAdjust="spacing">Negativul se face cu</text>
+<text x="210.6" y="769.8" font-size="15" fill="#3a3226" font-weight="700" textLength="18.3" lengthAdjust="spacing">nu</text>
+<text x="228.9" y="769.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="236.2" y="769.8" font-size="15" fill="#10233f" font-style="italic" textLength="166.5" lengthAdjust="spacing">să nu cânt, să nu fi cântat</text>
+<text x="402.7" y="769.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="794.5" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="794.5" font-size="15" fill="#3a3226" font-weight="700" textLength="92.5" lengthAdjust="spacing">cam, mai, tot</text>
+<text x="170.8" y="794.5" font-size="15" fill="#3a3226" textLength="27.6" lengthAdjust="spacing">stau</text>
+<text x="202.5" y="794.5" font-size="15" fill="#3a3226" font-weight="700" textLength="33.3" lengthAdjust="spacing">între</text>
+<text x="239.8" y="794.5" font-size="15" fill="#10233f" font-weight="700" font-style="italic" textLength="15.4" lengthAdjust="spacing">să</text>
+<text x="259.3" y="794.5" font-size="15" fill="#3a3226" font-weight="700" textLength="46.5" lengthAdjust="spacing">și verb</text>
+<text x="309.8" y="794.5" font-size="15" fill="#3a3226" textLength="73.9" lengthAdjust="spacing">la prezent (</text>
+<text x="383.8" y="794.5" font-size="15" fill="#10233f" font-style="italic" textLength="75.0" lengthAdjust="spacing">să mai cânt</text>
+<text x="458.8" y="794.5" font-size="15" fill="#3a3226" textLength="18.4" lengthAdjust="spacing">) și</text>
+<text x="481.3" y="794.5" font-size="15" fill="#3a3226" font-weight="700" textLength="33.3" lengthAdjust="spacing">între</text>
+<text x="518.6" y="794.5" font-size="15" fill="#10233f" font-weight="700" font-style="italic" textLength="15.4" lengthAdjust="spacing">să</text>
+<text x="538.1" y="794.5" font-size="15" fill="#3a3226" font-weight="700" textLength="10.8" lengthAdjust="spacing">și</text>
+<text x="553.0" y="794.5" font-size="15" fill="#10233f" font-weight="700" font-style="italic" textLength="10.5" lengthAdjust="spacing">fi</text>
+<text x="567.5" y="794.5" font-size="15" fill="#3a3226" textLength="70.2" lengthAdjust="spacing">la perfect (</text>
+<text x="637.7" y="794.5" font-size="15" fill="#10233f" font-style="italic" textLength="100.3" lengthAdjust="spacing">să mai fi cântat</text>
+<text x="738.1" y="794.5" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">).</text>
+<rect x="62.0" y="813.0" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="839.5" font-size="14.5" fill="#10233f" font-weight="700" textLength="119.9" lengthAdjust="spacing">Model de analiză:</text>
+<text x="78.0" y="858.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="742.5" lengthAdjust="spacing">„să nu scăpăm” – verb predicativ, modul conjunctiv, timpul prezent, persoana I, numărul plural, formă negativă, funcție</text>
+<text x="78.0" y="879.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="178.2" lengthAdjust="spacing">sintactică de predicat verbal.</text>
+<text x="217.4" y="945.2" font-size="11.5" fill="#5b6b83" textLength="465.3" lengthAdjust="spacing">Sursa: Manual Art 6, pp. 68-69, rubricile Repere, tabelele de conjugare și modelul de analiză.</text>
 </svg>

@@ -1,41 +1,103 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="420" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Felul verbelor</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 9 · Verbul (actualizare)</text>
-
-  <rect x="350" y="88" width="200" height="48" rx="14" fill="#6f5ea8"/>
-  <text x="450" y="118" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">VERBUL</text>
-
-  <path d="M 450 136 L 450 160 L 230 160 L 230 184" stroke="#b8944f" stroke-width="2.5" fill="none"/>
-  <path d="M 450 136 L 450 160 L 670 160 L 670 184" stroke="#b8944f" stroke-width="2.5" fill="none"/>
-
-  <g>
-    <rect x="80" y="184" width="300" height="160" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="230" y="212" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">predicativ</text>
-    <text font-size="12" fill="#3a3226" text-anchor="middle">
-      <tspan x="230" y="238">Arată singur o acțiune</tspan>
-      <tspan x="230" y="255">sau o stare și poate fi,</tspan>
-      <tspan x="230" y="272">singur, predicat.</tspan>
-      <tspan x="230" y="302" font-style="italic">Petruța citește oracolul.</tspan>
-      <tspan x="230" y="318" font-style="italic">culege, pisează, pune</tspan>
-    </text>
-  </g>
-
-  <g>
-    <rect x="520" y="184" width="300" height="160" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="670" y="212" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">auxiliar</text>
-    <text font-size="12" fill="#3a3226" text-anchor="middle">
-      <tspan x="670" y="238">Ajută la formarea unor</tspan>
-      <tspan x="670" y="255">moduri și timpuri compuse:</tspan>
-      <tspan x="670" y="272">a fi, a avea, a vrea.</tspan>
-      <tspan x="670" y="302" font-style="italic">va culege = a vrea (auxiliar)</tspan>
-      <tspan x="670" y="318" font-style="italic">+ culege (predicativ)</tspan>
-    </text>
-  </g>
-
-  <rect x="150" y="360" width="600" height="40" rx="12" fill="#fff3da" stroke="#b8944f" stroke-width="1.5"/>
-  <text x="450" y="385" text-anchor="middle" font-size="11.5" fill="#3a3226">Același verb (a fi, a avea, a vrea) poate fi, în context, și auxiliar, și predicativ.</text>
-
-  <text x="450" y="330" text-anchor="middle" font-size="0" fill="none"/>
-  <text x="450" y="412" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 9, p. 64</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1144" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1144" fill="#faf7f0"/>
+<text x="231.9" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="437.0" lengthAdjust="spacing">Verbul. Felul verbelor. Indicativul</text>
+<text x="210.6" y="74.4" font-size="14" fill="#5b6b83" textLength="478.8" lengthAdjust="spacing">Clasa a VI-a · Unitatea a II-a, Lecția 12 · Manual, pp. 64-65 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. FELUL VERBELOR</text>
+<rect x="40" y="128.6" width="820" height="186.3" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="49.9" lengthAdjust="spacing">Verbul</text>
+<text x="116.2" y="162.6" font-size="16" fill="#10233f" textLength="35.5" lengthAdjust="spacing">arată</text>
+<text x="156.1" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="221.1" lengthAdjust="spacing">acțiunea, starea sau existența</text>
+<text x="377.2" y="162.6" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="181.4" width="380.0" height="115.5" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="209.4" font-size="16" fill="#0d9c92" font-weight="700" textLength="83.7" lengthAdjust="spacing">predicative</text>
+<text x="78.0" y="232.7" font-size="14.5" fill="#3a3226" textLength="186.6" lengthAdjust="spacing">pot alcătui singure predicatul</text>
+<text x="78.0" y="256.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="111.1" lengthAdjust="spacing">Am o carte veche.</text>
+<text x="78.0" y="280.6" font-size="14.5" fill="#3a3226" textLength="46.7" lengthAdjust="spacing">funcția:</text>
+<text x="128.6" y="280.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="102.5" lengthAdjust="spacing">predicat verbal</text>
+<rect x="458.0" y="181.4" width="380.0" height="115.5" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="209.4" font-size="16" fill="#6f5ea8" font-weight="700" textLength="102.1" lengthAdjust="spacing">nepredicative</text>
+<text x="474.0" y="232.7" font-size="14.5" fill="#3a3226" textLength="207.1" lengthAdjust="spacing">nu pot alcătui singure predicatul</text>
+<text x="474.0" y="256.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="131.9" lengthAdjust="spacing">Am inventat o rețetă.</text>
+<rect x="40" y="334.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="357.9" font-size="16" font-weight="700" fill="#ffffff">2. VERBELE AUXILIARE</text>
+<rect x="40" y="368.9" width="820" height="198.3" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="386.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="408.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="61.2" lengthAdjust="spacing">Auxiliarul</text>
+<text x="213.7" y="408.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="61.4" lengthAdjust="spacing">Formează</text>
+<text x="539.6" y="408.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="418.4" x2="838.0" y2="418.4" stroke="#e3dccb"/>
+<text x="74.0" y="440.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="43.2" lengthAdjust="spacing">a avea</text>
+<text x="213.7" y="440.9" font-size="14.5" fill="#3a3226" textLength="111.1" lengthAdjust="spacing">perfectul compus</text>
+<text x="539.6" y="440.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="122.1" lengthAdjust="spacing">Am cules cimbrișor.</text>
+<line x1="62.0" y1="451.3" x2="838.0" y2="451.3" stroke="#e3dccb"/>
+<text x="74.0" y="473.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="41.2" lengthAdjust="spacing">a vrea</text>
+<text x="213.7" y="473.8" font-size="14.5" fill="#3a3226" textLength="160.1" lengthAdjust="spacing">viitorul și viitorul anterior</text>
+<text x="539.6" y="473.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="135.3" lengthAdjust="spacing">vei învăța; vei fi văzut</text>
+<line x1="62.0" y1="484.1" x2="838.0" y2="484.1" stroke="#e3dccb"/>
+<text x="74.0" y="506.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="21.5" lengthAdjust="spacing">a fi</text>
+<text x="213.7" y="506.6" font-size="14.5" fill="#3a3226" textLength="98.5" lengthAdjust="spacing">viitorul anterior</text>
+<text x="539.6" y="506.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="119.0" lengthAdjust="spacing">Voi fi găsit cartea...</text>
+<line x1="62.0" y1="517.0" x2="838.0" y2="517.0" stroke="#e3dccb"/>
+<line x1="201.7" y1="386.9" x2="201.7" y2="517.0" stroke="#e3dccb"/>
+<line x1="527.6" y1="386.9" x2="527.6" y2="517.0" stroke="#e3dccb"/>
+<text x="62.0" y="545.0" font-size="14" fill="#5b6b83" font-weight="700" textLength="114.0" lengthAdjust="spacing">Funcția sintactică</text>
+<text x="179.7" y="545.0" font-size="14" fill="#5b6b83" textLength="263.5" lengthAdjust="spacing">este rolul unei părți de propoziție în enunț.</text>
+<rect x="40" y="587.2" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="610.2" font-size="16" font-weight="700" fill="#ffffff">3. MODUL INDICATIV</text>
+<rect x="40" y="621.2" width="820" height="471.9" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="654.2" font-size="15" fill="#3a3226" font-weight="700" textLength="46.2" lengthAdjust="spacing">Modul</text>
+<text x="112.2" y="654.2" font-size="15" fill="#3a3226" textLength="490.9" lengthAdjust="spacing">este forma pe care o ia verbul ca să arate cum privește vorbitorul acțiunea.</text>
+<text x="607.2" y="654.2" font-size="15" fill="#3a3226" font-weight="700" textLength="74.2" lengthAdjust="spacing">Indicativul</text>
+<text x="685.5" y="654.2" font-size="15" fill="#3a3226" textLength="98.4" lengthAdjust="spacing">arată o acțiune</text>
+<text x="788.0" y="654.2" font-size="15" fill="#3a3226" font-weight="700" textLength="47.4" lengthAdjust="spacing">sigură,</text>
+<text x="62.0" y="675.9" font-size="15" fill="#3a3226" font-weight="700" textLength="34.5" lengthAdjust="spacing">reală</text>
+<text x="100.5" y="675.9" font-size="15" fill="#3a3226" textLength="40.9" lengthAdjust="spacing">și este</text>
+<text x="145.5" y="675.9" font-size="15" fill="#3a3226" font-weight="700" textLength="225.0" lengthAdjust="spacing">singurul mod cu toate timpurile</text>
+<text x="370.5" y="675.9" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="694.4" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="715.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="44.5" lengthAdjust="spacing">Timpul</text>
+<text x="423.2" y="715.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="160.2" lengthAdjust="spacing">Exemplu (a cânta, pers. I)</text>
+<line x1="62.0" y1="726.0" x2="838.0" y2="726.0" stroke="#e3dccb"/>
+<text x="74.0" y="748.5" font-size="14.5" fill="#3a3226" textLength="48.4" lengthAdjust="spacing">prezent</text>
+<text x="423.2" y="748.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="27.0" lengthAdjust="spacing">cânt</text>
+<line x1="62.0" y1="758.8" x2="838.0" y2="758.8" stroke="#e3dccb"/>
+<text x="74.0" y="781.3" font-size="14.5" fill="#3a3226" textLength="60.8" lengthAdjust="spacing">imperfect</text>
+<text x="423.2" y="781.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="47.3" lengthAdjust="spacing">cântam</text>
+<line x1="62.0" y1="791.7" x2="838.0" y2="791.7" stroke="#e3dccb"/>
+<text x="74.0" y="814.2" font-size="14.5" fill="#3a3226" textLength="91.1" lengthAdjust="spacing">perfect simplu</text>
+<text x="423.2" y="814.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="38.6" lengthAdjust="spacing">cântai</text>
+<line x1="62.0" y1="824.5" x2="838.0" y2="824.5" stroke="#e3dccb"/>
+<text x="74.0" y="847.0" font-size="14.5" fill="#3a3226" textLength="99.3" lengthAdjust="spacing">perfect compus</text>
+<text x="423.2" y="847.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="63.7" lengthAdjust="spacing">am cântat</text>
+<line x1="62.0" y1="857.4" x2="838.0" y2="857.4" stroke="#e3dccb"/>
+<text x="74.0" y="879.9" font-size="14.5" fill="#3a3226" textLength="128.8" lengthAdjust="spacing">mai-mult-ca-perfect</text>
+<text x="423.2" y="879.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="60.2" lengthAdjust="spacing">cântasem</text>
+<line x1="62.0" y1="890.2" x2="838.0" y2="890.2" stroke="#e3dccb"/>
+<text x="74.0" y="912.7" font-size="14.5" fill="#3a3226" textLength="132.7" lengthAdjust="spacing">viitor / viitor anterior</text>
+<text x="423.2" y="912.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="144.6" lengthAdjust="spacing">voi cânta / voi fi cântat</text>
+<line x1="62.0" y1="923.1" x2="838.0" y2="923.1" stroke="#e3dccb"/>
+<line x1="411.2" y1="694.4" x2="411.2" y2="923.1" stroke="#e3dccb"/>
+<text x="62.0" y="952.1" font-size="15" fill="#3a3226" textLength="183.6" lengthAdjust="spacing">Prezentul se construiește cu</text>
+<text x="249.6" y="952.1" font-size="15" fill="#3a3226" font-weight="700" textLength="68.5" lengthAdjust="spacing">desinențe</text>
+<text x="322.2" y="952.1" font-size="15" fill="#3a3226" textLength="179.1" lengthAdjust="spacing">(arată persoana și numărul:</text>
+<text x="505.4" y="952.1" font-size="15" fill="#10233f" font-style="italic" textLength="89.5" lengthAdjust="spacing">cântăm, ziceți</text>
+<text x="594.9" y="952.1" font-size="15" fill="#3a3226" textLength="38.0" lengthAdjust="spacing">) și cu</text>
+<text x="636.9" y="952.1" font-size="15" fill="#3a3226" font-weight="700" textLength="171.6" lengthAdjust="spacing">sunete care arată timpul</text>
+<text x="62.0" y="973.8" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="66.5" y="973.8" font-size="15" fill="#10233f" font-style="italic" textLength="107.4" lengthAdjust="spacing">lucrează, vorbim</text>
+<text x="173.9" y="973.8" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">).</text>
+<rect x="62.0" y="992.3" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="992.3" width="6" height="82.7" rx="3" fill="#b4432c"/><text x="84.0" y="1018.8" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="1037.7" font-size="14.5" fill="#3a3226" textLength="145.7" lengthAdjust="spacing">Viitorul are și forme de</text>
+<text x="233.6" y="1037.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="91.3" lengthAdjust="spacing">limbă vorbită</text>
+<text x="328.9" y="1037.7" font-size="14.5" fill="#3a3226" textLength="4.3" lengthAdjust="spacing">(</text>
+<text x="333.2" y="1037.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="132.1" lengthAdjust="spacing">o să cânt, am să cânt</text>
+<text x="465.3" y="1037.7" font-size="14.5" fill="#3a3226" textLength="17.8" lengthAdjust="spacing">) și</text>
+<text x="487.1" y="1037.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="61.2" lengthAdjust="spacing">populare</text>
+<text x="552.2" y="1037.7" font-size="14.5" fill="#3a3226" textLength="4.3" lengthAdjust="spacing">(</text>
+<text x="556.5" y="1037.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="50.3" lengthAdjust="spacing">oi cânta</text>
+<text x="606.9" y="1037.7" font-size="14.5" fill="#3a3226" textLength="203.3" lengthAdjust="spacing">); în scris folosesc forma literară:</text>
+<text x="84.0" y="1058.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="57.1" lengthAdjust="spacing">voi cânta</text>
+<text x="141.1" y="1058.7" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="207.2" y="1124.6" font-size="11.5" fill="#5b6b83" textLength="485.5" lengthAdjust="spacing">Sursa: Manual Art 6, pp. 64-65, rubricile Repere. Unele exemple sunt create pentru aceste notițe.</text>
 </svg>

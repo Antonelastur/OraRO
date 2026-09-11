@@ -238,7 +238,7 @@ export const unitatea2 = {
         ],
         resurse: [
           'Manual Art 6, pp. 49-51',
-          'Schema „Etapele acțiunii” (/materiale/clasa-6/unitatea-2/lectia-4/schema.svg)',
+          'Schema „Etapele acțiunii (momentele subiectului)” (/materiale/clasa-6/unitatea-2/lectia-4/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -282,7 +282,7 @@ export const unitatea2 = {
         fisa: null,
         joc: null,
         infografic: null,
-        schema: { fisier: '/materiale/clasa-6/unitatea-2/lectia-4/schema.svg', titlu: 'Etapele acțiunii' },
+        schema: { fisier: '/materiale/clasa-6/unitatea-2/lectia-4/schema.svg', titlu: 'Etapele acțiunii (momentele subiectului)' },
         altele: [],
       },
     },
@@ -802,7 +802,7 @@ export const unitatea2 = {
         ],
         resurse: [
           'Manual Art 6, pp. 64-65',
-          'Schema „Felul verbelor” (/materiale/clasa-6/unitatea-2/lectia-12/schema.svg)',
+          'Schema „Verbul. Felul verbelor. Indicativul” (/materiale/clasa-6/unitatea-2/lectia-12/schema.svg)',
           'Cretă colorată',
         ],
         desfasurare: [
@@ -846,7 +846,7 @@ export const unitatea2 = {
         fisa: null,
         joc: null,
         infografic: null,
-        schema: { fisier: '/materiale/clasa-6/unitatea-2/lectia-12/schema.svg', titlu: 'Felul verbelor' },
+        schema: { fisier: '/materiale/clasa-6/unitatea-2/lectia-12/schema.svg', titlu: 'Verbul. Felul verbelor. Indicativul' },
         altele: [],
       },
     },
@@ -1066,7 +1066,7 @@ export const unitatea2 = {
         ],
         resurse: [
           'Manual Art 6, pp. 72-73',
-          'Schema „Predicatul nominal” (/materiale/clasa-6/unitatea-2/lectia-16/schema.svg)',
+          'Schema „Verbul copulativ a fi. Predicatul nominal” (/materiale/clasa-6/unitatea-2/lectia-16/schema.svg)',
           'Un săculeț cu un obiect ascuns',
         ],
         desfasurare: [
@@ -1110,7 +1110,7 @@ export const unitatea2 = {
         fisa: null,
         joc: null,
         infografic: null,
-        schema: { fisier: '/materiale/clasa-6/unitatea-2/lectia-16/schema.svg', titlu: 'Predicatul nominal' },
+        schema: { fisier: '/materiale/clasa-6/unitatea-2/lectia-16/schema.svg', titlu: 'Verbul copulativ a fi. Predicatul nominal' },
         altele: [],
       },
     },
@@ -1198,7 +1198,7 @@ export const unitatea2 = {
         ],
         resurse: [
           'Manual Art 6, pp. 76-77',
-          'Schema „Complementul” (/materiale/clasa-6/unitatea-2/lectia-18/schema.svg)',
+          'Schema „Complementul. Posibilitățile combinatorii ale verbului” (/materiale/clasa-6/unitatea-2/lectia-18/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -1242,7 +1242,7 @@ export const unitatea2 = {
         fisa: null,
         joc: null,
         infografic: null,
-        schema: { fisier: '/materiale/clasa-6/unitatea-2/lectia-18/schema.svg', titlu: 'Complementul' },
+        schema: { fisier: '/materiale/clasa-6/unitatea-2/lectia-18/schema.svg', titlu: 'Complementul. Posibilitățile combinatorii ale verbului' },
         altele: [],
       },
     },

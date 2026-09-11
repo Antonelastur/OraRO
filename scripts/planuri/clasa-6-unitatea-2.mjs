@@ -67,7 +67,7 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Identifică situația inițială, succesiunea de întâmplări și situația finală într-un text narativ.'],
-    resurse: ['Manual Art 6, pp. 49-51', 'Schema „Etapele acțiunii” (/materiale/clasa-6/unitatea-2/lectia-4/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 49-51', 'Schema „Etapele acțiunii (momentele subiectului)” (/materiale/clasa-6/unitatea-2/lectia-4/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Elevii ordonează cele zece secvențe citate la p. 49 în ordinea în care apar în text.' },
@@ -203,7 +203,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Diferențiază verbele predicative de verbele auxiliare, recapitulare din clasa a V-a.'],
-    resurse: ['Manual Art 6, pp. 64-65', 'Schema „Felul verbelor” (/materiale/clasa-6/unitatea-2/lectia-12/schema.svg)', 'Cretă colorată'],
+    resurse: ['Manual Art 6, pp. 64-65', 'Schema „Verbul. Felul verbelor. Indicativul” (/materiale/clasa-6/unitatea-2/lectia-12/schema.svg)', 'Cretă colorată'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '6 min', activitate: 'Jocul „Graffiti”: toți elevii scriu în același timp pe tablă, cu cretă colorată, cuvinte care arată ce face Petruța în Oracolul.' },
@@ -271,7 +271,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Recunoaște verbul copulativ a fi și identifică numele predicativ, în structura predicatului nominal.'],
-    resurse: ['Manual Art 6, pp. 72-73', 'Schema „Predicatul nominal” (/materiale/clasa-6/unitatea-2/lectia-16/schema.svg)', 'Un săculeț cu un obiect ascuns'],
+    resurse: ['Manual Art 6, pp. 72-73', 'Schema „Verbul copulativ a fi. Predicatul nominal” (/materiale/clasa-6/unitatea-2/lectia-16/schema.svg)', 'Un săculeț cu un obiect ascuns'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '6 min', activitate: 'Jocul „Obiectul misterios”: un elev pipăie obiectul din săculeț și răspunde la întrebări de tipul „Este ușor? Este rece?”, iar colegii au trei încercări să-l ghicească.' },
@@ -305,7 +305,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Identifică complementul ca parte de propoziție care determină verbul și arată obiectul acțiunii.'],
-    resurse: ['Manual Art 6, pp. 76-77', 'Schema „Complementul” (/materiale/clasa-6/unitatea-2/lectia-18/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 76-77', 'Schema „Complementul. Posibilitățile combinatorii ale verbului” (/materiale/clasa-6/unitatea-2/lectia-18/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Citim enunțurile de sub desenul de la p. 76 și întrebările lor: ce face Maria? pe cine strigă Anca? cui îi dă Dinu un sendviș?' },

@@ -1,38 +1,87 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="420" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Subiectul</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 13</text>
-
-  <g>
-    <rect x="60" y="95" width="360" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="240" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Subiectul exprimat</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="240" y="148">Apare direct în propoziție,</tspan>
-      <tspan x="240" y="164">simplu (un termen) sau</tspan>
-      <tspan x="240" y="180">multiplu (mai mulți termeni).</tspan>
-      <tspan x="240" y="210" font-style="italic">Copilul aleargă. (simplu)</tspan>
-      <tspan x="240" y="228" font-style="italic">Corina, Mirela și Cornel</tspan>
-      <tspan x="240" y="244" font-style="italic">joacă șah. (multiplu)</tspan>
-    </text>
-  </g>
-
-  <g>
-    <rect x="480" y="95" width="360" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="660" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Subiectul neexprimat</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="660" y="148">Nu apare în propoziție, dar</tspan>
-      <tspan x="660" y="164">se subînțelege din forma</tspan>
-      <tspan x="660" y="180">verbului sau din context.</tspan>
-      <tspan x="660" y="210" font-style="italic">Aerisesc sala de clasă.</tspan>
-      <tspan x="660" y="228" font-style="italic">(ele, subînțeles)</tspan>
-    </text>
-  </g>
-
-  <rect x="150" y="270" width="600" height="60" rx="14" fill="#fff3da" stroke="#b8944f" stroke-width="1.5"/>
-  <text font-size="12" fill="#3a3226" text-anchor="middle">
-    <tspan x="450" y="294">Unele verbe impersonale nu au subiect deloc:</tspan>
-    <tspan x="450" y="312" font-style="italic">Burnițează de ieri. Azi, a nins puțin.</tspan>
-  </text>
-
-  <text x="450" y="398" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 13, p. 74</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 927" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="927" fill="#faf7f0"/>
+<text x="388.8" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="122.4" lengthAdjust="spacing">Subiectul</text>
+<text x="210.6" y="74.4" font-size="14" fill="#5b6b83" textLength="478.8" lengthAdjust="spacing">Clasa a VI-a · Unitatea a II-a, Lecția 17 · Manual, pp. 74-75 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ESTE</text>
+<rect x="40" y="128.6" width="820" height="113.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="69.9" lengthAdjust="spacing">Subiectul</text>
+<text x="136.2" y="162.6" font-size="16" fill="#10233f" textLength="35.5" lengthAdjust="spacing">arată</text>
+<text x="176.1" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="134.4" lengthAdjust="spacing">cine face acțiunea</text>
+<text x="314.8" y="162.6" font-size="16" fill="#10233f" textLength="168.8" lengthAdjust="spacing">unui predicat verbal sau</text>
+<text x="487.9" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="114.1" lengthAdjust="spacing">cui i se atribuie</text>
+<text x="606.3" y="162.6" font-size="16" fill="#10233f" textLength="220.3" lengthAdjust="spacing">o însușire exprimată de numele</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" textLength="239.5" lengthAdjust="spacing">predicativ. Răspunde la întrebarea</text>
+<text x="305.8" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="37.6" lengthAdjust="spacing">cine?</text>
+<text x="347.7" y="185.8" font-size="16" fill="#10233f" textLength="4.8" lengthAdjust="spacing">(</text>
+<text x="352.5" y="185.8" font-size="16" fill="#10233f" font-style="italic" textLength="21.8" lengthAdjust="spacing">ce?</text>
+<text x="374.3" y="185.8" font-size="16" fill="#10233f" textLength="4.8" lengthAdjust="spacing">)</text>
+<text x="62.0" y="219.6" font-size="15" fill="#3a3226" textLength="284.5" lengthAdjust="spacing">Subiectul și predicatul sunt într-o relație de</text>
+<text x="350.6" y="219.6" font-size="15" fill="#3a3226" font-weight="700" textLength="117.8" lengthAdjust="spacing">interdependență</text>
+<text x="468.3" y="219.6" font-size="15" fill="#3a3226" textLength="207.9" lengthAdjust="spacing">: fiecare îi impune ceva celuilalt.</text>
+<rect x="40" y="262.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="285.1" font-size="16" font-weight="700" fill="#ffffff">2. FELURILE SUBIECTULUI</text>
+<rect x="40" y="296.1" width="820" height="252.2" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="314.1" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="335.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="30.1" lengthAdjust="spacing">Felul</text>
+<text x="229.2" y="335.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="79.9" lengthAdjust="spacing">Ce înseamnă</text>
+<text x="601.7" y="335.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="345.7" x2="838.0" y2="345.7" stroke="#e3dccb"/>
+<text x="74.0" y="368.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="45.7" lengthAdjust="spacing">simplu</text>
+<text x="229.2" y="368.2" font-size="14.5" fill="#3a3226" textLength="109.9" lengthAdjust="spacing">un singur termen</text>
+<text x="601.7" y="368.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="71.6" lengthAdjust="spacing">Ana citește.</text>
+<line x1="62.0" y1="378.5" x2="838.0" y2="378.5" stroke="#e3dccb"/>
+<text x="74.0" y="401.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="57.9" lengthAdjust="spacing">multiplu</text>
+<text x="229.2" y="401.0" font-size="14.5" fill="#3a3226" textLength="307.8" lengthAdjust="spacing">doi sau mai mulți termeni, legați prin virgulă sau</text>
+<text x="540.9" y="401.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="9.6" lengthAdjust="spacing">și</text>
+<text x="601.7" y="401.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="99.9" lengthAdjust="spacing">Dan și Ina scriu.</text>
+<line x1="62.0" y1="411.4" x2="838.0" y2="411.4" stroke="#e3dccb"/>
+<text x="74.0" y="433.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="68.9" lengthAdjust="spacing">subînțeles</text>
+<text x="229.2" y="433.9" font-size="14.5" fill="#3a3226" textLength="345.0" lengthAdjust="spacing">neexprimat, dar spus înainte; verbul la persoana a III-a</text>
+<text x="601.7" y="433.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="187.2" lengthAdjust="spacing">Vântul bate și mișcă ramurile.</text>
+<line x1="62.0" y1="444.2" x2="838.0" y2="444.2" stroke="#e3dccb"/>
+<text x="74.0" y="466.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="39.1" lengthAdjust="spacing">inclus</text>
+<text x="229.2" y="466.7" font-size="14.5" fill="#3a3226" textLength="278.5" lengthAdjust="spacing">neexprimat, dedus din desinența verbului la</text>
+<text x="229.2" y="487.7" font-size="14.5" fill="#3a3226" textLength="127.6" lengthAdjust="spacing">persoanele I și a II-a</text>
+<text x="601.7" y="466.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="107.7" lengthAdjust="spacing">Alergăm în curte.</text>
+<text x="713.3" y="466.7" font-size="14.5" fill="#3a3226" textLength="29.0" lengthAdjust="spacing">(noi)</text>
+<line x1="62.0" y1="498.1" x2="838.0" y2="498.1" stroke="#e3dccb"/>
+<line x1="217.2" y1="314.1" x2="217.2" y2="498.1" stroke="#e3dccb"/>
+<line x1="589.7" y1="314.1" x2="589.7" y2="498.1" stroke="#e3dccb"/>
+<text x="62.0" y="526.1" font-size="14" fill="#5b6b83" textLength="214.8" lengthAdjust="spacing">Enunțurile cu verbe despre vreme (</text>
+<text x="276.8" y="526.1" font-size="14" fill="#5b6b83" font-style="italic" textLength="101.5" lengthAdjust="spacing">Plouă. Geruiește.</text>
+<text x="378.3" y="526.1" font-size="14" fill="#5b6b83" textLength="4.2" lengthAdjust="spacing">)</text>
+<text x="386.2" y="526.1" font-size="14" fill="#5b6b83" font-weight="700" textLength="88.1" lengthAdjust="spacing">nu au subiect</text>
+<text x="474.3" y="526.1" font-size="14" fill="#5b6b83" textLength="3.1" lengthAdjust="spacing">.</text>
+<rect x="40" y="568.3" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="591.3" font-size="16" font-weight="700" fill="#ffffff">3. DE REȚINUT</text>
+<rect x="40" y="602.3" width="820" height="273.7" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="620.3" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="620.3" width="6" height="82.7" rx="3" fill="#b4432c"/><text x="84.0" y="646.8" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="665.6" font-size="14.5" fill="#3a3226" textLength="735.9" lengthAdjust="spacing">La persoanele I și a II-a nu exprim subiectul prin pronume, fiindcă desinența spune deja cine face acțiunea. Îl exprim</text>
+<text x="84.0" y="686.6" font-size="14.5" fill="#3a3226" textLength="76.1" lengthAdjust="spacing">doar pentru</text>
+<text x="164.0" y="686.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="65.5" lengthAdjust="spacing">insistență</text>
+<text x="233.5" y="686.6" font-size="14.5" fill="#3a3226" textLength="4.3" lengthAdjust="spacing">(</text>
+<text x="237.8" y="686.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="210.8" lengthAdjust="spacing">Tu ai murdărit tabla, tu s-o ștergi.</text>
+<text x="448.7" y="686.6" font-size="14.5" fill="#3a3226" textLength="30.0" lengthAdjust="spacing">) sau</text>
+<text x="482.6" y="686.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="55.2" lengthAdjust="spacing">opoziție</text>
+<text x="541.7" y="686.6" font-size="14.5" fill="#3a3226" textLength="4.3" lengthAdjust="spacing">(</text>
+<text x="546.1" y="686.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="171.2" lengthAdjust="spacing">Eu lucrez și tu doar privești.</text>
+<text x="717.3" y="686.6" font-size="14.5" fill="#3a3226" textLength="7.5" lengthAdjust="spacing">).</text>
+<text x="62.0" y="732.0" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="732.0" font-size="15" fill="#3a3226" textLength="83.8" lengthAdjust="spacing">Predicatul se</text>
+<text x="162.1" y="732.0" font-size="15" fill="#3a3226" font-weight="700" textLength="47.9" lengthAdjust="spacing">acordă</text>
+<text x="214.0" y="732.0" font-size="15" fill="#3a3226" textLength="425.1" lengthAdjust="spacing">în persoană și număr cu subiectul; la subiect multiplu, verbul e la</text>
+<text x="643.1" y="732.0" font-size="15" fill="#3a3226" font-weight="700" textLength="41.0" lengthAdjust="spacing">plural</text>
+<text x="684.1" y="732.0" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="756.8" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="756.8" font-size="15" fill="#3a3226" textLength="133.5" lengthAdjust="spacing">La pronume diferite,</text>
+<text x="211.7" y="756.8" font-size="15" fill="#3a3226" font-weight="700" textLength="73.5" lengthAdjust="spacing">persoana I</text>
+<text x="289.3" y="756.8" font-size="15" fill="#3a3226" textLength="252.4" lengthAdjust="spacing">are prioritate față de a II-a și a III-a, iar</text>
+<text x="545.8" y="756.8" font-size="15" fill="#3a3226" font-weight="700" textLength="36.0" lengthAdjust="spacing">a II-a</text>
+<text x="585.8" y="756.8" font-size="15" fill="#3a3226" textLength="90.6" lengthAdjust="spacing">față de a III-a:</text>
+<text x="680.5" y="756.8" font-size="15" fill="#10233f" font-style="italic" textLength="156.8" lengthAdjust="spacing">Noi și voi vom participa.</text>
+<rect x="62.0" y="775.2" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="801.8" font-size="14.5" fill="#10233f" font-weight="700" textLength="119.9" lengthAdjust="spacing">Model de analiză:</text>
+<text x="78.0" y="820.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="718.7" lengthAdjust="spacing">„doamna” – subiect, exprimat prin substantiv comun, genul feminin, numărul singular, articulat cu articolul hotărât</text>
+<text x="78.0" y="841.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="27.5" lengthAdjust="spacing">„-a”.</text>
+<text x="275.0" y="907.5" font-size="11.5" fill="#5b6b83" textLength="350.1" lengthAdjust="spacing">Sursa: Manual Art 6, pp. 74-75, rubricile Repere și modelul de analiză.</text>
 </svg>

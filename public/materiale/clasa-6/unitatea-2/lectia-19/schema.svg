@@ -1,27 +1,83 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="380" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Circumstanțialul. Prepoziția</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 14 · parte secundară care determină verbul</text>
-
-  <rect x="300" y="88" width="300" height="48" rx="14" fill="#6f5ea8"/>
-  <text x="450" y="118" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">VERB + CIRCUMSTANȚIAL</text>
-
-  <path d="M 450 136 L 450 165" stroke="#b8944f" stroke-width="2.5" fill="none" marker-end="url(#arrowD)"/>
-  <defs>
-    <marker id="arrowD" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto">
-      <path d="M0,0 L8,4 L0,8 z" fill="#b8944f"/>
-    </marker>
-  </defs>
-
-  <rect x="180" y="170" width="540" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="450" y="198" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">Ce arată</text>
-  <text font-size="12" fill="#3a3226" text-anchor="middle">
-    <tspan x="450" y="222">Împrejurările desfășurării acțiunii: loc, timp, mod — nu obiectul ei.</tspan>
-    <tspan x="450" y="252" font-weight="700">Întrebări:</tspan>
-    <tspan x="450" y="272">unde? pe unde? încotro? când? cum? în ce fel? etc.</tspan>
-    <tspan x="450" y="300" font-style="italic">Alex aleargă cu viteză pe lângă bănci.  Luiza fuge după el.</tspan>
-  </text>
-
-  <rect x="180" y="330" width="540" height="0" fill="none"/>
-  <text x="450" y="360" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 14, pp. 76-77, partea 2/2 · prepoziția leagă adesea circumstanțialul de verb</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 689" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="689" fill="#faf7f0"/>
+<text x="268.6" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="363.2" lengthAdjust="spacing">Circumstanțialul. Prepoziția</text>
+<text x="210.6" y="74.4" font-size="14" fill="#5b6b83" textLength="478.8" lengthAdjust="spacing">Clasa a VI-a · Unitatea a II-a, Lecția 19 · Manual, pp. 76-77 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CIRCUMSTANȚIALUL</text>
+<rect x="40" y="128.6" width="820" height="234.4" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="122.7" lengthAdjust="spacing">Circumstanțialul</text>
+<text x="189.0" y="162.6" font-size="16" fill="#10233f" textLength="184.6" lengthAdjust="spacing">determină un verb și arată</text>
+<text x="378.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="97.4" lengthAdjust="spacing">împrejurările</text>
+<text x="479.8" y="162.6" font-size="16" fill="#10233f" textLength="213.4" lengthAdjust="spacing">în care se desfășoară acțiunea.</text>
+<rect x="62.0" y="181.4" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="202.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="82.5" lengthAdjust="spacing">Împrejurarea</text>
+<text x="229.2" y="202.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="66.4" lengthAdjust="spacing">Întrebările</text>
+<text x="500.8" y="202.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="212.9" x2="838.0" y2="212.9" stroke="#e3dccb"/>
+<text x="74.0" y="235.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="32.8" lengthAdjust="spacing">locul</text>
+<text x="229.2" y="235.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="151.5" lengthAdjust="spacing">unde? pe unde? încotro?</text>
+<text x="500.8" y="235.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="91.9" lengthAdjust="spacing">În pauză, stăm</text>
+<text x="596.6" y="235.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="50.0" lengthAdjust="spacing">în clasă</text>
+<text x="646.7" y="235.4" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="245.8" x2="838.0" y2="245.8" stroke="#e3dccb"/>
+<text x="74.0" y="268.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="45.0" lengthAdjust="spacing">timpul</text>
+<text x="229.2" y="268.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="171.4" lengthAdjust="spacing">când? de când? până când?</text>
+<text x="500.8" y="268.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="58.0" lengthAdjust="spacing">În pauză</text>
+<text x="558.8" y="268.3" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="565.9" y="268.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="85.3" lengthAdjust="spacing">stăm în clasă.</text>
+<line x1="62.0" y1="278.6" x2="838.0" y2="278.6" stroke="#e3dccb"/>
+<text x="74.0" y="301.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="44.1" lengthAdjust="spacing">modul</text>
+<text x="229.2" y="301.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="91.8" lengthAdjust="spacing">cum? în ce fel?</text>
+<text x="500.8" y="301.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="78.0" lengthAdjust="spacing">Alex aleargă</text>
+<text x="582.7" y="301.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="60.0" lengthAdjust="spacing">cu viteză</text>
+<text x="642.8" y="301.1" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="311.5" x2="838.0" y2="311.5" stroke="#e3dccb"/>
+<line x1="217.2" y1="181.4" x2="217.2" y2="311.5" stroke="#e3dccb"/>
+<line x1="488.8" y1="181.4" x2="488.8" y2="311.5" stroke="#e3dccb"/>
+<text x="62.0" y="340.5" font-size="15" fill="#3a3226" textLength="241.7" lengthAdjust="spacing">Se exprimă, ca și complementul, prin</text>
+<text x="307.7" y="340.5" font-size="15" fill="#3a3226" font-weight="700" textLength="72.9" lengthAdjust="spacing">substantiv</text>
+<text x="384.7" y="340.5" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="389.2" y="340.5" font-size="15" fill="#10233f" font-style="italic" textLength="91.8" lengthAdjust="spacing">Plec la munte.</text>
+<text x="481.0" y="340.5" font-size="15" fill="#3a3226" textLength="31.1" lengthAdjust="spacing">) sau</text>
+<text x="516.0" y="340.5" font-size="15" fill="#3a3226" font-weight="700" textLength="64.7" lengthAdjust="spacing">pronume</text>
+<text x="584.7" y="340.5" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="589.2" y="340.5" font-size="15" fill="#10233f" font-style="italic" textLength="67.8" lengthAdjust="spacing">Merg la ei.</text>
+<text x="657.0" y="340.5" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">).</text>
+<rect x="40" y="383.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="406.0" font-size="16" font-weight="700" fill="#ffffff">2. PREPOZIȚIA</text>
+<rect x="40" y="417.0" width="820" height="220.6" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="451.0" font-size="16" fill="#10233f" font-weight="700" textLength="76.0" lengthAdjust="spacing">Prepoziția</text>
+<text x="142.3" y="451.0" font-size="16" fill="#10233f" textLength="60.5" lengthAdjust="spacing">leagă un</text>
+<text x="207.1" y="451.0" font-size="16" fill="#10233f" font-weight="700" textLength="51.7" lengthAdjust="spacing">atribut</text>
+<text x="258.8" y="451.0" font-size="16" fill="#10233f" textLength="26.1" lengthAdjust="spacing">, un</text>
+<text x="289.2" y="451.0" font-size="16" fill="#10233f" font-weight="700" textLength="94.6" lengthAdjust="spacing">complement</text>
+<text x="388.1" y="451.0" font-size="16" fill="#10233f" textLength="46.6" lengthAdjust="spacing">sau un</text>
+<text x="439.0" y="451.0" font-size="16" fill="#10233f" font-weight="700" textLength="106.2" lengthAdjust="spacing">circumstanțial</text>
+<text x="549.5" y="451.0" font-size="16" fill="#10233f" textLength="167.2" lengthAdjust="spacing">de cuvântul determinat.</text>
+<rect x="62.0" y="469.8" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="497.8" font-size="16" fill="#0d9c92" font-weight="700" textLength="49.3" lengthAdjust="spacing">simple</text>
+<text x="78.0" y="521.1" font-size="14.5" fill="#3a3226" textLength="109.9" lengthAdjust="spacing">un singur termen</text>
+<text x="78.0" y="545.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="152.7" lengthAdjust="spacing">cu, de, în, între, la, lângă</text>
+<rect x="458.0" y="469.8" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="497.8" font-size="16" fill="#6f5ea8" font-weight="700" textLength="67.5" lengthAdjust="spacing">compuse</text>
+<text x="474.0" y="521.1" font-size="14.5" fill="#3a3226" textLength="163.3" lengthAdjust="spacing">doi sau mai mulți termeni</text>
+<text x="474.0" y="545.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="203.6" lengthAdjust="spacing">de la, de pe lângă, despre, înspre</text>
+<text x="62.0" y="590.4" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="590.4" font-size="15" fill="#3a3226" textLength="58.4" lengthAdjust="spacing">Unele au</text>
+<text x="136.6" y="590.4" font-size="15" fill="#3a3226" font-weight="700" textLength="30.4" lengthAdjust="spacing">sens</text>
+<text x="171.1" y="590.4" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="175.6" y="590.4" font-size="15" fill="#10233f" font-style="italic" textLength="120.3" lengthAdjust="spacing">sub, lângă, spre, în</text>
+<text x="295.9" y="590.4" font-size="15" fill="#3a3226" textLength="79.9" lengthAdjust="spacing">), altele sunt</text>
+<text x="379.9" y="590.4" font-size="15" fill="#3a3226" font-weight="700" textLength="62.5" lengthAdjust="spacing">fără sens</text>
+<text x="446.5" y="590.4" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="451.0" y="590.4" font-size="15" fill="#10233f" font-style="italic" textLength="34.8" lengthAdjust="spacing">de, la</text>
+<text x="485.8" y="590.4" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">).</text>
+<text x="62.0" y="615.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="615.1" font-size="15" fill="#3a3226" textLength="65.8" lengthAdjust="spacing">Prepoziția</text>
+<text x="144.1" y="615.1" font-size="15" fill="#3a3226" font-weight="700" textLength="163.3" lengthAdjust="spacing">se analizează împreună</text>
+<text x="311.5" y="615.1" font-size="15" fill="#3a3226" textLength="281.8" lengthAdjust="spacing">cu partea de vorbire înaintea căreia se află:</text>
+<text x="597.4" y="615.1" font-size="15" fill="#10233f" font-style="italic" textLength="46.8" lengthAdjust="spacing">Băncile</text>
+<text x="648.2" y="615.1" font-size="15" fill="#3a3226" font-weight="700" textLength="61.0" lengthAdjust="spacing">din clasă</text>
+<text x="713.3" y="615.1" font-size="15" fill="#10233f" font-style="italic" textLength="62.4" lengthAdjust="spacing">sunt albe.</text>
+<text x="268.1" y="669.1" font-size="11.5" fill="#5b6b83" textLength="363.9" lengthAdjust="spacing">Sursa: Manual Art 6, pp. 76-77, rubricile Repere și desenul din Explorare.</text>
 </svg>
