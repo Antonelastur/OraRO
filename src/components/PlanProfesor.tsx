@@ -52,8 +52,7 @@ export function PlanProfesor({ plan }: { plan: PlanLectie }) {
               <li key={i} className="text-sm text-ink">
                 <span className="font-semibold">{etapa.etapa}</span>
                 <span className="text-ink-soft"> · {etapa.timp}</span>
-                <br />
-                {etapa.activitate}
+                <p className="mt-0.5 whitespace-pre-line">{etapa.activitate}</p>
               </li>
             ))}
           </ol>

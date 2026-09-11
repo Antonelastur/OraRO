@@ -22,7 +22,7 @@ function ser(v, indent) {
   const pad2 = ' '.repeat(indent + 2)
   if (v === null) return 'null'
   if (typeof v === 'number' || typeof v === 'boolean') return String(v)
-  if (typeof v === 'string') return `'${v.replace(/\\/g, '\\\\').replace(/'/g, "\\'")}'`
+  if (typeof v === 'string') return `'${v.replace(/\\/g, '\\\\').replace(/'/g, "\\'").replace(/\n/g, '\\n')}'`
   if (Array.isArray(v)) {
     if (v.length === 0) return '[]'
     return `[\n${v.map((x) => pad2 + ser(x, indent + 2)).join(',\n')},\n${pad}]`
@@ -33,7 +33,10 @@ function ser(v, indent) {
 }
 
 let src = readFileSync(targetPath, 'utf8')
-const ids = Object.keys(plans)
+// --inlocuieste rescrie și planurile existente; --doar=lectia-9,lectia-10 limitează lecțiile.
+const inlocuieste = process.argv.includes('--inlocuieste')
+const doar = process.argv.find((a) => a.startsWith('--doar='))?.slice(7).split(',')
+const ids = Object.keys(plans).filter((id) => !doar || doar.includes(id))
 let injected = 0
 const sari = []
 
@@ -45,9 +48,12 @@ for (const id of ids) {
   const nextId = src.indexOf("id: 'lectia", start + marker.length)
   const end = nextId === -1 ? src.length : nextId
   const block = src.slice(start, end)
-  const rePlan = /( *)planLectie: null,/
+  // planul existent se închide la primul `},` cu aceeași indentare ca `planLectie:`
+  const rePlan = inlocuieste ? /( *)planLectie: (?:null,|\{\r?\n[\s\S]*?\r?\n\1\},)/ : /( *)planLectie: null,/
   if (!rePlan.test(block)) { sari.push(`${id}: planLectie nu e null sau lipsește`); continue }
-  const nouBlock = block.replace(rePlan, (m, pad) => `${pad}planLectie: ${ser(plans[id], pad.length)},`)
+  // fișierele de date sunt CRLF: textul nou primește aceleași capete de rând
+  const eol = (t) => (src.includes('\r\n') ? t.replace(/\n/g, '\r\n') : t)
+  const nouBlock = block.replace(rePlan, (m, pad) => `${pad}planLectie: ${eol(ser(plans[id], pad.length))},`)
   src = src.slice(0, start) + nouBlock + src.slice(end)
   injected++
 }

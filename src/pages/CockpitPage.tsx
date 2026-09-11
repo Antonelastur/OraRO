@@ -179,8 +179,8 @@ export function CockpitPage() {
           </p>
 
           <p
-            className="mt-8 max-w-3xl text-ink"
-            style={{ fontSize: 'clamp(1.125rem, 2.2vw, 1.75rem)', lineHeight: 1.45 }}
+            className="mt-8 max-w-3xl whitespace-pre-line text-ink"
+            style={{ fontSize: 'clamp(1rem, 1.7vw, 1.375rem)', lineHeight: 1.45 }}
           >
             {blocCurent.instructiuni}
           </p>
