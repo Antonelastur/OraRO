@@ -23,16 +23,26 @@ def new_page(doc):
     return page
 
 
+def _fits(text, fontfile, size):
+    return fitz.Font(fontfile=fontfile).text_length(text, fontsize=size) <= W - 80
+
+
 def header(page, title, subtitle):
     page.draw_rect(fitz.Rect(0, 0, W, 8), color=None, fill=ACCENT)
-    page.insert_textbox(fitz.Rect(40, 28, W - 40, 50), title,
-                         fontsize=16, fontname="F-bold", color=TEXT, align=0)
+    # insert_textbox nu scrie nimic dacă textul nu încape: titlurile lungi se micșorează
+    size = 16
+    while size > 11 and not _fits(title, BOLD, size):
+        size -= 0.5
+    # caseta are nevoie de ~25 pt la 16 pt Segoe UI Bold; la 22 pt titlul nu se scria deloc
+    page.insert_textbox(fitz.Rect(40, 22, W - 40, 50), title,
+                         fontsize=size, fontname="F-bold", color=TEXT, align=0)
     page.insert_textbox(fitz.Rect(40, 50, W - 40, 68), subtitle,
                          fontsize=10.5, fontname="F-reg", color=MUTED, align=0)
 
 
 def footer(page, note):
-    page.insert_textbox(fitz.Rect(40, H - 30, W - 40, H - 14), note,
+    top = H - 30 if _fits(note, REGULAR, 9) else H - 40  # subsolul lung urcă pe două rânduri
+    page.insert_textbox(fitz.Rect(40, top, W - 40, H - 12), note,
                          fontsize=9, fontname="F-reg", color=MUTED, align=0)
 
 
