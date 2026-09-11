@@ -1,17 +1,83 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="340" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Limbajul figurat. Metafora</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III · Am legat... de Marin Sorescu</text>
-  <g>
-    <rect x="60" y="95" width="360" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="240" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Comparația</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle"><tspan x="240" y="150">Apropie doi termeni</tspan><tspan x="240" y="166">printr-un cuvânt de legătură</tspan><tspan x="240" y="182">(ca, precum).</tspan><tspan x="240" y="208" font-style="italic">ochii ca marea</tspan></text>
-  </g>
-  <g>
-    <rect x="480" y="95" width="360" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="660" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Metafora</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle"><tspan x="660" y="150">Apropie doi termeni fără</tspan><tspan x="660" y="166">cuvânt de legătură — comparația</tspan><tspan x="660" y="182">e subînțeleasă, nu explicită.</tspan><tspan x="660" y="208" font-style="italic">marea ochilor tăi</tspan></text>
-  </g>
-  <text x="450" y="290" text-anchor="middle" font-size="11.5" fill="#3a3226">Metafora e o comparație scurtată, fără „ca” — mai densă, mai sugestivă.</text>
-  <text x="450" y="316" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, pp. 97-98</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 915" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="915" fill="#faf7f0"/>
+<text x="276.0" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="348.6" lengthAdjust="spacing">Limbajul figurat. Metafora</text>
+<text x="210.6" y="74.4" font-size="14" fill="#5b6b83" textLength="478.8" lengthAdjust="spacing">Clasa a VII-a · Unitatea a III-a, Lecția 6 · Manual, pp. 97-98 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. DE LA COMPARAȚIE LA METAFORĂ</text>
+<rect x="40" y="128.6" width="820" height="221.3" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" textLength="257.1" lengthAdjust="spacing">Un sens figurat se poate obține dintr-o</text>
+<text x="323.1" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="79.8" lengthAdjust="spacing">comparație</text>
+<text x="407.0" y="161.6" font-size="15" fill="#3a3226" textLength="285.7" lengthAdjust="spacing">din care se elimină cuvântul de legătură, iar</text>
+<text x="696.8" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="90.0" lengthAdjust="spacing">comparantul</text>
+<text x="790.8" y="161.6" font-size="15" fill="#3a3226" textLength="46.8" lengthAdjust="spacing">ia locul</text>
+<text x="62.0" y="183.3" font-size="15" fill="#3a3226" font-weight="700" textLength="94.2" lengthAdjust="spacing">comparatului</text>
+<text x="156.2" y="183.3" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<rect x="62.0" y="201.8" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="223.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="73.7" lengthAdjust="spacing">Comparația</text>
+<text x="462.0" y="223.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="58.9" lengthAdjust="spacing">Metafora</text>
+<line x1="62.0" y1="233.4" x2="838.0" y2="233.4" stroke="#e3dccb"/>
+<text x="74.0" y="255.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="225.2" lengthAdjust="spacing">Foșnetul de frunze este ca un hohot.</text>
+<text x="462.0" y="255.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="109.5" lengthAdjust="spacing">„hohot de frunze”</text>
+<line x1="62.0" y1="266.2" x2="838.0" y2="266.2" stroke="#e3dccb"/>
+<text x="74.0" y="288.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="324.5" lengthAdjust="spacing">Luna ca o seceră de argint strălucea noaptea pe cer.</text>
+<text x="462.0" y="288.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="261.4" lengthAdjust="spacing">Secera de argint strălucea noaptea pe cer.</text>
+<line x1="62.0" y1="299.1" x2="838.0" y2="299.1" stroke="#e3dccb"/>
+<text x="74.0" y="321.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="263.2" lengthAdjust="spacing">Ninsoarea ca o îmbrățișare mă cuprindea.</text>
+<text x="462.0" y="321.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="223.3" lengthAdjust="spacing">Îmbrățișarea ninsorii mă cuprindea.</text>
+<line x1="62.0" y1="332.0" x2="838.0" y2="332.0" stroke="#e3dccb"/>
+<line x1="450.0" y1="201.8" x2="450.0" y2="331.9" stroke="#e3dccb"/>
+<rect x="40" y="369.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="392.9" font-size="16" font-weight="700" fill="#ffffff">2. METAFORA</text>
+<rect x="40" y="403.9" width="820" height="268.6" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="437.9" font-size="16" fill="#10233f" font-weight="700" textLength="69.8" lengthAdjust="spacing">Metafora</text>
+<text x="136.1" y="437.9" font-size="16" fill="#10233f" textLength="434.6" lengthAdjust="spacing">trece de la sensul obișnuit al unui cuvânt la altul, pe baza unei</text>
+<text x="575.0" y="437.9" font-size="16" fill="#10233f" font-weight="700" textLength="170.1" lengthAdjust="spacing">comparații subînțelese</text>
+<text x="745.0" y="437.9" font-size="16" fill="#10233f" textLength="78.6" lengthAdjust="spacing">. I se spune</text>
+<text x="62.0" y="461.1" font-size="16" fill="#10233f" textLength="21.0" lengthAdjust="spacing">și „</text>
+<text x="83.0" y="461.1" font-size="16" fill="#10233f" font-weight="700" textLength="175.2" lengthAdjust="spacing">comparație prescurtată</text>
+<text x="258.2" y="461.1" font-size="16" fill="#10233f" textLength="223.7" lengthAdjust="spacing">”; în greacă înseamnă „transfer”.</text>
+<text x="62.0" y="494.9" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="494.9" font-size="15" fill="#3a3226" textLength="104.5" lengthAdjust="spacing">Metaforele sunt</text>
+<text x="182.8" y="494.9" font-size="15" fill="#3a3226" font-weight="700" textLength="81.0" lengthAdjust="spacing">substantive</text>
+<text x="267.8" y="494.9" font-size="15" fill="#3a3226" textLength="22.5" lengthAdjust="spacing">sau</text>
+<text x="294.4" y="494.9" font-size="15" fill="#3a3226" font-weight="700" textLength="39.6" lengthAdjust="spacing">verbe</text>
+<text x="334.0" y="494.9" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="519.7" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="519.7" font-size="15" fill="#3a3226" textLength="166.6" lengthAdjust="spacing">Se combină cu alte figuri:</text>
+<text x="244.9" y="519.7" font-size="15" fill="#3a3226" font-weight="700" textLength="54.8" lengthAdjust="spacing">epitetul</text>
+<text x="303.7" y="519.7" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="308.2" y="519.7" font-size="15" fill="#10233f" font-style="italic" textLength="113.2" lengthAdjust="spacing">„hohot de frunze”</text>
+<text x="421.4" y="519.7" font-size="15" fill="#3a3226" textLength="152.1" lengthAdjust="spacing">), repetiția, enumerația.</text>
+<text x="62.0" y="544.5" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="544.5" font-size="15" fill="#3a3226" textLength="251.5" lengthAdjust="spacing">Uneori, un text întreg e o metaforă, ca</text>
+<text x="329.8" y="544.5" font-size="15" fill="#3a3226" font-weight="700" textLength="71.4" lengthAdjust="spacing">ghicitorile</text>
+<text x="401.2" y="544.5" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="563.0" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="591.0" font-size="16" fill="#0d9c92" font-weight="700" textLength="115.5" lengthAdjust="spacing">explicită (clară)</text>
+<text x="78.0" y="614.2" font-size="14.5" fill="#3a3226" textLength="245.0" lengthAdjust="spacing">termenul la care se referă apare în text</text>
+<text x="78.0" y="638.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="161.6" lengthAdjust="spacing">„Lună tu, stăpâna mării...”</text>
+<rect x="458.0" y="563.0" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="591.0" font-size="16" fill="#6f5ea8" font-weight="700" textLength="194.2" lengthAdjust="spacing">implicită (mai puțin clară)</text>
+<text x="474.0" y="614.2" font-size="14.5" fill="#3a3226" textLength="161.5" lengthAdjust="spacing">termenul nu apare în text</text>
+<text x="474.0" y="638.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="88.2" lengthAdjust="spacing">„zale argintie”</text>
+<text x="566.1" y="638.2" font-size="14.5" fill="#3a3226" textLength="54.5" lengthAdjust="spacing">(zăpada)</text>
+<rect x="40" y="692.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="715.5" font-size="16" font-weight="700" fill="#ffffff">3. CUM DESCIFREZ O METAFORĂ</text>
+<rect x="40" y="726.5" width="820" height="137.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="759.5" font-size="15" fill="#3a3226" font-weight="700">1.</text>
+<text x="81.0" y="759.5" font-size="15" fill="#3a3226" textLength="152.8" lengthAdjust="spacing">caut cuvântul folosit cu</text>
+<text x="237.8" y="759.5" font-size="15" fill="#3a3226" font-weight="700" textLength="109.5" lengthAdjust="spacing">sens neobișnuit</text>
+<text x="347.3" y="759.5" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">;</text>
+<text x="62.0" y="784.3" font-size="15" fill="#3a3226" font-weight="700">2.</text>
+<text x="81.0" y="784.3" font-size="15" fill="#3a3226" textLength="63.7" lengthAdjust="spacing">mă întreb</text>
+<text x="148.7" y="784.3" font-size="15" fill="#3a3226" font-weight="700" textLength="79.8" lengthAdjust="spacing">ce este ca...</text>
+<text x="232.6" y="784.3" font-size="15" fill="#3a3226" textLength="201.0" lengthAdjust="spacing">acel cuvânt (refac comparația);</text>
+<text x="62.0" y="809.0" font-size="15" fill="#3a3226" font-weight="700">3.</text>
+<text x="81.0" y="809.0" font-size="15" fill="#3a3226" textLength="37.6" lengthAdjust="spacing">explic</text>
+<text x="122.6" y="809.0" font-size="15" fill="#3a3226" font-weight="700" textLength="107.0" lengthAdjust="spacing">ce au în comun</text>
+<text x="233.7" y="809.0" font-size="15" fill="#3a3226" textLength="270.0" lengthAdjust="spacing">cei doi termeni și ce sugerează imaginea.</text>
+<text x="62.0" y="841.5" font-size="14" fill="#5b6b83" textLength="558.3" lengthAdjust="spacing">În poezia secolului XX, expresivitatea vine adesea mai puțin din figuri de stil și mai mult din</text>
+<text x="624.1" y="841.5" font-size="14" fill="#5b6b83" font-weight="700" textLength="138.9" lengthAdjust="spacing">amestecul de limbaje</text>
+<text x="763.0" y="841.5" font-size="14" fill="#5b6b83" textLength="3.1" lengthAdjust="spacing">.</text>
+<text x="270.7" y="895.2" font-size="11.5" fill="#5b6b83" textLength="358.7" lengthAdjust="spacing">Sursa: Manual Art 7, pp. 97-98, rubrica Repere și modelele din Aplicații.</text>
 </svg>

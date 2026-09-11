@@ -1,41 +1,98 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="400" fill="#faf7f0"/>
-  <text x="450" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Substantivul</text>
-  <text x="450" y="60" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III · lecția 14 · parte de vorbire flexibilă care denumește, în sens larg, obiecte</text>
-
-  <g font-size="10.5" fill="#3a3226">
-    <rect x="55" y="80" width="255" height="150" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="182" y="102" text-anchor="middle" font-size="12" font-weight="700" fill="#10233f">Clasificări</text>
-    <text x="182" y="124" text-anchor="middle">comune / proprii</text>
-    <text x="182" y="142" text-anchor="middle">simple / compuse</text>
-    <text x="182" y="160" text-anchor="middle">trei genuri: masculin,</text>
-    <text x="182" y="176" text-anchor="middle">feminin, neutru</text>
-    <text x="182" y="196" text-anchor="middle">două numere: singular,</text>
-    <text x="182" y="212" text-anchor="middle">plural</text>
-
-    <rect x="322" y="80" width="255" height="150" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="450" y="102" text-anchor="middle" font-size="12" font-weight="700" fill="#10233f">Numărabile / nu</text>
-    <text x="450" y="124" text-anchor="middle">defective de plural</text>
-    <text x="450" y="140" text-anchor="middle">(singularia tantum: jale)</text>
-    <text x="450" y="160" text-anchor="middle">defective de singular</text>
-    <text x="450" y="176" text-anchor="middle">(pluralia tantum: zori)</text>
-    <text x="450" y="196" text-anchor="middle">masive (materii); colective</text>
-    <text x="450" y="212" text-anchor="middle">(singular cu sens de plural)</text>
-
-    <rect x="589" y="80" width="256" height="150" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="717" y="102" text-anchor="middle" font-size="12" font-weight="700" fill="#10233f">Articulare</text>
-    <text x="717" y="126" text-anchor="middle">nearticulat</text>
-    <text x="717" y="146" text-anchor="middle">articulat cu articol</text>
-    <text x="717" y="162" text-anchor="middle">hotărât (băiatul)</text>
-    <text x="717" y="182" text-anchor="middle">articulat cu articol</text>
-    <text x="717" y="198" text-anchor="middle">nehotărât (un băiat)</text>
-  </g>
-
-  <rect x="55" y="244" width="790" height="110" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="75" y="266" font-size="12.5" font-weight="700" fill="#10233f">Cinci cazuri</text>
-  <text font-size="10.5" fill="#3a3226"><tspan x="75" y="288">Nominativ — subiect, nume predicativ</tspan><tspan x="460" y="288">Genitiv — atribut genitival</tspan></text>
-  <text font-size="10.5" fill="#3a3226"><tspan x="75" y="308">Acuzativ — complement direct, prepozițional, circumstanțial, atribut prepozițional</tspan></text>
-  <text font-size="10.5" fill="#3a3226"><tspan x="75" y="328">Dativ — complement indirect</tspan><tspan x="460" y="328">Vocativ — chemare, fără funcție sintactică</tspan></text>
-
-  <text x="450" y="384" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, pp. 108-109</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 935" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="935" fill="#faf7f0"/>
+<text x="196.9" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="506.8" lengthAdjust="spacing">Substantivul. Locuțiunea substantivală</text>
+<text x="199.3" y="74.4" font-size="14" fill="#5b6b83" textLength="501.5" lengthAdjust="spacing">Clasa a VII-a · Unitatea a III-a, Lecția 14 · Manual, pp. 108-109 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. SUBSTANTIVUL</text>
+<rect x="40" y="128.6" width="820" height="294.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="146.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="61.3" lengthAdjust="spacing">Categoria</text>
+<text x="229.2" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="69.1" lengthAdjust="spacing">Ce reținem</text>
+<line x1="62.0" y1="178.2" x2="838.0" y2="178.2" stroke="#e3dccb"/>
+<text x="74.0" y="200.7" font-size="14.5" fill="#3a3226" textLength="27.3" lengthAdjust="spacing">felul</text>
+<text x="229.2" y="200.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="54.7" lengthAdjust="spacing">comune</text>
+<text x="287.8" y="200.7" font-size="14.5" fill="#3a3226" textLength="5.7" lengthAdjust="spacing">/</text>
+<text x="297.4" y="200.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="46.5" lengthAdjust="spacing">proprii</text>
+<text x="343.9" y="200.7" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">;</text>
+<text x="351.0" y="200.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="44.7" lengthAdjust="spacing">simple</text>
+<text x="399.6" y="200.7" font-size="14.5" fill="#3a3226" textLength="5.7" lengthAdjust="spacing">/</text>
+<text x="409.1" y="200.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="61.2" lengthAdjust="spacing">compuse</text>
+<line x1="62.0" y1="211.0" x2="838.0" y2="211.0" stroke="#e3dccb"/>
+<text x="74.0" y="233.5" font-size="14.5" fill="#3a3226" textLength="36.1" lengthAdjust="spacing">genul</text>
+<text x="229.2" y="233.5" font-size="14.5" fill="#3a3226" textLength="163.8" lengthAdjust="spacing">masculin, feminin, neutru;</text>
+<text x="397.0" y="233.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="125.9" lengthAdjust="spacing">sufixele moționale</text>
+<text x="526.7" y="233.5" font-size="14.5" fill="#3a3226" textLength="265.5" lengthAdjust="spacing">formează feminine din masculine și invers</text>
+<text x="229.2" y="254.5" font-size="14.5" fill="#3a3226" textLength="4.3" lengthAdjust="spacing">(</text>
+<text x="233.6" y="254.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="92.4" lengthAdjust="spacing">doctoriță, rățoi</text>
+<text x="325.9" y="254.5" font-size="14.5" fill="#3a3226" textLength="317.3" lengthAdjust="spacing">); unele au o singură formă pentru ambele genuri:</text>
+<text x="647.1" y="254.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="178.3" lengthAdjust="spacing">albină, crap, elefant, părinte,</text>
+<text x="229.2" y="275.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="67.3" lengthAdjust="spacing">star, vultur</text>
+<line x1="62.0" y1="285.9" x2="838.0" y2="285.9" stroke="#e3dccb"/>
+<text x="74.0" y="308.4" font-size="14.5" fill="#3a3226" textLength="53.2" lengthAdjust="spacing">numărul</text>
+<text x="229.2" y="308.4" font-size="14.5" fill="#3a3226" textLength="103.5" lengthAdjust="spacing">singular / plural;</text>
+<text x="336.6" y="308.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="104.0" lengthAdjust="spacing">nonnumărabile</text>
+<text x="440.6" y="308.4" font-size="14.5" fill="#3a3226" textLength="133.3" lengthAdjust="spacing">: defective de plural (</text>
+<text x="573.9" y="308.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="22.2" lengthAdjust="spacing">jale</text>
+<text x="596.0" y="308.4" font-size="14.5" fill="#3a3226" textLength="152.0" lengthAdjust="spacing">), defective de singular (</text>
+<text x="748.0" y="308.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="23.3" lengthAdjust="spacing">zori</text>
+<text x="771.4" y="308.4" font-size="14.5" fill="#3a3226" textLength="7.5" lengthAdjust="spacing">);</text>
+<text x="229.2" y="329.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="47.3" lengthAdjust="spacing">masive</text>
+<text x="276.5" y="329.4" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">:</text>
+<text x="283.6" y="329.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="22.8" lengthAdjust="spacing">ulei</text>
+<text x="310.3" y="329.4" font-size="14.5" fill="#3a3226" textLength="66.6" lengthAdjust="spacing">(materia) /</text>
+<text x="380.7" y="329.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="64.5" lengthAdjust="spacing">trei uleiuri</text>
+<text x="449.2" y="329.4" font-size="14.5" fill="#3a3226" textLength="77.6" lengthAdjust="spacing">(sortimente)</text>
+<line x1="62.0" y1="339.8" x2="838.0" y2="339.8" stroke="#e3dccb"/>
+<text x="74.0" y="362.3" font-size="14.5" fill="#3a3226" textLength="66.8" lengthAdjust="spacing">colectivele</text>
+<text x="229.2" y="362.3" font-size="14.5" fill="#3a3226" textLength="328.7" lengthAdjust="spacing">la singular, înțeles de plural; pot fi formate cu sufixe</text>
+<line x1="62.0" y1="372.6" x2="838.0" y2="372.6" stroke="#e3dccb"/>
+<text x="74.0" y="395.1" font-size="14.5" fill="#3a3226" textLength="51.3" lengthAdjust="spacing">articolul</text>
+<text x="229.2" y="395.1" font-size="14.5" fill="#3a3226" textLength="268.6" lengthAdjust="spacing">nearticulat, articulat hotărât sau nehotărât</text>
+<line x1="62.0" y1="405.5" x2="838.0" y2="405.5" stroke="#e3dccb"/>
+<line x1="217.2" y1="146.6" x2="217.2" y2="405.5" stroke="#e3dccb"/>
+<rect x="40" y="443.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="466.5" font-size="16" font-weight="700" fill="#ffffff">2. CAZURILE ȘI FUNCȚIILE</text>
+<rect x="40" y="477.5" width="820" height="231.8" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="495.5" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="517.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="34.2" lengthAdjust="spacing">Cazul</text>
+<text x="229.2" y="517.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="53.9" lengthAdjust="spacing">Funcțiile</text>
+<line x1="62.0" y1="527.0" x2="838.0" y2="527.0" stroke="#e3dccb"/>
+<text x="74.0" y="549.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="69.3" lengthAdjust="spacing">nominativ</text>
+<text x="229.2" y="549.5" font-size="14.5" fill="#3a3226" textLength="155.7" lengthAdjust="spacing">subiect, nume predicativ</text>
+<line x1="62.0" y1="559.9" x2="838.0" y2="559.9" stroke="#e3dccb"/>
+<text x="74.0" y="582.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="56.0" lengthAdjust="spacing">acuzativ</text>
+<text x="229.2" y="582.4" font-size="14.5" fill="#3a3226" textLength="537.8" lengthAdjust="spacing">complement direct, complement prepozițional, circumstanțiale, atribut prepozițional</text>
+<line x1="62.0" y1="592.7" x2="838.0" y2="592.7" stroke="#e3dccb"/>
+<text x="74.0" y="615.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="34.4" lengthAdjust="spacing">dativ</text>
+<text x="229.2" y="615.2" font-size="14.5" fill="#3a3226" textLength="132.4" lengthAdjust="spacing">complement indirect</text>
+<line x1="62.0" y1="625.6" x2="838.0" y2="625.6" stroke="#e3dccb"/>
+<text x="74.0" y="648.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="47.3" lengthAdjust="spacing">genitiv</text>
+<text x="229.2" y="648.1" font-size="14.5" fill="#3a3226" textLength="274.8" lengthAdjust="spacing">atribut genitival (uneori cu articol genitival)</text>
+<line x1="62.0" y1="658.4" x2="838.0" y2="658.4" stroke="#e3dccb"/>
+<text x="74.0" y="680.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="49.0" lengthAdjust="spacing">vocativ</text>
+<text x="229.2" y="680.9" font-size="14.5" fill="#3a3226" textLength="138.6" lengthAdjust="spacing">chemare, atenționare;</text>
+<text x="371.7" y="680.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="27.0" lengthAdjust="spacing">fără</text>
+<text x="402.6" y="680.9" font-size="14.5" fill="#3a3226" textLength="106.9" lengthAdjust="spacing">funcție sintactică</text>
+<line x1="62.0" y1="691.3" x2="838.0" y2="691.3" stroke="#e3dccb"/>
+<line x1="217.2" y1="495.5" x2="217.2" y2="691.3" stroke="#e3dccb"/>
+<rect x="40" y="729.3" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="752.3" font-size="16" font-weight="700" fill="#ffffff">3. LOCUȚIUNEA SUBSTANTIVALĂ</text>
+<rect x="40" y="763.3" width="820" height="120.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="781.3" width="776.0" height="84.9" rx="12" fill="#f3efe4"/><text x="78.0" y="807.8" font-size="14.5" fill="#3a3226" textLength="146.4" lengthAdjust="spacing">Grup unitar de cuvinte,</text>
+<text x="228.4" y="807.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="170.5" lengthAdjust="spacing">sinonim cu un substantiv</text>
+<text x="398.9" y="807.8" font-size="14.5" fill="#3a3226" textLength="385.1" lengthAdjust="spacing">, care se comportă ca un substantiv și poate fi determinat de</text>
+<text x="78.0" y="828.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="54.7" lengthAdjust="spacing">atribute</text>
+<text x="132.7" y="828.8" font-size="14.5" fill="#3a3226" textLength="113.4" lengthAdjust="spacing">. Multe provin din</text>
+<text x="250.0" y="828.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="114.4" lengthAdjust="spacing">locuțiuni verbale</text>
+<text x="368.3" y="828.8" font-size="14.5" fill="#3a3226" textLength="153.1" lengthAdjust="spacing">cu verbul substantivizat:</text>
+<text x="525.3" y="828.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="82.2" lengthAdjust="spacing">a-i părea rău</text>
+<text x="611.4" y="828.8" font-size="14.5" fill="#3a3226" textLength="12.5" lengthAdjust="spacing">→</text>
+<text x="627.8" y="828.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="84.2" lengthAdjust="spacing">părere de rău</text>
+<text x="712.1" y="828.8" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">;</text>
+<text x="719.2" y="828.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="64.4" lengthAdjust="spacing">a-și aduce</text>
+<text x="78.0" y="849.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="43.9" lengthAdjust="spacing">aminte</text>
+<text x="125.9" y="849.8" font-size="14.5" fill="#3a3226" textLength="12.5" lengthAdjust="spacing">→</text>
+<text x="142.2" y="849.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="97.4" lengthAdjust="spacing">aducere aminte</text>
+<text x="239.7" y="849.8" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="323.3" y="915.7" font-size="11.5" fill="#5b6b83" textLength="253.3" lengthAdjust="spacing">Sursa: Manual Art 7, pp. 108-109, rubricile Repere.</text>
 </svg>

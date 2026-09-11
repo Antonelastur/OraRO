@@ -1,21 +1,132 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="320" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Adjectivul, tipuri</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III · actualizare</text>
-  <g>
-    <rect x="60" y="95" width="240" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="180" y="123" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Propriu-zis</text>
-    <text font-size="11" fill="#3a3226" text-anchor="middle"><tspan x="180" y="150" font-style="italic">frumos, harnic</tspan></text>
-  </g>
-  <g>
-    <rect x="330" y="95" width="240" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="450" y="123" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Participial</text>
-    <text font-size="11" fill="#3a3226" text-anchor="middle"><tspan x="450" y="150">din verb la participiu</tspan><tspan x="450" y="176" font-style="italic">obosit, uimit</tspan></text>
-  </g>
-  <g>
-    <rect x="600" y="95" width="240" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="720" y="123" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Din altă parte de vorbire</text>
-    <text font-size="11" fill="#3a3226" text-anchor="middle"><tspan x="720" y="150" font-style="italic">de aur, de vis</tspan></text>
-  </g>
-  <text x="450" y="280" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, pp. 114-115</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1202" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1202" fill="#faf7f0"/>
+<text x="227.3" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="446.3" lengthAdjust="spacing">Adjectivul. Gradele de comparație</text>
+<text x="199.3" y="74.4" font-size="14" fill="#5b6b83" textLength="501.5" lengthAdjust="spacing">Clasa a VII-a · Unitatea a III-a, Lecția 17 · Manual, pp. 114-115 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. ADJECTIVUL</text>
+<rect x="40" y="128.6" width="820" height="160.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" textLength="52.8" lengthAdjust="spacing">Exprimă</text>
+<text x="118.8" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="62.1" lengthAdjust="spacing">însușirea</text>
+<text x="185.0" y="161.6" font-size="15" fill="#3a3226" textLength="408.3" lengthAdjust="spacing">unui obiect; determină un substantiv sau un substitut. Poate fi</text>
+<text x="597.3" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="77.1" lengthAdjust="spacing">propriu-zis</text>
+<text x="678.5" y="161.6" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="683.0" y="161.6" font-size="15" fill="#10233f" font-style="italic" textLength="109.5" lengthAdjust="spacing">emoție puternică</text>
+<text x="792.5" y="161.6" font-size="15" fill="#3a3226" textLength="31.1" lengthAdjust="spacing">) sau</text>
+<text x="62.0" y="183.3" font-size="15" fill="#3a3226" textLength="55.2" lengthAdjust="spacing">provenit</text>
+<text x="121.2" y="183.3" font-size="15" fill="#3a3226" font-weight="700" textLength="94.4" lengthAdjust="spacing">din participiu</text>
+<text x="219.7" y="183.3" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="224.2" y="183.3" font-size="15" fill="#10233f" font-style="italic" textLength="114.3" lengthAdjust="spacing">rochie cumpărată</text>
+<text x="338.4" y="183.3" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">),</text>
+<text x="350.3" y="183.3" font-size="15" fill="#3a3226" font-weight="700" textLength="89.1" lengthAdjust="spacing">din gerunziu</text>
+<text x="443.4" y="183.3" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="447.9" y="183.3" font-size="15" fill="#10233f" font-style="italic" textLength="140.6" lengthAdjust="spacing">lumânare fumegândă</text>
+<text x="588.5" y="183.3" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">),</text>
+<text x="600.3" y="183.3" font-size="15" fill="#3a3226" font-weight="700" textLength="75.7" lengthAdjust="spacing">din adverb</text>
+<text x="680.1" y="183.3" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="684.6" y="183.3" font-size="15" fill="#10233f" font-style="italic" textLength="80.5" lengthAdjust="spacing">oameni bine</text>
+<text x="765.2" y="183.3" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">).</text>
+<text x="62.0" y="216.8" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="216.8" font-size="15" fill="#3a3226" font-weight="700" textLength="60.3" lengthAdjust="spacing">variabile</text>
+<text x="134.5" y="216.8" font-size="15" fill="#3a3226" textLength="87.0" lengthAdjust="spacing">: cu 4 forme (</text>
+<text x="221.5" y="216.8" font-size="15" fill="#10233f" font-style="italic" textLength="24.9" lengthAdjust="spacing">bun</text>
+<text x="246.4" y="216.8" font-size="15" fill="#3a3226" textLength="72.0" lengthAdjust="spacing">), 3 forme (</text>
+<text x="318.4" y="216.8" font-size="15" fill="#10233f" font-style="italic" textLength="45.6" lengthAdjust="spacing">grijuliu</text>
+<text x="364.0" y="216.8" font-size="15" fill="#3a3226" textLength="72.0" lengthAdjust="spacing">), 2 forme (</text>
+<text x="436.0" y="216.8" font-size="15" fill="#10233f" font-style="italic" textLength="51.6" lengthAdjust="spacing">limpede</text>
+<text x="487.6" y="216.8" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">);</text>
+<text x="499.4" y="216.8" font-size="15" fill="#3a3226" font-weight="700" textLength="73.6" lengthAdjust="spacing">invariabile</text>
+<text x="573.1" y="216.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="580.4" y="216.8" font-size="15" fill="#10233f" font-style="italic" textLength="95.0" lengthAdjust="spacing">bordo, ditamai</text>
+<text x="675.4" y="216.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">;</text>
+<text x="62.0" y="241.6" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="241.6" font-size="15" fill="#3a3226" textLength="14.1" lengthAdjust="spacing">se</text>
+<text x="92.3" y="241.6" font-size="15" fill="#3a3226" font-weight="700" textLength="47.9" lengthAdjust="spacing">acordă</text>
+<text x="144.2" y="241.6" font-size="15" fill="#3a3226" textLength="292.1" lengthAdjust="spacing">în gen, număr și caz; antepus, preia articolul:</text>
+<text x="440.4" y="241.6" font-size="15" fill="#10233f" font-style="italic" textLength="158.4" lengthAdjust="spacing">Bunul tată mă ocrotește.</text>
+<text x="598.8" y="241.6" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">;</text>
+<text x="62.0" y="266.4" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="266.4" font-size="15" fill="#3a3226" textLength="175.9" lengthAdjust="spacing">se formează prin derivare (</text>
+<text x="250.1" y="266.4" font-size="15" fill="#10233f" font-style="italic" textLength="106.7" lengthAdjust="spacing">amărui, nedemn</text>
+<text x="356.8" y="266.4" font-size="15" fill="#3a3226" textLength="106.5" lengthAdjust="spacing">) și compunere (</text>
+<text x="463.3" y="266.4" font-size="15" fill="#10233f" font-style="italic" textLength="149.8" lengthAdjust="spacing">roșu-închis, cumsecade</text>
+<text x="613.1" y="266.4" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">).</text>
+<rect x="40" y="308.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="331.9" font-size="16" font-weight="700" fill="#ffffff">2. GRADELE DE COMPARAȚIE</text>
+<rect x="40" y="342.9" width="820" height="580.4" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="360.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="382.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="42.7" lengthAdjust="spacing">Gradul</text>
+<text x="337.8" y="382.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="109.3" lengthAdjust="spacing">Cum se formează</text>
+<text x="617.2" y="382.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="392.4" x2="838.0" y2="392.4" stroke="#e3dccb"/>
+<text x="74.0" y="414.9" font-size="14.5" fill="#3a3226" textLength="42.5" lengthAdjust="spacing">pozitiv</text>
+
+<text x="617.2" y="414.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="24.1" lengthAdjust="spacing">bun</text>
+<line x1="62.0" y1="425.3" x2="838.0" y2="425.3" stroke="#e3dccb"/>
+<text x="74.0" y="447.8" font-size="14.5" fill="#3a3226" textLength="150.7" lengthAdjust="spacing">comparativ de egalitate</text>
+<text x="337.8" y="447.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="193.1" lengthAdjust="spacing">tot atât de, la fel de, tot așa de,</text>
+<text x="337.8" y="468.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="85.5" lengthAdjust="spacing">deopotrivă de</text>
+<text x="617.2" y="447.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="77.6" lengthAdjust="spacing">la fel de bun</text>
+<line x1="62.0" y1="479.1" x2="838.0" y2="479.1" stroke="#e3dccb"/>
+<text x="74.0" y="501.6" font-size="14.5" fill="#3a3226" textLength="185.9" lengthAdjust="spacing">comparativ de superioritate /</text>
+<text x="74.0" y="522.6" font-size="14.5" fill="#3a3226" textLength="74.2" lengthAdjust="spacing">inferioritate</text>
+<text x="337.8" y="501.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="98.2" lengthAdjust="spacing">mai / mai puțin</text>
+<text x="617.2" y="501.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="52.1" lengthAdjust="spacing">mai bun</text>
+<line x1="62.0" y1="533.0" x2="838.0" y2="533.0" stroke="#e3dccb"/>
+<text x="74.0" y="555.5" font-size="14.5" fill="#3a3226" textLength="104.5" lengthAdjust="spacing">superlativ relativ</text>
+<text x="337.8" y="555.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="209.1" lengthAdjust="spacing">cel (cea, cei, cele) mai / mai puțin</text>
+<text x="617.2" y="555.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="73.2" lengthAdjust="spacing">cel mai bun</text>
+<line x1="62.0" y1="565.9" x2="838.0" y2="565.9" stroke="#e3dccb"/>
+<text x="74.0" y="588.4" font-size="14.5" fill="#3a3226" textLength="113.0" lengthAdjust="spacing">superlativ absolut</text>
+<text x="337.8" y="588.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="104.0" lengthAdjust="spacing">foarte, tare, prea</text>
+<text x="445.7" y="588.4" font-size="14.5" fill="#3a3226" textLength="14.2" lengthAdjust="spacing">(+</text>
+<text x="463.8" y="588.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="32.5" lengthAdjust="spacing">puțin</text>
+<text x="496.3" y="588.4" font-size="14.5" fill="#3a3226" textLength="4.3" lengthAdjust="spacing">)</text>
+<text x="617.2" y="588.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="65.0" lengthAdjust="spacing">foarte bun</text>
+<line x1="62.0" y1="598.7" x2="838.0" y2="598.7" stroke="#e3dccb"/>
+<line x1="325.8" y1="360.9" x2="325.8" y2="598.7" stroke="#e3dccb"/>
+<line x1="605.2" y1="360.9" x2="605.2" y2="598.7" stroke="#e3dccb"/>
+<rect x="62.0" y="612.7" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="634.2" font-size="13.5" fill="#10233f" font-weight="700" textLength="187.4" lengthAdjust="spacing">Superlativul absolut, expresiv</text>
+<text x="423.2" y="634.2" font-size="13.5" fill="#10233f" font-weight="700" textLength="53.7" lengthAdjust="spacing">Exemple</text>
+<line x1="62.0" y1="644.2" x2="838.0" y2="644.2" stroke="#e3dccb"/>
+<text x="74.0" y="666.8" font-size="14.5" fill="#3a3226" textLength="57.9" lengthAdjust="spacing">adverb +</text>
+<text x="135.8" y="666.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="14.9" lengthAdjust="spacing">de</text>
+<text x="423.2" y="666.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="232.3" lengthAdjust="spacing">grozav de bun, neînchipuit de frumos</text>
+<line x1="62.0" y1="677.1" x2="838.0" y2="677.1" stroke="#e3dccb"/>
+<text x="74.0" y="699.6" font-size="14.5" fill="#3a3226" textLength="124.3" lengthAdjust="spacing">supin după adjectiv</text>
+<text x="423.2" y="699.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="124.4" lengthAdjust="spacing">frumoasă de speriat</text>
+<line x1="62.0" y1="710.0" x2="838.0" y2="710.0" stroke="#e3dccb"/>
+<text x="74.0" y="732.5" font-size="14.5" fill="#3a3226" textLength="121.8" lengthAdjust="spacing">grupuri locuționale</text>
+<text x="423.2" y="732.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="216.1" lengthAdjust="spacing">din cale-afară de, peste măsură de</text>
+<line x1="62.0" y1="742.8" x2="838.0" y2="742.8" stroke="#e3dccb"/>
+<text x="74.0" y="765.3" font-size="14.5" fill="#3a3226" textLength="152.2" lengthAdjust="spacing">adverbe din substantive</text>
+<text x="423.2" y="765.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="251.3" lengthAdjust="spacing">singur cuc, sănătos tun, foc de frumoasă</text>
+<line x1="62.0" y1="775.7" x2="838.0" y2="775.7" stroke="#e3dccb"/>
+<text x="74.0" y="798.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="39.4" lengthAdjust="spacing">ce, cât</text>
+<text x="117.4" y="798.2" font-size="14.5" fill="#3a3226" textLength="244.3" lengthAdjust="spacing">în exclamații; repetare; prefixe și sufixe</text>
+<text x="423.2" y="798.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="296.4" lengthAdjust="spacing">Ce bun tort! mare-mare; ultraparfumat, rarisim</text>
+<line x1="62.0" y1="808.5" x2="838.0" y2="808.5" stroke="#e3dccb"/>
+<line x1="411.2" y1="612.7" x2="411.2" y2="808.5" stroke="#e3dccb"/>
+<rect x="62.0" y="822.5" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="822.5" width="6" height="82.7" rx="3" fill="#b4432c"/><text x="84.0" y="849.0" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="867.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="72.5" lengthAdjust="spacing">Fără grade</text>
+<text x="156.5" y="867.9" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">:</text>
+<text x="163.6" y="867.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="154.8" lengthAdjust="spacing">superior, maxim, suprem</text>
+<text x="322.4" y="867.9" font-size="14.5" fill="#3a3226" textLength="244.3" lengthAdjust="spacing">(comparative sau superlative în latină),</text>
+<text x="570.6" y="867.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="109.3" lengthAdjust="spacing">viu, complet, unic</text>
+<text x="683.8" y="867.9" font-size="14.5" fill="#3a3226" textLength="87.7" lengthAdjust="spacing">(negradabile),</text>
+<text x="84.0" y="888.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="99.8" lengthAdjust="spacing">acvatic, biologic</text>
+<text x="187.7" y="888.9" font-size="14.5" fill="#3a3226" textLength="125.6" lengthAdjust="spacing">(sensul nu permite).</text>
+<rect x="40" y="943.2" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="966.2" font-size="16" font-weight="700" fill="#ffffff">3. LOCUȚIUNEA ADJECTIVALĂ</text>
+<rect x="40" y="977.2" width="820" height="174.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="1010.2" font-size="15" fill="#3a3226" textLength="75.8" lengthAdjust="spacing">Grup unitar</text>
+<text x="141.8" y="1010.2" font-size="15" fill="#3a3226" font-weight="700" textLength="158.6" lengthAdjust="spacing">sinonim cu un adjectiv</text>
+<text x="300.4" y="1010.2" font-size="15" fill="#3a3226" textLength="451.6" lengthAdjust="spacing">, care se comportă ca un adjectiv și poate avea grade de comparație:</text>
+<text x="756.0" y="1010.2" font-size="15" fill="#10233f" font-style="italic" textLength="64.7" lengthAdjust="spacing">de treabă,</text>
+<text x="62.0" y="1032.0" font-size="15" fill="#10233f" font-style="italic" textLength="167.1" lengthAdjust="spacing">cu nasul pe sus, de seamă</text>
+<text x="229.1" y="1032.0" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="1050.5" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="1077.0" font-size="14.5" fill="#10233f" font-weight="700" textLength="119.9" lengthAdjust="spacing">Model de analiză:</text>
+<text x="78.0" y="1095.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="687.3" lengthAdjust="spacing">„pozitivă” – adjectiv propriu-zis, variabil, cu patru forme flexionare, acordat în gen, număr și caz cu „atitudine”</text>
+<text x="78.0" y="1116.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="268.9" lengthAdjust="spacing">(feminin, singular, acuzativ), gradul pozitiv.</text>
+<text x="245.9" y="1182.7" font-size="11.5" fill="#5b6b83" textLength="408.1" lengthAdjust="spacing">Sursa: Manual Art 7, pp. 114-115, rubricile Repere, tabelele și modelul de analiză.</text>
 </svg>

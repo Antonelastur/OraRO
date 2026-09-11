@@ -50,7 +50,7 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Identifică epitetele, personificările, comparațiile și enumerația din textul liric și interpretează semnificațiile lor.'],
-    resurse: ['Manual Art 7, p. 92', 'Schema „Limbajul figurat” (/materiale/clasa-7/unitatea-3/lectia-3/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 7, p. 92', 'Schema „Limbajul figurat. Epitetul, personificarea, comparația, enumerația” (/materiale/clasa-7/unitatea-3/lectia-3/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Elevii fac lista elementelor de natură din Lacul: lac, codri, nuferi, trestii, lună.' },
@@ -241,7 +241,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Reactualizează categoriile gramaticale ale substantivului: substantive comune/proprii, simple/compuse, numărabile/nonnumărabile, colective, cazuri.'],
-    resurse: ['Manual Art 7, pp. 108-109', 'Schema „Substantivul” (/materiale/clasa-7/unitatea-3/lectia-14/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 7, pp. 108-109', 'Schema „Substantivul. Locuțiunea substantivală” (/materiale/clasa-7/unitatea-3/lectia-14/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Joc: în două minute, cât mai multe substantive comune și proprii din câmpul lexical al sentimentelor.' },
@@ -258,7 +258,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Identifică prepozițiile simple, compuse și locuțiunile prepoziționale și regimul lor cazual.'],
-    resurse: ['Manual Art 7, pp. 110-111', 'Schema „Prepoziția” (/materiale/clasa-7/unitatea-3/lectia-15/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 7, pp. 110-111', 'Schema „Prepoziția. Locuțiunea prepozițională” (/materiale/clasa-7/unitatea-3/lectia-15/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Citim textul despre Alex, colegul nou din Brașov, de la p. 110, și găsim prepozițiile.' },
@@ -275,7 +275,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Identifică funcțiile sintactice ale substantivului și cazurile acestora, precizând dacă substantivul e centru sau adjunct.'],
-    resurse: ['Manual Art 7, pp. 112-113', 'Schema „Posibilități combinatorii ale substantivului” (/materiale/clasa-7/unitatea-3/lectia-16/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 7, pp. 112-113', 'Schema „Posibilitățile combinatorii ale substantivului” (/materiale/clasa-7/unitatea-3/lectia-16/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Citim textul despre Mihai, supărat pe nota de la test, de la p. 112, și găsim subiectele.' },
@@ -292,7 +292,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Reactualizează tipurile de adjective, variabilitatea și gradele de comparație ale adjectivului.'],
-    resurse: ['Manual Art 7, pp. 114-115', 'Schema „Adjectivul, tipuri” (/materiale/clasa-7/unitatea-3/lectia-17/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 7, pp. 114-115', 'Schema „Adjectivul. Gradele de comparație” (/materiale/clasa-7/unitatea-3/lectia-17/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Citim textul despre rochia roșie de la p. 114 și găsim adjectivele.' },
@@ -309,7 +309,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Identifică funcțiile sintactice ale adjectivului, precizând dacă adjectivul e centru sau adjunct.'],
-    resurse: ['Manual Art 7, pp. 116-117', 'Schema „Posibilități combinatorii ale adjectivului” (/materiale/clasa-7/unitatea-3/lectia-18/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 7, pp. 116-117', 'Schema „Posibilitățile combinatorii ale adjectivului” (/materiale/clasa-7/unitatea-3/lectia-18/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Citim replica fetei către mama ei de la p. 116, „uneori sunt visătoare și alteori sunt foarte veselă”, și găsim funcția adjectivelor.' },

@@ -145,7 +145,7 @@ export const unitatea3 = {
         ],
         resurse: [
           'Manual Art 7, p. 92',
-          'Schema „Limbajul figurat” (/materiale/clasa-7/unitatea-3/lectia-3/schema.svg)',
+          'Schema „Limbajul figurat. Epitetul, personificarea, comparația, enumerația” (/materiale/clasa-7/unitatea-3/lectia-3/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -182,7 +182,7 @@ export const unitatea3 = {
         ],
         evaluare: 'Observarea sistematică a elevilor; aprecieri.',
       },
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-3/lectia-3/schema.svg', titlu: 'Limbajul figurat' }, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-3/lectia-3/schema.svg', titlu: 'Limbajul figurat. Epitetul, personificarea, comparația, enumerația' }, altele: [] },
     },
     {
       id: 'lectia-4',
@@ -859,7 +859,7 @@ export const unitatea3 = {
         ],
         resurse: [
           'Manual Art 7, pp. 108-109',
-          'Schema „Substantivul” (/materiale/clasa-7/unitatea-3/lectia-14/schema.svg)',
+          'Schema „Substantivul. Locuțiunea substantivală” (/materiale/clasa-7/unitatea-3/lectia-14/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -896,7 +896,7 @@ export const unitatea3 = {
         ],
         evaluare: 'Observarea sistematică a elevilor; aprecieri.',
       },
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-3/lectia-14/schema.svg', titlu: 'Substantivul' }, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-3/lectia-14/schema.svg', titlu: 'Substantivul. Locuțiunea substantivală' }, altele: [] },
     },
     {
       id: 'lectia-15',
@@ -916,7 +916,7 @@ export const unitatea3 = {
         ],
         resurse: [
           'Manual Art 7, pp. 110-111',
-          'Schema „Prepoziția” (/materiale/clasa-7/unitatea-3/lectia-15/schema.svg)',
+          'Schema „Prepoziția. Locuțiunea prepozițională” (/materiale/clasa-7/unitatea-3/lectia-15/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -953,7 +953,7 @@ export const unitatea3 = {
         ],
         evaluare: 'Observarea sistematică a elevilor; aprecieri.',
       },
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-3/lectia-15/schema.svg', titlu: 'Prepoziția' }, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-3/lectia-15/schema.svg', titlu: 'Prepoziția. Locuțiunea prepozițională' }, altele: [] },
     },
     {
       id: 'lectia-16',
@@ -973,7 +973,7 @@ export const unitatea3 = {
         ],
         resurse: [
           'Manual Art 7, pp. 112-113',
-          'Schema „Posibilități combinatorii ale substantivului” (/materiale/clasa-7/unitatea-3/lectia-16/schema.svg)',
+          'Schema „Posibilitățile combinatorii ale substantivului” (/materiale/clasa-7/unitatea-3/lectia-16/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -1010,7 +1010,7 @@ export const unitatea3 = {
         ],
         evaluare: 'Observarea sistematică a elevilor; aprecieri.',
       },
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-3/lectia-16/schema.svg', titlu: 'Posibilități combinatorii ale substantivului' }, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-3/lectia-16/schema.svg', titlu: 'Posibilitățile combinatorii ale substantivului' }, altele: [] },
     },
     {
       id: 'lectia-17',
@@ -1030,7 +1030,7 @@ export const unitatea3 = {
         ],
         resurse: [
           'Manual Art 7, pp. 114-115',
-          'Schema „Adjectivul, tipuri” (/materiale/clasa-7/unitatea-3/lectia-17/schema.svg)',
+          'Schema „Adjectivul. Gradele de comparație” (/materiale/clasa-7/unitatea-3/lectia-17/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -1067,7 +1067,7 @@ export const unitatea3 = {
         ],
         evaluare: 'Observarea sistematică a elevilor; aprecieri.',
       },
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-3/lectia-17/schema.svg', titlu: 'Adjectivul, tipuri' }, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-3/lectia-17/schema.svg', titlu: 'Adjectivul. Gradele de comparație' }, altele: [] },
     },
     {
       id: 'lectia-18',
@@ -1087,7 +1087,7 @@ export const unitatea3 = {
         ],
         resurse: [
           'Manual Art 7, pp. 116-117',
-          'Schema „Posibilități combinatorii ale adjectivului” (/materiale/clasa-7/unitatea-3/lectia-18/schema.svg)',
+          'Schema „Posibilitățile combinatorii ale adjectivului” (/materiale/clasa-7/unitatea-3/lectia-18/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -1124,7 +1124,7 @@ export const unitatea3 = {
         ],
         evaluare: 'Observarea sistematică a elevilor; autoevaluarea achizițiilor din lecțiile 12-16.',
       },
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-3/lectia-18/schema.svg', titlu: 'Posibilități combinatorii ale adjectivului' }, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-3/lectia-18/schema.svg', titlu: 'Posibilitățile combinatorii ale adjectivului' }, altele: [] },
     },
     {
       id: 'lectia-19',

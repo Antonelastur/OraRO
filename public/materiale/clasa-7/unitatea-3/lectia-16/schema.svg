@@ -1,19 +1,136 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="400" fill="#faf7f0"/>
-  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Posibilități combinatorii ale substantivului</text>
-  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III · lecția 16 · substantivul ca adjunct și ca centru</text>
-
-  <rect x="55" y="80" width="390" height="140" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Adjunct al verbului centru</text>
-  <text font-size="11" fill="#3a3226"><tspan x="75" y="126">subiect (nominativ; în interdependență cu</tspan><tspan x="75" y="144">predicatul): simplu / multiplu; neexprimat —</tspan><tspan x="75" y="162">subînțeles sau inclus</tspan><tspan x="75" y="184">nume predicativ (nominativ; ori acuzativ sau</tspan><tspan x="75" y="202">genitiv cu prepoziție)</tspan></text>
-
-  <rect x="465" y="80" width="380" height="140" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="485" y="104" font-size="13" font-weight="700" fill="#10233f">Centru</text>
-  <text font-size="11" fill="#3a3226"><tspan x="485" y="126">are adjuncți cu funcția de atribut</tspan><tspan x="485" y="146">atribut substantival:</tspan><tspan x="485" y="164">• genitival (genitiv fără prepoziție)</tspan><tspan x="485" y="182">• prepozițional (acuzativ / genitiv cu prep.)</tspan><tspan x="485" y="200">• în dativ; în nominativ (Orașul Brașov)</tspan></text>
-
-  <rect x="55" y="236" width="790" height="118" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="75" y="260" font-size="13" font-weight="700" fill="#10233f">Adjunct al verbului sau al adjectivului</text>
-  <text font-size="11" fill="#3a3226"><tspan x="75" y="282">complement direct (acuzativ, fără prepoziție sau cu „pe”)</tspan><tspan x="75" y="302">complement indirect (dativ)   ·   complement prepozițional (acuzativ / genitiv cu prepoziție)</tspan><tspan x="75" y="322">circumstanțiale: de loc, de timp, de mod, de cauză, de scop</tspan></text>
-
-  <text x="450" y="384" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, pp. 112-113</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1111" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1111" fill="#faf7f0"/>
+<text x="160.9" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="579.0" lengthAdjust="spacing">Posibilitățile combinatorii ale substantivului</text>
+<text x="199.3" y="74.4" font-size="14" fill="#5b6b83" textLength="501.5" lengthAdjust="spacing">Clasa a VII-a · Unitatea a III-a, Lecția 16 · Manual, pp. 112-113 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. SUBIECTUL ȘI NUMELE PREDICATIV</text>
+<rect x="40" y="128.6" width="820" height="221.3" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" textLength="295.0" lengthAdjust="spacing">Față de verbul-predicat, substantivul poate fi</text>
+<text x="361.1" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="50.4" lengthAdjust="spacing">subiect</text>
+<text x="415.5" y="161.6" font-size="15" fill="#3a3226" textLength="388.8" lengthAdjust="spacing">(interdependență: verbul îi impune nominativul, subiectul îi</text>
+<text x="62.0" y="183.3" font-size="15" fill="#3a3226" textLength="219.3" lengthAdjust="spacing">impune persoana și numărul) sau</text>
+<text x="285.4" y="183.3" font-size="15" fill="#3a3226" font-weight="700" textLength="114.8" lengthAdjust="spacing">nume predicativ</text>
+<text x="400.1" y="183.3" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="201.8" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="223.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="132.6" lengthAdjust="spacing">Numele predicativ în</text>
+<text x="423.2" y="223.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="233.4" x2="838.0" y2="233.4" stroke="#e3dccb"/>
+<text x="74.0" y="255.9" font-size="14.5" fill="#3a3226" textLength="63.8" lengthAdjust="spacing">nominativ</text>
+<text x="423.2" y="255.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="53.6" lengthAdjust="spacing">Ana este</text>
+<text x="480.8" y="255.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="69.7" lengthAdjust="spacing">o prietenă</text>
+<text x="554.4" y="255.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="35.1" lengthAdjust="spacing">bună.</text>
+<line x1="62.0" y1="266.2" x2="838.0" y2="266.2" stroke="#e3dccb"/>
+<text x="74.0" y="288.8" font-size="14.5" fill="#3a3226" textLength="211.6" lengthAdjust="spacing">acuzativ cu prepoziție / locuțiune</text>
+<text x="423.2" y="288.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="77.1" lengthAdjust="spacing">Penarul este</text>
+<text x="504.3" y="288.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="69.9" lengthAdjust="spacing">din plastic</text>
+<text x="574.1" y="288.8" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="299.1" x2="838.0" y2="299.1" stroke="#e3dccb"/>
+<text x="74.0" y="321.6" font-size="14.5" fill="#3a3226" textLength="203.1" lengthAdjust="spacing">genitiv cu prepoziție / locuțiune</text>
+<text x="423.2" y="321.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="39.6" lengthAdjust="spacing">El este</text>
+<text x="466.7" y="321.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="125.4" lengthAdjust="spacing">contra conflictelor</text>
+<text x="592.1" y="321.6" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="599.2" y="321.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="43.6" lengthAdjust="spacing">Ea este</text>
+<text x="646.8" y="321.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="94.3" lengthAdjust="spacing">de partea Inei</text>
+<text x="741.0" y="321.6" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="332.0" x2="838.0" y2="332.0" stroke="#e3dccb"/>
+<line x1="411.2" y1="201.8" x2="411.2" y2="331.9" stroke="#e3dccb"/>
+<rect x="40" y="369.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="392.9" font-size="16" font-weight="700" fill="#ffffff">2. SUBSTANTIVUL CENTRU: ATRIBUTUL SUBSTANTIVAL</text>
+<rect x="40" y="403.9" width="820" height="220.0" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="421.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="443.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="30.1" lengthAdjust="spacing">Felul</text>
+<text x="283.5" y="443.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="34.2" lengthAdjust="spacing">Cazul</text>
+<text x="539.6" y="443.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="453.5" x2="838.0" y2="453.5" stroke="#e3dccb"/>
+<text x="74.0" y="476.0" font-size="14.5" fill="#3a3226" textLength="54.1" lengthAdjust="spacing">genitival</text>
+<text x="283.5" y="476.0" font-size="14.5" fill="#3a3226" textLength="139.6" lengthAdjust="spacing">genitiv fără prepoziție</text>
+<text x="539.6" y="476.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="41.9" lengthAdjust="spacing">Cartea</text>
+<text x="585.4" y="476.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="58.7" lengthAdjust="spacing">copilului</text>
+<text x="648.1" y="476.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="67.0" lengthAdjust="spacing">e pe masă.</text>
+<line x1="62.0" y1="486.4" x2="838.0" y2="486.4" stroke="#e3dccb"/>
+<text x="74.0" y="508.9" font-size="14.5" fill="#3a3226" textLength="84.4" lengthAdjust="spacing">prepozițional</text>
+<text x="283.5" y="508.9" font-size="14.5" fill="#3a3226" textLength="179.1" lengthAdjust="spacing">Ac., G. sau D. cu prepoziție /</text>
+<text x="283.5" y="529.9" font-size="14.5" fill="#3a3226" textLength="59.5" lengthAdjust="spacing">locuțiune</text>
+<text x="539.6" y="508.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="41.9" lengthAdjust="spacing">Cartea</text>
+<text x="585.4" y="508.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="82.4" lengthAdjust="spacing">de la bunica</text>
+<text x="667.8" y="508.9" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">;</text>
+<text x="674.9" y="508.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="32.2" lengthAdjust="spacing">lupta</text>
+<text x="711.0" y="508.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="107.0" lengthAdjust="spacing">contra violenței</text>
+<text x="818.0" y="508.9" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">;</text>
+<text x="539.6" y="529.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="51.5" lengthAdjust="spacing">succesul</text>
+<text x="595.0" y="529.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="151.2" lengthAdjust="spacing">datorită perseverenței</text>
+<line x1="62.0" y1="540.2" x2="838.0" y2="540.2" stroke="#e3dccb"/>
+<text x="74.0" y="562.7" font-size="14.5" fill="#3a3226" textLength="79.5" lengthAdjust="spacing">în nominativ</text>
+<text x="283.5" y="562.7" font-size="14.5" fill="#3a3226" textLength="63.8" lengthAdjust="spacing">nominativ</text>
+<text x="539.6" y="562.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="41.6" lengthAdjust="spacing">Orașul</text>
+<text x="585.1" y="562.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="46.0" lengthAdjust="spacing">Brașov</text>
+<text x="635.0" y="562.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="75.5" lengthAdjust="spacing">este frumos.</text>
+<line x1="62.0" y1="573.1" x2="838.0" y2="573.1" stroke="#e3dccb"/>
+<text x="74.0" y="595.6" font-size="14.5" fill="#3a3226" textLength="47.0" lengthAdjust="spacing">în dativ</text>
+<text x="283.5" y="595.6" font-size="14.5" fill="#3a3226" textLength="127.7" lengthAdjust="spacing">dativ fără prepoziție</text>
+<text x="539.6" y="595.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="148.3" lengthAdjust="spacing">Predarea limbii române</text>
+<text x="691.8" y="595.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="61.3" lengthAdjust="spacing">străinilor</text>
+<text x="753.2" y="595.6" font-size="14.5" fill="#3a3226" textLength="9.6" lengthAdjust="spacing">...</text>
+<line x1="62.0" y1="605.9" x2="838.0" y2="605.9" stroke="#e3dccb"/>
+<line x1="271.5" y1="421.9" x2="271.5" y2="605.9" stroke="#e3dccb"/>
+<line x1="527.6" y1="421.9" x2="527.6" y2="605.9" stroke="#e3dccb"/>
+<rect x="40" y="643.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="666.9" font-size="16" font-weight="700" fill="#ffffff">3. SUBSTANTIVUL ADJUNCT AL VERBULUI SAU AL ADJECTIVULUI</text>
+<rect x="40" y="677.9" width="820" height="382.4" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="695.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="717.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="46.3" lengthAdjust="spacing">Funcția</text>
+<text x="291.3" y="717.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="34.2" lengthAdjust="spacing">Cazul</text>
+<text x="539.6" y="717.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="727.5" x2="838.0" y2="727.5" stroke="#e3dccb"/>
+<text x="74.0" y="750.0" font-size="14.5" fill="#3a3226" textLength="120.6" lengthAdjust="spacing">complement direct</text>
+<text x="291.3" y="750.0" font-size="14.5" fill="#3a3226" textLength="160.2" lengthAdjust="spacing">Ac. fără prepoziție sau cu</text>
+<text x="455.4" y="750.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="14.9" lengthAdjust="spacing">pe</text>
+<text x="539.6" y="750.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="34.1" lengthAdjust="spacing">Îl văd</text>
+<text x="577.6" y="750.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="48.3" lengthAdjust="spacing">pe Dan</text>
+<text x="625.9" y="750.0" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="760.3" x2="838.0" y2="760.3" stroke="#e3dccb"/>
+<text x="74.0" y="782.8" font-size="14.5" fill="#3a3226" textLength="132.4" lengthAdjust="spacing">complement indirect</text>
+<text x="291.3" y="782.8" font-size="14.5" fill="#3a3226" textLength="13.3" lengthAdjust="spacing">D.</text>
+<text x="539.6" y="782.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="35.4" lengthAdjust="spacing">Îi dau</text>
+<text x="578.9" y="782.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="60.2" lengthAdjust="spacing">băiatului</text>
+<text x="643.0" y="782.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="46.0" lengthAdjust="spacing">un sfat.</text>
+<line x1="62.0" y1="793.2" x2="838.0" y2="793.2" stroke="#e3dccb"/>
+<text x="74.0" y="815.7" font-size="14.5" fill="#3a3226" textLength="168.8" lengthAdjust="spacing">complement prepozițional</text>
+<text x="291.3" y="815.7" font-size="14.5" fill="#3a3226" textLength="149.1" lengthAdjust="spacing">Ac. sau G. cu prepoziție</text>
+<text x="539.6" y="815.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="35.1" lengthAdjust="spacing">Luptă</text>
+<text x="578.6" y="815.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="107.0" lengthAdjust="spacing">contra violenței</text>
+<text x="685.6" y="815.7" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="826.0" x2="838.0" y2="826.0" stroke="#e3dccb"/>
+<text x="74.0" y="848.5" font-size="14.5" fill="#3a3226" textLength="131.2" lengthAdjust="spacing">circumstanțial de loc</text>
+<text x="291.3" y="848.5" font-size="14.5" fill="#3a3226" textLength="222.0" lengthAdjust="spacing">Ac. sau G. cu prepoziție / locuțiune</text>
+<text x="539.6" y="848.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="51.6" lengthAdjust="spacing">Se joacă</text>
+<text x="595.1" y="848.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="124.3" lengthAdjust="spacing">în spatele blocului</text>
+<text x="719.4" y="848.5" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="858.9" x2="838.0" y2="858.9" stroke="#e3dccb"/>
+<text x="74.0" y="881.4" font-size="14.5" fill="#3a3226" textLength="142.0" lengthAdjust="spacing">circumstanțial de timp</text>
+<text x="291.3" y="881.4" font-size="14.5" fill="#3a3226" textLength="206.2" lengthAdjust="spacing">Ac. sau G., cu sau fără prepoziție</text>
+<text x="539.6" y="881.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="36.0" lengthAdjust="spacing">A stat</text>
+<text x="579.5" y="881.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="98.2" lengthAdjust="spacing">trei săptămâni</text>
+<text x="677.6" y="881.4" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="891.7" x2="838.0" y2="891.7" stroke="#e3dccb"/>
+<text x="74.0" y="914.2" font-size="14.5" fill="#3a3226" textLength="191.8" lengthAdjust="spacing">circumstanțial de mod / cauză</text>
+<text x="74.0" y="935.2" font-size="14.5" fill="#3a3226" textLength="39.4" lengthAdjust="spacing">/ scop</text>
+<text x="291.3" y="914.2" font-size="14.5" fill="#3a3226" textLength="106.3" lengthAdjust="spacing">Ac. cu prepoziție</text>
+<text x="539.6" y="914.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="29.7" lengthAdjust="spacing">Scrie</text>
+<text x="573.2" y="914.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="70.5" lengthAdjust="spacing">fără grabă</text>
+<text x="643.7" y="914.2" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="650.8" y="914.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="38.1" lengthAdjust="spacing">E roșu</text>
+<text x="692.9" y="914.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="52.9" lengthAdjust="spacing">de furie</text>
+<text x="745.8" y="914.2" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="752.9" y="914.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="51.6" lengthAdjust="spacing">Mergem</text>
+<text x="808.4" y="914.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="11.9" lengthAdjust="spacing">la</text>
+<text x="539.6" y="935.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="84.0" lengthAdjust="spacing">cumpărături</text>
+<text x="623.6" y="935.2" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="945.6" x2="838.0" y2="945.6" stroke="#e3dccb"/>
+<line x1="279.3" y1="695.9" x2="279.3" y2="945.6" stroke="#e3dccb"/>
+<line x1="527.6" y1="695.9" x2="527.6" y2="945.6" stroke="#e3dccb"/>
+<rect x="62.0" y="959.6" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="986.1" font-size="14.5" fill="#10233f" font-weight="700" textLength="119.9" lengthAdjust="spacing">Model de analiză:</text>
+<text x="78.0" y="1004.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="727.1" lengthAdjust="spacing">„duduia” – substantiv comun, simplu, genul feminin, numărul singular, cazul nominativ, articulat cu articolul hotărât</text>
+<text x="78.0" y="1026.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="207.3" lengthAdjust="spacing">„-a”, funcția sintactică de subiect.</text>
+<text x="248.8" y="1091.8" font-size="11.5" fill="#5b6b83" textLength="402.5" lengthAdjust="spacing">Sursa: Manual Art 7, pp. 112-113, rubrica Repere, tabelele și modelul de analiză.</text>
 </svg>

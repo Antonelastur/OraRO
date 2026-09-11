@@ -1,17 +1,117 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="320" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Prepoziția</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III</text>
-  <g>
-    <rect x="90" y="95" width="330" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="255" y="123" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Simplă</text>
-    <text font-size="12" fill="#3a3226" text-anchor="middle"><tspan x="255" y="150">un singur cuvânt</tspan><tspan x="255" y="176" font-style="italic">la, cu, din, pentru</tspan></text>
-  </g>
-  <g>
-    <rect x="480" y="95" width="330" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="645" y="123" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Compusă / locuțiune</text>
-    <text font-size="12" fill="#3a3226" text-anchor="middle"><tspan x="645" y="150">mai multe cuvinte,</tspan><tspan x="645" y="166">grup stabil</tspan><tspan x="645" y="192" font-style="italic">de lângă, din cauza</tspan></text>
-  </g>
-  <text x="450" y="280" text-anchor="middle" font-size="11.5" fill="#3a3226">Fiecare prepoziție cere un anumit caz al substantivului care o urmează.</text>
-  <text x="450" y="300" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, pp. 110-111</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 917" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="917" fill="#faf7f0"/>
+<text x="204.4" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="491.7" lengthAdjust="spacing">Prepoziția. Locuțiunea prepozițională</text>
+<text x="199.3" y="74.4" font-size="14" fill="#5b6b83" textLength="501.5" lengthAdjust="spacing">Clasa a VII-a · Unitatea a III-a, Lecția 15 · Manual, pp. 110-111 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. PREPOZIȚIA</text>
+<rect x="40" y="128.6" width="820" height="113.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" textLength="105.7" lengthAdjust="spacing">Parte de vorbire</text>
+<text x="171.8" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="73.5" lengthAdjust="spacing">neflexibilă</text>
+<text x="249.3" y="161.6" font-size="15" fill="#3a3226" textLength="88.3" lengthAdjust="spacing">care leagă un</text>
+<text x="341.7" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="48.5" lengthAdjust="spacing">atribut</text>
+<text x="390.2" y="161.6" font-size="15" fill="#3a3226" textLength="24.4" lengthAdjust="spacing">, un</text>
+<text x="418.7" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="88.7" lengthAdjust="spacing">complement</text>
+<text x="511.4" y="161.6" font-size="15" fill="#3a3226" textLength="43.6" lengthAdjust="spacing">sau un</text>
+<text x="559.1" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="99.6" lengthAdjust="spacing">circumstanțial</text>
+<text x="662.7" y="161.6" font-size="15" fill="#3a3226" textLength="156.7" lengthAdjust="spacing">de cuvântul determinat.</text>
+<text x="62.0" y="195.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="195.1" font-size="15" fill="#3a3226" font-weight="700" textLength="46.2" lengthAdjust="spacing">simple</text>
+<text x="120.4" y="195.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="127.8" y="195.1" font-size="15" fill="#10233f" font-style="italic" textLength="120.8" lengthAdjust="spacing">cu, de, în, la, lângă</text>
+<text x="248.5" y="195.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">;</text>
+<text x="255.9" y="195.1" font-size="15" fill="#3a3226" font-weight="700" textLength="63.3" lengthAdjust="spacing">compuse</text>
+<text x="319.2" y="195.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="326.5" y="195.1" font-size="15" fill="#10233f" font-style="italic" textLength="252.9" lengthAdjust="spacing">de la, de pe, de pe lângă, despre, înspre</text>
+<text x="579.4" y="195.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">;</text>
+<text x="62.0" y="219.8" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="219.8" font-size="15" fill="#3a3226" textLength="56.5" lengthAdjust="spacing">unele au</text>
+<text x="134.8" y="219.8" font-size="15" fill="#3a3226" font-weight="700" textLength="30.4" lengthAdjust="spacing">sens</text>
+<text x="169.3" y="219.8" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="173.8" y="219.8" font-size="15" fill="#10233f" font-style="italic" textLength="100.7" lengthAdjust="spacing">sub, lângă, spre</text>
+<text x="274.5" y="219.8" font-size="15" fill="#3a3226" textLength="82.0" lengthAdjust="spacing">), altele doar</text>
+<text x="360.5" y="219.8" font-size="15" fill="#3a3226" font-weight="700" textLength="37.8" lengthAdjust="spacing">leagă</text>
+<text x="402.4" y="219.8" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="406.9" y="219.8" font-size="15" fill="#10233f" font-style="italic" textLength="50.2" lengthAdjust="spacing">de, la, a</text>
+<text x="457.1" y="219.8" font-size="15" fill="#3a3226" textLength="175.9" lengthAdjust="spacing">); unele depind de context:</text>
+<text x="637.1" y="219.8" font-size="15" fill="#10233f" font-style="italic" textLength="20.4" lengthAdjust="spacing">Stă</text>
+<text x="661.6" y="219.8" font-size="15" fill="#3a3226" font-weight="700" textLength="17.4" lengthAdjust="spacing">pe</text>
+<text x="683.0" y="219.8" font-size="15" fill="#10233f" font-style="italic" textLength="40.8" lengthAdjust="spacing">scaun.</text>
+<text x="727.9" y="219.8" font-size="15" fill="#3a3226" textLength="5.8" lengthAdjust="spacing">/</text>
+<text x="737.8" y="219.8" font-size="15" fill="#10233f" font-style="italic" textLength="51.1" lengthAdjust="spacing">Îl aștept</text>
+<text x="793.0" y="219.8" font-size="15" fill="#3a3226" font-weight="700" textLength="17.4" lengthAdjust="spacing">pe</text>
+<text x="814.4" y="219.8" font-size="15" fill="#10233f" font-style="italic" textLength="14.6" lengthAdjust="spacing">el.</text>
+<rect x="40" y="262.4" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="285.4" font-size="16" font-weight="700" fill="#ffffff">2. LOCUȚIUNEA PREPOZIȚIONALĂ</text>
+<rect x="40" y="296.4" width="820" height="174.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="329.4" font-size="15" fill="#3a3226" textLength="299.3" lengthAdjust="spacing">Grup unitar care se comportă ca o prepoziție:</text>
+<text x="365.3" y="329.4" font-size="15" fill="#10233f" font-style="italic" textLength="467.7" lengthAdjust="spacing">față de, în loc de, în afara, cât despre, de-a curmezișul, în mijlocul, de jur</text>
+<text x="62.0" y="351.1" font-size="15" fill="#10233f" font-style="italic" textLength="149.4" lengthAdjust="spacing">împrejurul, de-a lungul</text>
+<text x="211.4" y="351.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="369.6" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="369.6" width="6" height="82.7" rx="3" fill="#b4432c"/><text x="84.0" y="396.1" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="415.0" font-size="14.5" fill="#3a3226" textLength="258.0" lengthAdjust="spacing">Nu sunt locuțiuni: grupurile cu adverbe (</text>
+<text x="342.0" y="415.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="211.0" lengthAdjust="spacing">aproape de, departe de, alături de</text>
+<text x="552.9" y="415.0" font-size="14.5" fill="#3a3226" textLength="254.9" lengthAdjust="spacing">) și îmbinările libere în care pot intercala</text>
+<text x="84.0" y="436.0" font-size="14.5" fill="#3a3226" textLength="77.7" lengthAdjust="spacing">un adjectiv (</text>
+<text x="161.7" y="436.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="317.1" lengthAdjust="spacing">cu scopul mărturisit, din punct de vedere economic</text>
+<text x="478.8" y="436.0" font-size="14.5" fill="#3a3226" textLength="7.5" lengthAdjust="spacing">).</text>
+<rect x="40" y="490.3" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="513.3" font-size="16" font-weight="700" fill="#ffffff">3. CE CAZ CER</text>
+<rect x="40" y="524.3" width="820" height="342.1" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="542.3" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="563.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="34.2" lengthAdjust="spacing">Cazul</text>
+<text x="213.7" y="563.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="133.9" lengthAdjust="spacing">Prepoziții și locuțiuni</text>
+<line x1="62.0" y1="573.9" x2="838.0" y2="573.9" stroke="#e3dccb"/>
+<text x="74.0" y="596.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="56.0" lengthAdjust="spacing">acuzativ</text>
+<text x="213.7" y="596.4" font-size="14.5" fill="#3a3226" textLength="75.8" lengthAdjust="spacing">majoritatea:</text>
+<text x="293.4" y="596.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="232.1" lengthAdjust="spacing">către, cu, din, de, după, în, la, pe, prin</text>
+<text x="525.6" y="596.4" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">;</text>
+<text x="532.7" y="596.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="178.1" lengthAdjust="spacing">față de, în loc de, în afară de</text>
+<line x1="62.0" y1="606.7" x2="838.0" y2="606.7" stroke="#e3dccb"/>
+<text x="74.0" y="629.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="47.3" lengthAdjust="spacing">genitiv</text>
+<text x="213.7" y="629.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="89.7" lengthAdjust="spacing">asupra, contra</text>
+<text x="303.4" y="629.2" font-size="14.5" fill="#3a3226" textLength="178.4" lengthAdjust="spacing">; cele din adverbe articulate:</text>
+<text x="485.7" y="629.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="255.9" lengthAdjust="spacing">deasupra, dedesubtul, înaintea, înăuntrul</text>
+<text x="741.6" y="629.2" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">;</text>
+<text x="748.7" y="629.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="59.5" lengthAdjust="spacing">în fața, în</text>
+<text x="213.7" y="650.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="299.4" lengthAdjust="spacing">spatele, în mijlocul, în urma, în jurul, în preajma</text>
+<line x1="62.0" y1="660.6" x2="838.0" y2="660.6" stroke="#e3dccb"/>
+<text x="74.0" y="683.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="34.4" lengthAdjust="spacing">dativ</text>
+<text x="213.7" y="683.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="166.0" lengthAdjust="spacing">datorită, mulțumită, grație</text>
+<line x1="62.0" y1="693.5" x2="838.0" y2="693.5" stroke="#e3dccb"/>
+<line x1="201.7" y1="542.3" x2="201.7" y2="693.5" stroke="#e3dccb"/>
+<text x="62.0" y="722.5" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="722.5" font-size="15" fill="#10233f" font-style="italic" textLength="291.0" lengthAdjust="spacing">asemenea, aidoma, conform, contrar, potrivit</text>
+<text x="369.2" y="722.5" font-size="15" fill="#3a3226" textLength="28.5" lengthAdjust="spacing">sunt</text>
+<text x="401.8" y="722.5" font-size="15" fill="#3a3226" font-weight="700" textLength="57.0" lengthAdjust="spacing">adverbe</text>
+<text x="458.8" y="722.5" font-size="15" fill="#3a3226" textLength="94.0" lengthAdjust="spacing">, nu prepoziții.</text>
+<text x="62.0" y="747.2" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="747.2" font-size="15" fill="#3a3226" textLength="285.6" lengthAdjust="spacing">În enumerare, după o prepoziție de genitiv,</text>
+<text x="363.8" y="747.2" font-size="15" fill="#3a3226" font-weight="700" textLength="123.5" lengthAdjust="spacing">articolul genitival</text>
+<text x="491.3" y="747.2" font-size="15" fill="#3a3226" textLength="45.7" lengthAdjust="spacing">se reia:</text>
+<text x="541.1" y="747.2" font-size="15" fill="#10233f" font-style="italic" textLength="95.1" lengthAdjust="spacing">asupra satelor,</text>
+<text x="640.3" y="747.2" font-size="15" fill="#3a3226" font-weight="700" textLength="8.1" lengthAdjust="spacing">a</text>
+<text x="652.4" y="747.2" font-size="15" fill="#10233f" font-style="italic" textLength="55.6" lengthAdjust="spacing">orașelor,</text>
+<text x="712.1" y="747.2" font-size="15" fill="#3a3226" font-weight="700" textLength="8.1" lengthAdjust="spacing">a</text>
+<text x="724.2" y="747.2" font-size="15" fill="#10233f" font-style="italic" textLength="60.9" lengthAdjust="spacing">câmpiilor</text>
+<text x="785.1" y="747.2" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="765.7" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="792.2" font-size="14.5" fill="#10233f" font-weight="700" textLength="45.5" lengthAdjust="spacing">„Ca și”</text>
+<text x="78.0" y="811.1" font-size="14.5" fill="#3a3226" textLength="63.2" lengthAdjust="spacing">Nu adaug</text>
+<text x="145.1" y="811.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="9.6" lengthAdjust="spacing">și</text>
+<text x="158.6" y="811.1" font-size="14.5" fill="#3a3226" textLength="32.8" lengthAdjust="spacing">după</text>
+<text x="195.3" y="811.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="14.2" lengthAdjust="spacing">ca</text>
+<text x="213.4" y="811.1" font-size="14.5" fill="#3a3226" textLength="159.9" lengthAdjust="spacing">ca să evit o cacofonie: nu</text>
+<text x="377.3" y="811.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="64.5" lengthAdjust="spacing">ca și coleg</text>
+<text x="441.8" y="811.1" font-size="14.5" fill="#3a3226" textLength="17.3" lengthAdjust="spacing">, ci</text>
+<text x="463.0" y="811.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="87.7" lengthAdjust="spacing">în calitate de</text>
+<text x="554.6" y="811.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="32.9" lengthAdjust="spacing">coleg</text>
+<text x="591.4" y="811.1" font-size="14.5" fill="#3a3226" textLength="21.8" lengthAdjust="spacing">sau</text>
+<text x="617.1" y="811.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="14.8" lengthAdjust="spacing">ca</text>
+<text x="635.8" y="811.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="43.8" lengthAdjust="spacing">prieten</text>
+<text x="679.6" y="811.1" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="686.7" y="811.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="30.6" lengthAdjust="spacing">Ca și</text>
+<text x="721.2" y="811.1" font-size="14.5" fill="#3a3226" textLength="99.2" lengthAdjust="spacing">e corect doar la</text>
+<text x="78.0" y="832.1" font-size="14.5" fill="#3a3226" textLength="165.6" lengthAdjust="spacing">comparativul de egalitate:</text>
+<text x="247.5" y="832.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="143.4" lengthAdjust="spacing">la fel de înalt ca și Dan</text>
+<text x="390.9" y="832.1" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="269.3" y="897.9" font-size="11.5" fill="#5b6b83" textLength="361.4" lengthAdjust="spacing">Sursa: Manual Art 7, pp. 110-111, rubricile Repere și nota despre „ca și”.</text>
 </svg>
