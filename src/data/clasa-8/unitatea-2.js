@@ -768,7 +768,7 @@ export const unitatea2 = {
         ],
         resurse: [
           'Manual Art 8, pp. 74-75',
-          'Schema „Construcțiile active și pasive” (/materiale/clasa-8/unitatea-2/lectia-9/schema.svg)',
+          'Schema „Construcții active. Construcții pasive cu verbul a fi” (/materiale/clasa-8/unitatea-2/lectia-9/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -905,7 +905,7 @@ export const unitatea2 = {
           ],
         },
         infografic: null,
-        schema: { fisier: '/materiale/clasa-8/unitatea-2/lectia-9/schema.svg', titlu: 'Construcțiile active și pasive' },
+        schema: { fisier: '/materiale/clasa-8/unitatea-2/lectia-9/schema.svg', titlu: 'Construcții active. Construcții pasive cu verbul a fi' },
         altele: [],
       },
     },
@@ -927,7 +927,7 @@ export const unitatea2 = {
         ],
         resurse: [
           'Manual Art 8, pp. 76-77',
-          'Schema „Predicatul” (/materiale/clasa-8/unitatea-2/lectia-10/schema.svg)',
+          'Schema „Predicatul (actualizare)” (/materiale/clasa-8/unitatea-2/lectia-10/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -1064,7 +1064,7 @@ export const unitatea2 = {
           ],
         },
         infografic: null,
-        schema: { fisier: '/materiale/clasa-8/unitatea-2/lectia-10/schema.svg', titlu: 'Predicatul' },
+        schema: { fisier: '/materiale/clasa-8/unitatea-2/lectia-10/schema.svg', titlu: 'Predicatul (actualizare)' },
         altele: [],
       },
     },
@@ -1404,7 +1404,7 @@ export const unitatea2 = {
         ],
         resurse: [
           'Manual Art 8, pp. 82-83',
-          'Schema „Subiectul” (/materiale/clasa-8/unitatea-2/lectia-13/schema.svg)',
+          'Schema „Subiectul (actualizare)” (/materiale/clasa-8/unitatea-2/lectia-13/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -1541,7 +1541,7 @@ export const unitatea2 = {
           ],
         },
         infografic: null,
-        schema: { fisier: '/materiale/clasa-8/unitatea-2/lectia-13/schema.svg', titlu: 'Subiectul' },
+        schema: { fisier: '/materiale/clasa-8/unitatea-2/lectia-13/schema.svg', titlu: 'Subiectul (actualizare)' },
         altele: [],
       },
     },

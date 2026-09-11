@@ -1,19 +1,110 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="400" fill="#faf7f0"/>
-  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Predicatul</text>
-  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II · lecția 10 · actualizare · componentul central al propoziției</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1123" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1123" fill="#faf7f0"/>
+<text x="298.2" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="303.8" lengthAdjust="spacing">Predicatul (actualizare)</text>
+<text x="206.8" y="74.4" font-size="14" fill="#5b6b83" textLength="486.4" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a II-a, Lecția 10 · Manual, pp. 76-77 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CELE DOUĂ FELURI DE PREDICAT</text>
+<rect x="40" y="128.6" width="820" height="253.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="146.6" width="380.0" height="184.4" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="174.6" font-size="16" fill="#0d9c92" font-weight="700" textLength="127.4" lengthAdjust="spacing">predicatul verbal</text>
+<text x="78.0" y="197.9" font-size="14.5" fill="#3a3226" textLength="32.2" lengthAdjust="spacing">arată</text>
+<text x="114.1" y="197.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="47.0" lengthAdjust="spacing">ce face</text>
+<text x="165.0" y="197.9" font-size="14.5" fill="#3a3226" textLength="57.3" lengthAdjust="spacing">subiectul</text>
+<text x="78.0" y="221.8" font-size="14.5" fill="#3a3226" textLength="225.5" lengthAdjust="spacing">verb predicativ la un mod personal:</text>
+<text x="307.4" y="221.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="78.2" lengthAdjust="spacing">Copiii cântă.</text>
+<text x="78.0" y="245.8" font-size="14.5" fill="#3a3226" textLength="146.4" lengthAdjust="spacing">și în construcția pasivă:</text>
+<text x="228.4" y="245.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="146.6" lengthAdjust="spacing">Echipa a fost ajutată de</text>
+<text x="78.0" y="266.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="59.3" lengthAdjust="spacing">voluntari.</text>
+<text x="78.0" y="290.7" font-size="14.5" fill="#3a3226" textLength="113.0" lengthAdjust="spacing">locuțiune verbală:</text>
+<text x="194.9" y="290.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="139.2" lengthAdjust="spacing">și-a luat inima în dinți</text>
+<text x="78.0" y="314.6" font-size="14.5" fill="#3a3226" textLength="140.1" lengthAdjust="spacing">interjecție predicativă:</text>
+<text x="222.0" y="314.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="135.7" lengthAdjust="spacing">Uite că nu mai plouă!</text>
+<rect x="458.0" y="146.6" width="380.0" height="184.4" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="174.6" font-size="16" fill="#6f5ea8" font-weight="700" textLength="142.2" lengthAdjust="spacing">predicatul nominal</text>
+<text x="474.0" y="197.9" font-size="14.5" fill="#3a3226" textLength="44.7" lengthAdjust="spacing">arată o</text>
+<text x="522.6" y="197.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="49.9" lengthAdjust="spacing">calitate</text>
+<text x="576.4" y="197.9" font-size="14.5" fill="#3a3226" textLength="34.2" lengthAdjust="spacing">sau o</text>
+<text x="614.5" y="197.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="89.6" lengthAdjust="spacing">caracteristică</text>
+<text x="708.0" y="197.9" font-size="14.5" fill="#3a3226" textLength="80.3" lengthAdjust="spacing">a subiectului</text>
+<text x="474.0" y="221.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="226.9" lengthAdjust="spacing">verb copulativ + nume predicativ</text>
+<text x="474.0" y="245.8" font-size="14.5" fill="#3a3226" textLength="69.0" lengthAdjust="spacing">copulative:</text>
+<text x="546.9" y="245.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="256.4" lengthAdjust="spacing">a fi, a deveni, a ajunge, a ieși, a se face, a</text>
+<text x="474.0" y="266.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="175.3" lengthAdjust="spacing">rămâne, a însemna, a părea</text>
+<text x="62.0" y="360.0" font-size="15" fill="#3a3226" textLength="175.3" lengthAdjust="spacing">Numele predicativ poate fi</text>
+<text x="241.4" y="360.0" font-size="15" fill="#3a3226" font-weight="700" textLength="47.2" lengthAdjust="spacing">simplu</text>
+<text x="292.7" y="360.0" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="297.2" y="360.0" font-size="15" fill="#10233f" font-style="italic" textLength="105.6" lengthAdjust="spacing">Cerul este senin.</text>
+<text x="402.8" y="360.0" font-size="15" fill="#3a3226" textLength="31.1" lengthAdjust="spacing">) sau</text>
+<text x="437.9" y="360.0" font-size="15" fill="#3a3226" font-weight="700" textLength="59.9" lengthAdjust="spacing">multiplu</text>
+<text x="501.8" y="360.0" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="506.3" y="360.0" font-size="15" fill="#10233f" font-style="italic" textLength="218.8" lengthAdjust="spacing">Ana este simpatică și prietenoasă.</text>
+<text x="725.1" y="360.0" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">).</text>
+<rect x="40" y="402.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="425.5" font-size="16" font-weight="700" fill="#ffffff">2. PRIN CE SE EXPRIMĂ NUMELE PREDICATIV</text>
+<rect x="40" y="436.5" width="820" height="318.5" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="454.5" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="476.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="109.8" lengthAdjust="spacing">Partea de vorbire</text>
+<text x="423.2" y="476.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="486.0" x2="838.0" y2="486.0" stroke="#e3dccb"/>
+<text x="74.0" y="508.5" font-size="14.5" fill="#3a3226" textLength="260.7" lengthAdjust="spacing">substantiv în N / Ac. cu prepoziție / G. cu</text>
+<text x="74.0" y="529.6" font-size="14.5" fill="#3a3226" textLength="64.2" lengthAdjust="spacing">prepoziție</text>
+<text x="423.2" y="508.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="390.3" lengthAdjust="spacing">Ionel este fiul lui Take. Rochia ei este de mătase. Ei sunt contra</text>
+<text x="423.2" y="529.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="89.3" lengthAdjust="spacing">prejudecăților.</text>
+<line x1="62.0" y1="539.9" x2="838.0" y2="539.9" stroke="#e3dccb"/>
+<text x="74.0" y="562.4" font-size="14.5" fill="#3a3226" textLength="146.6" lengthAdjust="spacing">locuțiune substantivală</text>
+<text x="423.2" y="562.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="185.9" lengthAdjust="spacing">Gestul lui este o bătaie de joc.</text>
+<line x1="62.0" y1="572.8" x2="838.0" y2="572.8" stroke="#e3dccb"/>
+<text x="74.0" y="595.2" font-size="14.5" fill="#3a3226" textLength="58.7" lengthAdjust="spacing">pronume</text>
+<text x="423.2" y="595.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="370.3" lengthAdjust="spacing">Adevărul este altul. Cine este autorul? Florile sunt de la noi.</text>
+<line x1="62.0" y1="605.6" x2="838.0" y2="605.6" stroke="#e3dccb"/>
+<text x="74.0" y="628.1" font-size="14.5" fill="#3a3226" textLength="159.2" lengthAdjust="spacing">adjectiv (și din participiu)</text>
+<text x="423.2" y="628.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="297.5" lengthAdjust="spacing">Amintirile ei păreau triste. Câmpul este înverzit.</text>
+<line x1="62.0" y1="638.5" x2="838.0" y2="638.5" stroke="#e3dccb"/>
+<text x="74.0" y="661.0" font-size="14.5" fill="#3a3226" textLength="207.0" lengthAdjust="spacing">numeral cu valoare pronominală</text>
+<text x="423.2" y="661.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="182.1" lengthAdjust="spacing">Ei sunt doi. Ana a ieșit prima.</text>
+<line x1="62.0" y1="671.3" x2="838.0" y2="671.3" stroke="#e3dccb"/>
+<text x="74.0" y="693.8" font-size="14.5" fill="#3a3226" textLength="141.8" lengthAdjust="spacing">verb la infinitiv / supin</text>
+<text x="423.2" y="693.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="351.0" lengthAdjust="spacing">Visul lui este de a primi rolul. Voința lui este de admirat.</text>
+<line x1="62.0" y1="704.1" x2="838.0" y2="704.1" stroke="#e3dccb"/>
+<text x="74.0" y="726.6" font-size="14.5" fill="#3a3226" textLength="97.6" lengthAdjust="spacing">adverb de mod</text>
+<text x="423.2" y="726.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="131.2" lengthAdjust="spacing">Caietul lui este altfel.</text>
+<line x1="62.0" y1="737.0" x2="838.0" y2="737.0" stroke="#e3dccb"/>
+<line x1="411.2" y1="454.5" x2="411.2" y2="737.0" stroke="#e3dccb"/>
+<rect x="40" y="775.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="798.0" font-size="16" font-weight="700" fill="#ffffff">3. CAPCANA: PASIV SAU NOMINAL?</text>
+<rect x="40" y="809.0" width="820" height="262.8" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="827.0" width="776.0" height="31.6" fill="#efeaf8"/>
 
-  <rect x="55" y="80" width="390" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Predicatul verbal</text>
-  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="126">arată ce face subiectul; se exprimă prin:</tspan><tspan x="75" y="148">• verb predicativ cu categoria modului</tspan><tspan x="75" y="166">  (inclusiv în construcție pasivă cu a fi)</tspan><tspan x="75" y="184">• locuțiune verbală</tspan><tspan x="75" y="202">  (și-a luat inima în dinți)</tspan><tspan x="75" y="220">• interjecție predicativă (Uite că plouă!)</tspan></text>
-
-  <rect x="465" y="80" width="380" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="485" y="104" font-size="13" font-weight="700" fill="#10233f">Predicatul nominal</text>
-  <text font-size="11.5" fill="#3a3226"><tspan x="485" y="126">arată o calitate a subiectului</tspan><tspan x="485" y="148">verb copulativ + nume predicativ</tspan><tspan x="485" y="170">copulative: a fi, a deveni, a ajunge, a ieși,</tspan><tspan x="485" y="188">a se face, a rămâne, a însemna, a părea</tspan><tspan x="485" y="210">numele predicativ: simplu / multiplu;</tspan><tspan x="485" y="228">substantiv, pronume, adjectiv, numeral…</tspan></text>
-
-  <rect x="55" y="244" width="790" height="94" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="75" y="268" font-size="12.5" font-weight="700" fill="#10233f">Atenție la confuzie</text>
-  <text font-size="11" fill="#3a3226"><tspan x="75" y="290">„Bicicleta este stricată (de către băiat).” — permite complement de agent → predicat verbal (pasiv)</tspan><tspan x="75" y="310">„Florile sunt îmbobocite.” — nu permite complement de agent → predicat nominal (a fi + adjectiv din participiu)</tspan></text>
-
-  <text x="450" y="378" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 76-77</text>
+<text x="244.7" y="848.5" font-size="13.5" fill="#10233f" font-weight="700" textLength="141.7" lengthAdjust="spacing">Predicat verbal (pasiv)</text>
+<text x="547.4" y="848.5" font-size="13.5" fill="#10233f" font-weight="700" textLength="107.9" lengthAdjust="spacing">Predicat nominal</text>
+<line x1="62.0" y1="858.5" x2="838.0" y2="858.5" stroke="#e3dccb"/>
+<text x="74.0" y="881.0" font-size="14.5" fill="#3a3226" textLength="54.5" lengthAdjust="spacing">exemplu</text>
+<text x="244.7" y="881.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="229.8" lengthAdjust="spacing">Bicicleta este stricată în mod repetat.</text>
+<text x="547.4" y="881.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="145.7" lengthAdjust="spacing">Florile sunt îmbobocite.</text>
+<line x1="62.0" y1="891.4" x2="838.0" y2="891.4" stroke="#e3dccb"/>
+<text x="74.0" y="913.9" font-size="14.5" fill="#3a3226" textLength="35.2" lengthAdjust="spacing">testul</text>
+<text x="244.7" y="913.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="52.1" lengthAdjust="spacing">acceptă</text>
+<text x="300.7" y="913.9" font-size="14.5" fill="#3a3226" textLength="144.3" lengthAdjust="spacing">complement de agent:</text>
+<text x="448.9" y="913.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="50.0" lengthAdjust="spacing">de către</text>
+<text x="244.7" y="934.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="31.9" lengthAdjust="spacing">băiat</text>
+<text x="547.4" y="913.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="73.8" lengthAdjust="spacing">nu acceptă</text>
+<text x="625.1" y="913.9" font-size="14.5" fill="#3a3226" textLength="141.1" lengthAdjust="spacing">complement de agent</text>
+<line x1="62.0" y1="945.3" x2="838.0" y2="945.3" stroke="#e3dccb"/>
+<text x="74.0" y="967.8" font-size="14.5" fill="#3a3226" textLength="54.2" lengthAdjust="spacing">alcătuire</text>
+<text x="244.7" y="967.8" font-size="14.5" fill="#3a3226" textLength="57.0" lengthAdjust="spacing">auxiliarul</text>
+<text x="305.6" y="967.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="19.9" lengthAdjust="spacing">a fi</text>
+<text x="329.4" y="967.8" font-size="14.5" fill="#3a3226" textLength="132.7" lengthAdjust="spacing">+ participiul verbului</text>
+<text x="547.4" y="967.8" font-size="14.5" fill="#3a3226" textLength="70.0" lengthAdjust="spacing">copulativul</text>
+<text x="621.3" y="967.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="19.9" lengthAdjust="spacing">a fi</text>
+<text x="645.1" y="967.8" font-size="14.5" fill="#3a3226" textLength="150.8" lengthAdjust="spacing">+ adjectiv din participiu</text>
+<line x1="62.0" y1="978.1" x2="838.0" y2="978.1" stroke="#e3dccb"/>
+<line x1="232.7" y1="827.0" x2="232.7" y2="978.1" stroke="#e3dccb"/>
+<line x1="535.4" y1="827.0" x2="535.4" y2="978.1" stroke="#e3dccb"/>
+<rect x="62.0" y="992.1" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="992.1" width="6" height="61.7" rx="3" fill="#b4432c"/><text x="84.0" y="1018.6" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="1037.5" font-size="14.5" fill="#3a3226" textLength="202.7" lengthAdjust="spacing">Încerc mereu testul: pot adăuga</text>
+<text x="290.6" y="1037.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="116.6" lengthAdjust="spacing">„de către cineva”</text>
+<text x="407.2" y="1037.5" font-size="14.5" fill="#3a3226" textLength="76.6" lengthAdjust="spacing">? Dacă da, e</text>
+<text x="487.7" y="1037.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="102.5" lengthAdjust="spacing">predicat verbal</text>
+<text x="594.1" y="1037.5" font-size="14.5" fill="#3a3226" textLength="133.1" lengthAdjust="spacing">în construcție pasivă.</text>
+<text x="256.9" y="1103.3" font-size="11.5" fill="#5b6b83" textLength="386.3" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 76-77, rubricile Repere și tabelul numelui predicativ.</text>
 </svg>

@@ -1,16 +1,92 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="400" fill="#faf7f0"/>
-  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Construcțiile impersonale</text>
-  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II · lecția 12 · organizate în jurul unor verbe a căror acțiune nu e făcută de o persoană</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 970" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="970" fill="#faf7f0"/>
+<text x="282.3" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="335.7" lengthAdjust="spacing">Construcțiile impersonale</text>
+<text x="206.8" y="74.4" font-size="14" fill="#5b6b83" textLength="486.4" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a II-a, Lecția 12 · Manual, pp. 80-81 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE SUNT</text>
+<rect x="40" y="128.6" width="820" height="80.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="154.4" lengthAdjust="spacing">Verbele impersonale</text>
+<text x="220.7" y="162.6" font-size="16" fill="#10233f" textLength="141.4" lengthAdjust="spacing">exprimă acțiuni care</text>
+<text x="366.5" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="218.9" lengthAdjust="spacing">nu sunt făcute de o persoană</text>
+<text x="585.3" y="162.6" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<text x="593.2" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="191.8" lengthAdjust="spacing">Construcțiile impersonale</text>
+<text x="789.3" y="162.6" font-size="16" fill="#10233f" textLength="15.0" lengthAdjust="spacing">se</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" textLength="164.5" lengthAdjust="spacing">organizează în jurul lor.</text>
+<rect x="40" y="228.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="251.6" font-size="16" font-weight="700" fill="#ffffff">2. ÎNTOTDEAUNA IMPERSONALE</text>
+<rect x="40" y="262.6" width="820" height="339.5" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="280.6" width="776.0" height="31.6" fill="#efeaf8"/>
 
-  <rect x="55" y="80" width="390" height="176" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
-  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Întotdeauna impersonale</text>
-  <text font-size="11" fill="#3a3226"><tspan x="75" y="126">fără subiect:</tspan><tspan x="75" y="144">• fenomene ale naturii (tună, plouă, se înserează)</tspan><tspan x="75" y="162">• referire la persoană prin complement direct</tspan><tspan x="75" y="178">  (Mă ustură în gât.) sau indirect (Îmi pasă.)</tspan><tspan x="75" y="196">• denumirea unei persoane (Mă cheamă Matei.)</tspan><tspan x="75" y="218">cu subiect:</tspan><tspan x="75" y="236">• a fi + adverb (Este bine a face sport.), a fi cu</tspan><tspan x="75" y="252">  sens existențial (E noapte.), subiect nonuman</tspan></text>
+<text x="198.2" y="302.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="48.5" lengthAdjust="spacing">Situația</text>
+<text x="586.2" y="302.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="312.2" x2="838.0" y2="312.2" stroke="#e3dccb"/>
+<text x="74.0" y="334.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="79.8" lengthAdjust="spacing">fără subiect</text>
+<text x="198.2" y="334.7" font-size="14.5" fill="#3a3226" textLength="131.8" lengthAdjust="spacing">fenomene ale naturii</text>
+<text x="586.2" y="334.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="228.5" lengthAdjust="spacing">tună, plouă, burnițează, se înserează</text>
+<line x1="62.0" y1="345.0" x2="838.0" y2="345.0" stroke="#e3dccb"/>
 
-  <rect x="465" y="80" width="380" height="176" rx="14" fill="none" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="485" y="104" font-size="13" font-weight="700" fill="#10233f">Devin impersonale în context</text>
-  <text font-size="11" fill="#3a3226"><tspan x="485" y="128">• adăugarea cliticului reflexiv „se” unui verb</tspan><tspan x="485" y="146">  dintr-o construcție activă (Se aleargă în parc.)</tspan><tspan x="485" y="168">• „se” + verb activ → construcție</tspan><tspan x="485" y="186">  impersonală reflexiv-pasivă</tspan><tspan x="485" y="204">  (El știe rezultatul. → Se știe rezultatul.)</tspan><tspan x="485" y="226">• verbul auxiliar a fi, specific pasivului</tspan><tspan x="485" y="244">  (Este știut rezultatul.)</tspan></text>
+<text x="198.2" y="367.5" font-size="14.5" fill="#3a3226" textLength="116.7" lengthAdjust="spacing">persoana apare ca</text>
+<text x="318.8" y="367.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="129.1" lengthAdjust="spacing">complement direct</text>
+<text x="586.2" y="367.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="106.6" lengthAdjust="spacing">Mă ustură în gât.</text>
+<line x1="62.0" y1="377.9" x2="838.0" y2="377.9" stroke="#e3dccb"/>
 
-  <text x="450" y="300" text-anchor="middle" font-size="12" fill="#3a3226">Construcțiile impersonale nu au un subiect care să denumească o persoană.</text>
-  <text x="450" y="378" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 80-81</text>
+<text x="198.2" y="400.4" font-size="14.5" fill="#3a3226" textLength="116.7" lengthAdjust="spacing">persoana apare ca</text>
+<text x="318.8" y="400.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="142.0" lengthAdjust="spacing">complement indirect</text>
+<text x="586.2" y="400.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="134.3" lengthAdjust="spacing">Îmi pasă de rezultate.</text>
+<line x1="62.0" y1="410.7" x2="838.0" y2="410.7" stroke="#e3dccb"/>
+
+<text x="198.2" y="433.2" font-size="14.5" fill="#3a3226" textLength="163.0" lengthAdjust="spacing">denumirea unei persoane</text>
+<text x="586.2" y="433.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="115.7" lengthAdjust="spacing">Mă cheamă Matei.</text>
+<line x1="62.0" y1="443.6" x2="838.0" y2="443.6" stroke="#e3dccb"/>
+<text x="74.0" y="466.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="68.6" lengthAdjust="spacing">cu subiect</text>
+<text x="198.2" y="466.1" font-size="14.5" fill="#3a3226" textLength="70.0" lengthAdjust="spacing">copulativul</text>
+<text x="272.1" y="466.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="19.9" lengthAdjust="spacing">a fi</text>
+<text x="295.9" y="466.1" font-size="14.5" fill="#3a3226" textLength="229.2" lengthAdjust="spacing">+ adverb; subiectul, după verb, e un</text>
+<text x="198.2" y="487.1" font-size="14.5" fill="#3a3226" textLength="46.8" lengthAdjust="spacing">infinitiv</text>
+<text x="586.2" y="466.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="135.3" lengthAdjust="spacing">Este bine a face sport.</text>
+<line x1="62.0" y1="497.4" x2="838.0" y2="497.4" stroke="#e3dccb"/>
+
+<text x="198.2" y="519.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="19.9" lengthAdjust="spacing">a fi</text>
+<text x="221.9" y="519.9" font-size="14.5" fill="#3a3226" textLength="298.7" lengthAdjust="spacing">+ stări fiziologice sau sufletești; sens existențial</text>
+<text x="586.2" y="519.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="118.2" lengthAdjust="spacing">Mi-e dor. E noapte.</text>
+<line x1="62.0" y1="530.3" x2="838.0" y2="530.3" stroke="#e3dccb"/>
+
+<text x="198.2" y="552.8" font-size="14.5" fill="#3a3226" textLength="169.4" lengthAdjust="spacing">verbe cu subiect nonuman</text>
+<text x="586.2" y="552.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="214.2" lengthAdjust="spacing">Îmi place literatura. Îmi trebuie un</text>
+<text x="586.2" y="573.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="60.9" lengthAdjust="spacing">caiet nou.</text>
+<line x1="62.0" y1="584.1" x2="838.0" y2="584.1" stroke="#e3dccb"/>
+<line x1="186.2" y1="280.6" x2="186.2" y2="584.1" stroke="#e3dccb"/>
+<line x1="574.2" y1="280.6" x2="574.2" y2="584.1" stroke="#e3dccb"/>
+<rect x="40" y="622.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="645.1" font-size="16" font-weight="700" fill="#ffffff">3. DEVIN IMPERSONALE ÎN CONTEXT</text>
+<rect x="40" y="656.1" width="820" height="262.8" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="674.1" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="695.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="29.0" lengthAdjust="spacing">Cum</text>
+<text x="462.0" y="695.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="705.7" x2="838.0" y2="705.7" stroke="#e3dccb"/>
+<text x="74.0" y="728.2" font-size="14.5" fill="#3a3226" textLength="40.2" lengthAdjust="spacing">adaug</text>
+<text x="118.1" y="728.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="12.9" lengthAdjust="spacing">se</text>
+<text x="134.9" y="728.2" font-size="14.5" fill="#3a3226" textLength="224.0" lengthAdjust="spacing">unui verb dintr-o construcție activă</text>
+<text x="462.0" y="728.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="115.9" lengthAdjust="spacing">Se aleargă în parc.</text>
+<line x1="62.0" y1="738.5" x2="838.0" y2="738.5" stroke="#e3dccb"/>
+<text x="74.0" y="761.0" font-size="14.5" fill="#3a3226" textLength="40.2" lengthAdjust="spacing">adaug</text>
+<text x="118.1" y="761.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="12.9" lengthAdjust="spacing">se</text>
+<text x="134.9" y="761.0" font-size="14.5" fill="#3a3226" textLength="216.3" lengthAdjust="spacing">și obțin o construcție impersonală</text>
+<text x="74.0" y="782.1" font-size="14.5" fill="#3a3226" textLength="90.9" lengthAdjust="spacing">reflexiv-pasivă</text>
+<text x="462.0" y="761.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="229.8" lengthAdjust="spacing">El știe rezultatul. → Se știe rezultatul.</text>
+<line x1="62.0" y1="792.4" x2="838.0" y2="792.4" stroke="#e3dccb"/>
+<text x="74.0" y="814.9" font-size="14.5" fill="#3a3226" textLength="148.8" lengthAdjust="spacing">folosesc auxiliarul pasiv</text>
+<text x="226.7" y="814.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="19.9" lengthAdjust="spacing">a fi</text>
+<text x="462.0" y="814.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="245.9" lengthAdjust="spacing">El știe rezultatul. → Este știut rezultatul.</text>
+<line x1="62.0" y1="825.3" x2="838.0" y2="825.3" stroke="#e3dccb"/>
+<line x1="450.0" y1="674.1" x2="450.0" y2="825.3" stroke="#e3dccb"/>
+<rect x="62.0" y="839.3" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="839.3" width="6" height="61.7" rx="3" fill="#b4432c"/><text x="84.0" y="865.8" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="884.6" font-size="14.5" fill="#3a3226" textLength="12.2" lengthAdjust="spacing">În</text>
+<text x="100.1" y="884.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="102.2" lengthAdjust="spacing">Îmi place teatrul</text>
+<text x="202.3" y="884.6" font-size="14.5" fill="#3a3226" textLength="107.6" lengthAdjust="spacing">, subiectul există:</text>
+<text x="313.8" y="884.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="45.7" lengthAdjust="spacing">teatrul</text>
+<text x="359.5" y="884.6" font-size="14.5" fill="#3a3226" textLength="73.8" lengthAdjust="spacing">. Persoana (</text>
+<text x="433.3" y="884.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="20.0" lengthAdjust="spacing">îmi</text>
+<text x="453.3" y="884.6" font-size="14.5" fill="#3a3226" textLength="190.5" lengthAdjust="spacing">) nu e subiect, ci complement.</text>
+<text x="332.4" y="950.5" font-size="11.5" fill="#5b6b83" textLength="235.3" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 80-81, rubrica Repere.</text>
 </svg>

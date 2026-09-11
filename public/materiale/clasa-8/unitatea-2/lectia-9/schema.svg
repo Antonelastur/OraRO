@@ -1,19 +1,121 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="400" fill="#faf7f0"/>
-  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Construcțiile active. Construcțiile pasive cu verbul a fi</text>
-  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II · lecția 9</text>
-
-  <rect x="55" y="80" width="390" height="120" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Construcția activă</text>
-  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="128">subiectul este autorul acțiunii exercitate</tspan><tspan x="75" y="146">asupra unui obiect</tspan><tspan x="75" y="172" font-style="italic">Andrei scrie o compunere.</tspan></text>
-
-  <rect x="465" y="80" width="380" height="120" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="485" y="104" font-size="13" font-weight="700" fill="#10233f">Construcția pasivă</text>
-  <text font-size="11.5" fill="#3a3226"><tspan x="485" y="128">subiectul suportă acțiunea făcută de</tspan><tspan x="485" y="146">autorul ei</tspan><tspan x="485" y="172" font-style="italic">Compunerea este scrisă de (către) Andrei.</tspan></text>
-
-  <rect x="55" y="216" width="790" height="130" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="75" y="240" font-size="13" font-weight="700" fill="#10233f">Alcătuirea construcției pasive</text>
-  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="264">subiect (exprimat sau neexprimat) + formă verbală pasivă + complement de agent</tspan><tspan x="75" y="286">forma verbală pasivă = verbul auxiliar a fi + participiul verbului, acordat cu subiectul în gen și număr</tspan><tspan x="75" y="308">complementul de agent (autorul acțiunii) se exprimă printr-un substantiv, pronume sau numeral în acuzativ,</tspan><tspan x="75" y="326">precedat de prepoziția de către sau de; poate fi exprimat sau neexprimat</tspan></text>
-
-  <text x="450" y="378" text-anchor="middle" font-size="11" fill="#5b6b83">O construcție activă cu complement direct se poate transforma în pasivă. Sursă: Art 8, pp. 74-75</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1124" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1124" fill="#faf7f0"/>
+<text x="122.5" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="656.9" lengthAdjust="spacing">Construcții active. Construcții pasive cu verbul a fi</text>
+<text x="210.6" y="74.4" font-size="14" fill="#5b6b83" textLength="478.8" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a II-a, Lecția 9 · Manual, pp. 74-75 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. ACTIV SAU PASIV</text>
+<rect x="40" y="128.6" width="820" height="151.5" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="146.6" width="380.0" height="115.5" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="174.6" font-size="16" fill="#0d9c92" font-weight="700" textLength="132.5" lengthAdjust="spacing">construcția activă</text>
+<text x="78.0" y="197.9" font-size="14.5" fill="#3a3226" textLength="87.3" lengthAdjust="spacing">subiectul este</text>
+<text x="169.2" y="197.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="104.3" lengthAdjust="spacing">autorul acțiunii</text>
+<text x="78.0" y="221.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="162.4" lengthAdjust="spacing">Andrei scrie o compunere.</text>
+<text x="78.0" y="245.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="114.3" lengthAdjust="spacing">El a recitat poezia.</text>
+<rect x="458.0" y="146.6" width="380.0" height="115.5" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="174.6" font-size="16" fill="#6f5ea8" font-weight="700" textLength="135.5" lengthAdjust="spacing">construcția pasivă</text>
+<text x="474.0" y="197.9" font-size="14.5" fill="#3a3226" textLength="57.3" lengthAdjust="spacing">subiectul</text>
+<text x="535.2" y="197.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="114.3" lengthAdjust="spacing">suportă acțiunea</text>
+<text x="653.4" y="197.9" font-size="14.5" fill="#3a3226" textLength="119.2" lengthAdjust="spacing">făcută de altcineva</text>
+<text x="474.0" y="221.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="215.3" lengthAdjust="spacing">Compunerea este scrisă de Andrei.</text>
+<text x="474.0" y="245.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="167.9" lengthAdjust="spacing">Poezia a fost recitată de el.</text>
+<rect x="40" y="300.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="323.1" font-size="16" font-weight="700" fill="#ffffff">2. CONSTRUCȚIA PASIVĂ</text>
+<rect x="40" y="334.1" width="820" height="202.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="367.1" font-size="15" fill="#3a3226" textLength="47.2" lengthAdjust="spacing">Are: un</text>
+<text x="113.3" y="367.1" font-size="15" fill="#3a3226" font-weight="700" textLength="50.4" lengthAdjust="spacing">subiect</text>
+<text x="167.7" y="367.1" font-size="15" fill="#3a3226" textLength="199.2" lengthAdjust="spacing">(exprimat sau neexprimat) + o</text>
+<text x="371.0" y="367.1" font-size="15" fill="#3a3226" font-weight="700" textLength="147.4" lengthAdjust="spacing">formă verbală pasivă</text>
+<text x="522.5" y="367.1" font-size="15" fill="#3a3226" textLength="31.4" lengthAdjust="spacing">+ un</text>
+<text x="557.9" y="367.1" font-size="15" fill="#3a3226" font-weight="700" textLength="154.9" lengthAdjust="spacing">complement de agent</text>
+<text x="712.8" y="367.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="401.6" font-size="16" fill="#0d9c92" font-style="italic" textLength="89.3" lengthAdjust="spacing">Compunerea</text>
+<text x="155.6" y="401.6" font-size="16" fill="#6f5ea8" font-style="italic" textLength="80.6" lengthAdjust="spacing">a fost scrisă</text>
+<text x="240.6" y="401.6" font-size="16" fill="#9a7433" font-style="italic" textLength="114.6" lengthAdjust="spacing">de (către) Andrei</text>
+<text x="355.1" y="401.6" font-size="16" fill="#10233f" font-style="italic" textLength="3.5" lengthAdjust="spacing">.</text>
+<text x="62.0" y="434.4" font-size="14" fill="#0d9c92" textLength="44.0" lengthAdjust="spacing">subiect</text>
+<text x="109.7" y="434.4" font-size="14" fill="#5b6b83" textLength="3.1" lengthAdjust="spacing">·</text>
+<text x="116.6" y="434.4" font-size="14" fill="#6f5ea8" textLength="300.3" lengthAdjust="spacing">forma verbală pasivă = auxiliarul a fi + participiul</text>
+<text x="420.7" y="434.4" font-size="14" fill="#5b6b83" textLength="3.1" lengthAdjust="spacing">·</text>
+<text x="427.5" y="434.4" font-size="14" fill="#9a7433" textLength="136.2" lengthAdjust="spacing">complement de agent</text>
+<text x="62.0" y="467.6" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="467.6" font-size="15" fill="#3a3226" font-weight="700" textLength="71.6" lengthAdjust="spacing">Participiul</text>
+<text x="149.8" y="467.6" font-size="15" fill="#3a3226" textLength="255.7" lengthAdjust="spacing">se acordă în gen și număr cu subiectul:</text>
+<text x="409.6" y="467.6" font-size="15" fill="#10233f" font-style="italic" textLength="274.9" lengthAdjust="spacing">Replica este rostită... Replicile sunt rostite...</text>
+<text x="62.0" y="492.4" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="492.4" font-size="15" fill="#3a3226" textLength="61.0" lengthAdjust="spacing">Auxiliarul</text>
+<text x="139.3" y="492.4" font-size="15" fill="#3a3226" font-weight="700" textLength="22.2" lengthAdjust="spacing">a fi</text>
+<text x="165.6" y="492.4" font-size="15" fill="#3a3226" textLength="262.0" lengthAdjust="spacing">are forme la toate modurile și timpurile,</text>
+<text x="431.6" y="492.4" font-size="15" fill="#3a3226" font-weight="700" textLength="99.8" lengthAdjust="spacing">fără imperativ</text>
+<text x="531.4" y="492.4" font-size="15" fill="#3a3226" textLength="224.4" lengthAdjust="spacing">; dintre formele nepersonale, doar</text>
+<text x="759.8" y="492.4" font-size="15" fill="#3a3226" font-weight="700" textLength="66.5" lengthAdjust="spacing">gerunziul</text>
+<text x="74.2" y="514.1" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="78.7" y="514.1" font-size="15" fill="#10233f" font-style="italic" textLength="159.9" lengthAdjust="spacing">Fiind chemat de Andrei...</text>
+<text x="238.6" y="514.1" font-size="15" fill="#3a3226" textLength="18.4" lengthAdjust="spacing">) și</text>
+<text x="261.1" y="514.1" font-size="15" fill="#3a3226" font-weight="700" textLength="68.1" lengthAdjust="spacing">infinitivul</text>
+<text x="333.3" y="514.1" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="337.8" y="514.1" font-size="15" fill="#10233f" font-style="italic" textLength="188.4" lengthAdjust="spacing">de a fi aplaudat de spectatori</text>
+<text x="526.2" y="514.1" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">).</text>
+<rect x="40" y="556.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="579.6" font-size="16" font-weight="700" fill="#ffffff">3. COMPLEMENTUL DE AGENT</text>
+<rect x="40" y="590.6" width="820" height="110.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="623.6" font-size="15" fill="#3a3226" textLength="75.3" lengthAdjust="spacing">Denumește</text>
+<text x="141.3" y="623.6" font-size="15" fill="#3a3226" font-weight="700" textLength="107.8" lengthAdjust="spacing">autorul acțiunii</text>
+<text x="253.2" y="623.6" font-size="15" fill="#3a3226" textLength="543.6" lengthAdjust="spacing">într-o construcție pasivă. E un complement prepozițional: substantiv, pronume sau</text>
+<text x="62.0" y="645.4" font-size="15" fill="#3a3226" textLength="70.5" lengthAdjust="spacing">numeral în</text>
+<text x="136.6" y="645.4" font-size="15" fill="#3a3226" font-weight="700" textLength="57.9" lengthAdjust="spacing">acuzativ</text>
+<text x="194.5" y="645.4" font-size="15" fill="#3a3226" textLength="93.1" lengthAdjust="spacing">, cu prepoziția</text>
+<text x="291.6" y="645.4" font-size="15" fill="#3a3226" font-weight="700" textLength="56.9" lengthAdjust="spacing">de către</text>
+<text x="352.5" y="645.4" font-size="15" fill="#3a3226" textLength="22.5" lengthAdjust="spacing">sau</text>
+<text x="379.1" y="645.4" font-size="15" fill="#3a3226" font-weight="700" textLength="17.4" lengthAdjust="spacing">de</text>
+<text x="396.5" y="645.4" font-size="15" fill="#3a3226" textLength="227.8" lengthAdjust="spacing">. Poate fi exprimat sau neexprimat.</text>
+<text x="62.0" y="678.9" font-size="15" fill="#10233f" font-style="italic" textLength="120.0" lengthAdjust="spacing">Ana este apreciată</text>
+<text x="186.1" y="678.9" font-size="15" fill="#3a3226" font-weight="700" textLength="104.4" lengthAdjust="spacing">de către public</text>
+<text x="290.5" y="678.9" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="297.8" y="678.9" font-size="15" fill="#10233f" font-style="italic" textLength="129.0" lengthAdjust="spacing">Ana a fost admirată</text>
+<text x="430.8" y="678.9" font-size="15" fill="#3a3226" font-weight="700" textLength="44.1" lengthAdjust="spacing">de noi</text>
+<text x="474.9" y="678.9" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="482.3" y="678.9" font-size="15" fill="#10233f" font-style="italic" textLength="117.6" lengthAdjust="spacing">Ana va fi felicitată</text>
+<text x="603.9" y="678.9" font-size="15" fill="#3a3226" font-weight="700" textLength="44.2" lengthAdjust="spacing">de doi</text>
+<text x="652.2" y="678.9" font-size="15" fill="#10233f" font-style="italic" textLength="113.7" lengthAdjust="spacing">dintre prietenii ei.</text>
+<rect x="40" y="721.4" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="744.4" font-size="16" font-weight="700" fill="#ffffff">4. TRANSFORMAREA ACTIV → PASIV</text>
+<rect x="40" y="755.4" width="820" height="317.4" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="773.4" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="794.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="113.7" lengthAdjust="spacing">Construcția activă</text>
+<text x="384.4" y="794.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="176.2" lengthAdjust="spacing">devine în construcția pasivă</text>
+<line x1="62.0" y1="804.9" x2="838.0" y2="804.9" stroke="#e3dccb"/>
+<text x="74.0" y="827.4" font-size="14.5" fill="#3a3226" textLength="132.4" lengthAdjust="spacing">complementul direct</text>
+<text x="384.4" y="827.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="48.7" lengthAdjust="spacing">subiect</text>
+<line x1="62.0" y1="837.8" x2="838.0" y2="837.8" stroke="#e3dccb"/>
+<text x="74.0" y="860.2" font-size="14.5" fill="#3a3226" textLength="57.3" lengthAdjust="spacing">subiectul</text>
+<text x="384.4" y="860.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="149.8" lengthAdjust="spacing">complement de agent</text>
+<text x="534.2" y="860.2" font-size="14.5" fill="#3a3226" textLength="22.0" lengthAdjust="spacing">, cu</text>
+<text x="560.1" y="860.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="50.0" lengthAdjust="spacing">de către</text>
+<text x="614.1" y="860.2" font-size="14.5" fill="#3a3226" textLength="5.7" lengthAdjust="spacing">/</text>
+<text x="623.6" y="860.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="14.9" lengthAdjust="spacing">de</text>
+<line x1="62.0" y1="870.6" x2="838.0" y2="870.6" stroke="#e3dccb"/>
+<text x="74.0" y="893.1" font-size="14.5" fill="#3a3226" textLength="39.9" lengthAdjust="spacing">verbul</text>
+<text x="384.4" y="893.1" font-size="14.5" fill="#3a3226" textLength="57.0" lengthAdjust="spacing">auxiliarul</text>
+<text x="445.3" y="893.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="19.9" lengthAdjust="spacing">a fi</text>
+<text x="469.1" y="893.1" font-size="14.5" fill="#3a3226" textLength="273.8" lengthAdjust="spacing">+ participiul acordat cu subiectul; auxiliarul</text>
+<text x="746.8" y="893.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="65.1" lengthAdjust="spacing">păstrează</text>
+<text x="384.4" y="914.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="107.6" lengthAdjust="spacing">modul și timpul</text>
+<line x1="62.0" y1="924.5" x2="838.0" y2="924.5" stroke="#e3dccb"/>
+<line x1="372.4" y1="773.4" x2="372.4" y2="924.5" stroke="#e3dccb"/>
+<text x="62.0" y="953.5" font-size="15" fill="#0d9c92" font-style="italic" textLength="25.9" lengthAdjust="spacing">Ana</text>
+<text x="92.0" y="953.5" font-size="15" fill="#10233f" font-style="italic" textLength="70.7" lengthAdjust="spacing">redactează</text>
+<text x="166.7" y="953.5" font-size="15" fill="#6f5ea8" font-style="italic" textLength="80.7" lengthAdjust="spacing">compunerea</text>
+<text x="247.4" y="953.5" font-size="15" fill="#10233f" font-style="italic" textLength="20.2" lengthAdjust="spacing">. →</text>
+<text x="271.7" y="953.5" font-size="15" fill="#6f5ea8" font-style="italic" textLength="83.7" lengthAdjust="spacing">Compunerea</text>
+<text x="359.4" y="953.5" font-size="15" fill="#10233f" font-style="italic" textLength="146.7" lengthAdjust="spacing">este redactată de către</text>
+<text x="510.2" y="953.5" font-size="15" fill="#0d9c92" font-style="italic" textLength="25.9" lengthAdjust="spacing">Ana</text>
+<text x="536.1" y="953.5" font-size="15" fill="#10233f" font-style="italic" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="972.0" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="972.0" width="6" height="82.7" rx="3" fill="#b4432c"/><text x="84.0" y="998.5" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="1017.3" font-size="14.5" fill="#3a3226" textLength="308.3" lengthAdjust="spacing">Se transformă în pasiv doar construcția activă cu</text>
+<text x="396.2" y="1017.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="234.8" lengthAdjust="spacing">subiect, verb și complement direct</text>
+<text x="630.9" y="1017.3" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="638.0" y="1017.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="99.8" lengthAdjust="spacing">Copilul doarme.</text>
+<text x="741.7" y="1017.3" font-size="14.5" fill="#3a3226" textLength="40.5" lengthAdjust="spacing">nu are</text>
+<text x="84.0" y="1038.4" font-size="14.5" fill="#3a3226" textLength="300.4" lengthAdjust="spacing">complement direct, deci nu are pereche pasivă.</text>
+<text x="132.8" y="1104.2" font-size="11.5" fill="#5b6b83" textLength="634.3" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 74-75, rubricile Repere și schema construcției pasive. Unele exemple sunt create pentru aceste notițe.</text>
 </svg>

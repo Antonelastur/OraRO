@@ -1,28 +1,94 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="960" height="420" fill="#faf7f0"/>
-  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Coordonare și subordonare, față în față</text>
-  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 16 · Fraza</text>
-  <rect x="36" y="100" width="432" height="230" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-  <text x="58" y="132" font-size="15" font-weight="700" fill="#3b5fa8">COORDONARE</text>
-  <text x="58" y="160" font-size="12.5" fill="#3d4a5f">Propoziții egale, niciuna nu depinde</text>
-  <text x="58" y="180" font-size="12.5" fill="#3d4a5f">de cealaltă.</text>
-  <text x="58" y="212" font-size="13" font-weight="700" fill="#10233f">Cum se leagă</text>
-  <text x="58" y="236" font-size="11.5" fill="#3d4a5f">și, nici — copulativ</text>
-  <text x="58" y="255" font-size="11.5" fill="#3d4a5f">dar, iar, însă, ci — adversativ</text>
-  <text x="58" y="274" font-size="11.5" fill="#3d4a5f">sau, ori, fie — disjunctiv</text>
-  <text x="58" y="293" font-size="11.5" fill="#3d4a5f">deci, așadar — concluziv</text>
-  <text x="58" y="312" font-size="11.5" fill="#3d4a5f">sau doar prin virgulă — juxtapunere</text>
-  <rect x="492" y="100" width="432" height="230" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
-  <text x="514" y="132" font-size="15" font-weight="700" fill="#a1417e">SUBORDONARE</text>
-  <text x="514" y="160" font-size="12.5" fill="#3d4a5f">Una depinde de cealaltă. Fără regentă,</text>
-  <text x="514" y="180" font-size="12.5" fill="#3d4a5f">subordonata nu se înțelege.</text>
-  <text x="514" y="212" font-size="13" font-weight="700" fill="#10233f">Cum se leagă</text>
-  <text x="514" y="236" font-size="11.5" fill="#3d4a5f">că, să, dacă — conjuncții</text>
-  <text x="514" y="255" font-size="11.5" fill="#3d4a5f">care, cine, ce — pronume relative</text>
-  <text x="514" y="274" font-size="11.5" fill="#3d4a5f">unde, când, cum — adverbe relative</text>
-  <text x="514" y="293" font-size="11.5" fill="#3d4a5f">pentru că, de vreme ce — locuțiuni</text>
-  <text x="514" y="312" font-size="11.5" fill="#3d4a5f">niciodată doar prin virgulă</text>
-  <rect x="36" y="348" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="58" y="373" font-size="13" font-weight="700" fill="#10233f">Proba sigură</text>
-  <text x="58" y="393" font-size="12" fill="#3d4a5f">acoperă o propoziție cu degetul. Dacă cealaltă se înțelege singură, e coordonare. Dacă rămâne în aer, e subordonare.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1013" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1013" fill="#faf7f0"/>
+<text x="314.5" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="271.3" lengthAdjust="spacing">Fraza. Subordonarea</text>
+<text x="206.8" y="74.4" font-size="14" fill="#5b6b83" textLength="486.4" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a II-a, Lecția 16 · Manual, pp. 88-89 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. PRINCIPALA ȘI SECUNDARA</text>
+<rect x="40" y="128.6" width="820" height="207.6" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="146.6" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="174.6" font-size="16" fill="#0d9c92" font-weight="700" textLength="156.2" lengthAdjust="spacing">propoziția principală</text>
+<text x="78.0" y="197.9" font-size="14.5" fill="#3a3226" textLength="20.0" lengthAdjust="spacing">are</text>
+<text x="101.9" y="197.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="139.2" lengthAdjust="spacing">sens de sine stătător</text>
+<text x="78.0" y="221.8" font-size="14.5" fill="#3a3226" textLength="67.3" lengthAdjust="spacing">o frază are</text>
+<text x="149.2" y="221.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="72.2" lengthAdjust="spacing">cel puțin o</text>
+<text x="225.3" y="221.8" font-size="14.5" fill="#3a3226" textLength="62.3" lengthAdjust="spacing">principală</text>
+<rect x="458.0" y="146.6" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="174.6" font-size="16" fill="#6f5ea8" font-weight="700" textLength="270.4" lengthAdjust="spacing">propoziția secundară (subordonată)</text>
+<text x="474.0" y="197.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="107.9" lengthAdjust="spacing">depinde ca sens</text>
+<text x="585.8" y="197.9" font-size="14.5" fill="#3a3226" textLength="203.4" lengthAdjust="spacing">de un cuvânt din altă propoziție</text>
+<text x="62.0" y="267.2" font-size="15" fill="#3a3226" textLength="288.7" lengthAdjust="spacing">Cuvântul de care depinde subordonata este</text>
+<text x="354.8" y="267.2" font-size="15" fill="#3a3226" font-weight="700" textLength="121.3" lengthAdjust="spacing">elementul regent</text>
+<text x="476.1" y="267.2" font-size="15" fill="#3a3226" textLength="199.3" lengthAdjust="spacing">; propoziția în care se află este</text>
+<text x="679.5" y="267.2" font-size="15" fill="#3a3226" font-weight="700" textLength="54.6" lengthAdjust="spacing">regenta</text>
+<text x="738.2" y="267.2" font-size="15" fill="#3a3226" textLength="95.5" lengthAdjust="spacing">(principală sau</text>
+<text x="62.0" y="288.9" font-size="15" fill="#3a3226" textLength="75.3" lengthAdjust="spacing">secundară).</text>
+<text x="62.0" y="313.7" font-size="15" fill="#3a3226" font-weight="700" textLength="91.5" lengthAdjust="spacing">Coordonarea</text>
+<text x="157.6" y="313.7" font-size="15" fill="#3a3226" textLength="102.9" lengthAdjust="spacing">leagă propoziții</text>
+<text x="264.5" y="313.7" font-size="15" fill="#3a3226" font-weight="700" textLength="90.3" lengthAdjust="spacing">de același fel</text>
+<text x="354.8" y="313.7" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">;</text>
+<text x="362.1" y="313.7" font-size="15" fill="#3a3226" font-weight="700" textLength="98.1" lengthAdjust="spacing">subordonarea</text>
+<text x="464.3" y="313.7" font-size="15" fill="#3a3226" textLength="161.8" lengthAdjust="spacing">leagă o propoziție de un</text>
+<text x="630.2" y="313.7" font-size="15" fill="#3a3226" font-weight="700" textLength="47.5" lengthAdjust="spacing">cuvânt</text>
+<text x="681.8" y="313.7" font-size="15" fill="#3a3226" textLength="79.3" lengthAdjust="spacing">din regentă.</text>
+<rect x="40" y="356.2" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="379.2" font-size="16" font-weight="700" fill="#ffffff">2. SUBORDONAREA PRIN CONJUNCȚII</text>
+<rect x="40" y="390.2" width="820" height="212.5" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="408.2" width="776.0" height="31.6" fill="#efeaf8"/>
+
+<text x="306.8" y="429.7" font-size="13.5" fill="#10233f" font-weight="700" textLength="53.7" lengthAdjust="spacing">Exemple</text>
+<line x1="62.0" y1="439.7" x2="838.0" y2="439.7" stroke="#e3dccb"/>
+<text x="74.0" y="462.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="67.1" lengthAdjust="spacing">conjuncții</text>
+<text x="145.0" y="462.2" font-size="14.5" fill="#3a3226" textLength="102.8" lengthAdjust="spacing">subordonatoare</text>
+<text x="306.8" y="462.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="359.9" lengthAdjust="spacing">că, să, dacă, de, deși, încât, ca ... să, căci, deoarece, fiindcă</text>
+<line x1="62.0" y1="472.6" x2="838.0" y2="472.6" stroke="#e3dccb"/>
+<text x="74.0" y="495.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="60.2" lengthAdjust="spacing">locuțiuni</text>
+<text x="138.1" y="495.1" font-size="14.5" fill="#3a3226" textLength="93.8" lengthAdjust="spacing">conjuncționale</text>
+<text x="74.0" y="516.1" font-size="14.5" fill="#3a3226" textLength="102.8" lengthAdjust="spacing">subordonatoare</text>
+<text x="306.8" y="495.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="507.1" lengthAdjust="spacing">până când, în timp ce, ori de câte ori, după cum, ca și cum, fără să, pe măsură ce,</text>
+<text x="306.8" y="516.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="455.2" lengthAdjust="spacing">pentru că, din cauză că, din moment ce, în caz că, cu toate că, chiar dacă</text>
+<line x1="62.0" y1="526.4" x2="838.0" y2="526.4" stroke="#e3dccb"/>
+<line x1="294.8" y1="408.2" x2="294.8" y2="526.4" stroke="#e3dccb"/>
+<text x="62.0" y="555.4" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="555.4" font-size="15" fill="#3a3226" textLength="221.8" lengthAdjust="spacing">Conjuncțiile subordonatoare apar</text>
+<text x="300.1" y="555.4" font-size="15" fill="#3a3226" font-weight="700" textLength="89.4" lengthAdjust="spacing">doar în frază</text>
+<text x="389.5" y="555.4" font-size="15" fill="#3a3226" textLength="274.3" lengthAdjust="spacing">; cele coordonatoare apar și în propoziție.</text>
+<text x="62.0" y="580.2" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="580.2" font-size="15" fill="#3a3226" textLength="323.2" lengthAdjust="spacing">Locuțiunile conjuncționale subordonatoare leagă</text>
+<text x="401.5" y="580.2" font-size="15" fill="#3a3226" font-weight="700" textLength="193.1" lengthAdjust="spacing">numai propoziții secundare</text>
+<text x="598.6" y="580.2" font-size="15" fill="#3a3226" textLength="108.3" lengthAdjust="spacing">de regentele lor.</text>
+<rect x="40" y="622.7" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="645.7" font-size="16" font-weight="700" fill="#ffffff">3. SUBORDONAREA PRIN ALTE PĂRȚI DE VORBIRE</text>
+<rect x="40" y="656.7" width="820" height="304.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="674.7" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="696.2" font-size="13.5" fill="#10233f" font-weight="700" textLength="126.8" lengthAdjust="spacing">Elementul de relație</text>
+<text x="423.2" y="696.2" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="706.2" x2="838.0" y2="706.2" stroke="#e3dccb"/>
+<text x="74.0" y="728.7" font-size="14.5" fill="#3a3226" textLength="218.2" lengthAdjust="spacing">pronume și adjective pronominale</text>
+<text x="296.1" y="728.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="50.9" lengthAdjust="spacing">relative</text>
+<text x="350.9" y="728.7" font-size="14.5" fill="#3a3226" textLength="9.6" lengthAdjust="spacing">și</text>
+<text x="74.0" y="749.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="74.8" lengthAdjust="spacing">nehotărâte</text>
+<text x="423.2" y="728.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="343.2" lengthAdjust="spacing">Fetele 1/ care au realizat decorurile 2/ sunt creative. 1/</text>
+<line x1="62.0" y1="760.1" x2="838.0" y2="760.1" stroke="#e3dccb"/>
+<text x="74.0" y="782.6" font-size="14.5" fill="#3a3226" textLength="51.6" lengthAdjust="spacing">adverbe</text>
+<text x="129.5" y="782.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="50.9" lengthAdjust="spacing">relative</text>
+<text x="184.3" y="782.6" font-size="14.5" fill="#3a3226" textLength="4.3" lengthAdjust="spacing">(</text>
+<text x="188.7" y="782.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="128.5" lengthAdjust="spacing">unde, când, cum, cât</text>
+<text x="317.2" y="782.6" font-size="14.5" fill="#3a3226" textLength="71.5" lengthAdjust="spacing">), uneori cu</text>
+<text x="74.0" y="803.6" font-size="14.5" fill="#3a3226" textLength="64.2" lengthAdjust="spacing">prepoziție</text>
+<text x="423.2" y="782.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="212.7" lengthAdjust="spacing">Merge 1/ până unde l-ai trimis. 2/</text>
+<line x1="62.0" y1="814.0" x2="838.0" y2="814.0" stroke="#e3dccb"/>
+<text x="74.0" y="836.5" font-size="14.5" fill="#3a3226" textLength="51.6" lengthAdjust="spacing">adverbe</text>
+<text x="129.5" y="836.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="74.8" lengthAdjust="spacing">nehotărâte</text>
+<text x="208.3" y="836.5" font-size="14.5" fill="#3a3226" textLength="4.3" lengthAdjust="spacing">(</text>
+<text x="212.6" y="836.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="156.2" lengthAdjust="spacing">oriunde, oricum, oricând,</text>
+<text x="74.0" y="857.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="35.7" lengthAdjust="spacing">oricât</text>
+<text x="109.7" y="857.5" font-size="14.5" fill="#3a3226" textLength="4.3" lengthAdjust="spacing">)</text>
+<text x="423.2" y="836.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="254.8" lengthAdjust="spacing">Oricum aș face, 1/ tot nenorocire iese. 2/</text>
+<line x1="62.0" y1="867.9" x2="838.0" y2="867.9" stroke="#e3dccb"/>
+<line x1="411.2" y1="674.7" x2="411.2" y2="867.9" stroke="#e3dccb"/>
+<rect x="62.0" y="881.9" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="881.9" width="6" height="61.7" rx="3" fill="#b4432c"/><text x="84.0" y="908.4" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="927.2" font-size="14.5" fill="#3a3226" textLength="361.6" lengthAdjust="spacing">Pronumele, adjectivele și adverbele relative și nehotărâte</text>
+<text x="449.5" y="927.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="136.7" lengthAdjust="spacing">au funcție sintactică</text>
+<text x="590.2" y="927.2" font-size="14.5" fill="#3a3226" textLength="204.7" lengthAdjust="spacing">în propoziția pe care o introduc.</text>
+<text x="329.5" y="993.1" font-size="11.5" fill="#5b6b83" textLength="240.9" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 88-89, rubricile Repere.</text>
 </svg>

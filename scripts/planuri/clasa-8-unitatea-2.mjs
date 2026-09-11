@@ -151,7 +151,7 @@ export default {
     tipOra: 'Predare, limbă română',
     durata: 50,
     obiective: ['Transformă construcțiile active în construcții pasive cu verbul a fi și invers.'],
-    resurse: ['Manual Art 8, pp. 74-75', 'Schema „Construcțiile active și pasive” (/materiale/clasa-8/unitatea-2/lectia-9/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 8, pp. 74-75', 'Schema „Construcții active. Construcții pasive cu verbul a fi” (/materiale/clasa-8/unitatea-2/lectia-9/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Scriu pe tablă „Elevii au citit piesa" și „Piesa a fost citită de elevi" și îi întreb pe elevi ce s-a schimbat.' },
@@ -168,7 +168,7 @@ export default {
     tipOra: 'Predare, limbă română',
     durata: 50,
     obiective: ['Actualizează cunoștințele despre predicatul verbal și predicatul nominal.'],
-    resurse: ['Manual Art 8, pp. 76-77', 'Schema „Predicatul” (/materiale/clasa-8/unitatea-2/lectia-10/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 8, pp. 76-77', 'Schema „Predicatul (actualizare)” (/materiale/clasa-8/unitatea-2/lectia-10/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Scriu „Take vinde" și „Take este negustor" și îi întreb pe elevi de ce al doilea predicat are două cuvinte.' },
@@ -219,7 +219,7 @@ export default {
     tipOra: 'Predare, limbă română',
     durata: 50,
     obiective: ['Actualizează cunoștințele despre subiect, identificând subiectele și părțile de vorbire prin care se exprimă.'],
-    resurse: ['Manual Art 8, pp. 82-83', 'Schema „Subiectul” (/materiale/clasa-8/unitatea-2/lectia-13/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 8, pp. 82-83', 'Schema „Subiectul (actualizare)” (/materiale/clasa-8/unitatea-2/lectia-13/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le dau trei enunțuri în care subiectul e substantiv, pronume și verb la infinitiv și îi întreb pe elevi ce au în comun.' },

@@ -1,20 +1,100 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="400" fill="#faf7f0"/>
-  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Construcțiile cu pronume reflexive</text>
-  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II · lecția 11 · forma neaccentuată (cliticul) în acuzativ sau dativ însoțește un verb</text>
-
-  <rect x="55" y="80" width="390" height="130" rx="14" fill="#6f5ea8" stroke="#6f5ea8" stroke-width="2" fill-opacity="0.08"/>
-  <rect x="55" y="80" width="390" height="130" rx="14" fill="none" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Fără funcție sintactică</text>
-  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="126">pronumele reflexiv intră în structura verbului,</tspan><tspan x="75" y="144">nu se analizează separat</tspan><tspan x="75" y="166" font-style="italic">Ana se gândește la tine.</tspan><tspan x="75" y="188">nu poate fi reluat prin formă accentuată,</tspan><tspan x="75" y="204">nici înlocuit cu un pronume personal</tspan></text>
-
-  <rect x="465" y="80" width="380" height="130" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
-  <text x="485" y="104" font-size="13" font-weight="700" fill="#10233f">Cu funcție sintactică</text>
-  <text font-size="11" fill="#3a3226"><tspan x="485" y="124">• complement direct (acuzativ): se cunoaște</tspan><tspan x="485" y="142">• complement indirect (dativ): își atribuie</tspan><tspan x="485" y="160">• complement posesiv (dativ, structură ternară):</tspan><tspan x="485" y="176">  și-a pregătit costumul</tspan><tspan x="485" y="194">• atribut pronominal în dativ (rar): la casa-mi</tspan><tspan x="485" y="204"> </tspan></text>
-
-  <rect x="55" y="224" width="790" height="112" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
-  <text x="75" y="248" font-size="12.5" font-weight="700" fill="#10233f">De reținut</text>
-  <text font-size="11" fill="#3a3226"><tspan x="75" y="270">când are funcție sintactică, verbul acceptă: înlocuirea cu un pronume personal (Ana ne supraestimează),</tspan><tspan x="75" y="288">reluarea prin formă accentuată (pe sine), reluarea reciprocității prin locuțiune (unii pe alții, unul cu altul)</tspan><tspan x="75" y="310">construcțiile pasiv-reflexive: reflexivul „se” + verb care permite complement de agent (Fișele se împart de profesor.)</tspan></text>
-
-  <text x="450" y="378" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 78-79</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 991" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="991" fill="#faf7f0"/>
+<text x="223.3" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="454.2" lengthAdjust="spacing">Construcțiile cu pronume reflexive</text>
+<text x="206.8" y="74.4" font-size="14" fill="#5b6b83" textLength="486.4" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a II-a, Lecția 11 · Manual, pp. 78-79 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE SUNT</text>
+<rect x="40" y="128.6" width="820" height="123.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" textLength="12.6" lengthAdjust="spacing">În</text>
+<text x="78.6" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="241.2" lengthAdjust="spacing">construcțiile cu pronume reflexive</text>
+<text x="319.8" y="161.6" font-size="15" fill="#3a3226" textLength="512.2" lengthAdjust="spacing">, forma neaccentuată a pronumelui reflexiv (în acuzativ sau dativ) însoțește un</text>
+<text x="62.0" y="183.3" font-size="15" fill="#3a3226" font-weight="700" textLength="31.5" lengthAdjust="spacing">verb</text>
+<text x="97.5" y="183.3" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="102.0" y="183.3" font-size="15" fill="#10233f" font-style="italic" textLength="115.0" lengthAdjust="spacing">se spală, își spune</text>
+<text x="217.1" y="183.3" font-size="15" fill="#3a3226" textLength="138.4" lengthAdjust="spacing">) sau, excepțional, un</text>
+<text x="359.6" y="183.3" font-size="15" fill="#3a3226" font-weight="700" textLength="72.9" lengthAdjust="spacing">substantiv</text>
+<text x="436.5" y="183.3" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="441.0" y="183.3" font-size="15" fill="#10233f" font-style="italic" textLength="54.8" lengthAdjust="spacing">viața-mi</text>
+<text x="495.8" y="183.3" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">).</text>
+<text x="62.0" y="208.1" font-size="15" fill="#3a3226" textLength="222.1" lengthAdjust="spacing">Uneori apare și forma accentuată:</text>
+<text x="288.2" y="208.1" font-size="15" fill="#10233f" font-style="italic" textLength="141.2" lengthAdjust="spacing">Nu numai pe noi, ci și</text>
+<text x="433.4" y="208.1" font-size="15" fill="#3a3226" font-weight="700" textLength="49.6" lengthAdjust="spacing">pe sine</text>
+<text x="487.1" y="208.1" font-size="15" fill="#10233f" font-style="italic" textLength="83.4" lengthAdjust="spacing">se amăgește.</text>
+<text x="574.5" y="208.1" font-size="15" fill="#3a3226" textLength="243.9" lengthAdjust="spacing">Reflexivul intră și în locuțiuni verbale:</text>
+<text x="62.0" y="229.8" font-size="15" fill="#10233f" font-style="italic" textLength="185.2" lengthAdjust="spacing">a-și bate joc, a se face de râs</text>
+<text x="247.2" y="229.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="40" y="272.4" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="295.4" font-size="16" font-weight="700" fill="#ffffff">2. ARE SAU NU ARE FUNCȚIE SINTACTICĂ?</text>
+<rect x="40" y="306.4" width="820" height="151.5" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="324.4" width="380.0" height="115.5" rx="12" fill="#ffffff" stroke="#5b6b83" stroke-width="2"/>
+<text x="78.0" y="352.4" font-size="16" fill="#5b6b83" font-weight="700" textLength="162.2" lengthAdjust="spacing">fără funcție sintactică</text>
+<text x="78.0" y="375.7" font-size="14.5" fill="#3a3226" textLength="291.4" lengthAdjust="spacing">face parte din verb și nu se analizează separat</text>
+<text x="78.0" y="399.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="25.1" lengthAdjust="spacing">Ana</text>
+<text x="107.0" y="399.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="80.6" lengthAdjust="spacing">se gândește</text>
+<text x="191.5" y="399.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="42.3" lengthAdjust="spacing">la tine.</text>
+<text x="78.0" y="423.5" font-size="14.5" fill="#3a3226" textLength="85.1" lengthAdjust="spacing">nu pot spune</text>
+<text x="167.0" y="423.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="104.4" lengthAdjust="spacing">Ana ne gândește</text>
+<rect x="458.0" y="324.4" width="380.0" height="115.5" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="474.0" y="352.4" font-size="16" fill="#0d9c92" font-weight="700" textLength="149.9" lengthAdjust="spacing">cu funcție sintactică</text>
+<text x="474.0" y="375.7" font-size="14.5" fill="#3a3226" textLength="279.1" lengthAdjust="spacing">pot să-l înlocuiesc cu un pronume personal:</text>
+<text x="757.0" y="375.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="41.9" lengthAdjust="spacing">Ana se</text>
+<text x="474.0" y="396.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="257.5" lengthAdjust="spacing">supraestimează / Ana ne supraestimează</text>
+<text x="474.0" y="420.6" font-size="14.5" fill="#3a3226" textLength="232.1" lengthAdjust="spacing">pot să-l reiau prin forma accentuată:</text>
+<text x="710.1" y="420.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="100.6" lengthAdjust="spacing">...pe sine / pe ea</text>
+<rect x="40" y="477.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="500.9" font-size="16" font-weight="700" fill="#ffffff">3. FUNCȚIILE PRONUMELUI REFLEXIV</text>
+<rect x="40" y="511.9" width="820" height="274.5" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="529.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="551.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="46.3" lengthAdjust="spacing">Funcția</text>
+<text x="268.0" y="551.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="32.3" lengthAdjust="spacing">Când</text>
+<text x="578.4" y="551.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="561.4" x2="838.0" y2="561.4" stroke="#e3dccb"/>
+<text x="74.0" y="583.9" font-size="14.5" fill="#3a3226" textLength="120.6" lengthAdjust="spacing">complement direct</text>
+<text x="268.0" y="583.9" font-size="14.5" fill="#3a3226" textLength="11.7" lengthAdjust="spacing">în</text>
+<text x="283.7" y="583.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="56.0" lengthAdjust="spacing">acuzativ</text>
+<text x="578.4" y="583.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="30.7" lengthAdjust="spacing">Ionel</text>
+<text x="613.1" y="583.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="14.2" lengthAdjust="spacing">se</text>
+<text x="631.2" y="583.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="149.8" lengthAdjust="spacing">cunoaște destul de bine.</text>
+<line x1="62.0" y1="594.2" x2="838.0" y2="594.2" stroke="#e3dccb"/>
+<text x="74.0" y="616.8" font-size="14.5" fill="#3a3226" textLength="132.4" lengthAdjust="spacing">complement indirect</text>
+<text x="268.0" y="616.8" font-size="14.5" fill="#3a3226" textLength="11.7" lengthAdjust="spacing">în</text>
+<text x="283.7" y="616.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="34.4" lengthAdjust="spacing">dativ</text>
+<text x="578.4" y="616.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="30.7" lengthAdjust="spacing">Ionel</text>
+<text x="613.1" y="616.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="14.5" lengthAdjust="spacing">își</text>
+<text x="631.5" y="616.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="157.2" lengthAdjust="spacing">atribuie un rol nemeritat.</text>
+<line x1="62.0" y1="627.1" x2="838.0" y2="627.1" stroke="#e3dccb"/>
+<text x="74.0" y="649.6" font-size="14.5" fill="#3a3226" textLength="131.7" lengthAdjust="spacing">complement posesiv</text>
+<text x="268.0" y="649.6" font-size="14.5" fill="#3a3226" textLength="279.1" lengthAdjust="spacing">în dativ, însoțește verbul și depinde și de un</text>
+<text x="268.0" y="670.6" font-size="14.5" fill="#3a3226" textLength="181.1" lengthAdjust="spacing">substantiv; se poate relua cu</text>
+<text x="453.0" y="670.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="53.8" lengthAdjust="spacing">lui / sale</text>
+<text x="578.4" y="649.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="25.1" lengthAdjust="spacing">Ana</text>
+<text x="607.4" y="649.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="10.4" lengthAdjust="spacing">și</text>
+<text x="617.8" y="649.6" font-size="14.5" fill="#3a3226" textLength="5.8" lengthAdjust="spacing">-</text>
+<text x="623.6" y="649.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="124.8" lengthAdjust="spacing">a pregătit costumul.</text>
+<line x1="62.0" y1="681.0" x2="838.0" y2="681.0" stroke="#e3dccb"/>
+<text x="74.0" y="703.5" font-size="14.5" fill="#3a3226" textLength="136.3" lengthAdjust="spacing">atribut pronominal în</text>
+<text x="74.0" y="724.5" font-size="14.5" fill="#3a3226" textLength="31.3" lengthAdjust="spacing">dativ</text>
+<text x="268.0" y="703.5" font-size="14.5" fill="#3a3226" textLength="196.5" lengthAdjust="spacing">lângă un substantiv (foarte rar)</text>
+<text x="578.4" y="703.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="134.1" lengthAdjust="spacing">Mă imaginez la casa-</text>
+<text x="712.5" y="703.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="17.4" lengthAdjust="spacing">mi</text>
+<text x="729.9" y="703.5" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="734.9" x2="838.0" y2="734.9" stroke="#e3dccb"/>
+<line x1="256.0" y1="529.9" x2="256.0" y2="734.9" stroke="#e3dccb"/>
+<line x1="566.4" y1="529.9" x2="566.4" y2="734.9" stroke="#e3dccb"/>
+<text x="62.0" y="763.9" font-size="15" fill="#3a3226" font-weight="700" textLength="101.1" lengthAdjust="spacing">Reciprocitatea</text>
+<text x="167.1" y="763.9" font-size="15" fill="#3a3226" textLength="95.1" lengthAdjust="spacing">se verifică prin</text>
+<text x="266.3" y="763.9" font-size="15" fill="#10233f" font-style="italic" textLength="235.8" lengthAdjust="spacing">unii pe alții, unul cu altul, unii altora</text>
+<text x="502.1" y="763.9" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="509.4" y="763.9" font-size="15" fill="#10233f" font-style="italic" textLength="182.1" lengthAdjust="spacing">Copiii se felicită unii pe alții.</text>
+<rect x="40" y="806.4" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="829.4" font-size="16" font-weight="700" fill="#ffffff">4. CONSTRUCȚIA PASIV-REFLEXIVĂ</text>
+<rect x="40" y="840.4" width="820" height="99.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="858.4" width="776.0" height="63.9" rx="12" fill="#f3efe4"/><text x="78.0" y="884.9" font-size="14.5" fill="#3a3226" textLength="60.6" lengthAdjust="spacing">Reflexivul</text>
+<text x="142.5" y="884.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="12.9" lengthAdjust="spacing">se</text>
+<text x="159.3" y="884.9" font-size="14.5" fill="#3a3226" textLength="193.6" lengthAdjust="spacing">însoțește un verb care acceptă</text>
+<text x="356.8" y="884.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="149.8" lengthAdjust="spacing">complement de agent</text>
+<text x="510.5" y="884.9" font-size="14.5" fill="#3a3226" textLength="114.1" lengthAdjust="spacing">(exprimat sau nu):</text>
+<text x="628.5" y="884.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="151.1" lengthAdjust="spacing">Fișele se împart de către</text>
+<text x="78.0" y="905.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="308.5" lengthAdjust="spacing">profesor. Fișele se așază pe bancă (de către elevi).</text>
+<text x="332.4" y="971.7" font-size="11.5" fill="#5b6b83" textLength="235.3" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 78-79, rubrica Repere.</text>
 </svg>

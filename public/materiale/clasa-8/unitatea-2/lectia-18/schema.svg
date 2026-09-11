@@ -1,32 +1,80 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="960" height="400" fill="#faf7f0"/>
-  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cronica de film, ce conține și ce nu</text>
-  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 18 · Redactare și etica redactării</text>
-  <rect x="36" y="100" width="432" height="228" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
-  <text x="60" y="132" font-size="15" font-weight="700" fill="#1c7f5e">CE INTRĂ</text>
-  <circle cx="70" cy="166" r="6" fill="#1c7f5e"/>
-  <text x="88" y="171" font-size="12.5" fill="#3d4a5f">Titlu, regizor, an</text>
-  <circle cx="70" cy="200" r="6" fill="#1c7f5e"/>
-  <text x="88" y="205" font-size="12.5" fill="#3d4a5f">Subiectul, fără final</text>
-  <circle cx="70" cy="234" r="6" fill="#1c7f5e"/>
-  <text x="88" y="239" font-size="12.5" fill="#3d4a5f">Jocul actorilor</text>
-  <circle cx="70" cy="268" r="6" fill="#1c7f5e"/>
-  <text x="88" y="273" font-size="12.5" fill="#3d4a5f">Imagine, sunet, ritm</text>
-  <circle cx="70" cy="302" r="6" fill="#1c7f5e"/>
-  <text x="88" y="307" font-size="12.5" fill="#3d4a5f">Părerea mea, argumentată</text>
-  <rect x="492" y="100" width="432" height="228" rx="16" fill="#ffffff" stroke="#c1503a" stroke-width="2.5"/>
-  <text x="516" y="132" font-size="15" font-weight="700" fill="#c1503a">CE NU INTRĂ</text>
-  <circle cx="526" cy="166" r="6" fill="#c1503a"/>
-  <text x="544" y="171" font-size="12.5" fill="#3d4a5f">Rezumatul complet</text>
-  <circle cx="526" cy="200" r="6" fill="#c1503a"/>
-  <text x="544" y="205" font-size="12.5" fill="#3d4a5f">Punctul culminant dezvăluit</text>
-  <circle cx="526" cy="234" r="6" fill="#c1503a"/>
-  <text x="544" y="239" font-size="12.5" fill="#3d4a5f">Opinii preluate fără sursă</text>
-  <circle cx="526" cy="268" r="6" fill="#c1503a"/>
-  <text x="544" y="273" font-size="12.5" fill="#3d4a5f">Atac la persoană</text>
-  <circle cx="526" cy="302" r="6" fill="#c1503a"/>
-  <text x="544" y="307" font-size="12.5" fill="#3d4a5f">Text copiat de altundeva</text>
-  <rect x="36" y="344" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="58" y="369" font-size="13" font-weight="700" fill="#10233f">Etica redactării</text>
-  <text x="58" y="389" font-size="12" fill="#3d4a5f">orice idee preluată de la altcineva se pune între ghilimele, cu sursa. Fără asta, e plagiat, oricât de scurt ar fi.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1066" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1066" fill="#faf7f0"/>
+<text x="245.6" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="409.9" lengthAdjust="spacing">Cronica de film. Etica redactării</text>
+<text x="206.8" y="74.4" font-size="14" fill="#5b6b83" textLength="486.4" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a II-a, Lecția 18 · Manual, pp. 92-93 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CRONICA DE FILM</text>
+<rect x="40" y="128.6" width="820" height="155.7" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="113.9" lengthAdjust="spacing">Cronica de film</text>
+<text x="180.2" y="162.6" font-size="16" fill="#10233f" textLength="491.7" lengthAdjust="spacing">este un text scris după vizionare, care examinează aspecte ale filmului:</text>
+<text x="676.2" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="154.2" lengthAdjust="spacing">regie, scenariu, jocul</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="305.9" lengthAdjust="spacing">actorilor, coloană sonoră, efecte speciale</text>
+<text x="367.9" y="185.8" font-size="16" fill="#10233f" textLength="165.1" lengthAdjust="spacing">. Autorul poate formula</text>
+<text x="537.3" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="208.2" lengthAdjust="spacing">puncte de vedere personale</text>
+<text x="745.5" y="185.8" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="204.6" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="204.6" width="6" height="61.7" rx="3" fill="#b4432c"/><text x="84.0" y="231.1" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="249.9" font-size="14.5" fill="#3a3226" textLength="48.4" lengthAdjust="spacing">Cronica</text>
+<text x="136.3" y="249.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="86.0" lengthAdjust="spacing">nu dezvăluie</text>
+<text x="226.2" y="249.9" font-size="14.5" fill="#3a3226" textLength="508.1" lengthAdjust="spacing">punctul culminant și deznodământul, ca să-i încurajeze pe cititori să vadă filmul.</text>
+<rect x="40" y="304.3" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="327.3" font-size="16" font-weight="700" fill="#ffffff">2. ÎNAINTE SĂ SCRIU</text>
+<rect x="40" y="338.3" width="820" height="232.4" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="371.3" font-size="15" fill="#3a3226" textLength="144.9" lengthAdjust="spacing">Urmăresc filmul atent,</text>
+<text x="210.9" y="371.3" font-size="15" fill="#3a3226" font-weight="700" textLength="122.4" lengthAdjust="spacing">inclusiv genericul</text>
+<text x="333.3" y="371.3" font-size="15" fill="#3a3226" textLength="256.0" lengthAdjust="spacing">, îmi iau notițe și răspund la întrebările:</text>
+<rect x="62.0" y="389.8" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="411.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="66.1" lengthAdjust="spacing">Întrebarea</text>
+<text x="229.2" y="411.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="43.9" lengthAdjust="spacing">Ce aflu</text>
+<line x1="62.0" y1="421.3" x2="838.0" y2="421.3" stroke="#e3dccb"/>
+<text x="74.0" y="443.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="23.1" lengthAdjust="spacing">CE?</text>
+<text x="229.2" y="443.8" font-size="14.5" fill="#3a3226" textLength="506.2" lengthAdjust="spacing">titlul (și cel original), genul, semnificația, premiile, ce detalii nu trebuie divulgate</text>
+<line x1="62.0" y1="454.2" x2="838.0" y2="454.2" stroke="#e3dccb"/>
+<text x="74.0" y="476.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="106.6" lengthAdjust="spacing">CÂND și UNDE?</text>
+<text x="229.2" y="476.7" font-size="14.5" fill="#3a3226" textLength="439.2" lengthAdjust="spacing">când și de cine a fost produs, premiera, când și unde are loc acțiunea</text>
+<line x1="62.0" y1="487.0" x2="838.0" y2="487.0" stroke="#e3dccb"/>
+<text x="74.0" y="509.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="39.1" lengthAdjust="spacing">CINE?</text>
+<text x="229.2" y="509.5" font-size="14.5" fill="#3a3226" textLength="369.6" lengthAdjust="spacing">regizorul, scenaristul, actorii (sau vocile), publicul interesat</text>
+<line x1="62.0" y1="519.9" x2="838.0" y2="519.9" stroke="#e3dccb"/>
+<text x="74.0" y="542.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="39.7" lengthAdjust="spacing">CUM?</text>
+<text x="229.2" y="542.4" font-size="14.5" fill="#3a3226" textLength="538.8" lengthAdjust="spacing">cum mi s-au părut filmul, jocul actorilor, coloana sonoră, lungimea; cum m-am simțit</text>
+<line x1="62.0" y1="552.8" x2="838.0" y2="552.8" stroke="#e3dccb"/>
+<line x1="217.2" y1="389.8" x2="217.2" y2="552.8" stroke="#e3dccb"/>
+<rect x="40" y="590.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="613.8" font-size="16" font-weight="700" fill="#ffffff">3. PLANUL ÎN CINCI PARAGRAFE</text>
+<rect x="40" y="624.8" width="820" height="188.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="657.8" font-size="15" fill="#3a3226" font-weight="700">1.</text>
+<text x="81.0" y="657.8" font-size="15" fill="#3a3226" font-weight="700" textLength="135.6" lengthAdjust="spacing">informații generale</text>
+<text x="216.6" y="657.8" font-size="15" fill="#3a3226" textLength="330.0" lengthAdjust="spacing">: titlul original, genul, regizorul, scenaristul, actorii;</text>
+<text x="62.0" y="682.5" font-size="15" fill="#3a3226" font-weight="700">2.</text>
+<text x="81.0" y="682.5" font-size="15" fill="#3a3226" font-weight="700" textLength="144.6" lengthAdjust="spacing">prezentarea pe scurt</text>
+<text x="225.6" y="682.5" font-size="15" fill="#3a3226" textLength="326.2" lengthAdjust="spacing">: loc, timp, personaje, relațiile dintre ele, fără final;</text>
+<text x="62.0" y="707.2" font-size="15" fill="#3a3226" font-weight="700">3.</text>
+<text x="81.0" y="707.2" font-size="15" fill="#3a3226" font-weight="700" textLength="87.9" lengthAdjust="spacing">părerea mea</text>
+<text x="168.8" y="707.2" font-size="15" fill="#3a3226" textLength="186.6" lengthAdjust="spacing">: mi-a plăcut sau nu și de ce;</text>
+<text x="62.0" y="732.0" font-size="15" fill="#3a3226" font-weight="700">4.</text>
+<text x="81.0" y="732.0" font-size="15" fill="#3a3226" font-weight="700" textLength="54.1" lengthAdjust="spacing">mesajul</text>
+<text x="139.2" y="732.0" font-size="15" fill="#3a3226" textLength="116.2" lengthAdjust="spacing">și morala filmului;</text>
+<text x="62.0" y="756.8" font-size="15" fill="#3a3226" font-weight="700">5.</text>
+<text x="81.0" y="756.8" font-size="15" fill="#3a3226" font-weight="700" textLength="92.5" lengthAdjust="spacing">producătorul</text>
+<text x="173.5" y="756.8" font-size="15" fill="#3a3226" textLength="188.8" lengthAdjust="spacing">, anul, locul lansării, premiile.</text>
+<text x="62.0" y="790.2" font-size="15" fill="#3a3226" textLength="135.4" lengthAdjust="spacing">Titlul cronicii include</text>
+<text x="201.5" y="790.2" font-size="15" fill="#3a3226" font-weight="700" textLength="92.2" lengthAdjust="spacing">titlul filmului</text>
+<text x="293.7" y="790.2" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="40" y="832.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="855.8" font-size="16" font-weight="700" fill="#ffffff">4. REDACTAREA ȘI ETICA EI</text>
+<rect x="40" y="866.8" width="820" height="148.6" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="884.8" width="380.0" height="112.6" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="912.8" font-size="16" fill="#0d9c92" font-weight="700" textLength="190.6" lengthAdjust="spacing">de mână sau la calculator</text>
+<text x="78.0" y="936.0" font-size="14.5" fill="#3a3226" textLength="244.0" lengthAdjust="spacing">ortografie și așezare în pagină îngrijite</text>
+<text x="78.0" y="960.0" font-size="14.5" fill="#3a3226" textLength="235.3" lengthAdjust="spacing">scris lizibil / reguli de tehnoredactare</text>
+<rect x="458.0" y="884.8" width="380.0" height="112.6" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="912.8" font-size="16" fill="#6f5ea8" font-weight="700" textLength="100.8" lengthAdjust="spacing">originalitatea</text>
+<text x="474.0" y="936.0" font-size="14.5" fill="#3a3226" textLength="80.9" lengthAdjust="spacing">lucrarea este</text>
+<text x="558.8" y="936.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="40.9" lengthAdjust="spacing">a mea</text>
+<text x="474.0" y="960.0" font-size="14.5" fill="#3a3226" textLength="196.9" lengthAdjust="spacing">părerile preluate de la alții stau</text>
+<text x="674.8" y="960.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="99.2" lengthAdjust="spacing">între ghilimele</text>
+<text x="774.0" y="960.0" font-size="14.5" fill="#3a3226" textLength="22.0" lengthAdjust="spacing">, cu</text>
+<text x="474.0" y="981.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="35.2" lengthAdjust="spacing">sursa</text>
+<text x="513.2" y="981.0" font-size="14.5" fill="#3a3226" textLength="57.6" lengthAdjust="spacing">precizată</text>
+<text x="217.3" y="1046.8" font-size="11.5" fill="#5b6b83" textLength="465.4" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 92-93, rubricile Repere, planul în cinci paragrafe și grila de evaluare.</text>
 </svg>

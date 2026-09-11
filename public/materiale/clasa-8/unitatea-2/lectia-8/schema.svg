@@ -1,24 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 466" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="960" height="466" fill="#faf7f0"/>
-  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Patru feluri de a reacționa, unul singur asertiv</text>
-  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 8 · Atitudini comunicative</text>
-  <rect x="36" y="100" width="432" height="126" rx="16" fill="#ffffff" stroke="#846b36" stroke-width="2.5"/>
-  <text x="58" y="132" font-size="15" font-weight="700" fill="#846b36">PASIV</text>
-  <text x="58" y="162" font-size="12.5" fill="#3d4a5f">Nu spun ce vreau, ca să nu supăr.</text>
-  <text x="58" y="192" font-size="12" font-style="italic" fill="#5b6b83">Ceilalți contează, eu nu.</text>
-  <rect x="492" y="100" width="432" height="126" rx="16" fill="#ffffff" stroke="#c1503a" stroke-width="2.5"/>
-  <text x="514" y="132" font-size="15" font-weight="700" fill="#c1503a">AGRESIV</text>
-  <text x="514" y="162" font-size="12.5" fill="#3d4a5f">Îmi impun dorința, indiferent de ceilalți.</text>
-  <text x="514" y="192" font-size="12" font-style="italic" fill="#5b6b83">Eu contez, ceilalți nu.</text>
-  <rect x="36" y="246" width="432" height="126" rx="16" fill="#ffffff" stroke="#6f5ea8" stroke-width="2.5"/>
-  <text x="58" y="278" font-size="15" font-weight="700" fill="#6f5ea8">MANIPULATOR</text>
-  <text x="58" y="308" font-size="12.5" fill="#3d4a5f">Nu cer direct, dar te fac să te simți vinovat.</text>
-  <text x="58" y="338" font-size="12" font-style="italic" fill="#5b6b83">Par că nu contez, dar obțin ce vreau.</text>
-  <rect x="492" y="246" width="432" height="126" rx="16" fill="#fef8e9" stroke="#1c7f5e" stroke-width="3.5"/>
-  <text x="514" y="278" font-size="15" font-weight="700" fill="#1c7f5e">ASERTIV</text>
-  <text x="514" y="308" font-size="12.5" fill="#3d4a5f">Spun clar și calm ce vreau, fără să te calc.</text>
-  <text x="514" y="338" font-size="12" font-style="italic" fill="#5b6b83">Contăm amândoi, în egală măsură.</text>
-  <rect x="36" y="390" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="58" y="415" font-size="13" font-weight="700" fill="#10233f">Cum sună asertiv</text>
-  <text x="58" y="435" font-size="12" fill="#3d4a5f">Nu pot sâmbătă, dar aș vrea să ne vedem. Ce zici de duminică? Spun ce nu merge, spun ce vreau, las loc de răspuns.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 970" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="970" fill="#faf7f0"/>
+<text x="300.1" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="300.1" lengthAdjust="spacing">Atitudini comunicative</text>
+<text x="210.6" y="74.4" font-size="14" fill="#5b6b83" textLength="478.8" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a II-a, Lecția 8 · Manual, pp. 72-73 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. ATITUDINI CARE FAVORIZEAZĂ COMUNICAREA</text>
+<rect x="40" y="128.6" width="820" height="263.4" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="146.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="67.0" lengthAdjust="spacing">Atitudinea</text>
+<text x="306.8" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="79.9" lengthAdjust="spacing">Ce înseamnă</text>
+<line x1="62.0" y1="178.2" x2="838.0" y2="178.2" stroke="#e3dccb"/>
+<text x="74.0" y="200.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="85.4" lengthAdjust="spacing">flexibilitatea</text>
+<text x="306.8" y="200.7" font-size="14.5" fill="#3a3226" textLength="490.8" lengthAdjust="spacing">mă adaptez contextului comunicării: subiectului, interlocutorilor, momentului</text>
+<line x1="62.0" y1="211.0" x2="838.0" y2="211.0" stroke="#e3dccb"/>
+<text x="74.0" y="233.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="84.3" lengthAdjust="spacing">asertivitatea</text>
+<text x="306.8" y="233.5" font-size="14.5" fill="#3a3226" textLength="67.1" lengthAdjust="spacing">îmi exprim</text>
+<text x="377.8" y="233.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="75.7" lengthAdjust="spacing">clar și ferm</text>
+<text x="457.5" y="233.5" font-size="14.5" fill="#3a3226" textLength="356.3" lengthAdjust="spacing">dorințele, emoțiile, părerile, interesele, fără să-i deranjez</text>
+<text x="306.8" y="254.5" font-size="14.5" fill="#3a3226" textLength="361.0" lengthAdjust="spacing">pe ceilalți, fără dispreț sau ostilitate, fără să devin agresiv</text>
+<line x1="62.0" y1="264.9" x2="838.0" y2="264.9" stroke="#e3dccb"/>
+<text x="74.0" y="287.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="156.2" lengthAdjust="spacing">disponibilitatea pentru</text>
+<text x="74.0" y="308.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="67.0" lengthAdjust="spacing">negociere</text>
+<text x="306.8" y="287.4" font-size="14.5" fill="#3a3226" textLength="164.9" lengthAdjust="spacing">doresc să găsesc o soluție</text>
+<text x="475.6" y="287.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="136.3" lengthAdjust="spacing">reciproc acceptabilă</text>
+<line x1="62.0" y1="318.8" x2="838.0" y2="318.8" stroke="#e3dccb"/>
+<line x1="294.8" y1="146.6" x2="294.8" y2="318.8" stroke="#e3dccb"/>
+<text x="62.0" y="347.8" font-size="15" fill="#3a3226" textLength="343.8" lengthAdjust="spacing">Comunicarea asertivă pornește de la convingerea că</text>
+<text x="409.8" y="347.8" font-size="15" fill="#3a3226" font-weight="700" textLength="195.0" lengthAdjust="spacing">toate persoanele sunt egale</text>
+<text x="604.8" y="347.8" font-size="15" fill="#3a3226" textLength="229.6" lengthAdjust="spacing">: drepturile, sentimentele și nevoile</text>
+<text x="62.0" y="369.5" font-size="15" fill="#3a3226" textLength="303.5" lengthAdjust="spacing">celorlalți sunt la fel de importante ca ale mele.</text>
+<rect x="40" y="412.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="435.0" font-size="16" font-weight="700" fill="#ffffff">2. ATITUDINI OPUSE ASERTIVITĂȚII</text>
+<rect x="40" y="446.0" width="820" height="220.0" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="464.0" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="485.5" font-size="13.5" fill="#10233f" font-weight="700" textLength="67.0" lengthAdjust="spacing">Atitudinea</text>
+<text x="283.5" y="485.5" font-size="13.5" fill="#10233f" font-weight="700" textLength="112.5" lengthAdjust="spacing">Cum se manifestă</text>
+<line x1="62.0" y1="495.6" x2="838.0" y2="495.6" stroke="#e3dccb"/>
+<text x="74.0" y="518.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="73.9" lengthAdjust="spacing">pasivitatea</text>
+<text x="283.5" y="518.0" font-size="14.5" fill="#3a3226" textLength="293.2" lengthAdjust="spacing">o atitudine excesiv de amabilă în orice situație</text>
+<line x1="62.0" y1="528.4" x2="838.0" y2="528.4" stroke="#e3dccb"/>
+<text x="74.0" y="550.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="87.6" lengthAdjust="spacing">agresivitatea</text>
+<text x="283.5" y="550.9" font-size="14.5" fill="#3a3226" textLength="287.5" lengthAdjust="spacing">constrângere, intimidare, ton autoritar și ostil</text>
+<line x1="62.0" y1="561.2" x2="838.0" y2="561.2" stroke="#e3dccb"/>
+<text x="74.0" y="583.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="134.6" lengthAdjust="spacing">pasivitatea agresivă</text>
+<text x="283.5" y="583.8" font-size="14.5" fill="#3a3226" textLength="536.6" lengthAdjust="spacing">rezistență indirectă la cererile celorlalți, incapacitatea de a-mi exprima nemulțumirea</text>
+<line x1="62.0" y1="594.1" x2="838.0" y2="594.1" stroke="#e3dccb"/>
+<text x="74.0" y="616.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="85.3" lengthAdjust="spacing">manipularea</text>
+<text x="283.5" y="616.6" font-size="14.5" fill="#3a3226" textLength="490.4" lengthAdjust="spacing">evit să-mi spun punctul de vedere și îi fac pe ceilalți să simtă compasiune sau</text>
+<text x="283.5" y="637.6" font-size="14.5" fill="#3a3226" textLength="57.6" lengthAdjust="spacing">vinovăție</text>
+<line x1="62.0" y1="648.0" x2="838.0" y2="648.0" stroke="#e3dccb"/>
+<line x1="271.5" y1="464.0" x2="271.5" y2="648.0" stroke="#e3dccb"/>
+<rect x="40" y="686.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="709.0" font-size="16" font-weight="700" fill="#ffffff">3. NEGOCIEREA</text>
+<rect x="40" y="720.0" width="820" height="198.7" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="753.0" font-size="15" fill="#3a3226" font-weight="700" textLength="80.1" lengthAdjust="spacing">Negocierea</text>
+<text x="146.2" y="753.0" font-size="15" fill="#3a3226" textLength="600.0" lengthAdjust="spacing">este o acțiune voluntară, un dialog susținut, ca să armonizăm puncte de vedere divergente.</text>
+<text x="62.0" y="777.7" font-size="15" fill="#3a3226" textLength="61.6" lengthAdjust="spacing">Contează</text>
+<text x="127.7" y="777.7" font-size="15" fill="#3a3226" font-weight="700" textLength="160.2" lengthAdjust="spacing">inteligența emoțională</text>
+<text x="287.9" y="777.7" font-size="15" fill="#3a3226" textLength="503.7" lengthAdjust="spacing">: să-mi conștientizez, să-mi controlez și să-mi exprim emoțiile și să gestionez</text>
+<text x="62.0" y="799.5" font-size="15" fill="#3a3226" textLength="164.2" lengthAdjust="spacing">relațiile cu ceilalți în mod</text>
+<text x="230.3" y="799.5" font-size="15" fill="#3a3226" font-weight="700" textLength="56.5" lengthAdjust="spacing">empatic</text>
+<text x="286.8" y="799.5" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="818.0" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="844.5" font-size="14.5" fill="#10233f" font-weight="700" textLength="47.8" lengthAdjust="spacing">Verific:</text>
+<text x="78.0" y="863.3" font-size="14.5" fill="#3a3226" textLength="732.8" lengthAdjust="spacing">m-am adaptat situației? mi-am exprimat clar dorința, fără agresivitate? am arătat respect? am căutat o soluție bună</text>
+<text x="78.0" y="884.4" font-size="14.5" fill="#3a3226" textLength="109.2" lengthAdjust="spacing">pentru amândoi?</text>
+<text x="185.4" y="950.2" font-size="11.5" fill="#5b6b83" textLength="529.2" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 72-73, rubricile Repere, tabelul atitudinilor opuse asertivității și grila de evaluare.</text>
 </svg>

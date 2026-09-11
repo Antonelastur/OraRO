@@ -1,20 +1,84 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="380" fill="#faf7f0"/>
-  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Construcțiile incidente</text>
-  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II · lecția 14 · comunicare suplimentară inserată într-un enunț</text>
-
-  <rect x="55" y="80" width="790" height="66" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
-  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Ce este</text>
-  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="126">o comunicare suplimentară de care enunțul nu este legat sintactic și care nu este esențială pentru</tspan><tspan x="75" y="142">înțelegerea mesajului; se desparte prin virgulă, linii de pauză sau paranteze</tspan></text>
-
-  <rect x="55" y="162" width="390" height="130" rx="14" fill="none" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="75" y="186" font-size="13" font-weight="700" fill="#10233f">După întindere</text>
-  <text font-size="11" fill="#3a3226"><tspan x="75" y="208">• cuvinte: Vai, nu pot să cred!</tspan><tspan x="75" y="228">• grupuri de cuvinte: de treabă femeie</tspan><tspan x="75" y="248">• propoziții: Dumnezeu să-l ierte</tspan><tspan x="75" y="268">• fraze: le-a șoptit regizorul, înainte să plece</tspan></text>
-
-  <rect x="465" y="162" width="380" height="130" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
-  <text x="485" y="186" font-size="13" font-weight="700" fill="#10233f">Ce cuprind</text>
-  <text font-size="11" fill="#3a3226"><tspan x="485" y="208">formulele de adresare (Ana, nu uita!)</tspan><tspan x="485" y="226">grupul verbal al contextului (a întrebat Ana)</tspan><tspan x="485" y="244">adverbe de necesitate, probabilitate,</tspan><tspan x="485" y="260">aproximare (probabil, fără îndoială)</tspan><tspan x="485" y="278">stări, sentimente, automatisme verbale</tspan></text>
-
-  <text x="450" y="336" text-anchor="middle" font-size="11.5" fill="#3a3226">Frecvente în comunicarea populară și familiară.</text>
-  <text x="450" y="362" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 84-85</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 902" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="902" fill="#faf7f0"/>
+<text x="302.3" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="295.7" lengthAdjust="spacing">Construcțiile incidente</text>
+<text x="206.8" y="74.4" font-size="14" fill="#5b6b83" textLength="486.4" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a II-a, Lecția 14 · Manual, pp. 84-85 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ESTE O CONSTRUCȚIE INCIDENTĂ</text>
+<rect x="40" y="128.6" width="820" height="256.9" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="160.0" lengthAdjust="spacing">Construcția incidentă</text>
+<text x="226.3" y="162.6" font-size="16" fill="#10233f" textLength="445.7" lengthAdjust="spacing">este o comunicare suplimentară, inserată într-un enunț, de care</text>
+<text x="676.4" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="105.6" lengthAdjust="spacing">nu este legată</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="62.2" lengthAdjust="spacing">sintactic</text>
+<text x="128.6" y="185.8" font-size="16" fill="#10233f" textLength="354.7" lengthAdjust="spacing">și care nu e esențială pentru înțelegerea mesajului.</text>
+<rect x="62.0" y="204.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="226.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="49.0" lengthAdjust="spacing">Poate fi</text>
+<text x="268.0" y="226.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="236.2" x2="838.0" y2="236.2" stroke="#e3dccb"/>
+<text x="74.0" y="258.6" font-size="14.5" fill="#3a3226" textLength="62.9" lengthAdjust="spacing">un cuvânt</text>
+<text x="268.0" y="258.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="120.9" lengthAdjust="spacing">Vai, nu pot să cred!</text>
+<line x1="62.0" y1="269.0" x2="838.0" y2="269.0" stroke="#e3dccb"/>
+<text x="74.0" y="291.5" font-size="14.5" fill="#3a3226" textLength="120.9" lengthAdjust="spacing">un grup de cuvinte</text>
+<text x="268.0" y="291.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="76.8" lengthAdjust="spacing">Vecina mea,</text>
+<text x="348.8" y="291.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="115.3" lengthAdjust="spacing">de treabă femeie</text>
+<text x="464.0" y="291.5" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="471.1" y="291.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="69.7" lengthAdjust="spacing">m-a ajutat.</text>
+<line x1="62.0" y1="301.9" x2="838.0" y2="301.9" stroke="#e3dccb"/>
+<text x="74.0" y="324.4" font-size="14.5" fill="#3a3226" textLength="77.7" lengthAdjust="spacing">o propoziție</text>
+<text x="268.0" y="324.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="74.2" lengthAdjust="spacing">Străbunicul,</text>
+<text x="346.2" y="324.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="136.6" lengthAdjust="spacing">Dumnezeu să-l ierte</text>
+<text x="482.8" y="324.4" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="489.9" y="324.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="150.1" lengthAdjust="spacing">a fost veteran de război.</text>
+<line x1="62.0" y1="334.7" x2="838.0" y2="334.7" stroke="#e3dccb"/>
+<text x="74.0" y="357.2" font-size="14.5" fill="#3a3226" textLength="43.4" lengthAdjust="spacing">o frază</text>
+<text x="268.0" y="357.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="119.5" lengthAdjust="spacing">Vom repeta mâine,</text>
+<text x="391.4" y="357.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="247.5" lengthAdjust="spacing">le-a șoptit regizorul, înainte să plece</text>
+<text x="638.9" y="357.2" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="367.6" x2="838.0" y2="367.6" stroke="#e3dccb"/>
+<line x1="256.0" y1="204.6" x2="256.0" y2="367.5" stroke="#e3dccb"/>
+<rect x="40" y="405.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="428.5" font-size="16" font-weight="700" fill="#ffffff">2. CE INTRĂ ÎN ACEASTĂ CATEGORIE</text>
+<rect x="40" y="439.5" width="820" height="252.8" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="457.5" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="479.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="61.3" lengthAdjust="spacing">Categoria</text>
+<text x="423.2" y="479.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="53.7" lengthAdjust="spacing">Exemple</text>
+<line x1="62.0" y1="489.1" x2="838.0" y2="489.1" stroke="#e3dccb"/>
+<text x="74.0" y="511.6" font-size="14.5" fill="#3a3226" textLength="139.5" lengthAdjust="spacing">formulele de adresare</text>
+<text x="423.2" y="511.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="253.6" lengthAdjust="spacing">Ana, nu uita! Nu cred, domnule director!</text>
+<line x1="62.0" y1="521.9" x2="838.0" y2="521.9" stroke="#e3dccb"/>
+<text x="74.0" y="544.4" font-size="14.5" fill="#3a3226" textLength="312.3" lengthAdjust="spacing">grupul verbal care prezintă contextul comunicării</text>
+<text x="423.2" y="544.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="75.4" lengthAdjust="spacing">— Ai văzut?</text>
+<text x="502.5" y="544.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="97.4" lengthAdjust="spacing">a întrebat Ana</text>
+<text x="599.9" y="544.4" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="554.8" x2="838.0" y2="554.8" stroke="#e3dccb"/>
+<text x="74.0" y="577.3" font-size="14.5" fill="#3a3226" textLength="312.6" lengthAdjust="spacing">adverbe care exprimă necesitatea, probabilitatea,</text>
+<text x="74.0" y="598.3" font-size="14.5" fill="#3a3226" textLength="79.6" lengthAdjust="spacing">aproximarea</text>
+<text x="423.2" y="577.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="210.7" lengthAdjust="spacing">fără îndoială, probabil, pe undeva</text>
+<line x1="62.0" y1="608.7" x2="838.0" y2="608.7" stroke="#e3dccb"/>
+<text x="74.0" y="631.2" font-size="14.5" fill="#3a3226" textLength="252.6" lengthAdjust="spacing">cuvinte care transmit stări și sentimente</text>
+<text x="423.2" y="631.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="378.9" lengthAdjust="spacing">Aoleu! Bună treabă! Sper, Dumnezeu să ne ajute!, să reușim.</text>
+<line x1="62.0" y1="641.5" x2="838.0" y2="641.5" stroke="#e3dccb"/>
+<text x="74.0" y="664.0" font-size="14.5" fill="#3a3226" textLength="134.0" lengthAdjust="spacing">automatisme verbale</text>
+<text x="423.2" y="664.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="255.2" lengthAdjust="spacing">frate, zău, știi, ca să zic așa, gen, zic și eu</text>
+<line x1="62.0" y1="674.4" x2="838.0" y2="674.4" stroke="#e3dccb"/>
+<line x1="411.2" y1="457.5" x2="411.2" y2="674.4" stroke="#e3dccb"/>
+<rect x="40" y="712.4" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="735.4" font-size="16" font-weight="700" fill="#ffffff">3. CUM LE MARCHEZ</text>
+<rect x="40" y="746.4" width="820" height="105.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="779.4" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="779.4" font-size="15" fill="#3a3226" textLength="96.6" lengthAdjust="spacing">În vorbire au o</text>
+<text x="174.8" y="779.4" font-size="15" fill="#3a3226" font-weight="700" textLength="123.8" lengthAdjust="spacing">intonație specială</text>
+<text x="298.6" y="779.4" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="804.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="804.1" font-size="15" fill="#3a3226" textLength="141.0" lengthAdjust="spacing">În scris se separă prin</text>
+<text x="219.2" y="804.1" font-size="15" fill="#3a3226" font-weight="700" textLength="49.0" lengthAdjust="spacing">virgule</text>
+<text x="268.3" y="804.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">,</text>
+<text x="275.6" y="804.1" font-size="15" fill="#3a3226" font-weight="700" textLength="93.6" lengthAdjust="spacing">linii de pauză</text>
+<text x="373.3" y="804.1" font-size="15" fill="#3a3226" textLength="22.5" lengthAdjust="spacing">sau</text>
+<text x="399.8" y="804.1" font-size="15" fill="#3a3226" font-weight="700" textLength="130.8" lengthAdjust="spacing">paranteze rotunde</text>
+<text x="530.6" y="804.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="828.9" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="828.9" font-size="15" fill="#3a3226" textLength="135.2" lengthAdjust="spacing">Sunt un fenomen de</text>
+<text x="213.4" y="828.9" font-size="15" fill="#3a3226" font-weight="700" textLength="59.5" lengthAdjust="spacing">oralitate</text>
+<text x="277.0" y="828.9" font-size="15" fill="#3a3226" textLength="426.3" lengthAdjust="spacing">(populară sau cultă); în literatură reproduc vorbirea personajelor.</text>
+<text x="245.8" y="882.9" font-size="11.5" fill="#5b6b83" textLength="408.4" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 84-85, rubricile Repere și tabelul construcțiilor incidente.</text>
 </svg>

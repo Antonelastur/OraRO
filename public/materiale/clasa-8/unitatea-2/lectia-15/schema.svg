@@ -1,44 +1,96 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="320" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Fraza. Coordonarea</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1031" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1031" fill="#faf7f0"/>
+<text x="322.3" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="255.6" lengthAdjust="spacing">Fraza. Coordonarea</text>
+<text x="206.8" y="74.4" font-size="14" fill="#5b6b83" textLength="486.4" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a II-a, Lecția 15 · Manual, pp. 86-87 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. FRAZA</text>
+<rect x="40" y="128.6" width="820" height="290.4" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="39.7" lengthAdjust="spacing">Fraza</text>
+<text x="106.0" y="162.6" font-size="16" fill="#10233f" textLength="398.2" lengthAdjust="spacing">este un enunț alcătuit din două sau mai multe propoziții.</text>
+<text x="508.6" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="248.5" lengthAdjust="spacing">Numărul propozițiilor = numărul</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="95.5" lengthAdjust="spacing">predicatelor.</text>
+<text x="62.0" y="219.6" font-size="15" fill="#3a3226" textLength="120.3" lengthAdjust="spacing">Predicatul poate fi</text>
+<text x="186.3" y="219.6" font-size="15" fill="#3a3226" font-weight="700" textLength="71.2" lengthAdjust="spacing">subînțeles</text>
+<text x="257.6" y="219.6" font-size="15" fill="#3a3226" textLength="278.8" lengthAdjust="spacing">; în locul lui pun virgulă sau linie de pauză:</text>
+<rect x="62.0" y="238.1" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="259.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="48.5" lengthAdjust="spacing">Situația</text>
+<text x="423.2" y="259.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="269.6" x2="838.0" y2="269.6" stroke="#e3dccb"/>
+<text x="74.0" y="292.1" font-size="14.5" fill="#3a3226" textLength="163.3" lengthAdjust="spacing">predicat verbal subînțeles</text>
+<text x="423.2" y="292.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="270.0" lengthAdjust="spacing">Anca stă la birou 1/ și Cătălin, în fotoliu. 2/</text>
+<line x1="62.0" y1="302.5" x2="838.0" y2="302.5" stroke="#e3dccb"/>
+<text x="74.0" y="325.0" font-size="14.5" fill="#3a3226" textLength="280.1" lengthAdjust="spacing">același verb la negativ: rămâne doar negația</text>
+<text x="423.2" y="325.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="158.8" lengthAdjust="spacing">Ea citește, 1/ iar el, nu. 2/</text>
+<line x1="62.0" y1="335.4" x2="838.0" y2="335.4" stroke="#e3dccb"/>
+<text x="74.0" y="357.9" font-size="14.5" fill="#3a3226" textLength="220.5" lengthAdjust="spacing">verb pasiv: rămâne doar participiul</text>
+<text x="423.2" y="357.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="350.8" lengthAdjust="spacing">Bluza a fost spălată de bunica 1/ și călcată de mama. 2/</text>
+<line x1="62.0" y1="368.2" x2="838.0" y2="368.2" stroke="#e3dccb"/>
+<text x="74.0" y="390.7" font-size="14.5" fill="#3a3226" textLength="281.3" lengthAdjust="spacing">predicat nominal: rămâne numele predicativ</text>
+<text x="423.2" y="390.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="205.5" lengthAdjust="spacing">Ea este blondă 1/ și el, brunet. 2/</text>
+<line x1="62.0" y1="401.1" x2="838.0" y2="401.1" stroke="#e3dccb"/>
+<line x1="411.2" y1="238.1" x2="411.2" y2="401.0" stroke="#e3dccb"/>
+<rect x="40" y="439.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="462.0" font-size="16" font-weight="700" fill="#ffffff">2. COORDONAREA</text>
+<rect x="40" y="473.0" width="820" height="148.6" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="491.0" width="380.0" height="112.6" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="519.0" font-size="16" fill="#0d9c92" font-weight="700" textLength="91.0" lengthAdjust="spacing">juxtapunere</text>
+<text x="78.0" y="542.3" font-size="14.5" fill="#3a3226" textLength="168.2" lengthAdjust="spacing">alăturarea propozițiilor, cu</text>
+<text x="250.1" y="542.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="47.4" lengthAdjust="spacing">virgulă</text>
+<text x="301.4" y="542.3" font-size="14.5" fill="#3a3226" textLength="21.8" lengthAdjust="spacing">sau</text>
+<text x="327.1" y="542.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="53.8" lengthAdjust="spacing">punct și</text>
+<text x="78.0" y="563.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="47.4" lengthAdjust="spacing">virgulă</text>
+<text x="78.0" y="587.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="148.8" lengthAdjust="spacing">El citește, ea desenează.</text>
+<rect x="458.0" y="491.0" width="380.0" height="112.6" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="519.0" font-size="16" fill="#6f5ea8" font-weight="700" textLength="70.6" lengthAdjust="spacing">joncțiune</text>
+<text x="474.0" y="542.3" font-size="14.5" fill="#3a3226" textLength="25.4" lengthAdjust="spacing">prin</text>
+<text x="503.3" y="542.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="63.8" lengthAdjust="spacing">conectori</text>
+<text x="567.1" y="542.3" font-size="14.5" fill="#3a3226" textLength="239.7" lengthAdjust="spacing">: conjuncții și locuțiuni conjuncționale</text>
+<text x="474.0" y="563.4" font-size="14.5" fill="#3a3226" textLength="95.1" lengthAdjust="spacing">coordonatoare</text>
+<text x="474.0" y="587.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="169.5" lengthAdjust="spacing">El citește, iar ea desenează.</text>
+<rect x="40" y="641.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="664.6" font-size="16" font-weight="700" fill="#ffffff">3. CONJUNCȚIILE COORDONATOARE ȘI VIRGULA</text>
+<rect x="40" y="675.6" width="820" height="304.1" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="693.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="715.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="30.1" lengthAdjust="spacing">Felul</text>
+<text x="205.9" y="715.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="64.4" lengthAdjust="spacing">Conjuncții</text>
+<text x="361.1" y="715.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="59.1" lengthAdjust="spacing">Locuțiuni</text>
+<text x="516.3" y="715.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="45.9" lengthAdjust="spacing">Virgula</text>
+<line x1="62.0" y1="725.2" x2="838.0" y2="725.2" stroke="#e3dccb"/>
+<text x="74.0" y="747.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="70.9" lengthAdjust="spacing">copulative</text>
+<text x="205.9" y="747.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="38.7" lengthAdjust="spacing">și, nici</text>
+<text x="361.1" y="747.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="100.0" lengthAdjust="spacing">precum și, cât și</text>
+<text x="516.3" y="747.7" font-size="14.5" fill="#3a3226" textLength="159.9" lengthAdjust="spacing">nu pun virgulă înainte de</text>
+<text x="680.2" y="747.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="9.6" lengthAdjust="spacing">și</text>
+<text x="689.7" y="747.7" font-size="14.5" fill="#3a3226" textLength="99.5" lengthAdjust="spacing">; pun înainte de</text>
+<text x="793.1" y="747.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="22.0" lengthAdjust="spacing">nici</text>
+<text x="815.2" y="747.7" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">:</text>
+<text x="516.3" y="768.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="166.5" lengthAdjust="spacing">Nu vorbește, nici nu cântă.</text>
+<line x1="62.0" y1="779.1" x2="838.0" y2="779.1" stroke="#e3dccb"/>
+<text x="74.0" y="801.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="73.5" lengthAdjust="spacing">disjunctive</text>
+<text x="205.9" y="801.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="90.8" lengthAdjust="spacing">sau, ori, fie, ba</text>
 
-  <g>
-    <rect x="60" y="100" width="220" height="60" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="170" y="135" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Copiii au citit</text>
-  </g>
-  <g>
-    <rect x="620" y="100" width="220" height="60" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="730" y="135" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">au jucat teatru</text>
-  </g>
-  <rect x="380" y="100" width="140" height="60" rx="12" fill="#f4ede0" stroke="#b8944f" stroke-width="2"/>
-  <text x="450" y="128" text-anchor="middle" font-size="12" font-weight="700" fill="#10233f">și</text>
-  <text x="450" y="146" text-anchor="middle" font-size="10" fill="#5b6b83">conjuncție</text>
-  <line x1="280" y1="130" x2="380" y2="130" stroke="#b8944f" stroke-width="2" marker-end="url(#arrow)"/>
-  <line x1="520" y1="130" x2="620" y2="130" stroke="#b8944f" stroke-width="2" marker-end="url(#arrow)"/>
-  <defs>
-    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
-      <path d="M0,0 L6,3 L0,6 Z" fill="#b8944f"/>
-    </marker>
-  </defs>
-  <text x="450" y="185" text-anchor="middle" font-size="12" fill="#3a3226">Copiii au citit și au jucat teatru.</text>
-  <text x="450" y="203" text-anchor="middle" font-size="11" fill="#5b6b83" font-style="italic">două propoziții principale, de același rang, unite prin conjuncție</text>
-
-  <g>
-    <rect x="120" y="230" width="200" height="50" rx="10" fill="#ffffff" stroke="#6f5ea8" stroke-width="1.5"/>
-    <text x="220" y="250" text-anchor="middle" font-size="11" font-weight="700" fill="#10233f">copulativă</text>
-    <text x="220" y="267" text-anchor="middle" font-size="10" fill="#5b6b83">și, nici</text>
-  </g>
-  <g>
-    <rect x="350" y="230" width="200" height="50" rx="10" fill="#ffffff" stroke="#6f5ea8" stroke-width="1.5"/>
-    <text x="450" y="250" text-anchor="middle" font-size="11" font-weight="700" fill="#10233f">adversativă</text>
-    <text x="450" y="267" text-anchor="middle" font-size="10" fill="#5b6b83">dar, însă, iar</text>
-  </g>
-  <g>
-    <rect x="580" y="230" width="220" height="50" rx="10" fill="#ffffff" stroke="#6f5ea8" stroke-width="1.5"/>
-    <text x="690" y="250" text-anchor="middle" font-size="11" font-weight="700" fill="#10233f">disjunctivă / concluzivă</text>
-    <text x="690" y="267" text-anchor="middle" font-size="10" fill="#5b6b83">sau, ori / deci, așadar</text>
-  </g>
-
-  <text x="450" y="305" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 86-87</text>
+<text x="516.3" y="801.6" font-size="14.5" fill="#3a3226" textLength="298.1" lengthAdjust="spacing">fără virgulă când nu sunt în pereche; cu virgulă</text>
+<text x="516.3" y="822.6" font-size="14.5" fill="#3a3226" textLength="123.0" lengthAdjust="spacing">când sunt repetate:</text>
+<text x="643.2" y="822.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="146.0" lengthAdjust="spacing">Sau înveți, sau mergi la</text>
+<text x="516.3" y="843.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="59.0" lengthAdjust="spacing">plimbare.</text>
+<line x1="62.0" y1="854.0" x2="838.0" y2="854.0" stroke="#e3dccb"/>
+<text x="74.0" y="876.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="77.9" lengthAdjust="spacing">adversative</text>
+<text x="205.9" y="876.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="114.8" lengthAdjust="spacing">dar, iar, însă, ci, or</text>
+<text x="361.1" y="876.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="112.4" lengthAdjust="spacing">numai că, doar că</text>
+<text x="516.3" y="876.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="83.2" lengthAdjust="spacing">întotdeauna</text>
+<text x="603.5" y="876.5" font-size="14.5" fill="#3a3226" textLength="93.7" lengthAdjust="spacing">virgulă înainte:</text>
+<text x="701.0" y="876.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="97.1" lengthAdjust="spacing">Am învățat, dar</text>
+<text x="516.3" y="897.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="132.8" lengthAdjust="spacing">n-am știut răspunsul.</text>
+<line x1="62.0" y1="907.8" x2="838.0" y2="907.8" stroke="#e3dccb"/>
+<text x="74.0" y="930.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="71.2" lengthAdjust="spacing">concluzive</text>
+<text x="205.9" y="930.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="25.1" lengthAdjust="spacing">deci</text>
+<text x="361.1" y="930.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="39.6" lengthAdjust="spacing">așa că</text>
+<text x="516.3" y="930.3" font-size="14.5" fill="#3a3226" textLength="282.0" lengthAdjust="spacing">virgulă înainte; în interiorul propoziției nu se</text>
+<text x="516.3" y="951.4" font-size="14.5" fill="#3a3226" textLength="54.1" lengthAdjust="spacing">izolează:</text>
+<text x="574.3" y="951.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="148.0" lengthAdjust="spacing">A învățat, știe deci bine.</text>
+<line x1="62.0" y1="961.7" x2="838.0" y2="961.7" stroke="#e3dccb"/>
+<line x1="193.9" y1="693.6" x2="193.9" y2="961.7" stroke="#e3dccb"/>
+<line x1="349.1" y1="693.6" x2="349.1" y2="961.7" stroke="#e3dccb"/>
+<line x1="504.3" y1="693.6" x2="504.3" y2="961.7" stroke="#e3dccb"/>
+<text x="233.1" y="1011.2" font-size="11.5" fill="#5b6b83" textLength="433.8" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 86-87, rubricile Repere și tabelul conjuncțiilor coordonatoare.</text>
 </svg>
