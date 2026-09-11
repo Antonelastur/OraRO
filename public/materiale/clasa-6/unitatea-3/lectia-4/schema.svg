@@ -1,52 +1,101 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="420" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Epitetul și alte figuri de stil</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 3 · Iarna de Vasile Alecsandri</text>
-
-  <g>
-    <rect x="40" y="95" width="270" height="190" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="175" y="122" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Epitetul</text>
-    <text font-size="11" fill="#3a3226" text-anchor="middle">
-      <tspan x="175" y="146">Un cuvânt (adesea</tspan>
-      <tspan x="175" y="161">adjectiv) care arată o</tspan>
-      <tspan x="175" y="176">însușire deosebită.</tspan>
-      <tspan x="175" y="206" font-style="italic">„soarele rotund</tspan>
-      <tspan x="175" y="221" font-style="italic">și palid”</tspan>
-      <tspan x="175" y="246" font-style="italic">„sanie ușoară”</tspan>
-    </text>
-  </g>
-
-  <g>
-    <rect x="315" y="95" width="270" height="190" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="450" y="122" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Comparația</text>
-    <text font-size="11" fill="#3a3226" text-anchor="middle">
-      <tspan x="450" y="146">Apropie două elemente</tspan>
-      <tspan x="450" y="161">printr-un cuvânt de</tspan>
-      <tspan x="450" y="176">legătură (ca, precum).</tspan>
-      <tspan x="450" y="206" font-style="italic">„plopii... ca</tspan>
-      <tspan x="450" y="221" font-style="italic">fantasme albe”</tspan>
-      <tspan x="450" y="246">→ sugerează neliniște</tspan>
-    </text>
-  </g>
-
-  <g>
-    <rect x="590" y="95" width="270" height="190" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="725" y="122" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Personificarea</text>
-    <text font-size="11" fill="#3a3226" text-anchor="middle">
-      <tspan x="725" y="146">Dă însușiri omenești</tspan>
-      <tspan x="725" y="161">unor lucruri sau</tspan>
-      <tspan x="725" y="176">fenomene ale naturii.</tspan>
-      <tspan x="725" y="206" font-style="italic">„cumplita iarnă</tspan>
-      <tspan x="725" y="221" font-style="italic">cerne norii”</tspan>
-      <tspan x="725" y="246" font-style="italic">„doritul soare... dismiardă”</tspan>
-    </text>
-  </g>
-
-  <rect x="150" y="310" width="600" height="52" rx="14" fill="#fff3da" stroke="#b8944f" stroke-width="1.5"/>
-  <text font-size="12" fill="#3a3226" text-anchor="middle">
-    <tspan x="450" y="332">Figurile de stil dau expresivitate textului: cuvântul capătă un sens</tspan>
-    <tspan x="450" y="349">figurat, diferit de sensul lui propriu, de bază.</tspan>
-  </text>
-
-  <text x="450" y="398" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 3, p. 88, partea 1/2</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1148" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1148" fill="#faf7f0"/>
+<text x="318.4" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="263.5" lengthAdjust="spacing">Epitetul. Versificația</text>
+<text x="212.5" y="74.4" font-size="14" fill="#5b6b83" textLength="475.0" lengthAdjust="spacing">Clasa a VI-a · Unitatea a III-a, Lecția 4 · Manual, pp. 88-89 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. FIGURILE DE STIL</text>
+<rect x="40" y="128.6" width="820" height="77.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="99.6" lengthAdjust="spacing">Figurile de stil</text>
+<text x="165.7" y="161.6" font-size="15" fill="#3a3226" textLength="25.1" lengthAdjust="spacing">dau</text>
+<text x="194.8" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="90.8" lengthAdjust="spacing">expresivitate</text>
+<text x="289.6" y="161.6" font-size="15" fill="#3a3226" textLength="298.0" lengthAdjust="spacing">textului. Nu e destul să le recunosc: le dau un</text>
+<text x="591.6" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="30.4" lengthAdjust="spacing">sens</text>
+<text x="626.1" y="161.6" font-size="15" fill="#3a3226" textLength="177.7" lengthAdjust="spacing">în legătură cu întregul text.</text>
+<text x="62.0" y="183.3" font-size="15" fill="#3a3226" textLength="205.0" lengthAdjust="spacing">Într-o descriere, ele conturează</text>
+<text x="271.1" y="183.3" font-size="15" fill="#3a3226" font-weight="700" textLength="54.3" lengthAdjust="spacing">original</text>
+<text x="329.4" y="183.3" font-size="15" fill="#3a3226" textLength="118.0" lengthAdjust="spacing">elementul descris.</text>
+<rect x="40" y="225.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="248.8" font-size="16" font-weight="700" fill="#ffffff">2. EPITETUL</text>
+<rect x="40" y="259.9" width="820" height="487.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="293.9" font-size="16" fill="#10233f" font-weight="700" textLength="58.2" lengthAdjust="spacing">Epitetul</text>
+<text x="124.6" y="293.9" font-size="16" fill="#10233f" textLength="94.6" lengthAdjust="spacing">determină un</text>
+<text x="223.4" y="293.9" font-size="16" fill="#10233f" font-weight="700" textLength="77.8" lengthAdjust="spacing">substantiv</text>
+<text x="305.5" y="293.9" font-size="16" fill="#10233f" textLength="46.6" lengthAdjust="spacing">sau un</text>
+<text x="356.4" y="293.9" font-size="16" fill="#10233f" font-weight="700" textLength="33.6" lengthAdjust="spacing">verb</text>
+<text x="394.3" y="293.9" font-size="16" fill="#10233f" textLength="156.8" lengthAdjust="spacing">prin cuvinte care arată</text>
+<text x="555.4" y="293.9" font-size="16" fill="#10233f" font-weight="700" textLength="131.2" lengthAdjust="spacing">însușiri deosebite</text>
+<text x="691.0" y="293.9" font-size="16" fill="#10233f" textLength="122.7" lengthAdjust="spacing">ale obiectului sau</text>
+<text x="62.0" y="317.1" font-size="16" fill="#10233f" textLength="78.9" lengthAdjust="spacing">ale acțiunii.</text>
+<rect x="62.0" y="335.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="357.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="30.1" lengthAdjust="spacing">Felul</text>
+<text x="384.4" y="357.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="367.4" x2="838.0" y2="367.4" stroke="#e3dccb"/>
+<text x="74.0" y="389.9" font-size="14.5" fill="#3a3226" textLength="156.4" lengthAdjust="spacing">pe lângă substantiv, prin</text>
+<text x="234.4" y="389.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="53.2" lengthAdjust="spacing">adjectiv</text>
+<text x="384.4" y="389.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="89.9" lengthAdjust="spacing">„sanie ușoară”</text>
+<line x1="62.0" y1="400.3" x2="838.0" y2="400.3" stroke="#e3dccb"/>
+<text x="74.0" y="422.8" font-size="14.5" fill="#3a3226" textLength="156.4" lengthAdjust="spacing">pe lângă substantiv, prin</text>
+<text x="234.4" y="422.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="70.5" lengthAdjust="spacing">substantiv</text>
+<text x="308.7" y="422.8" font-size="14.5" fill="#3a3226" textLength="50.9" lengthAdjust="spacing">(metale,</text>
+<text x="74.0" y="443.8" font-size="14.5" fill="#3a3226" textLength="156.0" lengthAdjust="spacing">pietre prețioase, materii)</text>
+<text x="384.4" y="422.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="101.8" lengthAdjust="spacing">„fiori de gheață”</text>
+<line x1="62.0" y1="454.1" x2="838.0" y2="454.1" stroke="#e3dccb"/>
+<text x="74.0" y="476.6" font-size="14.5" fill="#3a3226" textLength="55.1" lengthAdjust="spacing">pe lângă</text>
+<text x="133.0" y="476.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="30.4" lengthAdjust="spacing">verb</text>
+<text x="384.4" y="476.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="89.6" lengthAdjust="spacing">„voios răsună”</text>
+<line x1="62.0" y1="487.0" x2="838.0" y2="487.0" stroke="#e3dccb"/>
+<text x="74.0" y="509.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="59.5" lengthAdjust="spacing">cromatic</text>
+<text x="137.4" y="509.5" font-size="14.5" fill="#3a3226" textLength="63.1" lengthAdjust="spacing">(culoarea)</text>
+<text x="384.4" y="509.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="82.4" lengthAdjust="spacing">„umeri dalbi”</text>
+<line x1="62.0" y1="519.8" x2="838.0" y2="519.8" stroke="#e3dccb"/>
+<text x="74.0" y="542.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="95.4" lengthAdjust="spacing">personificator</text>
+<text x="384.4" y="542.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="89.5" lengthAdjust="spacing">„mândra țară”</text>
+<line x1="62.0" y1="552.7" x2="838.0" y2="552.7" stroke="#e3dccb"/>
+<line x1="372.4" y1="335.9" x2="372.4" y2="552.7" stroke="#e3dccb"/>
+<rect x="62.0" y="566.7" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="588.2" font-size="13.5" fill="#10233f" font-weight="700" textLength="162.1" lengthAdjust="spacing">După numărul termenilor</text>
+<text x="306.8" y="588.2" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="598.2" x2="838.0" y2="598.2" stroke="#e3dccb"/>
+<text x="74.0" y="620.7" font-size="14.5" fill="#3a3226" textLength="42.3" lengthAdjust="spacing">simplu</text>
+<text x="306.8" y="620.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="85.7" lengthAdjust="spacing">„clăbuci albii”</text>
+<line x1="62.0" y1="631.1" x2="838.0" y2="631.1" stroke="#e3dccb"/>
+<text x="74.0" y="653.6" font-size="14.5" fill="#3a3226" textLength="37.1" lengthAdjust="spacing">dublu</text>
+<text x="306.8" y="653.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="149.5" lengthAdjust="spacing">„soarele rotund și palid”</text>
+<line x1="62.0" y1="663.9" x2="838.0" y2="663.9" stroke="#e3dccb"/>
+<text x="74.0" y="686.4" font-size="14.5" fill="#3a3226" textLength="33.8" lengthAdjust="spacing">triplu</text>
+<text x="306.8" y="686.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="262.2" lengthAdjust="spacing">„pe câmpia înălbită, netedă, strălucitoare”</text>
+<line x1="62.0" y1="696.8" x2="838.0" y2="696.8" stroke="#e3dccb"/>
+<text x="74.0" y="719.3" font-size="14.5" fill="#3a3226" textLength="54.8" lengthAdjust="spacing">în cumul</text>
+<text x="306.8" y="719.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="261.8" lengthAdjust="spacing">„Rece, fragilă, nouă, virginală, / Lumina...”</text>
+<text x="572.5" y="719.3" font-size="14.5" fill="#3a3226" textLength="99.4" lengthAdjust="spacing">(Tudor Arghezi)</text>
+<line x1="62.0" y1="729.6" x2="838.0" y2="729.6" stroke="#e3dccb"/>
+<line x1="294.8" y1="566.7" x2="294.8" y2="729.6" stroke="#e3dccb"/>
+<rect x="40" y="767.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="790.6" font-size="16" font-weight="700" fill="#ffffff">3. VERSIFICAȚIA</text>
+<rect x="40" y="801.6" width="820" height="295.7" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="819.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="841.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="59.0" lengthAdjust="spacing">Noțiunea</text>
+<text x="229.2" y="841.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="45.2" lengthAdjust="spacing">Ce este</text>
+<line x1="62.0" y1="851.2" x2="838.0" y2="851.2" stroke="#e3dccb"/>
+<text x="74.0" y="873.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="40.7" lengthAdjust="spacing">versul</text>
+<text x="229.2" y="873.7" font-size="14.5" fill="#3a3226" textLength="144.4" lengthAdjust="spacing">un rând dintr-o poezie</text>
+<line x1="62.0" y1="884.0" x2="838.0" y2="884.0" stroke="#e3dccb"/>
+<text x="74.0" y="906.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="40.0" lengthAdjust="spacing">strofa</text>
+<text x="229.2" y="906.5" font-size="14.5" fill="#3a3226" textLength="366.1" lengthAdjust="spacing">un grup de versuri, despărțit de altele printr-un rând liber</text>
+<line x1="62.0" y1="916.9" x2="838.0" y2="916.9" stroke="#e3dccb"/>
+<text x="74.0" y="939.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="50.0" lengthAdjust="spacing">măsura</text>
+<text x="229.2" y="939.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="121.7" lengthAdjust="spacing">numărul de silabe</text>
+<text x="354.8" y="939.4" font-size="14.5" fill="#3a3226" textLength="82.2" lengthAdjust="spacing">dintr-un vers</text>
+<line x1="62.0" y1="949.7" x2="838.0" y2="949.7" stroke="#e3dccb"/>
+<text x="74.0" y="972.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="31.0" lengthAdjust="spacing">rima</text>
+<text x="229.2" y="972.2" font-size="14.5" fill="#3a3226" textLength="360.9" lengthAdjust="spacing">potrivirea sunetelor de la sfârșitul versurilor, începând cu</text>
+<text x="594.0" y="972.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="169.5" lengthAdjust="spacing">ultima vocală accentuată</text>
+<line x1="62.0" y1="982.6" x2="838.0" y2="982.6" stroke="#e3dccb"/>
+<line x1="217.2" y1="819.6" x2="217.2" y2="982.6" stroke="#e3dccb"/>
+<rect x="62.0" y="996.6" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="1023.1" font-size="14.5" fill="#10233f" font-weight="700" textLength="138.9" lengthAdjust="spacing">Cum număr silabele:</text>
+<text x="78.0" y="1041.9" font-size="14.5" fill="#3a3226" textLength="577.5" lengthAdjust="spacing">despart versul în silabe așa cum se rostește: vocalele alăturate care se pronunță împreună (</text>
+<text x="655.5" y="1041.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="67.4" lengthAdjust="spacing">s-a-nceput</text>
+<text x="722.9" y="1041.9" font-size="14.5" fill="#3a3226" textLength="80.2" lengthAdjust="spacing">) formează o</text>
+<text x="78.0" y="1063.0" font-size="14.5" fill="#3a3226" textLength="90.6" lengthAdjust="spacing">singură silabă.</text>
+<text x="227.9" y="1128.8" font-size="11.5" fill="#5b6b83" textLength="444.1" lengthAdjust="spacing">Sursa: Manual Art 6, pp. 88-89, rubricile Repere și exercițiile de versificație din Explorare.</text>
 </svg>

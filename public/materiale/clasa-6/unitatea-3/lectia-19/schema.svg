@@ -1,17 +1,118 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="340" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Cazul genitiv</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 14 · articolul genitival</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 880" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="880" fill="#faf7f0"/>
+<text x="240.3" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="420.3" lengthAdjust="spacing">Cazul genitiv. Articolul genitival</text>
+<text x="201.2" y="74.4" font-size="14" fill="#5b6b83" textLength="497.7" lengthAdjust="spacing">Clasa a VI-a · Unitatea a III-a, Lecția 19 · Manual, pp. 113-114 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. GENITIVUL</text>
+<rect x="40" y="128.6" width="820" height="113.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" textLength="181.6" lengthAdjust="spacing">Substantivul cu funcția de</text>
+<text x="247.9" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="51.7" lengthAdjust="spacing">atribut</text>
+<text x="303.9" y="162.6" font-size="16" fill="#10233f" textLength="192.3" lengthAdjust="spacing">care răspunde la întrebarea</text>
+<text x="500.5" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="124.0" lengthAdjust="spacing">al (a, ai, ale) cui?</text>
+<text x="628.9" y="162.6" font-size="16" fill="#10233f" textLength="46.1" lengthAdjust="spacing">este în</text>
+<text x="679.3" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="52.2" lengthAdjust="spacing">genitiv</text>
+<text x="731.4" y="162.6" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">:</text>
+<text x="739.3" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="51.7" lengthAdjust="spacing">atribut</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="160.6" lengthAdjust="spacing">substantival genitival</text>
+<text x="222.6" y="185.8" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<text x="62.0" y="219.6" font-size="15" fill="#10233f" font-style="italic" textLength="44.2" lengthAdjust="spacing">Fratele</text>
+<text x="110.3" y="219.6" font-size="15" fill="#3a3226" font-weight="700" textLength="56.7" lengthAdjust="spacing">Roxanei</text>
+<text x="171.0" y="219.6" font-size="15" fill="#10233f" font-style="italic" textLength="80.1" lengthAdjust="spacing">are șase ani.</text>
+<text x="255.2" y="219.6" font-size="15" fill="#3a3226" textLength="22.1" lengthAdjust="spacing">· La</text>
+<text x="281.3" y="219.6" font-size="15" fill="#3a3226" font-weight="700" textLength="48.9" lengthAdjust="spacing">genitiv</text>
+<text x="334.2" y="219.6" font-size="15" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">și</text>
+<text x="348.2" y="219.6" font-size="15" fill="#3a3226" font-weight="700" textLength="35.5" lengthAdjust="spacing">dativ</text>
+<text x="383.7" y="219.6" font-size="15" fill="#3a3226" textLength="114.0" lengthAdjust="spacing">, substantivele au</text>
+<text x="501.8" y="219.6" font-size="15" fill="#3a3226" font-weight="700" textLength="97.3" lengthAdjust="spacing">aceeași formă</text>
+<text x="599.1" y="219.6" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="40" y="262.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="285.1" font-size="16" font-weight="700" fill="#ffffff">2. ARTICOLUL GENITIVAL</text>
+<rect x="40" y="296.1" width="820" height="216.2" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="314.1" width="776.0" height="31.6" fill="#efeaf8"/>
 
-  <rect x="180" y="95" width="540" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="450" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Atributul substantival genitival</text>
-  <text font-size="12" fill="#3a3226" text-anchor="middle">
-    <tspan x="450" y="150" font-weight="700">Întrebare: al, a, ai, ale cui?</tspan>
-    <tspan x="450" y="178" font-style="italic">A descoperit cariocile </tspan><tspan font-weight="700" fill="#6f5ea8">surorii</tspan><tspan font-style="italic"> lui.</tspan>
-    <tspan x="450" y="198">Articolul genitival (al, a, ai, ale) preia genul și numărul</tspan>
-    <tspan x="450" y="216">substantivului determinat, nu ale substantivului în genitiv.</tspan>
-  </text>
-
-  <text x="450" y="290" text-anchor="middle" font-size="11.5" fill="#3a3226">Ex.: „pisoii violeți ai bunicii” — ai preia genul și numărul lui „pisoii”.</text>
-  <text x="450" y="316" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 14, pp. 113-114</text>
+<text x="428.4" y="335.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="51.0" lengthAdjust="spacing">singular</text>
+<text x="691.5" y="335.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="36.9" lengthAdjust="spacing">plural</text>
+<line x1="62.0" y1="345.7" x2="838.0" y2="345.7" stroke="#e3dccb"/>
+<text x="74.0" y="368.2" font-size="14.5" fill="#3a3226" textLength="111.1" lengthAdjust="spacing">masculin (neutru)</text>
+<text x="447.9" y="368.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="11.9" lengthAdjust="spacing">al</text>
+<text x="704.0" y="368.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="11.9" lengthAdjust="spacing">ai</text>
+<line x1="62.0" y1="378.5" x2="838.0" y2="378.5" stroke="#e3dccb"/>
+<text x="74.0" y="401.0" font-size="14.5" fill="#3a3226" textLength="48.0" lengthAdjust="spacing">feminin</text>
+<text x="450.0" y="401.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="7.8" lengthAdjust="spacing">a</text>
+<text x="700.1" y="401.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="19.7" lengthAdjust="spacing">ale</text>
+<line x1="62.0" y1="411.4" x2="838.0" y2="411.4" stroke="#e3dccb"/>
+<line x1="325.8" y1="314.1" x2="325.8" y2="411.4" stroke="#e3dccb"/>
+<line x1="581.9" y1="314.1" x2="581.9" y2="411.4" stroke="#e3dccb"/>
+<text x="62.0" y="440.4" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="440.4" font-size="15" fill="#3a3226" textLength="15.8" lengthAdjust="spacing">Se</text>
+<text x="94.0" y="440.4" font-size="15" fill="#3a3226" font-weight="700" textLength="47.9" lengthAdjust="spacing">acordă</text>
+<text x="145.9" y="440.4" font-size="15" fill="#3a3226" textLength="205.2" lengthAdjust="spacing">în gen și număr cu substantivul</text>
+<text x="355.2" y="440.4" font-size="15" fill="#3a3226" font-weight="700" textLength="78.5" lengthAdjust="spacing">determinat</text>
+<text x="433.6" y="440.4" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="441.0" y="440.4" font-size="15" fill="#10233f" font-style="italic" textLength="68.8" lengthAdjust="spacing">pereții albi</text>
+<text x="513.9" y="440.4" font-size="15" fill="#3a3226" font-weight="700" textLength="12.3" lengthAdjust="spacing">ai</text>
+<text x="530.2" y="440.4" font-size="15" fill="#10233f" font-style="italic" textLength="149.1" lengthAdjust="spacing">camerei; iarba albastră</text>
+<text x="683.3" y="440.4" font-size="15" fill="#3a3226" font-weight="700" textLength="8.1" lengthAdjust="spacing">a</text>
+<text x="695.5" y="440.4" font-size="15" fill="#10233f" font-style="italic" textLength="60.3" lengthAdjust="spacing">câmpului</text>
+<text x="755.8" y="440.4" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="465.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="465.1" font-size="15" fill="#3a3226" textLength="131.5" lengthAdjust="spacing">Într-o enumerare se</text>
+<text x="209.8" y="465.1" font-size="15" fill="#3a3226" font-weight="700" textLength="26.4" lengthAdjust="spacing">reia</text>
+<text x="240.2" y="465.1" font-size="15" fill="#3a3226" textLength="179.1" lengthAdjust="spacing">înaintea fiecărui substantiv:</text>
+<text x="423.4" y="465.1" font-size="15" fill="#10233f" font-style="italic" textLength="134.5" lengthAdjust="spacing">perdelele sufrageriei,</text>
+<text x="562.0" y="465.1" font-size="15" fill="#3a3226" font-weight="700" textLength="20.4" lengthAdjust="spacing">ale</text>
+<text x="586.4" y="465.1" font-size="15" fill="#10233f" font-style="italic" textLength="78.6" lengthAdjust="spacing">bucătăriei și</text>
+<text x="669.1" y="465.1" font-size="15" fill="#3a3226" font-weight="700" textLength="20.4" lengthAdjust="spacing">ale</text>
+<text x="693.5" y="465.1" font-size="15" fill="#10233f" font-style="italic" textLength="51.6" lengthAdjust="spacing">camerei</text>
+<text x="745.1" y="465.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="489.9" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="489.9" font-size="15" fill="#3a3226" textLength="200.4" lengthAdjust="spacing">La unele nume proprii apare și</text>
+<text x="278.6" y="489.9" font-size="15" fill="#3a3226" font-weight="700" textLength="17.6" lengthAdjust="spacing">lui</text>
+<text x="296.2" y="489.9" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="303.5" y="489.9" font-size="15" fill="#10233f" font-style="italic" textLength="147.9" lengthAdjust="spacing">caietul curat al lui Dan</text>
+<text x="451.4" y="489.9" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="40" y="532.4" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="555.4" font-size="16" font-weight="700" fill="#ffffff">3. SUBSTANTIVUL: CENTRU SAU ADJUNCT</text>
+<rect x="40" y="566.4" width="820" height="262.8" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="584.4" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="605.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="43.1" lengthAdjust="spacing">Poziția</text>
+<text x="306.8" y="605.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="53.7" lengthAdjust="spacing">Exemple</text>
+<line x1="62.0" y1="615.9" x2="838.0" y2="615.9" stroke="#e3dccb"/>
+<text x="74.0" y="638.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="43.9" lengthAdjust="spacing">centru</text>
+<text x="121.9" y="638.4" font-size="14.5" fill="#3a3226" textLength="133.3" lengthAdjust="spacing">al unui grup nominal</text>
+<text x="306.8" y="638.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="29.7" lengthAdjust="spacing">caiet</text>
+<text x="340.4" y="638.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="35.1" lengthAdjust="spacing">curat</text>
+<text x="375.5" y="638.4" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="382.6" y="638.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="29.7" lengthAdjust="spacing">caiet</text>
+<text x="416.3" y="638.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="61.8" lengthAdjust="spacing">de notițe</text>
+<text x="478.0" y="638.4" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="485.2" y="638.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="41.6" lengthAdjust="spacing">caietul</text>
+<text x="530.7" y="638.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="58.7" lengthAdjust="spacing">copilului</text>
+<line x1="62.0" y1="648.8" x2="838.0" y2="648.8" stroke="#e3dccb"/>
+<text x="74.0" y="671.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="51.2" lengthAdjust="spacing">adjunct</text>
+<text x="129.1" y="671.2" font-size="14.5" fill="#3a3226" textLength="134.3" lengthAdjust="spacing">într-un grup nominal</text>
+<text x="306.8" y="671.2" font-size="14.5" fill="#3a3226" textLength="45.8" lengthAdjust="spacing">atribut:</text>
+<text x="356.5" y="671.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="29.7" lengthAdjust="spacing">caiet</text>
+<text x="390.2" y="671.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="61.8" lengthAdjust="spacing">de notițe</text>
+<text x="451.9" y="671.2" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="459.1" y="671.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="41.6" lengthAdjust="spacing">caietul</text>
+<text x="504.6" y="671.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="58.7" lengthAdjust="spacing">copilului</text>
+<line x1="62.0" y1="681.6" x2="838.0" y2="681.6" stroke="#e3dccb"/>
+<text x="74.0" y="704.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="51.2" lengthAdjust="spacing">adjunct</text>
+<text x="129.1" y="704.1" font-size="14.5" fill="#3a3226" textLength="121.3" lengthAdjust="spacing">într-un grup verbal</text>
+<text x="306.8" y="704.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="11.7" lengthAdjust="spacing">Ia</text>
+<text x="322.5" y="704.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="54.1" lengthAdjust="spacing">un caiet</text>
+<text x="376.5" y="704.1" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="383.6" y="704.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="74.5" lengthAdjust="spacing">Mă gândesc</text>
+<text x="462.1" y="704.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="48.3" lengthAdjust="spacing">la caiet</text>
+<text x="510.4" y="704.1" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="517.5" y="704.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="59.3" lengthAdjust="spacing">Pixul este</text>
+<text x="580.7" y="704.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="53.2" lengthAdjust="spacing">pe caiet</text>
+<text x="633.9" y="704.1" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="714.5" x2="838.0" y2="714.5" stroke="#e3dccb"/>
+<line x1="294.8" y1="584.4" x2="294.8" y2="714.5" stroke="#e3dccb"/>
+<rect x="62.0" y="728.5" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="755.0" font-size="14.5" fill="#10233f" font-weight="700" textLength="119.9" lengthAdjust="spacing">Model de analiză:</text>
+<text x="78.0" y="773.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="713.6" lengthAdjust="spacing">„a tatălui” – substantiv comun, genul masculin, numărul singular, cazul genitiv, articulat cu articolul hotărât „-lui”,</text>
+<text x="78.0" y="794.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="525.9" lengthAdjust="spacing">precedat de articolul genitival „a”, funcția sintactică de atribut substantival genitival.</text>
+<text x="268.8" y="860.7" font-size="11.5" fill="#5b6b83" textLength="362.5" lengthAdjust="spacing">Sursa: Manual Art 6, pp. 113-114, rubricile Repere și modelul de analiză.</text>
 </svg>

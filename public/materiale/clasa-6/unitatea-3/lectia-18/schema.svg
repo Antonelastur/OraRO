@@ -1,17 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="340" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Cazul dativ</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 13 · complementul indirect</text>
-
-  <rect x="180" y="95" width="540" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="450" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Complementul indirect</text>
-  <text font-size="12" fill="#3a3226" text-anchor="middle">
-    <tspan x="450" y="150" font-weight="700">Întrebare: cui?</tspan>
-    <tspan x="450" y="178" font-style="italic">I-am adus Mariei o carte.</tspan>
-    <tspan x="450" y="198" font-style="italic">Lui Carmen i-am scris un e-mail.</tspan>
-    <tspan x="450" y="222">Arată ființa în folosul sau în paguba căreia se face acțiunea.</tspan>
-  </text>
-
-  <text x="450" y="290" text-anchor="middle" font-size="11.5" fill="#3a3226">Se exprimă des dublat: „I-am adus Mariei...” (i-, apoi Mariei).</text>
-  <text x="450" y="316" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 13, p. 112</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 688" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="688" fill="#faf7f0"/>
+<text x="218.7" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="463.4" lengthAdjust="spacing">Cazul dativ. Complementul indirect</text>
+<text x="219.4" y="74.4" font-size="14" fill="#5b6b83" textLength="461.2" lengthAdjust="spacing">Clasa a VI-a · Unitatea a III-a, Lecția 18 · Manual, p. 112 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. COMPLEMENTUL INDIRECT</text>
+<rect x="40" y="128.6" width="820" height="113.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="173.1" lengthAdjust="spacing">Complementul indirect</text>
+<text x="239.4" y="162.6" font-size="16" fill="#10233f" textLength="184.6" lengthAdjust="spacing">determină un verb și arată</text>
+<text x="428.4" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="89.0" lengthAdjust="spacing">beneficiarul</text>
+<text x="521.7" y="162.6" font-size="16" fill="#10233f" textLength="252.0" lengthAdjust="spacing">unei acțiuni. Răspunde la întrebarea</text>
+<text x="778.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="29.0" lengthAdjust="spacing">cui?</text>
+<text x="811.3" y="162.6" font-size="16" fill="#10233f" textLength="22.1" lengthAdjust="spacing">Stă</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" textLength="53.0" lengthAdjust="spacing">în cazul</text>
+<text x="119.3" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="37.9" lengthAdjust="spacing">dativ</text>
+<text x="157.2" y="185.8" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<text x="62.0" y="219.6" font-size="15" fill="#10233f" font-style="italic" textLength="36.6" lengthAdjust="spacing">Îi dau</text>
+<text x="102.6" y="219.6" font-size="15" fill="#3a3226" font-weight="700" textLength="60.8" lengthAdjust="spacing">copilului</text>
+<text x="167.4" y="219.6" font-size="15" fill="#10233f" font-style="italic" textLength="50.5" lengthAdjust="spacing">un măr.</text>
+<text x="222.0" y="219.6" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">·</text>
+<text x="229.4" y="219.6" font-size="15" fill="#10233f" font-style="italic" textLength="116.4" lengthAdjust="spacing">Sebastian îi spune</text>
+<text x="349.8" y="219.6" font-size="15" fill="#3a3226" font-weight="700" textLength="48.0" lengthAdjust="spacing">mamei</text>
+<text x="401.9" y="219.6" font-size="15" fill="#10233f" font-style="italic" textLength="59.7" lengthAdjust="spacing">adevărul.</text>
+<rect x="40" y="262.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="285.1" font-size="16" font-weight="700" fill="#ffffff">2. DATIVUL NUMELOR DE PERSOANE</text>
+<rect x="40" y="296.1" width="820" height="187.1" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="314.1" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="335.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="49.7" lengthAdjust="spacing">Numele</text>
+<text x="384.4" y="335.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="50.0" lengthAdjust="spacing">La dativ</text>
+<text x="578.4" y="335.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="53.7" lengthAdjust="spacing">Exemple</text>
+<line x1="62.0" y1="345.7" x2="838.0" y2="345.7" stroke="#e3dccb"/>
+<text x="74.0" y="368.2" font-size="14.5" fill="#3a3226" textLength="230.0" lengthAdjust="spacing">masculine sau feminine terminate în</text>
+<text x="74.0" y="389.2" font-size="14.5" fill="#3a3226" textLength="151.5" lengthAdjust="spacing">consoană; nume străine</text>
+<text x="384.4" y="368.2" font-size="14.5" fill="#3a3226" textLength="14.9" lengthAdjust="spacing">cu</text>
+<text x="403.3" y="368.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="17.0" lengthAdjust="spacing">lui</text>
+<text x="424.1" y="368.2" font-size="14.5" fill="#3a3226" textLength="43.4" lengthAdjust="spacing">înainte</text>
+<text x="578.4" y="368.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="129.8" lengthAdjust="spacing">lui Petru, lui Carmen</text>
+<line x1="62.0" y1="399.5" x2="838.0" y2="399.5" stroke="#e3dccb"/>
+<text x="74.0" y="422.0" font-size="14.5" fill="#3a3226" textLength="136.7" lengthAdjust="spacing">feminine terminate în</text>
+<text x="214.6" y="422.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="13.6" lengthAdjust="spacing">-a</text>
+<text x="384.4" y="422.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="17.7" lengthAdjust="spacing">-ei</text>
+<text x="578.4" y="422.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="98.6" lengthAdjust="spacing">Robertei, Mariei</text>
+<line x1="62.0" y1="432.4" x2="838.0" y2="432.4" stroke="#e3dccb"/>
+<text x="74.0" y="454.9" font-size="14.5" fill="#3a3226" textLength="136.7" lengthAdjust="spacing">feminine terminate în</text>
+<text x="214.6" y="454.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="51.2" lengthAdjust="spacing">-ca, -ga</text>
+<text x="384.4" y="454.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="17.7" lengthAdjust="spacing">-ăi</text>
+<text x="578.4" y="454.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="81.9" lengthAdjust="spacing">Ericăi, Helgăi</text>
+<line x1="62.0" y1="465.2" x2="838.0" y2="465.2" stroke="#e3dccb"/>
+<line x1="372.4" y1="314.1" x2="372.4" y2="465.2" stroke="#e3dccb"/>
+<line x1="566.4" y1="314.1" x2="566.4" y2="465.2" stroke="#e3dccb"/>
+<rect x="40" y="503.2" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="526.2" font-size="16" font-weight="700" fill="#ffffff">3. MODEL DE ANALIZĂ</text>
+<rect x="40" y="537.2" width="820" height="99.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="555.2" width="776.0" height="63.9" rx="12" fill="#f3efe4"/><text x="78.0" y="581.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="700.6" lengthAdjust="spacing">„vrăbiuțelor” – complement indirect, exprimat prin substantiv comun, genul feminin, numărul plural, cazul dativ,</text>
+<text x="78.0" y="602.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="216.3" lengthAdjust="spacing">articulat cu articolul hotărât „-lor”.</text>
+<text x="283.8" y="668.6" font-size="11.5" fill="#5b6b83" textLength="332.5" lengthAdjust="spacing">Sursa: Manual Art 6, p. 112, rubricile Repere și modelul de analiză.</text>
 </svg>

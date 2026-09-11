@@ -1,17 +1,71 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="340" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Cazul vocativ</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 15</text>
-
-  <rect x="180" y="95" width="540" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="450" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">O chemare, nu o funcție sintactică</text>
-  <text font-size="12" fill="#3a3226" text-anchor="middle">
-    <tspan x="450" y="150">Arată o chemare sau atrage atenția cuiva.</tspan>
-    <tspan x="450" y="176" font-style="italic">Corina, pleci departe în vacanță?</tspan>
-    <tspan x="450" y="196" font-style="italic">Ascultă melodia, băiatule!</tspan>
-    <tspan x="450" y="222">Formă proprie (-e, -ule, -o, -lor) sau identică cu nominativul.</tspan>
-  </text>
-
-  <text x="450" y="290" text-anchor="middle" font-size="11.5" fill="#3a3226">În scris, se separă mereu prin virgulă de restul propoziției.</text>
-  <text x="450" y="316" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 15, p. 115</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 757" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="757" fill="#faf7f0"/>
+<text x="363.5" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="173.3" lengthAdjust="spacing">Cazul vocativ</text>
+<text x="219.4" y="74.4" font-size="14" fill="#5b6b83" textLength="461.2" lengthAdjust="spacing">Clasa a VI-a · Unitatea a III-a, Lecția 20 · Manual, p. 115 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ESTE VOCATIVUL</text>
+<rect x="40" y="128.6" width="820" height="132.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" textLength="152.5" lengthAdjust="spacing">Substantivul prin care</text>
+<text x="218.8" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="64.0" lengthAdjust="spacing">chemăm</text>
+<text x="287.1" y="162.6" font-size="16" fill="#10233f" textLength="106.9" lengthAdjust="spacing">pe cineva sau îi</text>
+<text x="398.3" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="120.3" lengthAdjust="spacing">atragem atenția</text>
+<text x="523.0" y="162.6" font-size="16" fill="#10233f" textLength="46.1" lengthAdjust="spacing">este în</text>
+<text x="573.4" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="54.1" lengthAdjust="spacing">vocativ</text>
+<text x="627.4" y="162.6" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="181.4" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="181.4" width="6" height="61.7" rx="3" fill="#b4432c"/><text x="84.0" y="207.9" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="226.7" font-size="14.5" fill="#3a3226" textLength="142.8" lengthAdjust="spacing">Substantivul în vocativ</text>
+<text x="230.7" y="226.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="163.3" lengthAdjust="spacing">nu are funcție sintactică</text>
+<text x="394.0" y="226.7" font-size="14.5" fill="#3a3226" textLength="80.9" lengthAdjust="spacing">, dar poate fi</text>
+<text x="478.8" y="226.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="43.9" lengthAdjust="spacing">centru</text>
+<text x="526.7" y="226.7" font-size="14.5" fill="#3a3226" textLength="112.8" lengthAdjust="spacing">pentru un atribut:</text>
+<text x="643.4" y="226.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="57.3" lengthAdjust="spacing">Nepotule</text>
+<text x="704.6" y="226.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="31.6" lengthAdjust="spacing">drag</text>
+<text x="736.2" y="226.7" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="743.3" y="226.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="62.5" lengthAdjust="spacing">răspunde!</text>
+<rect x="40" y="281.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="304.1" font-size="16" font-weight="700" fill="#ffffff">2. FORMELE</text>
+<rect x="40" y="315.1" width="820" height="231.8" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="333.1" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="354.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="40.4" lengthAdjust="spacing">Forma</text>
+<text x="384.4" y="354.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="53.7" lengthAdjust="spacing">Exemple</text>
+<line x1="62.0" y1="364.7" x2="838.0" y2="364.7" stroke="#e3dccb"/>
+<text x="74.0" y="387.2" font-size="14.5" fill="#3a3226" textLength="62.1" lengthAdjust="spacing">desinența</text>
+<text x="140.0" y="387.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="13.6" lengthAdjust="spacing">-e</text>
+<text x="384.4" y="387.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="81.1" lengthAdjust="spacing">băiete, Vlade</text>
+<line x1="62.0" y1="397.5" x2="838.0" y2="397.5" stroke="#e3dccb"/>
+<text x="74.0" y="420.0" font-size="14.5" fill="#3a3226" textLength="62.1" lengthAdjust="spacing">desinența</text>
+<text x="140.0" y="420.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="26.5" lengthAdjust="spacing">-ule</text>
+<text x="384.4" y="420.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="48.6" lengthAdjust="spacing">copilule</text>
+<line x1="62.0" y1="430.4" x2="838.0" y2="430.4" stroke="#e3dccb"/>
+<text x="74.0" y="452.9" font-size="14.5" fill="#3a3226" textLength="62.1" lengthAdjust="spacing">desinența</text>
+<text x="140.0" y="452.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="14.6" lengthAdjust="spacing">-o</text>
+<text x="384.4" y="452.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="25.1" lengthAdjust="spacing">Ano</text>
+<line x1="62.0" y1="463.2" x2="838.0" y2="463.2" stroke="#e3dccb"/>
+<text x="74.0" y="485.7" font-size="14.5" fill="#3a3226" textLength="62.1" lengthAdjust="spacing">desinența</text>
+<text x="140.0" y="485.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="24.5" lengthAdjust="spacing">-lor</text>
+<text x="384.4" y="485.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="93.5" lengthAdjust="spacing">copiilor, fetelor</text>
+<line x1="62.0" y1="496.1" x2="838.0" y2="496.1" stroke="#e3dccb"/>
+<text x="74.0" y="518.5" font-size="14.5" fill="#3a3226" textLength="186.3" lengthAdjust="spacing">aceeași formă cu nominativul</text>
+<text x="384.4" y="518.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="63.2" lengthAdjust="spacing">fată, Anca</text>
+<line x1="62.0" y1="528.9" x2="838.0" y2="528.9" stroke="#e3dccb"/>
+<line x1="372.4" y1="333.1" x2="372.4" y2="528.9" stroke="#e3dccb"/>
+<rect x="40" y="566.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="589.9" font-size="16" font-weight="700" fill="#ffffff">3. PUNCTUAȚIA</text>
+<rect x="40" y="600.9" width="820" height="105.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="633.9" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="633.9" font-size="15" fill="#3a3226" textLength="221.1" lengthAdjust="spacing">În scris, vocativul se desparte prin</text>
+<text x="299.4" y="633.9" font-size="15" fill="#3a3226" font-weight="700" textLength="49.0" lengthAdjust="spacing">virgulă</text>
+<text x="348.4" y="633.9" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="355.8" y="633.9" font-size="15" fill="#10233f" font-style="italic" textLength="158.7" lengthAdjust="spacing">Corina, pleci în vacanță?</text>
+<text x="62.0" y="658.6" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="658.6" font-size="15" fill="#3a3226" textLength="192.1" lengthAdjust="spacing">Uneori, după vocativ se pune</text>
+<text x="270.4" y="658.6" font-size="15" fill="#3a3226" font-weight="700" textLength="127.3" lengthAdjust="spacing">semnul exclamării</text>
+<text x="397.7" y="658.6" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="405.1" y="658.6" font-size="15" fill="#10233f" font-style="italic" textLength="46.2" lengthAdjust="spacing">Mamă!</text>
+<text x="62.0" y="683.4" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="683.4" font-size="15" fill="#3a3226" textLength="149.5" lengthAdjust="spacing">Dacă are determinanți,</text>
+<text x="227.8" y="683.4" font-size="15" fill="#3a3226" font-weight="700" textLength="72.2" lengthAdjust="spacing">tot grupul</text>
+<text x="304.0" y="683.4" font-size="15" fill="#3a3226" textLength="158.1" lengthAdjust="spacing">se desparte prin virgulă:</text>
+<text x="466.1" y="683.4" font-size="15" fill="#10233f" font-style="italic" textLength="200.7" lengthAdjust="spacing">Dragi colegi de clasă, vă felicit!</text>
+<text x="341.2" y="737.4" font-size="11.5" fill="#5b6b83" textLength="217.7" lengthAdjust="spacing">Sursa: Manual Art 6, p. 115, rubrica Repere.</text>
 </svg>

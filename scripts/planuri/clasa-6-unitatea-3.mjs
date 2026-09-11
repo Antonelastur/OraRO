@@ -50,7 +50,7 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Identifică indicii spațiali și temporali ai descrierii și particularitățile textului descriptiv literar în versuri.'],
-    resurse: ['Manual Art 6, pp. 86-87', 'Schema „Descrierea în versuri” (/materiale/clasa-6/unitatea-3/lectia-3/schema.svg)', 'O hartă fizică a României și doi fulgi de hârtie', 'Coli pentru planșe'],
+    resurse: ['Manual Art 6, pp. 86-87', 'Schema „Descrierea în versuri. Tabloul. Pastelul” (/materiale/clasa-6/unitatea-3/lectia-3/schema.svg)', 'O hartă fizică a României și doi fulgi de hârtie', 'Coli pentru planșe'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Doi elevi lipesc pe harta fizică a României un fulg mare unde vine mai întâi iarna și unul mic unde vine cel mai târziu.' },
@@ -67,7 +67,7 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Identifică epitetul, comparația și personificarea într-un text descriptiv literar și explică rolul lor.'],
-    resurse: ['Manual Art 6, pp. 88-89', 'Schema „Epitetul și alte figuri de stil” (/materiale/clasa-6/unitatea-3/lectia-4/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 88-89', 'Schema „Epitetul. Versificația” (/materiale/clasa-6/unitatea-3/lectia-4/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'În perechi, elevii stabilesc sensul cuvântului fulg în cele patru enunțuri de sub ilustrațiile de la p. 88: fulg de lebădă, de porumb, de fată, de zăpadă.' },
@@ -237,7 +237,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Reactualizează felul, genul și numărul substantivului și recunoaște substantivele colective și defective.'],
-    resurse: ['Manual Art 6, pp. 102-104', 'Schema „Substantivul (actualizare)” (/materiale/clasa-6/unitatea-3/lectia-14/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 102-104', 'Schema „Substantivul. Colectivele și defectivele” (/materiale/clasa-6/unitatea-3/lectia-14/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Joc pe grupe: în două minute, cât mai multe substantive care numesc ființe, obiecte și fenomene din imaginea de iarnă de la p. 102.' },
@@ -271,7 +271,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Diferențiază complementul direct de complementul prepozițional, ambele în cazul acuzativ.'],
-    resurse: ['Manual Art 6, pp. 106-108', 'Schema „Cazul acuzativ. Complementul direct și prepozițional” (/materiale/clasa-6/unitatea-3/lectia-16/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 106-108', 'Schema „Cazul acuzativ. Complementul direct și complementul prepozițional” (/materiale/clasa-6/unitatea-3/lectia-16/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'În grupe, elevii stabilesc funcția substantivelor din textul despre Daniel și sania de la p. 106.' },
@@ -288,7 +288,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Identifică circumstanțialul de loc și de timp și atributul substantival în acuzativ, diferențiindu-le după ce parte de vorbire determină.'],
-    resurse: ['Manual Art 6, pp. 109-111', 'Schema „Circumstanțialele. Atributul” (/materiale/clasa-6/unitatea-3/lectia-17/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 109-111', 'Schema „Cazul acuzativ. Circumstanțialele. Atributul” (/materiale/clasa-6/unitatea-3/lectia-17/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Pe textul „A nins la București în noaptea trecută…” de la p. 109, îi întreb ce parte de propoziție se poate scoate fără ca mesajul să se piardă.' },
@@ -305,7 +305,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Identifică complementul indirect, exprimat prin substantiv în cazul dativ.'],
-    resurse: ['Manual Art 6, p. 112', 'Schema „Cazul dativ” (/materiale/clasa-6/unitatea-3/lectia-18/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, p. 112', 'Schema „Cazul dativ. Complementul indirect” (/materiale/clasa-6/unitatea-3/lectia-18/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Citim „Zăpada îi dădea copacului o înfățișare ciudată.” și îi întreb cui îi dădea zăpada această înfățișare.' },

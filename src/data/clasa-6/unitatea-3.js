@@ -172,7 +172,7 @@ export const unitatea3 = {
         ],
         resurse: [
           'Manual Art 6, pp. 86-87',
-          'Schema „Descrierea în versuri” (/materiale/clasa-6/unitatea-3/lectia-3/schema.svg)',
+          'Schema „Descrierea în versuri. Tabloul. Pastelul” (/materiale/clasa-6/unitatea-3/lectia-3/schema.svg)',
           'O hartă fizică a României și doi fulgi de hârtie',
           'Coli pentru planșe',
         ],
@@ -217,7 +217,7 @@ export const unitatea3 = {
         fisa: null,
         joc: null,
         infografic: null,
-        schema: { fisier: '/materiale/clasa-6/unitatea-3/lectia-3/schema.svg', titlu: 'Descrierea în versuri' },
+        schema: { fisier: '/materiale/clasa-6/unitatea-3/lectia-3/schema.svg', titlu: 'Descrierea în versuri. Tabloul. Pastelul' },
         altele: [],
       },
     },
@@ -239,7 +239,7 @@ export const unitatea3 = {
         ],
         resurse: [
           'Manual Art 6, pp. 88-89',
-          'Schema „Epitetul și alte figuri de stil” (/materiale/clasa-6/unitatea-3/lectia-4/schema.svg)',
+          'Schema „Epitetul. Versificația” (/materiale/clasa-6/unitatea-3/lectia-4/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -283,7 +283,7 @@ export const unitatea3 = {
         fisa: null,
         joc: null,
         infografic: null,
-        schema: { fisier: '/materiale/clasa-6/unitatea-3/lectia-4/schema.svg', titlu: 'Epitetul și alte figuri de stil' },
+        schema: { fisier: '/materiale/clasa-6/unitatea-3/lectia-4/schema.svg', titlu: 'Epitetul. Versificația' },
         altele: [],
       },
     },
@@ -933,7 +933,7 @@ export const unitatea3 = {
         ],
         resurse: [
           'Manual Art 6, pp. 102-104',
-          'Schema „Substantivul (actualizare)” (/materiale/clasa-6/unitatea-3/lectia-14/schema.svg)',
+          'Schema „Substantivul. Colectivele și defectivele” (/materiale/clasa-6/unitatea-3/lectia-14/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -977,7 +977,7 @@ export const unitatea3 = {
         fisa: null,
         joc: null,
         infografic: null,
-        schema: { fisier: '/materiale/clasa-6/unitatea-3/lectia-14/schema.svg', titlu: 'Substantivul (actualizare)' },
+        schema: { fisier: '/materiale/clasa-6/unitatea-3/lectia-14/schema.svg', titlu: 'Substantivul. Colectivele și defectivele' },
         altele: [],
       },
     },
@@ -1065,7 +1065,7 @@ export const unitatea3 = {
         ],
         resurse: [
           'Manual Art 6, pp. 106-108',
-          'Schema „Cazul acuzativ. Complementul direct și prepozițional” (/materiale/clasa-6/unitatea-3/lectia-16/schema.svg)',
+          'Schema „Cazul acuzativ. Complementul direct și complementul prepozițional” (/materiale/clasa-6/unitatea-3/lectia-16/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -1109,7 +1109,7 @@ export const unitatea3 = {
         fisa: null,
         joc: null,
         infografic: null,
-        schema: { fisier: '/materiale/clasa-6/unitatea-3/lectia-16/schema.svg', titlu: 'Cazul acuzativ. Complementul direct și prepozițional' },
+        schema: { fisier: '/materiale/clasa-6/unitatea-3/lectia-16/schema.svg', titlu: 'Cazul acuzativ. Complementul direct și complementul prepozițional' },
         altele: [],
       },
     },
@@ -1131,7 +1131,7 @@ export const unitatea3 = {
         ],
         resurse: [
           'Manual Art 6, pp. 109-111',
-          'Schema „Circumstanțialele. Atributul” (/materiale/clasa-6/unitatea-3/lectia-17/schema.svg)',
+          'Schema „Cazul acuzativ. Circumstanțialele. Atributul” (/materiale/clasa-6/unitatea-3/lectia-17/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -1175,7 +1175,7 @@ export const unitatea3 = {
         fisa: null,
         joc: null,
         infografic: null,
-        schema: { fisier: '/materiale/clasa-6/unitatea-3/lectia-17/schema.svg', titlu: 'Circumstanțialele. Atributul' },
+        schema: { fisier: '/materiale/clasa-6/unitatea-3/lectia-17/schema.svg', titlu: 'Cazul acuzativ. Circumstanțialele. Atributul' },
         altele: [],
       },
     },
@@ -1197,7 +1197,7 @@ export const unitatea3 = {
         ],
         resurse: [
           'Manual Art 6, p. 112',
-          'Schema „Cazul dativ” (/materiale/clasa-6/unitatea-3/lectia-18/schema.svg)',
+          'Schema „Cazul dativ. Complementul indirect” (/materiale/clasa-6/unitatea-3/lectia-18/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -1241,7 +1241,7 @@ export const unitatea3 = {
         fisa: null,
         joc: null,
         infografic: null,
-        schema: { fisier: '/materiale/clasa-6/unitatea-3/lectia-18/schema.svg', titlu: 'Cazul dativ' },
+        schema: { fisier: '/materiale/clasa-6/unitatea-3/lectia-18/schema.svg', titlu: 'Cazul dativ. Complementul indirect' },
         altele: [],
       },
     },

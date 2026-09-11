@@ -1,30 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="340" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Cazul nominativ</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 10</text>
-
-  <g>
-    <rect x="90" y="95" width="330" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="255" y="123" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">Subiect</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="255" y="148">Arată cine face acțiunea</tspan>
-      <tspan x="255" y="164">sau despre cine se spune</tspan>
-      <tspan x="255" y="180">ceva.</tspan>
-      <tspan x="255" y="210" font-style="italic">Vântul bate destul de tare.</tspan>
-    </text>
-  </g>
-
-  <g>
-    <rect x="480" y="95" width="330" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="645" y="123" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">Nume predicativ</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="645" y="148">Completează sensul unui</tspan>
-      <tspan x="645" y="164">verb copulativ (a fi).</tspan>
-      <tspan x="645" y="210" font-style="italic">Crivățul este vântul cel</tspan>
-      <tspan x="645" y="226" font-style="italic">mai rece.</tspan>
-    </text>
-  </g>
-
-  <text x="450" y="290" text-anchor="middle" font-size="11.5" fill="#3a3226">Substantivul la nominativ nu are prepoziție înainte.</text>
-  <text x="450" y="316" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 10, p. 105</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 782" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="782" fill="#faf7f0"/>
+<text x="343.9" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="212.5" lengthAdjust="spacing">Cazul nominativ</text>
+<text x="219.4" y="74.4" font-size="14" fill="#5b6b83" textLength="461.2" lengthAdjust="spacing">Clasa a VI-a · Unitatea a III-a, Lecția 15 · Manual, p. 105 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ESTE CAZUL</text>
+<rect x="40" y="128.6" width="820" height="56.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="40.5" lengthAdjust="spacing">Cazul</text>
+<text x="106.8" y="162.6" font-size="16" fill="#10233f" textLength="349.9" lengthAdjust="spacing">este forma pe care o ia substantivul ca să exprime</text>
+<text x="461.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="128.0" lengthAdjust="spacing">funcția sintactică</text>
+<text x="593.4" y="162.6" font-size="16" fill="#10233f" textLength="92.8" lengthAdjust="spacing">în propoziție.</text>
+<rect x="40" y="205.4" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="228.4" font-size="16" font-weight="700" fill="#ffffff">2. NOMINATIVUL</text>
+<rect x="40" y="239.4" width="820" height="337.4" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="272.4" font-size="15" fill="#3a3226" textLength="128.2" lengthAdjust="spacing">Substantivul este în</text>
+<text x="194.3" y="272.4" font-size="15" fill="#3a3226" font-weight="700" textLength="71.7" lengthAdjust="spacing">nominativ</text>
+<text x="270.0" y="272.4" font-size="15" fill="#3a3226" textLength="129.7" lengthAdjust="spacing">când are funcția de:</text>
+<rect x="62.0" y="290.9" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="318.9" font-size="16" fill="#0d9c92" font-weight="700" textLength="53.8" lengthAdjust="spacing">subiect</text>
+<text x="78.0" y="342.2" font-size="14.5" fill="#3a3226" textLength="74.5" lengthAdjust="spacing">răspunde la</text>
+<text x="156.4" y="342.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="55.2" lengthAdjust="spacing">cine? ce?</text>
+<text x="78.0" y="366.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="39.0" lengthAdjust="spacing">Copiii</text>
+<text x="120.9" y="366.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="53.4" lengthAdjust="spacing">se joacă.</text>
+<rect x="458.0" y="290.9" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#9a7433" stroke-width="2"/>
+<text x="474.0" y="318.9" font-size="16" fill="#9a7433" font-weight="700" textLength="122.4" lengthAdjust="spacing">nume predicativ</text>
+<text x="474.0" y="342.2" font-size="14.5" fill="#3a3226" textLength="138.8" lengthAdjust="spacing">după verbul copulativ</text>
+<text x="474.0" y="366.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="56.5" lengthAdjust="spacing">Tata este</text>
+<text x="534.4" y="366.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="44.9" lengthAdjust="spacing">avocat</text>
+<text x="579.4" y="366.1" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="396.5" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="418.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="40.4" lengthAdjust="spacing">Forma</text>
+<text x="384.4" y="418.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="428.0" x2="838.0" y2="428.0" stroke="#e3dccb"/>
+<text x="74.0" y="450.5" font-size="14.5" fill="#3a3226" textLength="102.1" lengthAdjust="spacing">articulat hotărât</text>
+<text x="384.4" y="450.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="93.5" lengthAdjust="spacing">Copiii se joacă.</text>
+<line x1="62.0" y1="460.9" x2="838.0" y2="460.9" stroke="#e3dccb"/>
+<text x="74.0" y="483.4" font-size="14.5" fill="#3a3226" textLength="117.9" lengthAdjust="spacing">articulat nehotărât</text>
+<text x="384.4" y="483.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="95.7" lengthAdjust="spacing">Niște fetițe râd.</text>
+<line x1="62.0" y1="493.7" x2="838.0" y2="493.7" stroke="#e3dccb"/>
+<text x="74.0" y="516.2" font-size="14.5" fill="#3a3226" textLength="67.4" lengthAdjust="spacing">nearticulat</text>
+<text x="384.4" y="516.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="91.9" lengthAdjust="spacing">Vine ger mare.</text>
+<line x1="62.0" y1="526.6" x2="838.0" y2="526.6" stroke="#e3dccb"/>
+<line x1="372.4" y1="396.5" x2="372.4" y2="526.6" stroke="#e3dccb"/>
+<text x="62.0" y="554.6" font-size="14" fill="#5b6b83" textLength="388.1" lengthAdjust="spacing">Ca nume predicativ, substantivul în nominativ este, cel mai des,</text>
+<text x="453.8" y="554.6" font-size="14" fill="#5b6b83" font-weight="700" textLength="70.8" lengthAdjust="spacing">nearticulat</text>
+<text x="524.7" y="554.6" font-size="14" fill="#5b6b83" textLength="3.1" lengthAdjust="spacing">.</text>
+<rect x="40" y="596.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="619.8" font-size="16" font-weight="700" fill="#ffffff">3. MODEL DE ANALIZĂ</text>
+<rect x="40" y="630.8" width="820" height="99.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="648.8" width="776.0" height="63.9" rx="12" fill="#f3efe4"/><text x="78.0" y="675.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="699.0" lengthAdjust="spacing">„iarna” – substantiv comun, genul feminin, numărul singular, cazul nominativ, articulat cu articolul hotărât „-a”,</text>
+<text x="78.0" y="696.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="175.9" lengthAdjust="spacing">funcția sintactică de subiect.</text>
+<text x="283.8" y="762.1" font-size="11.5" fill="#5b6b83" textLength="332.5" lengthAdjust="spacing">Sursa: Manual Art 6, p. 105, rubricile Repere și modelul de analiză.</text>
 </svg>
