@@ -1,33 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="420" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Enumerația. Personajele</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 3 · fabula Uliul și găinile</text>
-
-  <rect x="350" y="86" width="200" height="46" rx="14" fill="#6f5ea8"/>
-  <text x="450" y="114" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">PERSONAJE</text>
-
-  <path d="M 450 132 L 450 152 L 230 152 L 230 174" stroke="#b8944f" stroke-width="2.5" fill="none"/>
-  <path d="M 450 132 L 450 152 L 670 152 L 670 174" stroke="#b8944f" stroke-width="2.5" fill="none"/>
-
-  <rect x="80" y="174" width="300" height="42" rx="10" fill="#eaf6f4"/>
-  <text x="230" y="200" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">animaliere</text>
-  <rect x="520" y="174" width="300" height="42" rx="10" fill="#f1ecfa"/>
-  <text x="670" y="200" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">umane</text>
-
-  <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-    <tspan x="230" y="238">principale / secundare</tspan>
-    <tspan x="230" y="256">individuale / colective</tspan>
-    <tspan x="230" y="282" font-style="italic">uliul, găinile</tspan>
-    <tspan x="670" y="238">de obicei absente sau</tspan>
-    <tspan x="670" y="256">în plan secund în fabulă</tspan>
-    <tspan x="670" y="282" font-style="italic">„Ion prinse un uliu”</tspan>
-  </text>
-
-  <rect x="150" y="310" width="600" height="60" rx="14" fill="#fff3da" stroke="#b8944f" stroke-width="1.5"/>
-  <text font-size="12" fill="#3a3226" text-anchor="middle">
-    <tspan x="450" y="333">Enumerația înșiră mai mulți termeni de același fel, despărțiți prin virgulă,</tspan>
-    <tspan x="450" y="350">pentru a accentua o idee. Ex.: „Găini, cocoși și gâște întâi se îngroziră”.</tspan>
-  </text>
-
-  <text x="450" y="398" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 3, p. 126</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 826" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="826" fill="#faf7f0"/>
+<text x="242.7" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="415.2" lengthAdjust="spacing">Enumerația. Personajele fabulei</text>
+<text x="204.4" y="74.4" font-size="14" fill="#5b6b83" textLength="491.3" lengthAdjust="spacing">Clasa a VI-a · Unitatea a IV-a, Lecția 3 · Manual, pp. 126-127 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. ENUMERAȚIA</text>
+<rect x="40" y="128.6" width="820" height="113.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="85.8" lengthAdjust="spacing">Enumerația</text>
+<text x="152.1" y="162.6" font-size="16" fill="#10233f" textLength="585.7" lengthAdjust="spacing">este înșiruirea mai multor termeni de același fel (substantive, adjective, verbe), ca să</text>
+<text x="742.1" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="83.4" lengthAdjust="spacing">accentueze</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" textLength="91.2" lengthAdjust="spacing">o idee sau să</text>
+<text x="157.5" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="67.4" lengthAdjust="spacing">detalieze</text>
+<text x="229.2" y="185.8" font-size="16" fill="#10233f" textLength="267.0" lengthAdjust="spacing">ce se descrie. Termenii se despart prin</text>
+<text x="500.5" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="52.3" lengthAdjust="spacing">virgulă</text>
+<text x="552.9" y="185.8" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<text x="62.0" y="219.6" font-size="15" fill="#10233f" font-style="italic" textLength="95.7" lengthAdjust="spacing">În ogradă erau</text>
+<text x="161.7" y="219.6" font-size="15" fill="#3a3226" font-weight="700" textLength="170.4" lengthAdjust="spacing">rațe, gâște, curci și găini</text>
+<text x="332.1" y="219.6" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="40" y="262.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="285.1" font-size="16" font-weight="700" fill="#ffffff">2. PERSONAJELE FABULEI</text>
+<rect x="40" y="296.1" width="820" height="221.3" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="329.1" font-size="15" fill="#3a3226" textLength="324.7" lengthAdjust="spacing">Personajele (animale, plante, păsări, obiecte) sunt</text>
+<text x="390.8" y="329.1" font-size="15" fill="#3a3226" font-weight="700" textLength="91.7" lengthAdjust="spacing">personificate</text>
+<text x="482.4" y="329.1" font-size="15" fill="#3a3226" textLength="43.4" lengthAdjust="spacing">: devin</text>
+<text x="529.8" y="329.1" font-size="15" fill="#3a3226" font-weight="700" textLength="38.5" lengthAdjust="spacing">măști</text>
+<text x="572.4" y="329.1" font-size="15" fill="#3a3226" textLength="218.7" lengthAdjust="spacing">pentru anumite tipuri de oameni,</text>
+<text x="62.0" y="350.9" font-size="15" fill="#3a3226" textLength="185.3" lengthAdjust="spacing">criticați pentru defectele lor:</text>
+<text x="251.3" y="350.9" font-size="15" fill="#3a3226" font-weight="700" textLength="491.1" lengthAdjust="spacing">prostia, lăudăroșenia, dorința de putere, cruzimea, orgoliul, zgârcenia</text>
+<text x="742.4" y="350.9" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="369.4" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="390.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="51.3" lengthAdjust="spacing">Criteriul</text>
+<text x="306.8" y="390.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="61.7" lengthAdjust="spacing">Personaje</text>
+<line x1="62.0" y1="400.9" x2="838.0" y2="400.9" stroke="#e3dccb"/>
+<text x="74.0" y="423.4" font-size="14.5" fill="#3a3226" textLength="71.1" lengthAdjust="spacing">importanța</text>
+<text x="306.8" y="423.4" font-size="14.5" fill="#3a3226" textLength="141.4" lengthAdjust="spacing">principale / secundare</text>
+<line x1="62.0" y1="433.8" x2="838.0" y2="433.8" stroke="#e3dccb"/>
+<text x="74.0" y="456.2" font-size="14.5" fill="#3a3226" textLength="53.2" lengthAdjust="spacing">numărul</text>
+<text x="306.8" y="456.2" font-size="14.5" fill="#3a3226" textLength="138.8" lengthAdjust="spacing">individuale / colective</text>
+<line x1="62.0" y1="466.6" x2="838.0" y2="466.6" stroke="#e3dccb"/>
+<text x="74.0" y="489.1" font-size="14.5" fill="#3a3226" textLength="41.3" lengthAdjust="spacing">natura</text>
+<text x="306.8" y="489.1" font-size="14.5" fill="#3a3226" textLength="256.4" lengthAdjust="spacing">umane / animaliere (sau plante, obiecte)</text>
+<line x1="62.0" y1="499.5" x2="838.0" y2="499.5" stroke="#e3dccb"/>
+<line x1="294.8" y1="369.4" x2="294.8" y2="499.5" stroke="#e3dccb"/>
+<rect x="40" y="537.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="560.5" font-size="16" font-weight="700" fill="#ffffff">3. OPOZIȚIA DINTRE PERSONAJE</text>
+<rect x="40" y="571.5" width="820" height="203.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="604.5" font-size="15" fill="#3a3226" textLength="246.0" lengthAdjust="spacing">Întâmplarea se bazează, de obicei, pe</text>
+<text x="312.0" y="604.5" font-size="15" fill="#3a3226" font-weight="700" textLength="216.8" lengthAdjust="spacing">opoziția dintre două personaje</text>
+<text x="528.8" y="604.5" font-size="15" fill="#3a3226" textLength="137.7" lengthAdjust="spacing">, vizibilă chiar în titlu:</text>
+<text x="670.5" y="604.5" font-size="15" fill="#10233f" font-style="italic" textLength="164.7" lengthAdjust="spacing">Greierele și furnica, Lupul</text>
+<text x="62.0" y="626.2" font-size="15" fill="#10233f" font-style="italic" textLength="280.8" lengthAdjust="spacing">și mielul, Corbul și vulpea, Stejarul și trestia</text>
+<text x="342.8" y="626.2" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="644.7" width="380.0" height="112.6" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="672.7" font-size="16" fill="#0d9c92" font-weight="700" textLength="74.1" lengthAdjust="spacing">la început</text>
+<text x="78.0" y="696.0" font-size="14.5" fill="#3a3226" textLength="173.8" lengthAdjust="spacing">un personaj e într-o poziție</text>
+<text x="255.8" y="696.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="72.2" lengthAdjust="spacing">superioară</text>
+<text x="331.9" y="696.0" font-size="14.5" fill="#3a3226" textLength="92.9" lengthAdjust="spacing">(se mândrește,</text>
+<text x="78.0" y="717.0" font-size="14.5" fill="#3a3226" textLength="57.0" lengthAdjust="spacing">se laudă)</text>
+<text x="78.0" y="741.0" font-size="14.5" fill="#3a3226" textLength="142.8" lengthAdjust="spacing">celălalt e într-o poziție</text>
+<text x="224.7" y="741.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="66.4" lengthAdjust="spacing">inferioară</text>
+<rect x="458.0" y="644.7" width="380.0" height="112.6" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="672.7" font-size="16" fill="#6f5ea8" font-weight="700" textLength="235.0" lengthAdjust="spacing">după un eveniment neprevăzut</text>
+<text x="474.0" y="696.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="149.4" lengthAdjust="spacing">raportul se inversează</text>
+<text x="107.0" y="806.8" font-size="11.5" fill="#5b6b83" textLength="686.1" lengthAdjust="spacing">Sursa: Manual Art 6, pp. 126-127, rubricile Repere și schema personajelor din Explorare. Unele exemple sunt create pentru aceste notițe.</text>
 </svg>

@@ -105,7 +105,7 @@ export const unitatea4 = {
         ],
         resurse: [
           'Manual Art 6, pp. 124-125',
-          'Schema „Acțiunea, timpul și spațiul” (/materiale/clasa-6/unitatea-4/lectia-2/schema.svg)',
+          'Schema „Textul narativ în versuri. Fabula” (/materiale/clasa-6/unitatea-4/lectia-2/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -149,7 +149,7 @@ export const unitatea4 = {
         fisa: null,
         joc: null,
         infografic: null,
-        schema: { fisier: '/materiale/clasa-6/unitatea-4/lectia-2/schema.svg', titlu: 'Acțiunea, timpul și spațiul' },
+        schema: { fisier: '/materiale/clasa-6/unitatea-4/lectia-2/schema.svg', titlu: 'Textul narativ în versuri. Fabula' },
         altele: [],
       },
     },
@@ -171,7 +171,7 @@ export const unitatea4 = {
         ],
         resurse: [
           'Manual Art 6, pp. 126-127',
-          'Schema „Enumerația. Personajele” (/materiale/clasa-6/unitatea-4/lectia-3/schema.svg)',
+          'Schema „Enumerația. Personajele fabulei” (/materiale/clasa-6/unitatea-4/lectia-3/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -215,7 +215,7 @@ export const unitatea4 = {
         fisa: null,
         joc: null,
         infografic: null,
-        schema: { fisier: '/materiale/clasa-6/unitatea-4/lectia-3/schema.svg', titlu: 'Enumerația. Personajele' },
+        schema: { fisier: '/materiale/clasa-6/unitatea-4/lectia-3/schema.svg', titlu: 'Enumerația. Personajele fabulei' },
         altele: [],
       },
     },
@@ -768,7 +768,7 @@ export const unitatea4 = {
         ],
         resurse: [
           'Manual Art 6, pp. 136-137',
-          'Schema „Pronumele personal (actualizare)” (/materiale/clasa-6/unitatea-4/lectia-11/schema.svg)',
+          'Schema „Pronumele personal și pronumele de politețe” (/materiale/clasa-6/unitatea-4/lectia-11/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -812,7 +812,7 @@ export const unitatea4 = {
         fisa: null,
         joc: null,
         infografic: null,
-        schema: { fisier: '/materiale/clasa-6/unitatea-4/lectia-11/schema.svg', titlu: 'Pronumele personal (actualizare)' },
+        schema: { fisier: '/materiale/clasa-6/unitatea-4/lectia-11/schema.svg', titlu: 'Pronumele personal și pronumele de politețe' },
         altele: [],
       },
     },
@@ -1098,7 +1098,7 @@ export const unitatea4 = {
         ],
         resurse: [
           'Manual Art 6, pp. 144-145',
-          'Schema „Numeralul (actualizare)” (/materiale/clasa-6/unitatea-4/lectia-16/schema.svg)',
+          'Schema „Numeralul. Valorile numeralului” (/materiale/clasa-6/unitatea-4/lectia-16/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -1142,7 +1142,7 @@ export const unitatea4 = {
         fisa: null,
         joc: null,
         infografic: null,
-        schema: { fisier: '/materiale/clasa-6/unitatea-4/lectia-16/schema.svg', titlu: 'Numeralul (actualizare)' },
+        schema: { fisier: '/materiale/clasa-6/unitatea-4/lectia-16/schema.svg', titlu: 'Numeralul. Valorile numeralului' },
         altele: [],
       },
     },

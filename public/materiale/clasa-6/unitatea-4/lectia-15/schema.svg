@@ -1,34 +1,74 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="360" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Pronumele reflexiv</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 10</text>
-
-  <rect x="150" y="90" width="600" height="80" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="450" y="118" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Ce arată</text>
-  <text font-size="12" fill="#3a3226" text-anchor="middle">
-    <tspan x="450" y="142">Identitatea de persoană dintre cel care face acțiunea și cel</tspan>
-    <tspan x="450" y="160">asupra căruia se exercită ea. Are forme doar la persoana a III-a.</tspan>
-  </text>
-
-  <g>
-    <rect x="80" y="195" width="360" height="110" rx="14" fill="#eaf6f4"/>
-    <text x="260" y="220" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">se — cazul acuzativ</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="260" y="244" font-style="italic">se machiază, se privesc</tspan>
-      <tspan x="260" y="264">acțiunea se răsfrânge</tspan>
-      <tspan x="260" y="280">direct asupra subiectului</tspan>
-    </text>
-  </g>
-
-  <g>
-    <rect x="460" y="195" width="360" height="110" rx="14" fill="#f1ecfa"/>
-    <text x="640" y="220" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">își — cazul dativ</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="640" y="244" font-style="italic">își dă cu parfum, își zâmbesc</tspan>
-      <tspan x="640" y="264">acțiunea se răsfrânge</tspan>
-      <tspan x="640" y="280">indirect asupra subiectului</tspan>
-    </text>
-  </g>
-
-  <text x="450" y="330" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 10, p. 142</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 879" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="879" fill="#faf7f0"/>
+<text x="325.4" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="249.5" lengthAdjust="spacing">Pronumele reflexiv</text>
+<text x="200.6" y="74.4" font-size="14" fill="#5b6b83" textLength="498.8" lengthAdjust="spacing">Clasa a VI-a · Unitatea a IV-a, Lecția 15 · Manual, pp. 142-143 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ARATĂ</text>
+<rect x="40" y="128.6" width="820" height="90.3" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="142.6" lengthAdjust="spacing">Pronumele reflexiv</text>
+<text x="208.9" y="162.6" font-size="16" fill="#10233f" textLength="410.1" lengthAdjust="spacing">arată că persoana asupra căreia se îndreaptă acțiunea este</text>
+<text x="623.3" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="148.2" lengthAdjust="spacing">aceeași cu subiectul</text>
+<text x="771.4" y="162.6" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<text x="62.0" y="196.4" font-size="15" fill="#10233f" font-style="italic" textLength="41.4" lengthAdjust="spacing">Mama</text>
+<text x="107.5" y="196.4" font-size="15" fill="#3a3226" font-weight="700" textLength="14.7" lengthAdjust="spacing">se</text>
+<text x="126.2" y="196.4" font-size="15" fill="#10233f" font-style="italic" textLength="76.8" lengthAdjust="spacing">machiază și</text>
+<text x="207.1" y="196.4" font-size="15" fill="#3a3226" font-weight="700" textLength="15.0" lengthAdjust="spacing">își</text>
+<text x="226.1" y="196.4" font-size="15" fill="#10233f" font-style="italic" textLength="90.0" lengthAdjust="spacing">dă cu parfum.</text>
+<rect x="40" y="238.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="261.9" font-size="16" font-weight="700" fill="#ffffff">2. FORMELE PROPRII (PERSOANA A III-A)</text>
+<rect x="40" y="272.9" width="820" height="166.8" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="290.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="312.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="34.2" lengthAdjust="spacing">Cazul</text>
+<text x="395.0" y="312.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="71.3" lengthAdjust="spacing">Accentuate</text>
+<text x="633.4" y="312.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="137.7" lengthAdjust="spacing">Neaccentuate (clitice)</text>
+<line x1="62.0" y1="322.4" x2="838.0" y2="322.4" stroke="#e3dccb"/>
+<text x="74.0" y="344.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="56.0" lengthAdjust="spacing">acuzativ</text>
+<text x="403.6" y="344.9" font-size="14.5" fill="#3a3226" textLength="54.1" lengthAdjust="spacing">(pe) sine</text>
+<text x="685.9" y="344.9" font-size="14.5" fill="#3a3226" textLength="32.6" lengthAdjust="spacing">se, s-</text>
+<line x1="62.0" y1="355.3" x2="838.0" y2="355.3" stroke="#e3dccb"/>
+<text x="74.0" y="377.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="34.4" lengthAdjust="spacing">dativ</text>
+<text x="405.2" y="377.8" font-size="14.5" fill="#3a3226" textLength="50.9" lengthAdjust="spacing">sieși, sie</text>
+<text x="684.4" y="377.8" font-size="14.5" fill="#3a3226" textLength="35.5" lengthAdjust="spacing">își, și-</text>
+<line x1="62.0" y1="388.1" x2="838.0" y2="388.1" stroke="#e3dccb"/>
+<line x1="294.8" y1="290.9" x2="294.8" y2="388.1" stroke="#e3dccb"/>
+<line x1="566.4" y1="290.9" x2="566.4" y2="388.1" stroke="#e3dccb"/>
+<text x="62.0" y="417.1" font-size="15" fill="#3a3226" textLength="86.1" lengthAdjust="spacing">Formele sunt</text>
+<text x="152.2" y="417.1" font-size="15" fill="#3a3226" font-weight="700" textLength="208.7" lengthAdjust="spacing">aceleași la singular și la plural</text>
+<text x="364.9" y="417.1" font-size="15" fill="#3a3226" textLength="83.8" lengthAdjust="spacing">și nu au gen.</text>
+<rect x="40" y="459.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="482.6" font-size="16" font-weight="700" fill="#ffffff">3. PERSOANELE I ȘI A II-A</text>
+<rect x="40" y="493.6" width="820" height="334.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="526.6" font-size="15" fill="#3a3226" textLength="73.8" lengthAdjust="spacing">Împrumută</text>
+<text x="139.9" y="526.6" font-size="15" fill="#3a3226" font-weight="700" textLength="329.1" lengthAdjust="spacing">formele neaccentuate ale pronumelui personal</text>
+<text x="473.0" y="526.6" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="477.5" y="526.6" font-size="15" fill="#10233f" font-style="italic" textLength="179.7" lengthAdjust="spacing">mă, te, ne, vă; îmi, îți, ne, vă</text>
+<text x="657.2" y="526.6" font-size="15" fill="#3a3226" textLength="156.9" lengthAdjust="spacing">). Sunt reflexive când au</text>
+<text x="62.0" y="548.4" font-size="15" fill="#3a3226" font-weight="700" textLength="304.8" lengthAdjust="spacing">aceeași persoană și același număr cu verbul</text>
+<text x="366.8" y="548.4" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<rect x="62.0" y="566.9" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="594.9" font-size="16" fill="#0d9c92" font-weight="700" textLength="56.2" lengthAdjust="spacing">reflexiv</text>
+<text x="78.0" y="618.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="21.8" lengthAdjust="spacing">Mă</text>
+<text x="103.7" y="618.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="39.9" lengthAdjust="spacing">întreb.</text>
+<text x="78.0" y="642.1" font-size="14.5" fill="#3a3226" textLength="185.0" lengthAdjust="spacing">I sg. + I sg.: aceeași persoană</text>
+<rect x="458.0" y="566.9" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="594.9" font-size="16" fill="#6f5ea8" font-weight="700" textLength="64.6" lengthAdjust="spacing">personal</text>
+<text x="474.0" y="618.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="21.8" lengthAdjust="spacing">Mă</text>
+<text x="499.7" y="618.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="55.5" lengthAdjust="spacing">întreabă.</text>
+<text x="474.0" y="642.1" font-size="14.5" fill="#3a3226" textLength="192.0" lengthAdjust="spacing">I sg. + III sg.: persoane diferite</text>
+<rect x="62.0" y="672.5" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="672.5" width="6" height="61.7" rx="3" fill="#b4432c"/><text x="84.0" y="699.0" font-size="14.5" fill="#b4432c" font-weight="700" textLength="75.1" lengthAdjust="spacing">Ortograme</text>
+<text x="84.0" y="717.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="19.4" lengthAdjust="spacing">s-a</text>
+<text x="107.3" y="717.8" font-size="14.5" fill="#3a3226" textLength="32.5" lengthAdjust="spacing">(se a:</text>
+<text x="143.7" y="717.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="61.0" lengthAdjust="spacing">s-a spălat</text>
+<text x="204.8" y="717.8" font-size="14.5" fill="#3a3226" textLength="18.3" lengthAdjust="spacing">) ≠</text>
+<text x="227.0" y="717.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="13.6" lengthAdjust="spacing">sa</text>
+<text x="244.5" y="717.8" font-size="14.5" fill="#3a3226" textLength="40.6" lengthAdjust="spacing">(a sa) ·</text>
+<text x="289.0" y="717.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="27.6" lengthAdjust="spacing">s-au</text>
+<text x="320.5" y="717.8" font-size="14.5" fill="#3a3226" textLength="40.7" lengthAdjust="spacing">(se au:</text>
+<text x="365.2" y="717.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="86.9" lengthAdjust="spacing">s-au încurajat</text>
+<text x="452.0" y="717.8" font-size="14.5" fill="#3a3226" textLength="18.3" lengthAdjust="spacing">) ≠</text>
+<text x="474.2" y="717.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="21.7" lengthAdjust="spacing">sau</text>
+<text x="499.9" y="717.8" font-size="14.5" fill="#3a3226" textLength="25.8" lengthAdjust="spacing">(ori)</text>
+<rect x="62.0" y="748.2" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><text x="78.0" y="774.7" font-size="14.5" fill="#10233f" font-weight="700" textLength="119.9" lengthAdjust="spacing">Model de analiză:</text>
+<text x="78.0" y="793.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="572.1" lengthAdjust="spacing">„și” – pronume reflexiv, persoana a III-a, numărul singular, cazul dativ, formă neaccentuată.</text>
+<text x="268.8" y="859.4" font-size="11.5" fill="#5b6b83" textLength="362.5" lengthAdjust="spacing">Sursa: Manual Art 6, pp. 142-143, rubricile Repere și modelul de analiză.</text>
 </svg>

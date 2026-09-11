@@ -33,7 +33,7 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Identifică acțiunea, elementele structurii textului narativ și indiciile de spațiu din fabula Uliul și găinile.'],
-    resurse: ['Manual Art 6, pp. 124-125', 'Schema „Acțiunea, timpul și spațiul” (/materiale/clasa-6/unitatea-4/lectia-2/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 124-125', 'Schema „Textul narativ în versuri. Fabula” (/materiale/clasa-6/unitatea-4/lectia-2/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Elevii aleg, dintre variantele de la p. 124, pe cele care arată că textul lui Grigore Alexandrescu e o narațiune.' },
@@ -50,7 +50,7 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Identifică enumerația ca figură de stil și tipurile de personaje (animaliere/umane, principale/secundare, individuale/colective) dintr-o fabulă.'],
-    resurse: ['Manual Art 6, pp. 126-127', 'Schema „Enumerația. Personajele” (/materiale/clasa-6/unitatea-4/lectia-3/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 126-127', 'Schema „Enumerația. Personajele fabulei” (/materiale/clasa-6/unitatea-4/lectia-3/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Îi întreb pe elevi ce păsări sunt în ograda lui Ion, în ce vers apar și ce semn de punctuație le desparte.' },
@@ -186,7 +186,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Reactualizează pronumele personal și pronumele personal de politețe și categoriile lor gramaticale.'],
-    resurse: ['Manual Art 6, pp. 136-137', 'Schema „Pronumele personal (actualizare)” (/materiale/clasa-6/unitatea-4/lectia-11/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 136-137', 'Schema „Pronumele personal și pronumele de politețe” (/materiale/clasa-6/unitatea-4/lectia-11/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '6 min', activitate: 'Jocul de la p. 136: elevii numără pronumele din replicile corbului și ale vulpii și le grupează în personale și de politețe. Câștigă primul care termină corect.' },
@@ -271,7 +271,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Reactualizează numeralul cardinal și ordinal și recunoaște valorile lor morfologice.'],
-    resurse: ['Manual Art 6, pp. 144-145', 'Schema „Numeralul (actualizare)” (/materiale/clasa-6/unitatea-4/lectia-16/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 144-145', 'Schema „Numeralul. Valorile numeralului” (/materiale/clasa-6/unitatea-4/lectia-16/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Citim replicile lupului și ale oii de la p. 144, cu cele trei adevăruri, și căutăm numeralele.' },

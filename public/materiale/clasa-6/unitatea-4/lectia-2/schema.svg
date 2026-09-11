@@ -1,31 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="380" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Acțiunea, timpul și spațiul</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 2 · Uliul și găinile de Grigore Alexandrescu</text>
-
-  <g>
-    <rect x="60" y="100" width="360" height="180" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="240" y="128" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Acțiunea</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="240" y="154">Ion prinde uliul, găinile</tspan>
-      <tspan x="240" y="170">se obișnuiesc cu el, îl</tspan>
-      <tspan x="240" y="186">eliberează, el le răpește.</tspan>
-      <tspan x="240" y="212">O succesiune de fapte,</tspan>
-      <tspan x="240" y="228">nu doar o descriere.</tspan>
-    </text>
-  </g>
-
-  <g>
-    <rect x="480" y="100" width="360" height="180" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="660" y="128" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Timpul și spațiul</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="660" y="154">Fabula nu insistă pe</tspan>
-      <tspan x="660" y="170">indici expliciți, e mai</tspan>
-      <tspan x="660" y="186">degrabă atemporală.</tspan>
-      <tspan x="660" y="212">Spațiul: ograda, lângă</tspan>
-      <tspan x="660" y="228">coteț, cerul (zborul uliului).</tspan>
-    </text>
-  </g>
-
-  <text x="450" y="330" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 1-2, pp. 122-125</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 775" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="775" fill="#faf7f0"/>
+<text x="242.5" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="416.0" lengthAdjust="spacing">Textul narativ în versuri. Fabula</text>
+<text x="204.4" y="74.4" font-size="14" fill="#5b6b83" textLength="491.3" lengthAdjust="spacing">Clasa a VI-a · Unitatea a IV-a, Lecția 2 · Manual, pp. 124-125 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. NARAȚIUNEA ÎN VERSURI</text>
+<rect x="40" y="128.6" width="820" height="188.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" textLength="218.1" lengthAdjust="spacing">Textul narativ literar poate fi scris</text>
+<text x="284.1" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="57.3" lengthAdjust="spacing">în proză</text>
+<text x="345.5" y="161.6" font-size="15" fill="#3a3226" textLength="22.5" lengthAdjust="spacing">sau</text>
+<text x="372.0" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="65.7" lengthAdjust="spacing">în versuri</text>
+<text x="437.7" y="161.6" font-size="15" fill="#3a3226" textLength="92.4" lengthAdjust="spacing">. În versuri, un</text>
+<text x="534.2" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="52.4" lengthAdjust="spacing">narator</text>
+<text x="590.6" y="161.6" font-size="15" fill="#3a3226" textLength="217.9" lengthAdjust="spacing">relatează o întâmplare la care iau</text>
+<text x="62.0" y="183.3" font-size="15" fill="#3a3226" textLength="104.8" lengthAdjust="spacing">parte mai multe</text>
+<text x="170.9" y="183.3" font-size="15" fill="#3a3226" font-weight="700" textLength="68.7" lengthAdjust="spacing">personaje</text>
+<text x="239.6" y="183.3" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="216.8" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="216.8" font-size="15" fill="#3a3226" textLength="86.8" lengthAdjust="spacing">acțiunea este</text>
+<text x="165.1" y="216.8" font-size="15" fill="#3a3226" font-weight="700" textLength="40.4" lengthAdjust="spacing">alertă</text>
+<text x="205.5" y="216.8" font-size="15" fill="#3a3226" textLength="117.5" lengthAdjust="spacing">; · dialogurile sunt</text>
+<text x="327.0" y="216.8" font-size="15" fill="#3a3226" font-weight="700" textLength="16.5" lengthAdjust="spacing">vii</text>
+<text x="343.5" y="216.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">;</text>
+<text x="62.0" y="241.6" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="241.6" font-size="15" fill="#3a3226" textLength="59.2" lengthAdjust="spacing">contează</text>
+<text x="137.5" y="241.6" font-size="15" fill="#3a3226" font-weight="700" textLength="94.0" lengthAdjust="spacing">muzicalitatea</text>
+<text x="231.5" y="241.6" font-size="15" fill="#3a3226" textLength="269.1" lengthAdjust="spacing">: rime variate, versuri lungi și scurte, ritm.</text>
+<text x="62.0" y="274.1" font-size="14" fill="#5b6b83" textLength="105.6" lengthAdjust="spacing">Își are originea în</text>
+<text x="171.3" y="274.1" font-size="14" fill="#5b6b83" font-weight="700" textLength="93.1" lengthAdjust="spacing">tradițiile orale</text>
+<text x="264.4" y="274.1" font-size="14" fill="#5b6b83" textLength="118.4" lengthAdjust="spacing">: întâmplări eroice (</text>
+<text x="382.9" y="274.1" font-size="14" fill="#5b6b83" font-style="italic" textLength="33.7" lengthAdjust="spacing">Iliada</text>
+<text x="416.6" y="274.1" font-size="14" fill="#5b6b83" textLength="3.1" lengthAdjust="spacing">,</text>
+<text x="423.5" y="274.1" font-size="14" fill="#5b6b83" font-style="italic" textLength="48.6" lengthAdjust="spacing">Odiseea</text>
+<text x="472.1" y="274.1" font-size="14" fill="#5b6b83" textLength="353.1" lengthAdjust="spacing">, cântece despre cavaleri și haiduci) sau întâmplări cu tâlc,</text>
+<text x="62.0" y="294.4" font-size="14" fill="#5b6b83" textLength="121.2" lengthAdjust="spacing">ușor de ținut minte.</text>
+<rect x="40" y="336.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="359.6" font-size="16" font-weight="700" fill="#ffffff">2. FABULA</text>
+<rect x="40" y="370.6" width="820" height="219.1" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="404.6" font-size="16" fill="#10233f" font-weight="700" textLength="49.8" lengthAdjust="spacing">Fabula</text>
+<text x="116.1" y="404.6" font-size="16" fill="#10233f" textLength="50.2" lengthAdjust="spacing">oferă o</text>
+<text x="170.6" y="404.6" font-size="16" fill="#10233f" font-weight="700" textLength="104.3" lengthAdjust="spacing">lecție de viață</text>
+<text x="279.3" y="404.6" font-size="16" fill="#10233f" textLength="335.3" lengthAdjust="spacing">printr-o întâmplare simplă, pusă pe seama unor</text>
+<text x="618.9" y="404.6" font-size="16" fill="#10233f" font-weight="700" textLength="205.6" lengthAdjust="spacing">animale, plante sau obiecte</text>
+<text x="62.0" y="427.8" font-size="16" fill="#10233f" textLength="151.7" lengthAdjust="spacing">cu trăsături omenești.</text>
+<text x="62.0" y="461.6" font-size="15" fill="#3a3226" textLength="375.9" lengthAdjust="spacing">Pentru că întâmplarea are o semnificație valabilă oricând,</text>
+<text x="441.9" y="461.6" font-size="15" fill="#3a3226" font-weight="700" textLength="113.1" lengthAdjust="spacing">spațiul și timpul</text>
+<text x="559.1" y="461.6" font-size="15" fill="#3a3226" textLength="28.5" lengthAdjust="spacing">sunt</text>
+<text x="591.6" y="461.6" font-size="15" fill="#3a3226" font-weight="700" textLength="93.7" lengthAdjust="spacing">vag precizate</text>
+<text x="685.4" y="461.6" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="480.1" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="508.1" font-size="16" fill="#0d9c92" font-weight="700" textLength="81.0" lengthAdjust="spacing">narațiunea</text>
+<text x="78.0" y="531.4" font-size="14.5" fill="#3a3226" textLength="190.4" lengthAdjust="spacing">întâmplarea, cu personajele ei</text>
+<rect x="458.0" y="480.1" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#9a7433" stroke-width="2"/>
+<text x="474.0" y="508.1" font-size="16" fill="#9a7433" font-weight="700" textLength="52.6" lengthAdjust="spacing">morala</text>
+<text x="474.0" y="531.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="57.4" lengthAdjust="spacing">explicită</text>
+<text x="531.4" y="531.4" font-size="14.5" fill="#3a3226" textLength="243.2" lengthAdjust="spacing">: rostită de narator sau de un personaj</text>
+<text x="474.0" y="555.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="59.0" lengthAdjust="spacing">implicită</text>
+<text x="533.0" y="555.3" font-size="14.5" fill="#3a3226" textLength="119.5" lengthAdjust="spacing">: o deduce cititorul</text>
+<rect x="40" y="609.7" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="632.7" font-size="16" font-weight="700" fill="#ffffff">3. CUM URMĂRESC ÎNTÂMPLAREA</text>
+<rect x="40" y="643.7" width="820" height="80.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="676.7" font-size="15" fill="#3a3226" textLength="122.1" lengthAdjust="spacing">Leg întâmplările în</text>
+<text x="188.2" y="676.7" font-size="15" fill="#3a3226" font-weight="700" textLength="27.3" lengthAdjust="spacing">lanț</text>
+<text x="215.5" y="676.7" font-size="15" fill="#3a3226" textLength="98.4" lengthAdjust="spacing">, cauză și efect:</text>
+<text x="317.9" y="676.7" font-size="15" fill="#10233f" font-style="italic" textLength="284.2" lengthAdjust="spacing">... așa că ... · ... astfel încât ... · ... ca urmare ...</text>
+<text x="62.0" y="701.4" font-size="15" fill="#3a3226" textLength="677.0" lengthAdjust="spacing">Observ timpurile verbelor în narațiune și în dialog și ce efect au versurile lungi alternând cu cele scurte.</text>
+<text x="153.8" y="755.4" font-size="11.5" fill="#5b6b83" textLength="592.4" lengthAdjust="spacing">Sursa: Manual Art 6, pp. 124-125, rubrica Repere; textul de bază este fabula „Uliul și găinile” de Grigore Alexandrescu.</text>
 </svg>

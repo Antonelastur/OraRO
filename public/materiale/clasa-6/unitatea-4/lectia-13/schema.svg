@@ -1,30 +1,123 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="380" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Funcțiile sintactice ale pronumelui</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 9 · posibilități combinatorii</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1109" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1109" fill="#faf7f0"/>
+<text x="225.0" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="450.8" lengthAdjust="spacing">Funcțiile sintactice ale pronumelui</text>
+<text x="200.6" y="74.4" font-size="14" fill="#5b6b83" textLength="498.8" lengthAdjust="spacing">Clasa a VI-a · Unitatea a IV-a, Lecția 13 · Manual, pp. 140-141 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CA SUBSTANTIVUL</text>
+<rect x="40" y="128.6" width="820" height="77.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" textLength="264.6" lengthAdjust="spacing">Pronumele personal și cel de politețe au</text>
+<text x="330.6" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="284.9" lengthAdjust="spacing">aceleași funcții sintactice ca substantivul</text>
+<text x="615.5" y="161.6" font-size="15" fill="#3a3226" textLength="42.0" lengthAdjust="spacing">. Pot fi</text>
+<text x="661.5" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="45.5" lengthAdjust="spacing">centru</text>
+<text x="711.0" y="161.6" font-size="15" fill="#3a3226" textLength="80.1" lengthAdjust="spacing">al unui grup</text>
+<text x="62.0" y="183.3" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="66.5" y="183.3" font-size="15" fill="#10233f" font-style="italic" textLength="68.7" lengthAdjust="spacing">Dumneata</text>
+<text x="139.2" y="183.3" font-size="15" fill="#3a3226" font-weight="700" textLength="104.0" lengthAdjust="spacing">de lângă geam</text>
+<text x="243.2" y="183.3" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">,</text>
+<text x="250.6" y="183.3" font-size="15" fill="#10233f" font-style="italic" textLength="58.8" lengthAdjust="spacing">vino aici!</text>
+<text x="309.4" y="183.3" font-size="15" fill="#3a3226" textLength="31.1" lengthAdjust="spacing">) sau</text>
+<text x="344.5" y="183.3" font-size="15" fill="#3a3226" font-weight="700" textLength="53.0" lengthAdjust="spacing">adjunct</text>
+<text x="401.5" y="183.3" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="406.0" y="183.3" font-size="15" fill="#10233f" font-style="italic" textLength="40.4" lengthAdjust="spacing">cartea</text>
+<text x="450.4" y="183.3" font-size="15" fill="#3a3226" font-weight="700" textLength="59.5" lengthAdjust="spacing">de la voi</text>
+<text x="509.9" y="183.3" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">).</text>
+<rect x="40" y="225.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="248.8" font-size="16" font-weight="700" fill="#ffffff">2. FUNCȚIILE ȘI CAZURILE</text>
+<rect x="40" y="259.9" width="820" height="396.1" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="277.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="299.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="46.3" lengthAdjust="spacing">Funcția</text>
+<text x="339.8" y="299.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="34.2" lengthAdjust="spacing">Cazul</text>
+<text x="407.7" y="299.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="53.7" lengthAdjust="spacing">Exemple</text>
+<line x1="62.0" y1="309.4" x2="838.0" y2="309.4" stroke="#e3dccb"/>
+<text x="74.0" y="331.9" font-size="14.5" fill="#3a3226" textLength="45.5" lengthAdjust="spacing">subiect</text>
+<text x="351.4" y="331.9" font-size="14.5" fill="#3a3226" textLength="10.9" lengthAdjust="spacing">N</text>
+<text x="407.7" y="331.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="297.5" lengthAdjust="spacing">Ei au acceptat provocarea. Dumnealor au aflat?</text>
+<line x1="62.0" y1="342.3" x2="838.0" y2="342.3" stroke="#e3dccb"/>
+<text x="74.0" y="364.8" font-size="14.5" fill="#3a3226" textLength="103.1" lengthAdjust="spacing">nume predicativ</text>
+<text x="351.4" y="364.8" font-size="14.5" fill="#3a3226" textLength="10.9" lengthAdjust="spacing">N</text>
+<text x="407.7" y="364.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="111.2" lengthAdjust="spacing">Mesagerul este el.</text>
+<line x1="62.0" y1="375.1" x2="838.0" y2="375.1" stroke="#e3dccb"/>
+<text x="74.0" y="397.6" font-size="14.5" fill="#3a3226" textLength="208.9" lengthAdjust="spacing">atribut pronominal prepozițional</text>
+<text x="348.8" y="397.6" font-size="14.5" fill="#3a3226" textLength="16.1" lengthAdjust="spacing">Ac</text>
+<text x="407.7" y="397.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="196.0" lengthAdjust="spacing">Veștile despre dânșii sunt bune.</text>
+<line x1="62.0" y1="408.0" x2="838.0" y2="408.0" stroke="#e3dccb"/>
+<text x="74.0" y="430.5" font-size="14.5" fill="#3a3226" textLength="178.6" lengthAdjust="spacing">atribut pronominal genitival</text>
+<text x="351.9" y="430.5" font-size="14.5" fill="#3a3226" textLength="10.0" lengthAdjust="spacing">G</text>
+<text x="407.7" y="430.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="166.3" lengthAdjust="spacing">Unde a dispărut caietul ei?</text>
+<line x1="62.0" y1="440.8" x2="838.0" y2="440.8" stroke="#e3dccb"/>
+<text x="74.0" y="463.3" font-size="14.5" fill="#3a3226" textLength="120.6" lengthAdjust="spacing">complement direct</text>
+<text x="348.8" y="463.3" font-size="14.5" fill="#3a3226" textLength="16.1" lengthAdjust="spacing">Ac</text>
+<text x="407.7" y="463.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="232.3" lengthAdjust="spacing">Pe dumneavoastră v-am întâlnit ieri?</text>
+<line x1="62.0" y1="473.7" x2="838.0" y2="473.7" stroke="#e3dccb"/>
+<text x="74.0" y="496.1" font-size="14.5" fill="#3a3226" textLength="168.8" lengthAdjust="spacing">complement prepozițional</text>
+<text x="348.8" y="496.1" font-size="14.5" fill="#3a3226" textLength="16.1" lengthAdjust="spacing">Ac</text>
+<text x="407.7" y="496.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="116.1" lengthAdjust="spacing">Vorbim despre ele.</text>
+<line x1="62.0" y1="506.5" x2="838.0" y2="506.5" stroke="#e3dccb"/>
+<text x="74.0" y="529.0" font-size="14.5" fill="#3a3226" textLength="132.4" lengthAdjust="spacing">complement indirect</text>
+<text x="351.8" y="529.0" font-size="14.5" fill="#3a3226" textLength="10.2" lengthAdjust="spacing">D</text>
+<text x="407.7" y="529.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="171.1" lengthAdjust="spacing">Le-am spus doar lor vestea.</text>
+<line x1="62.0" y1="539.4" x2="838.0" y2="539.4" stroke="#e3dccb"/>
+<text x="74.0" y="561.9" font-size="14.5" fill="#3a3226" textLength="131.2" lengthAdjust="spacing">circumstanțial de loc</text>
+<text x="348.8" y="561.9" font-size="14.5" fill="#3a3226" textLength="16.1" lengthAdjust="spacing">Ac</text>
+<text x="407.7" y="561.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="59.2" lengthAdjust="spacing">Plec la ei.</text>
+<line x1="62.0" y1="572.2" x2="838.0" y2="572.2" stroke="#e3dccb"/>
+<text x="74.0" y="594.7" font-size="14.5" fill="#3a3226" textLength="142.1" lengthAdjust="spacing">circumstanțial de mod</text>
+<text x="348.8" y="594.7" font-size="14.5" fill="#3a3226" textLength="16.1" lengthAdjust="spacing">Ac</text>
+<text x="407.7" y="594.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="130.2" lengthAdjust="spacing">Procedează ca mine!</text>
+<line x1="62.0" y1="605.1" x2="838.0" y2="605.1" stroke="#e3dccb"/>
+<text x="74.0" y="627.6" font-size="14.5" fill="#3a3226" textLength="142.0" lengthAdjust="spacing">circumstanțial de timp</text>
+<text x="348.8" y="627.6" font-size="14.5" fill="#3a3226" textLength="16.1" lengthAdjust="spacing">Ac</text>
+<text x="407.7" y="627.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="114.4" lengthAdjust="spacing">Am sosit după voi.</text>
+<line x1="62.0" y1="637.9" x2="838.0" y2="637.9" stroke="#e3dccb"/>
+<line x1="318.1" y1="277.9" x2="318.1" y2="637.9" stroke="#e3dccb"/>
+<line x1="395.7" y1="277.9" x2="395.7" y2="637.9" stroke="#e3dccb"/>
+<rect x="40" y="675.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="698.9" font-size="16" font-weight="700" fill="#ffffff">3. ANTICIPAREA ȘI RELUAREA PRIN CLITICE</text>
+<rect x="40" y="709.9" width="820" height="347.7" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="727.9" width="776.0" height="31.6" fill="#efeaf8"/>
 
-  <rect x="130" y="90" width="640" height="46" rx="12" fill="#6f5ea8"/>
-  <text x="450" y="118" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">Are aceleași funcții sintactice ca substantivul</text>
-
-  <g font-size="11.5" fill="#3a3226">
-    <rect x="80" y="155" width="230" height="70" rx="10" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="195" y="177" text-anchor="middle" font-weight="700" fill="#10233f">Subiect (N)</text>
-    <text x="195" y="198" text-anchor="middle" font-style="italic">Ei au acceptat.</text>
-
-    <rect x="335" y="155" width="230" height="70" rx="10" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="450" y="177" text-anchor="middle" font-weight="700" fill="#10233f">Nume predicativ (N)</text>
-    <text x="450" y="198" text-anchor="middle" font-style="italic">Mesagerul este el.</text>
-
-    <rect x="590" y="155" width="230" height="70" rx="10" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="705" y="177" text-anchor="middle" font-weight="700" fill="#10233f">Atribut pronominal (Ac/G)</text>
-    <text x="705" y="198" text-anchor="middle" font-style="italic">tufișurile de lângă ea</text>
-  </g>
-
-  <rect x="150" y="248" width="600" height="60" rx="14" fill="#fff3da" stroke="#b8944f" stroke-width="1.5"/>
-  <text font-size="12" fill="#3a3226" text-anchor="middle">
-    <tspan x="450" y="270">Formele neaccentuate (l-, i-, le-) pot anticipa sau relua un</tspan>
-    <tspan x="450" y="288">complement: „L-am văzut la cofetărie pe tata.”</tspan>
-  </text>
-
-  <text x="450" y="340" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 9, p. 140, partea 1/2</text>
+<text x="229.2" y="749.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="122.0" lengthAdjust="spacing">Complement direct</text>
+<text x="539.6" y="749.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="134.1" lengthAdjust="spacing">Complement indirect</text>
+<line x1="62.0" y1="759.5" x2="838.0" y2="759.5" stroke="#e3dccb"/>
+<text x="74.0" y="782.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="67.9" lengthAdjust="spacing">anticipare</text>
+<text x="145.8" y="782.0" font-size="14.5" fill="#3a3226" textLength="44.8" lengthAdjust="spacing">(cliticul</text>
+<text x="74.0" y="803.0" font-size="14.5" fill="#3a3226" textLength="47.7" lengthAdjust="spacing">înainte)</text>
+<text x="229.2" y="782.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="7.4" lengthAdjust="spacing">L</text>
+<text x="236.6" y="782.0" font-size="14.5" fill="#3a3226" textLength="5.8" lengthAdjust="spacing">-</text>
+<text x="242.4" y="782.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="73.4" lengthAdjust="spacing">am întrebat</text>
+<text x="319.7" y="782.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="65.8" lengthAdjust="spacing">pe dânsul</text>
+<text x="385.5" y="782.0" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="539.6" y="782.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="4.6" lengthAdjust="spacing">I</text>
+<text x="544.2" y="782.0" font-size="14.5" fill="#3a3226" textLength="5.8" lengthAdjust="spacing">-</text>
+<text x="550.0" y="782.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="44.5" lengthAdjust="spacing">am dat</text>
+<text x="598.5" y="782.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="30.9" lengthAdjust="spacing">Anei</text>
+<text x="633.3" y="782.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="46.1" lengthAdjust="spacing">o carte.</text>
+<line x1="62.0" y1="813.3" x2="838.0" y2="813.3" stroke="#e3dccb"/>
+<text x="74.0" y="835.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="48.0" lengthAdjust="spacing">reluare</text>
+<text x="125.9" y="835.8" font-size="14.5" fill="#3a3226" textLength="44.8" lengthAdjust="spacing">(cliticul</text>
+<text x="74.0" y="856.9" font-size="14.5" fill="#3a3226" textLength="37.1" lengthAdjust="spacing">după)</text>
+<text x="229.2" y="835.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="47.6" lengthAdjust="spacing">Pe Ana</text>
+<text x="280.7" y="835.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="58.1" lengthAdjust="spacing">am văzut</text>
+<text x="338.8" y="835.8" font-size="14.5" fill="#3a3226" textLength="5.8" lengthAdjust="spacing">-</text>
+<text x="344.6" y="835.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="8.8" lengthAdjust="spacing">o</text>
+<text x="357.4" y="835.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="23.1" lengthAdjust="spacing">ieri.</text>
+<text x="539.6" y="835.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="55.1" lengthAdjust="spacing">Mamei i</text>
+<text x="594.7" y="835.8" font-size="14.5" fill="#3a3226" textLength="5.8" lengthAdjust="spacing">-</text>
+<text x="600.5" y="835.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="128.9" lengthAdjust="spacing">am adus o ciocolată.</text>
+<line x1="62.0" y1="867.2" x2="838.0" y2="867.2" stroke="#e3dccb"/>
+<line x1="217.2" y1="727.9" x2="217.2" y2="867.2" stroke="#e3dccb"/>
+<line x1="527.6" y1="727.9" x2="527.6" y2="867.2" stroke="#e3dccb"/>
+<rect x="62.0" y="881.2" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="881.2" width="6" height="61.7" rx="3" fill="#b4432c"/><text x="84.0" y="907.7" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="926.6" font-size="14.5" fill="#3a3226" textLength="187.2" lengthAdjust="spacing">Când apar două clitice, cel de</text>
+<text x="275.1" y="926.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="34.4" lengthAdjust="spacing">dativ</text>
+<text x="313.4" y="926.6" font-size="14.5" fill="#3a3226" textLength="18.4" lengthAdjust="spacing">stă</text>
+<text x="335.7" y="926.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="55.0" lengthAdjust="spacing">înaintea</text>
+<text x="394.6" y="926.6" font-size="14.5" fill="#3a3226" textLength="49.4" lengthAdjust="spacing">celui de</text>
+<text x="447.9" y="926.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="56.0" lengthAdjust="spacing">acuzativ</text>
+<text x="503.9" y="926.6" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">:</text>
+<text x="511.0" y="926.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="197.9" lengthAdjust="spacing">Mi l-a dat ieri. Adu-i-le imediat.</text>
+<rect x="62.0" y="956.9" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="983.4" font-size="14.5" fill="#10233f" font-weight="700" textLength="119.9" lengthAdjust="spacing">Model de analiză:</text>
+<text x="78.0" y="1002.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="723.6" lengthAdjust="spacing">„i” – pronume personal, persoana a III-a, numărul singular, genul masculin, cazul dativ, formă neaccentuată, funcție</text>
+<text x="78.0" y="1023.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="270.6" lengthAdjust="spacing">sintactică de complement indirect (reluare).</text>
+<text x="268.8" y="1089.1" font-size="11.5" fill="#5b6b83" textLength="362.5" lengthAdjust="spacing">Sursa: Manual Art 6, pp. 140-141, rubricile Repere și modelul de analiză.</text>
 </svg>

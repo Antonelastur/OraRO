@@ -1,33 +1,71 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="380" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Textul explicativ</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 13</text>
-
-  <g>
-    <rect x="60" y="100" width="360" height="180" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="240" y="128" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Explicativ cauzal</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="240" y="154">Răspunde la întrebarea</tspan>
-      <tspan x="240" y="170">de ce?, explică motivul</tspan>
-      <tspan x="240" y="186">unui fenomen sau fapt.</tspan>
-      <tspan x="240" y="216" font-style="italic">„De ce au elefanții</tspan>
-      <tspan x="240" y="232" font-style="italic">trompă?” — trompa îi</tspan>
-      <tspan x="240" y="248" font-style="italic">ajută să mănânce, să bea...</tspan>
-    </text>
-  </g>
-
-  <g>
-    <rect x="480" y="100" width="360" height="180" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="660" y="128" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Explicativ procedural</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="660" y="154">Răspunde la întrebarea</tspan>
-      <tspan x="660" y="170">cum?, explică pașii unei</tspan>
-      <tspan x="660" y="186">activități, o procedură.</tspan>
-      <tspan x="660" y="216" font-style="italic">Regulile jocului Uliii și</tspan>
-      <tspan x="660" y="232" font-style="italic">porumbeii — cum se joacă,</tspan>
-      <tspan x="660" y="248" font-style="italic">pas cu pas</tspan>
-    </text>
-  </g>
-
-  <text x="450" y="330" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 13, p. 148, partea 1/2</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 895" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="895" fill="#faf7f0"/>
+<text x="341.8" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="216.7" lengthAdjust="spacing">Textul explicativ</text>
+<text x="200.6" y="74.4" font-size="14" fill="#5b6b83" textLength="498.8" lengthAdjust="spacing">Clasa a VI-a · Unitatea a IV-a, Lecția 19 · Manual, pp. 148-149 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ESTE</text>
+<rect x="40" y="128.6" width="820" height="206.6" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="123.8" lengthAdjust="spacing">Textul explicativ</text>
+<text x="190.1" y="162.6" font-size="16" fill="#10233f" textLength="537.9" lengthAdjust="spacing">oferă informații organizate dintr-un domeniu al cunoașterii, ca să ne ajute să</text>
+<text x="732.3" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="75.5" lengthAdjust="spacing">înțelegem</text>
+<text x="812.2" y="162.6" font-size="16" fill="#10233f" textLength="18.2" lengthAdjust="spacing">un</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" textLength="197.4" lengthAdjust="spacing">fenomen, un fapt, o situație.</text>
+<rect x="62.0" y="204.6" width="380.0" height="112.6" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="232.6" font-size="16" fill="#0d9c92" font-weight="700" textLength="105.9" lengthAdjust="spacing">cauzal: DE CE?</text>
+<text x="78.0" y="255.9" font-size="14.5" fill="#3a3226" textLength="224.2" lengthAdjust="spacing">explică fenomene, evenimente, idei</text>
+<text x="78.0" y="279.8" font-size="14.5" fill="#3a3226" textLength="335.7" lengthAdjust="spacing">articole de dicționar, texte din manuale, enciclopedii,</text>
+<text x="78.0" y="300.8" font-size="14.5" fill="#3a3226" textLength="34.7" lengthAdjust="spacing">presă</text>
+<rect x="458.0" y="204.6" width="380.0" height="112.6" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="232.6" font-size="16" fill="#6f5ea8" font-weight="700" textLength="134.2" lengthAdjust="spacing">procedural: CUM?</text>
+<text x="474.0" y="255.9" font-size="14.5" fill="#3a3226" textLength="197.0" lengthAdjust="spacing">explică pașii pentru a face ceva</text>
+<text x="474.0" y="279.8" font-size="14.5" fill="#3a3226" textLength="272.6" lengthAdjust="spacing">rețete, instrucțiuni, prospecte, reguli de joc</text>
+<rect x="40" y="355.2" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="378.2" font-size="16" font-weight="700" fill="#ffffff">2. CUVINTELE EXPLICAȚIEI</text>
+<rect x="40" y="389.2" width="820" height="198.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="407.2" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="428.7" font-size="13.5" fill="#10233f" font-weight="700" textLength="51.8" lengthAdjust="spacing">Exprimă</text>
+<text x="345.6" y="428.7" font-size="13.5" fill="#10233f" font-weight="700" textLength="48.5" lengthAdjust="spacing">Cuvinte</text>
+<line x1="62.0" y1="438.8" x2="838.0" y2="438.8" stroke="#e3dccb"/>
+<text x="74.0" y="461.2" font-size="14.5" fill="#3a3226" textLength="36.2" lengthAdjust="spacing">cauza</text>
+<text x="345.6" y="461.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="248.7" lengthAdjust="spacing">fiindcă, pentru că, din motivul, de aceea</text>
+<line x1="62.0" y1="471.6" x2="838.0" y2="471.6" stroke="#e3dccb"/>
+<text x="74.0" y="494.1" font-size="14.5" fill="#3a3226" textLength="134.3" lengthAdjust="spacing">consecința, concluzia</text>
+<text x="345.6" y="494.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="113.5" lengthAdjust="spacing">așadar, ca urmare</text>
+<line x1="62.0" y1="504.5" x2="838.0" y2="504.5" stroke="#e3dccb"/>
+<text x="74.0" y="527.0" font-size="14.5" fill="#3a3226" textLength="159.1" lengthAdjust="spacing">o explicație suplimentară</text>
+<text x="345.6" y="527.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="199.1" lengthAdjust="spacing">mai exact, adică, cu alte cuvinte</text>
+<line x1="62.0" y1="537.3" x2="838.0" y2="537.3" stroke="#e3dccb"/>
+<text x="74.0" y="559.8" font-size="14.5" fill="#3a3226" textLength="110.8" lengthAdjust="spacing">pașii (procedural)</text>
+<text x="345.6" y="559.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="198.9" lengthAdjust="spacing">mai întâi, apoi, în cele din urmă</text>
+<line x1="62.0" y1="570.1" x2="838.0" y2="570.1" stroke="#e3dccb"/>
+<line x1="333.6" y1="407.2" x2="333.6" y2="570.1" stroke="#e3dccb"/>
+<rect x="40" y="608.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="631.1" font-size="16" font-weight="700" fill="#ffffff">3. TEXTUL PROCEDURAL</text>
+<rect x="40" y="642.1" width="820" height="201.7" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="675.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="675.1" font-size="15" fill="#3a3226" textLength="80.1" lengthAdjust="spacing">e împărțit în</text>
+<text x="158.3" y="675.1" font-size="15" fill="#3a3226" font-weight="700" textLength="98.1" lengthAdjust="spacing">părți distincte</text>
+<text x="256.4" y="675.1" font-size="15" fill="#3a3226" textLength="22.8" lengthAdjust="spacing">, cu</text>
+<text x="283.3" y="675.1" font-size="15" fill="#3a3226" font-weight="700" textLength="64.5" lengthAdjust="spacing">subtitluri</text>
+<text x="347.8" y="675.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">,</text>
+<text x="355.1" y="675.1" font-size="15" fill="#3a3226" font-weight="700" textLength="68.4" lengthAdjust="spacing">marcatori</text>
+<text x="423.5" y="675.1" font-size="15" fill="#3a3226" textLength="208.9" lengthAdjust="spacing">, cuvinte colorate sau îngroșate;</text>
+<text x="62.0" y="699.9" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="699.9" font-size="15" fill="#3a3226" textLength="72.6" lengthAdjust="spacing">poate avea</text>
+<text x="150.8" y="699.9" font-size="15" fill="#3a3226" font-weight="700" textLength="53.0" lengthAdjust="spacing">imagini</text>
+<text x="207.8" y="699.9" font-size="15" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">și</text>
+<text x="221.8" y="699.9" font-size="15" fill="#3a3226" font-weight="700" textLength="43.6" lengthAdjust="spacing">tabele</text>
+<text x="269.5" y="699.9" font-size="15" fill="#3a3226" textLength="184.5" lengthAdjust="spacing">care completează explicația;</text>
+<text x="62.0" y="724.6" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="724.6" font-size="15" fill="#3a3226" textLength="118.0" lengthAdjust="spacing">verbele: de regulă</text>
+<text x="196.3" y="724.6" font-size="15" fill="#3a3226" font-weight="700" textLength="235.9" lengthAdjust="spacing">indicativ prezent, persoana a III-a</text>
+<text x="432.2" y="724.6" font-size="15" fill="#3a3226" textLength="50.0" lengthAdjust="spacing">; uneori</text>
+<text x="486.2" y="724.6" font-size="15" fill="#3a3226" font-weight="700" textLength="67.7" lengthAdjust="spacing">imperativ</text>
+<text x="557.9" y="724.6" font-size="15" fill="#3a3226" textLength="22.5" lengthAdjust="spacing">sau</text>
+<text x="584.5" y="724.6" font-size="15" fill="#3a3226" font-weight="700" textLength="54.8" lengthAdjust="spacing">infinitiv</text>
+<text x="639.2" y="724.6" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="743.1" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="769.6" font-size="14.5" fill="#10233f" font-weight="700" textLength="47.8" lengthAdjust="spacing">Verific:</text>
+<text x="78.0" y="788.5" font-size="14.5" fill="#3a3226" textLength="680.5" lengthAdjust="spacing">am explicat clar cauzele sau pașii? · am folosit cuvinte care ușurează înțelegerea? · vocabular precis, potrivit</text>
+<text x="78.0" y="809.5" font-size="14.5" fill="#3a3226" textLength="451.1" lengthAdjust="spacing">cititorului? · imagini sau marcatori? · verbele la modurile recomandate?</text>
+<text x="205.3" y="875.4" font-size="11.5" fill="#5b6b83" textLength="489.3" lengthAdjust="spacing">Sursa: Manual Art 6, pp. 148-149, rubrica Repere, recomandările din Aplicații și grila de verificare.</text>
 </svg>

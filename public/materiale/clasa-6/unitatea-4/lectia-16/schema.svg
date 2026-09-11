@@ -1,31 +1,116 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="360" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Numeralul (actualizare)</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 11</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1057" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1057" fill="#faf7f0"/>
+<text x="239.2" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="422.2" lengthAdjust="spacing">Numeralul. Valorile numeralului</text>
+<text x="200.6" y="74.4" font-size="14" fill="#5b6b83" textLength="498.8" lengthAdjust="spacing">Clasa a VI-a · Unitatea a IV-a, Lecția 16 · Manual, pp. 144-145 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. NUMERALUL CARDINAL</text>
+<rect x="40" y="128.6" width="820" height="297.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="74.5" lengthAdjust="spacing">Numeralul</text>
+<text x="140.6" y="161.6" font-size="15" fill="#3a3226" textLength="74.1" lengthAdjust="spacing">exprimă un</text>
+<text x="218.8" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="46.2" lengthAdjust="spacing">număr</text>
+<text x="269.0" y="161.6" font-size="15" fill="#3a3226" textLength="59.9" lengthAdjust="spacing">sau arată</text>
+<text x="332.9" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="54.0" lengthAdjust="spacing">ordinea</text>
+<text x="391.0" y="161.6" font-size="15" fill="#3a3226" textLength="167.8" lengthAdjust="spacing">obiectelor prin numărare.</text>
+<text x="562.8" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="71.7" lengthAdjust="spacing">Cardinalul</text>
+<text x="638.6" y="161.6" font-size="15" fill="#3a3226" textLength="124.3" lengthAdjust="spacing">exprimă un număr.</text>
+<rect x="62.0" y="180.1" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="201.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="59.1" lengthAdjust="spacing">Structura</text>
+<text x="423.2" y="201.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="53.7" lengthAdjust="spacing">Exemple</text>
+<line x1="62.0" y1="211.7" x2="838.0" y2="211.7" stroke="#e3dccb"/>
+<text x="74.0" y="234.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="44.7" lengthAdjust="spacing">simple</text>
+<text x="118.7" y="234.2" font-size="14.5" fill="#3a3226" textLength="84.1" lengthAdjust="spacing">: de la 1 la 10</text>
+<text x="423.2" y="234.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="196.9" lengthAdjust="spacing">unu/una, doi/două, trei, ..., zece</text>
+<line x1="62.0" y1="244.5" x2="838.0" y2="244.5" stroke="#e3dccb"/>
+<text x="74.0" y="267.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="61.2" lengthAdjust="spacing">compuse</text>
+<text x="135.2" y="267.0" font-size="14.5" fill="#3a3226" textLength="91.9" lengthAdjust="spacing">: de la 11 la 19</text>
+<text x="423.2" y="267.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="148.9" lengthAdjust="spacing">unsprezece, doisprezece</text>
+<line x1="62.0" y1="277.4" x2="838.0" y2="277.4" stroke="#e3dccb"/>
+<text x="74.0" y="299.9" font-size="14.5" fill="#3a3226" textLength="77.0" lengthAdjust="spacing">compuse cu</text>
+<text x="154.9" y="299.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="23.8" lengthAdjust="spacing">zeci</text>
+<text x="423.2" y="299.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="107.0" lengthAdjust="spacing">douăzeci, treizeci</text>
+<line x1="62.0" y1="310.2" x2="838.0" y2="310.2" stroke="#e3dccb"/>
+<text x="74.0" y="332.7" font-size="14.5" fill="#3a3226" textLength="77.0" lengthAdjust="spacing">compuse cu</text>
+<text x="154.9" y="332.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="155.4" lengthAdjust="spacing">sută, mie, milion, miliard</text>
+<text x="423.2" y="332.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="187.2" lengthAdjust="spacing">o sută, două mii, trei milioane</text>
+<line x1="62.0" y1="343.1" x2="838.0" y2="343.1" stroke="#e3dccb"/>
+<text x="74.0" y="365.5" font-size="14.5" fill="#3a3226" textLength="117.6" lengthAdjust="spacing">structură mixtă, cu</text>
+<text x="195.5" y="365.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="9.6" lengthAdjust="spacing">și</text>
+<text x="209.0" y="365.5" font-size="14.5" fill="#3a3226" textLength="21.8" lengthAdjust="spacing">sau</text>
+<text x="234.7" y="365.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="14.9" lengthAdjust="spacing">de</text>
+<text x="423.2" y="365.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="242.9" lengthAdjust="spacing">o sută treizeci și patru, douăzeci de mii</text>
+<line x1="62.0" y1="375.9" x2="838.0" y2="375.9" stroke="#e3dccb"/>
+<line x1="411.2" y1="180.1" x2="411.2" y2="375.9" stroke="#e3dccb"/>
+<text x="62.0" y="403.9" font-size="14" fill="#5b6b83" textLength="68.7" lengthAdjust="spacing">Cardinalele</text>
+<text x="134.5" y="403.9" font-size="14" fill="#5b6b83" font-weight="700" textLength="65.8" lengthAdjust="spacing">nu au gen</text>
+<text x="200.3" y="403.9" font-size="14" fill="#5b6b83" textLength="72.0" lengthAdjust="spacing">, în afară de</text>
+<text x="276.1" y="403.9" font-size="14" fill="#5b6b83" font-style="italic" textLength="114.1" lengthAdjust="spacing">unu/una, doi/două</text>
+<text x="393.9" y="403.9" font-size="14" fill="#5b6b83" textLength="103.2" lengthAdjust="spacing">și compusele lor:</text>
+<text x="500.9" y="403.9" font-size="14" fill="#5b6b83" font-style="italic" textLength="228.6" lengthAdjust="spacing">doisprezece băieți / douăsprezece fete</text>
+<text x="729.5" y="403.9" font-size="14" fill="#5b6b83" textLength="3.1" lengthAdjust="spacing">.</text>
+<rect x="40" y="446.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="469.1" font-size="16" font-weight="700" fill="#ffffff">2. NUMERALUL ORDINAL</text>
+<rect x="40" y="480.1" width="820" height="166.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="513.1" font-size="15" fill="#3a3226" textLength="52.8" lengthAdjust="spacing">Exprimă</text>
+<text x="118.8" y="513.1" font-size="15" fill="#3a3226" font-weight="700" textLength="54.0" lengthAdjust="spacing">ordinea</text>
+<text x="172.8" y="513.1" font-size="15" fill="#3a3226" textLength="142.0" lengthAdjust="spacing">; are forme după gen:</text>
+<text x="318.9" y="513.1" font-size="15" fill="#10233f" font-style="italic" textLength="292.6" lengthAdjust="spacing">primul/prima, întâiul/întâia, al doilea/a doua</text>
+<text x="611.6" y="513.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="531.6" width="776.0" height="31.6" fill="#efeaf8"/>
 
-  <g>
-    <rect x="80" y="100" width="340" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="250" y="128" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Numeralul cardinal</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="250" y="154">Exprimă un număr exact.</tspan>
-      <tspan x="250" y="180" font-style="italic">douăsprezece cărți,</tspan>
-      <tspan x="250" y="198" font-style="italic">douăzeci și șapte de colegi</tspan>
-      <tspan x="250" y="222">Unele forme au gen</tspan>
-      <tspan x="250" y="238">(un, doi / o, două).</tspan>
-    </text>
-  </g>
-
-  <g>
-    <rect x="480" y="100" width="340" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="650" y="128" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Numeralul ordinal</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="650" y="154">Arată ordinea prin</tspan>
-      <tspan x="650" y="170">numărare, adesea cu</tspan>
-      <tspan x="650" y="186">articol demonstrativ.</tspan>
-      <tspan x="650" y="212" font-style="italic">primul, al doilea, al treilea</tspan>
-      <tspan x="650" y="232" font-style="italic">cea de-a doua acțiune</tspan>
-    </text>
-  </g>
-
-  <text x="450" y="330" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 11, p. 144</text>
+<text x="333.3" y="553.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="39.4" lengthAdjust="spacing">Marcă</text>
+<text x="520.7" y="553.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="52.5" lengthAdjust="spacing">Cardinal</text>
+<text x="685.2" y="553.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="111.8" lengthAdjust="spacing">Articol / particulă</text>
+<line x1="62.0" y1="563.1" x2="838.0" y2="563.1" stroke="#e3dccb"/>
+<text x="74.0" y="585.6" font-size="14.5" fill="#3a3226" textLength="56.1" lengthAdjust="spacing">masculin</text>
+<text x="347.1" y="585.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="11.9" lengthAdjust="spacing">al</text>
+<text x="529.7" y="585.6" font-size="14.5" fill="#3a3226" textLength="34.5" lengthAdjust="spacing">șapte</text>
+<text x="725.3" y="585.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="31.3" lengthAdjust="spacing">-le-a</text>
+<line x1="62.0" y1="596.0" x2="838.0" y2="596.0" stroke="#e3dccb"/>
+<text x="74.0" y="618.5" font-size="14.5" fill="#3a3226" textLength="48.0" lengthAdjust="spacing">feminin</text>
+<text x="349.1" y="618.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="7.8" lengthAdjust="spacing">a</text>
+<text x="529.7" y="618.5" font-size="14.5" fill="#3a3226" textLength="34.5" lengthAdjust="spacing">șapte</text>
+<text x="734.2" y="618.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="13.6" lengthAdjust="spacing">-a</text>
+<line x1="62.0" y1="628.9" x2="838.0" y2="628.9" stroke="#e3dccb"/>
+<line x1="256.0" y1="531.6" x2="256.0" y2="628.9" stroke="#e3dccb"/>
+<line x1="450.0" y1="531.6" x2="450.0" y2="628.9" stroke="#e3dccb"/>
+<line x1="644.0" y1="531.6" x2="644.0" y2="628.9" stroke="#e3dccb"/>
+<rect x="40" y="666.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="689.9" font-size="16" font-weight="700" fill="#ffffff">3. VALORILE NUMERALULUI</text>
+<rect x="40" y="700.9" width="820" height="304.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="718.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="740.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="55.6" lengthAdjust="spacing">Valoarea</text>
+<text x="213.7" y="740.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="32.3" lengthAdjust="spacing">Când</text>
+<text x="555.1" y="740.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="53.7" lengthAdjust="spacing">Exemple</text>
+<line x1="62.0" y1="750.4" x2="838.0" y2="750.4" stroke="#e3dccb"/>
+<text x="74.0" y="772.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="72.9" lengthAdjust="spacing">adjectivală</text>
+<text x="213.7" y="772.9" font-size="14.5" fill="#3a3226" textLength="282.3" lengthAdjust="spacing">însoțește un substantiv și se acordă cu el; de</text>
+<text x="213.7" y="793.9" font-size="14.5" fill="#3a3226" textLength="107.9" lengthAdjust="spacing">obicei stă înainte</text>
+<text x="555.1" y="772.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="240.1" lengthAdjust="spacing">trei cai, a doua stradă, cel de-al treilea</text>
+<text x="555.1" y="793.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="29.6" lengthAdjust="spacing">copil</text>
+<line x1="62.0" y1="804.3" x2="838.0" y2="804.3" stroke="#e3dccb"/>
+<text x="74.0" y="826.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="87.3" lengthAdjust="spacing">pronominală</text>
+<text x="213.7" y="826.8" font-size="14.5" fill="#3a3226" textLength="157.6" lengthAdjust="spacing">înlocuiește un substantiv</text>
+<text x="555.1" y="826.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="270.7" lengthAdjust="spacing">Două dintre cărți mi-au plăcut. A treia, mai</text>
+<text x="555.1" y="847.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="35.7" lengthAdjust="spacing">puțin.</text>
+<line x1="62.0" y1="858.1" x2="838.0" y2="858.1" stroke="#e3dccb"/>
+<text x="74.0" y="880.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="90.2" lengthAdjust="spacing">substantivală</text>
+<text x="213.7" y="880.7" font-size="14.5" fill="#3a3226" textLength="199.1" lengthAdjust="spacing">ca denumire sau în matematică</text>
+<text x="555.1" y="880.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="255.8" lengthAdjust="spacing">tramvaiul 34, anul 1848; Doi plus trei fac</text>
+<text x="555.1" y="901.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="31.6" lengthAdjust="spacing">cinci.</text>
+<line x1="62.0" y1="912.0" x2="838.0" y2="912.0" stroke="#e3dccb"/>
+<line x1="201.7" y1="718.9" x2="201.7" y2="912.0" stroke="#e3dccb"/>
+<line x1="543.1" y1="718.9" x2="543.1" y2="912.0" stroke="#e3dccb"/>
+<rect x="62.0" y="926.0" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="926.0" width="6" height="61.7" rx="3" fill="#b4432c"/><text x="84.0" y="952.5" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="971.4" font-size="14.5" fill="#3a3226" textLength="32.5" lengthAdjust="spacing">De la</text>
+<text x="120.4" y="971.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="60.3" lengthAdjust="spacing">douăzeci</text>
+<text x="184.6" y="971.4" font-size="14.5" fill="#3a3226" textLength="279.3" lengthAdjust="spacing">în sus, cardinalul se leagă de substantiv prin</text>
+<text x="467.8" y="971.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="16.8" lengthAdjust="spacing">de</text>
+<text x="484.6" y="971.4" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">:</text>
+<text x="491.7" y="971.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="55.4" lengthAdjust="spacing">douăzeci</text>
+<text x="551.0" y="971.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="16.8" lengthAdjust="spacing">de</text>
+<text x="571.8" y="971.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="131.8" lengthAdjust="spacing">copii, treizeci și șapte</text>
+<text x="707.5" y="971.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="16.8" lengthAdjust="spacing">de</text>
+<text x="728.2" y="971.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="36.8" lengthAdjust="spacing">caiete</text>
+<text x="765.1" y="971.4" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="323.3" y="1037.2" font-size="11.5" fill="#5b6b83" textLength="253.3" lengthAdjust="spacing">Sursa: Manual Art 6, pp. 144-145, rubricile Repere.</text>
 </svg>
