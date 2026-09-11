@@ -134,5 +134,8 @@ redactare e în `docs/continut-si-stil.md` și `scripts/planuri/`.
 unde se pot face fără NotebookLM; lipsesc prezentările și video-urile din
 briefurile din `docs/materiale-de-generat/`. A VI-a și a VII-a au fișe, câteva
 quizuri și scheme, dar zeci de lecții fără material de exersare sau de predare.
-Schemele existente sunt prea sumare și trebuie refăcute ca notițe complete ale
-lecției, cele pe care elevii le scriu în caiet și din care învață acasă.
+Toate cele 218 scheme au fost refăcute ca notițe complete ale lecției, cele pe
+care elevii le scriu în caiet și din care învață acasă (V 70, VIII 75, VI 38,
+VII 32; generator `scripts/scheme_notite.py`, specificații în `scripts/scheme/`).
+Urmează fișele de exerciții pe lecție, cu tipuri de exerciții asemănătoare celor
+din manual, pentru lucrul în clasă.
