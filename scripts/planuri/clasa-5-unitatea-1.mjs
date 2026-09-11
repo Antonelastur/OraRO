@@ -15,7 +15,7 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Identifică informații esențiale din textul literar „Prietenul meu” de Ioana Pârvulescu.'],
-    resurse: ['Manual Art 5, pp. 10-12', 'Prezentarea lecției (/materiale/clasa-5/unitatea-1/lectia-1/prezentare.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 5, pp. 10-12', 'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-1/fisa-exercitii.pdf)', 'Prezentarea lecției (/materiale/clasa-5/unitatea-1/lectia-1/prezentare.pdf)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '7 min', activitate: 'Deschid o discuție despre ce înseamnă prietenia pentru elevi, pornind de la prima diapozitivă a prezentării.' },
@@ -35,7 +35,7 @@ export default {
       'Identifică trăsăturile textului literar: lumea imaginară, emoțiile, limbajul expresiv.',
       'Formulează inferențe simple despre personaje și relațiile dintre ele.',
     ],
-    resurse: ['Manual Art 5, pp. 13-14', 'Prezentarea lecției (/materiale/clasa-5/unitatea-1/lectia-2/prezentare.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 5, pp. 13-14', 'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-2/fisa-exercitii.pdf)', 'Prezentarea lecției (/materiale/clasa-5/unitatea-1/lectia-2/prezentare.pdf)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le citesc două fraze scurte, una dintr-un anunț și una din textul literar, și îi întreb prin ce se deosebesc.' },
@@ -55,7 +55,7 @@ export default {
       'Identifică cuvântul-cheie și ideea principală dintr-un fragment de text.',
       'Stabilește tema unui text și redactează planul simplu de idei.',
     ],
-    resurse: ['Manual Art 5, p. 15', 'Schema lecției „De la cuvântul-cheie la planul de idei” (/materiale/clasa-5/unitatea-1/lectia-3/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 5, p. 15', 'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-3/fisa-exercitii.pdf)', 'Schema lecției „De la cuvântul-cheie la planul de idei” (/materiale/clasa-5/unitatea-1/lectia-3/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le cer elevilor să spună într-un singur cuvânt despre ce este vorba în textul „Prietenul meu” și notez variantele pe tablă.' },
@@ -72,7 +72,7 @@ export default {
     tipOra: 'Predare, interpretare',
     durata: 50,
     obiective: ['Interpretează semnificațiile textului „Prietenul meu”, răspuns afectiv și discutarea mesajului.'],
-    resurse: ['Manual Art 5, p. 16', 'Fișa lecției (/materiale/clasa-5/unitatea-1/lectia-4/fisa.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 5, p. 16', 'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-4/fisa-exercitii.pdf)', 'Fișa lecției (/materiale/clasa-5/unitatea-1/lectia-4/fisa.pdf)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Recitesc cu elevii un pasaj-cheie din text și îi întreb ce simt când îl aud.' },
@@ -89,7 +89,7 @@ export default {
     tipOra: 'Predare, lectură nonliterară',
     durata: 50,
     obiective: ['Identifică scopul și informațiile unui text nonliterar.'],
-    resurse: ['Manual Art 5, p. 17', 'Infograficul „Scurtă istorie a selfie-ului” (/materiale/clasa-5/unitatea-1/lectia-5/infografic.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 5, p. 17', 'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-5/fisa-exercitii.pdf)', 'Infograficul „Scurtă istorie a selfie-ului” (/materiale/clasa-5/unitatea-1/lectia-5/infografic.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '6 min', activitate: 'Îi întreb pe elevi de când cred că oamenii fac selfie-uri și de ce le fac.' },
@@ -106,7 +106,7 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Formulează inferențe simple și compară texte pe tema prieteniei și a descoperirii de sine.'],
-    resurse: ['Manual Art 5, pp. 18-19', 'Quizul „Descoperirea lui Lulu” (materialul de joc al lecției)', 'Caietele elevilor'],
+    resurse: ['Manual Art 5, pp. 18-19', 'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-6/fisa-exercitii.pdf)', 'Quizul „Descoperirea lui Lulu” (materialul de joc al lecției)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Îi întreb pe elevi dacă au avut vreodată o descoperire copilărească pe care au ținut-o secretă.' },
@@ -123,7 +123,7 @@ export default {
     tipOra: 'Interculturalitate',
     durata: 50,
     obiective: ['Asociază experiențe proprii de viață cu cele din filmul „Întors pe dos”, identitate personală și emoții.'],
-    resurse: ['Manual Art 5, pp. 20-22', 'Infograficul „Cele cinci emoții din «Întors pe dos»” (/materiale/clasa-5/unitatea-1/lectia-7/infografic.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 5, pp. 20-22', 'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-7/fisa-exercitii.pdf)', 'Infograficul „Cele cinci emoții din «Întors pe dos»” (/materiale/clasa-5/unitatea-1/lectia-7/infografic.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '6 min', activitate: 'Îi întreb pe elevi ce emoții își amintesc din filmul „Întors pe dos” și le notez pe tablă.' },
@@ -140,7 +140,7 @@ export default {
     tipOra: 'Comunicare orală',
     durata: 50,
     obiective: ['Exprimă adecvat emoțiile și identifică rolurile de vorbitor și ascultător în comunicare.'],
-    resurse: ['Manual Art 5, pp. 22-23', 'Schema „Exprimarea adecvată a emoțiilor. Roluri în comunicare” (/materiale/clasa-5/unitatea-1/lectia-8/schema.svg)', 'Quizul cu același titlu (materialul de joc al lecției)'],
+    resurse: ['Manual Art 5, pp. 22-23', 'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-8/fisa-exercitii.pdf)', 'Schema „Exprimarea adecvată a emoțiilor. Roluri în comunicare” (/materiale/clasa-5/unitatea-1/lectia-8/schema.svg)', 'Quizul cu același titlu (materialul de joc al lecției)'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le cer elevilor să exprime o emoție doar prin gesturi și mimică, iar colegii ghicesc emoția.' },
@@ -174,7 +174,7 @@ export default {
     tipOra: 'Predare, vocabular',
     durata: 50,
     obiective: ['Explică rolul dicționarului și structura unui articol de dicționar, ordonarea alfabetică a cuvintelor.'],
-    resurse: ['Manual Art 5, pp. 26-27', 'Schema „Cuvântul și dicționarul” (/materiale/clasa-5/unitatea-1/lectia-10/schema.svg)', 'Quizul cu același titlu (materialul de joc al lecției)', 'Un dicționar tipărit'],
+    resurse: ['Manual Art 5, pp. 26-27', 'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-10/fisa-exercitii.pdf)', 'Schema „Cuvântul și dicționarul” (/materiale/clasa-5/unitatea-1/lectia-10/schema.svg)', 'Quizul cu același titlu (materialul de joc al lecției)', 'Un dicționar tipărit'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le arăt elevilor un dicționar tipărit și îi întreb când l-au folosit ultima dată și pentru ce.' },
@@ -191,7 +191,7 @@ export default {
     tipOra: 'Predare, vocabular',
     durata: 50,
     obiective: ['Identifică sinonime și antonime și le folosește adecvat contextului.'],
-    resurse: ['Manual Art 5, pp. 28-29', 'Schema „Sinonimele. Antonimele” (/materiale/clasa-5/unitatea-1/lectia-11/schema.svg)', 'Quizul „Sinonime și antonime” (materialul de joc al lecției)'],
+    resurse: ['Manual Art 5, pp. 28-29', 'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-11/fisa-exercitii.pdf)', 'Schema „Sinonimele. Antonimele” (/materiale/clasa-5/unitatea-1/lectia-11/schema.svg)', 'Quizul „Sinonime și antonime” (materialul de joc al lecției)'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Spun un cuvânt și cer în lanț, de la fiecare elev, un sinonim sau un antonim pentru el.' },
@@ -208,7 +208,7 @@ export default {
     tipOra: 'Predare, vocabular',
     durata: 50,
     obiective: ['Definește câmpul lexical și grupează termeni după trăsături de sens comune.'],
-    resurse: ['Manual Art 5, pp. 30-31', 'Schema „Câmpul lexical” (/materiale/clasa-5/unitatea-1/lectia-12/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 5, pp. 30-31', 'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-12/fisa-exercitii.pdf)', 'Schema „Câmpul lexical” (/materiale/clasa-5/unitatea-1/lectia-12/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '6 min', activitate: 'Le cer elevilor să spună cât mai multe cuvinte legate de un subiect dat, de exemplu școala, și le grupez pe tablă.' },
@@ -225,7 +225,7 @@ export default {
     tipOra: 'Predare, fonetică',
     durata: 50,
     obiective: ['Diferențiază vocalele, consoanele și semivocalele, corespondența sunet-literă.'],
-    resurse: ['Manual Art 5, pp. 32-33', 'Schema „Tipurile de sunete” (/materiale/clasa-5/unitatea-1/lectia-13/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 5, pp. 32-33', 'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-13/fisa-exercitii.pdf)', 'Schema „Tipurile de sunete” (/materiale/clasa-5/unitatea-1/lectia-13/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '6 min', activitate: 'Le cer elevilor să pronunțe rar câteva cuvinte și să observe ce sunete se aud și cum se formează.' },
@@ -242,7 +242,7 @@ export default {
     tipOra: 'Predare, fonetică',
     durata: 50,
     obiective: ['Desparte cuvintele în silabe și identifică accentul corect, conform DOOM3.'],
-    resurse: ['Manual Art 5, pp. 34-35', 'Schema „Silaba. Accentul” (/materiale/clasa-5/unitatea-1/lectia-14/schema.svg)', 'Quizul „Silaba și accentul” (materialul de joc al lecției)', 'DOOM3'],
+    resurse: ['Manual Art 5, pp. 34-35', 'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-14/fisa-exercitii.pdf)', 'Schema „Silaba. Accentul” (/materiale/clasa-5/unitatea-1/lectia-14/schema.svg)', 'Quizul „Silaba și accentul” (materialul de joc al lecției)', 'DOOM3'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le cer elevilor să bată din palme silabele numelor lor și ale unor cuvinte date.' },
@@ -259,7 +259,7 @@ export default {
     tipOra: 'Redactare',
     durata: 50,
     obiective: ['Cunoaște și aplică primele etape ale scrierii unui text, pregătirea pentru redactare.'],
-    resurse: ['Manual Art 5, p. 36', 'Infograficul „Cele cinci etape ale scrierii” (/materiale/clasa-5/unitatea-1/lectia-15/infografic.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 5, p. 36', 'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-15/fisa-exercitii.pdf)', 'Infograficul „Cele cinci etape ale scrierii” (/materiale/clasa-5/unitatea-1/lectia-15/infografic.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '6 min', activitate: 'Îi întreb pe elevi ce fac ei de obicei înainte să înceapă o compunere și notez pașii pe tablă.' },
@@ -276,7 +276,7 @@ export default {
     tipOra: 'Redactare',
     durata: 50,
     obiective: ['Redactează și revizuiește un text de relatare a unei experiențe personale, respectând structura introducere-cuprins-încheiere.'],
-    resurse: ['Manual Art 5, p. 37', 'Fișa lecției (/materiale/clasa-5/unitatea-1/lectia-16/fisa.pdf)', 'Planul realizat la ora anterioară'],
+    resurse: ['Manual Art 5, p. 37', 'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-16/fisa-exercitii.pdf)', 'Fișa lecției (/materiale/clasa-5/unitatea-1/lectia-16/fisa.pdf)', 'Planul realizat la ora anterioară'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '4 min', activitate: 'Le cer elevilor să recitească planul notat ora trecută și să spună de la ce idee vor porni.' },
@@ -293,7 +293,7 @@ export default {
     tipOra: 'Recapitulare',
     durata: 50,
     obiective: ['Recapitulează strategii de citire și comprehensiune pe un text narativ nou: delimitare în fragmente, temă, idei principale.'],
-    resurse: ['Manual Art 5, pp. 38-39, ex. 1-9', 'Fișa lecției (/materiale/clasa-5/unitatea-1/lectia-17/fisa.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 5, pp. 38-39, ex. 1-9', 'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-17/fisa-exercitii.pdf)', 'Fișa lecției (/materiale/clasa-5/unitatea-1/lectia-17/fisa.pdf)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '4 min', activitate: 'Anunț că ora e o recapitulare pe un text nou și îi întreb pe elevi ce pași fac de obicei când citesc un text necunoscut.' },
@@ -310,7 +310,7 @@ export default {
     tipOra: 'Recapitulare',
     durata: 50,
     obiective: ['Recapitulează noțiuni de gramatică și vocabular din unitate și redactează un text integrator, respectând etapele scrierii.'],
-    resurse: ['Manual Art 5, p. 39, ex. 10-20', 'Quizul „Recapitulare, gramatică și vocabular” (materialul de joc al lecției)', 'Caietele elevilor'],
+    resurse: ['Manual Art 5, p. 39, ex. 10-20', 'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-18/fisa-exercitii.pdf)', 'Quizul „Recapitulare, gramatică și vocabular” (materialul de joc al lecției)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '4 min', activitate: 'Le propun elevilor să enumere pe rând toate noțiunile de limbă învățate în unitate, câte una de fiecare.' },

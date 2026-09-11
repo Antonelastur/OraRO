@@ -20,28 +20,56 @@ import re
 import runpy
 import sys
 
+import fitz
+
 sys.path.insert(0, os.path.dirname(__file__))
 from fisa_helpers import new_doc, new_page, header, footer
 from build_clasa6_fise import ROOT, _layout_page
 
 FOOT_LIMIT = 798
+_FONT = fitz.Font(fontfile='C:/Windows/Fonts/segoeui.ttf')
+
+
+def titlu_lectie(cale):
+    clasa, unitate, lectie = cale.split('/')
+    s = open(os.path.join(ROOT, 'src', 'data', clasa, unitate + '.js'), encoding='utf-8').read()
+    m = re.search(rf"id: '{lectie}',\s*titlu: '((?:[^'\\]|\\.)*)'", s)
+    return m.group(1).replace("\\'", "'")
+
+
+def verifica_celule(f):
+    # celulele au un singur rând: textul care nu încape nu se scrie deloc
+    for pag in f['pagini']:
+        for b in pag:
+            for row in b.get('data') or []:
+                for text, w in zip(row, b['widths']):
+                    if _FONT.text_length(text, fontsize=10.5) > w - 8:
+                        print(f'ATENȚIE: {f["cale"]}, ex. {b["n"]}: „{text}” nu încape în celulă')
 
 
 def build(f):
+    f.setdefault('titlu', 'Fișă de exerciții — ' + titlu_lectie(f['cale']))
+    verifica_celule(f)
     doc = new_doc()
     n = len(f['pagini'])
     for i, blocks in enumerate(f['pagini']):
         p = new_page(doc)
         header(p, f['titlu'], f['sub'])
+        if f['titlu'][:30] not in p.get_text().replace('‐', '-'):
+            print(f'ATENȚIE: {f["cale"]}: titlul nu încape în antet')
         _layout_page(p, blocks, f.get('reper') if i == 0 else None)
         footer(p, f['sursa'] + (f' Pagina {i + 1} din {n}.' if n > 1 else ''))
         # ultima linie desenată nu are voie să intre în subsol
         ys = [it[2].y for d in p.get_drawings() for it in d['items'] if it[0] == 'l']
+        # la fel textul exercițiilor (subsolul începe mai jos, la 802 sau 812)
+        ys += [b[3] for b in p.get_text('blocks') if b[1] < FOOT_LIMIT]
         if ys and max(ys) > FOOT_LIMIT:
             print(f'ATENȚIE: {f["cale"]}, pagina {i + 1} depășește subsolul ({max(ys):.0f})')
     out = os.path.join(ROOT, 'public', 'materiale', f['cale'], 'fisa-exercitii.pdf')
     os.makedirs(os.path.dirname(out), exist_ok=True)
-    doc.save(out)
+    # fără subset, fontul întreg face fiecare fișă de ~2 MB
+    doc.subset_fonts()
+    doc.save(out, garbage=4, deflate=True)
 
 
 def _in_bloc(s, start, fn):

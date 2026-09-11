@@ -45,6 +45,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, pp. 10-12',
+          'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-1/fisa-exercitii.pdf)',
           'Prezentarea lecției (/materiale/clasa-5/unitatea-1/lectia-1/prezentare.pdf)',
           'Caietele elevilor',
         ],
@@ -86,7 +87,7 @@ export const unitatea1 = {
         prezentare: { fisier: '/materiale/clasa-5/unitatea-1/lectia-1/prezentare.pdf' },
         video: null,
         test: null,
-        fisa: null,
+        fisa: { exercitii: '/materiale/clasa-5/unitatea-1/lectia-1/fisa-exercitii.pdf' },
         joc: {
           tip: 'quiz',
           titlu: 'Ce am reținut din „Prietenul meu”',
@@ -206,6 +207,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, pp. 13-14',
+          'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-2/fisa-exercitii.pdf)',
           'Prezentarea lecției (/materiale/clasa-5/unitatea-1/lectia-2/prezentare.pdf)',
           'Caietele elevilor',
         ],
@@ -247,7 +249,7 @@ export const unitatea1 = {
         prezentare: { fisier: '/materiale/clasa-5/unitatea-1/lectia-2/prezentare.pdf' },
         video: null,
         test: null,
-        fisa: null,
+        fisa: { exercitii: '/materiale/clasa-5/unitatea-1/lectia-2/fisa-exercitii.pdf' },
         joc: {
           tip: 'quiz',
           titlu: 'Trăsăturile textului literar',
@@ -367,6 +369,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, p. 15',
+          'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-3/fisa-exercitii.pdf)',
           'Schema lecției „De la cuvântul-cheie la planul de idei” (/materiale/clasa-5/unitatea-1/lectia-3/schema.svg)',
           'Caietele elevilor',
         ],
@@ -408,7 +411,7 @@ export const unitatea1 = {
         prezentare: null,
         video: null,
         test: null,
-        fisa: null,
+        fisa: { exercitii: '/materiale/clasa-5/unitatea-1/lectia-3/fisa-exercitii.pdf' },
         joc: {
           tip: 'quiz',
           titlu: 'Cuvântul-cheie, tema și planul de idei',
@@ -526,6 +529,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, p. 16',
+          'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-4/fisa-exercitii.pdf)',
           'Fișa lecției (/materiale/clasa-5/unitatea-1/lectia-4/fisa.pdf)',
           'Caietele elevilor',
         ],
@@ -567,7 +571,7 @@ export const unitatea1 = {
         prezentare: null,
         video: null,
         test: null,
-        fisa: { fisier: '/materiale/clasa-5/unitatea-1/lectia-4/fisa.pdf' },
+        fisa: { fisier: '/materiale/clasa-5/unitatea-1/lectia-4/fisa.pdf', exercitii: '/materiale/clasa-5/unitatea-1/lectia-4/fisa-exercitii.pdf' },
         joc: null,
         infografic: null,
         schema: {
@@ -595,6 +599,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, p. 17',
+          'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-5/fisa-exercitii.pdf)',
           'Infograficul „Scurtă istorie a selfie-ului” (/materiale/clasa-5/unitatea-1/lectia-5/infografic.svg)',
           'Caietele elevilor',
         ],
@@ -636,7 +641,7 @@ export const unitatea1 = {
         prezentare: null,
         video: null,
         test: null,
-        fisa: null,
+        fisa: { exercitii: '/materiale/clasa-5/unitatea-1/lectia-5/fisa-exercitii.pdf' },
         joc: {
           tip: 'quiz',
           titlu: 'Textul nonliterar',
@@ -754,6 +759,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, pp. 18-19',
+          'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-6/fisa-exercitii.pdf)',
           'Quizul „Descoperirea lui Lulu” (materialul de joc al lecției)',
           'Caietele elevilor',
         ],
@@ -795,7 +801,7 @@ export const unitatea1 = {
         prezentare: null,
         video: null,
         test: null,
-        fisa: null,
+        fisa: { exercitii: '/materiale/clasa-5/unitatea-1/lectia-6/fisa-exercitii.pdf' },
         joc: {
           tip: 'quiz',
           titlu: 'Descoperirea lui Lulu',
@@ -868,6 +874,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, pp. 20-22',
+          'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-7/fisa-exercitii.pdf)',
           'Infograficul „Cele cinci emoții din «Întors pe dos»” (/materiale/clasa-5/unitatea-1/lectia-7/infografic.svg)',
           'Caietele elevilor',
         ],
@@ -909,7 +916,7 @@ export const unitatea1 = {
         prezentare: null,
         video: null,
         test: null,
-        fisa: null,
+        fisa: { exercitii: '/materiale/clasa-5/unitatea-1/lectia-7/fisa-exercitii.pdf' },
         joc: {
           tip: 'quiz',
           titlu: 'Identitatea personală și emoțiile',
@@ -1027,6 +1034,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, pp. 22-23',
+          'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-8/fisa-exercitii.pdf)',
           'Schema „Exprimarea adecvată a emoțiilor. Roluri în comunicare” (/materiale/clasa-5/unitatea-1/lectia-8/schema.svg)',
           'Quizul cu același titlu (materialul de joc al lecției)',
         ],
@@ -1068,7 +1076,7 @@ export const unitatea1 = {
         prezentare: null,
         video: null,
         test: null,
-        fisa: null,
+        fisa: { exercitii: '/materiale/clasa-5/unitatea-1/lectia-8/fisa-exercitii.pdf' },
         joc: {
           tip: 'quiz',
           titlu: 'Comunicare verbală, nonverbală, paraverbală',
@@ -1248,6 +1256,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, pp. 26-27',
+          'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-10/fisa-exercitii.pdf)',
           'Schema „Cuvântul și dicționarul” (/materiale/clasa-5/unitatea-1/lectia-10/schema.svg)',
           'Quizul cu același titlu (materialul de joc al lecției)',
           'Un dicționar tipărit',
@@ -1290,7 +1299,7 @@ export const unitatea1 = {
         prezentare: null,
         video: null,
         test: null,
-        fisa: null,
+        fisa: { exercitii: '/materiale/clasa-5/unitatea-1/lectia-10/fisa-exercitii.pdf' },
         joc: {
           tip: 'quiz',
           titlu: 'Cuvântul și dicționarul',
@@ -1350,6 +1359,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, pp. 28-29',
+          'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-11/fisa-exercitii.pdf)',
           'Schema „Sinonimele. Antonimele” (/materiale/clasa-5/unitatea-1/lectia-11/schema.svg)',
           'Quizul „Sinonime și antonime” (materialul de joc al lecției)',
         ],
@@ -1391,7 +1401,7 @@ export const unitatea1 = {
         prezentare: null,
         video: null,
         test: null,
-        fisa: null,
+        fisa: { exercitii: '/materiale/clasa-5/unitatea-1/lectia-11/fisa-exercitii.pdf' },
         joc: {
           tip: 'quiz',
           titlu: 'Sinonime și antonime',
@@ -1460,6 +1470,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, pp. 30-31',
+          'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-12/fisa-exercitii.pdf)',
           'Schema „Câmpul lexical” (/materiale/clasa-5/unitatea-1/lectia-12/schema.svg)',
           'Caietele elevilor',
         ],
@@ -1501,7 +1512,7 @@ export const unitatea1 = {
         prezentare: null,
         video: null,
         test: null,
-        fisa: null,
+        fisa: { exercitii: '/materiale/clasa-5/unitatea-1/lectia-12/fisa-exercitii.pdf' },
         joc: {
           tip: 'quiz',
           titlu: 'Câmpul lexical',
@@ -1619,6 +1630,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, pp. 32-33',
+          'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-13/fisa-exercitii.pdf)',
           'Schema „Tipurile de sunete” (/materiale/clasa-5/unitatea-1/lectia-13/schema.svg)',
           'Caietele elevilor',
         ],
@@ -1660,7 +1672,7 @@ export const unitatea1 = {
         prezentare: null,
         video: null,
         test: null,
-        fisa: null,
+        fisa: { exercitii: '/materiale/clasa-5/unitatea-1/lectia-13/fisa-exercitii.pdf' },
         joc: {
           tip: 'quiz',
           titlu: 'Vocale, consoane, semivocale',
@@ -1778,6 +1790,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, pp. 34-35',
+          'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-14/fisa-exercitii.pdf)',
           'Schema „Silaba. Accentul” (/materiale/clasa-5/unitatea-1/lectia-14/schema.svg)',
           'Quizul „Silaba și accentul” (materialul de joc al lecției)',
           'DOOM3',
@@ -1820,7 +1833,7 @@ export const unitatea1 = {
         prezentare: null,
         video: null,
         test: null,
-        fisa: null,
+        fisa: { exercitii: '/materiale/clasa-5/unitatea-1/lectia-14/fisa-exercitii.pdf' },
         joc: {
           tip: 'quiz',
           titlu: 'Silaba și accentul',
@@ -1890,6 +1903,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, p. 36',
+          'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-15/fisa-exercitii.pdf)',
           'Infograficul „Cele cinci etape ale scrierii” (/materiale/clasa-5/unitatea-1/lectia-15/infografic.svg)',
           'Caietele elevilor',
         ],
@@ -1931,7 +1945,7 @@ export const unitatea1 = {
         prezentare: null,
         video: null,
         test: null,
-        fisa: null,
+        fisa: { exercitii: '/materiale/clasa-5/unitatea-1/lectia-15/fisa-exercitii.pdf' },
         joc: {
           tip: 'quiz',
           titlu: 'Etapele scrierii',
@@ -2049,6 +2063,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, p. 37',
+          'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-16/fisa-exercitii.pdf)',
           'Fișa lecției (/materiale/clasa-5/unitatea-1/lectia-16/fisa.pdf)',
           'Planul realizat la ora anterioară',
         ],
@@ -2090,7 +2105,7 @@ export const unitatea1 = {
         prezentare: null,
         video: null,
         test: null,
-        fisa: { fisier: '/materiale/clasa-5/unitatea-1/lectia-16/fisa.pdf' },
+        fisa: { fisier: '/materiale/clasa-5/unitatea-1/lectia-16/fisa.pdf', exercitii: '/materiale/clasa-5/unitatea-1/lectia-16/fisa-exercitii.pdf' },
         joc: null,
         infografic: null,
         schema: {
@@ -2118,6 +2133,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, pp. 38-39, ex. 1-9',
+          'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-17/fisa-exercitii.pdf)',
           'Fișa lecției (/materiale/clasa-5/unitatea-1/lectia-17/fisa.pdf)',
           'Caietele elevilor',
         ],
@@ -2159,7 +2175,7 @@ export const unitatea1 = {
         prezentare: null,
         video: null,
         test: null,
-        fisa: { fisier: '/materiale/clasa-5/unitatea-1/lectia-17/fisa.pdf' },
+        fisa: { fisier: '/materiale/clasa-5/unitatea-1/lectia-17/fisa.pdf', exercitii: '/materiale/clasa-5/unitatea-1/lectia-17/fisa-exercitii.pdf' },
         joc: null,
         infografic: null,
         schema: {
@@ -2187,6 +2203,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, p. 39, ex. 10-20',
+          'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-18/fisa-exercitii.pdf)',
           'Quizul „Recapitulare, gramatică și vocabular” (materialul de joc al lecției)',
           'Caietele elevilor',
         ],
@@ -2228,7 +2245,7 @@ export const unitatea1 = {
         prezentare: null,
         video: null,
         test: null,
-        fisa: null,
+        fisa: { exercitii: '/materiale/clasa-5/unitatea-1/lectia-18/fisa-exercitii.pdf' },
         joc: {
           tip: 'quiz',
           titlu: 'Recapitulare, gramatică și vocabular',
