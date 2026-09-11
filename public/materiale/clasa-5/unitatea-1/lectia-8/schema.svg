@@ -1,50 +1,98 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="420" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Comunicare verbală, nonverbală, paraverbală</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 8 · Exprimarea adecvată a emoțiilor</text>
-
-  <rect x="350" y="85" width="200" height="48" rx="14" fill="#6f5ea8"/>
-  <text x="450" y="115" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">COMUNICAREA ORALĂ</text>
-
-  <path d="M 450 133 L 450 155 L 210 155 L 210 178" stroke="#b8944f" stroke-width="2.5" fill="none"/>
-  <path d="M 450 133 L 450 155 L 450 178" stroke="#b8944f" stroke-width="2.5" fill="none"/>
-  <path d="M 450 133 L 450 155 L 690 155 L 690 178" stroke="#b8944f" stroke-width="2.5" fill="none"/>
-
-  <g>
-    <rect x="90" y="178" width="240" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="210" y="204" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">verbală</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="210" y="228">Prin cuvinte, rostite</tspan>
-      <tspan x="210" y="244">sau scrise, într-o</tspan>
-      <tspan x="210" y="260">limbă cunoscută.</tspan>
-      <tspan x="210" y="290" font-style="italic">„Îmi place cartea asta.”</tspan>
-    </text>
-  </g>
-
-  <g>
-    <rect x="330" y="178" width="240" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="450" y="204" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">nonverbală</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="450" y="228">Fără cuvinte: mimică,</tspan>
-      <tspan x="450" y="244">gesturi, postura</tspan>
-      <tspan x="450" y="260">corpului.</tspan>
-      <tspan x="450" y="290" font-style="italic">un zâmbet, o încruntare</tspan>
-    </text>
-  </g>
-
-  <g>
-    <rect x="570" y="178" width="240" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="690" y="204" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">paraverbală</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="690" y="228">Cum suni: intonație,</tspan>
-      <tspan x="690" y="244">intensitatea vocii,</tspan>
-      <tspan x="690" y="260">ritmul vorbirii.</tspan>
-      <tspan x="690" y="290" font-style="italic">vorbit tare și repede</tspan>
-    </text>
-  </g>
-
-  <rect x="150" y="350" width="600" height="44" rx="12" fill="#fff3da" stroke="#b8944f" stroke-width="1.5"/>
-  <text x="450" y="376" text-anchor="middle" font-size="12" fill="#3a3226">Participanții la o comunicare orală au rolul de vorbitor sau de ascultător.</text>
-
-  <text x="450" y="410" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual Art 5, pp. 22-23 (Repere)</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1166" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1166" fill="#faf7f0"/>
+<text x="93.9" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="713.9" lengthAdjust="spacing">Exprimarea adecvată a emoțiilor. Roluri în comunicare</text>
+<text x="230.0" y="74.4" font-size="14" fill="#5b6b83" textLength="440.0" lengthAdjust="spacing">Clasa a V-a · Unitatea I, Lecția 8 · Manual, pp. 22-23 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. SITUAȚIA DE COMUNICARE</text>
+<rect x="40" y="128.6" width="820" height="80.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" textLength="226.1" lengthAdjust="spacing">De fiecare dată când se transmit</text>
+<text x="292.4" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="280.5" lengthAdjust="spacing">gânduri, idei, întâmplări, stări, emoții</text>
+<text x="572.9" y="162.6" font-size="16" fill="#10233f" textLength="194.4" lengthAdjust="spacing">, este vorba de o situație de</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" textLength="85.6" lengthAdjust="spacing">comunicare.</text>
+<rect x="40" y="228.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="251.6" font-size="16" font-weight="700" fill="#ffffff">2. FELURILE COMUNICĂRII</text>
+<rect x="40" y="262.6" width="820" height="265.8" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="280.6" width="248.0" height="154.1" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="308.6" font-size="16" fill="#0d9c92" font-weight="700" textLength="55.4" lengthAdjust="spacing">verbală</text>
+<text x="78.0" y="326.9" font-size="13.5" fill="#5b6b83" textLength="70.2" lengthAdjust="spacing">prin cuvinte</text>
+<text x="78.0" y="349.5" font-size="14.5" fill="#3a3226" textLength="169.2" lengthAdjust="spacing">prin intermediul unei limbi</text>
+<text x="78.0" y="370.5" font-size="14.5" fill="#3a3226" textLength="203.1" lengthAdjust="spacing">cunoscute de cei care comunică</text>
+<text x="78.0" y="394.4" font-size="14.5" fill="#3a3226" textLength="48.9" lengthAdjust="spacing">poate fi</text>
+<text x="130.8" y="394.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="34.4" lengthAdjust="spacing">orală</text>
+<text x="169.1" y="394.4" font-size="14.5" fill="#3a3226" textLength="21.8" lengthAdjust="spacing">sau</text>
+<text x="194.7" y="394.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="37.4" lengthAdjust="spacing">scrisă</text>
+<text x="78.0" y="418.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="142.7" lengthAdjust="spacing">„Mă bucur că ai venit!”</text>
+<rect x="326.0" y="280.6" width="248.0" height="154.1" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="342.0" y="308.6" font-size="16" fill="#6f5ea8" font-weight="700" textLength="84.6" lengthAdjust="spacing">nonverbală</text>
+<text x="342.0" y="326.9" font-size="13.5" fill="#5b6b83" textLength="54.1" lengthAdjust="spacing">prin corp</text>
+<text x="342.0" y="349.5" font-size="14.5" fill="#3a3226" textLength="155.4" lengthAdjust="spacing">mimica, poziția corpului,</text>
+<text x="342.0" y="370.5" font-size="14.5" fill="#3a3226" textLength="161.2" lengthAdjust="spacing">gesturile, contactul vizual</text>
+<text x="342.0" y="394.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="156.9" lengthAdjust="spacing">un zâmbet, o îmbrățișare</text>
+<rect x="590.0" y="280.6" width="248.0" height="154.1" rx="12" fill="#ffffff" stroke="#9a7433" stroke-width="2"/>
+<text x="606.0" y="308.6" font-size="16" fill="#9a7433" font-weight="700" textLength="89.0" lengthAdjust="spacing">paraverbală</text>
+<text x="606.0" y="326.9" font-size="13.5" fill="#5b6b83" textLength="54.9" lengthAdjust="spacing">prin voce</text>
+<text x="606.0" y="349.5" font-size="14.5" fill="#3a3226" textLength="215.9" lengthAdjust="spacing">intonația, intensitatea vocii, ritmul</text>
+<text x="606.0" y="370.5" font-size="14.5" fill="#3a3226" textLength="44.7" lengthAdjust="spacing">vorbirii</text>
+<text x="606.0" y="394.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="208.1" lengthAdjust="spacing">vorbești șoptit sau apăsat, repede</text>
+<text x="606.0" y="415.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="43.9" lengthAdjust="spacing">sau rar</text>
+<rect x="62.0" y="448.7" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><text x="78.0" y="475.2" font-size="14.5" fill="#10233f" font-weight="700" textLength="47.6" lengthAdjust="spacing">Reține:</text>
+<text x="78.0" y="494.0" font-size="14.5" fill="#3a3226" textLength="84.1" lengthAdjust="spacing">Comunicarea</text>
+<text x="166.0" y="494.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="34.4" lengthAdjust="spacing">orală</text>
+<text x="204.3" y="494.0" font-size="14.5" fill="#3a3226" textLength="392.8" lengthAdjust="spacing">le presupune pe toate trei: verbală, nonverbală și paraverbală.</text>
+<rect x="40" y="548.4" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="571.4" font-size="16" font-weight="700" fill="#ffffff">3. ROLURI ÎN COMUNICARE</text>
+<rect x="40" y="582.4" width="820" height="137.2" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="600.4" width="380.0" height="67.7" rx="12" fill="#ffffff" stroke="#10233f" stroke-width="2"/>
+<text x="78.0" y="628.4" font-size="16" fill="#10233f" font-weight="700" textLength="75.8" lengthAdjust="spacing">vorbitorul</text>
+<text x="78.0" y="651.7" font-size="14.5" fill="#3a3226" textLength="112.8" lengthAdjust="spacing">transmite mesajul</text>
+<rect x="458.0" y="600.4" width="380.0" height="67.7" rx="12" fill="#ffffff" stroke="#10233f" stroke-width="2"/>
+<text x="474.0" y="628.4" font-size="16" fill="#10233f" font-weight="700" textLength="89.1" lengthAdjust="spacing">ascultătorul</text>
+<text x="474.0" y="651.7" font-size="14.5" fill="#3a3226" textLength="108.3" lengthAdjust="spacing">primește mesajul</text>
+<text x="62.0" y="697.0" font-size="15" fill="#3a3226" textLength="424.9" lengthAdjust="spacing">Rolurile se schimbă: când ascultătorul răspunde, devine vorbitor.</text>
+<rect x="40" y="739.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="762.5" font-size="16" font-weight="700" fill="#ffffff">4. COMUNICAREA EMOȚIILOR</text>
+<rect x="40" y="773.5" width="820" height="341.6" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="807.0" font-size="15.5" fill="#3a3226" textLength="411.8" lengthAdjust="spacing">Comunicarea emoțiilor presupune să arăți ceea ce simți: prin</text>
+<text x="478.0" y="807.0" font-size="15.5" fill="#3a3226" font-weight="700" textLength="53.5" lengthAdjust="spacing">cuvinte</text>
+<text x="531.5" y="807.0" font-size="15.5" fill="#3a3226" textLength="3.4" lengthAdjust="spacing">,</text>
+<text x="539.1" y="807.0" font-size="15.5" fill="#3a3226" font-weight="700" textLength="50.8" lengthAdjust="spacing">gesturi</text>
+<text x="589.9" y="807.0" font-size="15.5" fill="#3a3226" textLength="3.4" lengthAdjust="spacing">,</text>
+<text x="597.5" y="807.0" font-size="15.5" fill="#3a3226" font-weight="700" textLength="119.3" lengthAdjust="spacing">expresii ale feței</text>
+<text x="721.1" y="807.0" font-size="15.5" fill="#3a3226" textLength="23.2" lengthAdjust="spacing">sau</text>
+<text x="748.5" y="807.0" font-size="15.5" fill="#3a3226" font-weight="700" textLength="68.8" lengthAdjust="spacing">simboluri</text>
+<text x="817.3" y="807.0" font-size="15.5" fill="#3a3226" textLength="3.4" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="825.7" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="847.2" font-size="13.5" fill="#10233f" font-weight="700" textLength="44.1" lengthAdjust="spacing">Emoția</text>
+<text x="229.2" y="847.2" font-size="13.5" fill="#10233f" font-weight="700" textLength="76.0" lengthAdjust="spacing">Prin cuvinte</text>
+<text x="493.0" y="847.2" font-size="13.5" fill="#10233f" font-weight="700" textLength="176.3" lengthAdjust="spacing">Prin gesturi și expresia feței</text>
+<line x1="62.0" y1="857.2" x2="838.0" y2="857.2" stroke="#e3dccb"/>
+<text x="74.0" y="879.7" font-size="14.5" fill="#3a3226" textLength="47.7" lengthAdjust="spacing">bucuria</text>
+<text x="229.2" y="879.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="62.5" lengthAdjust="spacing">„Ce bine!”</text>
+<text x="493.0" y="879.7" font-size="14.5" fill="#3a3226" textLength="139.5" lengthAdjust="spacing">zâmbet, ochi luminoși</text>
+<line x1="62.0" y1="890.1" x2="838.0" y2="890.1" stroke="#e3dccb"/>
+<text x="74.0" y="912.6" font-size="14.5" fill="#3a3226" textLength="51.9" lengthAdjust="spacing">tristețea</text>
+<text x="229.2" y="912.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="91.0" lengthAdjust="spacing">„Îmi pare rău.”</text>
+<text x="493.0" y="912.6" font-size="14.5" fill="#3a3226" textLength="163.0" lengthAdjust="spacing">privire în jos, umeri căzuți</text>
+<line x1="62.0" y1="922.9" x2="838.0" y2="922.9" stroke="#e3dccb"/>
+<text x="74.0" y="945.4" font-size="14.5" fill="#3a3226" textLength="27.1" lengthAdjust="spacing">frica</text>
+<text x="229.2" y="945.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="87.7" lengthAdjust="spacing">„Mi-e teamă!”</text>
+<text x="493.0" y="945.4" font-size="14.5" fill="#3a3226" textLength="152.1" lengthAdjust="spacing">ochi mari, corp încordat</text>
+<line x1="62.0" y1="955.8" x2="838.0" y2="955.8" stroke="#e3dccb"/>
+<text x="74.0" y="978.3" font-size="14.5" fill="#3a3226" textLength="28.7" lengthAdjust="spacing">furia</text>
+<text x="229.2" y="978.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="86.9" lengthAdjust="spacing">„Nu e corect!”</text>
+<text x="493.0" y="978.3" font-size="14.5" fill="#3a3226" textLength="227.5" lengthAdjust="spacing">sprâncene încruntate, pumni strânși</text>
+<line x1="62.0" y1="988.6" x2="838.0" y2="988.6" stroke="#e3dccb"/>
+<text x="74.0" y="1011.1" font-size="14.5" fill="#3a3226" textLength="62.2" lengthAdjust="spacing">dezgustul</text>
+<text x="229.2" y="1011.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="115.4" lengthAdjust="spacing">„Ce urât miroase!”</text>
+<text x="493.0" y="1011.1" font-size="14.5" fill="#3a3226" textLength="140.1" lengthAdjust="spacing">nas încrețit, cap întors</text>
+<line x1="62.0" y1="1021.5" x2="838.0" y2="1021.5" stroke="#e3dccb"/>
+<line x1="217.2" y1="825.7" x2="217.2" y2="1021.5" stroke="#e3dccb"/>
+<line x1="481.0" y1="825.7" x2="481.0" y2="1021.5" stroke="#e3dccb"/>
+<rect x="62.0" y="1035.5" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="1035.5" width="6" height="61.7" rx="3" fill="#b4432c"/><text x="84.0" y="1062.0" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="1080.8" font-size="14.5" fill="#3a3226" textLength="124.0" lengthAdjust="spacing">Emoțiile se exprimă</text>
+<text x="211.9" y="1080.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="52.9" lengthAdjust="spacing">adecvat</text>
+<text x="264.8" y="1080.8" font-size="14.5" fill="#3a3226" textLength="230.4" lengthAdjust="spacing">, potrivit situației; uneori e bine să le</text>
+<text x="499.1" y="1080.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="68.3" lengthAdjust="spacing">temperezi</text>
+<text x="567.4" y="1080.8" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="210.1" y="1146.7" font-size="11.5" fill="#5b6b83" textLength="479.9" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 22-23, rubrica Repere. Unele exemple sunt create pentru aceste notițe.</text>
 </svg>

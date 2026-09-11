@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 980" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="980" fill="#faf7f0"/>
+<text x="340.0" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="220.4" lengthAdjust="spacing">Modul imperativ</text>
+<text x="224.3" y="74.4" font-size="14" fill="#5b6b83" textLength="451.4" lengthAdjust="spacing">Clasa a V-a · Unitatea II, Lecția 17 · Manual, pp. 72-73 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ARATĂ IMPERATIVUL</text>
+<rect x="40" y="128.6" width="820" height="139.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="125.9" lengthAdjust="spacing">Modul imperativ</text>
+<text x="192.2" y="162.6" font-size="16" fill="#10233f" textLength="347.7" lengthAdjust="spacing">arată o acțiune posibilă, realizabilă, exprimând un</text>
+<text x="544.2" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="40.3" lengthAdjust="spacing">ordin</text>
+<text x="584.6" y="162.6" font-size="16" fill="#10233f" textLength="26.1" lengthAdjust="spacing">, un</text>
+<text x="615.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="57.3" lengthAdjust="spacing">îndemn</text>
+<text x="672.2" y="162.6" font-size="16" fill="#10233f" textLength="26.1" lengthAdjust="spacing">, un</text>
+<text x="702.6" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="28.0" lengthAdjust="spacing">sfat</text>
+<text x="730.6" y="162.6" font-size="16" fill="#10233f" textLength="17.3" lengthAdjust="spacing">, o</text>
+<text x="752.2" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="78.6" lengthAdjust="spacing">rugăminte</text>
+<text x="830.8" y="162.6" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<text x="62.0" y="196.4" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="196.4" font-size="15" fill="#3a3226" textLength="149.1" lengthAdjust="spacing">Are forme doar pentru</text>
+<text x="227.3" y="196.4" font-size="15" fill="#3a3226" font-weight="700" textLength="104.7" lengthAdjust="spacing">persoana a II-a</text>
+<text x="332.0" y="196.4" font-size="15" fill="#3a3226" textLength="118.5" lengthAdjust="spacing">, singular și plural.</text>
+<text x="62.0" y="221.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="221.1" font-size="15" fill="#3a3226" font-weight="700" textLength="108.2" lengthAdjust="spacing">Nu are timpuri.</text>
+<text x="62.0" y="245.9" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="245.9" font-size="15" fill="#3a3226" textLength="163.9" lengthAdjust="spacing">În vorbire are o intonație</text>
+<text x="242.2" y="245.9" font-size="15" fill="#3a3226" font-weight="700" textLength="84.0" lengthAdjust="spacing">exclamativă</text>
+<text x="326.2" y="245.9" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="40" y="288.4" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="311.4" font-size="16" font-weight="700" fill="#ffffff">2. FORMA AFIRMATIVĂ ȘI FORMA NEGATIVĂ</text>
+<rect x="40" y="322.4" width="820" height="243.2" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="340.4" width="776.0" height="31.6" fill="#efeaf8"/>
+
+<text x="356.6" y="361.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="78.3" lengthAdjust="spacing">singular (tu)</text>
+<text x="655.7" y="361.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="69.9" lengthAdjust="spacing">plural (voi)</text>
+<line x1="62.0" y1="371.9" x2="838.0" y2="371.9" stroke="#e3dccb"/>
+<text x="74.0" y="394.4" font-size="14.5" fill="#3a3226" textLength="63.1" lengthAdjust="spacing">afirmativă</text>
+<text x="374.5" y="394.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="42.3" lengthAdjust="spacing">Cântă!</text>
+<text x="665.2" y="394.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="50.8" lengthAdjust="spacing">Cântați!</text>
+<line x1="62.0" y1="404.8" x2="838.0" y2="404.8" stroke="#e3dccb"/>
+<text x="74.0" y="427.3" font-size="14.5" fill="#3a3226" textLength="54.5" lengthAdjust="spacing">negativă</text>
+<text x="319.8" y="427.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="17.7" lengthAdjust="spacing">nu</text>
+<text x="341.5" y="427.3" font-size="14.5" fill="#3a3226" textLength="63.8" lengthAdjust="spacing">+ infinitiv:</text>
+<text x="409.2" y="427.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="62.4" lengthAdjust="spacing">Nu cânta!</text>
+<text x="604.0" y="427.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="17.7" lengthAdjust="spacing">nu</text>
+<text x="625.6" y="427.3" font-size="14.5" fill="#3a3226" textLength="76.8" lengthAdjust="spacing">+ imperativ:</text>
+<text x="706.4" y="427.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="70.8" lengthAdjust="spacing">Nu cântați!</text>
+<line x1="62.0" y1="437.6" x2="838.0" y2="437.6" stroke="#e3dccb"/>
+<line x1="248.2" y1="340.4" x2="248.2" y2="437.6" stroke="#e3dccb"/>
+<line x1="543.1" y1="340.4" x2="543.1" y2="437.6" stroke="#e3dccb"/>
+<rect x="62.0" y="451.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="473.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="40.4" lengthAdjust="spacing">verbul</text>
+<text x="216.6" y="473.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="55.6" lengthAdjust="spacing">(a) cânta</text>
+<text x="353.7" y="473.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="45.4" lengthAdjust="spacing">(a) visa</text>
+<text x="477.4" y="473.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="61.8" lengthAdjust="spacing">(a) merge</text>
+<text x="610.6" y="473.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="59.3" lengthAdjust="spacing">(a) dormi</text>
+<text x="742.5" y="473.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="59.1" lengthAdjust="spacing">(a) hotărî</text>
+<line x1="62.0" y1="483.2" x2="838.0" y2="483.2" stroke="#e3dccb"/>
+<text x="74.0" y="505.2" font-size="14" fill="#3a3226" textLength="12.7" lengthAdjust="spacing">tu</text>
+<text x="225.7" y="505.2" font-size="14" fill="#3a3226" textLength="37.4" lengthAdjust="spacing">cântă!</text>
+<text x="352.4" y="505.2" font-size="14" fill="#3a3226" textLength="47.7" lengthAdjust="spacing">visează!</text>
+<text x="488.3" y="505.2" font-size="14" fill="#3a3226" textLength="39.8" lengthAdjust="spacing">mergi!</text>
+<text x="619.8" y="505.2" font-size="14" fill="#3a3226" textLength="40.7" lengthAdjust="spacing">dormi!</text>
+<text x="741.0" y="505.2" font-size="14" fill="#3a3226" textLength="62.0" lengthAdjust="spacing">hotărăște!</text>
+<line x1="62.0" y1="515.4" x2="838.0" y2="515.4" stroke="#e3dccb"/>
+<text x="74.0" y="537.4" font-size="14" fill="#3a3226" textLength="18.3" lengthAdjust="spacing">voi</text>
+<text x="221.6" y="537.4" font-size="14" fill="#3a3226" textLength="45.5" lengthAdjust="spacing">cântați!</text>
+<text x="358.7" y="537.4" font-size="14" fill="#3a3226" textLength="35.1" lengthAdjust="spacing">visați!</text>
+<text x="482.3" y="537.4" font-size="14" fill="#3a3226" textLength="51.8" lengthAdjust="spacing">mergeți!</text>
+<text x="615.7" y="537.4" font-size="14" fill="#3a3226" textLength="48.9" lengthAdjust="spacing">dormiți!</text>
+<text x="745.9" y="537.4" font-size="14" fill="#3a3226" textLength="52.2" lengthAdjust="spacing">hotărâți!</text>
+<line x1="62.0" y1="547.6" x2="838.0" y2="547.6" stroke="#e3dccb"/>
+<line x1="178.4" y1="451.6" x2="178.4" y2="547.6" stroke="#e3dccb"/>
+<line x1="310.3" y1="451.6" x2="310.3" y2="547.6" stroke="#e3dccb"/>
+<line x1="442.2" y1="451.6" x2="442.2" y2="547.6" stroke="#e3dccb"/>
+<line x1="574.2" y1="451.6" x2="574.2" y2="547.6" stroke="#e3dccb"/>
+<line x1="706.1" y1="451.6" x2="706.1" y2="547.6" stroke="#e3dccb"/>
+<rect x="40" y="585.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="608.6" font-size="16" font-weight="700" fill="#ffffff">3. FORME DE REȚINUT</text>
+<rect x="40" y="619.6" width="820" height="155.1" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="652.6" font-size="15" fill="#3a3226" textLength="274.4" lengthAdjust="spacing">Unele verbe au forme speciale la singular:</text>
+<text x="340.4" y="652.6" font-size="15" fill="#10233f" font-style="italic" textLength="180.4" lengthAdjust="spacing">Vino! Fă! Du! Zi! Refă! Adu!</text>
+<rect x="62.0" y="671.1" width="776.0" height="85.6" rx="12" fill="#f3efe4"/><rect x="62.0" y="671.1" width="6" height="85.6" rx="3" fill="#b4432c"/><text x="84.0" y="697.6" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="716.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="21.2" lengthAdjust="spacing">A fi</text>
+<text x="105.2" y="716.4" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">:</text>
+<text x="112.3" y="716.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="15.7" lengthAdjust="spacing">Fii</text>
+<text x="131.8" y="716.4" font-size="14.5" fill="#3a3226" textLength="43.8" lengthAdjust="spacing">(cu doi</text>
+<text x="179.6" y="716.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="3.8" lengthAdjust="spacing">i</text>
+<text x="183.3" y="716.4" font-size="14.5" fill="#3a3226" textLength="81.9" lengthAdjust="spacing">) la afirmativ:</text>
+<text x="269.2" y="716.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="119.9" lengthAdjust="spacing">Fii la antrenament!</text>
+<text x="389.1" y="716.4" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">;</text>
+<text x="396.2" y="716.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="33.9" lengthAdjust="spacing">Nu fi</text>
+<text x="434.0" y="716.4" font-size="14.5" fill="#3a3226" textLength="39.7" lengthAdjust="spacing">(cu un</text>
+<text x="477.7" y="716.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="3.8" lengthAdjust="spacing">i</text>
+<text x="481.4" y="716.4" font-size="14.5" fill="#3a3226" textLength="73.4" lengthAdjust="spacing">) la negativ.</text>
+<text x="84.0" y="740.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="78.7" lengthAdjust="spacing">Scrieți tema!</text>
+<text x="166.7" y="740.4" font-size="14.5" fill="#3a3226" textLength="188.4" lengthAdjust="spacing">(imperativ plural, un cuvânt) /</text>
+<text x="358.9" y="740.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="84.5" lengthAdjust="spacing">Scrie-ți tema!</text>
+<text x="447.4" y="740.4" font-size="14.5" fill="#3a3226" textLength="4.3" lengthAdjust="spacing">(</text>
+<text x="451.7" y="740.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="28.3" lengthAdjust="spacing">scrie</text>
+<text x="483.9" y="740.4" font-size="14.5" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">+</text>
+<text x="497.7" y="740.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="12.2" lengthAdjust="spacing">îți</text>
+<text x="509.9" y="740.4" font-size="14.5" fill="#3a3226" textLength="80.9" lengthAdjust="spacing">, cu cratimă).</text>
+<rect x="40" y="794.7" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="817.7" font-size="16" font-weight="700" fill="#ffffff">4. MODEL DE ANALIZĂ</text>
+<rect x="40" y="828.7" width="820" height="99.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="846.7" width="776.0" height="63.9" rx="12" fill="#f3efe4"/><text x="78.0" y="873.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="69.3" lengthAdjust="spacing">„mănâncă”</text>
+<text x="151.2" y="873.2" font-size="14.5" fill="#3a3226" textLength="665.2" lengthAdjust="spacing">– verb predicativ, modul imperativ, persoana a II-a, numărul singular, formă afirmativă, în propoziție este</text>
+<text x="78.0" y="894.2" font-size="14.5" fill="#3a3226" textLength="98.3" lengthAdjust="spacing">predicat verbal.</text>
+<text x="222.9" y="960.1" font-size="11.5" fill="#5b6b83" textLength="454.2" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 72-73, rubrica Repere, tabelul de conjugare și modelul de analiză.</text>
+</svg>

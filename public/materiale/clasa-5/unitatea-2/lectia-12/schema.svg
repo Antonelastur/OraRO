@@ -1,11 +1,130 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="320" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Modul indicativ. Prezentul</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 11</text>
-  <rect x="150" y="95" width="600" height="90" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="450" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Ce arată</text>
-  <text font-size="12" fill="#3a3226" text-anchor="middle"><tspan x="450" y="147">O acțiune care se petrece chiar în momentul vorbirii,</tspan><tspan x="450" y="164">sau una obișnuită, general valabilă.</tspan></text>
-  <rect x="180" y="205" width="540" height="50" rx="12" fill="#eaf6f4"/>
-  <text x="450" y="235" text-anchor="middle" font-size="13" fill="#3a3226" font-style="italic">eu joc, tu joci, el joacă, noi jucăm, voi jucați, ei joacă</text>
-  <text x="450" y="284" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 11, p. 62</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1194" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1194" fill="#faf7f0"/>
+<text x="276.8" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="346.9" lengthAdjust="spacing">Modul indicativ. Prezentul</text>
+<text x="224.3" y="74.4" font-size="14" fill="#5b6b83" textLength="451.4" lengthAdjust="spacing">Clasa a V-a · Unitatea II, Lecția 12 · Manual, pp. 62-63 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. MODUL</text>
+<rect x="40" y="128.6" width="820" height="171.9" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="49.3" lengthAdjust="spacing">Modul</text>
+<text x="115.6" y="162.6" font-size="16" fill="#10233f" textLength="560.9" lengthAdjust="spacing">este forma pe care o ia verbul pentru a arăta cum consideră vorbitorul acțiunea.</text>
+<rect x="62.0" y="181.4" width="380.0" height="67.7" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="209.4" font-size="16" fill="#0d9c92" font-weight="700" textLength="151.5" lengthAdjust="spacing">acțiune sigură, reală</text>
+<text x="78.0" y="232.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="53.9" lengthAdjust="spacing">Stă. Iese.</text>
+<rect x="458.0" y="181.4" width="380.0" height="67.7" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="209.4" font-size="16" fill="#6f5ea8" font-weight="700" textLength="118.4" lengthAdjust="spacing">acțiune posibilă</text>
+<text x="474.0" y="232.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="57.3" lengthAdjust="spacing">Stai! Ieși!</text>
+<text x="62.0" y="278.1" font-size="15" fill="#3a3226" textLength="177.4" lengthAdjust="spacing">Modul care arată o acțiune</text>
+<text x="243.5" y="278.1" font-size="15" fill="#3a3226" font-weight="700" textLength="97.0" lengthAdjust="spacing">sigură și reală</text>
+<text x="344.6" y="278.1" font-size="15" fill="#3a3226" textLength="27.0" lengthAdjust="spacing">este</text>
+<text x="375.6" y="278.1" font-size="15" fill="#3a3226" font-weight="700" textLength="110.1" lengthAdjust="spacing">modul indicativ</text>
+<text x="485.7" y="278.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="40" y="320.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="343.5" font-size="16" font-weight="700" fill="#ffffff">2. PREZENTUL</text>
+<rect x="40" y="354.5" width="820" height="378.6" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="388.5" font-size="16" fill="#10233f" font-weight="700" textLength="71.4" lengthAdjust="spacing">Prezentul</text>
+<text x="137.7" y="388.5" font-size="16" fill="#10233f" textLength="184.2" lengthAdjust="spacing">arată desfășurarea acțiunii</text>
+<text x="326.2" y="388.5" font-size="16" fill="#10233f" font-weight="700" textLength="155.8" lengthAdjust="spacing">în momentul vorbirii</text>
+<text x="482.0" y="388.5" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<text x="62.0" y="422.3" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="422.3" font-size="15" fill="#3a3226" textLength="153.0" lengthAdjust="spacing">Verbele la prezent au o</text>
+<text x="231.2" y="422.3" font-size="15" fill="#3a3226" font-weight="700" textLength="116.6" lengthAdjust="spacing">parte relativ fixă</text>
+<text x="347.8" y="422.3" font-size="15" fill="#3a3226" textLength="148.2" lengthAdjust="spacing">, comună cu infinitivul.</text>
+<text x="62.0" y="447.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="447.1" font-size="15" fill="#3a3226" textLength="132.0" lengthAdjust="spacing">Sunetele care indică</text>
+<text x="210.2" y="447.1" font-size="15" fill="#3a3226" font-weight="700" textLength="143.2" lengthAdjust="spacing">persoana și numărul</text>
+<text x="357.5" y="447.1" font-size="15" fill="#3a3226" textLength="69.2" lengthAdjust="spacing">se numesc</text>
+<text x="430.7" y="447.1" font-size="15" fill="#3a3226" font-weight="700" textLength="68.5" lengthAdjust="spacing">desinențe</text>
+<text x="499.3" y="447.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="471.8" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="471.8" font-size="15" fill="#3a3226" textLength="506.2" lengthAdjust="spacing">Când lipsește sunetul care arată persoana și numărul, spunem că desinența e</text>
+<text x="584.5" y="471.8" font-size="15" fill="#3a3226" font-weight="700" textLength="30.4" lengthAdjust="spacing">zero</text>
+<text x="614.9" y="471.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="622.3" y="471.8" font-size="15" fill="#10233f" font-style="italic" textLength="40.8" lengthAdjust="spacing">visez∅</text>
+<text x="663.1" y="471.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="490.3" width="776.0" height="31.6" fill="#efeaf8"/>
+
+<text x="239.9" y="511.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="55.6" lengthAdjust="spacing">(a) cânta</text>
+<text x="408.0" y="511.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="45.4" lengthAdjust="spacing">(a) visa</text>
+<text x="562.7" y="511.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="61.8" lengthAdjust="spacing">(a) merge</text>
+<text x="727.0" y="511.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="59.1" lengthAdjust="spacing">(a) hotărî</text>
+<line x1="62.0" y1="521.9" x2="838.0" y2="521.9" stroke="#e3dccb"/>
+<text x="74.0" y="543.9" font-size="14" fill="#3a3226" textLength="15.3" lengthAdjust="spacing">eu</text>
+<text x="254.5" y="543.9" font-size="14" fill="#3a3226" textLength="26.3" lengthAdjust="spacing">cânt</text>
+<text x="415.8" y="543.9" font-size="14" fill="#3a3226" textLength="29.5" lengthAdjust="spacing">visez</text>
+<text x="577.3" y="543.9" font-size="14" fill="#3a3226" textLength="32.5" lengthAdjust="spacing">merg</text>
+<text x="730.3" y="543.9" font-size="14" fill="#3a3226" textLength="52.5" lengthAdjust="spacing">hotărăsc</text>
+<line x1="62.0" y1="554.1" x2="838.0" y2="554.1" stroke="#e3dccb"/>
+<text x="74.0" y="576.1" font-size="14" fill="#3a3226" textLength="12.7" lengthAdjust="spacing">tu</text>
+<text x="252.8" y="576.1" font-size="14" fill="#3a3226" textLength="29.7" lengthAdjust="spacing">cânți</text>
+<text x="414.2" y="576.1" font-size="14" fill="#3a3226" textLength="32.9" lengthAdjust="spacing">visezi</text>
+<text x="575.6" y="576.1" font-size="14" fill="#3a3226" textLength="35.8" lengthAdjust="spacing">mergi</text>
+<text x="729.4" y="576.1" font-size="14" fill="#3a3226" textLength="54.2" lengthAdjust="spacing">hotărăști</text>
+<line x1="62.0" y1="586.3" x2="838.0" y2="586.3" stroke="#e3dccb"/>
+<text x="74.0" y="608.3" font-size="14" fill="#3a3226" textLength="31.9" lengthAdjust="spacing">el, ea</text>
+<text x="250.9" y="608.3" font-size="14" fill="#3a3226" textLength="33.5" lengthAdjust="spacing">cântă</text>
+<text x="408.7" y="608.3" font-size="14" fill="#3a3226" textLength="43.8" lengthAdjust="spacing">visează</text>
+<text x="573.7" y="608.3" font-size="14" fill="#3a3226" textLength="39.8" lengthAdjust="spacing">merge</text>
+<text x="727.5" y="608.3" font-size="14" fill="#3a3226" textLength="58.1" lengthAdjust="spacing">hotărăște</text>
+<line x1="62.0" y1="618.5" x2="838.0" y2="618.5" stroke="#e3dccb"/>
+<text x="74.0" y="640.5" font-size="14" fill="#3a3226" textLength="19.6" lengthAdjust="spacing">noi</text>
+<text x="244.9" y="640.5" font-size="14" fill="#3a3226" textLength="45.5" lengthAdjust="spacing">cântăm</text>
+<text x="413.0" y="640.5" font-size="14" fill="#3a3226" textLength="35.1" lengthAdjust="spacing">visăm</text>
+<text x="567.7" y="640.5" font-size="14" fill="#3a3226" textLength="51.8" lengthAdjust="spacing">mergem</text>
+<text x="730.4" y="640.5" font-size="14" fill="#3a3226" textLength="52.2" lengthAdjust="spacing">hotărâm</text>
+<line x1="62.0" y1="650.7" x2="838.0" y2="650.7" stroke="#e3dccb"/>
+<text x="74.0" y="672.7" font-size="14" fill="#3a3226" textLength="18.3" lengthAdjust="spacing">voi</text>
+<text x="246.8" y="672.7" font-size="14" fill="#3a3226" textLength="41.6" lengthAdjust="spacing">cântați</text>
+<text x="415.0" y="672.7" font-size="14" fill="#3a3226" textLength="31.2" lengthAdjust="spacing">visați</text>
+<text x="569.6" y="672.7" font-size="14" fill="#3a3226" textLength="47.9" lengthAdjust="spacing">mergeți</text>
+<text x="732.4" y="672.7" font-size="14" fill="#3a3226" textLength="48.3" lengthAdjust="spacing">hotărâți</text>
+<line x1="62.0" y1="682.9" x2="838.0" y2="682.9" stroke="#e3dccb"/>
+<text x="74.0" y="704.9" font-size="14" fill="#3a3226" textLength="35.4" lengthAdjust="spacing">ei, ele</text>
+<text x="250.9" y="704.9" font-size="14" fill="#3a3226" textLength="33.5" lengthAdjust="spacing">cântă</text>
+<text x="408.7" y="704.9" font-size="14" fill="#3a3226" textLength="43.8" lengthAdjust="spacing">visează</text>
+<text x="577.3" y="704.9" font-size="14" fill="#3a3226" textLength="32.5" lengthAdjust="spacing">merg</text>
+<text x="730.3" y="704.9" font-size="14" fill="#3a3226" textLength="52.5" lengthAdjust="spacing">hotărăsc</text>
+<line x1="62.0" y1="715.1" x2="838.0" y2="715.1" stroke="#e3dccb"/>
+<line x1="186.2" y1="490.3" x2="186.2" y2="715.1" stroke="#e3dccb"/>
+<line x1="349.1" y1="490.3" x2="349.1" y2="715.1" stroke="#e3dccb"/>
+<line x1="512.1" y1="490.3" x2="512.1" y2="715.1" stroke="#e3dccb"/>
+<line x1="675.0" y1="490.3" x2="675.0" y2="715.1" stroke="#e3dccb"/>
+<rect x="40" y="753.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="776.1" font-size="16" font-weight="700" fill="#ffffff">3. FORME CU -EZ- ȘI -ESC-</text>
+<rect x="40" y="787.1" width="820" height="102.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="820.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="820.1" font-size="15" fill="#3a3226" textLength="200.2" lengthAdjust="spacing">Unele verbe au două forme cu</text>
+<text x="278.5" y="820.1" font-size="15" fill="#3a3226" font-weight="700" textLength="105.5" lengthAdjust="spacing">sensuri diferite</text>
+<text x="383.9" y="820.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="391.3" y="820.1" font-size="15" fill="#10233f" font-style="italic" textLength="236.4" lengthAdjust="spacing">Ana manifestă interes pentru lectură</text>
+<text x="631.7" y="820.1" font-size="15" fill="#3a3226" textLength="52.2" lengthAdjust="spacing">(arată) /</text>
+<text x="688.0" y="820.1" font-size="15" fill="#10233f" font-style="italic" textLength="105.9" lengthAdjust="spacing">Ea manifestează</text>
+<text x="74.2" y="841.8" font-size="15" fill="#10233f" font-style="italic" textLength="167.7" lengthAdjust="spacing">pentru ocrotirea pădurilor</text>
+<text x="245.9" y="841.8" font-size="15" fill="#3a3226" textLength="189.8" lengthAdjust="spacing">(participă la o demonstrație).</text>
+<text x="62.0" y="866.6" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="866.6" font-size="15" fill="#3a3226" textLength="240.0" lengthAdjust="spacing">Alte verbe au două forme acceptate:</text>
+<text x="318.2" y="866.6" font-size="15" fill="#10233f" font-style="italic" textLength="125.5" lengthAdjust="spacing">cheltuiește/cheltuie</text>
+<text x="443.8" y="866.6" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">,</text>
+<text x="451.1" y="866.6" font-size="15" fill="#10233f" font-style="italic" textLength="118.0" lengthAdjust="spacing">chinuie/chinuiește</text>
+<text x="569.2" y="866.6" font-size="15" fill="#3a3226" textLength="174.0" lengthAdjust="spacing">; DOOM3 o recomandă pe</text>
+<text x="747.2" y="866.6" font-size="15" fill="#3a3226" font-weight="700" textLength="41.4" lengthAdjust="spacing">prima</text>
+<text x="788.6" y="866.6" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="40" y="909.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="932.1" font-size="16" font-weight="700" fill="#ffffff">4. ALTE VALORI ALE PREZENTULUI</text>
+<rect x="40" y="943.1" width="820" height="199.6" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="976.1" font-size="15" fill="#3a3226" textLength="610.8" lengthAdjust="spacing">Prezentul poate arăta și alt moment, când în propoziție există cuvinte care precizează timpul:</text>
+<rect x="62.0" y="994.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="1016.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="55.6" lengthAdjust="spacing">Valoarea</text>
+<text x="306.8" y="1016.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="1026.1" x2="838.0" y2="1026.1" stroke="#e3dccb"/>
+<text x="74.0" y="1048.6" font-size="14.5" fill="#3a3226" textLength="37.4" lengthAdjust="spacing">trecut</text>
+<text x="306.8" y="1048.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="212.0" lengthAdjust="spacing">În 1859, Cuza unește Principatele.</text>
+<line x1="62.0" y1="1059.0" x2="838.0" y2="1059.0" stroke="#e3dccb"/>
+<text x="74.0" y="1081.5" font-size="14.5" fill="#3a3226" textLength="32.5" lengthAdjust="spacing">viitor</text>
+<text x="306.8" y="1081.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="244.9" lengthAdjust="spacing">Săptămâna viitoare plecăm în excursie.</text>
+<line x1="62.0" y1="1091.8" x2="838.0" y2="1091.8" stroke="#e3dccb"/>
+<text x="74.0" y="1114.3" font-size="14.5" fill="#3a3226" textLength="94.7" lengthAdjust="spacing">adevăr general</text>
+<text x="306.8" y="1114.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="168.8" lengthAdjust="spacing">Apa fierbe la 100 de grade.</text>
+<line x1="62.0" y1="1124.7" x2="838.0" y2="1124.7" stroke="#e3dccb"/>
+<line x1="294.8" y1="994.6" x2="294.8" y2="1124.7" stroke="#e3dccb"/>
+<text x="148.2" y="1174.2" font-size="11.5" fill="#5b6b83" textLength="603.5" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 62-63, rubricile Repere și tabelul de conjugare. Unele exemple sunt create pentru aceste notițe.</text>
 </svg>

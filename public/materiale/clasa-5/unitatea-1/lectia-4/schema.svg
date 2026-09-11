@@ -1,59 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="980" height="400" fill="#faf7f0"/>
-  <text x="490" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">De la întâmplare la semnificație</text>
-  <text x="490" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 4 · Semnificațiile textului „Prietenul meu”</text>
-
-  <g>
-    <rect x="34" y="112" width="204" height="176" rx="18" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-    <circle cx="70" cy="150" r="19" fill="#3b5fa8"/>
-    <text x="70" y="157" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">1</text>
-    <text x="102" y="157" font-size="16" font-weight="700" fill="#10233f">Ce se întâmplă</text>
-    <text x="58" y="196" font-size="13" fill="#3d4a5f">Faptele, în ordine.</text>
-    <text x="58" y="220" font-size="13" fill="#3d4a5f">Cine, unde, când, ce face.</text>
-    <text x="58" y="256" font-size="12" font-style="italic" fill="#5b6b83">Întreb: ce am citit?</text>
-  </g>
-
-  <path d="M246 200 L268 200" stroke="#b8944f" stroke-width="3"/>
-  <path d="M262 194 L270 200 L262 206 Z" fill="#b8944f"/>
-
-  <g>
-    <rect x="278" y="112" width="204" height="176" rx="18" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
-    <circle cx="314" cy="150" r="19" fill="#a1417e"/>
-    <text x="314" y="157" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">2</text>
-    <text x="346" y="157" font-size="16" font-weight="700" fill="#10233f">Ce simt ei</text>
-    <text x="302" y="196" font-size="13" fill="#3d4a5f">Emoțiile personajelor.</text>
-    <text x="302" y="220" font-size="13" fill="#3d4a5f">Ce arată vorbele și gesturile.</text>
-    <text x="302" y="256" font-size="12" font-style="italic" fill="#5b6b83">Întreb: ce trăiesc ei?</text>
-  </g>
-
-  <path d="M490 200 L512 200" stroke="#b8944f" stroke-width="3"/>
-  <path d="M506 194 L514 200 L506 206 Z" fill="#b8944f"/>
-
-  <g>
-    <rect x="522" y="112" width="204" height="176" rx="18" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
-    <circle cx="558" cy="150" r="19" fill="#1c7f5e"/>
-    <text x="558" y="157" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">3</text>
-    <text x="590" y="157" font-size="16" font-weight="700" fill="#10233f">Ce transmite</text>
-    <text x="546" y="196" font-size="13" fill="#3d4a5f">Mesajul de dincolo</text>
-    <text x="546" y="220" font-size="13" fill="#3d4a5f">de întâmplare.</text>
-    <text x="546" y="256" font-size="12" font-style="italic" fill="#5b6b83">Întreb: ce vrea să spună?</text>
-  </g>
-
-  <path d="M734 200 L756 200" stroke="#b8944f" stroke-width="3"/>
-  <path d="M750 194 L758 200 L750 206 Z" fill="#b8944f"/>
-
-  <g>
-    <rect x="766" y="112" width="180" height="176" rx="18" fill="#fef8e9" stroke="#b8944f" stroke-width="2.5"/>
-    <circle cx="802" cy="150" r="19" fill="#b8944f"/>
-    <text x="802" y="157" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">4</text>
-    <text x="834" y="157" font-size="16" font-weight="700" fill="#10233f">Ce simt eu</text>
-    <text x="790" y="196" font-size="13" fill="#3d4a5f">Răspunsul meu</text>
-    <text x="790" y="220" font-size="13" fill="#3d4a5f">personal.</text>
-    <text x="790" y="256" font-size="12" font-style="italic" fill="#5b6b83">Textul mă face să...</text>
-  </g>
-
-  <rect x="34" y="316" width="912" height="52" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
-  <text x="56" y="341" font-size="13" font-weight="700" fill="#10233f">Regula de aur:</text>
-  <text x="164" y="341" font-size="13" fill="#3d4a5f">orice părere despre semnificație se sprijină pe un cuvânt sau pe un rând din text.</text>
-  <text x="56" y="360" font-size="12" font-style="italic" fill="#5b6b83">Fără dovadă din text, rămâne doar o impresie.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 884" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="884" fill="#faf7f0"/>
+<text x="57.4" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="786.8" lengthAdjust="spacing">Semnificațiile textului. „Prietenul meu” de Ioana Pârvulescu</text>
+<text x="244.5" y="74.4" font-size="14" fill="#5b6b83" textLength="411.0" lengthAdjust="spacing">Clasa a V-a · Unitatea I, Lecția 4 · Manual, p. 16 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ÎNSEAMNĂ SĂ INTERPRETEZ UN TEXT</text>
+<rect x="40" y="128.6" width="820" height="56.1" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.1" font-size="15.5" fill="#3a3226" textLength="142.4" lengthAdjust="spacing">Caut înțelesurile care</text>
+<text x="208.6" y="162.1" font-size="15.5" fill="#3a3226" font-weight="700" textLength="146.8" lengthAdjust="spacing">nu sunt spuse direct</text>
+<text x="355.4" y="162.1" font-size="15.5" fill="#3a3226" textLength="451.0" lengthAdjust="spacing">: ce sugerează titlul, comparațiile, întrebările personajului și finalul.</text>
+<rect x="40" y="204.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="227.8" font-size="16" font-weight="700" fill="#ffffff">2. PISTE DE INTERPRETARE</text>
+<rect x="40" y="238.8" width="820" height="327.7" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="256.8" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="278.2" font-size="13.5" fill="#10233f" font-weight="700" textLength="106.8" lengthAdjust="spacing">Ce observ în text</text>
+<text x="462.0" y="278.2" font-size="13.5" fill="#10233f" font-weight="700" textLength="216.5" lengthAdjust="spacing">Întrebarea la care răspund în caiet</text>
+<line x1="62.0" y1="288.3" x2="838.0" y2="288.3" stroke="#e3dccb"/>
+<text x="74.0" y="310.8" font-size="14.5" fill="#3a3226" textLength="31.2" lengthAdjust="spacing">Titlul</text>
+<text x="109.1" y="310.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="87.9" lengthAdjust="spacing">Prietenul meu</text>
+<text x="462.0" y="310.8" font-size="14.5" fill="#3a3226" textLength="324.7" lengthAdjust="spacing">La cine se referă titlul: la Joi, la Adi sau la amândoi?</text>
+<line x1="62.0" y1="321.2" x2="838.0" y2="321.2" stroke="#e3dccb"/>
+<text x="74.0" y="343.6" font-size="14.5" fill="#3a3226" textLength="56.8" lengthAdjust="spacing">Ziua e ca</text>
+<text x="134.8" y="343.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="293.6" lengthAdjust="spacing">„o mașină condusă de un șofer începător pe un</text>
+<text x="74.0" y="364.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="93.8" lengthAdjust="spacing">drum cu gropi”</text>
+<text x="462.0" y="343.6" font-size="14.5" fill="#3a3226" textLength="275.6" lengthAdjust="spacing">Ce spune comparația despre ziua de marți?</text>
+<line x1="62.0" y1="375.0" x2="838.0" y2="375.0" stroke="#e3dccb"/>
+<text x="74.0" y="397.5" font-size="14.5" fill="#3a3226" textLength="53.5" lengthAdjust="spacing">Oamenii</text>
+<text x="131.4" y="397.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="261.0" lengthAdjust="spacing">„n-au ochi și ochelari cu care să-ți vadă și</text>
+<text x="74.0" y="418.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="51.0" lengthAdjust="spacing">sufletul”</text>
+<text x="462.0" y="397.5" font-size="14.5" fill="#3a3226" textLength="150.9" lengthAdjust="spacing">La ce se referă Bogdan?</text>
+<line x1="62.0" y1="428.9" x2="838.0" y2="428.9" stroke="#e3dccb"/>
+<text x="74.0" y="451.4" font-size="14.5" fill="#3a3226" textLength="190.1" lengthAdjust="spacing">Minutele îi par lui Bogdan ore</text>
+<text x="462.0" y="451.4" font-size="14.5" fill="#3a3226" textLength="225.9" lengthAdjust="spacing">De ce i se pare timpul atât de lung?</text>
+<line x1="62.0" y1="461.8" x2="838.0" y2="461.8" stroke="#e3dccb"/>
+<text x="74.0" y="484.2" font-size="14.5" fill="#3a3226" textLength="262.2" lengthAdjust="spacing">Întrebările la care Bogdan nu are răspuns</text>
+<text x="462.0" y="484.2" font-size="14.5" fill="#3a3226" textLength="176.9" lengthAdjust="spacing">Ce răspuns posibil le-aș da?</text>
+<line x1="62.0" y1="494.6" x2="838.0" y2="494.6" stroke="#e3dccb"/>
+<text x="74.0" y="517.1" font-size="14.5" fill="#3a3226" textLength="281.7" lengthAdjust="spacing">Finalul, o întrebare care nu așteaptă răspuns</text>
+<text x="462.0" y="517.1" font-size="14.5" fill="#3a3226" textLength="350.5" lengthAdjust="spacing">De ce ajunge Bogdan la concluzia că ziua n-a fost chiar</text>
+<text x="462.0" y="538.1" font-size="14.5" fill="#3a3226" textLength="71.3" lengthAdjust="spacing">așa de rea?</text>
+<line x1="62.0" y1="548.5" x2="838.0" y2="548.5" stroke="#e3dccb"/>
+<line x1="450.0" y1="256.8" x2="450.0" y2="548.5" stroke="#e3dccb"/>
+<rect x="40" y="586.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="609.5" font-size="16" font-weight="700" fill="#ffffff">3. EMOȚIILE LUI BOGDAN</text>
+<rect x="40" y="620.5" width="820" height="77.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="653.5" font-size="15" fill="#3a3226" textLength="106.8" lengthAdjust="spacing">Desenez în caiet</text>
+<text x="172.9" y="653.5" font-size="15" fill="#3a3226" font-weight="700" textLength="131.2" lengthAdjust="spacing">cadranul unui ceas</text>
+<text x="308.2" y="653.5" font-size="15" fill="#3a3226" textLength="502.9" lengthAdjust="spacing">și notez, în dreptul momentelor zilei de marți, cuvântul care numește emoția</text>
+<text x="62.0" y="675.2" font-size="15" fill="#3a3226" textLength="113.7" lengthAdjust="spacing">trăită de Bogdan.</text>
+<rect x="40" y="717.7" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="740.7" font-size="16" font-weight="700" fill="#ffffff">4. TEMA TEXTULUI</text>
+<rect x="40" y="751.7" width="820" height="81.7" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="785.2" font-size="15.5" fill="#3a3226" textLength="336.5" lengthAdjust="spacing">În povestirea Ioanei Pârvulescu este vorba despre</text>
+<text x="402.7" y="785.2" font-size="15.5" fill="#3a3226" font-weight="700" textLength="65.1" lengthAdjust="spacing">prietenie</text>
+<text x="467.8" y="785.2" font-size="15.5" fill="#3a3226" textLength="3.4" lengthAdjust="spacing">.</text>
+<text x="62.0" y="810.8" font-size="15.5" fill="#3a3226" textLength="287.7" lengthAdjust="spacing">Ziua de marți a început prost, dar a avut și</text>
+<text x="353.9" y="810.8" font-size="15.5" fill="#3a3226" font-weight="700" textLength="90.1" lengthAdjust="spacing">urmări bune</text>
+<text x="443.9" y="810.8" font-size="15.5" fill="#3a3226" textLength="3.4" lengthAdjust="spacing">.</text>
+<text x="169.8" y="865.0" font-size="11.5" fill="#5b6b83" textLength="560.4" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 16 și 18 (întrebările de interpretare și prezentarea temei). Răspunsurile se scriu în caiet.</text>
 </svg>

@@ -1,16 +1,185 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="320" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Viitorul. Verbele auxiliare a vrea și a fi</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 15</text>
-  <g>
-    <rect x="90" y="100" width="330" height="120" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="255" y="128" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Viitor (a vrea)</text>
-    <text font-size="12" fill="#3a3226" text-anchor="middle"><tspan x="255" y="154" font-style="italic">voi juca, vei juca, va juca</tspan></text>
-  </g>
-  <g>
-    <rect x="480" y="100" width="330" height="120" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="645" y="128" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Viitor anterior (a fi)</text>
-    <text font-size="12" fill="#3a3226" text-anchor="middle"><tspan x="645" y="154" font-style="italic">voi fi jucat, vei fi jucat</tspan></text>
-  </g>
-  <text x="450" y="280" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 15, p. 70</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1356" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1356" fill="#faf7f0"/>
+<text x="201.2" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="499.5" lengthAdjust="spacing">Viitorul. Verbele auxiliare a vrea și a fi</text>
+<text x="224.3" y="74.4" font-size="14" fill="#5b6b83" textLength="451.4" lengthAdjust="spacing">Clasa a V-a · Unitatea II, Lecția 16 · Manual, pp. 70-71 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. VIITORUL</text>
+<rect x="40" y="128.6" width="820" height="436.9" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="56.3" lengthAdjust="spacing">Viitorul</text>
+<text x="122.6" y="162.6" font-size="16" fill="#10233f" textLength="270.7" lengthAdjust="spacing">exprimă o acțiune care se va desfășura</text>
+<text x="397.7" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="179.8" lengthAdjust="spacing">după momentul vorbirii</text>
+<text x="577.5" y="162.6" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<text x="62.0" y="196.4" font-size="15" fill="#3a3226" textLength="106.3" lengthAdjust="spacing">Se formează din</text>
+<text x="172.4" y="196.4" font-size="15" fill="#3a3226" font-weight="700" textLength="42.6" lengthAdjust="spacing">a vrea</text>
+<text x="219.1" y="196.4" font-size="15" fill="#3a3226" textLength="61.0" lengthAdjust="spacing">auxiliar +</text>
+<text x="284.2" y="196.4" font-size="15" fill="#3a3226" font-weight="700" textLength="68.1" lengthAdjust="spacing">infinitivul</text>
+<text x="356.3" y="196.4" font-size="15" fill="#3a3226" textLength="139.5" lengthAdjust="spacing">verbului de conjugat.</text>
+<rect x="62.0" y="214.9" width="776.0" height="31.6" fill="#efeaf8"/>
+
+<text x="321.4" y="236.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="55.6" lengthAdjust="spacing">(a) cânta</text>
+<text x="644.2" y="236.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="61.8" lengthAdjust="spacing">(a) merge</text>
+<line x1="62.0" y1="246.4" x2="838.0" y2="246.4" stroke="#e3dccb"/>
+<text x="74.0" y="268.4" font-size="14" fill="#3a3226" textLength="15.3" lengthAdjust="spacing">eu</text>
+<text x="321.3" y="268.4" font-size="14" fill="#3a3226" textLength="55.6" lengthAdjust="spacing">voi cânta</text>
+<text x="644.1" y="268.4" font-size="14" fill="#3a3226" textLength="61.9" lengthAdjust="spacing">voi merge</text>
+<line x1="62.0" y1="278.6" x2="838.0" y2="278.6" stroke="#e3dccb"/>
+<text x="74.0" y="300.6" font-size="14" fill="#3a3226" textLength="12.7" lengthAdjust="spacing">tu</text>
+<text x="321.8" y="300.6" font-size="14" fill="#3a3226" textLength="54.6" lengthAdjust="spacing">vei cânta</text>
+<text x="644.6" y="300.6" font-size="14" fill="#3a3226" textLength="60.9" lengthAdjust="spacing">vei merge</text>
+<line x1="62.0" y1="310.8" x2="838.0" y2="310.8" stroke="#e3dccb"/>
+<text x="74.0" y="332.8" font-size="14" fill="#3a3226" textLength="31.9" lengthAdjust="spacing">el, ea</text>
+<text x="323.6" y="332.8" font-size="14" fill="#3a3226" textLength="51.1" lengthAdjust="spacing">va cânta</text>
+<text x="646.3" y="332.8" font-size="14" fill="#3a3226" textLength="57.4" lengthAdjust="spacing">va merge</text>
+<line x1="62.0" y1="343.0" x2="838.0" y2="343.0" stroke="#e3dccb"/>
+<text x="74.0" y="365.0" font-size="14" fill="#3a3226" textLength="19.6" lengthAdjust="spacing">noi</text>
+<text x="317.0" y="365.0" font-size="14" fill="#3a3226" textLength="64.3" lengthAdjust="spacing">vom cânta</text>
+<text x="639.8" y="365.0" font-size="14" fill="#3a3226" textLength="70.6" lengthAdjust="spacing">vom merge</text>
+<line x1="62.0" y1="375.2" x2="838.0" y2="375.2" stroke="#e3dccb"/>
+<text x="74.0" y="397.2" font-size="14" fill="#3a3226" textLength="18.3" lengthAdjust="spacing">voi</text>
+<text x="319.4" y="397.2" font-size="14" fill="#3a3226" textLength="59.4" lengthAdjust="spacing">veți cânta</text>
+<text x="642.2" y="397.2" font-size="14" fill="#3a3226" textLength="65.7" lengthAdjust="spacing">veți merge</text>
+<line x1="62.0" y1="407.4" x2="838.0" y2="407.4" stroke="#e3dccb"/>
+<text x="74.0" y="429.4" font-size="14" fill="#3a3226" textLength="35.4" lengthAdjust="spacing">ei, ele</text>
+<text x="320.6" y="429.4" font-size="14" fill="#3a3226" textLength="57.1" lengthAdjust="spacing">vor cânta</text>
+<text x="643.3" y="429.4" font-size="14" fill="#3a3226" textLength="63.4" lengthAdjust="spacing">vor merge</text>
+<line x1="62.0" y1="439.6" x2="838.0" y2="439.6" stroke="#e3dccb"/>
+<line x1="186.2" y1="214.9" x2="186.2" y2="439.6" stroke="#e3dccb"/>
+<line x1="512.1" y1="214.9" x2="512.1" y2="439.6" stroke="#e3dccb"/>
+<text x="62.0" y="467.6" font-size="14" fill="#5b6b83" textLength="266.0" lengthAdjust="spacing">În limba mai veche existau și forme inverse:</text>
+<text x="331.8" y="467.6" font-size="14" fill="#5b6b83" font-style="italic" textLength="44.7" lengthAdjust="spacing">veni-va</text>
+<text x="376.4" y="467.6" font-size="14" fill="#5b6b83" textLength="3.1" lengthAdjust="spacing">,</text>
+<text x="383.3" y="467.6" font-size="14" fill="#5b6b83" font-style="italic" textLength="49.4" lengthAdjust="spacing">sta-vom</text>
+<text x="432.7" y="467.6" font-size="14" fill="#5b6b83" textLength="183.3" lengthAdjust="spacing">, uneori cu pronume la mijloc:</text>
+<text x="619.8" y="467.6" font-size="14" fill="#5b6b83" font-style="italic" textLength="77.7" lengthAdjust="spacing">învăța-ne-va</text>
+<text x="697.5" y="467.6" font-size="14" fill="#5b6b83" textLength="3.1" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="485.9" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="485.9" width="6" height="61.7" rx="3" fill="#b4432c"/><text x="84.0" y="512.4" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="531.2" font-size="14.5" fill="#3a3226" textLength="113.7" lengthAdjust="spacing">După auxiliar vine</text>
+<text x="201.6" y="531.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="65.8" lengthAdjust="spacing">infinitivul</text>
+<text x="267.4" y="531.2" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">:</text>
+<text x="274.5" y="531.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="55.2" lengthAdjust="spacing">va vedea</text>
+<text x="329.8" y="531.2" font-size="14.5" fill="#3a3226" textLength="23.6" lengthAdjust="spacing">, nu</text>
+<text x="357.3" y="531.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="47.4" lengthAdjust="spacing">va vede</text>
+<text x="404.7" y="531.2" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">;</text>
+<text x="411.8" y="531.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="42.3" lengthAdjust="spacing">va zice</text>
+<text x="454.2" y="531.2" font-size="14.5" fill="#3a3226" textLength="23.6" lengthAdjust="spacing">, nu</text>
+<text x="481.7" y="531.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="50.2" lengthAdjust="spacing">va zicea</text>
+<text x="531.9" y="531.2" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<rect x="40" y="585.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="608.5" font-size="16" font-weight="700" fill="#ffffff">2. LIMBA STANDARD ȘI FORMELE DE VIITOR</text>
+<rect x="40" y="619.5" width="820" height="264.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="652.5" font-size="15" fill="#3a3226" font-weight="700" textLength="109.6" lengthAdjust="spacing">Limba standard</text>
+<text x="175.7" y="652.5" font-size="15" fill="#3a3226" textLength="594.3" lengthAdjust="spacing">este limba ordonată după norme și reguli stabilite de specialiști, mai ales în varianta scrisă.</text>
+<rect x="62.0" y="671.0" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="692.5" font-size="13.5" fill="#10233f" font-weight="700" textLength="40.4" lengthAdjust="spacing">Forma</text>
+<text x="283.5" y="692.5" font-size="13.5" fill="#10233f" font-weight="700" textLength="109.3" lengthAdjust="spacing">Cum se formează</text>
+<text x="617.2" y="692.5" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="702.6" x2="838.0" y2="702.6" stroke="#e3dccb"/>
+<text x="74.0" y="725.1" font-size="14.5" fill="#3a3226" textLength="92.7" lengthAdjust="spacing">viitor standard</text>
+<text x="283.5" y="725.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="38.7" lengthAdjust="spacing">a vrea</text>
+<text x="326.2" y="725.1" font-size="14.5" fill="#3a3226" textLength="60.6" lengthAdjust="spacing">+ infinitiv</text>
+<text x="617.2" y="725.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="57.1" lengthAdjust="spacing">voi cânta</text>
+<line x1="62.0" y1="735.4" x2="838.0" y2="735.4" stroke="#e3dccb"/>
+<text x="74.0" y="757.9" font-size="14.5" fill="#3a3226" textLength="140.6" lengthAdjust="spacing">viitor de limbă vorbită</text>
+<text x="283.5" y="757.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="7.8" lengthAdjust="spacing">o</text>
+<text x="295.3" y="757.9" font-size="14.5" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">+</text>
+<text x="309.0" y="757.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="13.6" lengthAdjust="spacing">să</text>
+<text x="326.6" y="757.9" font-size="14.5" fill="#3a3226" textLength="53.6" lengthAdjust="spacing">+ verbul</text>
+<text x="617.2" y="757.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="56.3" lengthAdjust="spacing">o să cânt</text>
+<line x1="62.0" y1="768.3" x2="838.0" y2="768.3" stroke="#e3dccb"/>
+<text x="74.0" y="790.8" font-size="14.5" fill="#3a3226" textLength="140.6" lengthAdjust="spacing">viitor de limbă vorbită</text>
+<text x="283.5" y="790.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="41.3" lengthAdjust="spacing">a avea</text>
+<text x="328.8" y="790.8" font-size="14.5" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">+</text>
+<text x="342.5" y="790.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="13.6" lengthAdjust="spacing">să</text>
+<text x="360.1" y="790.8" font-size="14.5" fill="#3a3226" textLength="53.6" lengthAdjust="spacing">+ verbul</text>
+<text x="617.2" y="790.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="68.7" lengthAdjust="spacing">am să cânt</text>
+<line x1="62.0" y1="801.1" x2="838.0" y2="801.1" stroke="#e3dccb"/>
+<text x="74.0" y="823.6" font-size="14.5" fill="#3a3226" textLength="86.3" lengthAdjust="spacing">viitor popular</text>
+<text x="283.5" y="823.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="38.7" lengthAdjust="spacing">a vrea</text>
+<text x="326.2" y="823.6" font-size="14.5" fill="#3a3226" textLength="24.4" lengthAdjust="spacing">fără</text>
+<text x="354.4" y="823.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="6.8" lengthAdjust="spacing">v</text>
+<text x="365.2" y="823.6" font-size="14.5" fill="#3a3226" textLength="60.6" lengthAdjust="spacing">+ infinitiv</text>
+<text x="617.2" y="823.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="50.3" lengthAdjust="spacing">oi cânta</text>
+<line x1="62.0" y1="834.0" x2="838.0" y2="834.0" stroke="#e3dccb"/>
+<line x1="271.5" y1="671.0" x2="271.5" y2="834.0" stroke="#e3dccb"/>
+<line x1="605.2" y1="671.0" x2="605.2" y2="834.0" stroke="#e3dccb"/>
+<text x="62.0" y="861.5" font-size="13.5" fill="#5b6b83" textLength="329.0" lengthAdjust="spacing">Primele trei forme sunt literare; viitorul popular nu este.</text>
+<rect x="40" y="903.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="926.5" font-size="16" font-weight="700" fill="#ffffff">3. VIITORUL ANTERIOR</text>
+<rect x="40" y="937.5" width="820" height="115.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="971.5" font-size="16" fill="#10233f" font-weight="700" textLength="121.1" lengthAdjust="spacing">Viitorul anterior</text>
+<text x="187.4" y="971.5" font-size="16" fill="#10233f" textLength="237.3" lengthAdjust="spacing">arată o acțiune viitoare, terminată</text>
+<text x="429.0" y="971.5" font-size="16" fill="#10233f" font-weight="700" textLength="214.9" lengthAdjust="spacing">înaintea altei acțiuni viitoare</text>
+<text x="643.9" y="971.5" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<text x="62.0" y="1005.3" font-size="15" fill="#3a3226" textLength="106.3" lengthAdjust="spacing">Se formează din</text>
+<text x="172.4" y="1005.3" font-size="15" fill="#3a3226" font-weight="700" textLength="42.6" lengthAdjust="spacing">a vrea</text>
+<text x="219.1" y="1005.3" font-size="15" fill="#3a3226" textLength="10.2" lengthAdjust="spacing">+</text>
+<text x="233.3" y="1005.3" font-size="15" fill="#3a3226" font-weight="700" textLength="22.2" lengthAdjust="spacing">a fi</text>
+<text x="259.6" y="1005.3" font-size="15" fill="#3a3226" textLength="10.2" lengthAdjust="spacing">+</text>
+<text x="273.8" y="1005.3" font-size="15" fill="#3a3226" font-weight="700" textLength="67.5" lengthAdjust="spacing">participiu</text>
+<text x="341.3" y="1005.3" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="348.7" y="1005.3" font-size="15" fill="#10233f" font-style="italic" textLength="91.2" lengthAdjust="spacing">voi fi terminat</text>
+<text x="439.9" y="1005.3" font-size="15" fill="#3a3226" textLength="346.8" lengthAdjust="spacing">. Astăzi e rar și apare împreună cu un viitor standard:</text>
+<text x="62.0" y="1030.1" font-size="15" fill="#10233f" font-style="italic" textLength="34.2" lengthAdjust="spacing">Când</text>
+<text x="100.2" y="1030.1" font-size="15" fill="#10233f" font-weight="700" font-style="italic" textLength="51.3" lengthAdjust="spacing">vei sosi</text>
+<text x="151.5" y="1030.1" font-size="15" fill="#10233f" font-style="italic" textLength="3.3" lengthAdjust="spacing">,</text>
+<text x="158.9" y="1030.1" font-size="15" fill="#10233f" font-weight="700" font-style="italic" textLength="101.6" lengthAdjust="spacing">voi fi terminat</text>
+<text x="264.5" y="1030.1" font-size="15" fill="#10233f" font-style="italic" textLength="84.0" lengthAdjust="spacing">compunerea.</text>
+<rect x="40" y="1072.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="1095.6" font-size="16" font-weight="700" fill="#ffffff">4. PASTILA DE ORTOGRAFIE</text>
+<rect x="40" y="1106.6" width="820" height="198.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="1124.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="1146.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="42.9" lengthAdjust="spacing">Scriem</text>
+<text x="213.7" y="1146.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="32.3" lengthAdjust="spacing">Când</text>
+<text x="500.8" y="1146.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="1156.1" x2="838.0" y2="1156.1" stroke="#e3dccb"/>
+<text x="74.0" y="1178.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="18.4" lengthAdjust="spacing">voi</text>
+<text x="96.3" y="1178.6" font-size="14.5" fill="#3a3226" textLength="5.7" lengthAdjust="spacing">/</text>
+<text x="105.9" y="1178.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="24.2" lengthAdjust="spacing">v-oi</text>
+<text x="213.7" y="1178.6" font-size="14.5" fill="#3a3226" textLength="143.1" lengthAdjust="spacing">auxiliar sau pronume /</text>
+<text x="360.7" y="1178.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="6.8" lengthAdjust="spacing">v</text>
+<text x="371.4" y="1178.6" font-size="14.5" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">+</text>
+<text x="385.2" y="1178.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="11.6" lengthAdjust="spacing">oi</text>
+<text x="400.7" y="1178.6" font-size="14.5" fill="#3a3226" textLength="58.6" lengthAdjust="spacing">(popular)</text>
+<text x="500.8" y="1178.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="60.7" lengthAdjust="spacing">Voi pleca.</text>
+<text x="565.5" y="1178.6" font-size="14.5" fill="#3a3226" textLength="5.7" lengthAdjust="spacing">/</text>
+<text x="575.0" y="1178.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="70.6" lengthAdjust="spacing">V-oi spune.</text>
+<line x1="62.0" y1="1189.0" x2="838.0" y2="1189.0" stroke="#e3dccb"/>
+<text x="74.0" y="1211.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="14.6" lengthAdjust="spacing">va</text>
+<text x="92.6" y="1211.5" font-size="14.5" fill="#3a3226" textLength="5.7" lengthAdjust="spacing">/</text>
+<text x="102.1" y="1211.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="20.4" lengthAdjust="spacing">v-a</text>
+<text x="213.7" y="1211.5" font-size="14.5" fill="#3a3226" textLength="54.8" lengthAdjust="spacing">auxiliar /</text>
+<text x="272.4" y="1211.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="6.8" lengthAdjust="spacing">v</text>
+<text x="283.1" y="1211.5" font-size="14.5" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">+</text>
+<text x="296.9" y="1211.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="7.8" lengthAdjust="spacing">a</text>
+<text x="500.8" y="1211.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="59.4" lengthAdjust="spacing">Va ploua.</text>
+<text x="564.2" y="1211.5" font-size="14.5" fill="#3a3226" textLength="5.7" lengthAdjust="spacing">/</text>
+<text x="573.7" y="1211.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="76.4" lengthAdjust="spacing">V-a chemat.</text>
+<line x1="62.0" y1="1221.8" x2="838.0" y2="1221.8" stroke="#e3dccb"/>
+<text x="74.0" y="1244.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="27.1" lengthAdjust="spacing">vom</text>
+<text x="105.0" y="1244.3" font-size="14.5" fill="#3a3226" textLength="5.7" lengthAdjust="spacing">/</text>
+<text x="114.6" y="1244.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="32.9" lengthAdjust="spacing">v-om</text>
+<text x="213.7" y="1244.3" font-size="14.5" fill="#3a3226" textLength="54.8" lengthAdjust="spacing">auxiliar /</text>
+<text x="272.4" y="1244.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="6.8" lengthAdjust="spacing">v</text>
+<text x="283.1" y="1244.3" font-size="14.5" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">+</text>
+<text x="296.9" y="1244.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="20.3" lengthAdjust="spacing">om</text>
+<text x="321.1" y="1244.3" font-size="14.5" fill="#3a3226" textLength="58.6" lengthAdjust="spacing">(popular)</text>
+<text x="500.8" y="1244.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="55.1" lengthAdjust="spacing">Vom citi.</text>
+<text x="559.8" y="1244.3" font-size="14.5" fill="#3a3226" textLength="5.7" lengthAdjust="spacing">/</text>
+<text x="569.4" y="1244.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="74.2" lengthAdjust="spacing">V-om ajuta.</text>
+<line x1="62.0" y1="1254.7" x2="838.0" y2="1254.7" stroke="#e3dccb"/>
+<text x="74.0" y="1277.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="19.9" lengthAdjust="spacing">vor</text>
+<text x="97.8" y="1277.2" font-size="14.5" fill="#3a3226" textLength="5.7" lengthAdjust="spacing">/</text>
+<text x="107.4" y="1277.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="25.7" lengthAdjust="spacing">v-or</text>
+<text x="213.7" y="1277.2" font-size="14.5" fill="#3a3226" textLength="54.8" lengthAdjust="spacing">auxiliar /</text>
+<text x="272.4" y="1277.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="6.8" lengthAdjust="spacing">v</text>
+<text x="283.1" y="1277.2" font-size="14.5" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">+</text>
+<text x="296.9" y="1277.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="13.1" lengthAdjust="spacing">or</text>
+<text x="313.9" y="1277.2" font-size="14.5" fill="#3a3226" textLength="58.6" lengthAdjust="spacing">(popular)</text>
+<text x="500.8" y="1277.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="55.1" lengthAdjust="spacing">Vor veni.</text>
+<text x="559.8" y="1277.2" font-size="14.5" fill="#3a3226" textLength="5.7" lengthAdjust="spacing">/</text>
+<text x="569.4" y="1277.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="69.9" lengthAdjust="spacing">V-or căuta.</text>
+<line x1="62.0" y1="1287.5" x2="838.0" y2="1287.5" stroke="#e3dccb"/>
+<line x1="201.7" y1="1124.6" x2="201.7" y2="1287.5" stroke="#e3dccb"/>
+<line x1="488.8" y1="1124.6" x2="488.8" y2="1287.5" stroke="#e3dccb"/>
+<text x="145.5" y="1337.0" font-size="11.5" fill="#5b6b83" textLength="608.9" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 70-71, rubricile Repere și tabelele de conjugare. Unele exemple sunt create pentru aceste notițe.</text>
 </svg>

@@ -1,31 +1,93 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="380" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Sinonimele. Antonimele</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 11</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 973" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="973" fill="#faf7f0"/>
+<text x="292.5" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="315.3" lengthAdjust="spacing">Sinonimele. Antonimele</text>
+<text x="226.2" y="74.4" font-size="14" fill="#5b6b83" textLength="447.6" lengthAdjust="spacing">Clasa a V-a · Unitatea I, Lecția 11 · Manual, pp. 28-29 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. SINONIMELE</text>
+<rect x="40" y="128.6" width="820" height="298.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="83.7" lengthAdjust="spacing">Sinonimele</text>
+<text x="150.0" y="162.6" font-size="16" fill="#10233f" textLength="106.4" lengthAdjust="spacing">sunt cuvinte cu</text>
+<text x="260.7" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="105.0" lengthAdjust="spacing">formă diferită</text>
+<text x="370.0" y="162.6" font-size="16" fill="#10233f" textLength="31.4" lengthAdjust="spacing">și cu</text>
+<text x="405.7" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="211.0" lengthAdjust="spacing">sens asemănător sau identic</text>
+<text x="616.7" y="162.6" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<text x="62.0" y="196.4" font-size="15" fill="#10233f" font-style="italic" textLength="271.2" lengthAdjust="spacing">bucuroasă – mulțumită – veselă – voioasă</text>
+<text x="62.0" y="221.1" font-size="15" fill="#10233f" font-style="italic" textLength="269.1" lengthAdjust="spacing">tristă – supărată – posomorâtă – mâhnită</text>
+<text x="62.0" y="254.6" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="254.6" font-size="15" fill="#3a3226" textLength="162.3" lengthAdjust="spacing">Sinonimele trebuie să fie</text>
+<text x="240.5" y="254.6" font-size="15" fill="#3a3226" font-weight="700" textLength="168.6" lengthAdjust="spacing">aceeași parte de vorbire</text>
+<text x="409.1" y="254.6" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="279.4" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="279.4" font-size="15" fill="#3a3226" textLength="218.2" lengthAdjust="spacing">Alegerea sinonimului depinde de</text>
+<text x="296.5" y="279.4" font-size="15" fill="#3a3226" font-weight="700" textLength="53.5" lengthAdjust="spacing">context</text>
+<text x="350.0" y="279.4" font-size="15" fill="#3a3226" textLength="322.5" lengthAdjust="spacing">; înlocuirea nu trebuie să schimbe sensul textului.</text>
+<text x="62.0" y="304.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="304.1" font-size="15" fill="#3a3226" textLength="295.9" lengthAdjust="spacing">Un cuvânt cu mai multe sensuri are sinonime</text>
+<text x="374.2" y="304.1" font-size="15" fill="#3a3226" font-weight="700" textLength="133.8" lengthAdjust="spacing">pentru fiecare sens</text>
+<text x="508.0" y="304.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="328.9" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="328.9" font-size="15" fill="#3a3226" textLength="163.5" lengthAdjust="spacing">Există sinonime și pentru</text>
+<text x="241.8" y="328.9" font-size="15" fill="#3a3226" font-weight="700" textLength="54.8" lengthAdjust="spacing">expresii</text>
+<text x="296.5" y="328.9" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="303.9" y="328.9" font-size="15" fill="#10233f" font-style="italic" textLength="146.6" lengthAdjust="spacing">a o lua la fugă – a fugi</text>
+<text x="450.4" y="328.9" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="347.4" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><text x="78.0" y="373.9" font-size="14.5" fill="#10233f" font-weight="700" textLength="335.1" lengthAdjust="spacing">Același cuvânt, sensuri diferite, sinonime diferite:</text>
+<text x="78.0" y="392.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="94.4" lengthAdjust="spacing">Mâna ei e rece.</text>
+<text x="176.3" y="392.8" font-size="14.5" fill="#3a3226" textLength="12.5" lengthAdjust="spacing">→</text>
+<text x="192.7" y="392.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="59.9" lengthAdjust="spacing">înghețată</text>
+<text x="256.5" y="392.8" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">·</text>
+<text x="263.6" y="392.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="111.6" lengthAdjust="spacing">Privirea lui e rece.</text>
+<text x="379.2" y="392.8" font-size="14.5" fill="#3a3226" textLength="12.5" lengthAdjust="spacing">→</text>
+<text x="395.5" y="392.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="50.5" lengthAdjust="spacing">distantă</text>
+<rect x="40" y="447.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="470.1" font-size="16" font-weight="700" fill="#ffffff">2. ANTONIMELE</text>
+<rect x="40" y="481.1" width="820" height="220.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="515.1" font-size="16" fill="#10233f" font-weight="700" textLength="87.7" lengthAdjust="spacing">Antonimele</text>
+<text x="154.0" y="515.1" font-size="16" fill="#10233f" textLength="106.4" lengthAdjust="spacing">sunt cuvinte cu</text>
+<text x="264.7" y="515.1" font-size="16" fill="#10233f" font-weight="700" textLength="105.0" lengthAdjust="spacing">formă diferită</text>
+<text x="374.0" y="515.1" font-size="16" fill="#10233f" textLength="31.4" lengthAdjust="spacing">și cu</text>
+<text x="409.7" y="515.1" font-size="16" fill="#10233f" font-weight="700" textLength="73.4" lengthAdjust="spacing">sens opus</text>
+<text x="483.1" y="515.1" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<text x="62.0" y="548.9" font-size="15" fill="#10233f" font-style="italic" textLength="108.2" lengthAdjust="spacing">bucurie – tristețe</text>
+<text x="174.2" y="548.9" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">·</text>
+<text x="181.6" y="548.9" font-size="15" fill="#10233f" font-style="italic" textLength="91.6" lengthAdjust="spacing">a intra – a ieși</text>
+<text x="277.2" y="548.9" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">·</text>
+<text x="284.6" y="548.9" font-size="15" fill="#10233f" font-style="italic" textLength="72.8" lengthAdjust="spacing">mare – mic</text>
+<text x="62.0" y="582.4" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="582.4" font-size="15" fill="#3a3226" textLength="368.7" lengthAdjust="spacing">O pereche de antonime e alcătuită din cuvinte care sunt</text>
+<text x="446.9" y="582.4" font-size="15" fill="#3a3226" font-weight="700" textLength="168.6" lengthAdjust="spacing">aceeași parte de vorbire</text>
+<text x="615.5" y="582.4" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="600.9" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="600.9" width="6" height="82.7" rx="3" fill="#b4432c"/><text x="84.0" y="627.4" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="646.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="46.5" lengthAdjust="spacing">bucurie</text>
+<text x="134.5" y="646.2" font-size="14.5" fill="#3a3226" textLength="87.1" lengthAdjust="spacing">(substantiv) și</text>
+<text x="225.5" y="646.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="31.9" lengthAdjust="spacing">tristă</text>
+<text x="261.3" y="646.2" font-size="14.5" fill="#3a3226" textLength="346.0" lengthAdjust="spacing">(adjectiv) nu formează o pereche de antonime. Corect:</text>
+<text x="611.2" y="646.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="104.5" lengthAdjust="spacing">bucurie – tristețe</text>
+<text x="719.7" y="646.2" font-size="14.5" fill="#3a3226" textLength="21.8" lengthAdjust="spacing">sau</text>
+<text x="745.3" y="646.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="76.1" lengthAdjust="spacing">bucuroasă –</text>
+<text x="84.0" y="667.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="31.9" lengthAdjust="spacing">tristă</text>
+<text x="115.9" y="667.3" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<rect x="40" y="721.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="744.6" font-size="16" font-weight="700" fill="#ffffff">3. PE SCURT</text>
+<rect x="40" y="755.6" width="820" height="166.1" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="773.6" width="776.0" height="31.6" fill="#efeaf8"/>
 
-  <g>
-    <rect x="80" y="100" width="330" height="180" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="245" y="130" text-anchor="middle" font-size="16" font-weight="700" fill="#10233f">SINONIME</text>
-    <text font-size="13" fill="#3a3226" text-anchor="middle">
-      <tspan x="245" y="160">Formă diferită,</tspan>
-      <tspan x="245" y="180">sens asemănător</tspan>
-      <tspan x="245" y="200">sau identic.</tspan>
-      <tspan x="245" y="234" font-style="italic">vesel — bucuros</tspan>
-      <tspan x="245" y="254" font-style="italic">harnic — silitor</tspan>
-    </text>
-  </g>
-
-  <g>
-    <rect x="490" y="100" width="330" height="180" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="655" y="130" text-anchor="middle" font-size="16" font-weight="700" fill="#10233f">ANTONIME</text>
-    <text font-size="13" fill="#3a3226" text-anchor="middle">
-      <tspan x="655" y="160">Formă diferită,</tspan>
-      <tspan x="655" y="180">sens opus.</tspan>
-      <tspan x="655" y="234" font-style="italic">vesel — trist</tspan>
-      <tspan x="655" y="254" font-style="italic">a coborî — a urca</tspan>
-    </text>
-  </g>
-
-  <text x="450" y="310" text-anchor="middle" font-size="12" fill="#3a3226">Ambele trebuie să fie aceeași parte de vorbire.</text>
-  <text x="450" y="352" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual Art 5, pp. 28-29 (Repere)</text>
+<text x="395.3" y="795.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="70.6" lengthAdjust="spacing">Sinonimele</text>
+<text x="665.2" y="795.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="74.0" lengthAdjust="spacing">Antonimele</text>
+<line x1="62.0" y1="805.2" x2="838.0" y2="805.2" stroke="#e3dccb"/>
+<text x="74.0" y="827.7" font-size="14.5" fill="#3a3226" textLength="38.0" lengthAdjust="spacing">forma</text>
+<text x="408.1" y="827.7" font-size="14.5" fill="#3a3226" textLength="45.0" lengthAdjust="spacing">diferită</text>
+<text x="679.7" y="827.7" font-size="14.5" fill="#3a3226" textLength="45.0" lengthAdjust="spacing">diferită</text>
+<line x1="62.0" y1="838.0" x2="838.0" y2="838.0" stroke="#e3dccb"/>
+<text x="74.0" y="860.5" font-size="14.5" fill="#3a3226" textLength="39.7" lengthAdjust="spacing">sensul</text>
+<text x="356.8" y="860.5" font-size="14.5" fill="#3a3226" textLength="147.6" lengthAdjust="spacing">asemănător sau identic</text>
+<text x="686.5" y="860.5" font-size="14.5" fill="#3a3226" textLength="31.5" lengthAdjust="spacing">opus</text>
+<line x1="62.0" y1="870.9" x2="838.0" y2="870.9" stroke="#e3dccb"/>
+<text x="74.0" y="893.4" font-size="14.5" fill="#3a3226" textLength="110.1" lengthAdjust="spacing">partea de vorbire</text>
+<text x="407.5" y="893.4" font-size="14.5" fill="#3a3226" textLength="46.1" lengthAdjust="spacing">aceeași</text>
+<text x="679.1" y="893.4" font-size="14.5" fill="#3a3226" textLength="46.1" lengthAdjust="spacing">aceeași</text>
+<line x1="62.0" y1="903.7" x2="838.0" y2="903.7" stroke="#e3dccb"/>
+<line x1="294.8" y1="773.6" x2="294.8" y2="903.7" stroke="#e3dccb"/>
+<line x1="566.4" y1="773.6" x2="566.4" y2="903.7" stroke="#e3dccb"/>
+<text x="207.2" y="953.2" font-size="11.5" fill="#5b6b83" textLength="485.5" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 28-29, rubricile Repere. Unele exemple sunt create pentru aceste notițe.</text>
 </svg>

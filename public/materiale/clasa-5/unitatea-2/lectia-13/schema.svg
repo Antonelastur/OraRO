@@ -1,11 +1,103 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="320" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Imperfectul</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 12</text>
-  <rect x="150" y="95" width="600" height="90" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="450" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Ce arată</text>
-  <text font-size="12" fill="#3a3226" text-anchor="middle"><tspan x="450" y="147">O acțiune trecută, care se desfășoară în același timp cu</tspan><tspan x="450" y="164">altă acțiune trecută — are valoare durativă.</tspan></text>
-  <rect x="180" y="205" width="540" height="50" rx="12" fill="#f1ecfa"/>
-  <text x="450" y="235" text-anchor="middle" font-size="13" fill="#3a3226" font-style="italic">eu jucam, tu jucai, el juca — sunete: -a-, -ea-</text>
-  <text x="450" y="284" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 12, p. 64</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 975" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="975" fill="#faf7f0"/>
+<text x="373.3" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="153.4" lengthAdjust="spacing">Imperfectul</text>
+<text x="224.3" y="74.4" font-size="14" fill="#5b6b83" textLength="451.4" lengthAdjust="spacing">Clasa a V-a · Unitatea II, Lecția 13 · Manual, pp. 64-65 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ARATĂ IMPERFECTUL</text>
+<rect x="40" y="128.6" width="820" height="271.6" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" textLength="336.3" lengthAdjust="spacing">Trecutul are mai multe timpuri. Unul dintre ele este</text>
+<text x="402.3" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="81.6" lengthAdjust="spacing">imperfectul</text>
+<text x="483.9" y="161.6" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="196.1" font-size="16" fill="#10233f" font-weight="700" textLength="87.7" lengthAdjust="spacing">Imperfectul</text>
+<text x="154.0" y="196.1" font-size="16" fill="#10233f" textLength="312.8" lengthAdjust="spacing">exprimă o acțiune trecută care se desfășoară</text>
+<text x="471.1" y="196.1" font-size="16" fill="#10233f" font-weight="700" textLength="108.2" lengthAdjust="spacing">în același timp</text>
+<text x="583.6" y="196.1" font-size="16" fill="#10233f" textLength="173.1" lengthAdjust="spacing">cu o altă acțiune trecută.</text>
+<rect x="62.0" y="214.9" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="242.9" font-size="16" fill="#0d9c92" font-weight="700" textLength="122.4" lengthAdjust="spacing">valoare durativă</text>
+<text x="78.0" y="266.2" font-size="14.5" fill="#3a3226" textLength="108.6" lengthAdjust="spacing">acțiunea durează</text>
+<text x="78.0" y="290.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="169.8" lengthAdjust="spacing">Alergam și nu te-am văzut.</text>
+<rect x="458.0" y="214.9" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="242.9" font-size="16" fill="#6f5ea8" font-weight="700" textLength="132.0" lengthAdjust="spacing">valoare repetitivă</text>
+<text x="474.0" y="266.2" font-size="14.5" fill="#3a3226" textLength="116.4" lengthAdjust="spacing">acțiunea se repetă</text>
+<text x="474.0" y="290.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="304.8" lengthAdjust="spacing">De câte ori ieșeam în parc, întâlneam un prieten.</text>
+<rect x="62.0" y="320.5" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><text x="78.0" y="347.0" font-size="14.5" fill="#10233f" font-weight="700" textLength="87.0" lengthAdjust="spacing">În narațiune:</text>
+<text x="78.0" y="365.8" font-size="14.5" fill="#3a3226" textLength="121.4" lengthAdjust="spacing">imperfectul descrie</text>
+<text x="203.3" y="365.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="42.5" lengthAdjust="spacing">cadrul</text>
+<text x="249.7" y="365.8" font-size="14.5" fill="#3a3226" textLength="230.8" lengthAdjust="spacing">în care se desfășoară acțiunea, adică</text>
+<text x="484.4" y="365.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="100.8" lengthAdjust="spacing">situația inițială</text>
+<text x="585.2" y="365.8" font-size="14.5" fill="#3a3226" textLength="85.1" lengthAdjust="spacing">, de echilibru.</text>
+<rect x="40" y="420.2" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="443.2" font-size="16" font-weight="700" fill="#ffffff">2. CUM ÎL RECUNOSC</text>
+<rect x="40" y="454.2" width="820" height="294.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="487.2" font-size="15" fill="#3a3226" textLength="243.6" lengthAdjust="spacing">Sunetele care indică imperfectul sunt</text>
+<text x="309.7" y="487.2" font-size="15" fill="#3a3226" font-weight="700" textLength="20.1" lengthAdjust="spacing">-a-</text>
+<text x="333.8" y="487.2" font-size="15" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">și</text>
+<text x="347.8" y="487.2" font-size="15" fill="#3a3226" font-weight="700" textLength="28.2" lengthAdjust="spacing">-ea-</text>
+<text x="376.0" y="487.2" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="505.7" width="776.0" height="31.6" fill="#efeaf8"/>
+
+<text x="239.9" y="527.2" font-size="13.5" fill="#10233f" font-weight="700" textLength="55.6" lengthAdjust="spacing">(a) cânta</text>
+<text x="398.7" y="527.2" font-size="13.5" fill="#10233f" font-weight="700" textLength="64.0" lengthAdjust="spacing">(a) apărea</text>
+<text x="562.7" y="527.2" font-size="13.5" fill="#10233f" font-weight="700" textLength="61.8" lengthAdjust="spacing">(a) merge</text>
+<text x="727.0" y="527.2" font-size="13.5" fill="#10233f" font-weight="700" textLength="59.3" lengthAdjust="spacing">(a) dormi</text>
+<line x1="62.0" y1="537.2" x2="838.0" y2="537.2" stroke="#e3dccb"/>
+<text x="74.0" y="559.2" font-size="14" fill="#3a3226" textLength="15.3" lengthAdjust="spacing">eu</text>
+<text x="244.9" y="559.2" font-size="14" fill="#3a3226" textLength="45.5" lengthAdjust="spacing">cântam</text>
+<text x="403.7" y="559.2" font-size="14" fill="#3a3226" textLength="53.9" lengthAdjust="spacing">apăream</text>
+<text x="564.1" y="559.2" font-size="14" fill="#3a3226" textLength="58.9" lengthAdjust="spacing">mergeam</text>
+<text x="726.6" y="559.2" font-size="14" fill="#3a3226" textLength="59.9" lengthAdjust="spacing">dormeam</text>
+<line x1="62.0" y1="569.4" x2="838.0" y2="569.4" stroke="#e3dccb"/>
+<text x="74.0" y="591.4" font-size="14" fill="#3a3226" textLength="12.7" lengthAdjust="spacing">tu</text>
+<text x="249.2" y="591.4" font-size="14" fill="#3a3226" textLength="36.8" lengthAdjust="spacing">cântai</text>
+<text x="408.0" y="591.4" font-size="14" fill="#3a3226" textLength="45.2" lengthAdjust="spacing">apăreai</text>
+<text x="568.4" y="591.4" font-size="14" fill="#3a3226" textLength="50.3" lengthAdjust="spacing">mergeai</text>
+<text x="730.9" y="591.4" font-size="14" fill="#3a3226" textLength="51.2" lengthAdjust="spacing">dormeai</text>
+<line x1="62.0" y1="601.6" x2="838.0" y2="601.6" stroke="#e3dccb"/>
+<text x="74.0" y="623.6" font-size="14" fill="#3a3226" textLength="31.9" lengthAdjust="spacing">el, ea</text>
+<text x="250.9" y="623.6" font-size="14" fill="#3a3226" textLength="33.5" lengthAdjust="spacing">cânta</text>
+<text x="409.7" y="623.6" font-size="14" fill="#3a3226" textLength="41.9" lengthAdjust="spacing">apărea</text>
+<text x="570.1" y="623.6" font-size="14" fill="#3a3226" textLength="46.9" lengthAdjust="spacing">mergea</text>
+<text x="732.6" y="623.6" font-size="14" fill="#3a3226" textLength="47.9" lengthAdjust="spacing">dormea</text>
+<line x1="62.0" y1="633.8" x2="838.0" y2="633.8" stroke="#e3dccb"/>
+<text x="74.0" y="655.8" font-size="14" fill="#3a3226" textLength="19.6" lengthAdjust="spacing">noi</text>
+<text x="244.9" y="655.8" font-size="14" fill="#3a3226" textLength="45.5" lengthAdjust="spacing">cântam</text>
+<text x="403.7" y="655.8" font-size="14" fill="#3a3226" textLength="53.9" lengthAdjust="spacing">apăream</text>
+<text x="564.1" y="655.8" font-size="14" fill="#3a3226" textLength="58.9" lengthAdjust="spacing">mergeam</text>
+<text x="726.6" y="655.8" font-size="14" fill="#3a3226" textLength="59.9" lengthAdjust="spacing">dormeam</text>
+<line x1="62.0" y1="666.0" x2="838.0" y2="666.0" stroke="#e3dccb"/>
+<text x="74.0" y="688.0" font-size="14" fill="#3a3226" textLength="18.3" lengthAdjust="spacing">voi</text>
+<text x="246.8" y="688.0" font-size="14" fill="#3a3226" textLength="41.6" lengthAdjust="spacing">cântați</text>
+<text x="405.6" y="688.0" font-size="14" fill="#3a3226" textLength="50.0" lengthAdjust="spacing">apăreați</text>
+<text x="566.1" y="688.0" font-size="14" fill="#3a3226" textLength="55.0" lengthAdjust="spacing">mergeați</text>
+<text x="728.5" y="688.0" font-size="14" fill="#3a3226" textLength="56.0" lengthAdjust="spacing">dormeați</text>
+<line x1="62.0" y1="698.2" x2="838.0" y2="698.2" stroke="#e3dccb"/>
+<text x="74.0" y="720.2" font-size="14" fill="#3a3226" textLength="35.4" lengthAdjust="spacing">ei, ele</text>
+<text x="246.9" y="720.2" font-size="14" fill="#3a3226" textLength="41.4" lengthAdjust="spacing">cântau</text>
+<text x="405.7" y="720.2" font-size="14" fill="#3a3226" textLength="49.8" lengthAdjust="spacing">apăreau</text>
+<text x="566.1" y="720.2" font-size="14" fill="#3a3226" textLength="54.9" lengthAdjust="spacing">mergeau</text>
+<text x="728.6" y="720.2" font-size="14" fill="#3a3226" textLength="55.9" lengthAdjust="spacing">dormeau</text>
+<line x1="62.0" y1="730.4" x2="838.0" y2="730.4" stroke="#e3dccb"/>
+<line x1="186.2" y1="505.7" x2="186.2" y2="730.4" stroke="#e3dccb"/>
+<line x1="349.1" y1="505.7" x2="349.1" y2="730.4" stroke="#e3dccb"/>
+<line x1="512.1" y1="505.7" x2="512.1" y2="730.4" stroke="#e3dccb"/>
+<line x1="675.0" y1="505.7" x2="675.0" y2="730.4" stroke="#e3dccb"/>
+<rect x="40" y="768.4" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="791.4" font-size="16" font-weight="700" fill="#ffffff">3. ATENȚIE LA VERBUL A VOI</text>
+<rect x="40" y="802.4" width="820" height="121.6" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="820.4" width="776.0" height="85.6" rx="12" fill="#f3efe4"/><rect x="62.0" y="820.4" width="6" height="85.6" rx="3" fill="#b4432c"/><text x="84.0" y="846.9" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="865.8" font-size="14.5" fill="#3a3226" textLength="44.9" lengthAdjust="spacing">Corect:</text>
+<text x="132.9" y="865.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="119.0" lengthAdjust="spacing">voiam, voiai, voia</text>
+<text x="251.9" y="865.8" font-size="14.5" fill="#3a3226" textLength="77.7" lengthAdjust="spacing">. Formele cu</text>
+<text x="333.5" y="865.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="5.2" lengthAdjust="spacing">r</text>
+<text x="342.7" y="865.8" font-size="14.5" fill="#3a3226" textLength="4.3" lengthAdjust="spacing">(</text>
+<text x="347.0" y="865.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="124.8" lengthAdjust="spacing">vroiam, vroiai, vroia</text>
+<text x="471.9" y="865.8" font-size="14.5" fill="#3a3226" textLength="35.8" lengthAdjust="spacing">) sunt</text>
+<text x="511.6" y="865.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="46.5" lengthAdjust="spacing">greșite</text>
+<text x="558.1" y="865.8" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="84.0" y="889.7" font-size="14.5" fill="#3a3226" textLength="193.1" lengthAdjust="spacing">Ele apar sub influența verbului</text>
+<text x="281.1" y="889.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="38.7" lengthAdjust="spacing">a vrea</text>
+<text x="319.8" y="889.7" font-size="14.5" fill="#3a3226" textLength="190.2" lengthAdjust="spacing">, care la imperfect are formele</text>
+<text x="513.9" y="889.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="111.4" lengthAdjust="spacing">vream, vreai, vrea</text>
+<text x="625.3" y="889.7" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="273.4" y="955.5" font-size="11.5" fill="#5b6b83" textLength="353.3" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 64-65, rubrica Repere și tabelul de conjugare.</text>
 </svg>

@@ -1,34 +1,88 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="400" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Silaba. Accentul</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 14</text>
-
-  <g>
-    <rect x="60" y="95" width="360" height="190" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="240" y="123" text-anchor="middle" font-size="15" font-weight="700" fill="#10233f">Silaba</text>
-    <text font-size="12" fill="#3a3226" text-anchor="middle">
-      <tspan x="240" y="150">O silabă conține, de</tspan>
-      <tspan x="240" y="168">obicei, o singură vocală.</tspan>
-    </text>
-    <rect x="90" y="188" width="300" height="70" rx="10" fill="#eaf6f4"/>
-    <text x="240" y="216" text-anchor="middle" font-size="16" font-weight="700" fill="#10233f">com-pu-ne-re</text>
-    <text x="240" y="238" text-anchor="middle" font-size="10.5" fill="#3a3226">4 silabe, câte o vocală fiecare</text>
-  </g>
-
-  <g>
-    <rect x="480" y="95" width="360" height="190" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="660" y="123" text-anchor="middle" font-size="15" font-weight="700" fill="#10233f">Accentul</text>
-    <text font-size="12" fill="#3a3226" text-anchor="middle">
-      <tspan x="660" y="150">Pronunțarea mai</tspan>
-      <tspan x="660" y="168">intensă a unei silabe.</tspan>
-    </text>
-    <rect x="510" y="188" width="300" height="70" rx="10" fill="#f1ecfa"/>
-    <text x="660" y="216" text-anchor="middle" font-size="15" font-weight="700" fill="#10233f">ácele (de cusut) / acéle (fete)</text>
-    <text x="660" y="238" text-anchor="middle" font-size="10.5" fill="#3a3226">accentul schimbă sensul</text>
-  </g>
-
-  <rect x="150" y="308" width="600" height="40" rx="12" fill="#fff3da" stroke="#b8944f" stroke-width="1.5"/>
-  <text x="450" y="333" text-anchor="middle" font-size="12" fill="#3a3226">DOOM3 marchează accentuarea corectă a cuvintelor din limba română.</text>
-
-  <text x="450" y="378" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual Art 5, pp. 34-35 (Repere)</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1027" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1027" fill="#faf7f0"/>
+<text x="345.7" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="208.9" lengthAdjust="spacing">Silaba. Accentul</text>
+<text x="226.2" y="74.4" font-size="14" fill="#5b6b83" textLength="447.6" lengthAdjust="spacing">Clasa a V-a · Unitatea I, Lecția 14 · Manual, pp. 34-35 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. SILABA</text>
+<rect x="40" y="128.6" width="820" height="387.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="45.1" lengthAdjust="spacing">Silaba</text>
+<text x="111.4" y="162.6" font-size="16" fill="#10233f" textLength="689.6" lengthAdjust="spacing">este formată fie dintr-o vocală, fie dintr-un grup de sunete care conține o vocală și se pronunță cu</text>
+<text x="805.3" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="19.5" lengthAdjust="spacing">un</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="162.7" lengthAdjust="spacing">singur efort expirator</text>
+<text x="224.7" y="185.8" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<text x="62.0" y="219.6" font-size="15" fill="#3a3226" textLength="347.1" lengthAdjust="spacing">Cuvântul poate avea una, două sau mai multe silabe:</text>
+<rect x="62.0" y="238.1" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="259.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="56.7" lengthAdjust="spacing">Cuvântul</text>
+<text x="404.5" y="259.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="114.6" lengthAdjust="spacing">Despărțit în silabe</text>
+<text x="669.9" y="259.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="103.7" lengthAdjust="spacing">Număr de silabe</text>
+<line x1="62.0" y1="269.6" x2="838.0" y2="269.6" stroke="#e3dccb"/>
+<text x="74.0" y="292.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="7.8" lengthAdjust="spacing">o</text>
+<text x="457.4" y="292.1" font-size="14.5" fill="#3a3226" textLength="8.6" lengthAdjust="spacing">o</text>
+<text x="717.7" y="292.1" font-size="14.5" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">1</text>
+<line x1="62.0" y1="302.5" x2="838.0" y2="302.5" stroke="#e3dccb"/>
+<text x="74.0" y="325.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="31.2" lengthAdjust="spacing">carte</text>
+<text x="442.9" y="325.0" font-size="14.5" fill="#3a3226" textLength="37.4" lengthAdjust="spacing">car-te</text>
+<text x="717.7" y="325.0" font-size="14.5" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">2</text>
+<line x1="62.0" y1="335.4" x2="838.0" y2="335.4" stroke="#e3dccb"/>
+<text x="74.0" y="357.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="55.1" lengthAdjust="spacing">fereastră</text>
+<text x="428.1" y="357.9" font-size="14.5" fill="#3a3226" textLength="67.1" lengthAdjust="spacing">fe-reas-tră</text>
+<text x="717.7" y="357.9" font-size="14.5" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">3</text>
+<line x1="62.0" y1="368.2" x2="838.0" y2="368.2" stroke="#e3dccb"/>
+<text x="74.0" y="390.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="54.7" lengthAdjust="spacing">prietenie</text>
+<text x="421.8" y="390.7" font-size="14.5" fill="#3a3226" textLength="79.6" lengthAdjust="spacing">pri-e-te-ni-e</text>
+<text x="717.7" y="390.7" font-size="14.5" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">5</text>
+<line x1="62.0" y1="401.1" x2="838.0" y2="401.1" stroke="#e3dccb"/>
+<line x1="318.1" y1="238.1" x2="318.1" y2="401.0" stroke="#e3dccb"/>
+<line x1="605.2" y1="238.1" x2="605.2" y2="401.0" stroke="#e3dccb"/>
+<rect x="62.0" y="415.0" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="441.5" font-size="14.5" fill="#10233f" font-weight="700" textLength="116.9" lengthAdjust="spacing">La capăt de rând:</text>
+<text x="78.0" y="460.4" font-size="14.5" fill="#3a3226" textLength="147.9" lengthAdjust="spacing">Cuvintele se despart cu</text>
+<text x="229.8" y="460.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="137.5" lengthAdjust="spacing">liniuța de despărțire</text>
+<text x="367.3" y="460.4" font-size="14.5" fill="#3a3226" textLength="434.9" lengthAdjust="spacing">, pusă o singură dată, la capăt de rând, fără a se repeta la început de</text>
+<text x="78.0" y="481.4" font-size="14.5" fill="#3a3226" textLength="32.5" lengthAdjust="spacing">rând.</text>
+<rect x="40" y="535.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="558.8" font-size="16" font-weight="700" fill="#ffffff">2. ACCENTUL</text>
+<rect x="40" y="569.8" width="820" height="139.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="603.8" font-size="16" fill="#10233f" font-weight="700" textLength="65.4" lengthAdjust="spacing">Accentul</text>
+<text x="131.8" y="603.8" font-size="16" fill="#10233f" textLength="162.9" lengthAdjust="spacing">reprezintă pronunțarea</text>
+<text x="298.9" y="603.8" font-size="16" fill="#10233f" font-weight="700" textLength="86.9" lengthAdjust="spacing">mai intensă</text>
+<text x="390.1" y="603.8" font-size="16" fill="#10233f" textLength="204.6" lengthAdjust="spacing">a unei silabe dintr-un cuvânt.</text>
+<text x="62.0" y="637.6" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="637.6" font-size="15" fill="#3a3226" textLength="170.5" lengthAdjust="spacing">În limba română, accentul</text>
+<text x="248.8" y="637.6" font-size="15" fill="#3a3226" font-weight="700" textLength="91.8" lengthAdjust="spacing">nu are loc fix</text>
+<text x="340.6" y="637.6" font-size="15" fill="#3a3226" textLength="204.0" lengthAdjust="spacing">, pe prima sau pe ultima silabă.</text>
+<text x="62.0" y="662.3" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="662.3" font-size="15" fill="#3a3226" textLength="99.4" lengthAdjust="spacing">Accentul poate</text>
+<text x="177.7" y="662.3" font-size="15" fill="#3a3226" font-weight="700" textLength="116.7" lengthAdjust="spacing">diferenția sensul</text>
+<text x="298.4" y="662.3" font-size="15" fill="#3a3226" textLength="144.3" lengthAdjust="spacing">cuvintelor scrise la fel:</text>
+<text x="446.8" y="662.3" font-size="15" fill="#10233f" font-style="italic" textLength="33.3" lengthAdjust="spacing">ácele</text>
+<text x="484.1" y="662.3" font-size="15" fill="#3a3226" textLength="76.7" lengthAdjust="spacing">(de cusut) –</text>
+<text x="564.8" y="662.3" font-size="15" fill="#10233f" font-style="italic" textLength="33.3" lengthAdjust="spacing">acéle</text>
+<text x="602.2" y="662.3" font-size="15" fill="#3a3226" textLength="37.6" lengthAdjust="spacing">(fete).</text>
+<text x="62.0" y="687.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="687.1" font-size="15" fill="#3a3226" textLength="434.0" lengthAdjust="spacing">În poezie se admit și alte accentuări, pentru sonoritatea versurilor:</text>
+<text x="512.2" y="687.1" font-size="15" fill="#10233f" font-style="italic" textLength="39.8" lengthAdjust="spacing">puréci</text>
+<text x="556.0" y="687.1" font-size="15" fill="#3a3226" textLength="106.5" lengthAdjust="spacing">(Marin Sorescu).</text>
+<rect x="40" y="729.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="752.6" font-size="16" font-weight="700" fill="#ffffff">3. CUM SE MARCHEAZĂ ACCENTUL</text>
+<rect x="40" y="763.6" width="820" height="212.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="781.6" width="380.0" height="67.7" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="78.0" y="809.6" font-size="16" fill="#6f5ea8" font-weight="700" textLength="79.5" lengthAdjust="spacing">în DOOM3</text>
+<text x="78.0" y="832.9" font-size="14.5" fill="#3a3226" textLength="125.3" lengthAdjust="spacing">vocala accentuată e</text>
+<text x="207.2" y="832.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="66.6" lengthAdjust="spacing">subliniată</text>
+<text x="273.7" y="832.9" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">:</text>
+<text x="280.9" y="832.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="21.8" lengthAdjust="spacing">zen</text>
+<text x="302.6" y="832.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="3.8" lengthAdjust="spacing">i</text>
+<line x1="302.6" y1="836.4" x2="306.4" y2="836.4" stroke="#10233f" stroke-width="1.4"/>
+<text x="306.4" y="832.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="4.6" lengthAdjust="spacing">t</text>
+<rect x="458.0" y="781.6" width="380.0" height="67.7" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="474.0" y="809.6" font-size="16" fill="#0d9c92" font-weight="700" textLength="186.2" lengthAdjust="spacing">în alte dicționare și texte</text>
+<text x="474.0" y="832.9" font-size="14.5" fill="#3a3226" textLength="14.9" lengthAdjust="spacing">cu</text>
+<text x="492.9" y="832.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="93.5" lengthAdjust="spacing">accent ascuțit</text>
+<text x="586.4" y="832.9" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">:</text>
+<text x="593.5" y="832.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="38.4" lengthAdjust="spacing">puréci</text>
+<text x="62.0" y="878.2" font-size="15" fill="#3a3226" font-weight="700" textLength="57.0" lengthAdjust="spacing">DOOM3</text>
+<text x="123.0" y="878.2" font-size="15" fill="#3a3226" textLength="605.5" lengthAdjust="spacing">(2021) este dicționarul normativ care arată cum se pronunță și cum se scriu corect cuvintele.</text>
+<rect x="62.0" y="896.7" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><text x="78.0" y="923.2" font-size="14.5" fill="#10233f" font-weight="700" textLength="232.6" lengthAdjust="spacing">Accentuări corecte, după DOOM3:</text>
+<text x="78.0" y="942.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="319.5" lengthAdjust="spacing">ántic, arípă, avaríe, caractér, gíngaș, profesór, tráfic</text>
+<text x="207.2" y="1007.9" font-size="11.5" fill="#5b6b83" textLength="485.5" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 34-35, rubricile Repere. Unele exemple sunt create pentru aceste notițe.</text>
 </svg>

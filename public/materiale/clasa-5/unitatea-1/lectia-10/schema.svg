@@ -1,24 +1,124 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="420" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cuvântul și dicționarul</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 10</text>
-
-  <rect x="350" y="85" width="200" height="48" rx="14" fill="#6f5ea8"/>
-  <text x="450" y="115" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">CUVÂNTUL</text>
-
-  <text x="290" y="157" text-anchor="end" font-size="12" fill="#3a3226">sens (conținut)</text>
-  <text x="610" y="157" text-anchor="start" font-size="12" fill="#3a3226">sunete (formă)</text>
-  <path d="M 450 133 L 450 178 L 260 178" stroke="#b8944f" stroke-width="2" fill="none"/>
-  <path d="M 450 133 L 450 178 L 640 178" stroke="#b8944f" stroke-width="2" fill="none"/>
-
-  <rect x="150" y="200" width="600" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="450" y="228" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Articolul de dicționar</text>
-  <text font-size="12" fill="#3a3226" text-anchor="middle">
-    <tspan x="450" y="256">Cuvintele apar în ordine alfabetică, după prima literă</tspan>
-    <tspan x="450" y="276">diferită, nu doar după litera inițială.</tspan>
-    <tspan x="450" y="304" font-style="italic">pauză — penar — planetă — prieten</tspan>
-    <tspan x="450" y="326">DEX explică sensurile; DOOM arată scrierea și pronunția corectă.</tspan>
-  </text>
-
-  <text x="450" y="398" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual Art 5, pp. 26-27 (Repere)</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1420" fill="#faf7f0"/>
+<text x="302.2" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="296.2" lengthAdjust="spacing">Cuvântul și dicționarul</text>
+<text x="226.2" y="74.4" font-size="14" fill="#5b6b83" textLength="447.6" lengthAdjust="spacing">Clasa a V-a · Unitatea I, Lecția 10 · Manual, pp. 26-27 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. VOCABULARUL</text>
+<rect x="40" y="128.6" width="820" height="115.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="90.2" lengthAdjust="spacing">Vocabularul</text>
+<text x="156.5" y="162.6" font-size="16" fill="#10233f" textLength="596.3" lengthAdjust="spacing">este alcătuit din totalitatea cuvintelor care există sau au existat vreodată într-o limbă.</text>
+<text x="62.0" y="196.4" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="196.4" font-size="15" fill="#3a3226" textLength="240.4" lengthAdjust="spacing">Fiecare limbă are propriul vocabular.</text>
+<text x="62.0" y="221.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="221.1" font-size="15" fill="#3a3226" textLength="106.8" lengthAdjust="spacing">Vocabularul e în</text>
+<text x="185.0" y="221.1" font-size="15" fill="#3a3226" font-weight="700" textLength="143.8" lengthAdjust="spacing">permanentă mișcare</text>
+<text x="328.9" y="221.1" font-size="15" fill="#3a3226" textLength="483.3" lengthAdjust="spacing">: apar cuvinte noi, altele nu mai sunt folosite, iar sensul unora se schimbă.</text>
+<rect x="40" y="263.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="286.6" font-size="16" font-weight="700" fill="#ffffff">2. CUVÂNTUL</text>
+<rect x="40" y="297.6" width="820" height="349.3" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="331.6" font-size="16" fill="#10233f" font-weight="700" textLength="67.2" lengthAdjust="spacing">Cuvântul</text>
+<text x="133.5" y="331.6" font-size="16" fill="#10233f" textLength="297.3" lengthAdjust="spacing">este unitatea de bază a vocabularului. Are:</text>
+<rect x="62.0" y="350.4" width="380.0" height="67.7" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="378.4" font-size="16" fill="#0d9c92" font-weight="700" textLength="98.1" lengthAdjust="spacing">sens (înțeles)</text>
+<text x="78.0" y="401.8" font-size="14.5" fill="#3a3226" textLength="64.4" lengthAdjust="spacing">reprezintă</text>
+<text x="146.3" y="401.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="70.6" lengthAdjust="spacing">conținutul</text>
+<rect x="458.0" y="350.4" width="380.0" height="67.7" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="378.4" font-size="16" fill="#6f5ea8" font-weight="700" textLength="161.1" lengthAdjust="spacing">sunete (înveliș sonor)</text>
+<text x="474.0" y="401.8" font-size="14.5" fill="#3a3226" textLength="64.4" lengthAdjust="spacing">reprezintă</text>
+<text x="542.3" y="401.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="41.3" lengthAdjust="spacing">forma</text>
+<rect x="62.0" y="432.1" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="453.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="48.5" lengthAdjust="spacing">Situația</text>
+<text x="462.0" y="453.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="463.6" x2="838.0" y2="463.6" stroke="#e3dccb"/>
+<text x="74.0" y="486.1" font-size="14.5" fill="#3a3226" textLength="172.7" lengthAdjust="spacing">același sens, sunete diferite</text>
+<text x="462.0" y="486.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="116.0" lengthAdjust="spacing">a hotărî – a decide</text>
+<line x1="62.0" y1="496.5" x2="838.0" y2="496.5" stroke="#e3dccb"/>
+<text x="74.0" y="519.0" font-size="14.5" fill="#3a3226" textLength="172.7" lengthAdjust="spacing">sens diferit, aceleași sunete</text>
+<text x="462.0" y="519.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="29.3" lengthAdjust="spacing">liliac</text>
+<text x="495.2" y="519.0" font-size="14.5" fill="#3a3226" textLength="60.2" lengthAdjust="spacing">(arbust) –</text>
+<text x="559.3" y="519.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="29.3" lengthAdjust="spacing">liliac</text>
+<text x="592.5" y="519.0" font-size="14.5" fill="#3a3226" textLength="51.2" lengthAdjust="spacing">(animal)</text>
+<line x1="62.0" y1="529.4" x2="838.0" y2="529.4" stroke="#e3dccb"/>
+<line x1="450.0" y1="432.1" x2="450.0" y2="529.3" stroke="#e3dccb"/>
+<rect x="62.0" y="543.3" width="776.0" height="85.6" rx="12" fill="#f3efe4"/><text x="78.0" y="569.8" font-size="14.5" fill="#10233f" font-weight="700" textLength="66.7" lengthAdjust="spacing">Contextul</text>
+<text x="78.0" y="588.7" font-size="14.5" fill="#3a3226" textLength="217.1" lengthAdjust="spacing">Sensul unui cuvânt se stabilește în</text>
+<text x="299.0" y="588.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="51.8" lengthAdjust="spacing">context</text>
+<text x="350.7" y="588.7" font-size="14.5" fill="#3a3226" textLength="330.3" lengthAdjust="spacing">, adică în propoziția sau în fragmentul în care apare.</text>
+<text x="78.0" y="612.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="335.5" lengthAdjust="spacing">Liliacul a înflorit în grădină. / Liliacul zboară noaptea.</text>
+<rect x="40" y="667.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="690.0" font-size="16" font-weight="700" fill="#ffffff">3. DICȚIONARUL</text>
+<rect x="40" y="701.0" width="820" height="105.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="734.0" font-size="15" fill="#3a3226" font-weight="700" textLength="78.3" lengthAdjust="spacing">Dicționarul</text>
+<text x="144.4" y="734.0" font-size="15" fill="#3a3226" textLength="635.2" lengthAdjust="spacing">este o lucrare științifică în care se includ cuvintele unei limbi sau termenii specifici unui domeniu.</text>
+<text x="62.0" y="758.7" font-size="15" fill="#3a3226" textLength="39.5" lengthAdjust="spacing">Feluri:</text>
+<text x="105.5" y="758.7" font-size="15" fill="#10233f" font-style="italic" textLength="600.6" lengthAdjust="spacing">explicative, normative, enciclopedice, ortografice, de sinonime, de antonime, de opere literare</text>
+<text x="706.1" y="758.7" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="783.5" font-size="15" fill="#3a3226" font-weight="700" textLength="29.0" lengthAdjust="spacing">DEX</text>
+<text x="95.0" y="783.5" font-size="15" fill="#3a3226" textLength="10.2" lengthAdjust="spacing">=</text>
+<text x="109.3" y="783.5" font-size="15" fill="#10233f" font-style="italic" textLength="247.8" lengthAdjust="spacing">Dicționarul explicativ al limbii române</text>
+<text x="357.1" y="783.5" font-size="15" fill="#3a3226" textLength="337.2" lengthAdjust="spacing">, lucrarea în care sunt explicate sensurile cuvintelor.</text>
+<rect x="40" y="826.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="849.0" font-size="16" font-weight="700" fill="#ffffff">4. ORDINEA ALFABETICĂ</text>
+<rect x="40" y="860.0" width="820" height="113.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="893.0" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="893.0" font-size="15" fill="#3a3226" textLength="291.6" lengthAdjust="spacing">Cuvintele se așază în ordine alfabetică, după</text>
+<text x="369.8" y="893.0" font-size="15" fill="#3a3226" font-weight="700" textLength="82.0" lengthAdjust="spacing">prima literă</text>
+<text x="451.9" y="893.0" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="917.7" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="917.7" font-size="15" fill="#3a3226" textLength="312.7" lengthAdjust="spacing">Dacă primele litere sunt identice, ordonez după</text>
+<text x="391.0" y="917.7" font-size="15" fill="#3a3226" font-weight="700" textLength="210.7" lengthAdjust="spacing">prima literă interioară diferită</text>
+<text x="601.7" y="917.7" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="62.0" y="951.2" font-size="15" fill="#10233f" font-style="italic" textLength="486.4" lengthAdjust="spacing">vocabular, vocabulă, vocală, vocalic, vocalism, vocaliza, vocalizare, vocaliză</text>
+<rect x="40" y="993.7" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="1016.7" font-size="16" font-weight="700" fill="#ffffff">5. ARTICOLUL DE DICȚIONAR</text>
+<rect x="40" y="1027.7" width="820" height="341.2" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="1045.7" width="776.0" height="63.9" rx="12" fill="#f3efe4"/><text x="78.0" y="1072.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="42.9" lengthAdjust="spacing">CÂINE</text>
+<text x="120.9" y="1072.2" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="128.0" y="1072.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="29.9" lengthAdjust="spacing">câini</text>
+<text x="157.9" y="1072.2" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="165.0" y="1072.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="48.0" lengthAdjust="spacing">s. m. 1.</text>
+<text x="216.9" y="1072.2" font-size="14.5" fill="#3a3226" textLength="454.4" lengthAdjust="spacing">Animal mamifer carnivor, domesticit, folosit pentru pază, vânătoare etc.</text>
+<text x="675.2" y="1072.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="30.1" lengthAdjust="spacing">Expr.</text>
+<text x="709.3" y="1072.2" font-size="14.5" fill="#3a3226" textLength="95.3" lengthAdjust="spacing">A tăia frunză la</text>
+<text x="78.0" y="1093.2" font-size="14.5" fill="#3a3226" textLength="124.7" lengthAdjust="spacing">câini = a trândăvi. –</text>
+<text x="206.6" y="1093.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="22.3" lengthAdjust="spacing">Lat.</text>
+<text x="232.9" y="1093.2" font-size="14.5" fill="#3a3226" textLength="35.1" lengthAdjust="spacing">canis.</text>
+<rect x="62.0" y="1123.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="1145.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="167.7" lengthAdjust="spacing">În articolul din DEX găsesc</text>
+<text x="423.2" y="1145.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="33.6" lengthAdjust="spacing">Unde</text>
+<line x1="62.0" y1="1155.1" x2="838.0" y2="1155.1" stroke="#e3dccb"/>
+<text x="74.0" y="1177.6" font-size="14.5" fill="#3a3226" textLength="169.8" lengthAdjust="spacing">cuvântul și forma de plural</text>
+<text x="423.2" y="1177.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="42.9" lengthAdjust="spacing">CÂINE</text>
+<text x="466.1" y="1177.6" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="473.2" y="1177.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="29.9" lengthAdjust="spacing">câini</text>
+<line x1="62.0" y1="1188.0" x2="838.0" y2="1188.0" stroke="#e3dccb"/>
+<text x="74.0" y="1210.5" font-size="14.5" fill="#3a3226" textLength="119.5" lengthAdjust="spacing">natura gramaticală</text>
+<text x="423.2" y="1210.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="28.6" lengthAdjust="spacing">s. m.</text>
+<text x="455.7" y="1210.5" font-size="14.5" fill="#3a3226" textLength="138.8" lengthAdjust="spacing">= substantiv masculin</text>
+<line x1="62.0" y1="1220.8" x2="838.0" y2="1220.8" stroke="#e3dccb"/>
+<text x="74.0" y="1243.3" font-size="14.5" fill="#3a3226" textLength="137.9" lengthAdjust="spacing">sensurile, numerotate</text>
+<text x="423.2" y="1243.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="11.0" lengthAdjust="spacing">1.</text>
+<text x="438.1" y="1243.3" font-size="14.5" fill="#3a3226" textLength="111.9" lengthAdjust="spacing">Animal mamifer…</text>
+<line x1="62.0" y1="1253.7" x2="838.0" y2="1253.7" stroke="#e3dccb"/>
+<text x="74.0" y="1276.2" font-size="14.5" fill="#3a3226" textLength="59.4" lengthAdjust="spacing">expresiile</text>
+<text x="423.2" y="1276.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="30.1" lengthAdjust="spacing">Expr.</text>
+<text x="457.3" y="1276.2" font-size="14.5" fill="#3a3226" textLength="128.5" lengthAdjust="spacing">A tăia frunză la câini</text>
+<line x1="62.0" y1="1286.5" x2="838.0" y2="1286.5" stroke="#e3dccb"/>
+<text x="74.0" y="1309.0" font-size="14.5" fill="#3a3226" textLength="52.3" lengthAdjust="spacing">originea</text>
+<text x="423.2" y="1309.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="22.3" lengthAdjust="spacing">Lat.</text>
+<text x="449.4" y="1309.0" font-size="14.5" fill="#3a3226" textLength="108.8" lengthAdjust="spacing">canis = din latină</text>
+<line x1="62.0" y1="1319.4" x2="838.0" y2="1319.4" stroke="#e3dccb"/>
+<line x1="411.2" y1="1123.6" x2="411.2" y2="1319.4" stroke="#e3dccb"/>
+<text x="62.0" y="1346.9" font-size="13.5" fill="#5b6b83" textLength="66.0" lengthAdjust="spacing">Prescurtări:</text>
+<text x="131.7" y="1346.9" font-size="13.5" fill="#5b6b83" font-style="italic" textLength="26.6" lengthAdjust="spacing">s. m.</text>
+<text x="161.9" y="1346.9" font-size="13.5" fill="#5b6b83" textLength="119.3" lengthAdjust="spacing">substantiv masculin,</text>
+<text x="284.9" y="1346.9" font-size="13.5" fill="#5b6b83" font-style="italic" textLength="19.0" lengthAdjust="spacing">s. f.</text>
+<text x="307.6" y="1346.9" font-size="13.5" fill="#5b6b83" textLength="111.8" lengthAdjust="spacing">substantiv feminin,</text>
+<text x="423.0" y="1346.9" font-size="13.5" fill="#5b6b83" font-style="italic" textLength="22.5" lengthAdjust="spacing">s. n.</text>
+<text x="449.2" y="1346.9" font-size="13.5" fill="#5b6b83" textLength="106.5" lengthAdjust="spacing">substantiv neutru,</text>
+<text x="559.3" y="1346.9" font-size="13.5" fill="#5b6b83" font-style="italic" textLength="20.8" lengthAdjust="spacing">adj.</text>
+<text x="583.8" y="1346.9" font-size="13.5" fill="#5b6b83" textLength="48.6" lengthAdjust="spacing">adjectiv,</text>
+<text x="636.0" y="1346.9" font-size="13.5" fill="#5b6b83" font-style="italic" textLength="16.6" lengthAdjust="spacing">vb.</text>
+<text x="656.3" y="1346.9" font-size="13.5" fill="#5b6b83" textLength="29.2" lengthAdjust="spacing">verb.</text>
+<text x="103.6" y="1400.4" font-size="11.5" fill="#5b6b83" textLength="692.9" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 26-27, rubricile Repere; articolul CÂINE e din manual, prescurtat. Unele exemple sunt create pentru aceste notițe.</text>
 </svg>

@@ -1,16 +1,177 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="340" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Perfectul simplu și mai-mult-ca-perfectul</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 14</text>
-  <g>
-    <rect x="90" y="100" width="330" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="255" y="128" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Perfectul simplu</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle"><tspan x="255" y="154">Acțiune trecută, terminată;</tspan><tspan x="255" y="170">azi doar în naratiune literară.</tspan><tspan x="255" y="196" font-style="italic">el jucă</tspan></text>
-  </g>
-  <g>
-    <rect x="480" y="100" width="330" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="645" y="128" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Mai-mult-ca-perfectul</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle"><tspan x="645" y="154">Acțiune trecută, terminată</tspan><tspan x="645" y="170">înaintea altei acțiuni trecute.</tspan><tspan x="645" y="196" font-style="italic">el jucase</tspan></text>
-  </g>
-  <text x="450" y="300" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 14, p. 68</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1239" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1239" fill="#faf7f0"/>
+<text x="179.7" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="541.5" lengthAdjust="spacing">Perfectul simplu și mai-mult-ca-perfectul</text>
+<text x="224.3" y="74.4" font-size="14" fill="#5b6b83" textLength="451.4" lengthAdjust="spacing">Clasa a V-a · Unitatea II, Lecția 15 · Manual, pp. 68-69 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. PERFECTUL SIMPLU</text>
+<rect x="40" y="128.6" width="820" height="530.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="122.6" lengthAdjust="spacing">Perfectul simplu</text>
+<text x="188.9" y="162.6" font-size="16" fill="#10233f" textLength="315.5" lengthAdjust="spacing">exprimă, în limba literară, o acțiune trecută și</text>
+<text x="508.7" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="73.8" lengthAdjust="spacing">terminată</text>
+<text x="586.8" y="162.6" font-size="16" fill="#10233f" textLength="147.2" lengthAdjust="spacing">în momentul vorbirii.</text>
+<text x="62.0" y="196.4" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="196.4" font-size="15" fill="#3a3226" textLength="26.8" lengthAdjust="spacing">Este</text>
+<text x="105.1" y="196.4" font-size="15" fill="#3a3226" font-weight="700" textLength="191.5" lengthAdjust="spacing">timpul povestirii imaginare</text>
+<text x="296.6" y="196.4" font-size="15" fill="#3a3226" textLength="128.4" lengthAdjust="spacing">, la persoana a III-a:</text>
+<text x="429.1" y="196.4" font-size="15" fill="#10233f" font-style="italic" textLength="201.7" lengthAdjust="spacing">Scufița Roșie plecă spre bunica.</text>
+<text x="62.0" y="221.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="221.1" font-size="15" fill="#3a3226" textLength="563.4" lengthAdjust="spacing">În limba literară vorbită a dispărut; locul lui l-a luat perfectul compus. Apare uneori ca</text>
+<text x="641.6" y="221.1" font-size="15" fill="#3a3226" font-weight="700" textLength="40.8" lengthAdjust="spacing">ironie</text>
+<text x="682.4" y="221.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="689.8" y="221.1" font-size="15" fill="#10233f" font-style="italic" textLength="69.0" lengthAdjust="spacing">Vorbi și el!</text>
+<text x="62.0" y="245.9" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="245.9" font-size="15" fill="#3a3226" textLength="12.6" lengthAdjust="spacing">În</text>
+<text x="90.8" y="245.9" font-size="15" fill="#3a3226" font-weight="700" textLength="159.8" lengthAdjust="spacing">Oltenia, Banat, Crișana</text>
+<text x="254.7" y="245.9" font-size="15" fill="#3a3226" textLength="86.6" lengthAdjust="spacing">și o parte din</text>
+<text x="345.3" y="245.9" font-size="15" fill="#3a3226" font-weight="700" textLength="80.2" lengthAdjust="spacing">Maramureș</text>
+<text x="429.6" y="245.9" font-size="15" fill="#3a3226" textLength="397.8" lengthAdjust="spacing">se folosește curent, pentru o acțiune terminată de curând, în</text>
+<text x="74.2" y="267.6" font-size="15" fill="#3a3226" textLength="123.1" lengthAdjust="spacing">ultimele 24 de ore.</text>
+<text x="62.0" y="301.1" font-size="15" fill="#3a3226" textLength="245.7" lengthAdjust="spacing">Sunetele care indică perfectul simplu:</text>
+<text x="311.8" y="301.1" font-size="15" fill="#3a3226" font-weight="700" textLength="137.2" lengthAdjust="spacing">-a-, -u-, -se-, -i-, -â-</text>
+<text x="449.0" y="301.1" font-size="15" fill="#3a3226" textLength="174.9" lengthAdjust="spacing">; la plural apare segmentul</text>
+<text x="627.9" y="301.1" font-size="15" fill="#3a3226" font-weight="700" textLength="26.1" lengthAdjust="spacing">-ră-</text>
+<text x="654.0" y="301.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="319.6" width="776.0" height="31.6" fill="#efeaf8"/>
+
+<text x="239.9" y="341.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="55.6" lengthAdjust="spacing">(a) cânta</text>
+<text x="398.7" y="341.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="64.0" lengthAdjust="spacing">(a) apărea</text>
+<text x="562.7" y="341.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="61.8" lengthAdjust="spacing">(a) merge</text>
+<text x="727.0" y="341.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="59.3" lengthAdjust="spacing">(a) dormi</text>
+<line x1="62.0" y1="351.2" x2="838.0" y2="351.2" stroke="#e3dccb"/>
+<text x="74.0" y="373.2" font-size="14" fill="#3a3226" textLength="15.3" lengthAdjust="spacing">eu</text>
+<text x="249.2" y="373.2" font-size="14" fill="#3a3226" textLength="36.8" lengthAdjust="spacing">cântai</text>
+<text x="411.2" y="373.2" font-size="14" fill="#3a3226" textLength="38.8" lengthAdjust="spacing">apărui</text>
+<text x="573.2" y="373.2" font-size="14" fill="#3a3226" textLength="40.7" lengthAdjust="spacing">mersei</text>
+<text x="736.4" y="373.2" font-size="14" fill="#3a3226" textLength="40.2" lengthAdjust="spacing">dormii</text>
+<line x1="62.0" y1="383.4" x2="838.0" y2="383.4" stroke="#e3dccb"/>
+<text x="74.0" y="405.4" font-size="14" fill="#3a3226" textLength="12.7" lengthAdjust="spacing">tu</text>
+<text x="246.3" y="405.4" font-size="14" fill="#3a3226" textLength="42.7" lengthAdjust="spacing">cântași</text>
+<text x="408.3" y="405.4" font-size="14" fill="#3a3226" textLength="44.7" lengthAdjust="spacing">apăruși</text>
+<text x="570.2" y="405.4" font-size="14" fill="#3a3226" textLength="46.6" lengthAdjust="spacing">merseși</text>
+<text x="733.5" y="405.4" font-size="14" fill="#3a3226" textLength="46.1" lengthAdjust="spacing">dormiși</text>
+<line x1="62.0" y1="415.6" x2="838.0" y2="415.6" stroke="#e3dccb"/>
+<text x="74.0" y="437.6" font-size="14" fill="#3a3226" textLength="31.9" lengthAdjust="spacing">el, ea</text>
+<text x="250.9" y="437.6" font-size="14" fill="#3a3226" textLength="33.5" lengthAdjust="spacing">cântă</text>
+<text x="412.9" y="437.6" font-size="14" fill="#3a3226" textLength="35.4" lengthAdjust="spacing">apăru</text>
+<text x="574.9" y="437.6" font-size="14" fill="#3a3226" textLength="37.4" lengthAdjust="spacing">merse</text>
+<text x="738.1" y="437.6" font-size="14" fill="#3a3226" textLength="36.8" lengthAdjust="spacing">dormi</text>
+<line x1="62.0" y1="447.8" x2="838.0" y2="447.8" stroke="#e3dccb"/>
+<text x="74.0" y="469.8" font-size="14" fill="#3a3226" textLength="19.6" lengthAdjust="spacing">noi</text>
+<text x="238.9" y="469.8" font-size="14" fill="#3a3226" textLength="57.5" lengthAdjust="spacing">cântarăm</text>
+<text x="400.9" y="469.8" font-size="14" fill="#3a3226" textLength="59.5" lengthAdjust="spacing">apărurăm</text>
+<text x="562.8" y="469.8" font-size="14" fill="#3a3226" textLength="61.5" lengthAdjust="spacing">merserăm</text>
+<text x="726.1" y="469.8" font-size="14" fill="#3a3226" textLength="60.9" lengthAdjust="spacing">dormirăm</text>
+<line x1="62.0" y1="480.0" x2="838.0" y2="480.0" stroke="#e3dccb"/>
+<text x="74.0" y="502.0" font-size="14" fill="#3a3226" textLength="18.3" lengthAdjust="spacing">voi</text>
+<text x="240.8" y="502.0" font-size="14" fill="#3a3226" textLength="53.6" lengthAdjust="spacing">cântarăți</text>
+<text x="402.8" y="502.0" font-size="14" fill="#3a3226" textLength="55.6" lengthAdjust="spacing">apărurăți</text>
+<text x="564.8" y="502.0" font-size="14" fill="#3a3226" textLength="57.5" lengthAdjust="spacing">merserăți</text>
+<text x="728.0" y="502.0" font-size="14" fill="#3a3226" textLength="57.0" lengthAdjust="spacing">dormirăți</text>
+<line x1="62.0" y1="512.2" x2="838.0" y2="512.2" stroke="#e3dccb"/>
+<text x="74.0" y="534.2" font-size="14" fill="#3a3226" textLength="35.4" lengthAdjust="spacing">ei, ele</text>
+<text x="244.9" y="534.2" font-size="14" fill="#3a3226" textLength="45.5" lengthAdjust="spacing">cântară</text>
+<text x="406.9" y="534.2" font-size="14" fill="#3a3226" textLength="47.5" lengthAdjust="spacing">apărură</text>
+<text x="568.8" y="534.2" font-size="14" fill="#3a3226" textLength="49.4" lengthAdjust="spacing">merseră</text>
+<text x="732.1" y="534.2" font-size="14" fill="#3a3226" textLength="48.9" lengthAdjust="spacing">dormiră</text>
+<line x1="62.0" y1="544.4" x2="838.0" y2="544.4" stroke="#e3dccb"/>
+<line x1="186.2" y1="319.6" x2="186.2" y2="544.4" stroke="#e3dccb"/>
+<line x1="349.1" y1="319.6" x2="349.1" y2="544.4" stroke="#e3dccb"/>
+<line x1="512.1" y1="319.6" x2="512.1" y2="544.4" stroke="#e3dccb"/>
+<line x1="675.0" y1="319.6" x2="675.0" y2="544.4" stroke="#e3dccb"/>
+<rect x="62.0" y="558.4" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="558.4" width="6" height="82.7" rx="3" fill="#b4432c"/><text x="84.0" y="584.9" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="603.8" font-size="14.5" fill="#3a3226" textLength="129.9" lengthAdjust="spacing">Verbele terminate în</text>
+<text x="217.8" y="603.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="9.6" lengthAdjust="spacing">-i</text>
+<text x="227.4" y="603.8" font-size="14.5" fill="#3a3226" textLength="97.7" lengthAdjust="spacing">: persoana I are</text>
+<text x="329.0" y="603.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="30.0" lengthAdjust="spacing">doi i</text>
+<text x="363.0" y="603.8" font-size="14.5" fill="#3a3226" textLength="4.3" lengthAdjust="spacing">(</text>
+<text x="367.3" y="603.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="60.0" lengthAdjust="spacing">eu dormii</text>
+<text x="427.3" y="603.8" font-size="14.5" fill="#3a3226" textLength="134.4" lengthAdjust="spacing">), persoana a III-a are</text>
+<text x="565.7" y="603.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="25.8" lengthAdjust="spacing">un i</text>
+<text x="595.4" y="603.8" font-size="14.5" fill="#3a3226" textLength="4.3" lengthAdjust="spacing">(</text>
+<text x="599.7" y="603.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="51.9" lengthAdjust="spacing">el dormi</text>
+<text x="651.7" y="603.8" font-size="14.5" fill="#3a3226" textLength="53.3" lengthAdjust="spacing">). Verbul</text>
+<text x="708.9" y="603.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="45.7" lengthAdjust="spacing">a pustii</text>
+<text x="758.5" y="603.8" font-size="14.5" fill="#3a3226" textLength="48.1" lengthAdjust="spacing">are trei:</text>
+<text x="84.0" y="624.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="56.8" lengthAdjust="spacing">eu pustiii</text>
+<text x="140.8" y="624.8" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<rect x="40" y="679.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="702.1" font-size="16" font-weight="700" fill="#ffffff">2. MAI-MULT-CA-PERFECTUL</text>
+<rect x="40" y="713.1" width="820" height="475.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="747.1" font-size="16" fill="#10233f" font-weight="700" textLength="167.0" lengthAdjust="spacing">Mai-mult-ca-perfectul</text>
+<text x="233.4" y="747.1" font-size="16" fill="#10233f" textLength="266.7" lengthAdjust="spacing">exprimă o acțiune trecută și terminată</text>
+<text x="504.4" y="747.1" font-size="16" fill="#10233f" font-weight="700" textLength="211.2" lengthAdjust="spacing">înaintea altei acțiuni trecute</text>
+<text x="715.6" y="747.1" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<text x="62.0" y="780.9" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="780.9" font-size="15" fill="#3a3226" textLength="189.8" lengthAdjust="spacing">În narațiune arată acțiuni din</text>
+<text x="268.0" y="780.9" font-size="15" fill="#3a3226" font-weight="700" textLength="84.5" lengthAdjust="spacing">plan secund</text>
+<text x="352.4" y="780.9" font-size="15" fill="#3a3226" textLength="151.2" lengthAdjust="spacing">, mai puțin importante:</text>
+<text x="507.7" y="780.9" font-size="15" fill="#10233f" font-style="italic" textLength="328.5" lengthAdjust="spacing">Scufița, după ce pregătise un coș cu merinde, plecă</text>
+<text x="74.2" y="802.7" font-size="15" fill="#10233f" font-style="italic" textLength="77.7" lengthAdjust="spacing">spre bunica.</text>
+<text x="62.0" y="827.4" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="827.4" font-size="15" fill="#3a3226" textLength="178.2" lengthAdjust="spacing">Se recunoaște după grupul</text>
+<text x="256.4" y="827.4" font-size="15" fill="#3a3226" font-weight="700" textLength="26.7" lengthAdjust="spacing">-se-</text>
+<text x="283.1" y="827.4" font-size="15" fill="#3a3226" textLength="327.6" lengthAdjust="spacing">, așezat după sunetul care indică perfectul simplu.</text>
+<rect x="62.0" y="845.9" width="776.0" height="31.6" fill="#efeaf8"/>
+
+<text x="239.9" y="867.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="55.6" lengthAdjust="spacing">(a) cânta</text>
+<text x="398.7" y="867.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="64.0" lengthAdjust="spacing">(a) apărea</text>
+<text x="562.7" y="867.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="61.8" lengthAdjust="spacing">(a) merge</text>
+<text x="727.0" y="867.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="59.3" lengthAdjust="spacing">(a) dormi</text>
+<line x1="62.0" y1="877.5" x2="838.0" y2="877.5" stroke="#e3dccb"/>
+<text x="74.0" y="899.5" font-size="14" fill="#3a3226" textLength="15.3" lengthAdjust="spacing">eu</text>
+<text x="238.3" y="899.5" font-size="14" fill="#3a3226" textLength="58.7" lengthAdjust="spacing">cântasem</text>
+<text x="400.3" y="899.5" font-size="14" fill="#3a3226" textLength="60.6" lengthAdjust="spacing">apărusem</text>
+<text x="562.3" y="899.5" font-size="14" fill="#3a3226" textLength="62.6" lengthAdjust="spacing">mersesem</text>
+<text x="725.5" y="899.5" font-size="14" fill="#3a3226" textLength="62.0" lengthAdjust="spacing">dormisem</text>
+<line x1="62.0" y1="909.7" x2="838.0" y2="909.7" stroke="#e3dccb"/>
+<text x="74.0" y="931.7" font-size="14" fill="#3a3226" textLength="12.7" lengthAdjust="spacing">tu</text>
+<text x="239.7" y="931.7" font-size="14" fill="#3a3226" textLength="55.9" lengthAdjust="spacing">cântaseși</text>
+<text x="401.7" y="931.7" font-size="14" fill="#3a3226" textLength="57.8" lengthAdjust="spacing">apăruseși</text>
+<text x="563.7" y="931.7" font-size="14" fill="#3a3226" textLength="59.8" lengthAdjust="spacing">merseseși</text>
+<text x="726.9" y="931.7" font-size="14" fill="#3a3226" textLength="59.2" lengthAdjust="spacing">dormiseși</text>
+<line x1="62.0" y1="941.9" x2="838.0" y2="941.9" stroke="#e3dccb"/>
+<text x="74.0" y="963.9" font-size="14" fill="#3a3226" textLength="31.9" lengthAdjust="spacing">el, ea</text>
+<text x="244.3" y="963.9" font-size="14" fill="#3a3226" textLength="46.6" lengthAdjust="spacing">cântase</text>
+<text x="406.3" y="963.9" font-size="14" fill="#3a3226" textLength="48.6" lengthAdjust="spacing">apăruse</text>
+<text x="568.3" y="963.9" font-size="14" fill="#3a3226" textLength="50.5" lengthAdjust="spacing">mersese</text>
+<text x="731.5" y="963.9" font-size="14" fill="#3a3226" textLength="50.0" lengthAdjust="spacing">dormise</text>
+<line x1="62.0" y1="974.1" x2="838.0" y2="974.1" stroke="#e3dccb"/>
+<text x="74.0" y="996.1" font-size="14" fill="#3a3226" textLength="19.6" lengthAdjust="spacing">noi</text>
+<text x="232.3" y="996.1" font-size="14" fill="#3a3226" textLength="70.7" lengthAdjust="spacing">cântaserăm</text>
+<text x="394.3" y="996.1" font-size="14" fill="#3a3226" textLength="72.7" lengthAdjust="spacing">apăruserăm</text>
+<text x="556.2" y="996.1" font-size="14" fill="#3a3226" textLength="74.6" lengthAdjust="spacing">merseserăm</text>
+<text x="719.5" y="996.1" font-size="14" fill="#3a3226" textLength="74.1" lengthAdjust="spacing">dormiserăm</text>
+<line x1="62.0" y1="1006.3" x2="838.0" y2="1006.3" stroke="#e3dccb"/>
+<text x="74.0" y="1028.3" font-size="14" fill="#3a3226" textLength="18.3" lengthAdjust="spacing">voi</text>
+<text x="234.2" y="1028.3" font-size="14" fill="#3a3226" textLength="66.8" lengthAdjust="spacing">cântaserăți</text>
+<text x="396.2" y="1028.3" font-size="14" fill="#3a3226" textLength="68.7" lengthAdjust="spacing">apăruserăți</text>
+<text x="558.2" y="1028.3" font-size="14" fill="#3a3226" textLength="70.7" lengthAdjust="spacing">merseserăți</text>
+<text x="721.5" y="1028.3" font-size="14" fill="#3a3226" textLength="70.1" lengthAdjust="spacing">dormiserăți</text>
+<line x1="62.0" y1="1038.5" x2="838.0" y2="1038.5" stroke="#e3dccb"/>
+<text x="74.0" y="1060.5" font-size="14" fill="#3a3226" textLength="35.4" lengthAdjust="spacing">ei, ele</text>
+<text x="238.3" y="1060.5" font-size="14" fill="#3a3226" textLength="58.7" lengthAdjust="spacing">cântaseră</text>
+<text x="400.3" y="1060.5" font-size="14" fill="#3a3226" textLength="60.6" lengthAdjust="spacing">apăruseră</text>
+<text x="562.3" y="1060.5" font-size="14" fill="#3a3226" textLength="62.6" lengthAdjust="spacing">merseseră</text>
+<text x="725.5" y="1060.5" font-size="14" fill="#3a3226" textLength="62.0" lengthAdjust="spacing">dormiseră</text>
+<line x1="62.0" y1="1070.7" x2="838.0" y2="1070.7" stroke="#e3dccb"/>
+<line x1="186.2" y1="845.9" x2="186.2" y2="1070.7" stroke="#e3dccb"/>
+<line x1="349.1" y1="845.9" x2="349.1" y2="1070.7" stroke="#e3dccb"/>
+<line x1="512.1" y1="845.9" x2="512.1" y2="1070.7" stroke="#e3dccb"/>
+<line x1="675.0" y1="845.9" x2="675.0" y2="1070.7" stroke="#e3dccb"/>
+<rect x="62.0" y="1084.7" width="776.0" height="85.6" rx="12" fill="#f3efe4"/><rect x="62.0" y="1084.7" width="6" height="85.6" rx="3" fill="#b4432c"/><text x="84.0" y="1111.2" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="1130.0" font-size="14.5" fill="#3a3226" textLength="235.5" lengthAdjust="spacing">Persoana a II-a singular se termină în</text>
+<text x="323.4" y="1130.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="16.2" lengthAdjust="spacing">-și</text>
+<text x="339.6" y="1130.0" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">:</text>
+<text x="346.7" y="1130.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="63.8" lengthAdjust="spacing">începuseși</text>
+<text x="410.5" y="1130.0" font-size="14.5" fill="#3a3226" textLength="23.6" lengthAdjust="spacing">, nu</text>
+<text x="438.1" y="1130.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="58.0" lengthAdjust="spacing">începusei</text>
+<text x="496.1" y="1130.0" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="84.0" y="1153.9" font-size="14.5" fill="#3a3226" textLength="242.2" lengthAdjust="spacing">La persoanele I și a II-a plural, formele</text>
+<text x="330.1" y="1153.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="56.3" lengthAdjust="spacing">fără -ră-</text>
+<text x="390.2" y="1153.9" font-size="14.5" fill="#3a3226" textLength="77.9" lengthAdjust="spacing">sunt greșite:</text>
+<text x="472.0" y="1153.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="73.2" lengthAdjust="spacing">cântaserăm</text>
+<text x="545.2" y="1153.9" font-size="14.5" fill="#3a3226" textLength="23.6" lengthAdjust="spacing">, nu</text>
+<text x="572.8" y="1153.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="60.2" lengthAdjust="spacing">cântasem</text>
+<text x="636.9" y="1153.9" font-size="14.5" fill="#3a3226" textLength="78.7" lengthAdjust="spacing">(pentru noi).</text>
+<text x="267.8" y="1219.8" font-size="11.5" fill="#5b6b83" textLength="364.3" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 68-69, rubricile Repere și tabelele de conjugare.</text>
 </svg>

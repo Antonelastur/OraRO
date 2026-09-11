@@ -1,48 +1,106 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 430" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="980" height="430" fill="#faf7f0"/>
-  <text x="490" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Tot ce am învățat despre limbă în Unitatea I</text>
-  <text x="490" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 18 · Recapitulare, gramatică și vocabular</text>
-
-  <g>
-    <rect x="36" y="100" width="296" height="140" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-    <rect x="36" y="100" width="296" height="34" rx="16" fill="#3b5fa8"/>
-    <rect x="36" y="120" width="296" height="14" fill="#3b5fa8"/>
-    <text x="184" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">GRAMATICĂ</text>
-    <text x="58" y="160" font-size="13" font-weight="700" fill="#10233f">Propoziția</text>
-    <text x="58" y="182" font-size="12" fill="#3d4a5f">simplă sau dezvoltată</text>
-    <text x="58" y="202" font-size="12" fill="#3d4a5f">afirmativă sau negativă</text>
-    <text x="58" y="224" font-size="12" fill="#3d4a5f">subiect și predicat</text>
-  </g>
-
-  <g>
-    <rect x="348" y="100" width="296" height="140" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
-    <rect x="348" y="100" width="296" height="34" rx="16" fill="#a1417e"/>
-    <rect x="348" y="120" width="296" height="14" fill="#a1417e"/>
-    <text x="496" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">VOCABULAR</text>
-    <text x="370" y="160" font-size="13" font-weight="700" fill="#10233f">Relații între cuvinte</text>
-    <text x="370" y="182" font-size="12" fill="#3d4a5f">sinonime, sens asemănător</text>
-    <text x="370" y="202" font-size="12" fill="#3d4a5f">antonime, sens opus</text>
-    <text x="370" y="224" font-size="12" fill="#3d4a5f">câmp lexical, aceeași idee</text>
-  </g>
-
-  <g>
-    <rect x="660" y="100" width="284" height="140" rx="16" fill="#ffffff" stroke="#0a7d75" stroke-width="2.5"/>
-    <rect x="660" y="100" width="284" height="34" rx="16" fill="#0a7d75"/>
-    <rect x="660" y="120" width="284" height="14" fill="#0a7d75"/>
-    <text x="802" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">FONETICĂ</text>
-    <text x="682" y="160" font-size="13" font-weight="700" fill="#10233f">Sunetul și silaba</text>
-    <text x="682" y="182" font-size="12" fill="#3d4a5f">vocale, consoane, semivocale</text>
-    <text x="682" y="202" font-size="12" fill="#3d4a5f">o silabă are o singură vocală</text>
-    <text x="682" y="224" font-size="12" fill="#3d4a5f">accentul, după DOOM3</text>
-  </g>
-
-  <rect x="36" y="262" width="908" height="76" rx="16" fill="#fef8e9" stroke="#b8944f" stroke-width="2.5"/>
-  <text x="60" y="288" font-size="13" font-weight="700" fill="#10233f">Capcanele care se cer cel mai des la test</text>
-  <text x="60" y="311" font-size="12" fill="#3d4a5f">Ana citește o carte, e propoziție dezvoltată, nu simplă · vesel și trist sunt antonime, nu doar cuvinte diferite</text>
-  <text x="60" y="331" font-size="12" fill="#3d4a5f">emoție are patru silabe, e-mo-ți-e · ácele și acéle se scriu la fel, dar accentul le schimbă sensul</text>
-
-  <rect x="36" y="356" width="908" height="52" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
-  <text x="60" y="381" font-size="13" font-weight="700" fill="#10233f">La redactare:</text>
-  <text x="168" y="381" font-size="12.5" fill="#3d4a5f">respect etapele scrierii, structura introducere, cuprins, încheiere, și recitesc înainte să predau.</text>
-  <text x="60" y="400" font-size="12" font-style="italic" fill="#5b6b83">Un text bun nu e cel scris repede, ci cel recitit măcar o dată.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1095" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1095" fill="#faf7f0"/>
+<text x="181.2" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="539.0" lengthAdjust="spacing">Recapitulare. Limba română în Unitatea I</text>
+<text x="226.2" y="74.4" font-size="14" fill="#5b6b83" textLength="447.6" lengthAdjust="spacing">Clasa a V-a · Unitatea I, Lecția 18 · Manual, pp. 24-37 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. PROPOZIȚIA</text>
+<rect x="40" y="128.6" width="820" height="188.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" textLength="194.5" lengthAdjust="spacing">Propoziția = o comunicare cu</text>
+<text x="260.6" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="129.2" lengthAdjust="spacing">un singur predicat</text>
+<text x="389.7" y="161.6" font-size="15" fill="#3a3226" textLength="380.4" lengthAdjust="spacing">. Subiectul se subliniază cu două linii, predicatul cu o linie:</text>
+<text x="774.2" y="161.6" font-size="15" fill="#10233f" font-style="italic" textLength="35.0" lengthAdjust="spacing">Ilinca</text>
+<line x1="774.2" y1="165.1" x2="809.1" y2="165.1" stroke="#10233f" stroke-width="1.4"/>
+<line x1="774.2" y1="168.6" x2="809.1" y2="168.6" stroke="#10233f" stroke-width="1.4"/>
+<text x="62.0" y="183.3" font-size="15" fill="#10233f" font-style="italic" textLength="40.8" lengthAdjust="spacing">citește</text>
+<line x1="62.0" y1="186.8" x2="102.8" y2="186.8" stroke="#10233f" stroke-width="1.4"/>
+<text x="102.8" y="183.3" font-size="15" fill="#10233f" font-style="italic" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="201.8" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="223.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="51.3" lengthAdjust="spacing">Criteriul</text>
+<text x="291.3" y="223.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="37.5" lengthAdjust="spacing">Tipuri</text>
+<text x="477.5" y="223.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="233.4" x2="838.0" y2="233.4" stroke="#e3dccb"/>
+<text x="74.0" y="255.9" font-size="14.5" fill="#3a3226" textLength="90.9" lengthAdjust="spacing">după alcătuire</text>
+<text x="291.3" y="255.9" font-size="14.5" fill="#3a3226" textLength="121.2" lengthAdjust="spacing">simplă / dezvoltată</text>
+<text x="477.5" y="255.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="221.1" lengthAdjust="spacing">Ilinca citește. / Ilinca citește o carte.</text>
+<line x1="62.0" y1="266.2" x2="838.0" y2="266.2" stroke="#e3dccb"/>
+<text x="74.0" y="288.8" font-size="14.5" fill="#3a3226" textLength="169.2" lengthAdjust="spacing">după aspectul predicatului</text>
+<text x="291.3" y="288.8" font-size="14.5" fill="#3a3226" textLength="131.1" lengthAdjust="spacing">afirmativă / negativă</text>
+<text x="477.5" y="288.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="228.4" lengthAdjust="spacing">Cățelul a lătrat. / Cățelul nu a lătrat.</text>
+<line x1="62.0" y1="299.1" x2="838.0" y2="299.1" stroke="#e3dccb"/>
+<line x1="279.3" y1="201.8" x2="279.3" y2="299.1" stroke="#e3dccb"/>
+<line x1="465.5" y1="201.8" x2="465.5" y2="299.1" stroke="#e3dccb"/>
+<rect x="40" y="337.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="360.1" font-size="16" font-weight="700" fill="#ffffff">2. VOCABULARUL</text>
+<rect x="40" y="371.1" width="820" height="252.8" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="389.1" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="410.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="59.0" lengthAdjust="spacing">Noțiunea</text>
+<text x="229.2" y="410.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="49.4" lengthAdjust="spacing">Ce rețin</text>
+<text x="601.7" y="410.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="420.7" x2="838.0" y2="420.7" stroke="#e3dccb"/>
+<text x="74.0" y="443.2" font-size="14.5" fill="#3a3226" textLength="54.2" lengthAdjust="spacing">cuvântul</text>
+<text x="229.2" y="443.2" font-size="14.5" fill="#3a3226" textLength="20.0" lengthAdjust="spacing">are</text>
+<text x="253.1" y="443.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="29.4" lengthAdjust="spacing">sens</text>
+<text x="286.5" y="443.2" font-size="14.5" fill="#3a3226" textLength="9.6" lengthAdjust="spacing">și</text>
+<text x="300.0" y="443.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="41.3" lengthAdjust="spacing">formă</text>
+<text x="345.2" y="443.2" font-size="14.5" fill="#3a3226" textLength="195.3" lengthAdjust="spacing">(sunete); sensul se stabilește în</text>
+<text x="229.2" y="464.2" font-size="14.5" fill="#3a3226" textLength="47.6" lengthAdjust="spacing">context</text>
+<text x="601.7" y="443.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="29.3" lengthAdjust="spacing">liliac</text>
+<text x="634.9" y="443.2" font-size="14.5" fill="#3a3226" textLength="105.0" lengthAdjust="spacing">(arbust / animal)</text>
+<line x1="62.0" y1="474.5" x2="838.0" y2="474.5" stroke="#e3dccb"/>
+<text x="74.0" y="497.0" font-size="14.5" fill="#3a3226" textLength="69.2" lengthAdjust="spacing">sinonimele</text>
+<text x="229.2" y="497.0" font-size="14.5" fill="#3a3226" textLength="273.5" lengthAdjust="spacing">formă diferită, sens asemănător sau identic</text>
+<text x="601.7" y="497.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="101.2" lengthAdjust="spacing">veselă – voioasă</text>
+<line x1="62.0" y1="507.4" x2="838.0" y2="507.4" stroke="#e3dccb"/>
+<text x="74.0" y="529.9" font-size="14.5" fill="#3a3226" textLength="71.9" lengthAdjust="spacing">antonimele</text>
+<text x="229.2" y="529.9" font-size="14.5" fill="#3a3226" textLength="157.3" lengthAdjust="spacing">formă diferită, sens opus</text>
+<text x="601.7" y="529.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="70.3" lengthAdjust="spacing">mare – mic</text>
+<line x1="62.0" y1="540.2" x2="838.0" y2="540.2" stroke="#e3dccb"/>
+<text x="74.0" y="562.7" font-size="14.5" fill="#3a3226" textLength="89.5" lengthAdjust="spacing">câmpul lexical</text>
+<text x="229.2" y="562.7" font-size="14.5" fill="#3a3226" textLength="262.4" lengthAdjust="spacing">cuvinte care se raportează la aceeași idee</text>
+<text x="601.7" y="562.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="150.2" lengthAdjust="spacing">mamă, tată, frate, bunic</text>
+<line x1="62.0" y1="573.1" x2="838.0" y2="573.1" stroke="#e3dccb"/>
+<text x="74.0" y="595.6" font-size="14.5" fill="#3a3226" textLength="68.2" lengthAdjust="spacing">dicționarul</text>
+<text x="229.2" y="595.6" font-size="14.5" fill="#3a3226" textLength="313.1" lengthAdjust="spacing">cuvinte în ordine alfabetică; DEX explică sensurile</text>
+<text x="601.7" y="595.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="148.2" lengthAdjust="spacing">vocală, vocalic, vocaliza</text>
+<line x1="62.0" y1="605.9" x2="838.0" y2="605.9" stroke="#e3dccb"/>
+<line x1="217.2" y1="389.1" x2="217.2" y2="605.9" stroke="#e3dccb"/>
+<line x1="589.7" y1="389.1" x2="589.7" y2="605.9" stroke="#e3dccb"/>
+<rect x="40" y="643.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="666.9" font-size="16" font-weight="700" fill="#ffffff">3. SUNETE, LITERE, SILABE</text>
+<rect x="40" y="677.9" width="820" height="231.8" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="695.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="717.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="59.0" lengthAdjust="spacing">Noțiunea</text>
+<text x="229.2" y="717.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="49.4" lengthAdjust="spacing">Ce rețin</text>
+<text x="601.7" y="717.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="727.5" x2="838.0" y2="727.5" stroke="#e3dccb"/>
+<text x="74.0" y="750.0" font-size="14.5" fill="#3a3226" textLength="51.6" lengthAdjust="spacing">vocalele</text>
+<text x="229.2" y="750.0" font-size="14.5" fill="#3a3226" textLength="167.9" lengthAdjust="spacing">pot forma singure o silabă</text>
+<text x="601.7" y="750.0" font-size="14.5" fill="#3a3226" textLength="149.6" lengthAdjust="spacing">[a], [ă], [î], [e], [i], [o], [u]</text>
+<line x1="62.0" y1="760.3" x2="838.0" y2="760.3" stroke="#e3dccb"/>
+<text x="74.0" y="782.8" font-size="14.5" fill="#3a3226" textLength="72.4" lengthAdjust="spacing">consoanele</text>
+<text x="229.2" y="782.8" font-size="14.5" fill="#3a3226" textLength="225.0" lengthAdjust="spacing">se pronunță cu ajutorul unei vocale</text>
+<text x="601.7" y="782.8" font-size="14.5" fill="#3a3226" textLength="102.4" lengthAdjust="spacing">[b], [d], [m], [s]…</text>
+<line x1="62.0" y1="793.2" x2="838.0" y2="793.2" stroke="#e3dccb"/>
+<text x="74.0" y="815.7" font-size="14.5" fill="#3a3226" textLength="81.2" lengthAdjust="spacing">semivocalele</text>
+<text x="229.2" y="815.7" font-size="14.5" fill="#3a3226" textLength="346.8" lengthAdjust="spacing">seamănă cu vocalele, dar nu formează singure o silabă</text>
+<text x="601.7" y="815.7" font-size="14.5" fill="#3a3226" textLength="84.0" lengthAdjust="spacing">[ĕ], [ĭ], [ŏ], [ŭ]</text>
+<line x1="62.0" y1="826.0" x2="838.0" y2="826.0" stroke="#e3dccb"/>
+<text x="74.0" y="848.5" font-size="14.5" fill="#3a3226" textLength="36.4" lengthAdjust="spacing">silaba</text>
+<text x="229.2" y="848.5" font-size="14.5" fill="#3a3226" textLength="339.0" lengthAdjust="spacing">o vocală sau un grup de sunete care conține o vocală</text>
+<text x="601.7" y="848.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="37.0" lengthAdjust="spacing">car-te</text>
+<line x1="62.0" y1="858.9" x2="838.0" y2="858.9" stroke="#e3dccb"/>
+<text x="74.0" y="881.4" font-size="14.5" fill="#3a3226" textLength="53.2" lengthAdjust="spacing">accentul</text>
+<text x="229.2" y="881.4" font-size="14.5" fill="#3a3226" textLength="239.7" lengthAdjust="spacing">pronunțarea mai intensă a unei silabe</text>
+<text x="601.7" y="881.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="79.5" lengthAdjust="spacing">ácele – acéle</text>
+<line x1="62.0" y1="891.7" x2="838.0" y2="891.7" stroke="#e3dccb"/>
+<line x1="217.2" y1="695.9" x2="217.2" y2="891.7" stroke="#e3dccb"/>
+<line x1="589.7" y1="695.9" x2="589.7" y2="891.7" stroke="#e3dccb"/>
+<rect x="40" y="929.7" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="952.7" font-size="16" font-weight="700" fill="#ffffff">4. SCRIEREA</text>
+<rect x="40" y="963.7" width="820" height="80.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="996.7" font-size="15" fill="#3a3226" textLength="98.1" lengthAdjust="spacing">Etapele scrierii:</text>
+<text x="164.2" y="996.7" font-size="15" fill="#3a3226" font-weight="700" textLength="402.6" lengthAdjust="spacing">pregătirea → ciorna → revizuirea → editarea → publicarea</text>
+<text x="566.8" y="996.7" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="1021.5" font-size="15" fill="#3a3226" textLength="560.8" lengthAdjust="spacing">Textul are introducere, cuprins și încheiere; fiecare idee nouă începe un paragraf nou.</text>
+<text x="165.1" y="1075.5" font-size="11.5" fill="#5b6b83" textLength="569.7" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 24-37, rubricile Repere ale lecțiilor 9-16. Unele exemple sunt create pentru aceste notițe.</text>
 </svg>

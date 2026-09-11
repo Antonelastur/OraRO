@@ -140,7 +140,7 @@ export default {
     tipOra: 'Comunicare orală',
     durata: 50,
     obiective: ['Exprimă adecvat emoțiile și identifică rolurile de vorbitor și ascultător în comunicare.'],
-    resurse: ['Manual Art 5, pp. 22-23', 'Schema „Comunicare verbală, nonverbală, paraverbală” (/materiale/clasa-5/unitatea-1/lectia-8/schema.svg)', 'Quizul cu același titlu (materialul de joc al lecției)'],
+    resurse: ['Manual Art 5, pp. 22-23', 'Schema „Exprimarea adecvată a emoțiilor. Roluri în comunicare” (/materiale/clasa-5/unitatea-1/lectia-8/schema.svg)', 'Quizul cu același titlu (materialul de joc al lecției)'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le cer elevilor să exprime o emoție doar prin gesturi și mimică, iar colegii ghicesc emoția.' },
@@ -208,7 +208,7 @@ export default {
     tipOra: 'Predare, vocabular',
     durata: 50,
     obiective: ['Definește câmpul lexical și grupează termeni după trăsături de sens comune.'],
-    resurse: ['Manual Art 5, pp. 30-31', 'Schema „Câmpul lexical, exemplu” (/materiale/clasa-5/unitatea-1/lectia-12/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 5, pp. 30-31', 'Schema „Câmpul lexical” (/materiale/clasa-5/unitatea-1/lectia-12/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '6 min', activitate: 'Le cer elevilor să spună cât mai multe cuvinte legate de un subiect dat, de exemplu școala, și le grupez pe tablă.' },
@@ -225,7 +225,7 @@ export default {
     tipOra: 'Predare, fonetică',
     durata: 50,
     obiective: ['Diferențiază vocalele, consoanele și semivocalele, corespondența sunet-literă.'],
-    resurse: ['Manual Art 5, pp. 32-33', 'Schema „Vocale, consoane, semivocale” (/materiale/clasa-5/unitatea-1/lectia-13/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 5, pp. 32-33', 'Schema „Tipurile de sunete” (/materiale/clasa-5/unitatea-1/lectia-13/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '6 min', activitate: 'Le cer elevilor să pronunțe rar câteva cuvinte și să observe ce sunete se aud și cum se formează.' },

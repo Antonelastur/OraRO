@@ -1,139 +1,125 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1580" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="1580" fill="#faf7f0"/>
-
-  <text x="450" y="52" text-anchor="middle" font-size="28" font-weight="700" fill="#10233f">Propoziția. Tipuri de propoziții</text>
-  <text x="450" y="80" text-anchor="middle" font-size="14" fill="#5b6b83">Clasa a V-a · Unitatea I, Lecția 9 · Manual, pp. 24-25 · notițe pentru caiet</text>
-
-  <!-- 1. Propoziția -->
-  <rect x="40" y="104" width="820" height="34" rx="10" fill="#6f5ea8"/>
-  <text x="58" y="127" font-size="16" font-weight="700" fill="#ffffff">1. PROPOZIȚIA</text>
-  <rect x="40" y="138" width="820" height="150" fill="#ffffff" stroke="#e3dccb"/>
-  <text x="62" y="172" font-size="18" fill="#10233f"><tspan font-weight="700">Propoziția</tspan> este o comunicare cu un singur predicat.</text>
-  <text x="62" y="202" font-size="15.5" fill="#3a3226"><tspan font-weight="700">Reține:</tspan> câte predicate, atâtea propoziții.</text>
-  <text x="62" y="238" font-size="16" font-style="italic" fill="#10233f">Alex întârzie. A rămas la școală. Lucrează la proiect.</text>
-  <text x="62" y="266" font-size="14" fill="#0d9c92">3 predicate (întârzie, a rămas, lucrează) → 3 propoziții</text>
-
-  <!-- 2. Părțile de propoziție -->
-  <rect x="40" y="308" width="820" height="34" rx="10" fill="#6f5ea8"/>
-  <text x="58" y="331" font-size="16" font-weight="700" fill="#ffffff">2. PĂRȚILE DE PROPOZIȚIE</text>
-  <rect x="40" y="342" width="820" height="230" fill="#ffffff" stroke="#e3dccb"/>
-
-  <rect x="60" y="358" width="380" height="128" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="76" y="382" font-size="15" font-weight="700" fill="#6f5ea8">PRINCIPALE</text>
-  <text x="76" y="402" font-size="13.5" fill="#5b6b83">suficiente pentru existența unei propoziții</text>
-  <text x="76" y="428" font-size="14.5" fill="#3a3226">• <tspan font-weight="700">Predicatul</tspan> arată ce face subiectul.</text>
-  <text x="76" y="452" font-size="14.5" fill="#3a3226">• <tspan font-weight="700">Subiectul</tspan> arată cine face acțiunea</text>
-  <text x="88" y="472" font-size="14.5" fill="#3a3226">exprimată de predicat.</text>
-
-  <rect x="460" y="358" width="380" height="128" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="476" y="382" font-size="15" font-weight="700" fill="#0d9c92">SECUNDARE</text>
-  <text x="476" y="402" font-size="13.5" fill="#5b6b83">îmbogățesc sensul propoziției</text>
-  <text x="476" y="436" font-size="16" font-style="italic" fill="#10233f">Ilinca citește o carte.</text>
-  <text x="476" y="462" font-size="13.5" fill="#3a3226">„o carte” este o parte secundară.</text>
-
-  <text x="62" y="516" font-size="14.5" fill="#3a3226"><tspan font-weight="700">În caiet:</tspan> predicatul se subliniază cu o linie, subiectul cu două linii.</text>
-  <text x="62" y="550" font-size="20" font-style="italic" fill="#10233f" textLength="60" lengthAdjust="spacingAndGlyphs">Ilinca</text>
-  <text x="130" y="550" font-size="20" font-style="italic" fill="#10233f" textLength="68" lengthAdjust="spacingAndGlyphs">citește</text>
-  <text x="199" y="550" font-size="20" fill="#10233f">.</text>
-  <line x1="62" y1="556" x2="122" y2="556" stroke="#10233f" stroke-width="1.6"/>
-  <line x1="62" y1="560" x2="122" y2="560" stroke="#10233f" stroke-width="1.6"/>
-  <line x1="130" y1="557" x2="198" y2="557" stroke="#10233f" stroke-width="1.6"/>
-  <text x="222" y="550" font-size="13.5" fill="#5b6b83">subiect: Ilinca (două linii) · predicat: citește (o linie)</text>
-
-  <!-- 3. Tipuri de propoziții -->
-  <rect x="40" y="592" width="820" height="34" rx="10" fill="#6f5ea8"/>
-  <text x="58" y="615" font-size="16" font-weight="700" fill="#ffffff">3. TIPURI DE PROPOZIȚII</text>
-  <rect x="40" y="626" width="820" height="332" fill="#ffffff" stroke="#e3dccb"/>
-
-  <text x="250" y="656" text-anchor="middle" font-size="15" font-weight="700" fill="#10233f">DUPĂ ALCĂTUIRE</text>
-  <text x="650" y="656" text-anchor="middle" font-size="15" font-weight="700" fill="#10233f">DUPĂ ASPECTUL PREDICATULUI</text>
-
-  <rect x="60" y="668" width="380" height="82" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="76" y="692" font-size="16" font-weight="700" fill="#0d9c92">simplă</text>
-  <text x="76" y="714" font-size="13.5" fill="#3a3226">alcătuită din predicat și subiect</text>
-  <text x="76" y="738" font-size="15" font-style="italic" fill="#10233f">Ex.: Ilinca citește.</text>
-
-  <rect x="60" y="760" width="380" height="82" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="76" y="784" font-size="16" font-weight="700" fill="#0d9c92">dezvoltată</text>
-  <text x="76" y="806" font-size="13.5" fill="#3a3226">în alcătuirea ei intră cel puțin o parte secundară</text>
-  <text x="76" y="830" font-size="15" font-style="italic" fill="#10233f">Ex.: Ilinca citește o carte.</text>
-
-  <rect x="60" y="852" width="380" height="92" rx="12" fill="#f3efe4"/>
-  <text x="76" y="876" font-size="14" font-weight="700" fill="#10233f">Din simplă în dezvoltată:</text>
-  <text x="76" y="897" font-size="14" fill="#3a3226">adaug cel puțin o parte secundară.</text>
-  <text x="76" y="925" font-size="14.5" font-style="italic" fill="#10233f">Ilinca citește. → Ilinca citește o carte seara.</text>
-
-  <rect x="460" y="668" width="380" height="82" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="476" y="692" font-size="16" font-weight="700" fill="#6f5ea8">afirmativă</text>
-  <text x="476" y="714" font-size="13.5" fill="#3a3226">verbul cu rol de predicat e la forma afirmativă</text>
-  <text x="476" y="738" font-size="15" font-style="italic" fill="#10233f">Ex.: Cățelul a lătrat.</text>
-
-  <rect x="460" y="760" width="380" height="82" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="476" y="784" font-size="16" font-weight="700" fill="#6f5ea8">negativă</text>
-  <text x="476" y="806" font-size="13.5" fill="#3a3226">verbul cu rol de predicat e la forma negativă</text>
-  <text x="476" y="830" font-size="15" font-style="italic" fill="#10233f">Ex.: Cățelul nu a lătrat.</text>
-
-  <rect x="460" y="852" width="380" height="92" rx="12" fill="#f3efe4"/>
-  <text x="476" y="876" font-size="14" font-weight="700" fill="#10233f">Din afirmativă în negativă:</text>
-  <text x="476" y="897" font-size="14" fill="#3a3226">pun „nu” înaintea verbului cu rol de predicat.</text>
-  <text x="476" y="925" font-size="14.5" font-style="italic" fill="#10233f">Vorbesc cu Ilinca. → Nu vorbesc cu Ilinca.</text>
-
-  <!-- 4. Felul unei propoziții -->
-  <rect x="40" y="978" width="820" height="34" rx="10" fill="#6f5ea8"/>
-  <text x="58" y="1001" font-size="16" font-weight="700" fill="#ffffff">4. CUM SPUN FELUL UNEI PROPOZIȚII</text>
-  <rect x="40" y="1012" width="820" height="208" fill="#ffffff" stroke="#e3dccb"/>
-
-  <rect x="60" y="1028" width="780" height="32" fill="#efeaf8"/>
-  <text x="76" y="1049" font-size="13.5" font-weight="700" fill="#10233f">Propoziția</text>
-  <text x="530" y="1049" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">după alcătuire</text>
-  <text x="740" y="1049" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">după aspectul predicatului</text>
-  <line x1="420" y1="1028" x2="420" y2="1188" stroke="#e3dccb"/>
-  <line x1="640" y1="1028" x2="640" y2="1188" stroke="#e3dccb"/>
-  <line x1="60" y1="1092" x2="840" y2="1092" stroke="#e3dccb"/>
-  <line x1="60" y1="1124" x2="840" y2="1124" stroke="#e3dccb"/>
-  <line x1="60" y1="1156" x2="840" y2="1156" stroke="#e3dccb"/>
-  <line x1="60" y1="1188" x2="840" y2="1188" stroke="#e3dccb"/>
-
-  <text x="76" y="1081" font-size="15" font-style="italic" fill="#10233f">Riley zâmbește.</text>
-  <text x="530" y="1081" text-anchor="middle" font-size="14.5" fill="#0d9c92">simplă</text>
-  <text x="740" y="1081" text-anchor="middle" font-size="14.5" fill="#6f5ea8">afirmativă</text>
-
-  <text x="76" y="1113" font-size="15" font-style="italic" fill="#10233f">Ruxi nu a răspuns.</text>
-  <text x="530" y="1113" text-anchor="middle" font-size="14.5" fill="#0d9c92">simplă</text>
-  <text x="740" y="1113" text-anchor="middle" font-size="14.5" fill="#6f5ea8">negativă</text>
-
-  <text x="76" y="1145" font-size="15" font-style="italic" fill="#10233f">Ilinca citește o carte.</text>
-  <text x="530" y="1145" text-anchor="middle" font-size="14.5" fill="#0d9c92">dezvoltată</text>
-  <text x="740" y="1145" text-anchor="middle" font-size="14.5" fill="#6f5ea8">afirmativă</text>
-
-  <text x="76" y="1177" font-size="15" font-style="italic" fill="#10233f">Adi nu vine azi la mine.</text>
-  <text x="530" y="1177" text-anchor="middle" font-size="14.5" fill="#0d9c92">dezvoltată</text>
-  <text x="740" y="1177" text-anchor="middle" font-size="14.5" fill="#6f5ea8">negativă</text>
-
-  <text x="62" y="1208" font-size="13.5" fill="#5b6b83">Răspunsul complet are ambele criterii: „propoziție dezvoltată, negativă”.</text>
-
-  <!-- 5. Ortografia și punctuația -->
-  <rect x="40" y="1240" width="820" height="34" rx="10" fill="#6f5ea8"/>
-  <text x="58" y="1263" font-size="16" font-weight="700" fill="#ffffff">5. ORTOGRAFIA ȘI PUNCTUAȚIA PROPOZIȚIEI</text>
-  <rect x="40" y="1274" width="820" height="248" fill="#ffffff" stroke="#e3dccb"/>
-
-  <text x="62" y="1306" font-size="17" font-weight="700" fill="#6f5ea8">Aa</text>
-  <text x="120" y="1306" font-size="14.5" fill="#3a3226">În scris, propoziția începe cu <tspan font-weight="700">literă mare</tspan>.</text>
-
-  <text x="62" y="1338" font-size="17" font-weight="700" fill="#6f5ea8">. ? !</text>
-  <text x="120" y="1338" font-size="14.5" fill="#3a3226">La final: <tspan font-weight="700">punct</tspan>, <tspan font-weight="700">semnul întrebării</tspan> sau <tspan font-weight="700">semnul exclamării</tspan>.</text>
-
-  <text x="62" y="1370" font-size="17" font-weight="700" fill="#6f5ea8">,</text>
-  <text x="120" y="1370" font-size="14.5" fill="#3a3226"><tspan font-weight="700">Virgula</tspan> se pune după un cuvânt care arată o strigare: <tspan font-style="italic" fill="#10233f">Ruxi, ce faci?</tspan></text>
-  <text x="120" y="1392" font-size="14.5" fill="#3a3226">și între termenii unei enumerări: <tspan font-style="italic" fill="#10233f">cu Luminița, Adi și Marius</tspan></text>
-
-  <text x="62" y="1424" font-size="17" font-weight="700" fill="#6f5ea8">:</text>
-  <text x="120" y="1424" font-size="14.5" fill="#3a3226"><tspan font-weight="700">Două puncte</tspan> se pun înaintea unei enumerări: <tspan font-style="italic" fill="#10233f">Am trei prieteni: Ilinca, Ruxi și Adi.</tspan></text>
-
-  <text x="62" y="1456" font-size="17" font-weight="700" fill="#6f5ea8">—</text>
-  <text x="120" y="1456" font-size="14.5" fill="#3a3226"><tspan font-weight="700">Linia de dialog</tspan> marchează începutul replicii fiecărei persoane:</text>
-  <text x="140" y="1482" font-size="15" font-style="italic" fill="#10233f">— Ruxi, ce faci?</text>
-  <text x="140" y="1506" font-size="15" font-style="italic" fill="#10233f">— Vorbesc cu Ilinca.</text>
-
-  <text x="450" y="1556" text-anchor="middle" font-size="11.5" fill="#5b6b83">Sursa: Manual Art 5, pp. 24-25, rubricile Repere. Unele exemple sunt create pentru aceste notițe.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1628" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1628" fill="#faf7f0"/>
+<text x="248.3" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="404.3" lengthAdjust="spacing">Propoziția. Tipuri de propoziții</text>
+<text x="230.0" y="74.4" font-size="14" fill="#5b6b83" textLength="440.0" lengthAdjust="spacing">Clasa a V-a · Unitatea I, Lecția 9 · Manual, pp. 24-25 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. PROPOZIȚIA</text>
+<rect x="40" y="128.6" width="820" height="160.6" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="164.6" font-size="18" fill="#10233f" font-weight="700" textLength="86.8" lengthAdjust="spacing">Propoziția</text>
+<text x="153.6" y="164.6" font-size="18" fill="#10233f" textLength="321.7" lengthAdjust="spacing">este o comunicare cu un singur predicat.</text>
+<text x="62.0" y="199.5" font-size="15.5" fill="#3a3226" font-weight="700" textLength="50.8" lengthAdjust="spacing">Reține:</text>
+<text x="117.0" y="199.5" font-size="15.5" fill="#3a3226" textLength="219.3" lengthAdjust="spacing">câte predicate, atâtea propoziții.</text>
+<text x="62.0" y="234.1" font-size="16" fill="#10233f" font-style="italic" textLength="357.4" lengthAdjust="spacing">Alex întârzie. A rămas la școală. Lucrează la proiect.</text>
+<text x="62.0" y="266.9" font-size="14" fill="#0d9c92" textLength="328.6" lengthAdjust="spacing">3 predicate (întârzie, a rămas, lucrează) → 3 propoziții</text>
+<rect x="40" y="309.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="332.1" font-size="16" font-weight="700" fill="#ffffff">2. PĂRȚILE DE PROPOZIȚIE</text>
+<rect x="40" y="343.1" width="820" height="239.6" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="361.1" width="380.0" height="130.1" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="78.0" y="389.1" font-size="16" fill="#6f5ea8" font-weight="700" textLength="90.5" lengthAdjust="spacing">PRINCIPALE</text>
+<text x="78.0" y="407.4" font-size="13.5" fill="#5b6b83" textLength="246.4" lengthAdjust="spacing">suficiente pentru existența unei propoziții</text>
+<text x="78.0" y="430.0" font-size="14.5" fill="#3a3226">•</text>
+<text x="89.9" y="430.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="68.9" lengthAdjust="spacing">Predicatul</text>
+<text x="162.7" y="430.0" font-size="14.5" fill="#3a3226" textLength="144.7" lengthAdjust="spacing">arată ce face subiectul.</text>
+<text x="78.0" y="453.9" font-size="14.5" fill="#3a3226">•</text>
+<text x="89.9" y="453.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="63.4" lengthAdjust="spacing">Subiectul</text>
+<text x="157.1" y="453.9" font-size="14.5" fill="#3a3226" textLength="237.4" lengthAdjust="spacing">arată cine face acțiunea exprimată de</text>
+<text x="89.9" y="474.9" font-size="14.5" fill="#3a3226" textLength="55.4" lengthAdjust="spacing">predicat.</text>
+<rect x="458.0" y="361.1" width="380.0" height="130.1" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="474.0" y="389.1" font-size="16" fill="#0d9c92" font-weight="700" textLength="93.4" lengthAdjust="spacing">SECUNDARE</text>
+<text x="474.0" y="407.4" font-size="13.5" fill="#5b6b83" textLength="177.4" lengthAdjust="spacing">îmbogățesc sensul propoziției</text>
+<text x="474.0" y="430.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="127.2" lengthAdjust="spacing">Ilinca citește o carte.</text>
+<text x="474.0" y="453.9" font-size="14.5" fill="#3a3226" textLength="207.4" lengthAdjust="spacing">„o carte” este o parte secundară.</text>
+<text x="62.0" y="520.3" font-size="15" fill="#3a3226" font-weight="700" textLength="55.6" lengthAdjust="spacing">În caiet:</text>
+<text x="121.7" y="520.3" font-size="15" fill="#3a3226" textLength="371.4" lengthAdjust="spacing">predicatul se subliniază cu o linie, subiectul cu două linii.</text>
+<text x="62.0" y="558.8" font-size="20" fill="#10233f" font-style="italic" textLength="46.6" lengthAdjust="spacing">Ilinca</text>
+<line x1="62.0" y1="562.3" x2="108.6" y2="562.3" stroke="#10233f" stroke-width="1.4"/>
+<line x1="62.0" y1="565.8" x2="108.6" y2="565.8" stroke="#10233f" stroke-width="1.4"/>
+<text x="114.0" y="558.8" font-size="20" fill="#10233f" font-style="italic" textLength="54.4" lengthAdjust="spacing">citește</text>
+<line x1="114.0" y1="562.3" x2="168.4" y2="562.3" stroke="#10233f" stroke-width="1.4"/>
+<text x="168.4" y="558.8" font-size="20" fill="#10233f" font-style="italic" textLength="4.4" lengthAdjust="spacing">.</text>
+<rect x="40" y="602.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="625.8" font-size="16" font-weight="700" fill="#ffffff">3. TIPURI DE PROPOZIȚII</text>
+<rect x="40" y="636.8" width="820" height="356.3" fill="#ffffff" stroke="#e3dccb"/>
+<text x="188.2" y="669.8" font-size="15" fill="#10233f" font-weight="700" textLength="125.8" lengthAdjust="spacing">DUPĂ ALCĂTUIRE</text>
+<rect x="62.0" y="680.3" width="378.0" height="91.6" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="708.3" font-size="16" fill="#0d9c92" font-weight="700" textLength="49.3" lengthAdjust="spacing">simplă</text>
+<text x="78.0" y="731.6" font-size="14.5" fill="#3a3226" textLength="197.2" lengthAdjust="spacing">alcătuită din predicat și subiect</text>
+<text x="78.0" y="755.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="104.5" lengthAdjust="spacing">Ex.: Ilinca citește.</text>
+<rect x="62.0" y="787.9" width="378.0" height="91.6" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="815.9" font-size="16" fill="#0d9c92" font-weight="700" textLength="78.9" lengthAdjust="spacing">dezvoltată</text>
+<text x="78.0" y="839.2" font-size="14.5" fill="#3a3226" textLength="303.3" lengthAdjust="spacing">în alcătuirea ei intră cel puțin o parte secundară</text>
+<text x="78.0" y="863.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="151.4" lengthAdjust="spacing">Ex.: Ilinca citește o carte.</text>
+<rect x="62.0" y="889.4" width="378.0" height="85.6" rx="12" fill="#f3efe4"/><text x="78.0" y="915.9" font-size="14.5" fill="#10233f" font-weight="700" textLength="168.8" lengthAdjust="spacing">Din simplă în dezvoltată:</text>
+<text x="78.0" y="934.8" font-size="14.5" fill="#3a3226" textLength="221.4" lengthAdjust="spacing">adaug cel puțin o parte secundară.</text>
+<text x="78.0" y="958.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="265.5" lengthAdjust="spacing">Ilinca citește. → Ilinca citește o carte seara.</text>
+<text x="535.2" y="669.8" font-size="15" fill="#10233f" font-weight="700" textLength="228.0" lengthAdjust="spacing">DUPĂ ASPECTUL PREDICATULUI</text>
+<rect x="460.0" y="680.3" width="378.0" height="91.6" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="476.0" y="708.3" font-size="16" fill="#6f5ea8" font-weight="700" textLength="77.0" lengthAdjust="spacing">afirmativă</text>
+<text x="476.0" y="731.6" font-size="14.5" fill="#3a3226" textLength="291.0" lengthAdjust="spacing">verbul cu rol de predicat e la forma afirmativă</text>
+<text x="476.0" y="755.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="121.5" lengthAdjust="spacing">Ex.: Cățelul a lătrat.</text>
+<rect x="460.0" y="787.9" width="378.0" height="91.6" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="476.0" y="815.9" font-size="16" fill="#6f5ea8" font-weight="700" textLength="65.0" lengthAdjust="spacing">negativă</text>
+<text x="476.0" y="839.2" font-size="14.5" fill="#3a3226" textLength="282.4" lengthAdjust="spacing">verbul cu rol de predicat e la forma negativă</text>
+<text x="476.0" y="863.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="141.7" lengthAdjust="spacing">Ex.: Cățelul nu a lătrat.</text>
+<rect x="460.0" y="889.4" width="378.0" height="85.6" rx="12" fill="#f3efe4"/><text x="476.0" y="915.9" font-size="14.5" fill="#10233f" font-weight="700" textLength="181.2" lengthAdjust="spacing">Din afirmativă în negativă:</text>
+<text x="476.0" y="934.8" font-size="14.5" fill="#3a3226" textLength="285.9" lengthAdjust="spacing">pun „nu” înaintea verbului cu rol de predicat.</text>
+<text x="476.0" y="958.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="258.1" lengthAdjust="spacing">Vorbesc cu Ilinca. → Nu vorbesc cu Ilinca.</text>
+<rect x="40" y="1013.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="1036.1" font-size="16" font-weight="700" fill="#ffffff">4. CUM SPUN FELUL UNEI PROPOZIȚII</text>
+<rect x="40" y="1047.1" width="820" height="230.5" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="1065.1" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="1086.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="65.1" lengthAdjust="spacing">Propoziția</text>
+<text x="478.4" y="1086.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="90.9" lengthAdjust="spacing">după alcătuire</text>
+<text x="649.0" y="1086.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="168.7" lengthAdjust="spacing">după aspectul predicatului</text>
+<line x1="62.0" y1="1096.6" x2="838.0" y2="1096.6" stroke="#e3dccb"/>
+<text x="74.0" y="1119.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="96.4" lengthAdjust="spacing">Riley zâmbește.</text>
+<text x="503.0" y="1119.1" font-size="14.5" fill="#0d9c92" textLength="41.5" lengthAdjust="spacing">simplă</text>
+<text x="701.7" y="1119.1" font-size="14.5" fill="#6f5ea8" textLength="63.1" lengthAdjust="spacing">afirmativă</text>
+<line x1="62.0" y1="1129.5" x2="838.0" y2="1129.5" stroke="#e3dccb"/>
+<text x="74.0" y="1152.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="114.7" lengthAdjust="spacing">Ruxi nu a răspuns.</text>
+<text x="503.0" y="1152.0" font-size="14.5" fill="#0d9c92" textLength="41.5" lengthAdjust="spacing">simplă</text>
+<text x="706.0" y="1152.0" font-size="14.5" fill="#6f5ea8" textLength="54.5" lengthAdjust="spacing">negativă</text>
+<line x1="62.0" y1="1162.3" x2="838.0" y2="1162.3" stroke="#e3dccb"/>
+<text x="74.0" y="1184.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="127.2" lengthAdjust="spacing">Ilinca citește o carte.</text>
+<text x="490.6" y="1184.8" font-size="14.5" fill="#0d9c92" textLength="66.3" lengthAdjust="spacing">dezvoltată</text>
+<text x="701.7" y="1184.8" font-size="14.5" fill="#6f5ea8" textLength="63.1" lengthAdjust="spacing">afirmativă</text>
+<line x1="62.0" y1="1195.2" x2="838.0" y2="1195.2" stroke="#e3dccb"/>
+<text x="74.0" y="1217.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="146.7" lengthAdjust="spacing">Adi nu vine azi la mine.</text>
+<text x="490.6" y="1217.7" font-size="14.5" fill="#0d9c92" textLength="66.3" lengthAdjust="spacing">dezvoltată</text>
+<text x="706.0" y="1217.7" font-size="14.5" fill="#6f5ea8" textLength="54.5" lengthAdjust="spacing">negativă</text>
+<line x1="62.0" y1="1228.0" x2="838.0" y2="1228.0" stroke="#e3dccb"/>
+<line x1="419.0" y1="1065.1" x2="419.0" y2="1228.0" stroke="#e3dccb"/>
+<line x1="628.5" y1="1065.1" x2="628.5" y2="1228.0" stroke="#e3dccb"/>
+<text x="62.0" y="1255.5" font-size="13.5" fill="#5b6b83" textLength="426.4" lengthAdjust="spacing">Răspunsul complet are ambele criterii: „propoziție dezvoltată, negativă”.</text>
+<rect x="40" y="1297.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="1320.6" font-size="16" font-weight="700" fill="#ffffff">5. ORTOGRAFIA ȘI PUNCTUAȚIA PROPOZIȚIEI</text>
+<rect x="40" y="1331.6" width="820" height="245.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="1365.6" font-size="17" font-weight="700" fill="#6f5ea8">Aa</text>
+<text x="120.0" y="1364.1" font-size="14.5" fill="#3a3226" textLength="180.5" lengthAdjust="spacing">În scris, propoziția începe cu</text>
+<text x="304.4" y="1364.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="74.1" lengthAdjust="spacing">literă mare</text>
+<text x="378.5" y="1364.1" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="62.0" y="1397.6" font-size="17" font-weight="700" fill="#6f5ea8">. ? !</text>
+<text x="120.0" y="1396.1" font-size="14.5" fill="#3a3226" textLength="48.4" lengthAdjust="spacing">La final:</text>
+<text x="172.3" y="1396.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="39.3" lengthAdjust="spacing">punct</text>
+<text x="211.6" y="1396.1" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="218.7" y="1396.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="116.3" lengthAdjust="spacing">semnul întrebării</text>
+<text x="338.9" y="1396.1" font-size="14.5" fill="#3a3226" textLength="21.8" lengthAdjust="spacing">sau</text>
+<text x="364.6" y="1396.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="123.1" lengthAdjust="spacing">semnul exclamării</text>
+<text x="487.7" y="1396.1" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="62.0" y="1429.6" font-size="17" font-weight="700" fill="#6f5ea8">,</text>
+<text x="120.0" y="1428.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="49.3" lengthAdjust="spacing">Virgula</text>
+<text x="173.2" y="1428.1" font-size="14.5" fill="#3a3226" textLength="288.1" lengthAdjust="spacing">se pune după un cuvânt care arată o strigare:</text>
+<text x="465.2" y="1428.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="80.0" lengthAdjust="spacing">Ruxi, ce faci?</text>
+<text x="120.0" y="1449.9" font-size="14.5" fill="#3a3226" textLength="203.1" lengthAdjust="spacing">și între termenii unei enumerări:</text>
+<text x="327.1" y="1449.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="161.7" lengthAdjust="spacing">cu Luminița, Adi și Marius</text>
+<text x="62.0" y="1480.3" font-size="17" font-weight="700" fill="#6f5ea8">:</text>
+<text x="120.0" y="1478.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="87.4" lengthAdjust="spacing">Două puncte</text>
+<text x="211.3" y="1478.8" font-size="14.5" fill="#3a3226" textLength="201.0" lengthAdjust="spacing">se pun înaintea unei enumerări:</text>
+<text x="416.2" y="1478.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="214.0" lengthAdjust="spacing">Am trei prieteni: Ilinca, Ruxi și Adi.</text>
+<text x="62.0" y="1512.3" font-size="17" font-weight="700" fill="#6f5ea8">—</text>
+<text x="120.0" y="1510.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="99.9" lengthAdjust="spacing">Linia de dialog</text>
+<text x="223.8" y="1510.8" font-size="14.5" fill="#3a3226" textLength="293.5" lengthAdjust="spacing">marchează începutul replicii fiecărei persoane:</text>
+<text x="120.0" y="1532.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="98.5" lengthAdjust="spacing">— Ruxi, ce faci?</text>
+<text x="120.0" y="1554.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="127.0" lengthAdjust="spacing">— Vorbesc cu Ilinca.</text>
+<text x="207.2" y="1608.3" font-size="11.5" fill="#5b6b83" textLength="485.5" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 24-25, rubricile Repere. Unele exemple sunt create pentru aceste notițe.</text>
 </svg>

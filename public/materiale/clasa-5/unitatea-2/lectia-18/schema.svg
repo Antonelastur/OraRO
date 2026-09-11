@@ -1,30 +1,91 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 392" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="980" height="392" fill="#faf7f0"/>
-  <text x="490" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Momentele unei povestiri</text>
-  <text x="490" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 18 · Textul narativ ficțional, pregătire</text>
-  <rect x="30" y="116" width="168" height="96" rx="14" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-  <text x="114" y="150" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Situația inițială</text>
-  <text x="114" y="178" text-anchor="middle" font-size="11.5" fill="#3d4a5f">cine, unde, când</text>
-  <path d="M200 164 L214 164" stroke="#b8944f" stroke-width="2.5"/>
-  <rect x="216" y="116" width="168" height="96" rx="14" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-  <text x="300" y="150" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Momentul care schimbă tot</text>
-  <text x="300" y="178" text-anchor="middle" font-size="11.5" fill="#3d4a5f">apare o problemă</text>
-  <path d="M386 164 L400 164" stroke="#b8944f" stroke-width="2.5"/>
-  <rect x="402" y="116" width="168" height="96" rx="14" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-  <text x="486" y="150" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Desfășurarea</text>
-  <text x="486" y="178" text-anchor="middle" font-size="11.5" fill="#3d4a5f">ce face personajul</text>
-  <path d="M572 164 L586 164" stroke="#b8944f" stroke-width="2.5"/>
-  <rect x="588" y="108" width="168" height="112" rx="14" fill="#fef8e9" stroke="#b0512f" stroke-width="2.5"/>
-  <text x="672" y="142" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Punctul culminant</text>
-  <text x="672" y="170" text-anchor="middle" font-size="11.5" fill="#3d4a5f">clipa cea mai tensionată</text>
-  <path d="M758 164 L772 164" stroke="#b8944f" stroke-width="2.5"/>
-  <rect x="774" y="116" width="168" height="96" rx="14" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-  <text x="858" y="150" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Finalul</text>
-  <text x="858" y="178" text-anchor="middle" font-size="11.5" fill="#3d4a5f">cum se rezolvă</text>
-  <rect x="30" y="252" width="920" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="52" y="277" font-size="13" font-weight="700" fill="#10233f">Înainte să scrii</text>
-  <text x="52" y="297" font-size="12" fill="#3d4a5f">notează în trei rânduri cine e personajul, ce problemă are și cum scapă. Restul se construiește peste asta.</text>
-  <rect x="30" y="316" width="920" height="56" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
-  <text x="52" y="341" font-size="13" font-weight="700" fill="#10233f">Ficțional înseamnă</text>
-  <text x="52" y="361" font-size="12" fill="#3d4a5f">inventat de tine. Poate semăna cu realitatea, dar nu trebuie să se fi întâmplat.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1073" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1073" fill="#faf7f0"/>
+<text x="300.9" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="298.7" lengthAdjust="spacing">Textul narativ ficțional</text>
+<text x="224.3" y="74.4" font-size="14" fill="#5b6b83" textLength="451.4" lengthAdjust="spacing">Clasa a V-a · Unitatea II, Lecția 18 · Manual, pp. 74-75 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ESTE TEXTUL NARATIV FICȚIONAL</text>
+<rect x="40" y="128.6" width="820" height="138.4" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="170.7" lengthAdjust="spacing">Textul narativ ficțional</text>
+<text x="237.0" y="162.6" font-size="16" fill="#10233f" textLength="150.9" lengthAdjust="spacing">prezintă o întâmplare</text>
+<text x="392.2" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="143.8" lengthAdjust="spacing">imaginată de autor</text>
+<text x="536.1" y="162.6" font-size="16" fill="#10233f" textLength="289.7" lengthAdjust="spacing">, cu succesiunea specifică textului narativ.</text>
+<rect x="62.0" y="181.4" width="248.0" height="67.7" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="209.4" font-size="16" fill="#0d9c92" font-weight="700" textLength="111.2" lengthAdjust="spacing">situația inițială</text>
+<text x="78.0" y="232.7" font-size="14.5" fill="#3a3226" textLength="54.8" lengthAdjust="spacing">echilibru</text>
+<rect x="326.0" y="181.4" width="248.0" height="67.7" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="342.0" y="209.4" font-size="16" fill="#6f5ea8" font-weight="700" textLength="194.4" lengthAdjust="spacing">succesiunea de întâmplări</text>
+<text x="342.0" y="232.7" font-size="14.5" fill="#3a3226" textLength="69.2" lengthAdjust="spacing">complicații</text>
+<rect x="590.0" y="181.4" width="248.0" height="67.7" rx="12" fill="#ffffff" stroke="#9a7433" stroke-width="2"/>
+<text x="606.0" y="209.4" font-size="16" fill="#9a7433" font-weight="700" textLength="102.1" lengthAdjust="spacing">situația finală</text>
+<text x="606.0" y="232.7" font-size="14.5" fill="#3a3226" textLength="104.3" lengthAdjust="spacing">un nou echilibru</text>
+<rect x="40" y="287.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="310.0" font-size="16" font-weight="700" fill="#ffffff">2. PLANUL, PE SECVENȚE</text>
+<rect x="40" y="321.0" width="820" height="208.2" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="339.0" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="360.5" font-size="13.5" fill="#10233f" font-weight="700" textLength="56.7" lengthAdjust="spacing">Secvența</text>
+<text x="244.7" y="360.5" font-size="13.5" fill="#10233f" font-weight="700" textLength="49.3" lengthAdjust="spacing">Ce scriu</text>
+<text x="632.7" y="360.5" font-size="13.5" fill="#10233f" font-weight="700" textLength="121.5" lengthAdjust="spacing">Ce timpuri folosesc</text>
+<line x1="62.0" y1="370.6" x2="838.0" y2="370.6" stroke="#e3dccb"/>
+<text x="74.0" y="393.1" font-size="14.5" fill="#3a3226" textLength="91.8" lengthAdjust="spacing">situația inițială</text>
+<text x="244.7" y="393.1" font-size="14.5" fill="#3a3226" textLength="321.8" lengthAdjust="spacing">cadrul acțiunii, personajele; echilibrul de la început</text>
+<text x="632.7" y="393.1" font-size="14.5" fill="#3a3226" textLength="122.4" lengthAdjust="spacing">cel puțin un verb la</text>
+<text x="759.0" y="393.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="66.0" lengthAdjust="spacing">imperfect</text>
+<line x1="62.0" y1="403.4" x2="838.0" y2="403.4" stroke="#e3dccb"/>
+<text x="74.0" y="425.9" font-size="14.5" fill="#3a3226" textLength="96.3" lengthAdjust="spacing">succesiunea de</text>
+<text x="74.0" y="447.0" font-size="14.5" fill="#3a3226" textLength="64.5" lengthAdjust="spacing">întâmplări</text>
+<text x="244.7" y="425.9" font-size="14.5" fill="#3a3226" textLength="196.0" lengthAdjust="spacing">problema care rupe echilibrul (</text>
+<text x="440.8" y="425.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="64.1" lengthAdjust="spacing">Deodată…</text>
+<text x="504.8" y="425.9" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="512.0" y="425.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="44.5" lengthAdjust="spacing">Brusc…</text>
+<text x="556.5" y="425.9" font-size="14.5" fill="#3a3226" textLength="17.8" lengthAdjust="spacing">) și</text>
+<text x="244.7" y="447.0" font-size="14.5" fill="#3a3226" textLength="131.9" lengthAdjust="spacing">urmările ei, în ordine</text>
+<text x="632.7" y="425.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="106.0" lengthAdjust="spacing">perfect compus</text>
+<text x="742.6" y="425.9" font-size="14.5" fill="#3a3226" textLength="21.8" lengthAdjust="spacing">sau</text>
+<text x="768.3" y="425.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="51.9" lengthAdjust="spacing">prezent</text>
+<text x="820.2" y="425.9" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">;</text>
+<text x="632.7" y="447.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="137.9" lengthAdjust="spacing">mai-mult-ca-perfect</text>
+<text x="774.5" y="447.0" font-size="14.5" fill="#3a3226" textLength="42.6" lengthAdjust="spacing">pentru</text>
+<text x="632.7" y="468.0" font-size="14.5" fill="#3a3226" textLength="111.6" lengthAdjust="spacing">acțiuni anterioare</text>
+<line x1="62.0" y1="478.3" x2="838.0" y2="478.3" stroke="#e3dccb"/>
+<text x="74.0" y="500.8" font-size="14.5" fill="#3a3226" textLength="84.4" lengthAdjust="spacing">situația finală</text>
+<text x="244.7" y="500.8" font-size="14.5" fill="#3a3226" textLength="215.3" lengthAdjust="spacing">cum se ajunge la un nou echilibru</text>
+<text x="632.7" y="500.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="106.0" lengthAdjust="spacing">perfect compus</text>
+<text x="742.6" y="500.8" font-size="14.5" fill="#3a3226" textLength="21.8" lengthAdjust="spacing">sau</text>
+<text x="768.3" y="500.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="51.9" lengthAdjust="spacing">prezent</text>
+<line x1="62.0" y1="511.2" x2="838.0" y2="511.2" stroke="#e3dccb"/>
+<line x1="232.7" y1="339.0" x2="232.7" y2="511.2" stroke="#e3dccb"/>
+<line x1="620.7" y1="339.0" x2="620.7" y2="511.2" stroke="#e3dccb"/>
+<rect x="40" y="549.2" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="572.2" font-size="16" font-weight="700" fill="#ffffff">3. PAȘII SCRIERII</text>
+<rect x="40" y="583.2" width="820" height="205.4" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="616.2" font-size="15" fill="#3a3226" font-weight="700">1.</text>
+<text x="81.0" y="616.2" font-size="15" fill="#3a3226" font-weight="700" textLength="44.0" lengthAdjust="spacing">Planul</text>
+<text x="124.9" y="616.2" font-size="15" fill="#3a3226" textLength="492.7" lengthAdjust="spacing">: situația inițială, ce o schimbă, cum se desfășoară acțiunea, cum se încheie.</text>
+<text x="62.0" y="640.9" font-size="15" fill="#3a3226" font-weight="700">2.</text>
+<text x="81.0" y="640.9" font-size="15" fill="#3a3226" font-weight="700" textLength="103.0" lengthAdjust="spacing">Prima variantă</text>
+<text x="184.0" y="640.9" font-size="15" fill="#3a3226" textLength="180.9" lengthAdjust="spacing">, dezvoltând ideile din plan.</text>
+<text x="62.0" y="665.7" font-size="15" fill="#3a3226" font-weight="700">3.</text>
+<text x="81.0" y="665.7" font-size="15" fill="#3a3226" font-weight="700" textLength="72.9" lengthAdjust="spacing">Revizuirea</text>
+<text x="153.8" y="665.7" font-size="15" fill="#3a3226" textLength="214.3" lengthAdjust="spacing">: verific logica acțiunii și detaliile.</text>
+<text x="62.0" y="690.4" font-size="15" fill="#3a3226" font-weight="700">4.</text>
+<text x="81.0" y="690.4" font-size="15" fill="#3a3226" font-weight="700" textLength="57.6" lengthAdjust="spacing">Editarea</text>
+<text x="138.6" y="690.4" font-size="15" fill="#3a3226" textLength="150.7" lengthAdjust="spacing">: rescriu varianta finală.</text>
+<rect x="62.0" y="708.9" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><text x="78.0" y="735.4" font-size="14.5" fill="#10233f" font-weight="700" textLength="142.0" lengthAdjust="spacing">Prezentarea textului:</text>
+<text x="78.0" y="754.3" font-size="14.5" fill="#3a3226" textLength="580.1" lengthAdjust="spacing">titlul sus, la mijloc; fiecare paragraf începe cu alineat; scrisul lizibil și ordonat, fără ștersături.</text>
+<rect x="40" y="808.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="831.6" font-size="16" font-weight="700" fill="#ffffff">4. GRILA DE VERIFICARE</text>
+<rect x="40" y="842.6" width="820" height="179.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="875.6" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="875.6" font-size="15" fill="#3a3226" textLength="388.0" lengthAdjust="spacing">Reiese clar cine face acțiunea, ce se întâmplă, unde și când.</text>
+<text x="62.0" y="900.4" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="900.4" font-size="15" fill="#3a3226" textLength="306.1" lengthAdjust="spacing">Textul este coerent: acțiunile se înlănțuie logic.</text>
+<text x="62.0" y="925.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="925.1" font-size="15" fill="#3a3226" textLength="383.1" lengthAdjust="spacing">Am folosit timpurile modului indicativ potrivit secvențelor.</text>
+<text x="62.0" y="949.9" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="949.9" font-size="15" fill="#3a3226" textLength="303.6" lengthAdjust="spacing">Titlul corespunde conținutului și este sugestiv.</text>
+<text x="62.0" y="974.6" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="974.6" font-size="15" fill="#3a3226" textLength="215.4" lengthAdjust="spacing">Textul este surprinzător, original.</text>
+<text x="62.0" y="999.4" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="999.4" font-size="15" fill="#3a3226" textLength="461.4" lengthAdjust="spacing">Textul e așezat corect în pagină; am respectat ortografia și punctuația.</text>
+<text x="239.7" y="1053.4" font-size="11.5" fill="#5b6b83" textLength="420.5" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 74-75, rubrica Repere, schema planului și grila de evaluare.</text>
 </svg>

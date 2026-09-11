@@ -1,28 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 404" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="960" height="404" fill="#faf7f0"/>
-  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Regulile de acces la cuvânt</text>
-  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 10 · Comunicare în grup</text>
-  <rect x="36" y="100" width="432" height="212" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
-  <text x="60" y="132" font-size="15" font-weight="700" fill="#1c7f5e">AȘA DA</text>
-  <circle cx="70" cy="164" r="6" fill="#1c7f5e"/>
-  <text x="88" y="169" font-size="13" fill="#3d4a5f">Aștept să termine cine vorbește</text>
-  <circle cx="70" cy="200" r="6" fill="#1c7f5e"/>
-  <text x="88" y="205" font-size="13" fill="#3d4a5f">Ridic mâna sau fac un semn</text>
-  <circle cx="70" cy="236" r="6" fill="#1c7f5e"/>
-  <text x="88" y="241" font-size="13" fill="#3d4a5f">Vorbesc la subiect</text>
-  <circle cx="70" cy="272" r="6" fill="#1c7f5e"/>
-  <text x="88" y="277" font-size="13" fill="#3d4a5f">Las loc și celor tăcuți</text>
-  <rect x="492" y="100" width="432" height="212" rx="16" fill="#ffffff" stroke="#c1503a" stroke-width="2.5"/>
-  <text x="516" y="132" font-size="15" font-weight="700" fill="#c1503a">AȘA NU</text>
-  <circle cx="526" cy="164" r="6" fill="#c1503a"/>
-  <text x="544" y="169" font-size="13" fill="#3d4a5f">Întrerup la mijloc de frază</text>
-  <circle cx="526" cy="200" r="6" fill="#c1503a"/>
-  <text x="544" y="205" font-size="13" fill="#3d4a5f">Vorbesc peste ceilalți</text>
-  <circle cx="526" cy="236" r="6" fill="#c1503a"/>
-  <text x="544" y="241" font-size="13" fill="#3d4a5f">Schimb tema fără motiv</text>
-  <circle cx="526" cy="272" r="6" fill="#c1503a"/>
-  <text x="544" y="277" font-size="13" fill="#3d4a5f">Vorbesc tot timpul eu</text>
-  <rect x="36" y="328" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="58" y="353" font-size="13" font-weight="700" fill="#10233f">De ce contează</text>
-  <text x="58" y="373" font-size="12" fill="#3d4a5f">fără reguli, într-un grup vorbește cine e mai gălăgios, nu cine are ceva de spus.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 718" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="718" fill="#faf7f0"/>
+<text x="286.3" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="328.4" lengthAdjust="spacing">Reguli de acces la cuvânt</text>
+<text x="224.3" y="74.4" font-size="14" fill="#5b6b83" textLength="451.4" lengthAdjust="spacing">Clasa a V-a · Unitatea II, Lecția 10 · Manual, pp. 58-59 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. DE CE AVEM NEVOIE DE REGULI</text>
+<rect x="40" y="128.6" width="820" height="80.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" textLength="561.8" lengthAdjust="spacing">Ca fiecare participant la discuție să-și poată face cunoscute ideile și ca să evităm</text>
+<text x="628.1" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="103.8" lengthAdjust="spacing">suprapunerile</text>
+<text x="731.9" y="162.6" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">,</text>
+<text x="739.8" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="94.2" lengthAdjust="spacing">întreruperile</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" textLength="24.0" lengthAdjust="spacing">sau</text>
+<text x="90.3" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="55.2" lengthAdjust="spacing">tăcerile</text>
+<text x="145.5" y="185.8" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<rect x="40" y="228.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="251.6" font-size="16" font-weight="700" fill="#ffffff">2. REGULILE</text>
+<rect x="40" y="262.6" width="820" height="151.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="295.6" font-size="15" fill="#3a3226" font-weight="700">1.</text>
+<text x="81.0" y="295.6" font-size="15" fill="#3a3226" textLength="255.6" lengthAdjust="spacing">Vorbitorul dă cuvântul altui participant</text>
+<text x="340.6" y="295.6" font-size="15" fill="#3a3226" font-weight="700" textLength="132.9" lengthAdjust="spacing">după ce a terminat</text>
+<text x="477.5" y="295.6" font-size="15" fill="#3a3226" textLength="328.8" lengthAdjust="spacing">ce are de spus. Nimeni nu intervine dacă nu a fost</text>
+<text x="81.0" y="317.4" font-size="15" fill="#3a3226" textLength="42.0" lengthAdjust="spacing">numit.</text>
+<text x="62.0" y="342.1" font-size="15" fill="#3a3226" font-weight="700">2.</text>
+<text x="81.0" y="342.1" font-size="15" fill="#3a3226" textLength="250.9" lengthAdjust="spacing">Îmi anunț intenția de a vorbi printr-un</text>
+<text x="335.9" y="342.1" font-size="15" fill="#3a3226" font-weight="700" textLength="50.0" lengthAdjust="spacing">semnal</text>
+<text x="389.9" y="342.1" font-size="15" fill="#3a3226" textLength="433.2" lengthAdjust="spacing">(de exemplu, mâna ridicată) și aștept să termine cel care vorbește.</text>
+<text x="62.0" y="366.9" font-size="15" fill="#3a3226" font-weight="700">3.</text>
+<text x="81.0" y="366.9" font-size="15" fill="#3a3226" textLength="296.6" lengthAdjust="spacing">Dacă mai mulți vor să intervină, are prioritate</text>
+<text x="381.6" y="366.9" font-size="15" fill="#3a3226" font-weight="700" textLength="184.3" lengthAdjust="spacing">cel care a semnalat primul</text>
+<text x="565.9" y="366.9" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="391.6" font-size="15" fill="#3a3226" font-weight="700">4.</text>
+<text x="81.0" y="391.6" font-size="15" fill="#3a3226" textLength="274.9" lengthAdjust="spacing">În discuțiile cu toată clasa, profesorul este</text>
+<text x="359.9" y="391.6" font-size="15" fill="#3a3226" font-weight="700" textLength="75.5" lengthAdjust="spacing">moderator</text>
+<text x="435.4" y="391.6" font-size="15" fill="#3a3226" textLength="245.2" lengthAdjust="spacing">; în grupe, un elev își asumă acest rol.</text>
+<rect x="40" y="434.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="457.1" font-size="16" font-weight="700" fill="#ffffff">3. CUM ȘTIU CĂ POT INTERVENI</text>
+<rect x="40" y="468.1" width="820" height="198.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="486.1" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="507.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="42.4" lengthAdjust="spacing">Ce văd</text>
+<text x="462.0" y="507.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="43.3" lengthAdjust="spacing">Ce aud</text>
+<line x1="62.0" y1="517.6" x2="838.0" y2="517.6" stroke="#e3dccb"/>
+<text x="74.0" y="540.1" font-size="14.5" fill="#3a3226" textLength="235.6" lengthAdjust="spacing">interlocutorul s-a oprit și mă privește</text>
+<text x="462.0" y="540.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="175.6" lengthAdjust="spacing">— Cam asta am avut de zis.</text>
+<line x1="62.0" y1="550.5" x2="838.0" y2="550.5" stroke="#e3dccb"/>
+<text x="74.0" y="573.0" font-size="14.5" fill="#3a3226" textLength="193.3" lengthAdjust="spacing">mă invită din priviri să vorbesc</text>
+<text x="462.0" y="573.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="146.6" lengthAdjust="spacing">— Vrei să adaugi ceva?</text>
+<line x1="62.0" y1="583.4" x2="838.0" y2="583.4" stroke="#e3dccb"/>
+<text x="74.0" y="605.9" font-size="14.5" fill="#3a3226" textLength="158.5" lengthAdjust="spacing">îmi face semn să vorbesc</text>
+<text x="462.0" y="605.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="136.9" lengthAdjust="spacing">— E rândul tău acum.</text>
+<line x1="62.0" y1="616.2" x2="838.0" y2="616.2" stroke="#e3dccb"/>
+<text x="74.0" y="638.7" font-size="14.5" fill="#3a3226" textLength="125.4" lengthAdjust="spacing">s-a oprit și așteaptă</text>
+<text x="462.0" y="638.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="117.6" lengthAdjust="spacing">— Tu ce părere ai?</text>
+<line x1="62.0" y1="649.1" x2="838.0" y2="649.1" stroke="#e3dccb"/>
+<line x1="450.0" y1="486.1" x2="450.0" y2="649.0" stroke="#e3dccb"/>
+<text x="277.7" y="698.5" font-size="11.5" fill="#5b6b83" textLength="344.5" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 58-59, rubrica Repere și tabelul de semnale.</text>
 </svg>

@@ -32,7 +32,7 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Recunoaște reperele temporale și spațiale ale acțiunii și ordonează cronologic ideile principale ale textului Vizită...'],
-    resurse: ['Manual Art 5, p. 45', 'Schema „Timp, spațiu și acțiune” (/materiale/clasa-5/unitatea-2/lectia-2/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 5, p. 45', 'Schema „Timp, spațiu și acțiune. Textul narativ” (/materiale/clasa-5/unitatea-2/lectia-2/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Îi întreb pe elevi în cât timp cred că se petrece toată vizita din text, într-o oră, într-o zi, într-un an.' },
@@ -287,7 +287,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Recunoaște modul imperativ, formele afirmative și negative, cu respectarea normelor de ortografie.'],
-    resurse: ['Manual Art 5, p. 72', 'Schema „Modul imperativ” (/materiale/clasa-5/unitatea-2/lectia-16/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 5, p. 72', 'Schema „Modul imperativ” (/materiale/clasa-5/unitatea-2/lectia-17/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le citesc câteva instrucțiuni de joc, „amestecă, aruncă zarul, nu trișa”, și îi întreb ce au în comun verbele.' },

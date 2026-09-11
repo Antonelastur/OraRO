@@ -86,7 +86,7 @@ export default {
     obiective: ['Reactualizează definiția câmpului lexical și gruparea termenilor după trăsături de sens comune, învățate în clasa a V-a.'],
     resurse: [
       'Manual Art 5, pp. 30-31, ca reper pentru recapitulare',
-      'Schema „Câmpul lexical, exemplu” (/materiale/clasa-5/unitatea-1/lectia-12/schema.svg)',
+      'Schema „Câmpul lexical” (/materiale/clasa-5/unitatea-1/lectia-12/schema.svg)',
       'Caietele elevilor',
     ],
     desfasurare: [
@@ -107,7 +107,7 @@ export default {
     obiective: ['Reactualizează diferențierea vocalelor, consoanelor și semivocalelor și corespondența sunet-literă, învățate în clasa a V-a.'],
     resurse: [
       'Manual Art 5, pp. 32-33, ca reper pentru recapitulare',
-      'Schema „Vocale, consoane, semivocale” (/materiale/clasa-5/unitatea-1/lectia-13/schema.svg)',
+      'Schema „Tipurile de sunete” (/materiale/clasa-5/unitatea-1/lectia-13/schema.svg)',
       'Caietele elevilor',
     ],
     desfasurare: [

@@ -1,31 +1,82 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="960" height="400" fill="#faf7f0"/>
-  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cum aflăm cum e un personaj</text>
-  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 4 · Personajele</text>
-  <rect x="36" y="100" width="216" height="156" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-  <text x="56" y="130" font-size="14" font-weight="700" fill="#10233f">Ce face</text>
-  <text x="56" y="156" font-size="12" fill="#3d4a5f">Faptele lui.</text>
-  <text x="56" y="176" font-size="12" fill="#3d4a5f"></text>
-  <text x="56" y="196" font-size="12" fill="#3d4a5f">Ionel sparge tava</text>
-  <text x="56" y="216" font-size="12" fill="#3d4a5f">cu dulceață.</text>
-  <rect x="268" y="100" width="216" height="156" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
-  <text x="288" y="130" font-size="14" font-weight="700" fill="#10233f">Ce spune</text>
-  <text x="288" y="156" font-size="12" fill="#3d4a5f">Vorbele lui și</text>
-  <text x="288" y="176" font-size="12" fill="#3d4a5f">felul cum le spune.</text>
-  <rect x="500" y="100" width="216" height="156" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
-  <text x="520" y="130" font-size="14" font-weight="700" fill="#10233f">Cum arată</text>
-  <text x="520" y="156" font-size="12" fill="#3d4a5f">Înfățișarea,</text>
-  <text x="520" y="176" font-size="12" fill="#3d4a5f">îmbrăcămintea,</text>
-  <text x="520" y="196" font-size="12" fill="#3d4a5f">gesturile.</text>
-  <rect x="732" y="100" width="192" height="156" rx="16" fill="#ffffff" stroke="#6f5ea8" stroke-width="2.5"/>
-  <text x="752" y="130" font-size="14" font-weight="700" fill="#10233f">Ce spun alții</text>
-  <text x="752" y="156" font-size="12" fill="#3d4a5f">Ce cred despre el</text>
-  <text x="752" y="176" font-size="12" fill="#3d4a5f">celelalte personaje</text>
-  <text x="752" y="196" font-size="12" fill="#3d4a5f">sau povestitorul.</text>
-  <rect x="36" y="280" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="58" y="305" font-size="13" font-weight="700" fill="#10233f">Trăsătură fizică față de trăsătură morală</text>
-  <text x="58" y="325" font-size="12" fill="#3d4a5f">fizică e ce se vede: înalt, blond. Morală e cum e el pe dinăuntru: răsfățat, curajos, harnic.</text>
-  <rect x="36" y="344" width="888" height="56" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
-  <text x="58" y="369" font-size="13" font-weight="700" fill="#10233f">Regula</text>
-  <text x="58" y="389" font-size="12" fill="#3d4a5f">nu spui doar că e răsfățat. Arăți fapta din text care dovedește asta.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1024" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1024" fill="#faf7f0"/>
+<text x="374.5" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="150.9" lengthAdjust="spacing">Personajele</text>
+<text x="228.1" y="74.4" font-size="14" fill="#5b6b83" textLength="443.8" lengthAdjust="spacing">Clasa a V-a · Unitatea II, Lecția 4 · Manual, pp. 48-49 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. PERSONAJUL</text>
+<rect x="40" y="128.6" width="820" height="189.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="78.7" lengthAdjust="spacing">Personajul</text>
+<text x="145.0" y="162.6" font-size="16" fill="#10233f" textLength="648.5" lengthAdjust="spacing">este o ființă umană, un animal sau un obiect însuflețit care participă la acțiunile dintr-un text</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" textLength="96.6" lengthAdjust="spacing">narativ literar.</text>
+<text x="62.0" y="219.6" font-size="15" fill="#3a3226" textLength="547.2" lengthAdjust="spacing">Este rodul imaginației unui autor și există doar în paginile textului, nu și în realitate.</text>
+<rect x="62.0" y="238.1" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="238.1" width="6" height="61.7" rx="3" fill="#b4432c"/><text x="84.0" y="264.6" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="283.4" font-size="14.5" fill="#3a3226" textLength="195.0" lengthAdjust="spacing">Personajul apare doar în textul</text>
+<text x="282.9" y="283.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="41.0" lengthAdjust="spacing">literar</text>
+<text x="324.0" y="283.4" font-size="14.5" fill="#3a3226" textLength="59.0" lengthAdjust="spacing">. În textul</text>
+<text x="386.9" y="283.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="67.6" lengthAdjust="spacing">nonliterar</text>
+<text x="454.5" y="283.4" font-size="14.5" fill="#3a3226" textLength="148.0" lengthAdjust="spacing">, acțiunea e făcută de o</text>
+<text x="606.4" y="283.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="62.4" lengthAdjust="spacing">persoană</text>
+<text x="672.7" y="283.4" font-size="14.5" fill="#3a3226" textLength="141.2" lengthAdjust="spacing">care există în realitate.</text>
+<rect x="40" y="337.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="360.8" font-size="16" font-weight="700" fill="#ffffff">2. DUPĂ ROLUL ÎN ACȚIUNE</text>
+<rect x="40" y="371.8" width="820" height="124.7" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="389.8" width="248.0" height="88.7" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="417.8" font-size="16" fill="#0d9c92" font-weight="700" textLength="65.8" lengthAdjust="spacing">principal</text>
+<text x="78.0" y="441.1" font-size="14.5" fill="#3a3226" textLength="39.4" lengthAdjust="spacing">ocupă</text>
+<text x="121.4" y="441.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="83.8" lengthAdjust="spacing">locul central</text>
+<text x="209.1" y="441.1" font-size="14.5" fill="#3a3226" textLength="62.2" lengthAdjust="spacing">în acțiune</text>
+<rect x="326.0" y="389.8" width="248.0" height="88.7" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="342.0" y="417.8" font-size="16" fill="#6f5ea8" font-weight="700" textLength="67.8" lengthAdjust="spacing">secundar</text>
+<text x="342.0" y="441.1" font-size="14.5" fill="#3a3226" textLength="61.5" lengthAdjust="spacing">are un rol</text>
+<text x="407.4" y="441.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="138.8" lengthAdjust="spacing">mai puțin important</text>
+<text x="342.0" y="462.1" font-size="14.5" fill="#3a3226" textLength="62.2" lengthAdjust="spacing">în acțiune</text>
+<rect x="590.0" y="389.8" width="248.0" height="88.7" rx="12" fill="#ffffff" stroke="#9a7433" stroke-width="2"/>
+<text x="606.0" y="417.8" font-size="16" fill="#9a7433" font-weight="700" textLength="61.9" lengthAdjust="spacing">episodic</text>
+<text x="606.0" y="441.1" font-size="14.5" fill="#3a3226" textLength="83.9" lengthAdjust="spacing">apare într-un</text>
+<text x="693.9" y="441.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="92.1" lengthAdjust="spacing">singur episod</text>
+<text x="789.8" y="441.1" font-size="14.5" fill="#3a3226" textLength="21.8" lengthAdjust="spacing">sau</text>
+<text x="606.0" y="462.1" font-size="14.5" fill="#3a3226" textLength="162.0" lengthAdjust="spacing">în numai câteva episoade</text>
+<rect x="40" y="516.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="539.5" font-size="16" font-weight="700" fill="#ffffff">3. DE UNDE AFLU CUM ESTE UN PERSONAJ</text>
+<rect x="40" y="550.5" width="820" height="231.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="583.5" font-size="15" fill="#3a3226" textLength="107.7" lengthAdjust="spacing">Trăsăturile pot fi</text>
+<text x="173.7" y="583.5" font-size="15" fill="#3a3226" font-weight="700" textLength="50.2" lengthAdjust="spacing">numite</text>
+<text x="228.0" y="583.5" font-size="15" fill="#3a3226" textLength="148.3" lengthAdjust="spacing">direct în text sau pot fi</text>
+<text x="380.4" y="583.5" font-size="15" fill="#3a3226" font-weight="700" textLength="50.5" lengthAdjust="spacing">deduse</text>
+<text x="435.0" y="583.5" font-size="15" fill="#3a3226" textLength="24.3" lengthAdjust="spacing">din:</text>
+<rect x="62.0" y="602.0" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="623.5" font-size="13.5" fill="#10233f" font-weight="700" textLength="64.5" lengthAdjust="spacing">Deduc din</text>
+<text x="306.8" y="623.5" font-size="13.5" fill="#10233f" font-weight="700" textLength="78.8" lengthAdjust="spacing">Exemplu din</text>
+<text x="389.3" y="623.5" font-size="13.5" fill="#10233f" font-weight="700" font-style="italic" textLength="49.7" lengthAdjust="spacing">Vizită…</text>
+<line x1="62.0" y1="633.5" x2="838.0" y2="633.5" stroke="#e3dccb"/>
+<text x="74.0" y="656.0" font-size="14.5" fill="#3a3226" textLength="157.2" lengthAdjust="spacing">felul în care se comportă</text>
+<text x="306.8" y="656.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="269.7" lengthAdjust="spacing">„Maiorul sare de gâtul mamei și o sărută...”</text>
+<line x1="62.0" y1="666.4" x2="838.0" y2="666.4" stroke="#e3dccb"/>
+<text x="74.0" y="688.9" font-size="14.5" fill="#3a3226" textLength="132.7" lengthAdjust="spacing">felul în care vorbește</text>
+<text x="306.8" y="688.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="285.5" lengthAdjust="spacing">„— Da tu de ce tragi? mă-ntrerupe maiorul...”</text>
+<line x1="62.0" y1="699.2" x2="838.0" y2="699.2" stroke="#e3dccb"/>
+<text x="74.0" y="721.7" font-size="14.5" fill="#3a3226" textLength="205.2" lengthAdjust="spacing">ce spun alte personaje despre el</text>
+<text x="306.8" y="721.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="340.0" lengthAdjust="spacing">„— Coniță! uite Ionel! vrea să-mi răstoarne mașina!...”</text>
+<line x1="62.0" y1="732.1" x2="838.0" y2="732.1" stroke="#e3dccb"/>
+<line x1="294.8" y1="602.0" x2="294.8" y2="732.1" stroke="#e3dccb"/>
+<text x="62.0" y="759.6" font-size="13.5" fill="#5b6b83" textLength="400.4" lengthAdjust="spacing">Trăsătura o scriu eu în caiet, lângă fragmentul din care am dedus-o.</text>
+<rect x="40" y="801.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="824.6" font-size="16" font-weight="700" fill="#ffffff">4. FIȘA DE IDENTITATE A PERSONAJULUI</text>
+<rect x="40" y="835.6" width="820" height="137.2" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="853.6" width="182.0" height="67.7" rx="12" fill="#ffffff" stroke="#10233f" stroke-width="2"/>
+<text x="78.0" y="881.6" font-size="16" fill="#10233f" font-weight="700" textLength="53.8" lengthAdjust="spacing">Familie</text>
+<text x="78.0" y="904.9" font-size="14.5" fill="#3a3226" textLength="95.7" lengthAdjust="spacing">cu cine trăiește</text>
+<rect x="260.0" y="853.6" width="182.0" height="67.7" rx="12" fill="#ffffff" stroke="#10233f" stroke-width="2"/>
+<text x="276.0" y="881.6" font-size="16" fill="#10233f" font-weight="700" textLength="47.7" lengthAdjust="spacing">Vârstă</text>
+<text x="276.0" y="904.9" font-size="14.5" fill="#3a3226" textLength="69.5" lengthAdjust="spacing">câți ani are</text>
+<rect x="458.0" y="853.6" width="182.0" height="67.7" rx="12" fill="#ffffff" stroke="#10233f" stroke-width="2"/>
+<text x="474.0" y="881.6" font-size="16" fill="#10233f" font-weight="700" textLength="110.5" lengthAdjust="spacing">Trăsături fizice</text>
+<text x="474.0" y="904.9" font-size="14.5" fill="#3a3226" textLength="63.5" lengthAdjust="spacing">cum arată</text>
+<rect x="656.0" y="853.6" width="182.0" height="67.7" rx="12" fill="#ffffff" stroke="#10233f" stroke-width="2"/>
+<text x="672.0" y="881.6" font-size="16" fill="#10233f" font-weight="700" textLength="105.0" lengthAdjust="spacing">Îmbrăcăminte</text>
+<text x="672.0" y="904.9" font-size="14.5" fill="#3a3226" textLength="60.0" lengthAdjust="spacing">ce poartă</text>
+<text x="62.0" y="950.3" font-size="15" fill="#3a3226" textLength="145.3" lengthAdjust="spacing">Completez fișa pentru</text>
+<text x="211.4" y="950.3" font-size="15" fill="#3a3226" font-weight="700" textLength="98.2" lengthAdjust="spacing">Ionel Popescu</text>
+<text x="309.6" y="950.3" font-size="15" fill="#3a3226" textLength="147.9" lengthAdjust="spacing">, cu informații din text.</text>
+<text x="224.0" y="1004.3" font-size="11.5" fill="#5b6b83" textLength="452.0" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 48-49, rubrica Repere; citatele sunt din „Vizită…” de I.L. Caragiale.</text>
 </svg>

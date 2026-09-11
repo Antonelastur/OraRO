@@ -251,7 +251,7 @@ export const recapitulareInitiala = {
         ],
         resurse: [
           'Manual Art 5, pp. 30-31, ca reper pentru recapitulare',
-          'Schema „Câmpul lexical, exemplu” (/materiale/clasa-5/unitatea-1/lectia-12/schema.svg)',
+          'Schema „Câmpul lexical” (/materiale/clasa-5/unitatea-1/lectia-12/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -317,7 +317,7 @@ export const recapitulareInitiala = {
         ],
         resurse: [
           'Manual Art 5, pp. 32-33, ca reper pentru recapitulare',
-          'Schema „Vocale, consoane, semivocale” (/materiale/clasa-5/unitatea-1/lectia-13/schema.svg)',
+          'Schema „Tipurile de sunete” (/materiale/clasa-5/unitatea-1/lectia-13/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [

@@ -200,7 +200,7 @@ export const unitatea2 = {
         ],
         resurse: [
           'Manual Art 5, p. 45',
-          'Schema „Timp, spațiu și acțiune” (/materiale/clasa-5/unitatea-2/lectia-2/schema.svg)',
+          'Schema „Timp, spațiu și acțiune. Textul narativ” (/materiale/clasa-5/unitatea-2/lectia-2/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -337,7 +337,7 @@ export const unitatea2 = {
           ],
         },
         infografic: null,
-        schema: { fisier: '/materiale/clasa-5/unitatea-2/lectia-2/schema.svg', titlu: 'Timp, spațiu și acțiune' },
+        schema: { fisier: '/materiale/clasa-5/unitatea-2/lectia-2/schema.svg', titlu: 'Timp, spațiu și acțiune. Textul narativ' },
         altele: [],
       },
     },
@@ -2070,7 +2070,7 @@ export const unitatea2 = {
         ],
         resurse: [
           'Manual Art 5, p. 72',
-          'Schema „Modul imperativ” (/materiale/clasa-5/unitatea-2/lectia-16/schema.svg)',
+          'Schema „Modul imperativ” (/materiale/clasa-5/unitatea-2/lectia-17/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -2207,7 +2207,7 @@ export const unitatea2 = {
           ],
         },
         infografic: null,
-        schema: { fisier: '/materiale/clasa-5/unitatea-2/lectia-16/schema.svg', titlu: 'Modul imperativ' },
+        schema: { fisier: '/materiale/clasa-5/unitatea-2/lectia-17/schema.svg', titlu: 'Modul imperativ' },
         altele: [],
       },
     },

@@ -1,30 +1,75 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 412" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="960" height="412" fill="#faf7f0"/>
-  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Ce am învățat despre lectură în Unitatea II</text>
-  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 21 · Recapitulare, lectură și comunicare</text>
-  <rect x="36" y="100" width="290" height="150" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-  <text x="56" y="130" font-size="14" font-weight="700" fill="#10233f">Textul narativ</text>
-  <text x="56" y="156" font-size="12" fill="#3d4a5f">timp, spațiu, acțiune</text>
-  <text x="56" y="176" font-size="12" fill="#3d4a5f">personaje</text>
-  <text x="56" y="196" font-size="12" fill="#3d4a5f">cine povestește</text>
-  <rect x="340" y="100" width="290" height="150" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
-  <text x="360" y="130" font-size="14" font-weight="700" fill="#10233f">Planul de idei</text>
-  <text x="360" y="156" font-size="12" fill="#3d4a5f">simplu: doar ideile</text>
-  <text x="360" y="176" font-size="12" fill="#3d4a5f">principale</text>
-  <text x="360" y="196" font-size="12" fill="#3d4a5f"></text>
-  <text x="360" y="216" font-size="12" fill="#3d4a5f">dezvoltat: și cele</text>
-  <text x="360" y="236" font-size="12" fill="#3d4a5f">secundare</text>
-  <rect x="644" y="100" width="280" height="150" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
-  <text x="664" y="130" font-size="14" font-weight="700" fill="#10233f">Comunicarea</text>
-  <text x="664" y="156" font-size="12" fill="#3d4a5f">invitație, reproș,</text>
-  <text x="664" y="176" font-size="12" fill="#3d4a5f">compliment</text>
-  <text x="664" y="196" font-size="12" fill="#3d4a5f"></text>
-  <text x="664" y="216" font-size="12" fill="#3d4a5f">regulile de acces</text>
-  <text x="664" y="236" font-size="12" fill="#3d4a5f">la cuvânt</text>
-  <rect x="36" y="272" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="58" y="297" font-size="13" font-weight="700" fill="#10233f">Personajul</text>
-  <text x="58" y="317" font-size="12" fill="#3d4a5f">îl cunoști din ce face, ce spune, cum arată și ce spun alții despre el. Mereu cu dovada din text.</text>
-  <rect x="36" y="336" width="888" height="56" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
-  <text x="58" y="361" font-size="13" font-weight="700" fill="#10233f">Jurnalul cu dublă intrare</text>
-  <text x="58" y="381" font-size="12" fill="#3d4a5f">într-o coloană citatul, în cealaltă ce gândesc eu despre el.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1027" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1027" fill="#faf7f0"/>
+<text x="128.6" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="644.6" lengthAdjust="spacing">Recapitulare. Lectură și comunicare în Unitatea II</text>
+<text x="203.0" y="74.4" font-size="14" fill="#5b6b83" textLength="494.1" lengthAdjust="spacing">Clasa a V-a · Unitatea II, Lecția 21 · Manual, pp. 45-59, 76-77 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. TEXTUL NARATIV</text>
+<rect x="40" y="128.6" width="820" height="220.0" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="146.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="59.0" lengthAdjust="spacing">Noțiunea</text>
+<text x="306.8" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="49.4" lengthAdjust="spacing">Ce rețin</text>
+<line x1="62.0" y1="178.2" x2="838.0" y2="178.2" stroke="#e3dccb"/>
+<text x="74.0" y="200.7" font-size="14.5" fill="#3a3226" textLength="53.9" lengthAdjust="spacing">acțiunea</text>
+<text x="306.8" y="200.7" font-size="14.5" fill="#3a3226" textLength="337.4" lengthAdjust="spacing">evenimentele povestite, într-un anumit timp și spațiu</text>
+<line x1="62.0" y1="211.0" x2="838.0" y2="211.0" stroke="#e3dccb"/>
+<text x="74.0" y="233.5" font-size="14.5" fill="#3a3226" textLength="166.9" lengthAdjust="spacing">indicii de timp și de spațiu</text>
+<text x="306.8" y="233.5" font-size="14.5" fill="#3a3226" textLength="217.6" lengthAdjust="spacing">numiți în text sau deduși de cititor</text>
+<line x1="62.0" y1="243.8" x2="838.0" y2="243.8" stroke="#e3dccb"/>
+<text x="74.0" y="266.4" font-size="14.5" fill="#3a3226" textLength="130.5" lengthAdjust="spacing">secvențele narațiunii</text>
+<text x="306.8" y="266.4" font-size="14.5" fill="#3a3226" textLength="492.3" lengthAdjust="spacing">situația inițială (echilibru) → succesiunea de întâmplări (complicații) → situația</text>
+<text x="306.8" y="287.4" font-size="14.5" fill="#3a3226" textLength="130.9" lengthAdjust="spacing">finală (nou echilibru)</text>
+<line x1="62.0" y1="297.7" x2="838.0" y2="297.7" stroke="#e3dccb"/>
+<text x="74.0" y="320.2" font-size="14.5" fill="#3a3226" textLength="137.9" lengthAdjust="spacing">textul narativ ficțional</text>
+<text x="306.8" y="320.2" font-size="14.5" fill="#3a3226" textLength="194.0" lengthAdjust="spacing">întâmplare imaginată de autor</text>
+<line x1="62.0" y1="330.6" x2="838.0" y2="330.6" stroke="#e3dccb"/>
+<line x1="294.8" y1="146.6" x2="294.8" y2="330.6" stroke="#e3dccb"/>
+<rect x="40" y="368.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="391.6" font-size="16" font-weight="700" fill="#ffffff">2. PLANUL DE IDEI</text>
+<rect x="40" y="402.6" width="820" height="124.7" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="420.6" width="380.0" height="88.7" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="448.6" font-size="16" fill="#0d9c92" font-weight="700" textLength="101.9" lengthAdjust="spacing">planul simplu</text>
+<text x="78.0" y="471.9" font-size="14.5" fill="#3a3226" textLength="257.8" lengthAdjust="spacing">doar ideile principale, în ordinea din text</text>
+<rect x="458.0" y="420.6" width="380.0" height="88.7" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="448.6" font-size="16" fill="#6f5ea8" font-weight="700" textLength="121.8" lengthAdjust="spacing">planul dezvoltat</text>
+<text x="474.0" y="471.9" font-size="14.5" fill="#3a3226" textLength="100.5" lengthAdjust="spacing">ideile principale</text>
+<text x="578.4" y="471.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="10.4" lengthAdjust="spacing">și</text>
+<text x="592.8" y="471.9" font-size="14.5" fill="#3a3226" textLength="152.1" lengthAdjust="spacing">ideile secundare, care le</text>
+<text x="474.0" y="492.9" font-size="14.5" fill="#3a3226" textLength="168.3" lengthAdjust="spacing">completează cu amănunte</text>
+<rect x="40" y="547.2" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="570.2" font-size="16" font-weight="700" fill="#ffffff">3. PERSONAJELE</text>
+<rect x="40" y="581.2" width="820" height="80.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="614.2" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="614.2" font-size="15" fill="#3a3226" textLength="60.6" lengthAdjust="spacing">După rol:</text>
+<text x="138.8" y="614.2" font-size="15" fill="#3a3226" font-weight="700" textLength="61.6" lengthAdjust="spacing">principal</text>
+<text x="200.5" y="614.2" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">,</text>
+<text x="207.8" y="614.2" font-size="15" fill="#3a3226" font-weight="700" textLength="63.6" lengthAdjust="spacing">secundar</text>
+<text x="271.4" y="614.2" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">,</text>
+<text x="278.8" y="614.2" font-size="15" fill="#3a3226" font-weight="700" textLength="58.0" lengthAdjust="spacing">episodic</text>
+<text x="336.8" y="614.2" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="639.0" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="639.0" font-size="15" fill="#3a3226" textLength="101.1" lengthAdjust="spacing">Trăsăturile sunt</text>
+<text x="179.3" y="639.0" font-size="15" fill="#3a3226" font-weight="700" textLength="50.2" lengthAdjust="spacing">numite</text>
+<text x="233.6" y="639.0" font-size="15" fill="#3a3226" textLength="67.6" lengthAdjust="spacing">în text sau</text>
+<text x="305.3" y="639.0" font-size="15" fill="#3a3226" font-weight="700" textLength="50.5" lengthAdjust="spacing">deduse</text>
+<text x="359.9" y="639.0" font-size="15" fill="#3a3226" textLength="327.9" lengthAdjust="spacing">din comportament, din vorbire și din ce spun alții.</text>
+<rect x="40" y="681.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="704.5" font-size="16" font-weight="700" fill="#ffffff">4. CÂND CITESC UN TEXT NOU</text>
+<rect x="40" y="715.5" width="820" height="105.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="748.5" font-size="15" fill="#3a3226" font-weight="700">1.</text>
+<text x="81.0" y="748.5" font-size="15" fill="#3a3226" textLength="34.8" lengthAdjust="spacing">Fac o</text>
+<text x="119.8" y="748.5" font-size="15" fill="#3a3226" font-weight="700" textLength="62.2" lengthAdjust="spacing">predicție</text>
+<text x="186.1" y="748.5" font-size="15" fill="#3a3226" textLength="253.9" lengthAdjust="spacing">după titlu: despre ce ar putea fi textul?</text>
+<text x="62.0" y="773.2" font-size="15" fill="#3a3226" font-weight="700">2.</text>
+<text x="81.0" y="773.2" font-size="15" fill="#3a3226" textLength="530.8" lengthAdjust="spacing">Citesc fragment cu fragment și notez pe ce mă bazez: pe text sau pe ce știu deja.</text>
+<text x="62.0" y="798.0" font-size="15" fill="#3a3226" font-weight="700">3.</text>
+<text x="81.0" y="798.0" font-size="15" fill="#3a3226" textLength="427.9" lengthAdjust="spacing">Verific dacă predicția s-a confirmat și marchez partea confirmată.</text>
+<rect x="40" y="840.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="863.5" font-size="16" font-weight="700" fill="#ffffff">5. COMUNICAREA ORALĂ</text>
+<rect x="40" y="874.5" width="820" height="102.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="907.5" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="907.5" font-size="15" fill="#3a3226" textLength="695.7" lengthAdjust="spacing">În dialog, replicile se leagă: la întrebare răspund, invitația o accept sau o refuz, complimentul îl primesc cu</text>
+<text x="74.2" y="929.2" font-size="15" fill="#3a3226" textLength="282.9" lengthAdjust="spacing">mulțumire, reproșul îl accept sau îl resping.</text>
+<text x="62.0" y="954.0" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="954.0" font-size="15" fill="#3a3226" textLength="583.9" lengthAdjust="spacing">Iau cuvântul după un semnal, când termină celălalt; are prioritate cine a semnalat primul.</text>
+<text x="218.3" y="1008.0" font-size="11.5" fill="#5b6b83" textLength="463.4" lengthAdjust="spacing">Sursa: Manual Art 5, rubricile Repere ale lecțiilor 2-9 și cerințele recapitulării de la pp. 76-77.</text>
 </svg>

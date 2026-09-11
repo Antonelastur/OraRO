@@ -1,30 +1,81 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="920" height="400" fill="#faf7f0"/>
-  <text x="460" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Jurnalul cu dublă intrare</text>
-  <text x="460" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, Lecția 6 · Text auxiliar, Exuvii de Simona Popescu</text>
-  <rect x="40" y="100" width="400" height="46" rx="12" fill="#3b5fa8"/>
-  <text x="240" y="129" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">CE SPUNE TEXTUL</text>
-  <rect x="480" y="100" width="400" height="46" rx="12" fill="#a1417e"/>
-  <text x="680" y="129" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">CE SPUN EU</text>
-  <rect x="40" y="158" width="400" height="50" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="60" y="189" font-size="12.5" fill="#3d4a5f">Un citat care mi-a atras atenția.</text>
-  <rect x="480" y="158" width="400" height="50" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="500" y="189" font-size="12.5" fill="#3d4a5f">De ce l-am ales. Ce mi-a amintit.</text>
-  <path d="M446 183 L472 183" stroke="#b8944f" stroke-width="2.5"/>
-  <path d="M466 177 L474 183 L466 189 Z" fill="#b8944f"/>
-  <rect x="40" y="220" width="400" height="50" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="60" y="251" font-size="12.5" fill="#3d4a5f">Copiez exact, cu ghilimele.</text>
-  <rect x="480" y="220" width="400" height="50" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="500" y="251" font-size="12.5" fill="#3d4a5f">Ce simt, ce mă întreb, cu ce seamănă.</text>
-  <path d="M446 245 L472 245" stroke="#b8944f" stroke-width="2.5"/>
-  <path d="M466 239 L474 245 L466 251 Z" fill="#b8944f"/>
-  <rect x="40" y="282" width="400" height="50" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="60" y="313" font-size="12.5" fill="#3d4a5f">Notez pagina.</text>
-  <rect x="480" y="282" width="400" height="50" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="500" y="313" font-size="12.5" fill="#3d4a5f">Legătura cu textul de bază, Vizită...</text>
-  <path d="M446 307 L472 307" stroke="#b8944f" stroke-width="2.5"/>
-  <path d="M466 301 L474 307 L466 313 Z" fill="#b8944f"/>
-  <rect x="40" y="344" width="840" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="62" y="369" font-size="13" font-weight="700" fill="#10233f">La ce folosește</text>
-  <text x="62" y="389" font-size="12" fill="#3d4a5f">te obligă să nu doar citești, ci să și răspunzi textului. Nicio coloană nu are voie să rămână goală.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1074" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1074" fill="#faf7f0"/>
+<text x="176.6" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="548.2" lengthAdjust="spacing">Text auxiliar. „Exuvii” de Simona Popescu</text>
+<text x="228.1" y="74.4" font-size="14" fill="#5b6b83" textLength="443.8" lengthAdjust="spacing">Clasa a V-a · Unitatea II, Lecția 6 · Manual, pp. 51-52 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. DESPRE TEXT</text>
+<rect x="40" y="128.6" width="820" height="80.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" textLength="147.9" lengthAdjust="spacing">Fragment din romanul</text>
+<text x="213.9" y="161.6" font-size="15" fill="#10233f" font-style="italic" textLength="37.6" lengthAdjust="spacing">Exuvii</text>
+<text x="255.6" y="161.6" font-size="15" fill="#3a3226" textLength="16.6" lengthAdjust="spacing">de</text>
+<text x="276.3" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="115.6" lengthAdjust="spacing">Simona Popescu</text>
+<text x="392.0" y="161.6" font-size="15" fill="#3a3226" textLength="89.1" lengthAdjust="spacing">, din capitolul</text>
+<text x="485.1" y="161.6" font-size="15" fill="#10233f" font-style="italic" textLength="102.3" lengthAdjust="spacing">Regnum puerile</text>
+<text x="587.4" y="161.6" font-size="15" fill="#3a3226" textLength="164.8" lengthAdjust="spacing">, adică „Regatul copiilor”.</text>
+<text x="62.0" y="186.3" font-size="15" fill="#3a3226" textLength="643.5" lengthAdjust="spacing">Arată cum vedeau lumea jocului copiii de la sfârșitul secolului al XX-lea, la un secol după Ionel din</text>
+<text x="709.5" y="186.3" font-size="15" fill="#10233f" font-style="italic" textLength="48.0" lengthAdjust="spacing">Vizită…</text>
+<text x="757.5" y="186.3" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="40" y="228.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="251.8" font-size="16" font-weight="700" fill="#ffffff">2. JURNALUL CU DUBLĂ INTRARE</text>
+<rect x="40" y="262.9" width="820" height="229.9" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="295.9" font-size="15" fill="#3a3226" font-weight="700">1.</text>
+<text x="81.0" y="295.9" font-size="15" fill="#3a3226" textLength="273.3" lengthAdjust="spacing">Scriu sus titlul textului și numele autoarei.</text>
+<text x="62.0" y="320.6" font-size="15" fill="#3a3226" font-weight="700">2.</text>
+<text x="81.0" y="320.6" font-size="15" fill="#3a3226" textLength="276.2" lengthAdjust="spacing">Împart pagina în două, cu o linie verticală.</text>
+<text x="62.0" y="345.4" font-size="15" fill="#3a3226" font-weight="700">3.</text>
+<text x="81.0" y="345.4" font-size="15" fill="#3a3226" textLength="739.9" lengthAdjust="spacing">În stânga notez o propoziție sau un pasaj care m-a impresionat: mi-a amintit de ceva, nu sunt de acord cu el sau</text>
+<text x="81.0" y="367.1" font-size="15" fill="#3a3226" textLength="81.6" lengthAdjust="spacing">m-a intrigat.</text>
+<text x="62.0" y="391.9" font-size="15" fill="#3a3226" font-weight="700">4.</text>
+<text x="81.0" y="391.9" font-size="15" fill="#3a3226" textLength="354.0" lengthAdjust="spacing">În dreapta explic de ce l-am ales și la ce m-am gândit.</text>
+<rect x="62.0" y="410.4" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="431.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="126.5" lengthAdjust="spacing">Fragmentul din text</text>
+<text x="462.0" y="431.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="191.2" lengthAdjust="spacing">Ce gândesc / ce simt despre el</text>
+<line x1="62.0" y1="441.9" x2="838.0" y2="441.9" stroke="#e3dccb"/>
+<text x="74.0" y="464.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="234.1" lengthAdjust="spacing">„Împăcarea avea culoarea roz-auriu.”</text>
+<text x="462.0" y="464.4" font-size="14.5" fill="#3a3226" textLength="10.6" lengthAdjust="spacing">…</text>
+<line x1="62.0" y1="474.8" x2="838.0" y2="474.8" stroke="#e3dccb"/>
+<line x1="450.0" y1="410.4" x2="450.0" y2="474.8" stroke="#e3dccb"/>
+<rect x="40" y="512.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="535.8" font-size="16" font-weight="700" fill="#ffffff">3. ZIUA ÎN „REGATUL COPIILOR”</text>
+<rect x="40" y="546.8" width="820" height="124.7" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="564.8" width="248.0" height="88.7" rx="12" fill="#ffffff" stroke="#b4432c" stroke-width="2"/>
+<text x="78.0" y="592.8" font-size="16" fill="#b4432c" font-weight="700" textLength="75.5" lengthAdjust="spacing">dimineața</text>
+<text x="78.0" y="616.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="138.6" lengthAdjust="spacing">„era pentru ferocitate”</text>
+<rect x="326.0" y="564.8" width="248.0" height="88.7" rx="12" fill="#ffffff" stroke="#9a7433" stroke-width="2"/>
+<text x="342.0" y="592.8" font-size="16" fill="#9a7433" font-weight="700" textLength="97.4" lengthAdjust="spacing">după-amiaza</text>
+<text x="342.0" y="616.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="136.9" lengthAdjust="spacing">„era vremea jocurilor”</text>
+<rect x="590.0" y="564.8" width="248.0" height="88.7" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="606.0" y="592.8" font-size="16" fill="#6f5ea8" font-weight="700" textLength="39.4" lengthAdjust="spacing">seara</text>
+<text x="606.0" y="616.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="187.8" lengthAdjust="spacing">„timpul împăcărilor, al fericirii</text>
+<text x="606.0" y="637.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="59.4" lengthAdjust="spacing">generale”</text>
+<rect x="40" y="691.4" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="714.4" font-size="16" font-weight="700" fill="#ffffff">4. CUVINTE NOI</text>
+<rect x="40" y="725.4" width="820" height="297.5" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="743.4" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="764.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="56.7" lengthAdjust="spacing">Cuvântul</text>
+<text x="268.0" y="764.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="41.0" lengthAdjust="spacing">Sensul</text>
+<line x1="62.0" y1="775.0" x2="838.0" y2="775.0" stroke="#e3dccb"/>
+<text x="74.0" y="797.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="39.6" lengthAdjust="spacing">exuvie</text>
+<text x="268.0" y="797.5" font-size="14.5" fill="#3a3226" textLength="240.0" lengthAdjust="spacing">înveliș rezultat prin năpârlirea șerpilor</text>
+<line x1="62.0" y1="807.8" x2="838.0" y2="807.8" stroke="#e3dccb"/>
+<text x="74.0" y="830.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="56.8" lengthAdjust="spacing">mârșăvie</text>
+<text x="268.0" y="830.3" font-size="14.5" fill="#3a3226" textLength="139.3" lengthAdjust="spacing">faptă josnică, ticăloșie</text>
+<line x1="62.0" y1="840.7" x2="838.0" y2="840.7" stroke="#e3dccb"/>
+<text x="74.0" y="863.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="58.9" lengthAdjust="spacing">ferocitate</text>
+<text x="268.0" y="863.2" font-size="14.5" fill="#3a3226" textLength="173.9" lengthAdjust="spacing">cruzime, sălbăticie, violență</text>
+<line x1="62.0" y1="873.5" x2="838.0" y2="873.5" stroke="#e3dccb"/>
+<text x="74.0" y="896.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="58.3" lengthAdjust="spacing">scatoalcă</text>
+<text x="268.0" y="896.0" font-size="14.5" fill="#3a3226" textLength="268.2" lengthAdjust="spacing">lovitură dată cu palma sau cu dosul mâinii</text>
+<line x1="62.0" y1="906.4" x2="838.0" y2="906.4" stroke="#e3dccb"/>
+<text x="74.0" y="928.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="56.8" lengthAdjust="spacing">viperenie</text>
+<text x="268.0" y="928.9" font-size="14.5" fill="#3a3226" textLength="270.8" lengthAdjust="spacing">cuvânt inventat de autoare: răutate, jignire</text>
+<line x1="62.0" y1="939.2" x2="838.0" y2="939.2" stroke="#e3dccb"/>
+<text x="74.0" y="961.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="58.3" lengthAdjust="spacing">insinuant</text>
+<text x="268.0" y="961.7" font-size="14.5" fill="#3a3226" textLength="202.6" lengthAdjust="spacing">care strecoară aluzii răutăcioase</text>
+<line x1="62.0" y1="972.1" x2="838.0" y2="972.1" stroke="#e3dccb"/>
+<text x="74.0" y="994.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="39.9" lengthAdjust="spacing">harpie</text>
+<text x="268.0" y="994.6" font-size="14.5" fill="#3a3226" textLength="343.5" lengthAdjust="spacing">monstru din mitologia greacă; femeie arțăgoasă și rea</text>
+<line x1="62.0" y1="1004.9" x2="838.0" y2="1004.9" stroke="#e3dccb"/>
+<line x1="256.0" y1="743.4" x2="256.0" y2="1004.9" stroke="#e3dccb"/>
+<text x="220.5" y="1054.4" font-size="11.5" fill="#5b6b83" textLength="459.0" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 51-52 (prezentarea textului, metoda jurnalului și notele de subsol).</text>
 </svg>

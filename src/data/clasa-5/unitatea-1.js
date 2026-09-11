@@ -504,7 +504,7 @@ export const unitatea1 = {
           ],
         },
         infografic: null,
-        schema: { fisier: '/materiale/clasa-5/unitatea-1/lectia-3/schema.svg', titlu: 'De la cuvântul-cheie la planul de idei' },
+        schema: { fisier: '/materiale/clasa-5/unitatea-1/lectia-3/schema.svg', titlu: 'Cuvântul-cheie. Tema. Planul simplu de idei' },
         altele: [],
       },
     },
@@ -1027,7 +1027,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, pp. 22-23',
-          'Schema „Comunicare verbală, nonverbală, paraverbală” (/materiale/clasa-5/unitatea-1/lectia-8/schema.svg)',
+          'Schema „Exprimarea adecvată a emoțiilor. Roluri în comunicare” (/materiale/clasa-5/unitatea-1/lectia-8/schema.svg)',
           'Quizul cu același titlu (materialul de joc al lecției)',
         ],
         desfasurare: [
@@ -1115,7 +1115,7 @@ export const unitatea1 = {
           ],
         },
         infografic: null,
-        schema: { fisier: '/materiale/clasa-5/unitatea-1/lectia-8/schema.svg', titlu: 'Comunicare verbală, nonverbală, paraverbală' },
+        schema: { fisier: '/materiale/clasa-5/unitatea-1/lectia-8/schema.svg', titlu: 'Exprimarea adecvată a emoțiilor. Roluri în comunicare' },
         altele: [],
       },
     },
@@ -1459,7 +1459,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, pp. 30-31',
-          'Schema „Câmpul lexical, exemplu” (/materiale/clasa-5/unitatea-1/lectia-12/schema.svg)',
+          'Schema „Câmpul lexical” (/materiale/clasa-5/unitatea-1/lectia-12/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -1596,7 +1596,7 @@ export const unitatea1 = {
           ],
         },
         infografic: null,
-        schema: { fisier: '/materiale/clasa-5/unitatea-1/lectia-12/schema.svg', titlu: 'Câmpul lexical, exemplu' },
+        schema: { fisier: '/materiale/clasa-5/unitatea-1/lectia-12/schema.svg', titlu: 'Câmpul lexical' },
         altele: [],
       },
     },
@@ -1618,7 +1618,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, pp. 32-33',
-          'Schema „Vocale, consoane, semivocale” (/materiale/clasa-5/unitatea-1/lectia-13/schema.svg)',
+          'Schema „Tipurile de sunete” (/materiale/clasa-5/unitatea-1/lectia-13/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -1755,7 +1755,7 @@ export const unitatea1 = {
           ],
         },
         infografic: null,
-        schema: { fisier: '/materiale/clasa-5/unitatea-1/lectia-13/schema.svg', titlu: 'Vocale, consoane, semivocale' },
+        schema: { fisier: '/materiale/clasa-5/unitatea-1/lectia-13/schema.svg', titlu: 'Tipurile de sunete' },
         altele: [],
       },
     },

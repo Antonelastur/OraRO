@@ -1,46 +1,113 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="960" height="420" fill="#faf7f0"/>
-  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Două texte, aceeași descoperire</text>
-  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 6 · Text auxiliar, „Hronicul și cântecul vârstelor” de Lucian Blaga</text>
-
-  <g>
-    <rect x="40" y="104" width="380" height="212" rx="18" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-    <rect x="40" y="104" width="380" height="42" rx="18" fill="#3b5fa8"/>
-    <rect x="40" y="132" width="380" height="14" fill="#3b5fa8"/>
-    <text x="230" y="132" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">„Prietenul meu”, Ioana Pârvulescu</text>
-    <text x="64" y="182" font-size="13" font-weight="700" fill="#10233f">Cine descoperă</text>
-    <text x="210" y="182" font-size="13" fill="#3d4a5f">o fetiță, în oraș</text>
-    <text x="64" y="214" font-size="13" font-weight="700" fill="#10233f">Ce descoperă</text>
-    <text x="210" y="214" font-size="13" fill="#3d4a5f">ce înseamnă un prieten</text>
-    <text x="64" y="246" font-size="13" font-weight="700" fill="#10233f">Cu cine împarte</text>
-    <text x="210" y="246" font-size="13" fill="#3d4a5f">cu cititorul, direct</text>
-    <text x="64" y="278" font-size="13" font-weight="700" fill="#10233f">Cum se simte</text>
-    <text x="210" y="278" font-size="13" fill="#3d4a5f">bucurie, apropiere</text>
-  </g>
-
-  <g>
-    <rect x="540" y="104" width="380" height="212" rx="18" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
-    <rect x="540" y="104" width="380" height="42" rx="18" fill="#a1417e"/>
-    <rect x="540" y="132" width="380" height="14" fill="#a1417e"/>
-    <text x="730" y="132" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">„Hronicul...”, Lucian Blaga</text>
-    <text x="564" y="182" font-size="13" font-weight="700" fill="#10233f">Cine descoperă</text>
-    <text x="710" y="182" font-size="13" fill="#3d4a5f">Lulu, în satul natal</text>
-    <text x="564" y="214" font-size="13" font-weight="700" fill="#10233f">Ce descoperă</text>
-    <text x="710" y="214" font-size="13" fill="#3d4a5f">că cerul îl urmărește</text>
-    <text x="564" y="246" font-size="13" font-weight="700" fill="#10233f">Cu cine împarte</text>
-    <text x="710" y="246" font-size="13" fill="#3d4a5f">cu Adam al Vicii, în secret</text>
-    <text x="564" y="278" font-size="13" font-weight="700" fill="#10233f">Cum se simte</text>
-    <text x="710" y="278" font-size="13" fill="#3d4a5f">mirare, apoi nedumerire</text>
-  </g>
-
-  <circle cx="480" cy="210" r="52" fill="#fef8e9" stroke="#b8944f" stroke-width="3"/>
-  <text x="480" y="200" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">CE AU</text>
-  <text x="480" y="220" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">ÎN COMUN</text>
-  <path d="M424 210 L426 210" stroke="#b8944f" stroke-width="3"/>
-  <path d="M420 210 L432 210 M528 210 L540 210" stroke="#b8944f" stroke-width="3"/>
-
-  <rect x="40" y="336" width="880" height="60" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
-  <text x="64" y="362" font-size="13" font-weight="700" fill="#10233f">Amândouă textele:</text>
-  <text x="212" y="362" font-size="13" fill="#3d4a5f">un copil face o descoperire despre lume și simte nevoia să o împartă cu cineva.</text>
-  <text x="64" y="383" font-size="12" font-style="italic" fill="#5b6b83">Aceeași temă, două lumi diferite. Așa comparăm două texte: pe puncte, nu în general.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1296" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1296" fill="#faf7f0"/>
+<text x="49.6" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="803.0" lengthAdjust="spacing">Text auxiliar. „Hronicul și cântecul vârstelor” de Lucian Blaga</text>
+<text x="230.0" y="74.4" font-size="14" fill="#5b6b83" textLength="440.0" lengthAdjust="spacing">Clasa a V-a · Unitatea I, Lecția 6 · Manual, pp. 18-19 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. DESPRE TEXT</text>
+<rect x="40" y="128.6" width="820" height="145.7" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="146.6" width="380.0" height="109.7" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="78.0" y="174.6" font-size="16" fill="#6f5ea8" font-weight="700" textLength="74.4" lengthAdjust="spacing">AUTORUL</text>
+<text x="78.0" y="197.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="86.0" lengthAdjust="spacing">Lucian Blaga</text>
+<text x="167.9" y="197.9" font-size="14.5" fill="#3a3226" textLength="255.6" lengthAdjust="spacing">(1895-1961), unul dintre marii scriitori ai</text>
+<text x="78.0" y="218.9" font-size="14.5" fill="#3a3226" textLength="113.5" lengthAdjust="spacing">literaturii române.</text>
+<rect x="458.0" y="146.6" width="380.0" height="109.7" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="474.0" y="174.6" font-size="16" fill="#0d9c92" font-weight="700" textLength="60.6" lengthAdjust="spacing">CARTEA</text>
+<text x="474.0" y="197.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="181.4" lengthAdjust="spacing">Hronicul și cântecul vârstelor</text>
+<text x="659.3" y="197.9" font-size="14.5" fill="#3a3226" textLength="88.0" lengthAdjust="spacing">evocă etapele</text>
+<text x="474.0" y="218.9" font-size="14.5" fill="#3a3226" textLength="325.2" lengthAdjust="spacing">importante ale vieții autorului; fragmentul e despre</text>
+<text x="474.0" y="239.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="58.4" lengthAdjust="spacing">copilărie</text>
+<text x="532.4" y="239.9" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<rect x="40" y="294.3" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="317.3" font-size="16" font-weight="700" fill="#ffffff">2. CINE, UNDE, CE</text>
+<rect x="40" y="328.3" width="820" height="285.7" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="346.3" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="367.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="66.1" lengthAdjust="spacing">Întrebarea</text>
+<text x="306.8" y="367.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="97.1" lengthAdjust="spacing">Ce aflu din text</text>
+<line x1="62.0" y1="377.8" x2="838.0" y2="377.8" stroke="#e3dccb"/>
+<text x="74.0" y="400.3" font-size="14.5" fill="#3a3226" textLength="107.4" lengthAdjust="spacing">Cine povestește?</text>
+<text x="306.8" y="400.3" font-size="14.5" fill="#3a3226" textLength="173.3" lengthAdjust="spacing">Un copil, strigat de prieteni</text>
+<text x="484.0" y="400.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="72.9" lengthAdjust="spacing">„Lulu Popii”</text>
+<text x="556.9" y="400.3" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="410.7" x2="838.0" y2="410.7" stroke="#e3dccb"/>
+<text x="74.0" y="433.2" font-size="14.5" fill="#3a3226" textLength="122.5" lengthAdjust="spacing">Cine sunt prietenii?</text>
+<text x="306.8" y="433.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="348.4" lengthAdjust="spacing">Vasile Bănățeanu, Roman al lui Tudorel și Adam al Vicii</text>
+<text x="655.2" y="433.2" font-size="14.5" fill="#3a3226" textLength="170.4" lengthAdjust="spacing">, născuți în același an cu el.</text>
+<line x1="62.0" y1="443.5" x2="838.0" y2="443.5" stroke="#e3dccb"/>
+<text x="74.0" y="466.0" font-size="14.5" fill="#3a3226" textLength="110.2" lengthAdjust="spacing">Unde se petrece?</text>
+<text x="306.8" y="466.0" font-size="14.5" fill="#3a3226" textLength="15.7" lengthAdjust="spacing">Pe</text>
+<text x="326.4" y="466.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="30.4" lengthAdjust="spacing">ulița</text>
+<text x="360.7" y="466.0" font-size="14.5" fill="#3a3226" textLength="45.1" lengthAdjust="spacing">satului.</text>
+<line x1="62.0" y1="476.4" x2="838.0" y2="476.4" stroke="#e3dccb"/>
+<text x="74.0" y="498.9" font-size="14.5" fill="#3a3226" textLength="139.3" lengthAdjust="spacing">Ce descoperă copilul?</text>
+<text x="306.8" y="498.9" font-size="14.5" fill="#3a3226" textLength="16.4" lengthAdjust="spacing">Că</text>
+<text x="327.1" y="498.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="33.5" lengthAdjust="spacing">cerul</text>
+<text x="364.5" y="498.9" font-size="14.5" fill="#3a3226" textLength="194.1" lengthAdjust="spacing">(zenitul) merge peste tot cu el.</text>
+<line x1="62.0" y1="509.2" x2="838.0" y2="509.2" stroke="#e3dccb"/>
+<text x="74.0" y="531.8" font-size="14.5" fill="#3a3226" textLength="157.9" lengthAdjust="spacing">Ce face cu descoperirea?</text>
+<text x="306.8" y="531.8" font-size="14.5" fill="#3a3226" textLength="39.0" lengthAdjust="spacing">O ține</text>
+<text x="349.7" y="531.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="40.5" lengthAdjust="spacing">secret</text>
+<text x="390.2" y="531.8" font-size="14.5" fill="#3a3226" textLength="208.4" lengthAdjust="spacing">, apoi i-o spune lui Adam al Vicii.</text>
+<line x1="62.0" y1="542.1" x2="838.0" y2="542.1" stroke="#e3dccb"/>
+<text x="74.0" y="564.6" font-size="14.5" fill="#3a3226" textLength="107.2" lengthAdjust="spacing">Ce încercare fac?</text>
+<text x="306.8" y="564.6" font-size="14.5" fill="#3a3226" textLength="512.7" lengthAdjust="spacing">Unul o ia pe uliță în sus, celălalt în jos: dacă cerul merge cu amândoi, ar trebui să</text>
+<text x="306.8" y="585.6" font-size="14.5" fill="#3a3226" textLength="49.4" lengthAdjust="spacing">„crape”.</text>
+<line x1="62.0" y1="596.0" x2="838.0" y2="596.0" stroke="#e3dccb"/>
+<line x1="294.8" y1="346.3" x2="294.8" y2="596.0" stroke="#e3dccb"/>
+<rect x="40" y="634.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="657.0" font-size="16" font-weight="700" fill="#ffffff">3. CUVINTE NOI</text>
+<rect x="40" y="668.0" width="820" height="396.1" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="686.0" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="707.5" font-size="13.5" fill="#10233f" font-weight="700" textLength="56.7" lengthAdjust="spacing">Cuvântul</text>
+<text x="399.9" y="707.5" font-size="13.5" fill="#10233f" font-weight="700" textLength="94.2" lengthAdjust="spacing">Sensul din text</text>
+<line x1="62.0" y1="717.5" x2="838.0" y2="717.5" stroke="#e3dccb"/>
+<text x="74.0" y="740.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="42.0" lengthAdjust="spacing">auroră</text>
+<text x="399.9" y="740.0" font-size="14.5" fill="#3a3226" textLength="154.6" lengthAdjust="spacing">început al unei perioade</text>
+<line x1="62.0" y1="750.4" x2="838.0" y2="750.4" stroke="#e3dccb"/>
+<text x="74.0" y="772.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="60.9" lengthAdjust="spacing">într-adins</text>
+<text x="399.9" y="772.9" font-size="14.5" fill="#3a3226" textLength="70.0" lengthAdjust="spacing">intenționat</text>
+<line x1="62.0" y1="783.2" x2="838.0" y2="783.2" stroke="#e3dccb"/>
+<text x="74.0" y="805.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="30.2" lengthAdjust="spacing">zenit</text>
+<text x="399.9" y="805.7" font-size="14.5" fill="#3a3226" textLength="163.8" lengthAdjust="spacing">cerul de deasupra capului</text>
+<line x1="62.0" y1="816.1" x2="838.0" y2="816.1" stroke="#e3dccb"/>
+<text x="74.0" y="838.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="58.4" lengthAdjust="spacing">a tălmăci</text>
+<text x="399.9" y="838.6" font-size="14.5" fill="#3a3226" textLength="121.9" lengthAdjust="spacing">a explica, a traduce</text>
+<line x1="62.0" y1="848.9" x2="838.0" y2="848.9" stroke="#e3dccb"/>
+<text x="74.0" y="871.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="218.5" lengthAdjust="spacing">a ține sub trei lacăte și șapte peceți</text>
+<text x="399.9" y="871.4" font-size="14.5" fill="#3a3226" textLength="125.4" lengthAdjust="spacing">a ține în secret ceva</text>
+<line x1="62.0" y1="881.8" x2="838.0" y2="881.8" stroke="#e3dccb"/>
+<text x="74.0" y="904.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="35.2" lengthAdjust="spacing">răgaz</text>
+<text x="399.9" y="904.3" font-size="14.5" fill="#3a3226" textLength="132.5" lengthAdjust="spacing">interval de timp liber</text>
+<line x1="62.0" y1="914.6" x2="838.0" y2="914.6" stroke="#e3dccb"/>
+<text x="74.0" y="937.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="82.6" lengthAdjust="spacing">a o lua razna</text>
+<text x="399.9" y="937.1" font-size="14.5" fill="#3a3226" textLength="196.6" lengthAdjust="spacing">a pleca la întâmplare, fără țintă</text>
+<line x1="62.0" y1="947.5" x2="838.0" y2="947.5" stroke="#e3dccb"/>
+<text x="74.0" y="970.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="33.3" lengthAdjust="spacing">sacru</text>
+<text x="399.9" y="970.0" font-size="14.5" fill="#3a3226" textLength="31.2" lengthAdjust="spacing">sfânt</text>
+<line x1="62.0" y1="980.3" x2="838.0" y2="980.3" stroke="#e3dccb"/>
+<text x="74.0" y="1002.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="45.5" lengthAdjust="spacing">dezolat</text>
+<text x="399.9" y="1002.8" font-size="14.5" fill="#3a3226" textLength="66.4" lengthAdjust="spacing">foarte trist</text>
+<line x1="62.0" y1="1013.2" x2="838.0" y2="1013.2" stroke="#e3dccb"/>
+<text x="74.0" y="1035.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="56.7" lengthAdjust="spacing">a mântui</text>
+<text x="399.9" y="1035.7" font-size="14.5" fill="#3a3226" textLength="60.5" lengthAdjust="spacing">a termina</text>
+<line x1="62.0" y1="1046.0" x2="838.0" y2="1046.0" stroke="#e3dccb"/>
+<line x1="387.9" y1="686.0" x2="387.9" y2="1046.0" stroke="#e3dccb"/>
+<rect x="40" y="1084.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="1107.0" font-size="16" font-weight="700" fill="#ffffff">4. LEGĂTURA CU „PRIETENUL MEU”</text>
+<rect x="40" y="1118.0" width="820" height="126.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="1151.0" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="1151.0" font-size="15" fill="#10233f" font-style="italic" textLength="90.9" lengthAdjust="spacing">Prietenul meu</text>
+<text x="169.2" y="1151.0" font-size="15" fill="#3a3226" textLength="256.8" lengthAdjust="spacing">de Ioana Pârvulescu: este vorba despre</text>
+<text x="430.0" y="1151.0" font-size="15" fill="#3a3226" font-weight="700" textLength="63.0" lengthAdjust="spacing">prietenie</text>
+<text x="493.0" y="1151.0" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="1175.8" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="1175.8" font-size="15" fill="#10233f" font-style="italic" textLength="187.7" lengthAdjust="spacing">Hronicul și cântecul vârstelor</text>
+<text x="261.9" y="1175.8" font-size="15" fill="#3a3226" textLength="82.7" lengthAdjust="spacing">: amintiri din</text>
+<text x="348.6" y="1175.8" font-size="15" fill="#3a3226" font-weight="700" textLength="60.5" lengthAdjust="spacing">copilărie</text>
+<text x="409.0" y="1175.8" font-size="15" fill="#3a3226" textLength="127.3" lengthAdjust="spacing">, cu prietenii numiți</text>
+<text x="540.4" y="1175.8" font-size="15" fill="#10233f" font-style="italic" textLength="187.3" lengthAdjust="spacing">„rudele mai presus de sânge”</text>
+<text x="727.7" y="1175.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="1200.5" font-size="15" fill="#3a3226" font-weight="700" textLength="55.6" lengthAdjust="spacing">În caiet:</text>
+<text x="121.7" y="1200.5" font-size="15" fill="#3a3226" textLength="706.5" lengthAdjust="spacing">ce legătură văd între cele două texte? Delimitez fragmentul, găsesc cuvintele-cheie și scriu planul simplu de</text>
+<text x="62.0" y="1222.3" font-size="15" fill="#3a3226" textLength="116.1" lengthAdjust="spacing">idei, ca în lecția 3.</text>
+<text x="271.5" y="1276.3" font-size="11.5" fill="#5b6b83" textLength="357.1" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 18-19 (textul, prezentarea și notele de subsol).</text>
 </svg>

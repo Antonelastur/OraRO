@@ -1,70 +1,150 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="460" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Sunetele limbii române</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 13 · Tipurile de sunete</text>
-
-  <!-- Vocale -->
-  <g>
-    <rect x="30" y="90" width="260" height="330" rx="18" fill="#ffffff" stroke="#6f5ea8" stroke-width="2.5"/>
-    <text x="160" y="126" text-anchor="middle" font-size="17" font-weight="700" fill="#6f5ea8">VOCALE</text>
-    <text font-size="12" fill="#3a3226" text-anchor="middle">
-      <tspan x="160" y="150">Se pronunță neînsoțite de</tspan>
-      <tspan x="160" y="166">alt sunet și pot forma</tspan>
-      <tspan x="160" y="182">singure o silabă.</tspan>
-    </text>
-    <g font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">
-      <circle cx="75" cy="230" r="24" fill="#6f5ea8"/><text x="75" y="236">a</text>
-      <circle cx="135" cy="230" r="24" fill="#6f5ea8"/><text x="135" y="236">ă</text>
-      <circle cx="195" cy="230" r="24" fill="#6f5ea8"/><text x="195" y="236">î</text>
-      <circle cx="255" cy="230" r="24" fill="#6f5ea8"/><text x="255" y="236">e</text>
-      <circle cx="105" cy="286" r="24" fill="#6f5ea8"/><text x="105" y="292">i</text>
-      <circle cx="165" cy="286" r="24" fill="#6f5ea8"/><text x="165" y="292">o</text>
-      <circle cx="225" cy="286" r="24" fill="#6f5ea8"/><text x="225" y="292">u</text>
-    </g>
-    <text x="160" y="400" text-anchor="middle" font-size="11.5" fill="#5b6b83">a, ă, î sunt întotdeauna vocale</text>
-  </g>
-
-  <!-- Consoane -->
-  <g>
-    <rect x="320" y="90" width="260" height="330" rx="18" fill="#ffffff" stroke="#0d9c92" stroke-width="2.5"/>
-    <text x="450" y="126" text-anchor="middle" font-size="17" font-weight="700" fill="#0d9c92">CONSOANE</text>
-    <text font-size="12" fill="#3a3226" text-anchor="middle">
-      <tspan x="450" y="150">Nu pot forma singure</tspan>
-      <tspan x="450" y="166">o silabă, se pronunță</tspan>
-      <tspan x="450" y="182">cu ajutorul unei vocale.</tspan>
-    </text>
-    <text x="450" y="215" text-anchor="middle" font-size="13.5" fill="#10233f" font-weight="600">b c d f g h j l m</text>
-    <text x="450" y="242" text-anchor="middle" font-size="13.5" fill="#10233f" font-weight="600">n p r s ș t ț v z</text>
-    <rect x="360" y="270" width="180" height="120" rx="12" fill="#0d9c9214"/>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="450" y="296">18 consoane redate,</tspan>
-      <tspan x="450" y="314">de regulă, printr-o</tspan>
-      <tspan x="450" y="332">singură literă.</tspan>
-      <tspan x="450" y="358">O silabă conține</tspan>
-      <tspan x="450" y="376">o singură vocală.</tspan>
-    </text>
-  </g>
-
-  <!-- Semivocale -->
-  <g>
-    <rect x="610" y="90" width="260" height="330" rx="18" fill="#ffffff" stroke="#b8944f" stroke-width="2.5"/>
-    <text x="740" y="126" text-anchor="middle" font-size="17" font-weight="700" fill="#b8944f">SEMIVOCALE</text>
-    <text font-size="12" fill="#3a3226" text-anchor="middle">
-      <tspan x="740" y="150">Seamănă cu vocalele,</tspan>
-      <tspan x="740" y="166">dar nu pot forma</tspan>
-      <tspan x="740" y="182">singure o silabă.</tspan>
-    </text>
-    <g font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">
-      <circle cx="680" cy="240" r="24" fill="#b8944f"/><text x="680" y="246">ĕ</text>
-      <circle cx="740" cy="240" r="24" fill="#b8944f"/><text x="740" y="246">ĭ</text>
-      <circle cx="680" cy="296" r="24" fill="#b8944f"/><text x="680" y="302">ŏ</text>
-      <circle cx="740" cy="296" r="24" fill="#b8944f"/><text x="740" y="302">ŭ</text>
-    </g>
-    <text font-size="11.5" fill="#5b6b83" text-anchor="middle">
-      <tspan x="740" y="360">Ex.: noi (i = semivocală)</tspan>
-      <tspan x="740" y="378">metri (i = vocală)</tspan>
-    </text>
-  </g>
-
-  <text x="450" y="448" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual Art 5, pp. 32-33 (Repere)</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1395" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1395" fill="#faf7f0"/>
+<text x="332.0" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="236.6" lengthAdjust="spacing">Tipurile de sunete</text>
+<text x="226.2" y="74.4" font-size="14" fill="#5b6b83" textLength="447.6" lengthAdjust="spacing">Clasa a V-a · Unitatea I, Lecția 13 · Manual, pp. 32-33 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. SUNETELE LIMBII ROMÂNE</text>
+<rect x="40" y="128.6" width="820" height="358.8" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="146.6" width="248.0" height="154.6" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="174.6" font-size="16" fill="#0d9c92" font-weight="700" textLength="61.0" lengthAdjust="spacing">vocalele</text>
+<text x="78.0" y="197.9" font-size="14.5" fill="#3a3226" textLength="76.8" lengthAdjust="spacing">se pronunță</text>
+<text x="158.8" y="197.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="68.0" lengthAdjust="spacing">neînsoțite</text>
+<text x="230.7" y="197.9" font-size="14.5" fill="#3a3226" textLength="62.6" lengthAdjust="spacing">de sunete</text>
+<text x="78.0" y="218.9" font-size="14.5" fill="#3a3226" textLength="139.8" lengthAdjust="spacing">de sprijin și pot forma</text>
+<text x="221.7" y="218.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="63.7" lengthAdjust="spacing">singure o</text>
+<text x="78.0" y="239.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="39.1" lengthAdjust="spacing">silabă</text>
+<text x="78.0" y="263.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="172.3" lengthAdjust="spacing">[a], [ă], [î], [e], [i], [o], [u]</text>
+<rect x="326.0" y="146.6" width="248.0" height="154.6" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="342.0" y="174.6" font-size="16" fill="#6f5ea8" font-weight="700" textLength="84.2" lengthAdjust="spacing">consoanele</text>
+<text x="342.0" y="197.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="145.4" lengthAdjust="spacing">nu pot forma singure</text>
+<text x="491.4" y="197.9" font-size="14.5" fill="#3a3226" textLength="52.1" lengthAdjust="spacing">o silabă;</text>
+<text x="342.0" y="218.9" font-size="14.5" fill="#3a3226" textLength="180.5" lengthAdjust="spacing">se pronunță cu ajutorul unei</text>
+<text x="342.0" y="239.9" font-size="14.5" fill="#3a3226" textLength="40.6" lengthAdjust="spacing">vocale</text>
+<text x="342.0" y="263.9" font-size="14.5" fill="#3a3226" textLength="203.5" lengthAdjust="spacing">[b], [k], [d], [f], [g], [h], [j], [l], [m],</text>
+<text x="342.0" y="284.9" font-size="14.5" fill="#3a3226" textLength="192.6" lengthAdjust="spacing">[n], [p], [r], [s], [ș], [t], [ț], [v], [z]</text>
+<rect x="590.0" y="146.6" width="248.0" height="154.6" rx="12" fill="#ffffff" stroke="#9a7433" stroke-width="2"/>
+<text x="606.0" y="174.6" font-size="16" fill="#9a7433" font-weight="700" textLength="95.8" lengthAdjust="spacing">semivocalele</text>
+<text x="606.0" y="197.9" font-size="14.5" fill="#3a3226" textLength="159.1" lengthAdjust="spacing">seamănă cu vocalele, dar</text>
+<text x="769.0" y="197.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="45.2" lengthAdjust="spacing">nu pot</text>
+<text x="606.0" y="218.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="96.1" lengthAdjust="spacing">forma singure</text>
+<text x="706.0" y="218.9" font-size="14.5" fill="#3a3226" textLength="48.9" lengthAdjust="spacing">o silabă</text>
+<text x="606.0" y="242.8" font-size="14.5" fill="#3a3226" textLength="145.9" lengthAdjust="spacing">se notează cu căciuliță:</text>
+<text x="755.8" y="242.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="45.2" lengthAdjust="spacing">[ĕ], [ĭ],</text>
+<text x="606.0" y="263.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="47.1" lengthAdjust="spacing">[ŏ], [ŭ]</text>
+<text x="62.0" y="330.2" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="330.2" font-size="15" fill="#3a3226" textLength="106.3" lengthAdjust="spacing">O silabă conține</text>
+<text x="184.6" y="330.2" font-size="15" fill="#3a3226" font-weight="700" textLength="114.9" lengthAdjust="spacing">o singură vocală</text>
+<text x="299.5" y="330.2" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="355.0" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="355.0" font-size="15" fill="#3a3226" textLength="57.1" lengthAdjust="spacing">Sunetele</text>
+<text x="135.4" y="355.0" font-size="15" fill="#3a3226" font-weight="700" textLength="70.2" lengthAdjust="spacing">[a], [ă], [î]</text>
+<text x="209.6" y="355.0" font-size="15" fill="#3a3226" textLength="162.1" lengthAdjust="spacing">sunt întotdeauna vocale.</text>
+<rect x="62.0" y="373.5" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="395.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="35.9" lengthAdjust="spacing">Litere</text>
+<text x="322.1" y="395.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="7.6" lengthAdjust="spacing">Ș</text>
+<text x="414.8" y="395.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="8.4" lengthAdjust="spacing">C</text>
+<text x="506.9" y="395.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="10.3" lengthAdjust="spacing">O</text>
+<text x="600.5" y="395.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="9.4" lengthAdjust="spacing">A</text>
+<text x="694.9" y="395.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="6.9" lengthAdjust="spacing">L</text>
+<text x="786.7" y="395.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="9.4" lengthAdjust="spacing">Ă</text>
+<line x1="62.0" y1="405.1" x2="838.0" y2="405.1" stroke="#e3dccb"/>
+<text x="74.0" y="427.6" font-size="14.5" fill="#3a3226" textLength="93.5" lengthAdjust="spacing">Felul sunetelor</text>
+<text x="321.3" y="427.6" font-size="14.5" fill="#3a3226" textLength="9.0" lengthAdjust="spacing">C</text>
+<text x="414.5" y="427.6" font-size="14.5" fill="#3a3226" textLength="9.0" lengthAdjust="spacing">C</text>
+<text x="508.2" y="427.6" font-size="14.5" fill="#3a3226" textLength="7.7" lengthAdjust="spacing">S</text>
+<text x="600.7" y="427.6" font-size="14.5" fill="#3a3226" textLength="9.0" lengthAdjust="spacing">V</text>
+<text x="693.8" y="427.6" font-size="14.5" fill="#3a3226" textLength="9.0" lengthAdjust="spacing">C</text>
+<text x="786.9" y="427.6" font-size="14.5" fill="#3a3226" textLength="9.0" lengthAdjust="spacing">V</text>
+<line x1="62.0" y1="437.9" x2="838.0" y2="437.9" stroke="#e3dccb"/>
+<line x1="279.3" y1="373.5" x2="279.3" y2="437.9" stroke="#e3dccb"/>
+<line x1="372.4" y1="373.5" x2="372.4" y2="437.9" stroke="#e3dccb"/>
+<line x1="465.5" y1="373.5" x2="465.5" y2="437.9" stroke="#e3dccb"/>
+<line x1="558.6" y1="373.5" x2="558.6" y2="437.9" stroke="#e3dccb"/>
+<line x1="651.8" y1="373.5" x2="651.8" y2="437.9" stroke="#e3dccb"/>
+<line x1="744.9" y1="373.5" x2="744.9" y2="437.9" stroke="#e3dccb"/>
+<text x="62.0" y="465.4" font-size="13.5" fill="#5b6b83" textLength="246.4" lengthAdjust="spacing">V = vocală, C = consoană, S = semivocală</text>
+<rect x="40" y="507.4" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="530.4" font-size="16" font-weight="700" fill="#ffffff">2. I „ȘOPTIT”</text>
+<rect x="40" y="541.4" width="820" height="199.6" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="574.4" font-size="15" fill="#3a3226" textLength="263.4" lengthAdjust="spacing">La sfârșitul unui cuvânt poate apărea un</text>
+<text x="329.4" y="574.4" font-size="15" fill="#3a3226" font-weight="700" textLength="64.0" lengthAdjust="spacing">i „șoptit”</text>
+<text x="393.5" y="574.4" font-size="15" fill="#3a3226" textLength="288.6" lengthAdjust="spacing">. Nu îl confund cu vocala sau cu semivocala:</text>
+<rect x="62.0" y="592.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="227.7" y="614.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="56.7" lengthAdjust="spacing">Cuvântul</text>
+<text x="594.5" y="614.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="99.6" lengthAdjust="spacing">i de la final este</text>
+<line x1="62.0" y1="624.5" x2="838.0" y2="624.5" stroke="#e3dccb"/>
+<text x="240.1" y="647.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="31.9" lengthAdjust="spacing">pomi</text>
+<text x="616.5" y="647.0" font-size="14.5" fill="#3a3226" textLength="55.0" lengthAdjust="spacing">i „șoptit”</text>
+<line x1="62.0" y1="657.3" x2="838.0" y2="657.3" stroke="#e3dccb"/>
+<text x="239.4" y="679.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="33.2" lengthAdjust="spacing">metri</text>
+<text x="623.8" y="679.8" font-size="14.5" fill="#3a3226" textLength="40.5" lengthAdjust="spacing">vocală</text>
+<line x1="62.0" y1="690.2" x2="838.0" y2="690.2" stroke="#e3dccb"/>
+<text x="246.1" y="712.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="19.7" lengthAdjust="spacing">noi</text>
+<text x="609.0" y="712.7" font-size="14.5" fill="#3a3226" textLength="70.0" lengthAdjust="spacing">semivocală</text>
+<line x1="62.0" y1="723.0" x2="838.0" y2="723.0" stroke="#e3dccb"/>
+<line x1="450.0" y1="592.9" x2="450.0" y2="723.0" stroke="#e3dccb"/>
+<rect x="40" y="761.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="784.0" font-size="16" font-weight="700" fill="#ffffff">3. LITERA ȘI ALFABETUL</text>
+<rect x="40" y="795.0" width="820" height="165.4" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="828.0" font-size="15" fill="#3a3226" font-weight="700" textLength="39.9" lengthAdjust="spacing">Litera</text>
+<text x="106.0" y="828.0" font-size="15" fill="#3a3226" textLength="374.2" lengthAdjust="spacing">este semnul grafic al unui sunet. Limba română folosește</text>
+<text x="484.2" y="828.0" font-size="15" fill="#3a3226" font-weight="700" textLength="98.4" lengthAdjust="spacing">alfabetul latin</text>
+<text x="582.6" y="828.0" font-size="15" fill="#3a3226" textLength="22.8" lengthAdjust="spacing">, cu</text>
+<text x="609.5" y="828.0" font-size="15" fill="#3a3226" font-weight="700" textLength="79.7" lengthAdjust="spacing">31 de litere</text>
+<text x="689.1" y="828.0" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="62.0" y="862.0" font-size="15.5" fill="#10233f" font-style="italic" textLength="452.8" lengthAdjust="spacing">a, ă, â, b, c, d, e, f, g, h, i, î, j, k, l, m, n, o, p, q, r, s, ș, t, ț, u, v, w, x, y, z</text>
+<rect x="62.0" y="880.7" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="880.7" width="6" height="61.7" rx="3" fill="#b4432c"/><text x="84.0" y="907.2" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="926.0" font-size="14.5" fill="#3a3226" textLength="57.3" lengthAdjust="spacing">Folosirea</text>
+<text x="145.2" y="926.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="80.9" lengthAdjust="spacing">diacriticelor</text>
+<text x="230.0" y="926.0" font-size="14.5" fill="#3a3226" textLength="173.1" lengthAdjust="spacing">(ă, â, î, ș, ț) este obligatorie:</text>
+<text x="407.1" y="926.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="66.1" lengthAdjust="spacing">tara – țara</text>
+<text x="473.2" y="926.0" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="480.3" y="926.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="49.9" lengthAdjust="spacing">sal – șal</text>
+<text x="534.1" y="926.0" font-size="14.5" fill="#3a3226" textLength="129.8" lengthAdjust="spacing">sunt cuvinte diferite.</text>
+<rect x="40" y="980.4" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="1003.4" font-size="16" font-weight="700" fill="#ffffff">4. CORESPONDENȚA SUNET – LITERĂ</text>
+<rect x="40" y="1014.4" width="820" height="329.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="1047.4" font-size="15" fill="#3a3226" textLength="289.8" lengthAdjust="spacing">În general, o literă transcrie un singur sunet.</text>
+<text x="355.8" y="1047.4" font-size="15" fill="#3a3226" font-weight="700" textLength="59.1" lengthAdjust="spacing">Excepții:</text>
+<rect x="62.0" y="1065.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="1087.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="48.5" lengthAdjust="spacing">Situația</text>
+<text x="462.0" y="1087.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="53.7" lengthAdjust="spacing">Exemple</text>
+<line x1="62.0" y1="1097.5" x2="838.0" y2="1097.5" stroke="#e3dccb"/>
+<text x="74.0" y="1120.0" font-size="14.5" fill="#3a3226" textLength="175.2" lengthAdjust="spacing">o literă → mai multe sunete</text>
+<text x="462.0" y="1120.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="8.0" lengthAdjust="spacing">x</text>
+<text x="473.9" y="1120.0" font-size="14.5" fill="#3a3226" textLength="89.2" lengthAdjust="spacing">= [ks] sau [gz]</text>
+<line x1="62.0" y1="1130.3" x2="838.0" y2="1130.3" stroke="#e3dccb"/>
+<text x="74.0" y="1152.8" font-size="14.5" fill="#3a3226" textLength="175.7" lengthAdjust="spacing">un sunet → mai multe litere</text>
+<text x="462.0" y="1152.8" font-size="14.5" fill="#3a3226" textLength="26.0" lengthAdjust="spacing">[î] =</text>
+<text x="491.9" y="1152.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="4.1" lengthAdjust="spacing">î</text>
+<text x="495.9" y="1152.8" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="503.0" y="1152.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="7.8" lengthAdjust="spacing">â</text>
+<text x="510.9" y="1152.8" font-size="14.5" fill="#3a3226" textLength="36.8" lengthAdjust="spacing">; [k] =</text>
+<text x="551.6" y="1152.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="7.0" lengthAdjust="spacing">c</text>
+<text x="558.6" y="1152.8" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="565.7" y="1152.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="9.0" lengthAdjust="spacing">q</text>
+<text x="574.7" y="1152.8" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="581.8" y="1152.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="8.1" lengthAdjust="spacing">k</text>
+<line x1="62.0" y1="1163.2" x2="838.0" y2="1163.2" stroke="#e3dccb"/>
+<text x="74.0" y="1185.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="182.6" lengthAdjust="spacing">ce, ci, ge, gi, che, chi, ghe, ghi</text>
+<text x="260.5" y="1185.7" font-size="14.5" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">=</text>
+<text x="274.2" y="1185.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="59.3" lengthAdjust="spacing">un sunet</text>
+<text x="462.0" y="1185.7" font-size="14.5" fill="#3a3226" textLength="205.5" lengthAdjust="spacing">când în silabă urmează o vocală:</text>
+<text x="671.4" y="1185.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="40.2" lengthAdjust="spacing">cea-ră</text>
+<line x1="62.0" y1="1196.0" x2="838.0" y2="1196.0" stroke="#e3dccb"/>
+<text x="74.0" y="1218.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="182.6" lengthAdjust="spacing">ce, ci, ge, gi, che, chi, ghe, ghi</text>
+<text x="260.5" y="1218.5" font-size="14.5" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">=</text>
+<text x="274.2" y="1218.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="84.0" lengthAdjust="spacing">două sunete</text>
+<text x="462.0" y="1218.5" font-size="14.5" fill="#3a3226" textLength="175.3" lengthAdjust="spacing">când urmează o consoană (</text>
+<text x="637.3" y="1218.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="59.0" lengthAdjust="spacing">cen-tu-ră</text>
+<text x="696.3" y="1218.5" font-size="14.5" fill="#3a3226" textLength="93.4" lengthAdjust="spacing">) sau formează</text>
+<text x="462.0" y="1239.5" font-size="14.5" fill="#3a3226" textLength="95.8" lengthAdjust="spacing">singure silaba (</text>
+<text x="557.8" y="1239.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="34.1" lengthAdjust="spacing">ci-reș</text>
+<text x="591.9" y="1239.5" font-size="14.5" fill="#3a3226" textLength="4.3" lengthAdjust="spacing">)</text>
+<line x1="62.0" y1="1249.9" x2="838.0" y2="1249.9" stroke="#e3dccb"/>
+<line x1="450.0" y1="1065.9" x2="450.0" y2="1249.9" stroke="#e3dccb"/>
+<rect x="62.0" y="1263.9" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="1263.9" width="6" height="61.7" rx="3" fill="#b4432c"/><text x="84.0" y="1290.4" font-size="14.5" fill="#b4432c" font-weight="700" textLength="57.1" lengthAdjust="spacing">Excepții:</text>
+<text x="84.0" y="1309.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="252.4" lengthAdjust="spacing">a-so-ci-at, ghi-o-cel, li-ce-an, re-gi-u-ne</text>
+<text x="336.4" y="1309.2" font-size="14.5" fill="#3a3226" textLength="360.5" lengthAdjust="spacing">: grupul e înaintea unei vocale, dar notează două sunete.</text>
+<text x="126.6" y="1375.1" font-size="11.5" fill="#5b6b83" textLength="646.9" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 32-33, rubricile Repere; modelul ȘCOALĂ e din manual. Unele exemple sunt create pentru aceste notițe.</text>
 </svg>
