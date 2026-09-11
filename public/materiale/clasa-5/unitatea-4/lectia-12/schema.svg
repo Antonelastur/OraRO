@@ -1,36 +1,96 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 456" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="940" height="456" fill="#faf7f0"/>
-  <text x="470" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Din SMS în limba română corectă</text>
-  <text x="470" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 12 · Pronumele personal, aspecte normative</text>
-  <rect x="40" y="100" width="400" height="46" rx="12" fill="#c1503a"/>
-  <text x="240" y="129" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">CUM SCRIU ÎN GRABĂ</text>
-  <rect x="500" y="100" width="400" height="46" rx="12" fill="#1c7f5e"/>
-  <text x="700" y="129" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">CUM SE SCRIE CORECT</text>
-  <rect x="40" y="158" width="400" height="44" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="60" y="186" font-size="13" fill="#3d4a5f">nush ce sa fac</text>
-  <path d="M448 180 L482 180" stroke="#b8944f" stroke-width="2.5"/>
-  <path d="M476 174 L486 180 L476 186 Z" fill="#b8944f"/>
-  <rect x="500" y="158" width="400" height="44" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="520" y="186" font-size="13" fill="#10233f">Nu știu ce să fac.</text>
-  <rect x="40" y="212" width="400" height="44" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="60" y="240" font-size="13" fill="#3d4a5f">ma duc si eu acolo</text>
-  <path d="M448 234 L482 234" stroke="#b8944f" stroke-width="2.5"/>
-  <path d="M476 228 L486 234 L476 240 Z" fill="#b8944f"/>
-  <rect x="500" y="212" width="400" height="44" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="520" y="240" font-size="13" fill="#10233f">Mă duc și eu acolo.</text>
-  <rect x="40" y="266" width="400" height="44" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="60" y="294" font-size="13" fill="#3d4a5f">kd vii?</text>
-  <path d="M448 288 L482 288" stroke="#b8944f" stroke-width="2.5"/>
-  <path d="M476 282 L486 288 L476 294 Z" fill="#b8944f"/>
-  <rect x="500" y="266" width="400" height="44" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="520" y="294" font-size="13" fill="#10233f">Când vii?</text>
-  <rect x="40" y="320" width="400" height="44" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="60" y="348" font-size="13" fill="#3d4a5f">mersi mult :)</text>
-  <path d="M448 342 L482 342" stroke="#b8944f" stroke-width="2.5"/>
-  <path d="M476 336 L486 342 L476 348 Z" fill="#b8944f"/>
-  <rect x="500" y="320" width="400" height="44" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="520" y="348" font-size="13" fill="#10233f">Mulțumesc mult.</text>
-  <rect x="40" y="380" width="860" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="62" y="405" font-size="13" font-weight="700" fill="#10233f">Nu e vorba că SMS-ul e greșit</text>
-  <text x="62" y="425" font-size="12" fill="#3d4a5f">e vorba că fiecare situație cere altă scriere. La școală și în texte oficiale se scrie complet, cu diacritice.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 877" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="877" fill="#faf7f0"/>
+<text x="91.3" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="719.3" lengthAdjust="spacing">Pronumele personal. Din SMS în limba română corectă</text>
+<text x="232.6" y="74.4" font-size="14" fill="#5b6b83" textLength="434.8" lengthAdjust="spacing">Clasa a V-a · Unitatea IV, Lecția 12 · Manual, p. 127 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. PRONUMELE SCURTE SE LEAGĂ CU CRATIMĂ</text>
+<rect x="40" y="128.6" width="820" height="232.4" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" textLength="387.7" lengthAdjust="spacing">Formele neaccentuate ale pronumelui personal se leagă cu</text>
+<text x="453.8" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="53.2" lengthAdjust="spacing">cratimă</text>
+<text x="511.1" y="161.6" font-size="15" fill="#3a3226" textLength="118.2" lengthAdjust="spacing">de cuvântul vecin:</text>
+<rect x="62.0" y="180.1" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="201.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="42.9" lengthAdjust="spacing">Scriem</text>
+<text x="213.7" y="201.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="61.0" lengthAdjust="spacing">Înseamnă</text>
+<text x="500.8" y="201.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="211.7" x2="838.0" y2="211.7" stroke="#e3dccb"/>
+<text x="74.0" y="234.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="25.8" lengthAdjust="spacing">nu-l</text>
+<text x="213.7" y="234.2" font-size="14.5" fill="#3a3226" textLength="41.2" lengthAdjust="spacing">nu + îl</text>
+<text x="500.8" y="234.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="76.4" lengthAdjust="spacing">Nu-l găsesc.</text>
+<line x1="62.0" y1="244.5" x2="838.0" y2="244.5" stroke="#e3dccb"/>
+<text x="74.0" y="267.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="21.8" lengthAdjust="spacing">n-o</text>
+<text x="213.7" y="267.0" font-size="14.5" fill="#3a3226" textLength="42.8" lengthAdjust="spacing">nu + o</text>
+<text x="500.8" y="267.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="65.7" lengthAdjust="spacing">N-o chem.</text>
+<line x1="62.0" y1="277.4" x2="838.0" y2="277.4" stroke="#e3dccb"/>
+<text x="74.0" y="299.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="25.8" lengthAdjust="spacing">nu-i</text>
+<text x="213.7" y="299.9" font-size="14.5" fill="#3a3226" textLength="41.2" lengthAdjust="spacing">nu + îi</text>
+<text x="500.8" y="299.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="102.4" lengthAdjust="spacing">Nu-i dau cartea.</text>
+<line x1="62.0" y1="310.2" x2="838.0" y2="310.2" stroke="#e3dccb"/>
+<text x="74.0" y="332.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="23.1" lengthAdjust="spacing">ce-l</text>
+<text x="213.7" y="332.7" font-size="14.5" fill="#3a3226" textLength="38.9" lengthAdjust="spacing">ce + îl</text>
+<text x="500.8" y="332.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="71.9" lengthAdjust="spacing">Ce-l doare?</text>
+<line x1="62.0" y1="343.1" x2="838.0" y2="343.1" stroke="#e3dccb"/>
+<line x1="201.7" y1="180.1" x2="201.7" y2="343.0" stroke="#e3dccb"/>
+<line x1="488.8" y1="180.1" x2="488.8" y2="343.0" stroke="#e3dccb"/>
+<rect x="40" y="381.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="404.0" font-size="16" font-weight="700" fill="#ffffff">2. CUVINTE CARE SE AUD LA FEL</text>
+<rect x="40" y="415.0" width="820" height="232.4" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="433.0" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="454.5" font-size="13.5" fill="#10233f" font-weight="700" textLength="68.3" lengthAdjust="spacing">Cu cratimă</text>
+<text x="462.0" y="454.5" font-size="13.5" fill="#10233f" font-weight="700" textLength="78.7" lengthAdjust="spacing">Fără cratimă</text>
+<line x1="62.0" y1="464.6" x2="838.0" y2="464.6" stroke="#e3dccb"/>
+<text x="74.0" y="487.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="38.0" lengthAdjust="spacing">mi-au</text>
+<text x="115.9" y="487.1" font-size="14.5" fill="#3a3226" textLength="66.3" lengthAdjust="spacing">= mi + au:</text>
+<text x="186.1" y="487.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="133.4" lengthAdjust="spacing">Mi-au dat un premiu.</text>
+<text x="462.0" y="487.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="32.2" lengthAdjust="spacing">miau</text>
+<text x="498.1" y="487.1" font-size="14.5" fill="#3a3226" textLength="99.8" lengthAdjust="spacing">= sunetul pisicii</text>
+<line x1="62.0" y1="497.4" x2="838.0" y2="497.4" stroke="#e3dccb"/>
+<text x="74.0" y="519.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="17.4" lengthAdjust="spacing">i-a</text>
+<text x="95.3" y="519.9" font-size="14.5" fill="#3a3226" textLength="45.5" lengthAdjust="spacing">= i + a:</text>
+<text x="144.8" y="519.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="110.6" lengthAdjust="spacing">I-a spus adevărul.</text>
+<text x="462.0" y="519.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="11.6" lengthAdjust="spacing">ia</text>
+<text x="477.5" y="519.9" font-size="14.5" fill="#3a3226" textLength="53.6" lengthAdjust="spacing">= verbul</text>
+<text x="535.1" y="519.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="31.5" lengthAdjust="spacing">a lua</text>
+<text x="566.5" y="519.9" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">:</text>
+<text x="573.6" y="519.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="59.3" lengthAdjust="spacing">Ia cartea!</text>
+<line x1="62.0" y1="530.3" x2="838.0" y2="530.3" stroke="#e3dccb"/>
+<text x="74.0" y="552.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="17.4" lengthAdjust="spacing">l-a</text>
+<text x="95.3" y="552.8" font-size="14.5" fill="#3a3226" textLength="45.5" lengthAdjust="spacing">= l + a:</text>
+<text x="144.8" y="552.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="74.0" lengthAdjust="spacing">L-a chemat.</text>
+<text x="462.0" y="552.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="11.6" lengthAdjust="spacing">la</text>
+<text x="477.5" y="552.8" font-size="14.5" fill="#3a3226" textLength="81.2" lengthAdjust="spacing">= prepoziție:</text>
+<text x="562.6" y="552.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="94.1" lengthAdjust="spacing">Merg la școală.</text>
+<line x1="62.0" y1="563.1" x2="838.0" y2="563.1" stroke="#e3dccb"/>
+<text x="74.0" y="585.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="28.9" lengthAdjust="spacing">ne-a</text>
+<text x="106.8" y="585.6" font-size="14.5" fill="#3a3226" textLength="57.9" lengthAdjust="spacing">= ne + a:</text>
+<text x="168.5" y="585.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="75.3" lengthAdjust="spacing">Ne-a ajutat.</text>
+<text x="462.0" y="585.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="23.1" lengthAdjust="spacing">nea</text>
+<text x="489.0" y="585.6" font-size="14.5" fill="#3a3226" textLength="48.6" lengthAdjust="spacing">= nene:</text>
+<text x="541.5" y="585.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="68.3" lengthAdjust="spacing">Nea Mihai.</text>
+<line x1="62.0" y1="596.0" x2="838.0" y2="596.0" stroke="#e3dccb"/>
+<line x1="450.0" y1="433.0" x2="450.0" y2="596.0" stroke="#e3dccb"/>
+<text x="62.0" y="625.0" font-size="15" fill="#3a3226" textLength="311.2" lengthAdjust="spacing">Același cuvânt poate fi pronume sau alt cuvânt:</text>
+<text x="377.3" y="625.0" font-size="15" fill="#10233f" font-style="italic" textLength="16.0" lengthAdjust="spacing">Pe</text>
+<text x="397.4" y="625.0" font-size="15" fill="#3a3226" font-weight="700" textLength="35.2" lengthAdjust="spacing">mine</text>
+<text x="436.7" y="625.0" font-size="15" fill="#10233f" font-style="italic" textLength="64.3" lengthAdjust="spacing">mă caută.</text>
+<text x="505.1" y="625.0" font-size="15" fill="#3a3226" textLength="79.6" lengthAdjust="spacing">(pronume) /</text>
+<text x="588.8" y="625.0" font-size="15" fill="#10233f" font-style="italic" textLength="47.9" lengthAdjust="spacing">Am trei</text>
+<text x="640.7" y="625.0" font-size="15" fill="#3a3226" font-weight="700" textLength="35.2" lengthAdjust="spacing">mine</text>
+<text x="680.0" y="625.0" font-size="15" fill="#10233f" font-style="italic" textLength="41.7" lengthAdjust="spacing">de pix.</text>
+<text x="725.7" y="625.0" font-size="15" fill="#3a3226" textLength="76.2" lengthAdjust="spacing">(substantiv)</text>
+<rect x="40" y="667.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="690.5" font-size="16" font-weight="700" fill="#ffffff">3. SMS-UL ȘI LIMBA STANDARD</text>
+<rect x="40" y="701.5" width="820" height="124.7" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="719.5" width="380.0" height="88.7" rx="12" fill="#ffffff" stroke="#b4432c" stroke-width="2"/>
+<text x="78.0" y="747.5" font-size="16" fill="#b4432c" font-weight="700" textLength="52.0" lengthAdjust="spacing">în SMS</text>
+<text x="78.0" y="770.8" font-size="14.5" fill="#3a3226" textLength="333.4" lengthAdjust="spacing">prescurtări, fără diacritice, fără cratime, multe semne</text>
+<text x="78.0" y="791.8" font-size="14.5" fill="#3a3226" textLength="84.2" lengthAdjust="spacing">de exclamare</text>
+<rect x="458.0" y="719.5" width="380.0" height="88.7" rx="12" fill="#ffffff" stroke="#2f7d4f" stroke-width="2"/>
+<text x="474.0" y="747.5" font-size="16" fill="#2f7d4f" font-weight="700" textLength="124.0" lengthAdjust="spacing">în scris, la școală</text>
+<text x="474.0" y="770.8" font-size="14.5" fill="#3a3226" textLength="94.5" lengthAdjust="spacing">cuvinte întregi,</text>
+<text x="572.5" y="770.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="62.2" lengthAdjust="spacing">diacritice</text>
+<text x="634.7" y="770.8" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="641.8" y="770.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="51.5" lengthAdjust="spacing">cratimă</text>
+<text x="697.2" y="770.8" font-size="14.5" fill="#3a3226" textLength="84.5" lengthAdjust="spacing">la pronumele</text>
+<text x="474.0" y="791.8" font-size="14.5" fill="#3a3226" textLength="164.7" lengthAdjust="spacing">scurte, punctuație corectă</text>
+<text x="200.1" y="857.7" font-size="11.5" fill="#5b6b83" textLength="499.8" lengthAdjust="spacing">Sursa: Manual Art 5, p. 127 (Aplicații și Deschideri). Unele exemple sunt create pentru aceste notițe.</text>
 </svg>

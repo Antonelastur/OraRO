@@ -1,10 +1,100 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="320" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Pronumele personal de politețe</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 12</text>
-  <rect x="150" y="95" width="600" height="90" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="450" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Ce arată</text>
-  <text font-size="12" fill="#3a3226" text-anchor="middle"><tspan x="450" y="147">Arată respect față de interlocutor, folosit în locul</tspan><tspan x="450" y="164">pronumelui personal obișnuit.</tspan></text>
-  <text x="450" y="228" text-anchor="middle" font-size="13" fill="#3a3226" font-style="italic">dumneata, dumneavoastră, domnia sa</text>
-  <text x="450" y="270" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 12, pp. 128-129</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 997" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="997" fill="#faf7f0"/>
+<text x="243.1" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="414.7" lengthAdjust="spacing">Pronumele personal de politețe</text>
+<text x="214.3" y="74.4" font-size="14" fill="#5b6b83" textLength="471.4" lengthAdjust="spacing">Clasa a V-a · Unitatea IV, Lecția 13 · Manual, pp. 128-129 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ARATĂ</text>
+<rect x="40" y="128.6" width="820" height="90.3" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="237.0" lengthAdjust="spacing">Pronumele personal de politețe</text>
+<text x="303.3" y="162.6" font-size="16" fill="#10233f" textLength="35.5" lengthAdjust="spacing">arată</text>
+<text x="343.1" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="68.8" lengthAdjust="spacing">respectul</text>
+<text x="416.2" y="162.6" font-size="16" fill="#10233f" textLength="135.4" lengthAdjust="spacing">față de o persoană.</text>
+<text x="62.0" y="196.4" font-size="15" fill="#3a3226" textLength="133.9" lengthAdjust="spacing">Are doar persoanele</text>
+<text x="200.0" y="196.4" font-size="15" fill="#3a3226" font-weight="700" textLength="36.0" lengthAdjust="spacing">a II-a</text>
+<text x="240.0" y="196.4" font-size="15" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">și</text>
+<text x="254.0" y="196.4" font-size="15" fill="#3a3226" font-weight="700" textLength="40.8" lengthAdjust="spacing">a III-a</text>
+<text x="298.8" y="196.4" font-size="15" fill="#3a3226" textLength="390.9" lengthAdjust="spacing">și se deosebește după gen doar la persoana a III-a singular.</text>
+<rect x="40" y="238.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="261.9" font-size="16" font-weight="700" fill="#ffffff">2. FORMELE</text>
+<rect x="40" y="272.9" width="820" height="288.1" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="290.9" width="776.0" height="31.6" fill="#efeaf8"/>
+
+<text x="260.2" y="312.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="51.0" lengthAdjust="spacing">singular</text>
+<text x="555.1" y="312.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="36.9" lengthAdjust="spacing">plural</text>
+<line x1="62.0" y1="322.4" x2="838.0" y2="322.4" stroke="#e3dccb"/>
+<text x="74.0" y="344.9" font-size="14.5" fill="#3a3226" textLength="95.1" lengthAdjust="spacing">persoana a II-a</text>
+<text x="260.2" y="344.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="63.9" lengthAdjust="spacing">dumneata</text>
+<text x="328.1" y="344.9" font-size="14.5" fill="#3a3226" textLength="38.6" lengthAdjust="spacing">(d-ta),</text>
+<text x="370.6" y="344.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="55.5" lengthAdjust="spacing">dumitale</text>
+<text x="430.0" y="344.9" font-size="14.5" fill="#3a3226" textLength="49.6" lengthAdjust="spacing">(d-tale);</text>
+<text x="260.2" y="366.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="97.4" lengthAdjust="spacing">dumneavoastră</text>
+<text x="361.6" y="366.0" font-size="14.5" fill="#3a3226" textLength="59.3" lengthAdjust="spacing">(dv., dvs.)</text>
+<text x="555.1" y="344.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="97.4" lengthAdjust="spacing">dumneavoastră</text>
+<text x="656.5" y="344.9" font-size="14.5" fill="#3a3226" textLength="127.1" lengthAdjust="spacing">(dv., dvs., d-voastră)</text>
+<line x1="62.0" y1="376.3" x2="838.0" y2="376.3" stroke="#e3dccb"/>
+<text x="74.0" y="398.8" font-size="14.5" fill="#3a3226" textLength="102.2" lengthAdjust="spacing">persoana a III-a,</text>
+<text x="74.0" y="419.8" font-size="14.5" fill="#3a3226" textLength="56.1" lengthAdjust="spacing">masculin</text>
+<text x="260.2" y="398.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="67.1" lengthAdjust="spacing">dumnealui</text>
+<text x="331.3" y="398.8" font-size="14.5" fill="#3a3226" textLength="41.5" lengthAdjust="spacing">(d-lui),</text>
+<text x="376.7" y="398.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="41.5" lengthAdjust="spacing">dânsul</text>
+<text x="555.1" y="398.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="68.3" lengthAdjust="spacing">dumnealor</text>
+<text x="627.3" y="398.8" font-size="14.5" fill="#3a3226" textLength="43.4" lengthAdjust="spacing">(d-lor),</text>
+<text x="674.6" y="398.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="37.1" lengthAdjust="spacing">dânșii</text>
+<line x1="62.0" y1="430.2" x2="838.0" y2="430.2" stroke="#e3dccb"/>
+<text x="74.0" y="452.7" font-size="14.5" fill="#3a3226" textLength="154.1" lengthAdjust="spacing">persoana a III-a, feminin</text>
+<text x="260.2" y="452.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="62.4" lengthAdjust="spacing">dumneaei</text>
+<text x="326.5" y="452.7" font-size="14.5" fill="#3a3226" textLength="37.3" lengthAdjust="spacing">(d-ei),</text>
+<text x="367.7" y="452.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="37.4" lengthAdjust="spacing">dânsa</text>
+<text x="555.1" y="452.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="68.3" lengthAdjust="spacing">dumnealor</text>
+<text x="627.3" y="452.7" font-size="14.5" fill="#3a3226" textLength="43.4" lengthAdjust="spacing">(d-lor),</text>
+<text x="674.6" y="452.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="47.6" lengthAdjust="spacing">dânsele</text>
+<line x1="62.0" y1="463.1" x2="838.0" y2="463.1" stroke="#e3dccb"/>
+<line x1="248.2" y1="290.9" x2="248.2" y2="463.0" stroke="#e3dccb"/>
+<line x1="543.1" y1="290.9" x2="543.1" y2="463.0" stroke="#e3dccb"/>
+<text x="62.0" y="492.0" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="492.0" font-size="15" fill="#10233f" font-style="italic" textLength="191.2" lengthAdjust="spacing">dânsul, dânsa, dânșii, dânsele</text>
+<text x="269.5" y="492.0" font-size="15" fill="#3a3226" textLength="103.5" lengthAdjust="spacing">exprimă cel mai</text>
+<text x="377.0" y="492.0" font-size="15" fill="#3a3226" font-weight="700" textLength="44.1" lengthAdjust="spacing">scăzut</text>
+<text x="425.2" y="492.0" font-size="15" fill="#3a3226" textLength="408.0" lengthAdjust="spacing">grad de respect; în Moldova, regional, au valoare de pronume</text>
+<text x="74.2" y="513.8" font-size="15" fill="#3a3226" textLength="60.2" lengthAdjust="spacing">personal.</text>
+<text x="62.0" y="538.5" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="538.5" font-size="15" fill="#3a3226" textLength="118.9" lengthAdjust="spacing">Variante familiare:</text>
+<text x="197.2" y="538.5" font-size="15" fill="#10233f" font-style="italic" textLength="259.4" lengthAdjust="spacing">mata, matale, mătăluță, mătălică, tălică</text>
+<text x="456.5" y="538.5" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="40" y="581.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="604.0" font-size="16" font-weight="700" fill="#ffffff">3. FORMULELE REVERENȚIOASE</text>
+<rect x="40" y="615.0" width="820" height="176.9" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="648.0" font-size="15" fill="#3a3226" textLength="35.4" lengthAdjust="spacing">Arată</text>
+<text x="101.5" y="648.0" font-size="15" fill="#3a3226" font-weight="700" textLength="85.5" lengthAdjust="spacing">cel mai înalt</text>
+<text x="191.0" y="648.0" font-size="15" fill="#3a3226" textLength="225.4" lengthAdjust="spacing">grad de respect, în limbajul oficial:</text>
+<text x="420.5" y="648.0" font-size="15" fill="#10233f" font-style="italic" textLength="384.6" lengthAdjust="spacing">Majestatea Voastră, Domnia Voastră, Preafericirea Voastră,</text>
+<text x="62.0" y="669.8" font-size="15" fill="#10233f" font-style="italic" textLength="80.5" lengthAdjust="spacing">Excelența Sa</text>
+<text x="142.5" y="669.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="688.3" width="776.0" height="85.6" rx="12" fill="#f3efe4"/><rect x="62.0" y="688.3" width="6" height="85.6" rx="3" fill="#b4432c"/><text x="84.0" y="714.8" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="733.6" font-size="14.5" fill="#3a3226" textLength="17.7" lengthAdjust="spacing">Au</text>
+<text x="105.6" y="733.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="187.3" lengthAdjust="spacing">majusculă la fiecare termen</text>
+<text x="292.9" y="733.6" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">:</text>
+<text x="300.1" y="733.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="69.3" lengthAdjust="spacing">Domnia Sa</text>
+<text x="369.4" y="733.6" font-size="14.5" fill="#3a3226" textLength="23.6" lengthAdjust="spacing">, nu</text>
+<text x="396.9" y="733.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="67.9" lengthAdjust="spacing">Domnia sa</text>
+<text x="464.8" y="733.6" font-size="14.5" fill="#3a3226" textLength="52.1" lengthAdjust="spacing">. Corect:</text>
+<text x="520.7" y="733.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="68.2" lengthAdjust="spacing">Majestatea</text>
+<text x="588.9" y="733.6" font-size="14.5" fill="#3a3226" textLength="23.6" lengthAdjust="spacing">, nu</text>
+<text x="616.4" y="733.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="68.4" lengthAdjust="spacing">Maiestatea</text>
+<text x="684.9" y="733.6" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="84.0" y="757.6" font-size="14.5" fill="#3a3226" textLength="17.3" lengthAdjust="spacing">Cu</text>
+<text x="105.2" y="757.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="97.4" lengthAdjust="spacing">dumneavoastră</text>
+<text x="202.6" y="757.6" font-size="14.5" fill="#3a3226" textLength="73.2" lengthAdjust="spacing">, verbul e la</text>
+<text x="279.7" y="757.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="144.9" lengthAdjust="spacing">persoana a II-a plural</text>
+<text x="424.6" y="757.6" font-size="14.5" fill="#3a3226" textLength="227.5" lengthAdjust="spacing">, chiar și pentru o singură persoană:</text>
+<text x="656.0" y="757.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="99.9" lengthAdjust="spacing">Dumneavoastră</text>
+<text x="759.8" y="757.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="55.8" lengthAdjust="spacing">ați venit</text>
+<text x="815.7" y="757.6" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<rect x="40" y="811.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="834.9" font-size="16" font-weight="700" fill="#ffffff">4. MODEL DE ANALIZĂ</text>
+<rect x="40" y="845.9" width="820" height="99.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="863.9" width="776.0" height="63.9" rx="12" fill="#f3efe4"/><text x="78.0" y="890.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="108.2" lengthAdjust="spacing">„dumneavoastră”</text>
+<text x="190.1" y="890.4" font-size="14.5" fill="#3a3226" textLength="580.7" lengthAdjust="spacing">– pronume personal de politețe, persoana a II-a, numărul singular (adresare către o singură</text>
+<text x="78.0" y="911.4" font-size="14.5" fill="#3a3226" textLength="66.4" lengthAdjust="spacing">persoană).</text>
+<text x="225.2" y="977.3" font-size="11.5" fill="#5b6b83" textLength="449.6" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 128-129, rubricile Repere, tabelul formelor și modelul de analiză.</text>
 </svg>

@@ -270,7 +270,7 @@ export const unitatea3 = {
         ],
         resurse: [
           'Manual Art 5, pp. 82-83',
-          'Schema „Personificarea” (/materiale/clasa-5/unitatea-3/lectia-3/schema.svg)',
+          'Schema „Textul descriptiv literar. Personificarea” (/materiale/clasa-5/unitatea-3/lectia-3/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -407,7 +407,7 @@ export const unitatea3 = {
           ],
         },
         infografic: null,
-        schema: { fisier: '/materiale/clasa-5/unitatea-3/lectia-3/schema.svg', titlu: 'Personificarea' },
+        schema: { fisier: '/materiale/clasa-5/unitatea-3/lectia-3/schema.svg', titlu: 'Textul descriptiv literar. Personificarea' },
         altele: [],
       },
     },
@@ -1313,7 +1313,7 @@ export const unitatea3 = {
         ],
         resurse: [
           'Manual Art 5, p. 98',
-          'Schema „Posibilități combinatorii ale substantivului (I)” (/materiale/clasa-5/unitatea-3/lectia-12/schema.svg)',
+          'Schema „Posibilități combinatorii ale substantivului. Atributul” (/materiale/clasa-5/unitatea-3/lectia-12/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -1428,7 +1428,7 @@ export const unitatea3 = {
           ],
         },
         infografic: null,
-        schema: { fisier: '/materiale/clasa-5/unitatea-3/lectia-12/schema.svg', titlu: 'Posibilități combinatorii ale substantivului (I)' },
+        schema: { fisier: '/materiale/clasa-5/unitatea-3/lectia-12/schema.svg', titlu: 'Posibilități combinatorii ale substantivului. Atributul' },
         altele: [],
       },
     },
@@ -1450,7 +1450,7 @@ export const unitatea3 = {
         ],
         resurse: [
           'Manual Art 5, p. 99',
-          'Schema „Posibilități combinatorii ale substantivului (II)” (/materiale/clasa-5/unitatea-3/lectia-13/schema.svg)',
+          'Schema „Prepoziția” (/materiale/clasa-5/unitatea-3/lectia-13/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -1587,7 +1587,7 @@ export const unitatea3 = {
           ],
         },
         infografic: null,
-        schema: { fisier: '/materiale/clasa-5/unitatea-3/lectia-13/schema.svg', titlu: 'Posibilități combinatorii ale substantivului (II)' },
+        schema: { fisier: '/materiale/clasa-5/unitatea-3/lectia-13/schema.svg', titlu: 'Prepoziția' },
         altele: [],
       },
     },
@@ -1609,7 +1609,7 @@ export const unitatea3 = {
         ],
         resurse: [
           'Manual Art 5, pp. 100-101',
-          'Schema „Substantivul subiect. Acordul cu predicatul” (/materiale/clasa-5/unitatea-3/lectia-14/schema.svg)',
+          'Schema „Substantivul subiect. Acordul predicatului cu subiectul” (/materiale/clasa-5/unitatea-3/lectia-14/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -1746,7 +1746,7 @@ export const unitatea3 = {
           ],
         },
         infografic: null,
-        schema: { fisier: '/materiale/clasa-5/unitatea-3/lectia-14/schema.svg', titlu: 'Substantivul subiect. Acordul cu predicatul' },
+        schema: { fisier: '/materiale/clasa-5/unitatea-3/lectia-14/schema.svg', titlu: 'Substantivul subiect. Acordul predicatului cu subiectul' },
         altele: [],
       },
     },

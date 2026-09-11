@@ -1,10 +1,82 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="320" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Pronumele. Pronumele personal (I)</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 11, partea 1/2</text>
-  <rect x="150" y="95" width="600" height="90" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="450" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Ce arată</text>
-  <text font-size="12" fill="#3a3226" text-anchor="middle"><tspan x="450" y="147">Ține locul unui substantiv, are persoană și număr,</tspan><tspan x="450" y="164">iar la persoana a III-a, și gen.</tspan></text>
-  <text x="450" y="228" text-anchor="middle" font-size="13" fill="#3a3226" font-style="italic">eu, tu, el/ea, noi, voi, ei/ele</text>
-  <text x="450" y="270" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 11, p. 126</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 901" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="901" fill="#faf7f0"/>
+<text x="238.7" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="423.1" lengthAdjust="spacing">Pronumele. Pronumele personal</text>
+<text x="214.3" y="74.4" font-size="14" fill="#5b6b83" textLength="471.4" lengthAdjust="spacing">Clasa a V-a · Unitatea IV, Lecția 11 · Manual, pp. 126-127 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. PRONUMELE</text>
+<rect x="40" y="128.6" width="820" height="90.3" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="81.9" lengthAdjust="spacing">Pronumele</text>
+<text x="148.2" y="162.6" font-size="16" fill="#10233f" textLength="188.3" lengthAdjust="spacing">este partea de vorbire care</text>
+<text x="340.9" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="190.2" lengthAdjust="spacing">ține locul unui substantiv</text>
+<text x="531.1" y="162.6" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<text x="62.0" y="196.4" font-size="15" fill="#10233f" font-style="italic" textLength="253.2" lengthAdjust="spacing">Nadia Comăneci a obținut primul zece.</text>
+<text x="319.2" y="196.4" font-size="15" fill="#3a3226" textLength="12.9" lengthAdjust="spacing">→</text>
+<text x="336.2" y="196.4" font-size="15" fill="#3a3226" font-weight="700" textLength="16.1" lengthAdjust="spacing">Ea</text>
+<text x="356.3" y="196.4" font-size="15" fill="#10233f" font-style="italic" textLength="140.7" lengthAdjust="spacing">a obținut primul zece.</text>
+<rect x="40" y="238.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="261.9" font-size="16" font-weight="700" fill="#ffffff">2. PRONUMELE PERSONAL</text>
+<rect x="40" y="272.9" width="820" height="292.6" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="305.9" font-size="15" fill="#3a3226" font-weight="700" textLength="141.6" lengthAdjust="spacing">Pronumele personal</text>
+<text x="207.7" y="305.9" font-size="15" fill="#3a3226" textLength="308.4" lengthAdjust="spacing">indică persoanele care participă la comunicare.</text>
+<rect x="62.0" y="324.4" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="345.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="57.9" lengthAdjust="spacing">Persoana</text>
+<text x="229.2" y="345.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="57.2" lengthAdjust="spacing">Cine este</text>
+<text x="520.7" y="345.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="52.6" lengthAdjust="spacing">Singular</text>
+<text x="722.6" y="345.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="36.7" lengthAdjust="spacing">Plural</text>
+<line x1="62.0" y1="355.9" x2="838.0" y2="355.9" stroke="#e3dccb"/>
+<text x="74.0" y="378.4" font-size="14.5" fill="#3a3226" textLength="3.9" lengthAdjust="spacing">I</text>
+<text x="229.2" y="378.4" font-size="14.5" fill="#3a3226" textLength="62.9" lengthAdjust="spacing">vorbitorul</text>
+<text x="539.1" y="378.4" font-size="14.5" fill="#3a3226" textLength="15.8" lengthAdjust="spacing">eu</text>
+<text x="730.9" y="378.4" font-size="14.5" fill="#3a3226" textLength="20.3" lengthAdjust="spacing">noi</text>
+<line x1="62.0" y1="388.8" x2="838.0" y2="388.8" stroke="#e3dccb"/>
+<text x="74.0" y="411.3" font-size="14.5" fill="#3a3226" textLength="32.3" lengthAdjust="spacing">a II-a</text>
+<text x="229.2" y="411.3" font-size="14.5" fill="#3a3226" textLength="74.5" lengthAdjust="spacing">ascultătorul</text>
+<text x="540.4" y="411.3" font-size="14.5" fill="#3a3226" textLength="13.2" lengthAdjust="spacing">tu</text>
+<text x="731.5" y="411.3" font-size="14.5" fill="#3a3226" textLength="19.0" lengthAdjust="spacing">voi</text>
+<line x1="62.0" y1="421.6" x2="838.0" y2="421.6" stroke="#e3dccb"/>
+<text x="74.0" y="444.1" font-size="14.5" fill="#3a3226" textLength="36.2" lengthAdjust="spacing">a III-a</text>
+<text x="229.2" y="444.1" font-size="14.5" fill="#3a3226" textLength="172.3" lengthAdjust="spacing">cel despre care se vorbește</text>
+<text x="506.2" y="444.1" font-size="14.5" fill="#3a3226" textLength="81.6" lengthAdjust="spacing">el (m.), ea (f.)</text>
+<text x="698.4" y="444.1" font-size="14.5" fill="#3a3226" textLength="85.2" lengthAdjust="spacing">ei (m.), ele (f.)</text>
+<line x1="62.0" y1="454.5" x2="838.0" y2="454.5" stroke="#e3dccb"/>
+<line x1="217.2" y1="324.4" x2="217.2" y2="454.5" stroke="#e3dccb"/>
+<line x1="450.0" y1="324.4" x2="450.0" y2="454.5" stroke="#e3dccb"/>
+<line x1="644.0" y1="324.4" x2="644.0" y2="454.5" stroke="#e3dccb"/>
+<text x="62.0" y="483.5" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="483.5" font-size="15" fill="#3a3226" textLength="157.3" lengthAdjust="spacing">Pronumele personal are</text>
+<text x="235.6" y="483.5" font-size="15" fill="#3a3226" font-weight="700" textLength="26.6" lengthAdjust="spacing">gen</text>
+<text x="266.2" y="483.5" font-size="15" fill="#3a3226" textLength="155.7" lengthAdjust="spacing">doar la persoana a III-a.</text>
+<text x="62.0" y="508.2" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="508.2" font-size="15" fill="#3a3226" textLength="66.3" lengthAdjust="spacing">Are forme</text>
+<text x="144.5" y="508.2" font-size="15" fill="#3a3226" font-weight="700" textLength="76.8" lengthAdjust="spacing">accentuate</text>
+<text x="225.4" y="508.2" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="229.9" y="508.2" font-size="15" fill="#10233f" font-style="italic" textLength="149.1" lengthAdjust="spacing">eu, tu, el, ea, mine, mie</text>
+<text x="379.0" y="508.2" font-size="15" fill="#3a3226" textLength="18.4" lengthAdjust="spacing">) și</text>
+<text x="401.5" y="508.2" font-size="15" fill="#3a3226" font-weight="700" textLength="94.0" lengthAdjust="spacing">neaccentuate</text>
+<text x="495.5" y="508.2" font-size="15" fill="#3a3226" textLength="67.8" lengthAdjust="spacing">, numite și</text>
+<text x="567.4" y="508.2" font-size="15" fill="#3a3226" font-weight="700" textLength="41.0" lengthAdjust="spacing">clitice</text>
+<text x="612.4" y="508.2" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="616.9" y="508.2" font-size="15" fill="#10233f" font-style="italic" textLength="135.4" lengthAdjust="spacing">mă, m-, îmi, mi, îți, ți</text>
+<text x="752.3" y="508.2" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">).</text>
+<text x="62.0" y="542.8" font-size="16" fill="#10233f" font-style="italic" textLength="17.1" lengthAdjust="spacing">Pe</text>
+<text x="83.4" y="542.8" font-size="16" fill="#3a3226" font-weight="700" textLength="65.4" lengthAdjust="spacing">mine mă</text>
+<text x="153.2" y="542.8" font-size="16" fill="#10233f" font-style="italic" textLength="158.9" lengthAdjust="spacing">atrage viața savanților.</text>
+<rect x="40" y="585.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="608.5" font-size="16" font-weight="700" fill="#ffffff">3. PRONUNȚIA CORECTĂ</text>
+<rect x="40" y="619.5" width="820" height="97.7" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="637.5" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="637.5" width="6" height="61.7" rx="3" fill="#b4432c"/><text x="84.0" y="664.0" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="682.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="76.3" lengthAdjust="spacing">eu, el, ei, ele</text>
+<text x="164.2" y="682.9" font-size="14.5" fill="#3a3226" textLength="66.0" lengthAdjust="spacing">se scriu cu</text>
+<text x="234.1" y="682.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="7.8" lengthAdjust="spacing">e</text>
+<text x="245.8" y="682.9" font-size="14.5" fill="#3a3226" textLength="202.4" lengthAdjust="spacing">și se pronunță la început cu [ĭe];</text>
+<text x="452.2" y="682.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="14.9" lengthAdjust="spacing">ea</text>
+<text x="471.0" y="682.9" font-size="14.5" fill="#3a3226" textLength="65.2" lengthAdjust="spacing">se scrie cu</text>
+<text x="540.2" y="682.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="7.8" lengthAdjust="spacing">e</text>
+<text x="551.9" y="682.9" font-size="14.5" fill="#3a3226" textLength="117.0" lengthAdjust="spacing">și se pronunță [ĭa].</text>
+<rect x="40" y="737.2" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="760.2" font-size="16" font-weight="700" fill="#ffffff">4. MODEL DE ANALIZĂ</text>
+<rect x="40" y="771.2" width="820" height="78.8" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="789.2" width="776.0" height="42.9" rx="12" fill="#f3efe4"/><text x="78.0" y="815.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="21.6" lengthAdjust="spacing">„ei”</text>
+<text x="103.5" y="815.8" font-size="14.5" fill="#3a3226" textLength="560.3" lengthAdjust="spacing">– pronume personal, persoana a III-a, numărul plural, genul masculin, forma accentuată.</text>
+<text x="146.5" y="881.6" font-size="11.5" fill="#5b6b83" textLength="607.1" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 126-127, rubricile Repere și modelul de analiză. Unele exemple sunt create pentru aceste notițe.</text>
 </svg>

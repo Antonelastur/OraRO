@@ -1,33 +1,78 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 496" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="1000" height="496" fill="#faf7f0"/>
-  <text x="500" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Pronumele și adjectivul, tot la un loc</text>
-  <text x="500" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 19 · Recapitulare, gramatică</text>
-  <rect x="36" y="96" width="460" height="34" rx="10" fill="#3b5fa8"/>
-  <text x="266" y="119" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">PRONUMELE</text>
-  <rect x="512" y="96" width="452" height="34" rx="10" fill="#a1417e"/>
-  <text x="738" y="119" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">ADJECTIVUL</text>
-  <rect x="36" y="142" width="460" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="58" y="166" font-size="13" font-weight="700" fill="#10233f">Personal</text>
-  <text x="58" y="186" font-size="12" fill="#3d4a5f">eu, tu, el, ea, noi, voi, ei, ele</text>
-  <rect x="36" y="210" width="460" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="58" y="234" font-size="13" font-weight="700" fill="#10233f">De politețe</text>
-  <text x="58" y="254" font-size="12" fill="#3d4a5f">dumneata, dumneavoastră, dumnealui</text>
-  <rect x="36" y="278" width="460" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="58" y="302" font-size="13" font-weight="700" fill="#10233f">Ce face</text>
-  <text x="58" y="322" font-size="12" fill="#3d4a5f">înlocuiește un substantiv</text>
-  <rect x="512" y="142" width="452" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
-  <text x="534" y="166" font-size="13" font-weight="700" fill="#10233f">Acordul</text>
-  <text x="534" y="186" font-size="12" fill="#3d4a5f">în gen și număr cu substantivul</text>
-  <rect x="512" y="210" width="452" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
-  <text x="534" y="234" font-size="13" font-weight="700" fill="#10233f">Gradele</text>
-  <text x="534" y="254" font-size="12" fill="#3d4a5f">pozitiv, comparativ, superlativ</text>
-  <rect x="512" y="278" width="452" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
-  <text x="534" y="302" font-size="13" font-weight="700" fill="#10233f">Articolul demonstrativ</text>
-  <text x="534" y="322" font-size="12" fill="#3d4a5f">cel, cea: eroul cel curajos</text>
-  <rect x="36" y="352" width="928" height="56" rx="14" fill="#ffffff" stroke="#c1503a" stroke-width="2"/>
-  <text x="58" y="377" font-size="13" font-weight="700" fill="#10233f">Capcana de la politețe</text>
-  <text x="58" y="397" font-size="12" fill="#3d4a5f">dumneavoastră cere verb la plural: dumneavoastră SUNTEȚI, niciodată dumneavoastră ești.</text>
-  <rect x="36" y="416" width="928" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="58" y="441" font-size="13" font-weight="700" fill="#10233f">Capcana de la grade</text>
-  <text x="58" y="461" font-size="12" fill="#3d4a5f">unele adjective nu au grade: principal, veșnic, complet. Nu spui mai principal.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 901" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="901" fill="#faf7f0"/>
+<text x="207.1" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="486.6" lengthAdjust="spacing">Recapitulare. Pronumele și adjectivul</text>
+<text x="214.3" y="74.4" font-size="14" fill="#5b6b83" textLength="471.4" lengthAdjust="spacing">Clasa a V-a · Unitatea IV, Lecția 19 · Manual, pp. 126-137 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. PRONUMELE PERSONAL ȘI DE POLITEȚE</text>
+<rect x="40" y="128.6" width="820" height="241.0" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="146.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="59.0" lengthAdjust="spacing">Noțiunea</text>
+<text x="260.2" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="49.4" lengthAdjust="spacing">Ce rețin</text>
+<text x="617.2" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="178.2" x2="838.0" y2="178.2" stroke="#e3dccb"/>
+<text x="74.0" y="200.7" font-size="14.5" fill="#3a3226" textLength="69.7" lengthAdjust="spacing">pronumele</text>
+<text x="260.2" y="200.7" font-size="14.5" fill="#3a3226" textLength="159.6" lengthAdjust="spacing">ține locul unui substantiv</text>
+<text x="617.2" y="200.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="78.9" lengthAdjust="spacing">Heracle → el</text>
+<line x1="62.0" y1="211.0" x2="838.0" y2="211.0" stroke="#e3dccb"/>
+<text x="74.0" y="233.5" font-size="14.5" fill="#3a3226" textLength="128.6" lengthAdjust="spacing">pronumele personal</text>
+<text x="260.2" y="233.5" font-size="14.5" fill="#3a3226" textLength="330.3" lengthAdjust="spacing">persoana I, a II-a, a III-a; singular, plural; gen doar la</text>
+<text x="260.2" y="254.5" font-size="14.5" fill="#3a3226" textLength="36.2" lengthAdjust="spacing">a III-a</text>
+<text x="617.2" y="233.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="167.9" lengthAdjust="spacing">eu, tu, el/ea, noi, voi, ei/ele</text>
+<line x1="62.0" y1="264.9" x2="838.0" y2="264.9" stroke="#e3dccb"/>
+<text x="74.0" y="287.4" font-size="14.5" fill="#3a3226" textLength="121.2" lengthAdjust="spacing">forme accentuate /</text>
+<text x="74.0" y="308.4" font-size="14.5" fill="#3a3226" textLength="85.4" lengthAdjust="spacing">neaccentuate</text>
+<text x="260.2" y="287.4" font-size="14.5" fill="#3a3226" textLength="193.7" lengthAdjust="spacing">cele scurte se leagă cu cratimă</text>
+<text x="617.2" y="287.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="86.1" lengthAdjust="spacing">mie / îmi, mi-</text>
+<line x1="62.0" y1="318.8" x2="838.0" y2="318.8" stroke="#e3dccb"/>
+<text x="74.0" y="341.2" font-size="14.5" fill="#3a3226" textLength="142.7" lengthAdjust="spacing">pronumele de politețe</text>
+<text x="260.2" y="341.2" font-size="14.5" fill="#3a3226" textLength="249.5" lengthAdjust="spacing">arată respect; persoanele a II-a și a III-a</text>
+<text x="617.2" y="341.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="171.7" lengthAdjust="spacing">dumneavoastră, dumnealui</text>
+<line x1="62.0" y1="351.6" x2="838.0" y2="351.6" stroke="#e3dccb"/>
+<line x1="248.2" y1="146.6" x2="248.2" y2="351.6" stroke="#e3dccb"/>
+<line x1="605.2" y1="146.6" x2="605.2" y2="351.6" stroke="#e3dccb"/>
+<rect x="40" y="389.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="412.6" font-size="16" font-weight="700" fill="#ffffff">2. ADJECTIVUL</text>
+<rect x="40" y="423.6" width="820" height="220.0" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="441.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="463.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="59.0" lengthAdjust="spacing">Noțiunea</text>
+<text x="260.2" y="463.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="49.4" lengthAdjust="spacing">Ce rețin</text>
+<text x="617.2" y="463.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="473.2" x2="838.0" y2="473.2" stroke="#e3dccb"/>
+<text x="74.0" y="495.7" font-size="14.5" fill="#3a3226" textLength="60.8" lengthAdjust="spacing">adjectivul</text>
+<text x="260.2" y="495.7" font-size="14.5" fill="#3a3226" textLength="325.8" lengthAdjust="spacing">arată o însușire; se acordă cu substantivul; e atribut</text>
+<text x="617.2" y="495.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="57.4" lengthAdjust="spacing">leul uriaș</text>
+<line x1="62.0" y1="506.0" x2="838.0" y2="506.0" stroke="#e3dccb"/>
+<text x="74.0" y="528.5" font-size="14.5" fill="#3a3226" textLength="103.2" lengthAdjust="spacing">propriu-zis / din</text>
+<text x="74.0" y="549.5" font-size="14.5" fill="#3a3226" textLength="59.9" lengthAdjust="spacing">participiu</text>
+
+<text x="617.2" y="528.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="79.2" lengthAdjust="spacing">roșu / aprins</text>
+<line x1="62.0" y1="559.9" x2="838.0" y2="559.9" stroke="#e3dccb"/>
+<text x="74.0" y="582.4" font-size="14.5" fill="#3a3226" textLength="116.9" lengthAdjust="spacing">variabil / invariabil</text>
+<text x="260.2" y="582.4" font-size="14.5" fill="#3a3226" textLength="157.9" lengthAdjust="spacing">își schimbă sau nu forma</text>
+<text x="617.2" y="582.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="107.4" lengthAdjust="spacing">mare – mari / gri</text>
+<line x1="62.0" y1="592.7" x2="838.0" y2="592.7" stroke="#e3dccb"/>
+<text x="74.0" y="615.2" font-size="14.5" fill="#3a3226" textLength="139.5" lengthAdjust="spacing">articolul demonstrativ</text>
+<text x="260.2" y="615.2" font-size="14.5" fill="#3a3226" textLength="187.9" lengthAdjust="spacing">leagă adjectivul de substantiv</text>
+<text x="617.2" y="615.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="109.5" lengthAdjust="spacing">Heracle cel viteaz</text>
+<line x1="62.0" y1="625.6" x2="838.0" y2="625.6" stroke="#e3dccb"/>
+<line x1="248.2" y1="441.6" x2="248.2" y2="625.6" stroke="#e3dccb"/>
+<line x1="605.2" y1="441.6" x2="605.2" y2="625.6" stroke="#e3dccb"/>
+<rect x="40" y="663.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="686.6" font-size="16" font-weight="700" fill="#ffffff">3. GRADELE DE COMPARAȚIE</text>
+<rect x="40" y="697.6" width="820" height="152.9" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="730.6" font-size="15" fill="#3a3226" textLength="47.2" lengthAdjust="spacing">pozitiv:</text>
+<text x="113.3" y="730.6" font-size="15" fill="#10233f" font-style="italic" textLength="53.0" lengthAdjust="spacing">puternic</text>
+<text x="170.3" y="730.6" font-size="15" fill="#3a3226" textLength="84.6" lengthAdjust="spacing">· comparativ:</text>
+<text x="258.9" y="730.6" font-size="15" fill="#10233f" font-style="italic" textLength="223.9" lengthAdjust="spacing">la fel de / mai / mai puțin puternic</text>
+<text x="486.9" y="730.6" font-size="15" fill="#3a3226" textLength="118.8" lengthAdjust="spacing">· superlativ relativ:</text>
+<text x="609.8" y="730.6" font-size="15" fill="#10233f" font-style="italic" textLength="202.3" lengthAdjust="spacing">cel mai / cel mai puțin puternic</text>
+<text x="816.2" y="730.6" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">·</text>
+<text x="62.0" y="752.3" font-size="15" fill="#3a3226" textLength="120.2" lengthAdjust="spacing">superlativ absolut:</text>
+<text x="186.2" y="752.3" font-size="15" fill="#10233f" font-style="italic" textLength="185.3" lengthAdjust="spacing">foarte / foarte puțin puternic</text>
+<rect x="62.0" y="770.8" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="770.8" width="6" height="61.7" rx="3" fill="#b4432c"/><text x="84.0" y="797.3" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="816.2" font-size="14.5" fill="#3a3226" textLength="87.6" lengthAdjust="spacing">Adjectivele ca</text>
+<text x="175.5" y="816.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="166.9" lengthAdjust="spacing">uriaș, unic, superb, suprem</text>
+<text x="346.3" y="816.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="17.7" lengthAdjust="spacing">nu</text>
+<text x="367.9" y="816.2" font-size="14.5" fill="#3a3226" textLength="155.9" lengthAdjust="spacing">au grade de comparație.</text>
+<text x="278.1" y="882.0" font-size="11.5" fill="#5b6b83" textLength="343.7" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 126-135, rubricile Repere ale lecțiilor 11-15.</text>
 </svg>

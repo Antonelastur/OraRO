@@ -1,25 +1,66 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="980" height="420" fill="#faf7f0"/>
-  <text x="490" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cum îmi fac autoportretul</text>
-  <text x="490" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 16 · Descrierea unei persoane, pregătire</text>
-  <rect x="36" y="100" width="452" height="150" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-  <text x="56" y="130" font-size="14" font-weight="700" fill="#10233f">Trăsături FIZICE</text>
-  <text x="56" y="156" font-size="12" fill="#3d4a5f">cum arăt: înălțime, păr, ochi,</text>
-  <text x="56" y="176" font-size="12" fill="#3d4a5f">un semn care mă face de recunoscut</text>
-  <text x="56" y="196" font-size="12" fill="#3d4a5f"></text>
-  <text x="56" y="216" font-size="12" fill="#3d4a5f">Nu tot ce se vede merită scris.</text>
-  <text x="56" y="236" font-size="12" fill="#3d4a5f">Alege ce te deosebește.</text>
-  <rect x="512" y="100" width="432" height="150" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
-  <text x="532" y="130" font-size="14" font-weight="700" fill="#10233f">Trăsături MORALE</text>
-  <text x="532" y="156" font-size="12" fill="#3d4a5f">cum sunt: răbdător, curios,</text>
-  <text x="532" y="176" font-size="12" fill="#3d4a5f">încăpățânat, vesel</text>
-  <text x="532" y="196" font-size="12" fill="#3d4a5f"></text>
-  <text x="532" y="216" font-size="12" fill="#3d4a5f">Aici e miezul autoportretului.</text>
-  <rect x="36" y="272" width="908" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="58" y="297" font-size="13" font-weight="700" fill="#10233f">Regula fără de care nu iese</text>
-  <text x="58" y="317" font-size="12" fill="#3d4a5f">orice trăsătură morală are nevoie de o faptă care o dovedește. Nu scrie sunt curajos; scrie ce ai făcut când ți-a fost frică.</text>
-  <rect x="36" y="336" width="908" height="56" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
-  <text x="58" y="361" font-size="13" font-weight="700" fill="#10233f">Ordinea</text>
-  <text x="58" y="381" font-size="12" fill="#3d4a5f">începe cu fizicul, pe scurt, apoi treci la moral și rămâi acolo. Autoportretul nu e o fișă de identitate.</text>
-  <text x="490" y="404" text-anchor="middle" font-size="12" font-style="italic" fill="#5b6b83">Cel mai greu la un autoportret e să fii sincer, nu să scrii frumos.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 890" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="890" fill="#faf7f0"/>
+<text x="185.8" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="529.2" lengthAdjust="spacing">Descrierea unei persoane. Autoportretul</text>
+<text x="214.3" y="74.4" font-size="14" fill="#5b6b83" textLength="471.4" lengthAdjust="spacing">Clasa a V-a · Unitatea IV, Lecția 16 · Manual, pp. 134-135 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. PORTRETUL ȘI AUTOPORTRETUL</text>
+<rect x="40" y="128.6" width="820" height="114.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="67.7" lengthAdjust="spacing">Portretul</text>
+<text x="134.0" y="162.6" font-size="16" fill="#10233f" textLength="384.0" lengthAdjust="spacing">(descrierea unei persoane) se face stabilind elementele</text>
+<text x="522.3" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="39.0" lengthAdjust="spacing">fizice</text>
+<text x="565.7" y="162.6" font-size="16" fill="#10233f" textLength="10.6" lengthAdjust="spacing">și</text>
+<text x="580.6" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="52.6" lengthAdjust="spacing">morale</text>
+<text x="637.5" y="162.6" font-size="16" fill="#10233f" textLength="150.6" lengthAdjust="spacing">pe care le descriem și</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" textLength="275.0" lengthAdjust="spacing">trăsăturile care fac persoana deosebită.</text>
+<text x="62.0" y="220.6" font-size="16" fill="#10233f" font-weight="700" textLength="104.8" lengthAdjust="spacing">Autoportretul</text>
+<text x="171.1" y="220.6" font-size="16" fill="#10233f" textLength="486.1" lengthAdjust="spacing">este portretul pe care cineva (scriitor, pictor sau om obișnuit) și-l face</text>
+<text x="661.5" y="220.6" font-size="16" fill="#10233f" font-weight="700" textLength="31.7" lengthAdjust="spacing">sieși</text>
+<text x="693.2" y="220.6" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<rect x="40" y="263.4" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="286.4" font-size="16" font-weight="700" fill="#ffffff">2. CE POT DESCRIE</text>
+<rect x="40" y="297.4" width="820" height="124.7" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="315.4" width="182.0" height="88.7" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="343.4" font-size="16" fill="#0d9c92" font-weight="700" textLength="102.7" lengthAdjust="spacing">portretul fizic</text>
+<text x="78.0" y="366.7" font-size="14.5" fill="#3a3226" textLength="56.1" lengthAdjust="spacing">cum arăt</text>
+<rect x="260.0" y="315.4" width="182.0" height="88.7" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="276.0" y="343.4" font-size="16" fill="#6f5ea8" font-weight="700" textLength="116.3" lengthAdjust="spacing">portretul moral</text>
+<text x="276.0" y="366.7" font-size="14.5" fill="#3a3226" textLength="110.1" lengthAdjust="spacing">ce fel de om sunt</text>
+<rect x="458.0" y="315.4" width="182.0" height="88.7" rx="12" fill="#ffffff" stroke="#9a7433" stroke-width="2"/>
+<text x="474.0" y="343.4" font-size="16" fill="#9a7433" font-weight="700" textLength="67.2" lengthAdjust="spacing">pasiunile</text>
+<text x="474.0" y="366.7" font-size="14.5" fill="#3a3226" textLength="115.0" lengthAdjust="spacing">ce îmi place să fac</text>
+<rect x="656.0" y="315.4" width="182.0" height="88.7" rx="12" fill="#ffffff" stroke="#10233f" stroke-width="2"/>
+<text x="672.0" y="343.4" font-size="16" fill="#10233f" font-weight="700" textLength="100.8" lengthAdjust="spacing">ce nu se vede</text>
+<text x="672.0" y="366.7" font-size="14.5" fill="#3a3226" textLength="110.1" lengthAdjust="spacing">gusturi, obiceiuri,</text>
+<text x="672.0" y="387.7" font-size="14.5" fill="#3a3226" textLength="48.9" lengthAdjust="spacing">prieteni</text>
+<rect x="40" y="442.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="465.1" font-size="16" font-weight="700" fill="#ffffff">3. PAȘII AUTOPORTRETULUI</text>
+<rect x="40" y="476.1" width="820" height="179.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="509.1" font-size="15" fill="#3a3226" font-weight="700">1.</text>
+<text x="81.0" y="509.1" font-size="15" fill="#3a3226" textLength="441.9" lengthAdjust="spacing">Fac o listă cu tot ce mă definește, gândindu-mă că îl vor citi colegii.</text>
+<text x="62.0" y="533.8" font-size="15" fill="#3a3226" font-weight="700">2.</text>
+<text x="81.0" y="533.8" font-size="15" fill="#3a3226" textLength="104.1" lengthAdjust="spacing">Restrâng lista la</text>
+<text x="189.1" y="533.8" font-size="15" fill="#3a3226" font-weight="700" textLength="89.4" lengthAdjust="spacing">cinci aspecte</text>
+<text x="278.5" y="533.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="558.6" font-size="15" fill="#3a3226" font-weight="700">3.</text>
+<text x="81.0" y="558.6" font-size="15" fill="#3a3226" textLength="67.8" lengthAdjust="spacing">Schițez un</text>
+<text x="152.8" y="558.6" font-size="15" fill="#3a3226" font-weight="700" textLength="30.8" lengthAdjust="spacing">plan</text>
+<text x="187.6" y="558.6" font-size="15" fill="#3a3226" textLength="95.1" lengthAdjust="spacing">cu ordinea lor.</text>
+<text x="62.0" y="583.3" font-size="15" fill="#3a3226" font-weight="700">4.</text>
+<text x="81.0" y="583.3" font-size="15" fill="#3a3226" textLength="318.9" lengthAdjust="spacing">Scriu prima variantă, atent la organizarea ideilor.</text>
+<text x="62.0" y="608.1" font-size="15" fill="#3a3226" font-weight="700">5.</text>
+<text x="81.0" y="608.1" font-size="15" fill="#3a3226" textLength="515.5" lengthAdjust="spacing">Revizuiesc: ideile importante, claritatea, apoi gramatica, ortografia, punctuația.</text>
+<text x="62.0" y="632.8" font-size="15" fill="#3a3226" font-weight="700">6.</text>
+<text x="81.0" y="632.8" font-size="15" fill="#3a3226" textLength="252.1" lengthAdjust="spacing">Pot adăuga o fotografie sau un desen.</text>
+<rect x="40" y="675.3" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="698.3" font-size="16" font-weight="700" fill="#ffffff">4. LISTA DE CONTROL</text>
+<rect x="40" y="709.3" width="820" height="129.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="742.3" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="742.3" font-size="15" fill="#3a3226" textLength="367.3" lengthAdjust="spacing">Paragraful introductiv prezintă tema și captează atenția.</text>
+<text x="62.0" y="767.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="767.1" font-size="15" fill="#3a3226" textLength="460.8" lengthAdjust="spacing">Fiecare dintre cele cinci aspecte are paragraful său, cu detalii potrivite.</text>
+<text x="62.0" y="791.8" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="791.8" font-size="15" fill="#3a3226" textLength="289.2" lengthAdjust="spacing">Stilul e plăcut; imaginea completează textul.</text>
+<text x="62.0" y="816.6" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="816.6" font-size="15" fill="#3a3226" textLength="311.5" lengthAdjust="spacing">Textul e așezat corect în pagină, lizibil și îngrijit.</text>
+<text x="267.3" y="870.6" font-size="11.5" fill="#5b6b83" textLength="365.4" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 134-135, rubrica Repere, pașii și lista de control.</text>
 </svg>

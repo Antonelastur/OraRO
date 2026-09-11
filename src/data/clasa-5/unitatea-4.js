@@ -194,7 +194,7 @@ export const unitatea4 = {
         ],
         resurse: [
           'Manual Art 5, pp. 110-111',
-          'Schema „Timp, spațiu și acțiune” (/materiale/clasa-5/unitatea-4/lectia-2/schema.svg)',
+          'Schema „Timp, spațiu și acțiune. Legenda” (/materiale/clasa-5/unitatea-4/lectia-2/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -331,7 +331,7 @@ export const unitatea4 = {
           ],
         },
         infografic: null,
-        schema: { fisier: '/materiale/clasa-5/unitatea-4/lectia-2/schema.svg', titlu: 'Timp, spațiu și acțiune' },
+        schema: { fisier: '/materiale/clasa-5/unitatea-4/lectia-2/schema.svg', titlu: 'Timp, spațiu și acțiune. Legenda' },
         altele: [],
       },
     },
@@ -1169,7 +1169,7 @@ export const unitatea4 = {
         ],
         resurse: [
           'Manual Art 5, p. 126',
-          'Schema „Pronumele personal (I)” (/materiale/clasa-5/unitatea-4/lectia-11/schema.svg)',
+          'Schema „Pronumele. Pronumele personal” (/materiale/clasa-5/unitatea-4/lectia-11/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -1306,7 +1306,7 @@ export const unitatea4 = {
           ],
         },
         infografic: null,
-        schema: { fisier: '/materiale/clasa-5/unitatea-4/lectia-11/schema.svg', titlu: 'Pronumele personal (I)' },
+        schema: { fisier: '/materiale/clasa-5/unitatea-4/lectia-11/schema.svg', titlu: 'Pronumele. Pronumele personal' },
         altele: [],
       },
     },

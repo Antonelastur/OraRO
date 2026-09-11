@@ -1,32 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 436" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="940" height="436" fill="#faf7f0"/>
-  <text x="470" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cum ascult cu adevărat</text>
-  <text x="470" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 9 · Ascultarea activă</text>
-  <rect x="36" y="100" width="418" height="248" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
-  <text x="60" y="134" font-size="15" font-weight="700" fill="#1c7f5e">AȘA DA</text>
-  <circle cx="70" cy="170" r="6" fill="#1c7f5e"/>
-  <text x="88" y="175" font-size="12.5" fill="#3d4a5f">Mă uit la cel care vorbește</text>
-  <circle cx="70" cy="204" r="6" fill="#1c7f5e"/>
-  <text x="88" y="209" font-size="12.5" fill="#3d4a5f">Îl las să termine</text>
-  <circle cx="70" cy="238" r="6" fill="#1c7f5e"/>
-  <text x="88" y="243" font-size="12.5" fill="#3d4a5f">Dau din cap, arăt că sunt atent</text>
-  <circle cx="70" cy="272" r="6" fill="#1c7f5e"/>
-  <text x="88" y="277" font-size="12.5" fill="#3d4a5f">Întreb dacă nu am înțeles</text>
-  <circle cx="70" cy="306" r="6" fill="#1c7f5e"/>
-  <text x="88" y="311" font-size="12.5" fill="#3d4a5f">Repet cu vorbele mele ce a spus</text>
-  <rect x="486" y="100" width="418" height="248" rx="16" fill="#ffffff" stroke="#c1503a" stroke-width="2.5"/>
-  <text x="510" y="134" font-size="15" font-weight="700" fill="#c1503a">AȘA NU</text>
-  <circle cx="520" cy="170" r="6" fill="#c1503a"/>
-  <text x="538" y="175" font-size="12.5" fill="#3d4a5f">Mă uit pe geam sau la telefon</text>
-  <circle cx="520" cy="204" r="6" fill="#c1503a"/>
-  <text x="538" y="209" font-size="12.5" fill="#3d4a5f">Îl întrerup la mijloc</text>
-  <circle cx="520" cy="238" r="6" fill="#c1503a"/>
-  <text x="538" y="243" font-size="12.5" fill="#3d4a5f">Pregătesc răspunsul în timp ce vorbește</text>
-  <circle cx="520" cy="272" r="6" fill="#c1503a"/>
-  <text x="538" y="277" font-size="12.5" fill="#3d4a5f">Schimb subiectul</text>
-  <circle cx="520" cy="306" r="6" fill="#c1503a"/>
-  <text x="538" y="311" font-size="12.5" fill="#3d4a5f">Mă gândesc la altceva</text>
-  <rect x="36" y="360" width="868" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="58" y="385" font-size="13" font-weight="700" fill="#10233f">Proba</text>
-  <text x="58" y="405" font-size="12" fill="#3d4a5f">la final, poți spune cu vorbele tale ce a zis celălalt? Dacă da, ai ascultat.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 816" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="816" fill="#faf7f0"/>
+<text x="338.6" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="223.2" lengthAdjust="spacing">Ascultarea activă</text>
+<text x="226.2" y="74.4" font-size="14" fill="#5b6b83" textLength="447.6" lengthAdjust="spacing">Clasa a V-a · Unitatea III, Lecția 9 · Manual, pp. 92-93 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. A AUZI ȘI A ASCULTA</text>
+<rect x="40" y="128.6" width="820" height="55.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" textLength="442.5" lengthAdjust="spacing">Ca să asculți, trebuie să auzi. Dar a asculta înseamnă mai mult: să fii</text>
+<text x="508.5" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="37.0" lengthAdjust="spacing">atent</text>
+<text x="549.6" y="161.6" font-size="15" fill="#3a3226" textLength="27.9" lengthAdjust="spacing">și să</text>
+<text x="581.6" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="53.1" lengthAdjust="spacing">înțelegi</text>
+<text x="638.7" y="161.6" font-size="15" fill="#3a3226" textLength="93.0" lengthAdjust="spacing">ce ți se spune.</text>
+<rect x="40" y="204.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="227.1" font-size="16" font-weight="700" fill="#ffffff">2. CE ÎNSEAMNĂ ASCULTAREA ACTIVĂ</text>
+<rect x="40" y="238.1" width="820" height="318.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="271.6" font-size="15.5" fill="#3a3226" font-weight="700" textLength="123.5" lengthAdjust="spacing">Ascultarea activă</text>
+<text x="189.7" y="271.6" font-size="15.5" fill="#3a3226" textLength="352.8" lengthAdjust="spacing">este o strategie esențială în comunicare. Presupune:</text>
+<rect x="62.0" y="290.2" width="380.0" height="109.7" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="318.2" font-size="16" fill="#0d9c92" font-weight="700" textLength="50.7" lengthAdjust="spacing">să auzi</text>
+<text x="78.0" y="341.6" font-size="14.5" fill="#3a3226" textLength="298.0" lengthAdjust="spacing">să primești clar mesajul, fără zgomote care să-l</text>
+<text x="78.0" y="362.6" font-size="14.5" fill="#3a3226" textLength="55.5" lengthAdjust="spacing">perturbe</text>
+<rect x="458.0" y="290.2" width="380.0" height="109.7" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="318.2" font-size="16" fill="#6f5ea8" font-weight="700" textLength="123.0" lengthAdjust="spacing">să interacționezi</text>
+<text x="474.0" y="341.6" font-size="14.5" fill="#3a3226" textLength="312.2" lengthAdjust="spacing">asculți fără să întrerupi; știi când poți interveni cu</text>
+<text x="474.0" y="362.6" font-size="14.5" fill="#3a3226" textLength="304.3" lengthAdjust="spacing">întrebări sau cu un rezumat; urmărești gesturile,</text>
+<text x="474.0" y="383.6" font-size="14.5" fill="#3a3226" textLength="305.9" lengthAdjust="spacing">păstrezi contactul vizual, îl încurajezi pe vorbitor</text>
+<rect x="62.0" y="415.9" width="380.0" height="67.7" rx="12" fill="#ffffff" stroke="#9a7433" stroke-width="2"/>
+<text x="78.0" y="443.9" font-size="16" fill="#9a7433" font-weight="700" textLength="126.2" lengthAdjust="spacing">să te concentrezi</text>
+<text x="78.0" y="467.2" font-size="14.5" fill="#3a3226" textLength="103.8" lengthAdjust="spacing">îți menții atenția</text>
+<rect x="458.0" y="415.9" width="380.0" height="67.7" rx="12" fill="#ffffff" stroke="#10233f" stroke-width="2"/>
+<text x="474.0" y="443.9" font-size="16" fill="#10233f" font-weight="700" textLength="76.8" lengthAdjust="spacing">să înțelegi</text>
+<text x="474.0" y="467.2" font-size="14.5" fill="#3a3226" textLength="278.1" lengthAdjust="spacing">știi de ce asculți: relaxare, informare, analiză</text>
+<text x="62.0" y="512.6" font-size="15" fill="#3a3226" textLength="386.8" lengthAdjust="spacing">Asculți ca să auzi, ca să te gândești la ce ai auzit, ca să arăți</text>
+<text x="452.9" y="512.6" font-size="15" fill="#3a3226" font-weight="700" textLength="57.4" lengthAdjust="spacing">empatie</text>
+<text x="510.3" y="512.6" font-size="15" fill="#3a3226" textLength="299.1" lengthAdjust="spacing">, ca să urmărești gesturile vorbitorului și ca să</text>
+<text x="62.0" y="534.4" font-size="15" fill="#3a3226" textLength="142.9" lengthAdjust="spacing">spui ce ai înțeles (prin</text>
+<text x="209.0" y="534.4" font-size="15" fill="#3a3226" font-weight="700" textLength="84.3" lengthAdjust="spacing">reformulare</text>
+<text x="293.3" y="534.4" font-size="15" fill="#3a3226" textLength="74.1" lengthAdjust="spacing">) sau să pui</text>
+<text x="371.4" y="534.4" font-size="15" fill="#3a3226" font-weight="700" textLength="60.9" lengthAdjust="spacing">întrebări</text>
+<text x="432.3" y="534.4" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="40" y="576.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="599.9" font-size="16" font-weight="700" fill="#ffffff">3. SEMNELE UNUI ASCULTĂTOR BUN</text>
+<rect x="40" y="610.9" width="820" height="154.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="643.9" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="643.9" font-size="15" fill="#3a3226" textLength="541.5" lengthAdjust="spacing">participă la comunicare în egală măsură cu vorbitorul și păstrează contactul vizual;</text>
+<text x="62.0" y="668.6" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="668.6" font-size="15" fill="#3a3226" textLength="394.8" lengthAdjust="spacing">îl încurajează pe vorbitor cu sunete sau gesturi de aprobare;</text>
+<text x="62.0" y="693.4" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="693.4" font-size="15" fill="#3a3226" textLength="427.0" lengthAdjust="spacing">pune întrebări sau reformulează ideile, ca să fie sigur că a înțeles;</text>
+<text x="62.0" y="718.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="718.1" font-size="15" fill="#3a3226" textLength="275.5" lengthAdjust="spacing">respectă regulile de preluare a cuvântului;</text>
+<text x="62.0" y="742.9" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="742.9" font-size="15" fill="#3a3226" textLength="325.2" lengthAdjust="spacing">la final, poate face un rezumat clar al celor auzite.</text>
+<text x="260.5" y="796.9" font-size="11.5" fill="#5b6b83" textLength="378.9" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 92-93, rubrica Repere, schema și fișa de observare.</text>
 </svg>

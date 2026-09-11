@@ -32,7 +32,7 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Recunoaște reperele temporale și spațiale ale acțiunii și înțelege particularitățile de construcție a textului narativ.'],
-    resurse: ['Manual Art 5, pp. 110-111', 'Schema „Timp, spațiu și acțiune” (/materiale/clasa-5/unitatea-4/lectia-2/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 5, pp. 110-111', 'Schema „Timp, spațiu și acțiune. Legenda” (/materiale/clasa-5/unitatea-4/lectia-2/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Îi întreb pe elevi în ce lume și în ce timp se petrece legenda, unul apropiat de noi sau unul îndepărtat.' },
@@ -185,7 +185,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Reactualizează cunoștințele despre pronume și înlocuiește substantive cu pronume personale potrivite.'],
-    resurse: ['Manual Art 5, p. 126', 'Schema „Pronumele personal (I)” (/materiale/clasa-5/unitatea-4/lectia-11/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 5, p. 126', 'Schema „Pronumele. Pronumele personal” (/materiale/clasa-5/unitatea-4/lectia-11/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le citesc un text în care se repetă mereu același nume și îi întreb pe elevi cum ar suna mai bine.' },

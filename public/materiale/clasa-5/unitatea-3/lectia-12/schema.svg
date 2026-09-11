@@ -1,11 +1,91 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="340" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Posibilități combinatorii ale substantivului (I)</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 10, partea 1/2 · Prepoziția</text>
-  <rect x="150" y="95" width="600" height="90" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="450" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Atributul</text>
-  <text font-size="12" fill="#3a3226" text-anchor="middle"><tspan x="450" y="147">Parte secundară de propoziție care determină un substantiv.</tspan><tspan x="450" y="164">Poate fi legat de acesta printr-o prepoziție simplă.</tspan></text>
-  <rect x="180" y="205" width="540" height="50" rx="12" fill="#eaf6f4"/>
-  <text x="450" y="235" text-anchor="middle" font-size="12.5" fill="#3a3226" font-style="italic">casa din colț — prepoziție simplă: din</text>
-  <text x="450" y="300" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 10, p. 98</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 841" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="841" fill="#faf7f0"/>
+<text x="104.9" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="691.3" lengthAdjust="spacing">Posibilități combinatorii ale substantivului. Atributul</text>
+<text x="236.9" y="74.4" font-size="14" fill="#5b6b83" textLength="426.2" lengthAdjust="spacing">Clasa a V-a · Unitatea III, Lecția 12 · Manual, p. 98 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. ATRIBUTUL</text>
+<rect x="40" y="128.6" width="820" height="234.4" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="68.5" lengthAdjust="spacing">Atributul</text>
+<text x="134.8" y="162.6" font-size="16" fill="#10233f" textLength="286.7" lengthAdjust="spacing">este partea secundară de propoziție care</text>
+<text x="425.8" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="183.7" lengthAdjust="spacing">determină un substantiv</text>
+<text x="609.5" y="162.6" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<text x="62.0" y="196.4" font-size="15" fill="#3a3226" textLength="143.2" lengthAdjust="spacing">Întrebările atributului:</text>
+<text x="209.3" y="196.4" font-size="15" fill="#3a3226" font-weight="700" textLength="104.2" lengthAdjust="spacing">al/a/ai/ale cui?</text>
+<text x="313.5" y="196.4" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">,</text>
+<text x="320.9" y="196.4" font-size="15" fill="#3a3226" font-weight="700" textLength="36.0" lengthAdjust="spacing">care?</text>
+<text x="356.9" y="196.4" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">,</text>
+<text x="364.2" y="196.4" font-size="15" fill="#3a3226" font-weight="700" textLength="65.7" lengthAdjust="spacing">ce fel de?</text>
+<rect x="62.0" y="214.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="236.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="66.1" lengthAdjust="spacing">Întrebarea</text>
+<text x="306.8" y="236.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="246.4" x2="838.0" y2="246.4" stroke="#e3dccb"/>
+<text x="74.0" y="268.9" font-size="14.5" fill="#3a3226" textLength="67.7" lengthAdjust="spacing">a cui casă?</text>
+<text x="306.8" y="268.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="30.7" lengthAdjust="spacing">Casa</text>
+<text x="341.5" y="268.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="56.8" lengthAdjust="spacing">bătrânei</text>
+<text x="402.2" y="268.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="99.8" lengthAdjust="spacing">este mică, mică.</text>
+<line x1="62.0" y1="279.3" x2="838.0" y2="279.3" stroke="#e3dccb"/>
+<text x="74.0" y="301.8" font-size="14.5" fill="#3a3226" textLength="64.7" lengthAdjust="spacing">care casă?</text>
+<text x="306.8" y="301.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="30.7" lengthAdjust="spacing">Casa</text>
+<text x="341.5" y="301.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="34.4" lengthAdjust="spacing">nouă</text>
+<text x="379.7" y="301.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="143.4" lengthAdjust="spacing">este mare și bârfitoare.</text>
+<line x1="62.0" y1="312.1" x2="838.0" y2="312.1" stroke="#e3dccb"/>
+<text x="74.0" y="334.6" font-size="14.5" fill="#3a3226" textLength="91.6" lengthAdjust="spacing">ce fel de casă?</text>
+<text x="306.8" y="334.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="30.7" lengthAdjust="spacing">Casa</text>
+<text x="341.5" y="334.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="83.5" lengthAdjust="spacing">de cărămidă</text>
+<text x="428.9" y="334.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="125.7" lengthAdjust="spacing">are pereți portocalii.</text>
+<line x1="62.0" y1="345.0" x2="838.0" y2="345.0" stroke="#e3dccb"/>
+<line x1="294.8" y1="214.9" x2="294.8" y2="345.0" stroke="#e3dccb"/>
+<rect x="40" y="383.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="406.0" font-size="16" font-weight="700" fill="#ffffff">2. SUBSTANTIVUL CENTRU ȘI ADJUNCT</text>
+<rect x="40" y="417.0" width="820" height="127.6" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="435.0" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="463.0" font-size="16" fill="#0d9c92" font-weight="700" textLength="48.5" lengthAdjust="spacing">centru</text>
+<text x="78.0" y="486.3" font-size="14.5" fill="#3a3226" textLength="248.1" lengthAdjust="spacing">substantivul determinat de alte cuvinte</text>
+<text x="78.0" y="510.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="29.0" lengthAdjust="spacing">casa</text>
+<text x="110.9" y="510.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="28.1" lengthAdjust="spacing">Anei</text>
+<text x="139.0" y="510.2" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="146.2" y="510.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="29.0" lengthAdjust="spacing">casa</text>
+<text x="179.1" y="510.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="34.1" lengthAdjust="spacing">verde</text>
+<text x="213.1" y="510.2" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="220.2" y="510.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="29.0" lengthAdjust="spacing">casa</text>
+<text x="253.2" y="510.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="56.0" lengthAdjust="spacing">de piatră</text>
+<rect x="458.0" y="435.0" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="463.0" font-size="16" fill="#6f5ea8" font-weight="700" textLength="56.5" lengthAdjust="spacing">adjunct</text>
+<text x="474.0" y="486.3" font-size="14.5" fill="#3a3226" textLength="234.6" lengthAdjust="spacing">cuvântul care determină substantivul</text>
+<text x="474.0" y="510.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="27.8" lengthAdjust="spacing">casa</text>
+<text x="505.8" y="510.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="30.9" lengthAdjust="spacing">Anei</text>
+<text x="536.6" y="510.2" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="543.7" y="510.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="27.8" lengthAdjust="spacing">casa</text>
+<text x="575.5" y="510.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="61.0" lengthAdjust="spacing">de piatră</text>
+<rect x="40" y="564.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="587.6" font-size="16" font-weight="700" fill="#ffffff">3. CUM SE EXPRIMĂ ATRIBUTUL</text>
+<rect x="40" y="598.6" width="820" height="191.5" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="616.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="638.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="25.6" lengthAdjust="spacing">Prin</text>
+<text x="306.8" y="638.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="648.1" x2="838.0" y2="648.1" stroke="#e3dccb"/>
+<text x="74.0" y="670.6" font-size="14.5" fill="#3a3226" textLength="49.0" lengthAdjust="spacing">adjectiv</text>
+<text x="306.8" y="670.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="39.1" lengthAdjust="spacing">strada</text>
+<text x="349.9" y="670.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="34.5" lengthAdjust="spacing">largă</text>
+<line x1="62.0" y1="681.0" x2="838.0" y2="681.0" stroke="#e3dccb"/>
+<text x="74.0" y="703.5" font-size="14.5" fill="#3a3226" textLength="65.0" lengthAdjust="spacing">substantiv</text>
+<text x="306.8" y="703.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="39.1" lengthAdjust="spacing">strada</text>
+<text x="349.9" y="703.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="45.8" lengthAdjust="spacing">bunicii</text>
+<text x="395.7" y="703.5" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="402.8" y="703.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="39.1" lengthAdjust="spacing">strada</text>
+<text x="445.9" y="703.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="69.9" lengthAdjust="spacing">din centru</text>
+<line x1="62.0" y1="713.8" x2="838.0" y2="713.8" stroke="#e3dccb"/>
+<line x1="294.8" y1="616.6" x2="294.8" y2="713.8" stroke="#e3dccb"/>
+<text x="62.0" y="742.8" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="742.8" font-size="15" fill="#3a3226" textLength="166.8" lengthAdjust="spacing">Un substantiv poate avea</text>
+<text x="245.0" y="742.8" font-size="15" fill="#3a3226" font-weight="700" textLength="135.3" lengthAdjust="spacing">unul sau mai multe</text>
+<text x="384.4" y="742.8" font-size="15" fill="#3a3226" textLength="55.2" lengthAdjust="spacing">atribute:</text>
+<text x="443.6" y="742.8" font-size="15" fill="#10233f" font-style="italic" textLength="152.5" lengthAdjust="spacing">Palidele raze de soare…</text>
+<text x="62.0" y="767.6" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="767.6" font-size="15" fill="#3a3226" textLength="148.7" lengthAdjust="spacing">De obicei, atributul stă</text>
+<text x="226.9" y="767.6" font-size="15" fill="#3a3226" font-weight="700" textLength="35.8" lengthAdjust="spacing">după</text>
+<text x="266.8" y="767.6" font-size="15" fill="#3a3226" textLength="175.6" lengthAdjust="spacing">substantiv, dar poate sta și</text>
+<text x="446.5" y="767.6" font-size="15" fill="#3a3226" font-weight="700" textLength="48.8" lengthAdjust="spacing">înainte</text>
+<text x="495.2" y="767.6" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="276.8" y="821.6" font-size="11.5" fill="#5b6b83" textLength="346.4" lengthAdjust="spacing">Sursa: Manual Art 5, p. 98, rubrica Repere și exemplele din Explorare.</text>
 </svg>

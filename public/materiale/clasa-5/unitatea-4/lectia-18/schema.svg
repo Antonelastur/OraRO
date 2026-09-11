@@ -1,31 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 412" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="960" height="412" fill="#faf7f0"/>
-  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Ce am învățat despre eroi și despre texte</text>
-  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 18 · Recapitulare, lectură și comunicare</text>
-  <rect x="36" y="100" width="290" height="150" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-  <text x="56" y="130" font-size="14" font-weight="700" fill="#10233f">Legenda</text>
-  <text x="56" y="156" font-size="12" fill="#3d4a5f">timp îndepărtat,</text>
-  <text x="56" y="176" font-size="12" fill="#3d4a5f">fapte extraordinare</text>
-  <text x="56" y="196" font-size="12" fill="#3d4a5f"></text>
-  <text x="56" y="216" font-size="12" fill="#3d4a5f">eroul înfruntă o primejdie</text>
-  <text x="56" y="236" font-size="12" fill="#3d4a5f">pentru alții</text>
-  <rect x="340" y="100" width="290" height="150" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
-  <text x="360" y="130" font-size="14" font-weight="700" fill="#10233f">Comparația</text>
-  <text x="360" y="156" font-size="12" fill="#3d4a5f">doi termeni alăturați</text>
-  <text x="360" y="176" font-size="12" fill="#3d4a5f">prin ca, precum, asemenea</text>
-  <text x="360" y="196" font-size="12" fill="#3d4a5f"></text>
-  <text x="360" y="216" font-size="12" fill="#3d4a5f">explică necunoscutul</text>
-  <text x="360" y="236" font-size="12" fill="#3d4a5f">prin cunoscut</text>
-  <rect x="644" y="100" width="280" height="150" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
-  <text x="664" y="130" font-size="14" font-weight="700" fill="#10233f">Textul multimodal</text>
-  <text x="664" y="156" font-size="12" fill="#3d4a5f">imagine și text împreună</text>
-  <text x="664" y="176" font-size="12" fill="#3d4a5f"></text>
-  <text x="664" y="196" font-size="12" fill="#3d4a5f">banda desenată:</text>
-  <text x="664" y="216" font-size="12" fill="#3d4a5f">cadru, bulă, onomatopee</text>
-  <rect x="36" y="272" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="58" y="297" font-size="13" font-weight="700" fill="#10233f">Actele de limbaj</text>
-  <text x="58" y="317" font-size="12" fill="#3d4a5f">a întreba, a solicita, a felicita. Aceeași cerere poate suna a rugăminte sau a poruncă, după ton.</text>
-  <rect x="36" y="336" width="888" height="56" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
-  <text x="58" y="361" font-size="13" font-weight="700" fill="#10233f">Întrebarea unității</text>
-  <text x="58" y="381" font-size="12" fill="#3d4a5f">ce înseamnă să salvezi lumea? Tezeu a salvat niște tineri. Malala a salvat dreptul la școală.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 835" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="835" fill="#faf7f0"/>
+<text x="123.7" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="654.4" lengthAdjust="spacing">Recapitulare. Lectură și comunicare în Unitatea IV</text>
+<text x="185.4" y="74.4" font-size="14" fill="#5b6b83" textLength="529.2" lengthAdjust="spacing">Clasa a V-a · Unitatea IV, Lecția 18 · Manual, pp. 110-125, 136-137 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. LEGENDA</text>
+<rect x="40" y="128.6" width="820" height="77.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" textLength="57.5" lengthAdjust="spacing">Explicații</text>
+<text x="123.5" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="71.0" lengthAdjust="spacing">imaginare</text>
+<text x="198.5" y="161.6" font-size="15" fill="#3a3226" textLength="589.9" lengthAdjust="spacing">pentru originea lumii, a plantelor, a animalelor, a fenomenelor; transmise mai întâi oral. În</text>
+<text x="62.0" y="183.3" font-size="15" fill="#3a3226" font-weight="700" textLength="115.3" lengthAdjust="spacing">legendele antice</text>
+<text x="177.3" y="183.3" font-size="15" fill="#3a3226" textLength="338.2" lengthAdjust="spacing">, zeii intervin supranatural, într-un timp îndepărtat (</text>
+<text x="515.6" y="183.3" font-size="15" fill="#10233f" font-style="italic" textLength="127.5" lengthAdjust="spacing">Tezeu și Minotaurul</text>
+<text x="643.1" y="183.3" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">,</text>
+<text x="650.4" y="183.3" font-size="15" fill="#10233f" font-style="italic" textLength="173.7" lengthAdjust="spacing">Heracle și leul din Nemeea</text>
+<text x="824.1" y="183.3" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">).</text>
+<rect x="40" y="225.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="248.8" font-size="16" font-weight="700" fill="#ffffff">2. CÂND CITESC O NARAȚIUNE</text>
+<rect x="40" y="259.9" width="820" height="124.7" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="277.9" width="182.0" height="88.7" rx="12" fill="#ffffff" stroke="#10233f" stroke-width="2"/>
+<text x="78.0" y="305.9" font-size="16" fill="#10233f" font-weight="700" textLength="39.8" lengthAdjust="spacing">Cine?</text>
+<text x="78.0" y="329.2" font-size="14.5" fill="#3a3226" textLength="139.1" lengthAdjust="spacing">personajul principal și</text>
+<text x="78.0" y="350.2" font-size="14.5" fill="#3a3226" textLength="94.5" lengthAdjust="spacing">cele secundare</text>
+<rect x="260.0" y="277.9" width="182.0" height="88.7" rx="12" fill="#ffffff" stroke="#10233f" stroke-width="2"/>
+<text x="276.0" y="305.9" font-size="16" fill="#10233f" font-weight="700" textLength="25.6" lengthAdjust="spacing">Ce?</text>
+<text x="276.0" y="329.2" font-size="14.5" fill="#3a3226" textLength="143.4" lengthAdjust="spacing">evenimentul prezentat</text>
+<rect x="458.0" y="277.9" width="182.0" height="88.7" rx="12" fill="#ffffff" stroke="#10233f" stroke-width="2"/>
+<text x="474.0" y="305.9" font-size="16" fill="#10233f" font-weight="700" textLength="96.6" lengthAdjust="spacing">Unde? Când?</text>
+<text x="474.0" y="329.2" font-size="14.5" fill="#3a3226" textLength="89.0" lengthAdjust="spacing">locul și timpul</text>
+<rect x="656.0" y="277.9" width="182.0" height="88.7" rx="12" fill="#ffffff" stroke="#10233f" stroke-width="2"/>
+<text x="672.0" y="305.9" font-size="16" fill="#10233f" font-weight="700" textLength="48.3" lengthAdjust="spacing">De ce?</text>
+<text x="672.0" y="329.2" font-size="14.5" fill="#3a3226" textLength="95.0" lengthAdjust="spacing">ce declanșează</text>
+<text x="672.0" y="350.2" font-size="14.5" fill="#3a3226" textLength="53.9" lengthAdjust="spacing">acțiunea</text>
+<rect x="40" y="404.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="427.5" font-size="16" font-weight="700" fill="#ffffff">3. COMPARAȚIA</text>
+<rect x="40" y="438.5" width="820" height="55.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="471.5" font-size="15" fill="#3a3226" font-weight="700" textLength="67.5" lengthAdjust="spacing">comparat</text>
+<text x="133.5" y="471.5" font-size="15" fill="#3a3226" textLength="155.6" lengthAdjust="spacing">+ element de legătură (</text>
+<text x="289.1" y="471.5" font-size="15" fill="#10233f" font-style="italic" textLength="108.8" lengthAdjust="spacing">ca, precum, cât…</text>
+<text x="397.8" y="471.5" font-size="15" fill="#3a3226" textLength="18.8" lengthAdjust="spacing">) +</text>
+<text x="420.6" y="471.5" font-size="15" fill="#3a3226" font-weight="700" textLength="76.6" lengthAdjust="spacing">comparant</text>
+<text x="497.3" y="471.5" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="504.6" y="471.5" font-size="15" fill="#10233f" font-style="italic" textLength="142.5" lengthAdjust="spacing">Săgeata s-a izbit de el</text>
+<text x="651.2" y="471.5" font-size="15" fill="#3a3226" font-weight="700" textLength="151.7" lengthAdjust="spacing">ca de un zid de piatră</text>
+<text x="802.8" y="471.5" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="40" y="514.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="537.0" font-size="16" font-weight="700" fill="#ffffff">4. TEXTE CU MAI MULTE MODURI DE COMUNICARE</text>
+<rect x="40" y="548.0" width="820" height="80.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="581.0" font-size="15" fill="#3a3226" font-weight="700" textLength="190.6" lengthAdjust="spacing">Textul explicativ (aplicativ)</text>
+<text x="252.6" y="581.0" font-size="15" fill="#3a3226" textLength="289.2" lengthAdjust="spacing">: instrucțiuni, pași, verbe la imperativ, schițe.</text>
+<text x="62.0" y="605.8" font-size="15" fill="#3a3226" font-weight="700" textLength="111.8" lengthAdjust="spacing">Banda desenată</text>
+<text x="173.8" y="605.8" font-size="15" fill="#3a3226" textLength="349.2" lengthAdjust="spacing">: planșă, bandă, viniete, bule, recitative, onomatopee.</text>
+<rect x="40" y="648.3" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="671.3" font-size="16" font-weight="700" fill="#ffffff">5. COMUNICAREA</text>
+<rect x="40" y="682.3" width="820" height="102.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="715.3" font-size="15" fill="#3a3226" font-weight="700" textLength="173.1" lengthAdjust="spacing">Atitudinile comunicative</text>
+<text x="235.1" y="715.3" font-size="15" fill="#3a3226" textLength="449.4" lengthAdjust="spacing">: ce spun despre mine și despre relația cu ceilalți, dincolo de cuvinte.</text>
+<text x="688.5" y="715.3" font-size="15" fill="#3a3226" font-weight="700" textLength="51.7" lengthAdjust="spacing">Atenția</text>
+<text x="744.3" y="715.3" font-size="15" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">și</text>
+<text x="758.3" y="715.3" font-size="15" fill="#3a3226" font-weight="700" textLength="57.4" lengthAdjust="spacing">empatia</text>
+<text x="62.0" y="737.0" font-size="15" fill="#3a3226" textLength="154.0" lengthAdjust="spacing">fac o comunicare bună.</text>
+<text x="62.0" y="761.8" font-size="15" fill="#3a3226" font-weight="700" textLength="101.2" lengthAdjust="spacing">Acte de limbaj</text>
+<text x="163.2" y="761.8" font-size="15" fill="#3a3226" textLength="480.6" lengthAdjust="spacing">: a întreba, a solicita, a felicita, simplu cu cei apropiați, politicos cu ceilalți.</text>
+<text x="209.0" y="815.8" font-size="11.5" fill="#5b6b83" textLength="482.1" lengthAdjust="spacing">Sursa: Manual Art 5, rubricile Repere ale lecțiilor 2-10 și cerințele recapitulării de la pp. 136-137.</text>
 </svg>

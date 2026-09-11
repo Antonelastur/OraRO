@@ -1,39 +1,96 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="380" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Gradele de comparație ale adjectivului</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 14</text>
-
-  <g>
-    <rect x="40" y="95" width="270" height="190" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="175" y="123" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Pozitiv</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="175" y="150">Fără comparație.</tspan>
-      <tspan x="175" y="180" font-style="italic">curajos</tspan>
-    </text>
-  </g>
-
-  <g>
-    <rect x="315" y="95" width="270" height="190" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="450" y="123" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Comparativ</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="450" y="150">de superioritate/</tspan>
-      <tspan x="450" y="166">inferioritate/egalitate</tspan>
-      <tspan x="450" y="196" font-style="italic">mai curajos</tspan>
-      <tspan x="450" y="212" font-style="italic">mai puțin curajos</tspan>
-      <tspan x="450" y="228" font-style="italic">la fel de curajos</tspan>
-    </text>
-  </g>
-
-  <g>
-    <rect x="590" y="95" width="270" height="190" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="725" y="123" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Superlativ</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="725" y="150">relativ sau absolut</tspan>
-      <tspan x="725" y="180" font-style="italic">cel mai curajos</tspan>
-      <tspan x="725" y="196" font-style="italic">foarte curajos</tspan>
-    </text>
-  </g>
-
-  <text x="450" y="320" text-anchor="middle" font-size="11.5" fill="#3a3226">Nu toate adjectivele au grade de comparație (ex.: mort, veșnic).</text>
-  <text x="450" y="352" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 14, p. 132</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 993" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="993" fill="#faf7f0"/>
+<text x="198.0" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="505.1" lengthAdjust="spacing">Gradele de comparație ale adjectivului</text>
+<text x="214.3" y="74.4" font-size="14" fill="#5b6b83" textLength="471.4" lengthAdjust="spacing">Clasa a V-a · Unitatea IV, Lecția 15 · Manual, pp. 132-133 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE SUNT</text>
+<rect x="40" y="128.6" width="820" height="80.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="170.7" lengthAdjust="spacing">Gradele de comparație</text>
+<text x="237.0" y="162.6" font-size="16" fill="#10233f" textLength="462.4" lengthAdjust="spacing">(de intensitate) sunt formele pe care le ia adjectivul pentru a arăta</text>
+<text x="703.8" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="94.7" lengthAdjust="spacing">în ce măsură</text>
+<text x="802.8" y="162.6" font-size="16" fill="#10233f" textLength="18.2" lengthAdjust="spacing">un</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" textLength="145.1" lengthAdjust="spacing">obiect are o însușire.</text>
+<rect x="40" y="228.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="251.6" font-size="16" font-weight="700" fill="#ffffff">2. TOATE GRADELE</text>
+<rect x="40" y="262.6" width="820" height="383.6" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="280.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="302.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="42.7" lengthAdjust="spacing">Gradul</text>
+<text x="337.8" y="302.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="109.3" lengthAdjust="spacing">Cum se formează</text>
+<text x="593.9" y="302.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="312.2" x2="838.0" y2="312.2" stroke="#e3dccb"/>
+<text x="74.0" y="334.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="46.4" lengthAdjust="spacing">pozitiv</text>
+<text x="124.3" y="334.7" font-size="14.5" fill="#3a3226" textLength="131.2" lengthAdjust="spacing">(forma din dicționar)</text>
+<text x="337.8" y="334.7" font-size="14.5" fill="#3a3226" textLength="14.5" lengthAdjust="spacing">—</text>
+<text x="593.9" y="334.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="78.2" lengthAdjust="spacing">copil curajos</text>
+<line x1="62.0" y1="345.0" x2="838.0" y2="345.0" stroke="#e3dccb"/>
+<text x="74.0" y="367.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="161.8" lengthAdjust="spacing">comparativ de egalitate</text>
+<text x="337.8" y="367.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="193.1" lengthAdjust="spacing">la fel de, tot atât de, tot așa de,</text>
+<text x="337.8" y="388.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="85.5" lengthAdjust="spacing">deopotrivă de</text>
+<text x="593.9" y="367.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="98.2" lengthAdjust="spacing">la fel de curajos</text>
+<line x1="62.0" y1="398.9" x2="838.0" y2="398.9" stroke="#e3dccb"/>
+<text x="74.0" y="421.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="189.7" lengthAdjust="spacing">comparativ de superioritate</text>
+<text x="337.8" y="421.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="24.1" lengthAdjust="spacing">mai</text>
+<text x="593.9" y="421.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="72.6" lengthAdjust="spacing">mai curajos</text>
+<line x1="62.0" y1="431.7" x2="838.0" y2="431.7" stroke="#e3dccb"/>
+<text x="74.0" y="454.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="183.9" lengthAdjust="spacing">comparativ de inferioritate</text>
+<text x="337.8" y="454.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="60.5" lengthAdjust="spacing">mai puțin</text>
+<text x="593.9" y="454.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="109.0" lengthAdjust="spacing">mai puțin curajos</text>
+<line x1="62.0" y1="464.6" x2="838.0" y2="464.6" stroke="#e3dccb"/>
+<text x="74.0" y="487.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="226.9" lengthAdjust="spacing">superlativ relativ de superioritate</text>
+<text x="337.8" y="487.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="101.5" lengthAdjust="spacing">cel, cea, cei, cele</text>
+<text x="443.2" y="487.1" font-size="14.5" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">+</text>
+<text x="457.0" y="487.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="24.1" lengthAdjust="spacing">mai</text>
+<text x="593.9" y="487.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="93.8" lengthAdjust="spacing">cel mai curajos</text>
+<line x1="62.0" y1="497.4" x2="838.0" y2="497.4" stroke="#e3dccb"/>
+<text x="74.0" y="519.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="221.1" lengthAdjust="spacing">superlativ relativ de inferioritate</text>
+<text x="337.8" y="519.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="17.3" lengthAdjust="spacing">cel</text>
+<text x="359.0" y="519.9" font-size="14.5" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">+</text>
+<text x="372.8" y="519.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="60.5" lengthAdjust="spacing">mai puțin</text>
+<text x="593.9" y="519.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="130.2" lengthAdjust="spacing">cel mai puțin curajos</text>
+<line x1="62.0" y1="530.3" x2="838.0" y2="530.3" stroke="#e3dccb"/>
+<text x="74.0" y="552.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="234.5" lengthAdjust="spacing">superlativ absolut de superioritate</text>
+<text x="337.8" y="552.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="104.0" lengthAdjust="spacing">foarte, tare, prea</text>
+<text x="593.9" y="552.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="85.6" lengthAdjust="spacing">foarte curajos</text>
+<line x1="62.0" y1="563.1" x2="838.0" y2="563.1" stroke="#e3dccb"/>
+<text x="74.0" y="585.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="228.7" lengthAdjust="spacing">superlativ absolut de inferioritate</text>
+<text x="337.8" y="585.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="141.7" lengthAdjust="spacing">foarte puțin, tare puțin</text>
+<text x="593.9" y="585.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="121.9" lengthAdjust="spacing">foarte puțin curajos</text>
+<line x1="62.0" y1="596.0" x2="838.0" y2="596.0" stroke="#e3dccb"/>
+<line x1="325.8" y1="280.6" x2="325.8" y2="596.0" stroke="#e3dccb"/>
+<line x1="581.9" y1="280.6" x2="581.9" y2="596.0" stroke="#e3dccb"/>
+<text x="62.0" y="624.0" font-size="14" fill="#5b6b83" textLength="72.5" lengthAdjust="spacing">Superlativul</text>
+<text x="138.3" y="624.0" font-size="14" fill="#5b6b83" font-weight="700" textLength="41.6" lengthAdjust="spacing">relativ</text>
+<text x="183.7" y="624.0" font-size="14" fill="#5b6b83" textLength="133.3" lengthAdjust="spacing">compară cu un grup (</text>
+<text x="316.9" y="624.0" font-size="14" fill="#5b6b83" font-style="italic" textLength="147.7" lengthAdjust="spacing">cel mai curajos din clasă</text>
+<text x="464.6" y="624.0" font-size="14" fill="#5b6b83" textLength="82.0" lengthAdjust="spacing">); superlativul</text>
+<text x="550.5" y="624.0" font-size="14" fill="#5b6b83" font-weight="700" textLength="48.9" lengthAdjust="spacing">absolut</text>
+<text x="603.1" y="624.0" font-size="14" fill="#5b6b83" textLength="132.2" lengthAdjust="spacing">nu compară cu nimic.</text>
+<rect x="40" y="666.2" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="689.2" font-size="16" font-weight="700" fill="#ffffff">3. ADJECTIVE FĂRĂ GRADE DE COMPARAȚIE</text>
+<rect x="40" y="700.2" width="820" height="241.8" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="718.2" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="739.7" font-size="13.5" fill="#10233f" font-weight="700" textLength="34.8" lengthAdjust="spacing">De ce</text>
+<text x="423.2" y="739.7" font-size="13.5" fill="#10233f" font-weight="700" textLength="53.7" lengthAdjust="spacing">Exemple</text>
+<line x1="62.0" y1="749.7" x2="838.0" y2="749.7" stroke="#e3dccb"/>
+<text x="74.0" y="772.2" font-size="14.5" fill="#3a3226" textLength="295.5" lengthAdjust="spacing">erau deja comparative sau superlative în latină</text>
+<text x="423.2" y="772.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="347.7" lengthAdjust="spacing">superior, inferior, optim, suprem, maxim, minim, superb</text>
+<line x1="62.0" y1="782.6" x2="838.0" y2="782.6" stroke="#e3dccb"/>
+<text x="74.0" y="805.1" font-size="14.5" fill="#3a3226" textLength="200.2" lengthAdjust="spacing">însușirea nu poate fi modificată</text>
+<text x="423.2" y="805.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="335.7" lengthAdjust="spacing">complet, unic, principal, veșnic, colosal, uriaș, gigantic</text>
+<line x1="62.0" y1="815.4" x2="838.0" y2="815.4" stroke="#e3dccb"/>
+<text x="74.0" y="837.9" font-size="14.5" fill="#3a3226" textLength="189.5" lengthAdjust="spacing">sensul nu permite comparația</text>
+<text x="423.2" y="837.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="268.0" lengthAdjust="spacing">acvatic, energetic, profesional, bucureștean</text>
+<line x1="62.0" y1="848.3" x2="838.0" y2="848.3" stroke="#e3dccb"/>
+<line x1="411.2" y1="718.2" x2="411.2" y2="848.3" stroke="#e3dccb"/>
+<rect x="62.0" y="862.3" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="862.3" width="6" height="61.7" rx="3" fill="#b4432c"/><text x="84.0" y="888.8" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="907.6" font-size="14.5" fill="#3a3226" textLength="40.3" lengthAdjust="spacing">Greșit:</text>
+<text x="128.2" y="907.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="91.8" lengthAdjust="spacing">foarte excelent</text>
+<text x="220.0" y="907.6" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="227.1" y="907.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="75.5" lengthAdjust="spacing">cel mai unic</text>
+<text x="302.7" y="907.6" font-size="14.5" fill="#3a3226" textLength="184.0" lengthAdjust="spacing">. Aceste adjective nu primesc</text>
+<text x="490.6" y="907.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="24.1" lengthAdjust="spacing">mai</text>
+<text x="518.6" y="907.6" font-size="14.5" fill="#3a3226" textLength="21.8" lengthAdjust="spacing">sau</text>
+<text x="544.2" y="907.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="37.0" lengthAdjust="spacing">foarte</text>
+<text x="581.2" y="907.6" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="203.8" y="973.5" font-size="11.5" fill="#5b6b83" textLength="492.3" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 132-133, rubrica Repere. Unele exemple sunt create pentru aceste notițe.</text>
 </svg>

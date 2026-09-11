@@ -1,11 +1,103 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="340" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Textul descriptiv literar. Personificarea</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 2 · O stradă cu sentimente de Ana Blandiana</text>
-  <rect x="150" y="95" width="600" height="90" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="450" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Personificarea</text>
-  <text font-size="12" fill="#3a3226" text-anchor="middle"><tspan x="450" y="147">Dă însușiri și sentimente omenești unor obiecte sau locuri.</tspan><tspan x="450" y="164">Aici, strada „simte”, ca o ființă vie.</tspan></text>
-  <rect x="180" y="205" width="540" height="50" rx="12" fill="#f1ecfa"/>
-  <text x="450" y="235" text-anchor="middle" font-size="12.5" fill="#3a3226" font-style="italic">o stradă cu sentimente — casele „privesc”, strada „își amintește”</text>
-  <text x="450" y="300" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 2, pp. 82-83</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1217" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1217" fill="#faf7f0"/>
+<text x="196.5" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="507.8" lengthAdjust="spacing">Textul descriptiv literar. Personificarea</text>
+<text x="226.2" y="74.4" font-size="14" fill="#5b6b83" textLength="447.6" lengthAdjust="spacing">Clasa a V-a · Unitatea III, Lecția 3 · Manual, pp. 80-83 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. TEXTUL DESCRIPTIV</text>
+<rect x="40" y="128.6" width="820" height="176.7" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="125.3" lengthAdjust="spacing">Textul descriptiv</text>
+<text x="191.6" y="162.6" font-size="16" fill="#10233f" textLength="601.8" lengthAdjust="spacing">prezintă un obiect, o ființă, un cadru din natură sau un fenomen al naturii, evidențiind</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="148.2" lengthAdjust="spacing">părțile componente</text>
+<text x="214.5" y="185.8" font-size="16" fill="#10233f" textLength="10.6" lengthAdjust="spacing">și</text>
+<text x="229.4" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="162.7" lengthAdjust="spacing">trăsăturile particulare</text>
+<text x="392.1" y="185.8" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="204.6" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="231.1" font-size="14.5" fill="#10233f" font-weight="700" textLength="158.6" lengthAdjust="spacing">Textul descriptiv literar</text>
+<text x="78.0" y="249.9" font-size="14.5" fill="#3a3226" textLength="51.8" lengthAdjust="spacing">prezintă</text>
+<text x="133.7" y="249.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="205.8" lengthAdjust="spacing">impresii și percepții subiective</text>
+<text x="343.3" y="249.9" font-size="14.5" fill="#3a3226" textLength="272.9" lengthAdjust="spacing">despre ce descrie. E construit prin folosirea</text>
+<text x="620.1" y="249.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="53.8" lengthAdjust="spacing">creativă</text>
+<text x="677.9" y="249.9" font-size="14.5" fill="#3a3226" textLength="94.8" lengthAdjust="spacing">a limbajului, ca</text>
+<text x="78.0" y="271.0" font-size="14.5" fill="#3a3226" textLength="262.1" lengthAdjust="spacing">obiectul să fie prezentat cât mai sugestiv.</text>
+<rect x="40" y="325.3" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="348.3" font-size="16" font-weight="700" fill="#ffffff">2. CUM E CONSTRUITĂ O DESCRIERE</text>
+<rect x="40" y="359.3" width="820" height="199.6" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="392.3" font-size="15" fill="#3a3226" font-weight="700" textLength="111.6" lengthAdjust="spacing">Obiectul descris</text>
+<text x="177.7" y="392.3" font-size="15" fill="#3a3226" textLength="12.9" lengthAdjust="spacing">→</text>
+<text x="194.6" y="392.3" font-size="15" fill="#3a3226" font-weight="700" textLength="160.6" lengthAdjust="spacing">părțile lui componente</text>
+<text x="359.3" y="392.3" font-size="15" fill="#3a3226" textLength="12.9" lengthAdjust="spacing">→</text>
+<text x="376.2" y="392.3" font-size="15" fill="#3a3226" font-weight="700" textLength="72.2" lengthAdjust="spacing">trăsăturile</text>
+<text x="452.4" y="392.3" font-size="15" fill="#3a3226" textLength="85.0" lengthAdjust="spacing">fiecărei părți.</text>
+<rect x="62.0" y="410.8" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="432.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="156.7" lengthAdjust="spacing">Casa cu pereții portocalii</text>
+<text x="384.4" y="432.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="60.1" lengthAdjust="spacing">Trăsătura</text>
+<line x1="62.0" y1="442.4" x2="838.0" y2="442.4" stroke="#e3dccb"/>
+<text x="74.0" y="464.9" font-size="14.5" fill="#3a3226" textLength="40.6" lengthAdjust="spacing">pereții</text>
+<text x="384.4" y="464.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="58.9" lengthAdjust="spacing">portocalii</text>
+<line x1="62.0" y1="475.2" x2="838.0" y2="475.2" stroke="#e3dccb"/>
+<text x="74.0" y="497.7" font-size="14.5" fill="#3a3226" textLength="59.3" lengthAdjust="spacing">ferestrele</text>
+<text x="384.4" y="497.7" font-size="14.5" fill="#3a3226" textLength="92.2" lengthAdjust="spacing">prin ele se văd</text>
+<text x="480.5" y="497.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="159.2" lengthAdjust="spacing">flori și perdele cu horbote</text>
+<line x1="62.0" y1="508.1" x2="838.0" y2="508.1" stroke="#e3dccb"/>
+<text x="74.0" y="530.6" font-size="14.5" fill="#3a3226" textLength="51.8" lengthAdjust="spacing">din casă</text>
+<text x="384.4" y="530.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="139.2" lengthAdjust="spacing">se aud glasuri de copii</text>
+<line x1="62.0" y1="540.9" x2="838.0" y2="540.9" stroke="#e3dccb"/>
+<line x1="372.4" y1="410.8" x2="372.4" y2="540.9" stroke="#e3dccb"/>
+<rect x="40" y="578.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="601.9" font-size="16" font-weight="700" fill="#ffffff">3. FIGURA DE STIL. PERSONIFICAREA</text>
+<rect x="40" y="612.9" width="820" height="245.1" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="645.9" font-size="15" fill="#3a3226" font-weight="700" textLength="91.2" lengthAdjust="spacing">Figura de stil</text>
+<text x="157.2" y="645.9" font-size="15" fill="#3a3226" textLength="207.0" lengthAdjust="spacing">este un procedeu care sporește</text>
+<text x="368.3" y="645.9" font-size="15" fill="#3a3226" font-weight="700" textLength="98.8" lengthAdjust="spacing">expresivitatea</text>
+<text x="471.2" y="645.9" font-size="15" fill="#3a3226" textLength="108.6" lengthAdjust="spacing">unei comunicări.</text>
+<text x="62.0" y="680.4" font-size="16" fill="#10233f" font-weight="700" textLength="106.4" lengthAdjust="spacing">Personificarea</text>
+<text x="172.7" y="680.4" font-size="16" fill="#10233f" textLength="53.8" lengthAdjust="spacing">atribuie</text>
+<text x="230.8" y="680.4" font-size="16" fill="#10233f" font-weight="700" textLength="127.2" lengthAdjust="spacing">însușiri omenești</text>
+<text x="362.3" y="680.4" font-size="16" fill="#10233f" textLength="450.7" lengthAdjust="spacing">unor ființe necuvântătoare, unor obiecte sau unor fenomene ale</text>
+<text x="62.0" y="703.6" font-size="16" fill="#10233f" textLength="48.6" lengthAdjust="spacing">naturii.</text>
+<rect x="62.0" y="722.4" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="743.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="134.9" lengthAdjust="spacing">O acțiune omenească</text>
+<text x="462.0" y="743.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="136.9" lengthAdjust="spacing">O însușire omenească</text>
+<line x1="62.0" y1="754.0" x2="838.0" y2="754.0" stroke="#e3dccb"/>
+<text x="74.0" y="776.5" font-size="14.5" fill="#3a3226" textLength="27.6" lengthAdjust="spacing">casa</text>
+<text x="105.5" y="776.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="168.9" lengthAdjust="spacing">„râde toată ziua în hohote”</text>
+<text x="462.0" y="776.5" font-size="14.5" fill="#3a3226" textLength="70.2" lengthAdjust="spacing">casele sunt</text>
+<text x="536.1" y="776.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="270.4" lengthAdjust="spacing">„ambițioase, încăpățânate, curioase, vesele,</text>
+<text x="462.0" y="797.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="152.0" lengthAdjust="spacing">triste, bârfitoare, timide”</text>
+<line x1="62.0" y1="807.8" x2="838.0" y2="807.8" stroke="#e3dccb"/>
+<line x1="450.0" y1="722.4" x2="450.0" y2="807.8" stroke="#e3dccb"/>
+<text x="62.0" y="835.8" font-size="14" fill="#5b6b83" textLength="238.1" lengthAdjust="spacing">Acțiunile omenești sunt exprimate prin</text>
+<text x="303.9" y="835.8" font-size="14" fill="#5b6b83" font-weight="700" textLength="37.0" lengthAdjust="spacing">verbe</text>
+<text x="340.9" y="835.8" font-size="14" fill="#5b6b83" textLength="88.5" lengthAdjust="spacing">, însușirile prin</text>
+<text x="433.1" y="835.8" font-size="14" fill="#5b6b83" font-weight="700" textLength="58.9" lengthAdjust="spacing">adjective</text>
+<text x="492.1" y="835.8" font-size="14" fill="#5b6b83" textLength="3.1" lengthAdjust="spacing">.</text>
+<rect x="40" y="878.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="901.0" font-size="16" font-weight="700" fill="#ffffff">4. DESPRE AUTOARE ȘI CUVINTE NOI</text>
+<rect x="40" y="912.0" width="820" height="254.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="945.0" font-size="15" fill="#3a3226" font-weight="700" textLength="101.8" lengthAdjust="spacing">Ana Blandiana</text>
+<text x="167.9" y="945.0" font-size="15" fill="#3a3226" textLength="545.7" lengthAdjust="spacing">este pseudonimul Otiliei Valeria Coman: poetă, prozatoare, publicistă. Pentru copii:</text>
+<text x="717.6" y="945.0" font-size="15" fill="#10233f" font-style="italic" textLength="92.1" lengthAdjust="spacing">Întâmplări din</text>
+<text x="62.0" y="966.8" font-size="15" fill="#10233f" font-style="italic" textLength="82.5" lengthAdjust="spacing">grădina mea</text>
+<text x="144.5" y="966.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">,</text>
+<text x="151.9" y="966.8" font-size="15" fill="#10233f" font-style="italic" textLength="183.6" lengthAdjust="spacing">Întâmplări de pe strada mea</text>
+<text x="335.4" y="966.8" font-size="15" fill="#3a3226" textLength="82.0" lengthAdjust="spacing">, cu motanul</text>
+<text x="421.5" y="966.8" font-size="15" fill="#3a3226" font-weight="700" textLength="54.6" lengthAdjust="spacing">Arpagic</text>
+<text x="476.1" y="966.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="985.3" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="1006.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="56.7" lengthAdjust="spacing">Cuvântul</text>
+<text x="306.8" y="1006.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="41.0" lengthAdjust="spacing">Sensul</text>
+<line x1="62.0" y1="1016.8" x2="838.0" y2="1016.8" stroke="#e3dccb"/>
+<text x="74.0" y="1039.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="45.0" lengthAdjust="spacing">țuguiat</text>
+<text x="306.8" y="1039.3" font-size="14.5" fill="#3a3226" textLength="107.0" lengthAdjust="spacing">ascuțit, prelungit</text>
+<line x1="62.0" y1="1049.7" x2="838.0" y2="1049.7" stroke="#e3dccb"/>
+<text x="74.0" y="1072.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="37.4" lengthAdjust="spacing">dibaci</text>
+<text x="306.8" y="1072.2" font-size="14.5" fill="#3a3226" textLength="138.6" lengthAdjust="spacing">îndemânatic, priceput</text>
+<line x1="62.0" y1="1082.5" x2="838.0" y2="1082.5" stroke="#e3dccb"/>
+<text x="74.0" y="1105.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="72.8" lengthAdjust="spacing">impertinent</text>
+<text x="306.8" y="1105.0" font-size="14.5" fill="#3a3226" textLength="54.5" lengthAdjust="spacing">obraznic</text>
+<line x1="62.0" y1="1115.4" x2="838.0" y2="1115.4" stroke="#e3dccb"/>
+<text x="74.0" y="1137.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="49.3" lengthAdjust="spacing">horbotă</text>
+<text x="306.8" y="1137.9" font-size="14.5" fill="#3a3226" textLength="112.5" lengthAdjust="spacing">dantelă (regional)</text>
+<line x1="62.0" y1="1148.2" x2="838.0" y2="1148.2" stroke="#e3dccb"/>
+<line x1="294.8" y1="985.3" x2="294.8" y2="1148.2" stroke="#e3dccb"/>
+<text x="168.5" y="1197.8" font-size="11.5" fill="#5b6b83" textLength="562.9" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 80-83, rubricile Repere; exemplele sunt din „O stradă cu sentimente” de Ana Blandiana.</text>
 </svg>

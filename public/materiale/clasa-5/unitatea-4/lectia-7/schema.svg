@@ -1,33 +1,95 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="960" height="400" fill="#faf7f0"/>
-  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cum e construit un text care te învață să faci ceva</text>
-  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 7 · Textul explicativ</text>
-  <rect x="36" y="100" width="290" height="152" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-  <text x="56" y="130" font-size="14" font-weight="700" fill="#10233f">Ce îți trebuie</text>
-  <text x="56" y="156" font-size="12" fill="#3d4a5f">lista de la început:</text>
-  <text x="56" y="176" font-size="12" fill="#3d4a5f">ingrediente, materiale,</text>
-  <text x="56" y="196" font-size="12" fill="#3d4a5f">unelte</text>
-  <text x="56" y="216" font-size="12" fill="#3d4a5f"></text>
-  <text x="56" y="236" font-size="12" fill="#3d4a5f">ca să știi înainte</text>
-  <text x="56" y="256" font-size="12" fill="#3d4a5f">să te apuci</text>
-  <rect x="340" y="100" width="290" height="152" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
-  <text x="360" y="130" font-size="14" font-weight="700" fill="#10233f">Pașii, în ordine</text>
-  <text x="360" y="156" font-size="12" fill="#3d4a5f">numerotați sau marcați</text>
-  <text x="360" y="176" font-size="12" fill="#3d4a5f"></text>
-  <text x="360" y="196" font-size="12" fill="#3d4a5f">ordinea nu e opțională:</text>
-  <text x="360" y="216" font-size="12" fill="#3d4a5f">nu poți coace înainte</text>
-  <text x="360" y="236" font-size="12" fill="#3d4a5f">să amesteci</text>
-  <rect x="644" y="100" width="280" height="152" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
-  <text x="664" y="130" font-size="14" font-weight="700" fill="#10233f">Verbele care comandă</text>
-  <text x="664" y="156" font-size="12" fill="#3d4a5f">la imperativ:</text>
-  <text x="664" y="176" font-size="12" fill="#3d4a5f">taie, amestecă, adaugă</text>
-  <text x="664" y="196" font-size="12" fill="#3d4a5f"></text>
-  <text x="664" y="216" font-size="12" fill="#3d4a5f">sau la infinitiv:</text>
-  <text x="664" y="236" font-size="12" fill="#3d4a5f">a se amesteca bine</text>
-  <rect x="36" y="274" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="58" y="299" font-size="13" font-weight="700" fill="#10233f">Cum îl recunoști</text>
-  <text x="58" y="319" font-size="12" fill="#3d4a5f">răspunde la întrebarea „cum se face?”. Dacă poți urma textul ca pe o rețetă, e explicativ.</text>
-  <rect x="36" y="338" width="888" height="56" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
-  <text x="58" y="363" font-size="13" font-weight="700" fill="#10233f">Unde îl întâlnești</text>
-  <text x="58" y="383" font-size="12" fill="#3d4a5f">rețete, instrucțiuni de montaj, reguli de joc, indicații pentru un experiment.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1096" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1096" fill="#faf7f0"/>
+<text x="91.3" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="719.3" lengthAdjust="spacing">Textul explicativ (aplicativ). Cum fac o bandă desenată</text>
+<text x="218.1" y="74.4" font-size="14" fill="#5b6b83" textLength="463.8" lengthAdjust="spacing">Clasa a V-a · Unitatea IV, Lecția 7 · Manual, pp. 118-119 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. TEXTUL CARE DĂ INSTRUCȚIUNI</text>
+<rect x="40" y="128.6" width="820" height="266.6" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" textLength="51.0" lengthAdjust="spacing">Un text</text>
+<text x="117.4" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="151.5" lengthAdjust="spacing">explicativ (aplicativ)</text>
+<text x="273.2" y="162.6" font-size="16" fill="#10233f" textLength="117.1" lengthAdjust="spacing">oferă explicații și</text>
+<text x="394.6" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="86.1" lengthAdjust="spacing">instrucțiuni</text>
+<text x="485.0" y="162.6" font-size="16" fill="#10233f" textLength="148.3" lengthAdjust="spacing">pentru a realiza ceva.</text>
+<rect x="62.0" y="181.4" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="202.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="60.1" lengthAdjust="spacing">Trăsătura</text>
+<text x="345.6" y="202.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="260.8" lengthAdjust="spacing">Cum apare în fișa pentru banda desenată</text>
+<line x1="62.0" y1="212.9" x2="838.0" y2="212.9" stroke="#e3dccb"/>
+<text x="74.0" y="235.4" font-size="14.5" fill="#3a3226" textLength="99.0" lengthAdjust="spacing">titlu și subtitluri</text>
+<text x="345.6" y="235.4" font-size="14.5" fill="#3a3226" textLength="294.9" lengthAdjust="spacing">evidențiate prin mărimea literelor și prin culori</text>
+<line x1="62.0" y1="245.8" x2="838.0" y2="245.8" stroke="#e3dccb"/>
+<text x="74.0" y="268.3" font-size="14.5" fill="#3a3226" textLength="79.9" lengthAdjust="spacing">pași separați</text>
+<text x="345.6" y="268.3" font-size="14.5" fill="#3a3226" textLength="220.3" lengthAdjust="spacing">paragrafe scurte, fiecare evidențiat</text>
+<line x1="62.0" y1="278.6" x2="838.0" y2="278.6" stroke="#e3dccb"/>
+<text x="74.0" y="301.1" font-size="14.5" fill="#3a3226" textLength="50.5" lengthAdjust="spacing">verbe la</text>
+<text x="128.4" y="301.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="65.4" lengthAdjust="spacing">imperativ</text>
+<text x="345.6" y="301.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="246.8" lengthAdjust="spacing">Alege… Scrie… Stabilește… Desenează…</text>
+<line x1="62.0" y1="311.5" x2="838.0" y2="311.5" stroke="#e3dccb"/>
+<text x="74.0" y="334.0" font-size="14.5" fill="#3a3226" textLength="37.0" lengthAdjust="spacing">schițe</text>
+<text x="345.6" y="334.0" font-size="14.5" fill="#3a3226" textLength="192.0" lengthAdjust="spacing">arată prin desen ce ai de făcut</text>
+<line x1="62.0" y1="344.4" x2="838.0" y2="344.4" stroke="#e3dccb"/>
+<text x="74.0" y="366.8" font-size="14.5" fill="#3a3226" textLength="108.6" lengthAdjust="spacing">lista de materiale</text>
+<text x="345.6" y="366.8" font-size="14.5" fill="#3a3226" textLength="374.8" lengthAdjust="spacing">coli A4, creion, creioane colorate, tuș, gumă, riglă, capsator</text>
+<line x1="62.0" y1="377.2" x2="838.0" y2="377.2" stroke="#e3dccb"/>
+<line x1="333.6" y1="181.4" x2="333.6" y2="377.2" stroke="#e3dccb"/>
+<rect x="40" y="415.2" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="438.2" font-size="16" font-weight="700" fill="#ffffff">2. PAȘII PENTRU O BANDĂ DESENATĂ</text>
+<rect x="40" y="449.2" width="820" height="179.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="482.2" font-size="15" fill="#3a3226" font-weight="700">1.</text>
+<text x="81.0" y="482.2" font-size="15" fill="#3a3226" textLength="431.7" lengthAdjust="spacing">Alege subiectul și personajele (fă schițe); stabilește locul și timpul.</text>
+<text x="62.0" y="506.9" font-size="15" fill="#3a3226" font-weight="700">2.</text>
+<text x="81.0" y="506.9" font-size="15" fill="#3a3226" textLength="31.5" lengthAdjust="spacing">Scrie</text>
+<text x="116.5" y="506.9" font-size="15" fill="#3a3226" font-weight="700" textLength="62.7" lengthAdjust="spacing">scenariul</text>
+<text x="179.2" y="506.9" font-size="15" fill="#3a3226" textLength="298.8" lengthAdjust="spacing">: ordinea întâmplărilor și ce spun personajele.</text>
+<text x="62.0" y="531.7" font-size="15" fill="#3a3226" font-weight="700">3.</text>
+<text x="81.0" y="531.7" font-size="15" fill="#3a3226" textLength="143.5" lengthAdjust="spacing">Stabilește numărul de</text>
+<text x="228.5" y="531.7" font-size="15" fill="#3a3226" font-weight="700" textLength="45.5" lengthAdjust="spacing">planșe</text>
+<text x="274.0" y="531.7" font-size="15" fill="#3a3226" textLength="24.0" lengthAdjust="spacing">, de</text>
+<text x="302.0" y="531.7" font-size="15" fill="#3a3226" font-weight="700" textLength="38.0" lengthAdjust="spacing">benzi</text>
+<text x="344.0" y="531.7" font-size="15" fill="#3a3226" textLength="98.0" lengthAdjust="spacing">pe planșă și de</text>
+<text x="446.0" y="531.7" font-size="15" fill="#3a3226" font-weight="700" textLength="47.7" lengthAdjust="spacing">viniete</text>
+<text x="497.8" y="531.7" font-size="15" fill="#3a3226" textLength="65.5" lengthAdjust="spacing">pe bandă.</text>
+<text x="62.0" y="556.4" font-size="15" fill="#3a3226" font-weight="700">4.</text>
+<text x="81.0" y="556.4" font-size="15" fill="#3a3226" textLength="316.9" lengthAdjust="spacing">Desenează fiecare vinietă cu creionul și plasează</text>
+<text x="401.9" y="556.4" font-size="15" fill="#3a3226" font-weight="700" textLength="43.0" lengthAdjust="spacing">bulele</text>
+<text x="449.0" y="556.4" font-size="15" fill="#3a3226" textLength="58.6" lengthAdjust="spacing">potrivite.</text>
+<text x="62.0" y="581.2" font-size="15" fill="#3a3226" font-weight="700">5.</text>
+<text x="81.0" y="581.2" font-size="15" fill="#3a3226" textLength="502.0" lengthAdjust="spacing">Trasează desenul cu tuș, scrie textul din bule și din recitative, apoi colorează.</text>
+<text x="62.0" y="605.9" font-size="15" fill="#3a3226" font-weight="700">6.</text>
+<text x="81.0" y="605.9" font-size="15" fill="#3a3226" textLength="254.7" lengthAdjust="spacing">Fă o copertă cu titlul și capsează colile.</text>
+<rect x="40" y="648.4" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="671.4" font-size="16" font-weight="700" fill="#ffffff">3. VOCABULARUL BENZII DESENATE</text>
+<rect x="40" y="682.4" width="820" height="362.6" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="700.4" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="721.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="60.6" lengthAdjust="spacing">Termenul</text>
+<text x="268.0" y="721.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="79.9" lengthAdjust="spacing">Ce înseamnă</text>
+<line x1="62.0" y1="732.0" x2="838.0" y2="732.0" stroke="#e3dccb"/>
+<text x="74.0" y="754.5" font-size="14.5" fill="#3a3226" textLength="41.2" lengthAdjust="spacing">planșa</text>
+<text x="268.0" y="754.5" font-size="14.5" fill="#3a3226" textLength="175.0" lengthAdjust="spacing">o pagină cu benzi desenate</text>
+<line x1="62.0" y1="764.8" x2="838.0" y2="764.8" stroke="#e3dccb"/>
+<text x="74.0" y="787.3" font-size="14.5" fill="#3a3226" textLength="40.2" lengthAdjust="spacing">banda</text>
+<text x="268.0" y="787.3" font-size="14.5" fill="#3a3226" textLength="210.0" lengthAdjust="spacing">succesiunea orizontală de viniete</text>
+<line x1="62.0" y1="797.7" x2="838.0" y2="797.7" stroke="#e3dccb"/>
+<text x="74.0" y="820.2" font-size="14.5" fill="#3a3226" textLength="42.0" lengthAdjust="spacing">vinieta</text>
+<text x="268.0" y="820.2" font-size="14.5" fill="#3a3226" textLength="206.5" lengthAdjust="spacing">imaginea delimitată de un cadru</text>
+<line x1="62.0" y1="830.5" x2="838.0" y2="830.5" stroke="#e3dccb"/>
+<text x="74.0" y="853.0" font-size="14.5" fill="#3a3226" textLength="38.9" lengthAdjust="spacing">bulele</text>
+<text x="268.0" y="853.0" font-size="14.5" fill="#3a3226" textLength="503.3" lengthAdjust="spacing">replicile (rotunde sau dreptunghiulare), gândurile (norișori), strigătele (cu zimți)</text>
+<line x1="62.0" y1="863.4" x2="838.0" y2="863.4" stroke="#e3dccb"/>
+<text x="74.0" y="885.9" font-size="14.5" fill="#3a3226" textLength="62.2" lengthAdjust="spacing">recitativul</text>
+<text x="268.0" y="885.9" font-size="14.5" fill="#3a3226" textLength="357.1" lengthAdjust="spacing">panoul cu comentariile naratorului, sus sau jos în vinietă</text>
+<line x1="62.0" y1="896.2" x2="838.0" y2="896.2" stroke="#e3dccb"/>
+<text x="74.0" y="918.7" font-size="14.5" fill="#3a3226" textLength="80.2" lengthAdjust="spacing">ideogramele</text>
+<text x="268.0" y="918.7" font-size="14.5" fill="#3a3226" textLength="309.4" lengthAdjust="spacing">desene simbolice: stele, inimioare, note muzicale</text>
+<line x1="62.0" y1="929.1" x2="838.0" y2="929.1" stroke="#e3dccb"/>
+<text x="74.0" y="951.6" font-size="14.5" fill="#3a3226" textLength="93.4" lengthAdjust="spacing">onomatopeele</text>
+<text x="268.0" y="951.6" font-size="14.5" fill="#3a3226" textLength="173.4" lengthAdjust="spacing">cuvinte care imită zgomote</text>
+<line x1="62.0" y1="961.9" x2="838.0" y2="961.9" stroke="#e3dccb"/>
+<text x="74.0" y="984.4" font-size="14.5" fill="#3a3226" textLength="105.8" lengthAdjust="spacing">liniile de mișcare</text>
+<text x="268.0" y="984.4" font-size="14.5" fill="#3a3226" textLength="110.2" lengthAdjust="spacing">arată o deplasare</text>
+<line x1="62.0" y1="994.8" x2="838.0" y2="994.8" stroke="#e3dccb"/>
+<line x1="256.0" y1="700.4" x2="256.0" y2="994.8" stroke="#e3dccb"/>
+<text x="62.0" y="1022.8" font-size="14" fill="#5b6b83" textLength="146.7" lengthAdjust="spacing">Banda desenată este un</text>
+<text x="212.5" y="1022.8" font-size="14" fill="#5b6b83" font-weight="700" textLength="154.4" lengthAdjust="spacing">text multimodal simplu</text>
+<text x="366.9" y="1022.8" font-size="14" fill="#5b6b83" textLength="215.2" lengthAdjust="spacing">: povestește prin imagini și cuvinte.</text>
+<text x="195.8" y="1076.5" font-size="11.5" fill="#5b6b83" textLength="508.4" lengthAdjust="spacing">Sursa: Manual Art 5, p. 119 (fișa cu instrucțiuni și cerințele) și p. 118 (Repere despre banda desenată).</text>
 </svg>

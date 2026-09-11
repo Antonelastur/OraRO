@@ -1,28 +1,76 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="980" height="420" fill="#faf7f0"/>
-  <text x="490" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cum descriu un obiect</text>
-  <text x="490" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 15 · Descrierea unui obiect, pregătire</text>
-  <rect x="36" y="104" width="212" height="132" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-  <text x="56" y="134" font-size="14" font-weight="700" fill="#10233f">De departe</text>
-  <text x="56" y="160" font-size="12" fill="#3d4a5f">Ce e, la ce folosește,</text>
-  <text x="56" y="180" font-size="12" fill="#3d4a5f">ce formă are</text>
-  <rect x="272" y="104" width="212" height="132" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
-  <text x="292" y="134" font-size="14" font-weight="700" fill="#10233f">De aproape</text>
-  <text x="292" y="160" font-size="12" fill="#3d4a5f">Culoare, mărime,</text>
-  <text x="292" y="180" font-size="12" fill="#3d4a5f">material, detalii</text>
-  <rect x="508" y="104" width="212" height="132" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
-  <text x="528" y="134" font-size="14" font-weight="700" fill="#10233f">Cu toate simțurile</text>
-  <text x="528" y="160" font-size="12" fill="#3d4a5f">Cum se simte la atingere,</text>
-  <text x="528" y="180" font-size="12" fill="#3d4a5f">ce miros, ce sunet scoate</text>
-  <rect x="744" y="104" width="212" height="132" rx="16" fill="#fef8e9" stroke="#b8944f" stroke-width="2.5"/>
-  <text x="764" y="134" font-size="14" font-weight="700" fill="#10233f">Ce înseamnă pentru mine</text>
-  <text x="764" y="160" font-size="12" fill="#3d4a5f">De unde îl am,</text>
-  <text x="764" y="180" font-size="12" fill="#3d4a5f">ce amintire poartă</text>
-  <rect x="36" y="258" width="908" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="58" y="283" font-size="13" font-weight="700" fill="#10233f">Ordinea contează</text>
-  <text x="58" y="303" font-size="12" fill="#3d4a5f">de la general la detaliu. Dacă începi cu o zgârietură de pe mâner, cititorul nu știe încă la ce se uită.</text>
-  <rect x="36" y="326" width="908" height="56" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
-  <text x="58" y="351" font-size="13" font-weight="700" fill="#10233f">Ce face descrierea literară</text>
-  <text x="58" y="371" font-size="12" fill="#3d4a5f">adaugă personificarea și comparația. Ceasul nu doar merge, ci se grăbește. Fereastra nu doar e mare, ci privește strada.</text>
-  <text x="490" y="404" text-anchor="middle" font-size="12" font-style="italic" fill="#5b6b83">Alege un obiect pe care îl ai lângă tine. Descrierea iese mereu mai bine când chiar îl vezi.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 906" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="906" fill="#faf7f0"/>
+<text x="303.4" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="293.7" lengthAdjust="spacing">Descrierea unui obiect</text>
+<text x="214.9" y="74.4" font-size="14" fill="#5b6b83" textLength="470.3" lengthAdjust="spacing">Clasa a V-a · Unitatea III, Lecția 15 · Manual, pp. 102-103 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. TEXTUL DESCRIPTIV ARE TREI PĂRȚI</text>
+<rect x="40" y="128.6" width="820" height="145.7" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="146.6" width="248.0" height="109.7" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="174.6" font-size="16" fill="#0d9c92" font-weight="700" textLength="96.3" lengthAdjust="spacing">introducerea</text>
+<text x="78.0" y="197.9" font-size="14.5" fill="#3a3226" textLength="66.7" lengthAdjust="spacing">precizează</text>
+<text x="148.6" y="197.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="34.7" lengthAdjust="spacing">tema</text>
+<text x="187.2" y="197.9" font-size="14.5" fill="#3a3226" textLength="101.1" lengthAdjust="spacing">descrierii; poate</text>
+<text x="78.0" y="218.9" font-size="14.5" fill="#3a3226" textLength="210.1" lengthAdjust="spacing">spune de ce am ales obiectul sau</text>
+<text x="78.0" y="239.9" font-size="14.5" fill="#3a3226" textLength="127.3" lengthAdjust="spacing">cu ce scop îl descriu</text>
+<rect x="326.0" y="146.6" width="248.0" height="109.7" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="342.0" y="174.6" font-size="16" fill="#6f5ea8" font-weight="700" textLength="69.3" lengthAdjust="spacing">cuprinsul</text>
+<text x="342.0" y="197.9" font-size="14.5" fill="#3a3226" textLength="45.0" lengthAdjust="spacing">descrie</text>
+<text x="390.9" y="197.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="64.2" lengthAdjust="spacing">în detaliu</text>
+<text x="459.0" y="197.9" font-size="14.5" fill="#3a3226" textLength="97.7" lengthAdjust="spacing">diferite aspecte</text>
+<text x="342.0" y="218.9" font-size="14.5" fill="#3a3226" textLength="85.5" lengthAdjust="spacing">ale obiectului</text>
+<rect x="590.0" y="146.6" width="248.0" height="109.7" rx="12" fill="#ffffff" stroke="#9a7433" stroke-width="2"/>
+<text x="606.0" y="174.6" font-size="16" fill="#9a7433" font-weight="700" textLength="77.0" lengthAdjust="spacing">încheierea</text>
+<text x="606.0" y="197.9" font-size="14.5" fill="#3a3226" textLength="8.6" lengthAdjust="spacing">o</text>
+<text x="618.5" y="197.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="63.4" lengthAdjust="spacing">concluzie</text>
+<text x="681.8" y="197.9" font-size="14.5" fill="#3a3226" textLength="131.4" lengthAdjust="spacing">, un punct de vedere</text>
+<text x="606.0" y="218.9" font-size="14.5" fill="#3a3226" textLength="145.9" lengthAdjust="spacing">personal despre obiect</text>
+<rect x="40" y="294.3" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="317.3" font-size="16" font-weight="700" fill="#ffffff">2. ÎNAINTE SĂ SCRIU</text>
+<rect x="40" y="328.3" width="820" height="211.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="361.3" font-size="15" fill="#3a3226" font-weight="700">1.</text>
+<text x="81.0" y="361.3" font-size="15" fill="#3a3226" textLength="57.7" lengthAdjust="spacing">Stabilesc</text>
+<text x="142.7" y="361.3" font-size="15" fill="#3a3226" font-weight="700" textLength="35.9" lengthAdjust="spacing">tema</text>
+<text x="178.6" y="361.3" font-size="15" fill="#3a3226" textLength="121.8" lengthAdjust="spacing">: ce obiect descriu.</text>
+<text x="62.0" y="386.0" font-size="15" fill="#3a3226" font-weight="700">2.</text>
+<text x="81.0" y="386.0" font-size="15" fill="#3a3226" textLength="39.7" lengthAdjust="spacing">Notez</text>
+<text x="124.7" y="386.0" font-size="15" fill="#3a3226" font-weight="700" textLength="212.1" lengthAdjust="spacing">toate elementele componente</text>
+<text x="340.9" y="386.0" font-size="15" fill="#3a3226" textLength="179.5" lengthAdjust="spacing">pe care le-aș putea descrie.</text>
+<text x="62.0" y="410.8" font-size="15" fill="#3a3226" font-weight="700">3.</text>
+<text x="81.0" y="410.8" font-size="15" fill="#3a3226" textLength="80.1" lengthAdjust="spacing">Mă gândesc</text>
+<text x="165.1" y="410.8" font-size="15" fill="#3a3226" font-weight="700" textLength="80.4" lengthAdjust="spacing">pentru cine</text>
+<text x="249.6" y="410.8" font-size="15" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">și</text>
+<text x="263.5" y="410.8" font-size="15" fill="#3a3226" font-weight="700" textLength="72.3" lengthAdjust="spacing">cu ce scop</text>
+<text x="339.9" y="410.8" font-size="15" fill="#3a3226" textLength="66.9" lengthAdjust="spacing">scriu, apoi</text>
+<text x="410.8" y="410.8" font-size="15" fill="#3a3226" font-weight="700" textLength="29.7" lengthAdjust="spacing">aleg</text>
+<text x="444.6" y="410.8" font-size="15" fill="#3a3226" textLength="170.1" lengthAdjust="spacing">doar elementele potrivite.</text>
+<text x="62.0" y="435.5" font-size="15" fill="#3a3226" font-weight="700">4.</text>
+<text x="81.0" y="435.5" font-size="15" fill="#3a3226" textLength="221.7" lengthAdjust="spacing">Pot adăuga fotografii sau desene.</text>
+<rect x="62.0" y="454.0" width="182.0" height="68.0" rx="12" fill="#ffffff" stroke="#10233f" stroke-width="2"/>
+<text x="78.0" y="482.0" font-size="16" fill="#10233f" font-weight="700" textLength="143.4" lengthAdjust="spacing">din ce este compus</text>
+<rect x="260.0" y="454.0" width="182.0" height="68.0" rx="12" fill="#ffffff" stroke="#10233f" stroke-width="2"/>
+<text x="276.0" y="482.0" font-size="16" fill="#10233f" font-weight="700" textLength="75.2" lengthAdjust="spacing">cum arată</text>
+<rect x="458.0" y="454.0" width="182.0" height="68.0" rx="12" fill="#ffffff" stroke="#10233f" stroke-width="2"/>
+<text x="474.0" y="482.0" font-size="16" fill="#10233f" font-weight="700" textLength="137.0" lengthAdjust="spacing">pentru ce e folosit</text>
+<rect x="656.0" y="454.0" width="182.0" height="68.0" rx="12" fill="#ffffff" stroke="#10233f" stroke-width="2"/>
+<text x="672.0" y="482.0" font-size="16" fill="#10233f" font-weight="700" textLength="133.1" lengthAdjust="spacing">de ce e important</text>
+<text x="672.0" y="505.2" font-size="16" fill="#10233f" font-weight="700" textLength="92.8" lengthAdjust="spacing">pentru mine</text>
+<rect x="40" y="560.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="583.0" font-size="16" font-weight="700" fill="#ffffff">3. PAȘII REDACTĂRII</text>
+<rect x="40" y="594.0" width="820" height="77.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="627.0" font-size="15" fill="#3a3226" textLength="517.6" lengthAdjust="spacing">planul → aleg aspectele potrivite perspectivei mele → titlul → prima variantă →</text>
+<text x="583.7" y="627.0" font-size="15" fill="#3a3226" font-weight="700" textLength="69.2" lengthAdjust="spacing">revizuirea</text>
+<text x="656.9" y="627.0" font-size="15" fill="#3a3226" textLength="131.4" lengthAdjust="spacing">(claritate, paragrafe,</text>
+<text x="62.0" y="648.8" font-size="15" fill="#3a3226" textLength="386.6" lengthAdjust="spacing">gramatică, ortografie, punctuație) → varianta finală, lizibilă.</text>
+<rect x="40" y="691.3" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="714.3" font-size="16" font-weight="700" fill="#ffffff">4. GRILA</text>
+<rect x="40" y="725.3" width="820" height="129.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="758.3" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="758.3" font-size="15" fill="#3a3226" textLength="452.8" lengthAdjust="spacing">Reiese clar obiectul descris, aspectele și trăsăturile lui și părerea mea.</text>
+<text x="62.0" y="783.0" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="783.0" font-size="15" fill="#3a3226" textLength="651.3" lengthAdjust="spacing">Are introducere, cuprins și încheiere; elementele, tonul și limbajul se potrivesc scopului și cititorilor.</text>
+<text x="62.0" y="807.8" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="807.8" font-size="15" fill="#3a3226" textLength="243.4" lengthAdjust="spacing">Titlul se potrivește cu scopul textului.</text>
+<text x="62.0" y="832.5" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="832.5" font-size="15" fill="#3a3226" textLength="550.0" lengthAdjust="spacing">Exprimarea e clară și corectă; textul e așezat corect în pagină; nu plictisește cititorul.</text>
+<text x="255.7" y="886.5" font-size="11.5" fill="#5b6b83" textLength="388.6" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 102-103, rubrica Repere, organizatorul grafic și grila.</text>
 </svg>

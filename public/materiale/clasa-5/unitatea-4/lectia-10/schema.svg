@@ -1,32 +1,84 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 448" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="960" height="448" fill="#faf7f0"/>
-  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">A întreba, a solicita, a felicita</text>
-  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 10 · Atitudini comunicative. Acte de limbaj</text>
-  <rect x="36" y="100" width="170" height="76" rx="12" fill="#3b5fa8"/>
-  <text x="121" y="144" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">A ÎNTREBA</text>
-  <rect x="220" y="100" width="240" height="76" rx="12" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="240" y="128" font-size="11.5" fill="#5b6b83">ce fac</text>
-  <text x="240" y="152" font-size="13" fill="#10233f">Cer o informație.</text>
-  <rect x="474" y="100" width="450" height="76" rx="12" fill="#fef8e9" stroke="#b8944f" stroke-width="1.5"/>
-  <text x="494" y="128" font-size="11.5" fill="#5b6b83">cum sună</text>
-  <text x="494" y="152" font-size="12.5" fill="#10233f">Unde e sala de sport? Ai văzut filmul?</text>
-  <rect x="36" y="192" width="170" height="76" rx="12" fill="#a1417e"/>
-  <text x="121" y="236" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">A SOLICITA</text>
-  <rect x="220" y="192" width="240" height="76" rx="12" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="240" y="220" font-size="11.5" fill="#5b6b83">ce fac</text>
-  <text x="240" y="244" font-size="13" fill="#10233f">Cer ceva sau ajutor.</text>
-  <rect x="474" y="192" width="450" height="76" rx="12" fill="#fef8e9" stroke="#b8944f" stroke-width="1.5"/>
-  <text x="494" y="220" font-size="11.5" fill="#5b6b83">cum sună</text>
-  <text x="494" y="244" font-size="12.5" fill="#10233f">Poți să mă ajuți? Vă rog să îmi explicați.</text>
-  <rect x="36" y="284" width="170" height="76" rx="12" fill="#1c7f5e"/>
-  <text x="121" y="328" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">A FELICITA</text>
-  <rect x="220" y="284" width="240" height="76" rx="12" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="240" y="312" font-size="11.5" fill="#5b6b83">ce fac</text>
-  <text x="240" y="336" font-size="13" fill="#10233f">Apreciez o reușită.</text>
-  <rect x="474" y="284" width="450" height="76" rx="12" fill="#fef8e9" stroke="#b8944f" stroke-width="1.5"/>
-  <text x="494" y="312" font-size="11.5" fill="#5b6b83">cum sună</text>
-  <text x="494" y="336" font-size="12.5" fill="#10233f">Te felicit! Bravo, ai muncit pentru asta.</text>
-  <rect x="36" y="372" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="58" y="397" font-size="13" font-weight="700" fill="#10233f">Ce le face politicoase</text>
-  <text x="58" y="417" font-size="12" fill="#3d4a5f">formula de adresare și tonul. Aceeași cerere poate suna a rugăminte sau a poruncă.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 998" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="998" fill="#faf7f0"/>
+<text x="51.9" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="798.8" lengthAdjust="spacing">Atitudini comunicative. Acte de limbaj: a întreba, a solicita, a</text>
+<text x="405.6" y="85.0" font-size="28" fill="#10233f" font-weight="700" textLength="88.8" lengthAdjust="spacing">felicita</text>
+<text x="214.3" y="109.4" font-size="14" fill="#5b6b83" textLength="471.4" lengthAdjust="spacing">Clasa a V-a · Unitatea IV, Lecția 10 · Manual, pp. 124-125 · notițe pentru caiet</text>
+<rect x="40" y="129.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="152.6" font-size="16" font-weight="700" fill="#ffffff">1. CE TRANSMIT CÂND COMUNIC</text>
+<rect x="40" y="163.6" width="820" height="287.7" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="196.6" font-size="15" fill="#3a3226" textLength="117.7" lengthAdjust="spacing">Nu contează doar</text>
+<text x="183.8" y="196.6" font-size="15" fill="#3a3226" font-weight="700" textLength="15.3" lengthAdjust="spacing">ce</text>
+<text x="203.1" y="196.6" font-size="15" fill="#3a3226" textLength="64.0" lengthAdjust="spacing">spun, ci și</text>
+<text x="271.2" y="196.6" font-size="15" fill="#3a3226" font-weight="700" textLength="30.1" lengthAdjust="spacing">cum</text>
+<text x="305.4" y="196.6" font-size="15" fill="#3a3226" textLength="280.5" lengthAdjust="spacing">spun. Prin cuvinte, gesturi și voce transmit:</text>
+<rect x="62.0" y="215.1" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="236.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="56.3" lengthAdjust="spacing">Transmit</text>
+<text x="345.6" y="236.6" font-size="13.5" fill="#10233f" font-weight="700" font-style="italic" textLength="249.5" lengthAdjust="spacing">„Hai să salvăm împreună cățelul ăsta!”</text>
+<line x1="62.0" y1="246.7" x2="838.0" y2="246.7" stroke="#e3dccb"/>
+<text x="74.0" y="269.2" font-size="14.5" fill="#3a3226" textLength="78.2" lengthAdjust="spacing">o informație</text>
+<text x="345.6" y="269.2" font-size="14.5" fill="#3a3226" textLength="116.1" lengthAdjust="spacing">cățelul e în pericol</text>
+<line x1="62.0" y1="279.5" x2="838.0" y2="279.5" stroke="#e3dccb"/>
+<text x="74.0" y="302.0" font-size="14.5" fill="#3a3226" textLength="119.9" lengthAdjust="spacing">o stare, o atitudine</text>
+<text x="345.6" y="302.0" font-size="14.5" fill="#3a3226" textLength="134.1" lengthAdjust="spacing">îmi este milă de cățel</text>
+<line x1="62.0" y1="312.4" x2="838.0" y2="312.4" stroke="#e3dccb"/>
+<text x="74.0" y="334.9" font-size="14.5" fill="#3a3226" textLength="173.4" lengthAdjust="spacing">o așteptare de la ascultător</text>
+<text x="345.6" y="334.9" font-size="14.5" fill="#3a3226" textLength="136.2" lengthAdjust="spacing">îl îndemn să mă ajute</text>
+<line x1="62.0" y1="345.2" x2="838.0" y2="345.2" stroke="#e3dccb"/>
+<text x="74.0" y="367.7" font-size="14.5" fill="#3a3226" textLength="105.3" lengthAdjust="spacing">relația dintre noi</text>
+<text x="345.6" y="367.7" font-size="14.5" fill="#3a3226" textLength="144.1" lengthAdjust="spacing">o relație de colaborare</text>
+<line x1="62.0" y1="378.1" x2="838.0" y2="378.1" stroke="#e3dccb"/>
+<line x1="333.6" y1="215.1" x2="333.6" y2="378.1" stroke="#e3dccb"/>
+<text x="62.0" y="407.1" font-size="15" fill="#3a3226" textLength="661.6" lengthAdjust="spacing">Tot ce spune, dincolo de cuvinte, ceva despre vorbitor și despre relația dintre cei care comunică sunt</text>
+<text x="727.7" y="407.1" font-size="15" fill="#3a3226" font-weight="700" textLength="60.0" lengthAdjust="spacing">atitudini</text>
+<text x="62.0" y="428.8" font-size="15" fill="#3a3226" font-weight="700" textLength="94.2" lengthAdjust="spacing">comunicative</text>
+<text x="156.2" y="428.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="40" y="471.3" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="494.3" font-size="16" font-weight="700" fill="#ffffff">2. ATENȚIA ȘI EMPATIA</text>
+<rect x="40" y="505.3" width="820" height="124.7" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="523.3" width="380.0" height="88.7" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="551.3" font-size="16" fill="#0d9c92" font-weight="700" textLength="52.6" lengthAdjust="spacing">atenția</text>
+<text x="78.0" y="574.6" font-size="14.5" fill="#3a3226" textLength="326.4" lengthAdjust="spacing">ascultătorul se concentrează la ce spune vorbitorul;</text>
+<text x="78.0" y="595.6" font-size="14.5" fill="#3a3226" textLength="311.5" lengthAdjust="spacing">vorbitorul observă cum reacționează ascultătorul</text>
+<rect x="458.0" y="523.3" width="380.0" height="88.7" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="551.3" font-size="16" fill="#6f5ea8" font-weight="700" textLength="61.3" lengthAdjust="spacing">empatia</text>
+<text x="474.0" y="574.6" font-size="14.5" fill="#3a3226" textLength="156.6" lengthAdjust="spacing">capacitatea de a te pune</text>
+<text x="634.5" y="574.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="107.2" lengthAdjust="spacing">în locul celuilalt</text>
+<text x="741.7" y="574.6" font-size="14.5" fill="#3a3226" textLength="46.4" lengthAdjust="spacing">, de a fi</text>
+<text x="474.0" y="595.6" font-size="14.5" fill="#3a3226" textLength="220.2" lengthAdjust="spacing">interesat de ce gândește sau simte</text>
+<rect x="40" y="650.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="673.0" font-size="16" font-weight="700" fill="#ffffff">3. ACTE DE LIMBAJ</text>
+<rect x="40" y="684.0" width="820" height="262.7" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="717.0" font-size="15" fill="#3a3226" textLength="18.9" lengthAdjust="spacing">Un</text>
+<text x="85.0" y="717.0" font-size="15" fill="#3a3226" font-weight="700" textLength="90.7" lengthAdjust="spacing">act de limbaj</text>
+<text x="179.7" y="717.0" font-size="15" fill="#3a3226" textLength="260.2" lengthAdjust="spacing">este o comunicare inițiată cu o anumită</text>
+<text x="444.0" y="717.0" font-size="15" fill="#3a3226" font-weight="700" textLength="54.6" lengthAdjust="spacing">intenție</text>
+<text x="498.6" y="717.0" font-size="15" fill="#3a3226" textLength="195.7" lengthAdjust="spacing">: a întreba, a solicita, a felicita.</text>
+<rect x="62.0" y="735.5" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="757.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="33.2" lengthAdjust="spacing">Actul</text>
+<text x="229.2" y="757.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="99.5" lengthAdjust="spacing">Cu cei apropiați</text>
+<text x="508.6" y="757.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="255.1" lengthAdjust="spacing">Politicos, cu cei pe care nu-i cunosc bine</text>
+<line x1="62.0" y1="767.0" x2="838.0" y2="767.0" stroke="#e3dccb"/>
+<text x="74.0" y="789.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="60.9" lengthAdjust="spacing">a întreba</text>
+<text x="138.8" y="789.5" font-size="14.5" fill="#3a3226" textLength="44.1" lengthAdjust="spacing">(cer un</text>
+<text x="74.0" y="810.5" font-size="14.5" fill="#3a3226" textLength="54.1" lengthAdjust="spacing">răspuns)</text>
+<text x="229.2" y="789.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="241.9" lengthAdjust="spacing">Ce știi despre…? Ce părere ai despre…?</text>
+<text x="508.6" y="789.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="291.2" lengthAdjust="spacing">Ce mi-ați putea spune despre…? Știți cumva…?</text>
+<line x1="62.0" y1="820.9" x2="838.0" y2="820.9" stroke="#e3dccb"/>
+<text x="74.0" y="843.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="59.7" lengthAdjust="spacing">a solicita</text>
+<text x="137.7" y="843.4" font-size="14.5" fill="#3a3226" textLength="56.3" lengthAdjust="spacing">(aștept o</text>
+<text x="74.0" y="864.4" font-size="14.5" fill="#3a3226" textLength="47.0" lengthAdjust="spacing">reacție)</text>
+<text x="229.2" y="843.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="218.4" lengthAdjust="spacing">Dă-mi, te rog… Explică-mi, te rog…</text>
+<text x="508.6" y="843.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="310.0" lengthAdjust="spacing">Ați putea să-mi spuneți…? Vă rog frumos să… Am</text>
+<text x="508.6" y="864.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="101.2" lengthAdjust="spacing">rugămintea să…</text>
+<line x1="62.0" y1="874.8" x2="838.0" y2="874.8" stroke="#e3dccb"/>
+<text x="74.0" y="897.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="57.9" lengthAdjust="spacing">a felicita</text>
+<text x="135.8" y="897.3" font-size="14.5" fill="#3a3226" textLength="57.7" lengthAdjust="spacing">(laud sau</text>
+<text x="74.0" y="918.3" font-size="14.5" fill="#3a3226" textLength="31.8" lengthAdjust="spacing">urez)</text>
+<text x="229.2" y="897.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="200.1" lengthAdjust="spacing">Bravo! Felicitări! Ești eroul meu!</text>
+<text x="508.6" y="897.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="314.2" lengthAdjust="spacing">Aș vrea să vă felicit pentru… Îmi face plăcere să vă</text>
+<text x="508.6" y="918.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="37.7" lengthAdjust="spacing">urez…</text>
+<line x1="62.0" y1="928.7" x2="838.0" y2="928.7" stroke="#e3dccb"/>
+<line x1="217.2" y1="735.5" x2="217.2" y2="928.7" stroke="#e3dccb"/>
+<line x1="496.6" y1="735.5" x2="496.6" y2="928.7" stroke="#e3dccb"/>
+<text x="258.6" y="978.2" font-size="11.5" fill="#5b6b83" textLength="382.8" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 124-125, rubricile Repere și exemplul din Explorare.</text>
 </svg>

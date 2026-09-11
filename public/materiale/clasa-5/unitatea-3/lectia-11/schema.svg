@@ -1,30 +1,133 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="340" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Articolul</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea III, Lecția 9</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1157" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1157" fill="#faf7f0"/>
+<text x="393.6" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="112.9" lengthAdjust="spacing">Articolul</text>
+<text x="222.4" y="74.4" font-size="14" fill="#5b6b83" textLength="455.1" lengthAdjust="spacing">Clasa a V-a · Unitatea III, Lecția 11 · Manual, pp. 96-97 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ESTE ARTICOLUL</text>
+<rect x="40" y="128.6" width="820" height="139.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="64.5" lengthAdjust="spacing">Articolul</text>
+<text x="130.8" y="162.6" font-size="16" fill="#10233f" textLength="306.6" lengthAdjust="spacing">însoțește întotdeauna un substantiv și arată</text>
+<text x="441.7" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="94.7" lengthAdjust="spacing">în ce măsură</text>
+<text x="540.7" y="162.6" font-size="16" fill="#10233f" textLength="261.4" lengthAdjust="spacing">obiectul le este cunoscut vorbitorilor.</text>
+<text x="62.0" y="196.4" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="196.4" font-size="15" fill="#3a3226" textLength="145.1" lengthAdjust="spacing">Articolul se analizează</text>
+<text x="223.3" y="196.4" font-size="15" fill="#3a3226" font-weight="700" textLength="269.1" lengthAdjust="spacing">întotdeauna împreună cu substantivul</text>
+<text x="492.4" y="196.4" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="221.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="221.1" font-size="15" fill="#3a3226" textLength="127.2" lengthAdjust="spacing">Substantivele pot fi</text>
+<text x="205.4" y="221.1" font-size="15" fill="#3a3226" font-weight="700" textLength="66.8" lengthAdjust="spacing">articulate</text>
+<text x="276.3" y="221.1" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="280.8" y="221.1" font-size="15" fill="#10233f" font-style="italic" textLength="145.2" lengthAdjust="spacing">semaforul, un semafor</text>
+<text x="426.0" y="221.1" font-size="15" fill="#3a3226" textLength="31.1" lengthAdjust="spacing">) sau</text>
+<text x="461.1" y="221.1" font-size="15" fill="#3a3226" font-weight="700" textLength="84.0" lengthAdjust="spacing">nearticulate</text>
+<text x="549.1" y="221.1" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="553.6" y="221.1" font-size="15" fill="#10233f" font-style="italic" textLength="52.3" lengthAdjust="spacing">semafor</text>
+<text x="606.0" y="221.1" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">).</text>
+<text x="62.0" y="245.9" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="245.9" font-size="15" fill="#3a3226" textLength="202.2" lengthAdjust="spacing">În dicționar, substantivele apar</text>
+<text x="280.4" y="245.9" font-size="15" fill="#3a3226" font-weight="700" textLength="84.0" lengthAdjust="spacing">nearticulate</text>
+<text x="364.4" y="245.9" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="40" y="288.4" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="311.4" font-size="16" font-weight="700" fill="#ffffff">2. ARTICOLUL HOTĂRÂT</text>
+<rect x="40" y="322.4" width="820" height="188.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="355.4" font-size="15" fill="#3a3226" textLength="123.2" lengthAdjust="spacing">Arată că obiectul e</text>
+<text x="189.2" y="355.4" font-size="15" fill="#3a3226" font-weight="700" textLength="63.5" lengthAdjust="spacing">cunoscut</text>
+<text x="256.7" y="355.4" font-size="15" fill="#3a3226" textLength="253.6" lengthAdjust="spacing">de vorbitor și de ascultător. Se adaugă</text>
+<text x="514.4" y="355.4" font-size="15" fill="#3a3226" font-weight="700" textLength="72.9" lengthAdjust="spacing">la sfârșitul</text>
+<text x="591.3" y="355.4" font-size="15" fill="#3a3226" textLength="240.9" lengthAdjust="spacing">substantivului, într-un singur cuvânt.</text>
+<text x="62.0" y="377.1" font-size="15" fill="#3a3226" textLength="283.1" lengthAdjust="spacing">La masculin și neutru singular se leagă prin</text>
+<text x="349.1" y="377.1" font-size="15" fill="#3a3226" font-weight="700" textLength="21.1" lengthAdjust="spacing">-u-</text>
+<text x="370.2" y="377.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="377.6" y="377.1" font-size="15" fill="#10233f" font-style="italic" textLength="57.3" lengthAdjust="spacing">băiat-u-l</text>
+<text x="434.9" y="377.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="395.6" width="776.0" height="31.6" fill="#efeaf8"/>
 
-  <g>
-    <rect x="90" y="95" width="330" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="255" y="123" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">Articolul hotărât</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="255" y="150">Arată că obiectul e</tspan>
-      <tspan x="255" y="166">cunoscut, precis.</tspan>
-      <tspan x="255" y="196" font-style="italic">strada — casa</tspan>
-      <tspan x="255" y="212">se atașează la sfârșitul cuvântului</tspan>
-    </text>
-  </g>
+<text x="286.1" y="417.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="56.2" lengthAdjust="spacing">masculin</text>
+<text x="499.3" y="417.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="48.9" lengthAdjust="spacing">feminin</text>
+<text x="711.9" y="417.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="42.7" lengthAdjust="spacing">neutru</text>
+<line x1="62.0" y1="427.2" x2="838.0" y2="427.2" stroke="#e3dccb"/>
+<text x="74.0" y="449.7" font-size="14.5" fill="#3a3226" textLength="50.6" lengthAdjust="spacing">singular</text>
+<text x="273.4" y="449.7" font-size="14.5" fill="#3a3226" textLength="81.6" lengthAdjust="spacing">-l, -le, -a, -lui</text>
+<text x="508.9" y="449.7" font-size="14.5" fill="#3a3226" textLength="29.6" lengthAdjust="spacing">-a, -i</text>
+<text x="714.5" y="449.7" font-size="14.5" fill="#3a3226" textLength="37.4" lengthAdjust="spacing">-l, -lui</text>
+<line x1="62.0" y1="460.1" x2="838.0" y2="460.1" stroke="#e3dccb"/>
+<text x="74.0" y="482.5" font-size="14.5" fill="#3a3226" textLength="36.2" lengthAdjust="spacing">plural</text>
+<text x="294.6" y="482.5" font-size="14.5" fill="#3a3226" textLength="39.3" lengthAdjust="spacing">-i, -lor</text>
+<text x="500.3" y="482.5" font-size="14.5" fill="#3a3226" textLength="46.8" lengthAdjust="spacing">-le, -lor</text>
+<text x="709.8" y="482.5" font-size="14.5" fill="#3a3226" textLength="46.8" lengthAdjust="spacing">-le, -lor</text>
+<line x1="62.0" y1="492.9" x2="838.0" y2="492.9" stroke="#e3dccb"/>
+<line x1="209.4" y1="395.6" x2="209.4" y2="492.9" stroke="#e3dccb"/>
+<line x1="419.0" y1="395.6" x2="419.0" y2="492.9" stroke="#e3dccb"/>
+<line x1="628.5" y1="395.6" x2="628.5" y2="492.9" stroke="#e3dccb"/>
+<rect x="40" y="530.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="553.9" font-size="16" font-weight="700" fill="#ffffff">3. ARTICOLUL NEHOTĂRÂT</text>
+<rect x="40" y="564.9" width="820" height="278.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="597.9" font-size="15" fill="#3a3226" textLength="123.2" lengthAdjust="spacing">Arată că obiectul e</text>
+<text x="189.2" y="597.9" font-size="15" fill="#3a3226" font-weight="700" textLength="135.6" lengthAdjust="spacing">mai puțin cunoscut</text>
+<text x="324.8" y="597.9" font-size="15" fill="#3a3226" textLength="63.1" lengthAdjust="spacing">. Se așază</text>
+<text x="392.0" y="597.9" font-size="15" fill="#3a3226" font-weight="700" textLength="56.9" lengthAdjust="spacing">înaintea</text>
+<text x="452.9" y="597.9" font-size="15" fill="#3a3226" textLength="238.5" lengthAdjust="spacing">substantivului, ca un cuvânt separat.</text>
+<rect x="62.0" y="616.4" width="776.0" height="31.6" fill="#efeaf8"/>
 
-  <g>
-    <rect x="480" y="95" width="330" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="645" y="123" text-anchor="middle" font-size="14.5" font-weight="700" fill="#10233f">Articolul nehotărât</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="645" y="150">Arată un obiect</tspan>
-      <tspan x="645" y="166">oarecare, neprecizat.</tspan>
-      <tspan x="645" y="196" font-style="italic">o stradă — un prieten</tspan>
-      <tspan x="645" y="212">stă înaintea cuvântului</tspan>
-    </text>
-  </g>
+<text x="286.1" y="637.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="56.2" lengthAdjust="spacing">masculin</text>
+<text x="499.3" y="637.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="48.9" lengthAdjust="spacing">feminin</text>
+<text x="711.9" y="637.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="42.7" lengthAdjust="spacing">neutru</text>
+<line x1="62.0" y1="647.9" x2="838.0" y2="647.9" stroke="#e3dccb"/>
+<text x="74.0" y="670.4" font-size="14.5" fill="#3a3226" textLength="50.6" lengthAdjust="spacing">singular</text>
+<text x="288.2" y="670.4" font-size="14.5" fill="#3a3226" textLength="51.9" lengthAdjust="spacing">un, unui</text>
+<text x="502.1" y="670.4" font-size="14.5" fill="#3a3226" textLength="43.2" lengthAdjust="spacing">o, unei</text>
+<text x="707.3" y="670.4" font-size="14.5" fill="#3a3226" textLength="51.9" lengthAdjust="spacing">un, unui</text>
+<line x1="62.0" y1="680.8" x2="838.0" y2="680.8" stroke="#e3dccb"/>
+<text x="74.0" y="703.3" font-size="14.5" fill="#3a3226" textLength="36.2" lengthAdjust="spacing">plural</text>
+<text x="280.4" y="703.3" font-size="14.5" fill="#3a3226" textLength="67.6" lengthAdjust="spacing">niște, unor</text>
+<text x="489.9" y="703.3" font-size="14.5" fill="#3a3226" textLength="67.6" lengthAdjust="spacing">niște, unor</text>
+<text x="699.5" y="703.3" font-size="14.5" fill="#3a3226" textLength="67.6" lengthAdjust="spacing">niște, unor</text>
+<line x1="62.0" y1="713.6" x2="838.0" y2="713.6" stroke="#e3dccb"/>
+<line x1="209.4" y1="616.4" x2="209.4" y2="713.6" stroke="#e3dccb"/>
+<line x1="419.0" y1="616.4" x2="419.0" y2="713.6" stroke="#e3dccb"/>
+<line x1="628.5" y1="616.4" x2="628.5" y2="713.6" stroke="#e3dccb"/>
+<rect x="62.0" y="727.6" width="776.0" height="31.6" fill="#efeaf8"/>
 
-  <text x="450" y="290" text-anchor="middle" font-size="11.5" fill="#3a3226">Ortografia formelor articulate hotărât cere atenție: strada, nu stradaa.</text>
-  <text x="450" y="316" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 9, p. 96</text>
+<text x="320.8" y="749.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="103.4" lengthAdjust="spacing">articulat hotărât</text>
+<text x="623.4" y="749.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="118.9" lengthAdjust="spacing">articulat nehotărât</text>
+<line x1="62.0" y1="759.2" x2="838.0" y2="759.2" stroke="#e3dccb"/>
+<text x="74.0" y="781.7" font-size="14.5" fill="#3a3226" textLength="50.6" lengthAdjust="spacing">singular</text>
+<text x="354.4" y="781.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="36.0" lengthAdjust="spacing">fulgul</text>
+<text x="660.7" y="781.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="44.2" lengthAdjust="spacing">un fulg</text>
+<line x1="62.0" y1="792.0" x2="838.0" y2="792.0" stroke="#e3dccb"/>
+<text x="74.0" y="814.5" font-size="14.5" fill="#3a3226" textLength="36.2" lengthAdjust="spacing">plural</text>
+<text x="356.6" y="814.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="31.6" lengthAdjust="spacing">fulgii</text>
+<text x="652.2" y="814.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="61.2" lengthAdjust="spacing">niște fulgi</text>
+<line x1="62.0" y1="824.9" x2="838.0" y2="824.9" stroke="#e3dccb"/>
+<line x1="217.2" y1="727.6" x2="217.2" y2="824.9" stroke="#e3dccb"/>
+<line x1="527.6" y1="727.6" x2="527.6" y2="824.9" stroke="#e3dccb"/>
+<rect x="40" y="862.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="885.9" font-size="16" font-weight="700" fill="#ffffff">4. NORMĂ: CÂȚI „I” SCRIU</text>
+<rect x="40" y="896.9" width="820" height="208.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="914.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="936.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="56.7" lengthAdjust="spacing">Cuvântul</text>
+<text x="286.0" y="936.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="134.3" lengthAdjust="spacing">face parte din cuvânt</text>
+<text x="516.2" y="936.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="61.7" lengthAdjust="spacing">desinența</text>
+<text x="689.6" y="936.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="102.9" lengthAdjust="spacing">articolul hotărât</text>
+<line x1="62.0" y1="946.4" x2="838.0" y2="946.4" stroke="#e3dccb"/>
+<text x="74.0" y="968.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="33.3" lengthAdjust="spacing">copiii</text>
+<text x="336.5" y="968.9" font-size="14.5" fill="#3a3226" textLength="33.1" lengthAdjust="spacing">copi-</text>
+<text x="542.4" y="968.9" font-size="14.5" fill="#3a3226" textLength="9.3" lengthAdjust="spacing">-i</text>
+<text x="736.4" y="968.9" font-size="14.5" fill="#3a3226" textLength="9.3" lengthAdjust="spacing">-i</text>
+<line x1="62.0" y1="979.3" x2="838.0" y2="979.3" stroke="#e3dccb"/>
+<text x="74.0" y="1001.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="47.7" lengthAdjust="spacing">poeziile</text>
+<text x="332.8" y="1001.8" font-size="14.5" fill="#3a3226" textLength="40.5" lengthAdjust="spacing">poezi-</text>
+<text x="539.5" y="1001.8" font-size="14.5" fill="#3a3226" textLength="15.1" lengthAdjust="spacing">-i-</text>
+<text x="732.6" y="1001.8" font-size="14.5" fill="#3a3226" textLength="16.8" lengthAdjust="spacing">-le</text>
+<line x1="62.0" y1="1012.1" x2="838.0" y2="1012.1" stroke="#e3dccb"/>
+<line x1="256.0" y1="914.9" x2="256.0" y2="1012.1" stroke="#e3dccb"/>
+<line x1="450.0" y1="914.9" x2="450.0" y2="1012.1" stroke="#e3dccb"/>
+<line x1="644.0" y1="914.9" x2="644.0" y2="1012.1" stroke="#e3dccb"/>
+<rect x="62.0" y="1026.2" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="1026.2" width="6" height="61.7" rx="3" fill="#b4432c"/><text x="84.0" y="1052.7" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="1071.5" font-size="14.5" fill="#3a3226" textLength="103.4" lengthAdjust="spacing">De aceea scriem</text>
+<text x="191.3" y="1071.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="59.3" lengthAdjust="spacing">exercițiile</text>
+<text x="254.5" y="1071.5" font-size="14.5" fill="#3a3226" textLength="150.8" lengthAdjust="spacing">(exerciți- + -i- + -le), nu</text>
+<text x="409.2" y="1071.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="55.5" lengthAdjust="spacing">exercițile</text>
+<text x="464.8" y="1071.5" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="276.4" y="1137.3" font-size="11.5" fill="#5b6b83" textLength="347.3" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 96-97, rubricile Repere, tabelele și modelele.</text>
 </svg>

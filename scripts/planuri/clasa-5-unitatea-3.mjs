@@ -49,7 +49,7 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Identifică particularitățile textului descriptiv literar și personificările din text, comentând rolul lor.'],
-    resurse: ['Manual Art 5, pp. 82-83', 'Schema „Personificarea” (/materiale/clasa-5/unitatea-3/lectia-3/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 5, pp. 82-83', 'Schema „Textul descriptiv literar. Personificarea” (/materiale/clasa-5/unitatea-3/lectia-3/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le citesc un vers în care strada „își amintește” și îi întreb dacă o stradă poate face asta cu adevărat.' },
@@ -202,7 +202,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Descoperă părțile secundare de propoziție care determină un substantiv și recunoaște prepoziția simplă.'],
-    resurse: ['Manual Art 5, p. 98', 'Schema „Posibilități combinatorii ale substantivului (I)” (/materiale/clasa-5/unitatea-3/lectia-12/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 5, p. 98', 'Schema „Posibilități combinatorii ale substantivului. Atributul” (/materiale/clasa-5/unitatea-3/lectia-12/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Scriu „casa” pe tablă și le cer elevilor să adauge cuvinte care spun mai multe despre ea: casa bunicii, casa de la țară, casa aceea.' },
@@ -219,7 +219,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Recunoaște prepoziția compusă și identifică atributul substantival prepozițional.'],
-    resurse: ['Manual Art 5, p. 99', 'Schema „Posibilități combinatorii ale substantivului (II)” (/materiale/clasa-5/unitatea-3/lectia-13/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 5, p. 99', 'Schema „Prepoziția” (/materiale/clasa-5/unitatea-3/lectia-13/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le dau exemple ca „din cauza”, „în fața”, „de lângă” și îi întreb din câte cuvinte e făcută fiecare.' },
@@ -236,7 +236,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Identifică subiectul simplu și multiplu, exprimat prin substantiv, și verifică acordul predicatului cu subiectul.'],
-    resurse: ['Manual Art 5, pp. 100-101', 'Schema „Substantivul subiect. Acordul cu predicatul” (/materiale/clasa-5/unitatea-3/lectia-14/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 5, pp. 100-101', 'Schema „Substantivul subiect. Acordul predicatului cu subiectul” (/materiale/clasa-5/unitatea-3/lectia-14/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Scriu „Copiii aleargă” și „Copilul și câinele aleargă” și îi întreb pe elevi de ce predicatul e la fel la amândouă.' },
