@@ -1,42 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 462" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="980" height="462" fill="#faf7f0"/>
-  <text x="490" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Trei poezii, un secol de schimbare</text>
-  <text x="490" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 10 · Compararea textelor</text>
-  <rect x="216" y="94" width="236" height="38" rx="12" fill="#3b5fa8"/>
-  <text x="334" y="119" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">Eminescu, O, rămâi...</text>
-  <rect x="468" y="94" width="236" height="38" rx="12" fill="#a1417e"/>
-  <text x="586" y="119" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">Blaga, Izvorul nopții</text>
-  <rect x="720" y="94" width="236" height="38" rx="12" fill="#1c7f5e"/>
-  <text x="838" y="119" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">Stănescu, Lecția de citire</text>
-  <text x="40" y="174" font-size="12.5" font-weight="700" fill="#10233f">Tema</text>
-  <rect x="216" y="146" width="236" height="46" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="334" y="174" text-anchor="middle" font-size="12" fill="#3d4a5f">Frumusețea naturii</text>
-  <rect x="468" y="146" width="236" height="46" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="586" y="174" text-anchor="middle" font-size="12" fill="#3d4a5f">Frumusețea misterului</text>
-  <rect x="720" y="146" width="236" height="46" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="838" y="174" text-anchor="middle" font-size="12" fill="#3d4a5f">Frumusețea limbajului</text>
-  <text x="40" y="232" font-size="12.5" font-weight="700" fill="#10233f">Versificația</text>
-  <rect x="216" y="204" width="236" height="46" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="334" y="232" text-anchor="middle" font-size="12" fill="#3d4a5f">rimă, măsură fixă</text>
-  <rect x="468" y="204" width="236" height="46" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="586" y="232" text-anchor="middle" font-size="12" fill="#3d4a5f">vers liber</text>
-  <rect x="720" y="204" width="236" height="46" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="838" y="232" text-anchor="middle" font-size="12" fill="#3d4a5f">vers liber</text>
-  <text x="40" y="290" font-size="12.5" font-weight="700" fill="#10233f">Figuri dominante</text>
-  <rect x="216" y="262" width="236" height="46" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="334" y="290" text-anchor="middle" font-size="12" fill="#3d4a5f">epitet, personificare</text>
-  <rect x="468" y="262" width="236" height="46" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="586" y="290" text-anchor="middle" font-size="12" fill="#3d4a5f">metaforă, hiperbolă</text>
-  <rect x="720" y="262" width="236" height="46" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="838" y="290" text-anchor="middle" font-size="12" fill="#3d4a5f">imagini neobișnuite</text>
-  <text x="40" y="348" font-size="12.5" font-weight="700" fill="#10233f">Epoca</text>
-  <rect x="216" y="320" width="236" height="46" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="334" y="348" text-anchor="middle" font-size="12" fill="#3d4a5f">secolul al XIX-lea</text>
-  <rect x="468" y="320" width="236" height="46" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="586" y="348" text-anchor="middle" font-size="12" fill="#3d4a5f">începutul sec. XX</text>
-  <rect x="720" y="320" width="236" height="46" rx="10" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="838" y="348" text-anchor="middle" font-size="12" fill="#3d4a5f">a doua jumătate a sec. XX</text>
-  <rect x="40" y="386" width="900" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="62" y="411" font-size="13" font-weight="700" fill="#10233f">Ce rămâne la fel</text>
-  <text x="62" y="431" font-size="12" fill="#3d4a5f">tema frumuseții. Ce se schimbă: mijloacele prin care poetul o spune.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 854" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="854" fill="#faf7f0"/>
+<text x="51.4" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="799.1" lengthAdjust="spacing">Compararea textelor sub aspectul conținutului și al structurii</text>
+<text x="235.0" y="74.4" font-size="14" fill="#5b6b83" textLength="429.9" lengthAdjust="spacing">Clasa a VIII-a · Unitatea I, Lecția 10 · Manual, p. 21 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ÎNSEAMNĂ SĂ COMPAR DOUĂ TEXTE</text>
+<rect x="40" y="128.6" width="820" height="56.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" textLength="48.3" lengthAdjust="spacing">Găsesc</text>
+<text x="114.6" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="90.1" lengthAdjust="spacing">asemănările</text>
+<text x="209.0" y="162.6" font-size="16" fill="#10233f" textLength="10.6" lengthAdjust="spacing">și</text>
+<text x="223.9" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="82.4" lengthAdjust="spacing">deosebirile</text>
+<text x="310.6" y="162.6" font-size="16" fill="#10233f" textLength="165.6" lengthAdjust="spacing">dintre texte și le prezint</text>
+<text x="480.5" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="69.9" lengthAdjust="spacing">în paralel</text>
+<text x="550.5" y="162.6" font-size="16" fill="#10233f" textLength="174.4" lengthAdjust="spacing">, nu pe rând, text cu text.</text>
+<rect x="40" y="205.4" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="228.4" font-size="16" font-weight="700" fill="#ffffff">2. PAȘII</text>
+<rect x="40" y="239.4" width="820" height="336.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="272.4" font-size="15" fill="#3a3226" font-weight="700">1.</text>
+<text x="81.0" y="272.4" font-size="15" fill="#3a3226" textLength="57.7" lengthAdjust="spacing">Stabilesc</text>
+<text x="142.7" y="272.4" font-size="15" fill="#3a3226" font-weight="700" textLength="58.0" lengthAdjust="spacing">criteriile</text>
+<text x="204.8" y="272.4" font-size="15" fill="#3a3226" textLength="123.3" lengthAdjust="spacing">după care compar.</text>
+<text x="62.0" y="297.1" font-size="15" fill="#3a3226" font-weight="700">2.</text>
+<text x="81.0" y="297.1" font-size="15" fill="#3a3226" textLength="52.8" lengthAdjust="spacing">Compar</text>
+<text x="137.8" y="297.1" font-size="15" fill="#3a3226" font-weight="700" textLength="73.0" lengthAdjust="spacing">conținutul</text>
+<text x="210.8" y="297.1" font-size="15" fill="#3a3226" textLength="411.6" lengthAdjust="spacing">: idei, sentimente, tema, ipostaza vocii lirice, câmpurile lexicale.</text>
+<text x="62.0" y="321.9" font-size="15" fill="#3a3226" font-weight="700">3.</text>
+<text x="81.0" y="321.9" font-size="15" fill="#3a3226" textLength="52.8" lengthAdjust="spacing">Compar</text>
+<text x="137.8" y="321.9" font-size="15" fill="#3a3226" font-weight="700" textLength="42.8" lengthAdjust="spacing">forma</text>
+<text x="180.5" y="321.9" font-size="15" fill="#3a3226" textLength="639.7" lengthAdjust="spacing">: organizarea și așezarea versurilor în pagină, sonoritatea (ritm, rimă, măsură, aliterații), figurile de</text>
+<text x="81.0" y="343.6" font-size="15" fill="#3a3226" textLength="144.8" lengthAdjust="spacing">stil, imaginile artistice.</text>
+<rect x="62.0" y="362.1" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="383.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="113.5" lengthAdjust="spacing">Imaginile artistice</text>
+<text x="345.6" y="383.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="96.5" lengthAdjust="spacing">Ce simț implică</text>
+<line x1="62.0" y1="393.7" x2="838.0" y2="393.7" stroke="#e3dccb"/>
+<text x="74.0" y="416.2" font-size="14.5" fill="#3a3226" textLength="43.6" lengthAdjust="spacing">vizuale</text>
+<text x="345.6" y="416.2" font-size="14.5" fill="#3a3226" textLength="32.6" lengthAdjust="spacing">văzul</text>
+<line x1="62.0" y1="426.6" x2="838.0" y2="426.6" stroke="#e3dccb"/>
+<text x="74.0" y="449.0" font-size="14.5" fill="#3a3226" textLength="50.6" lengthAdjust="spacing">auditive</text>
+<text x="345.6" y="449.0" font-size="14.5" fill="#3a3226" textLength="33.9" lengthAdjust="spacing">auzul</text>
+<line x1="62.0" y1="459.4" x2="838.0" y2="459.4" stroke="#e3dccb"/>
+<text x="74.0" y="481.9" font-size="14.5" fill="#3a3226" textLength="53.5" lengthAdjust="spacing">olfactive</text>
+<text x="345.6" y="481.9" font-size="14.5" fill="#3a3226" textLength="47.4" lengthAdjust="spacing">mirosul</text>
+<line x1="62.0" y1="492.2" x2="838.0" y2="492.2" stroke="#e3dccb"/>
+<text x="74.0" y="514.8" font-size="14.5" fill="#3a3226" textLength="38.4" lengthAdjust="spacing">tactile</text>
+<text x="345.6" y="514.8" font-size="14.5" fill="#3a3226" textLength="48.1" lengthAdjust="spacing">pipăitul</text>
+<line x1="62.0" y1="525.1" x2="838.0" y2="525.1" stroke="#e3dccb"/>
+<text x="74.0" y="547.6" font-size="14.5" fill="#3a3226" textLength="46.5" lengthAdjust="spacing">motorii</text>
+<text x="345.6" y="547.6" font-size="14.5" fill="#3a3226" textLength="56.1" lengthAdjust="spacing">mișcarea</text>
+<line x1="62.0" y1="557.9" x2="838.0" y2="557.9" stroke="#e3dccb"/>
+<line x1="333.6" y1="362.1" x2="333.6" y2="557.9" stroke="#e3dccb"/>
+<rect x="40" y="595.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="618.9" font-size="16" font-weight="700" fill="#ffffff">3. UN MODEL DE COMPARAȚIE</text>
+<rect x="40" y="629.9" width="820" height="173.4" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="647.9" width="776.0" height="84.9" rx="12" fill="#f3efe4"/><text x="78.0" y="674.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="705.9" lengthAdjust="spacing">Cele trei texte au în comun apariția unui element acvatic din natură: marea în poeziile lui Lucian Blaga și Nichita</text>
+<text x="78.0" y="695.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="705.0" lengthAdjust="spacing">Stănescu și lacul în cea a lui Mihai Eminescu. Acestea sunt diferite prin dimensiune, sugerând hiperbolic lumea în</text>
+<text x="78.0" y="716.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="703.1" lengthAdjust="spacing">ansamblu, în primele două texte, și doar reflectarea imaginii ei în spațiul restrâns al lacului, în textul eminescian.</text>
+<text x="62.0" y="760.8" font-size="14" fill="#5b6b83" textLength="758.9" lengthAdjust="spacing">Observ: o asemănare, apoi o deosebire, fiecare explicată, cu trimitere la texte. Pentru trei texte folosesc o diagramă Venn cu</text>
+<text x="62.0" y="781.1" font-size="14" fill="#5b6b83" textLength="68.5" lengthAdjust="spacing">trei cercuri.</text>
+<text x="242.2" y="834.8" font-size="11.5" fill="#5b6b83" textLength="415.6" lengthAdjust="spacing">Sursa: Manual Art 8, p. 21, rubrica Repere și modelul de comparație dat în manual.</text>
 </svg>

@@ -1,27 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="960" height="380" fill="#faf7f0"/>
-  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Ce face o imagine într-un text</text>
-  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 23 · Rolul elementelor grafice</text>
-  <rect x="36" y="100" width="212" height="120" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-  <text x="56" y="130" font-size="14" font-weight="700" fill="#10233f">Informează</text>
-  <text x="56" y="156" font-size="12" fill="#3d4a5f">grafic, schemă, tabel</text>
-  <text x="56" y="176" font-size="12" fill="#3d4a5f">date greu de spus în cuvinte</text>
-  <rect x="268" y="100" width="212" height="120" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
-  <text x="288" y="130" font-size="14" font-weight="700" fill="#10233f">Emoționează</text>
-  <text x="288" y="156" font-size="12" fill="#3d4a5f">fotografie, ilustrație</text>
-  <text x="288" y="176" font-size="12" fill="#3d4a5f">atinge cititorul direct</text>
-  <rect x="500" y="100" width="212" height="120" rx="16" fill="#ffffff" stroke="#b0512f" stroke-width="2.5"/>
-  <text x="520" y="130" font-size="14" font-weight="700" fill="#10233f">Convinge</text>
-  <text x="520" y="156" font-size="12" fill="#3d4a5f">imagine de reclamă</text>
-  <text x="520" y="176" font-size="12" fill="#3d4a5f">susține un punct de vedere</text>
-  <rect x="732" y="100" width="212" height="120" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
-  <text x="752" y="130" font-size="14" font-weight="700" fill="#10233f">Amuză</text>
-  <text x="752" y="156" font-size="12" fill="#3d4a5f">caricatură, meme</text>
-  <text x="752" y="176" font-size="12" fill="#3d4a5f">apropie și destinde</text>
-  <rect x="36" y="244" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="58" y="269" font-size="13" font-weight="700" fill="#10233f">Cum citim o imagine</text>
-  <text x="58" y="289" font-size="12" fill="#3d4a5f">în doi pași rapizi: mai întâi identific ce văd, apoi interpretez ce înseamnă în legătură cu textul.</text>
-  <rect x="36" y="312" width="888" height="56" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
-  <text x="58" y="337" font-size="13" font-weight="700" fill="#10233f">Regula practică</text>
-  <text x="58" y="357" font-size="12" fill="#3d4a5f">orice imagine dintr-un text are titlu sau legendă. Fără ele, cititorul ghicește.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 788" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="788" fill="#faf7f0"/>
+<text x="122.3" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="657.2" lengthAdjust="spacing">Rolul elementelor grafice în prezentarea unui text</text>
+<text x="220.5" y="74.4" font-size="14" fill="#5b6b83" textLength="458.9" lengthAdjust="spacing">Clasa a VIII-a · Unitatea I, Lecția 23 · Manual, pp. 46-47 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. ELEMENTELE GRAFICE</text>
+<rect x="40" y="128.6" width="820" height="135.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="139.0" lengthAdjust="spacing">Elementele grafice</text>
+<text x="205.4" y="162.6" font-size="16" fill="#10233f" textLength="359.5" lengthAdjust="spacing">sunt mesaje vizuale cu un limbaj universal, care pot</text>
+<text x="569.2" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="222.4" lengthAdjust="spacing">emoționa, informa, convinge,</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="49.4" lengthAdjust="spacing">amuza</text>
+<text x="111.4" y="185.8" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<text x="62.0" y="219.6" font-size="15" fill="#3a3226" textLength="34.6" lengthAdjust="spacing">Pot fi</text>
+<text x="100.7" y="219.6" font-size="15" fill="#3a3226" font-weight="700" textLength="56.1" lengthAdjust="spacing">artistice</text>
+<text x="160.8" y="219.6" font-size="15" fill="#3a3226" textLength="22.5" lengthAdjust="spacing">sau</text>
+<text x="187.4" y="219.6" font-size="15" fill="#3a3226" font-weight="700" textLength="55.6" lengthAdjust="spacing">utilitare</text>
+<text x="243.0" y="219.6" font-size="15" fill="#3a3226" textLength="523.6" lengthAdjust="spacing">: fotografii, picturi, benzi desenate, colaje, desene, diagrame, scheme. Le înțeleg</text>
+<text x="62.0" y="241.3" font-size="15" fill="#3a3226" textLength="163.8" lengthAdjust="spacing">raportându-le la context;</text>
+<text x="229.9" y="241.3" font-size="15" fill="#3a3226" font-weight="700" textLength="56.2" lengthAdjust="spacing">legenda</text>
+<text x="290.2" y="241.3" font-size="15" fill="#3a3226" textLength="185.4" lengthAdjust="spacing">dă titlul, autorul, sursa, anul.</text>
+<rect x="40" y="283.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="306.9" font-size="16" font-weight="700" fill="#ffffff">2. CUM CITIM O IMAGINE</text>
+<rect x="40" y="317.9" width="820" height="138.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="350.9" font-size="15" fill="#3a3226" textLength="344.8" lengthAdjust="spacing">Lectura unei imagini are două procese foarte rapide:</text>
+<text x="410.9" y="350.9" font-size="15" fill="#3a3226" font-weight="700" textLength="88.2" lengthAdjust="spacing">identificarea</text>
+<text x="503.1" y="350.9" font-size="15" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">și</text>
+<text x="517.1" y="350.9" font-size="15" fill="#3a3226" font-weight="700" textLength="92.8" lengthAdjust="spacing">interpretarea</text>
+<text x="609.9" y="350.9" font-size="15" fill="#3a3226" textLength="170.8" lengthAdjust="spacing">. Privirea merge întâi spre:</text>
+<text x="62.0" y="384.4" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="384.4" font-size="15" fill="#3a3226" textLength="375.7" lengthAdjust="spacing">ființe (oameni, animale, plante), apoi obiecte și simboluri;</text>
+<text x="62.0" y="409.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="409.1" font-size="15" fill="#3a3226" textLength="295.1" lengthAdjust="spacing">prim-plan, apoi planul secund, apoi fundalul;</text>
+<text x="62.0" y="433.9" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="433.9" font-size="15" fill="#3a3226" textLength="377.5" lengthAdjust="spacing">stânga sus, apoi dreapta jos, într-o lectură în forma literei</text>
+<text x="455.8" y="433.9" font-size="15" fill="#3a3226" font-weight="700" textLength="9.2" lengthAdjust="spacing">Z</text>
+<text x="464.9" y="433.9" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="40" y="476.4" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="499.4" font-size="16" font-weight="700" fill="#ffffff">3. SLIDE-URI ȘI PLANȘE</text>
+<rect x="40" y="510.4" width="820" height="226.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="543.4" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="543.4" font-size="15" fill="#3a3226" font-weight="700" textLength="123.2" lengthAdjust="spacing">titluri și subtitluri</text>
+<text x="197.4" y="543.4" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">;</text>
+<text x="62.0" y="568.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="568.1" font-size="15" fill="#3a3226" textLength="302.2" lengthAdjust="spacing">evidențieri prin font, culoare, corp de literă de</text>
+<text x="380.5" y="568.1" font-size="15" fill="#3a3226" font-weight="700" textLength="89.7" lengthAdjust="spacing">minimum 24</text>
+<text x="474.2" y="568.1" font-size="15" fill="#3a3226" textLength="69.7" lengthAdjust="spacing">de puncte;</text>
+<text x="62.0" y="592.9" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="592.9" font-size="15" fill="#3a3226" font-weight="700" textLength="94.3" lengthAdjust="spacing">cuvinte-cheie</text>
+<text x="172.6" y="592.9" font-size="15" fill="#3a3226" textLength="423.7" lengthAdjust="spacing">și texte scurte; pornesc de la ele prezentarea orală, fără să citesc;</text>
+<text x="62.0" y="617.6" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="617.6" font-size="15" fill="#3a3226" textLength="444.9" lengthAdjust="spacing">elemente grafice potrivite, așezate unde privirea ajunge prima dată.</text>
+<rect x="62.0" y="636.1" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="662.6" font-size="14.5" fill="#10233f" font-weight="700" textLength="133.4" lengthAdjust="spacing">Statice sau cinetice:</text>
+<text x="78.0" y="681.5" font-size="14.5" fill="#3a3226" textLength="155.3" lengthAdjust="spacing">elementele grafice pot fi</text>
+<text x="237.2" y="681.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="44.4" lengthAdjust="spacing">statice</text>
+<text x="285.5" y="681.5" font-size="14.5" fill="#3a3226" textLength="91.1" lengthAdjust="spacing">(pe hârtie) sau</text>
+<text x="380.5" y="681.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="52.2" lengthAdjust="spacing">cinetice</text>
+<text x="436.6" y="681.5" font-size="14.5" fill="#3a3226" textLength="343.6" lengthAdjust="spacing">(videoclipuri, animații, înregistrări audio), în prezentări</text>
+<text x="78.0" y="702.5" font-size="14.5" fill="#3a3226" textLength="160.2" lengthAdjust="spacing">PowerPoint, Prezi, Canva.</text>
+<text x="283.6" y="768.3" font-size="11.5" fill="#5b6b83" textLength="332.8" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 46-47, rubrica Repere și grila de evaluare.</text>
 </svg>

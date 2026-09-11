@@ -236,7 +236,7 @@ export default {
     tipOra: 'Predare, limbă română',
     durata: 50,
     obiective: ['Actualizează cunoștințele despre sinonime, antonime, omonime și cuvinte polisemantice.'],
-    resurse: ['Manual Art 8, pp. 28-30', 'Schema „Categoriile semantice” (/materiale/clasa-8/unitatea-1/lectia-14/schema.svg)', 'DEX'],
+    resurse: ['Manual Art 8, pp. 28-30', 'Schema „Categorii semantice” (/materiale/clasa-8/unitatea-1/lectia-14/schema.svg)', 'DEX'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Scriu pe tablă cuvântul „broască" și îi întreb pe elevi câte lucruri diferite poate numi.' },
@@ -287,7 +287,7 @@ export default {
     tipOra: 'Predare, limbă română',
     durata: 50,
     obiective: ['Identifică tipurile de cuvinte din vocabularul limbii române, după originea lor.'],
-    resurse: ['Manual Art 8, pp. 36-37', 'Schema „Împrumuturile” (/materiale/clasa-8/unitatea-1/lectia-17/schema.svg)', 'DEX'],
+    resurse: ['Manual Art 8, pp. 36-37', 'Schema „Împrumuturile. Neologismele” (/materiale/clasa-8/unitatea-1/lectia-17/schema.svg)', 'DEX'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le cer elevilor cinci cuvinte folosite zilnic care li se par venite din engleză și le scriu pe tablă.' },
@@ -304,7 +304,7 @@ export default {
     tipOra: 'Predare, limbă română',
     durata: 50,
     obiective: ['Recunoaște registrele limbii, solemn, standard, familiar, și elementele de argou și jargon.'],
-    resurse: ['Manual Art 8, pp. 38-39', 'Schema „Registrele limbii” (/materiale/clasa-8/unitatea-1/lectia-18/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 8, pp. 38-39', 'Schema „Registrele limbii. Argoul. Jargonul” (/materiale/clasa-8/unitatea-1/lectia-18/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Îi întreb pe elevi cum îi cer o favoare unui prieten și cum i-ar cere aceeași favoare directorului școlii.' },

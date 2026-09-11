@@ -1,36 +1,78 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 390" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="980" height="390" fill="#faf7f0"/>
-  <text x="490" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Etapele scrierii și feedbackul util</text>
-  <text x="490" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 21 · Integrarea feedbackului</text>
-  <rect x="36" y="104" width="164" height="80" rx="14" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-  <text x="118" y="134" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Pregătirea</text>
-  <text x="118" y="158" text-anchor="middle" font-size="11.5" fill="#3d4a5f">plan, idei</text>
-  <path d="M202 144 L218 144" stroke="#b8944f" stroke-width="2.5"/>
-  <rect x="220" y="104" width="164" height="80" rx="14" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-  <text x="302" y="134" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Ciorna</text>
-  <text x="302" y="158" text-anchor="middle" font-size="11.5" fill="#3d4a5f">prima variantă</text>
-  <path d="M386 144 L402 144" stroke="#b8944f" stroke-width="2.5"/>
-  <rect x="404" y="104" width="164" height="80" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2.5"/>
-  <text x="486" y="134" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Revizuirea</text>
-  <text x="486" y="158" text-anchor="middle" font-size="11.5" fill="#3d4a5f">schimb CE spun</text>
-  <path d="M570 144 L586 144" stroke="#b8944f" stroke-width="2.5"/>
-  <rect x="588" y="104" width="164" height="80" rx="14" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-  <text x="670" y="134" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Editarea</text>
-  <text x="670" y="158" text-anchor="middle" font-size="11.5" fill="#3d4a5f">îndrept CUM scriu</text>
-  <path d="M754 144 L770 144" stroke="#b8944f" stroke-width="2.5"/>
-  <rect x="772" y="104" width="164" height="80" rx="14" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-  <text x="854" y="134" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Publicarea</text>
-  <text x="854" y="158" text-anchor="middle" font-size="11.5" fill="#3d4a5f">o arăt altora</text>
-  <rect x="36" y="206" width="440" height="152" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
-  <text x="56" y="236" font-size="14" font-weight="700" fill="#10233f">Feedback care ajută</text>
-  <text x="56" y="262" font-size="12" fill="#3d4a5f">e concret: spune ce anume și unde</text>
-  <text x="56" y="282" font-size="12" fill="#3d4a5f">e echilibrat: ce merge și ce nu</text>
-  <text x="56" y="302" font-size="12" fill="#3d4a5f">e despre text, nu despre persoană</text>
-  <text x="56" y="322" font-size="12" fill="#3d4a5f">propune, nu impune</text>
-  <rect x="504" y="206" width="440" height="152" rx="16" fill="#ffffff" stroke="#c1503a" stroke-width="2.5"/>
-  <text x="524" y="236" font-size="14" font-weight="700" fill="#10233f">Feedback care nu ajută</text>
-  <text x="524" y="262" font-size="12" fill="#3d4a5f">e vag: nu mi-a plăcut</text>
-  <text x="524" y="282" font-size="12" fill="#3d4a5f">e doar negativ sau doar politicos</text>
-  <text x="524" y="302" font-size="12" fill="#3d4a5f">atacă autorul, nu lucrarea</text>
-  <text x="524" y="322" font-size="12" fill="#3d4a5f">rescrie textul în locul lui</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1088" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1088" fill="#faf7f0"/>
+<text x="189.9" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="521.1" lengthAdjust="spacing">Etapele scrierii. Integrarea feedbackului</text>
+<text x="220.5" y="74.4" font-size="14" fill="#5b6b83" textLength="458.9" lengthAdjust="spacing">Clasa a VIII-a · Unitatea I, Lecția 21 · Manual, pp. 44-45 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. ETAPELE UNEI REDACTĂRI</text>
+<rect x="40" y="128.6" width="820" height="77.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" textLength="266.2" lengthAdjust="spacing">pregătirea → prima variantă pe ciornă →</text>
+<text x="332.3" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="69.2" lengthAdjust="spacing">revizuirea</text>
+<text x="405.5" y="161.6" font-size="15" fill="#3a3226" textLength="396.1" lengthAdjust="spacing">→ editarea (textul final) → publicarea (prezentarea scrisă sau</text>
+<text x="62.0" y="183.3" font-size="15" fill="#3a3226" textLength="37.5" lengthAdjust="spacing">orală)</text>
+<rect x="40" y="225.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="248.8" font-size="16" font-weight="700" fill="#ffffff">2. FEEDBACKUL</text>
+<rect x="40" y="259.9" width="820" height="264.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="293.9" font-size="16" fill="#10233f" font-weight="700" textLength="85.0" lengthAdjust="spacing">Feedbackul</text>
+<text x="151.3" y="293.9" font-size="16" fill="#10233f" textLength="648.1" lengthAdjust="spacing">în redactare este procesul prin care observațiile și sugestiile despre o lucrare sunt folosite de</text>
+<text x="62.0" y="317.1" font-size="16" fill="#10233f" textLength="203.5" lengthAdjust="spacing">autor ca s-o îmbunătățească.</text>
+<rect x="62.0" y="335.9" width="380.0" height="115.5" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="363.9" font-size="16" fill="#0d9c92" font-weight="700" textLength="144.3" lengthAdjust="spacing">când ofer feedback</text>
+<text x="78.0" y="387.2" font-size="14.5" fill="#3a3226" textLength="84.5" lengthAdjust="spacing">fac observații</text>
+<text x="166.5" y="387.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="58.7" lengthAdjust="spacing">concrete</text>
+<text x="225.2" y="387.2" font-size="14.5" fill="#3a3226" textLength="120.5" lengthAdjust="spacing">, într-un limbaj clar</text>
+<text x="78.0" y="411.1" font-size="14.5" fill="#3a3226" textLength="167.9" lengthAdjust="spacing">nu sunt excesiv de negativ</text>
+<text x="78.0" y="435.0" font-size="14.5" fill="#3a3226" textLength="24.2" lengthAdjust="spacing">dau</text>
+<text x="106.1" y="435.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="150.4" lengthAdjust="spacing">sugestii de modificare</text>
+<rect x="458.0" y="335.9" width="380.0" height="115.5" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="363.9" font-size="16" fill="#6f5ea8" font-weight="700" textLength="172.3" lengthAdjust="spacing">când primesc feedback</text>
+<text x="474.0" y="387.2" font-size="14.5" fill="#3a3226" textLength="268.4" lengthAdjust="spacing">ascult sau citesc fără să reacționez negativ</text>
+<text x="474.0" y="411.1" font-size="14.5" fill="#3a3226" textLength="124.1" lengthAdjust="spacing">întreb ce nu înțeleg</text>
+<text x="474.0" y="435.0" font-size="14.5" fill="#3a3226" textLength="185.5" lengthAdjust="spacing">aleg ce e util și modific textul</text>
+<text x="62.0" y="480.4" font-size="15" fill="#3a3226" textLength="757.0" lengthAdjust="spacing">Apoi editez (ortografie, punctuație, scris pe curat) și îmi pregătesc prezentarea: marchez pasajele importante, citesc</text>
+<text x="62.0" y="502.1" font-size="15" fill="#3a3226" textLength="196.0" lengthAdjust="spacing">cu voce tare de mai multe ori.</text>
+<rect x="40" y="544.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="567.6" font-size="16" font-weight="700" fill="#ffffff">3. COMENTAREA UNOR VERSURI: CERINȚA-TIP</text>
+<rect x="40" y="578.6" width="820" height="163.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="611.6" font-size="15" fill="#3a3226" textLength="98.5" lengthAdjust="spacing">Compunere de</text>
+<text x="164.6" y="611.6" font-size="15" fill="#3a3226" font-weight="700" textLength="175.9" lengthAdjust="spacing">minimum 100 de cuvinte</text>
+<text x="344.6" y="611.6" font-size="15" fill="#3a3226" textLength="264.9" lengthAdjust="spacing">despre semnificația unor versuri, în care:</text>
+<text x="62.0" y="645.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="645.1" font-size="15" fill="#3a3226" textLength="398.1" lengthAdjust="spacing">prezint elemente componente ale peisajului sau ale imaginii;</text>
+<text x="62.0" y="669.9" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="669.9" font-size="15" fill="#3a3226" textLength="71.8" lengthAdjust="spacing">interpretez</text>
+<text x="150.1" y="669.9" font-size="15" fill="#3a3226" font-weight="700" textLength="125.1" lengthAdjust="spacing">două figuri de stil</text>
+<text x="279.2" y="669.9" font-size="15" fill="#3a3226" textLength="248.7" lengthAdjust="spacing">diferite, relevante pentru semnificație;</text>
+<text x="62.0" y="694.6" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="694.6" font-size="15" fill="#3a3226" textLength="66.6" lengthAdjust="spacing">precizez o</text>
+<text x="144.8" y="694.6" font-size="15" fill="#3a3226" font-weight="700" textLength="49.2" lengthAdjust="spacing">emoție</text>
+<text x="198.1" y="694.6" font-size="15" fill="#3a3226" textLength="43.6" lengthAdjust="spacing">sau un</text>
+<text x="245.8" y="694.6" font-size="15" fill="#3a3226" font-weight="700" textLength="70.8" lengthAdjust="spacing">sentiment</text>
+<text x="320.6" y="694.6" font-size="15" fill="#3a3226" textLength="151.2" lengthAdjust="spacing">exprimat, cu justificare;</text>
+<text x="62.0" y="719.4" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="719.4" font-size="15" fill="#3a3226" textLength="69.9" lengthAdjust="spacing">menționez</text>
+<text x="148.2" y="719.4" font-size="15" fill="#3a3226" font-weight="700" textLength="35.9" lengthAdjust="spacing">tema</text>
+<text x="184.0" y="719.4" font-size="15" fill="#3a3226" textLength="220.0" lengthAdjust="spacing">, legată de semnificația versurilor.</text>
+<rect x="40" y="761.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="784.9" font-size="16" font-weight="700" fill="#ffffff">4. GRILA</text>
+<rect x="40" y="795.9" width="820" height="241.0" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="813.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="835.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.8" lengthAdjust="spacing">Aspectul</text>
+<text x="283.5" y="835.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="58.6" lengthAdjust="spacing">Ce verific</text>
+<line x1="62.0" y1="845.4" x2="838.0" y2="845.4" stroke="#e3dccb"/>
+<text x="74.0" y="867.9" font-size="14.5" fill="#3a3226" textLength="65.1" lengthAdjust="spacing">conținutul</text>
+<text x="283.5" y="867.9" font-size="14.5" fill="#3a3226" textLength="247.5" lengthAdjust="spacing">respect sarcina; abordez toate reperele</text>
+<line x1="62.0" y1="878.2" x2="838.0" y2="878.2" stroke="#e3dccb"/>
+<text x="74.0" y="900.8" font-size="14.5" fill="#3a3226" textLength="75.3" lengthAdjust="spacing">organizarea</text>
+<text x="283.5" y="900.8" font-size="14.5" fill="#3a3226" textLength="534.6" lengthAdjust="spacing">ideile se înlănțuie logic; paragraf pentru fiecare idee; conectori potriviți; fără repetiții</text>
+<text x="283.5" y="921.8" font-size="14.5" fill="#3a3226" textLength="112.7" lengthAdjust="spacing">(folosesc anafora)</text>
+<line x1="62.0" y1="932.1" x2="838.0" y2="932.1" stroke="#e3dccb"/>
+<text x="74.0" y="954.6" font-size="14.5" fill="#3a3226" textLength="91.3" lengthAdjust="spacing">corectitudinea</text>
+<text x="283.5" y="954.6" font-size="14.5" fill="#3a3226" textLength="521.6" lengthAdjust="spacing">termeni potriviți unui comentariu; registrul standard, persoana a III-a; ortografie și</text>
+<text x="283.5" y="975.6" font-size="14.5" fill="#3a3226" textLength="68.3" lengthAdjust="spacing">punctuație</text>
+<line x1="62.0" y1="986.0" x2="838.0" y2="986.0" stroke="#e3dccb"/>
+<text x="74.0" y="1008.5" font-size="14.5" fill="#3a3226" textLength="52.9" lengthAdjust="spacing">aspectul</text>
+<text x="283.5" y="1008.5" font-size="14.5" fill="#3a3226" textLength="213.1" lengthAdjust="spacing">alineate clare; scris îngrijit și lizibil</text>
+<line x1="62.0" y1="1018.9" x2="838.0" y2="1018.9" stroke="#e3dccb"/>
+<line x1="271.5" y1="813.9" x2="271.5" y2="1018.9" stroke="#e3dccb"/>
+<text x="229.8" y="1068.3" font-size="11.5" fill="#5b6b83" textLength="440.3" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 44-45, rubrica Repere, sarcina de redactare și grila de evaluare.</text>
 </svg>

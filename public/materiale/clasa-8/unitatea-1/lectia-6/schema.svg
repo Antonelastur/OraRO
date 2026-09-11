@@ -1,27 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 412" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="940" height="412" fill="#faf7f0"/>
-  <text x="470" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Hiperbola, exagerarea care spune adevărul</text>
-  <text x="470" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 6 · Figurile de stil</text>
-  <rect x="36" y="100" width="420" height="150" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
-  <text x="56" y="130" font-size="14" font-weight="700" fill="#10233f">Ce face</text>
-  <text x="56" y="156" font-size="12" fill="#3d4a5f">Mărește sau micșorează peste</text>
-  <text x="56" y="176" font-size="12" fill="#3d4a5f">măsură o însușire, ca să</text>
-  <text x="56" y="196" font-size="12" fill="#3d4a5f">impresioneze cititorul.</text>
-  <text x="56" y="216" font-size="12" fill="#3d4a5f"></text>
-  <text x="56" y="236" font-size="12" fill="#3d4a5f">Nu minte: exagerează ca să</text>
-  <text x="56" y="256" font-size="12" fill="#3d4a5f">scoată în evidență.</text>
-  <rect x="480" y="100" width="424" height="150" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-  <text x="500" y="130" font-size="14" font-weight="700" fill="#10233f">Unde o găsești</text>
-  <text x="500" y="156" font-size="12" fill="#3d4a5f">În vorbirea de zi cu zi:</text>
-  <text x="500" y="176" font-size="12" fill="#3d4a5f">ți-am spus de un milion de ori.</text>
-  <text x="500" y="196" font-size="12" fill="#3d4a5f"></text>
-  <text x="500" y="216" font-size="12" fill="#3d4a5f">În literatură, aproape mereu</text>
-  <text x="500" y="236" font-size="12" fill="#3d4a5f">combinată cu metafora sau</text>
-  <text x="500" y="256" font-size="12" fill="#3d4a5f">cu comparația.</text>
-  <rect x="36" y="272" width="868" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="58" y="297" font-size="13" font-weight="700" fill="#10233f">Cum o recunoști</text>
-  <text x="58" y="317" font-size="12" fill="#3d4a5f">întreabă-te dacă afirmația e posibilă la propriu. Dacă nu e, și autorul știe asta, e hiperbolă.</text>
-  <rect x="36" y="336" width="868" height="56" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
-  <text x="58" y="361" font-size="13" font-weight="700" fill="#10233f">Atenție la examen</text>
-  <text x="58" y="381" font-size="12" fill="#3d4a5f">nu confunda hiperbola cu metafora. Metafora înlocuiește, hiperbola amplifică.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 721" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="721" fill="#faf7f0"/>
+<text x="194.2" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="513.0" lengthAdjust="spacing">Figurile de stil. Enumerația și hiperbola</text>
+<text x="238.8" y="74.4" font-size="14" fill="#5b6b83" textLength="422.4" lengthAdjust="spacing">Clasa a VIII-a · Unitatea I, Lecția 6 · Manual, p. 16 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. ENUMERAȚIA</text>
+<rect x="40" y="128.6" width="820" height="113.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="85.8" lengthAdjust="spacing">Enumerația</text>
+<text x="152.1" y="162.6" font-size="16" fill="#10233f" textLength="635.0" lengthAdjust="spacing">este înșiruirea mai multor termeni de același fel (substantive, adjective, verbe), ca să atragă</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" textLength="573.0" lengthAdjust="spacing">atenția asupra aspectelor descrise, să accentueze ideea sau să detalieze imaginea.</text>
+<text x="62.0" y="219.6" font-size="15" fill="#10233f" font-style="italic" textLength="194.1" lengthAdjust="spacing">„din care tainic curge noaptea</text>
+<text x="260.1" y="219.6" font-size="15" fill="#3a3226" font-weight="700" textLength="62.5" lengthAdjust="spacing">peste văi</text>
+<text x="326.7" y="219.6" font-size="15" fill="#10233f" font-style="italic" textLength="19.9" lengthAdjust="spacing">/ și</text>
+<text x="350.7" y="219.6" font-size="15" fill="#3a3226" font-weight="700" textLength="84.3" lengthAdjust="spacing">peste munți</text>
+<text x="439.1" y="219.6" font-size="15" fill="#10233f" font-style="italic" textLength="9.9" lengthAdjust="spacing">și</text>
+<text x="453.0" y="219.6" font-size="15" fill="#3a3226" font-weight="700" textLength="82.8" lengthAdjust="spacing">peste șesuri</text>
+<text x="535.8" y="219.6" font-size="15" fill="#3a3226" textLength="5.7" lengthAdjust="spacing">”</text>
+<rect x="40" y="262.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="285.1" font-size="16" font-weight="700" fill="#ffffff">2. HIPERBOLA</text>
+<rect x="40" y="296.1" width="820" height="219.9" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="330.1" font-size="16" fill="#10233f" font-weight="700" textLength="74.6" lengthAdjust="spacing">Hiperbola</text>
+<text x="140.9" y="330.1" font-size="16" fill="#10233f" textLength="110.6" lengthAdjust="spacing">este exagerarea</text>
+<text x="255.8" y="330.1" font-size="16" fill="#10233f" font-weight="700" textLength="92.6" lengthAdjust="spacing">intenționată</text>
+<text x="352.7" y="330.1" font-size="16" fill="#10233f" textLength="426.9" lengthAdjust="spacing">a însușirilor unei ființe, ale unui obiect sau a desfășurării unei</text>
+<text x="62.0" y="353.3" font-size="16" fill="#10233f" textLength="273.8" lengthAdjust="spacing">întâmplări, ca să impresioneze cititorul.</text>
+<rect x="62.0" y="372.1" width="380.0" height="67.7" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="400.1" font-size="16" fill="#0d9c92" font-weight="700" textLength="60.3" lengthAdjust="spacing">mărește</text>
+<text x="78.0" y="423.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="138.2" lengthAdjust="spacing">un uriaș cât un munte</text>
+<rect x="458.0" y="372.1" width="380.0" height="67.7" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="400.1" font-size="16" fill="#6f5ea8" font-weight="700" textLength="83.7" lengthAdjust="spacing">micșorează</text>
+<text x="474.0" y="423.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="186.6" lengthAdjust="spacing">un pitic cât un bob de mazăre</text>
+<text x="62.0" y="468.8" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="468.8" font-size="15" fill="#3a3226" textLength="69.4" lengthAdjust="spacing">Apare și în</text>
+<text x="147.7" y="468.8" font-size="15" fill="#3a3226" font-weight="700" textLength="116.7" lengthAdjust="spacing">vorbirea curentă</text>
+<text x="264.4" y="468.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="271.7" y="468.8" font-size="15" fill="#10233f" font-style="italic" textLength="384.4" lengthAdjust="spacing">arde de nerăbdare, frumoasă foc, e un frig de crapă pietrele</text>
+<text x="656.2" y="468.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="493.5" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="493.5" font-size="15" fill="#3a3226" textLength="251.7" lengthAdjust="spacing">Hiperbola se construiește întotdeauna</text>
+<text x="329.9" y="493.5" font-size="15" fill="#3a3226" font-weight="700" textLength="208.2" lengthAdjust="spacing">împreună cu alte figuri de stil</text>
+<text x="538.1" y="493.5" font-size="15" fill="#3a3226" textLength="201.7" lengthAdjust="spacing">: epitete, comparații, metafore.</text>
+<rect x="40" y="536.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="559.0" font-size="16" font-weight="700" fill="#ffffff">3. CUM O COMENTEZ</text>
+<rect x="40" y="570.0" width="820" height="99.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="588.0" width="776.0" height="63.9" rx="12" fill="#f3efe4"/><text x="78.0" y="614.5" font-size="14.5" fill="#3a3226" textLength="489.4" lengthAdjust="spacing">Numesc hiperbola și figura cu care se combină, arăt ce se exagerează și spun</text>
+<text x="571.3" y="614.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="52.6" lengthAdjust="spacing">ce efect</text>
+<text x="627.8" y="614.5" font-size="14.5" fill="#3a3226" textLength="168.0" lengthAdjust="spacing">are: fascinația, intensitatea</text>
+<text x="78.0" y="635.5" font-size="14.5" fill="#3a3226" textLength="335.2" lengthAdjust="spacing">unei trăiri, unicitatea unei ființe, comicul unei situații.</text>
+<text x="63.4" y="701.4" font-size="11.5" fill="#5b6b83" textLength="773.2" lengthAdjust="spacing">Sursa: Manual Art 8, p. 16, rubrica Repere; exemplul de enumerație e din „Izvorul nopții” de Lucian Blaga. Unele exemple sunt create pentru aceste notițe.</text>
 </svg>

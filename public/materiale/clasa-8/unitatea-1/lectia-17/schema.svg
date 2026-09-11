@@ -1,32 +1,94 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="400" fill="#faf7f0"/>
-  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Împrumuturile</text>
-  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I · lecția 17 · împrumutul lexical = mijloc extern de îmbogățire a vocabularului</text>
-
-  <g font-size="11" fill="#3a3226">
-    <rect x="55" y="80" width="255" height="110" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="182" y="102" text-anchor="middle" font-size="12" font-weight="700" fill="#10233f">Cuvinte moștenite</text>
-    <text x="182" y="126" text-anchor="middle">din latina populară;</text>
-    <text x="182" y="144" text-anchor="middle">continuitate între formele</text>
-    <text x="182" y="162" text-anchor="middle">latine și cele actuale</text>
-    <text x="182" y="180" text-anchor="middle">an, a crede, drept, el, jos</text>
-
-    <rect x="322" y="80" width="255" height="110" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="450" y="102" text-anchor="middle" font-size="12" font-weight="700" fill="#10233f">Formate în limbă</text>
-    <text x="450" y="126" text-anchor="middle">prin derivare, compunere</text>
-    <text x="450" y="144" text-anchor="middle">sau conversiune</text>
-    <text x="450" y="168" text-anchor="middle">străvechi, despre, ars</text>
-
-    <rect x="589" y="80" width="256" height="110" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="717" y="102" text-anchor="middle" font-size="12" font-weight="700" fill="#10233f">Împrumutate</text>
-    <text x="717" y="126" text-anchor="middle">luate din alte limbi,</text>
-    <text x="717" y="144" text-anchor="middle">pe cale directă sau indirectă</text>
-    <text x="717" y="168" text-anchor="middle">funcționar, inițial, a remarca</text>
-  </g>
-
-  <rect x="55" y="206" width="790" height="106" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="75" y="228" font-size="12.5" font-weight="700" fill="#10233f">Vechi și noi. Neologismele</text>
-  <text font-size="11" fill="#3a3226"><tspan x="75" y="250">împrumuturi vechi: din slavă (prieten), turcă (iaurt), greacă (a agonisi), maghiară (oraș)</tspan><tspan x="75" y="268">împrumuturi noi: din franceză (hiperbolă), engleză (weekend), italiană (pizza), germană (rucsac), latină (fabulă)</tspan><tspan x="75" y="290">neologismele = împrumuturi recente sau formate cu un component nou; din sec. XIX, din franceză și latină</tspan></text>
-
-  <text x="450" y="378" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 36-37</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 956" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="956" fill="#faf7f0"/>
+<text x="255.5" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="389.2" lengthAdjust="spacing">Împrumuturile. Neologismele</text>
+<text x="220.5" y="74.4" font-size="14" fill="#5b6b83" textLength="458.9" lengthAdjust="spacing">Clasa a VIII-a · Unitatea I, Lecția 17 · Manual, pp. 36-37 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. DE UNDE VIN CUVINTELE</text>
+<rect x="40" y="128.6" width="820" height="310.6" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="146.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="59.5" lengthAdjust="spacing">Cuvintele</text>
+<text x="384.4" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="53.7" lengthAdjust="spacing">Exemple</text>
+<line x1="62.0" y1="178.2" x2="838.0" y2="178.2" stroke="#e3dccb"/>
+<text x="74.0" y="200.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="68.4" lengthAdjust="spacing">moștenite</text>
+<text x="146.4" y="200.7" font-size="14.5" fill="#3a3226" textLength="192.0" lengthAdjust="spacing">din latină (și din limba dacilor)</text>
+<text x="384.4" y="200.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="213.6" lengthAdjust="spacing">an, a crede, drept, el, jos, lângă, să</text>
+<line x1="62.0" y1="211.0" x2="838.0" y2="211.0" stroke="#e3dccb"/>
+<text x="74.0" y="233.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="54.8" lengthAdjust="spacing">formate</text>
+<text x="132.7" y="233.5" font-size="14.5" fill="#3a3226" textLength="194.1" lengthAdjust="spacing">în limbă (derivare, compunere,</text>
+<text x="74.0" y="254.5" font-size="14.5" fill="#3a3226" textLength="81.1" lengthAdjust="spacing">conversiune)</text>
+<text x="384.4" y="233.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="129.6" lengthAdjust="spacing">străvechi, despre, ars</text>
+<line x1="62.0" y1="264.9" x2="838.0" y2="264.9" stroke="#e3dccb"/>
+<text x="74.0" y="287.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="90.2" lengthAdjust="spacing">împrumutate</text>
+<text x="168.1" y="287.4" font-size="14.5" fill="#3a3226" textLength="82.9" lengthAdjust="spacing">din alte limbi</text>
+<text x="384.4" y="287.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="178.0" lengthAdjust="spacing">funcționar, inițial, a remarca</text>
+<line x1="62.0" y1="297.7" x2="838.0" y2="297.7" stroke="#e3dccb"/>
+<line x1="372.4" y1="146.6" x2="372.4" y2="297.7" stroke="#e3dccb"/>
+<text x="62.0" y="326.7" font-size="15" fill="#3a3226" font-weight="700" textLength="103.5" lengthAdjust="spacing">Împrumuturile</text>
+<text x="169.6" y="326.7" font-size="15" fill="#3a3226" textLength="93.2" lengthAdjust="spacing">sunt un mijloc</text>
+<text x="266.8" y="326.7" font-size="15" fill="#3a3226" font-weight="700" textLength="45.5" lengthAdjust="spacing">extern</text>
+<text x="316.3" y="326.7" font-size="15" fill="#3a3226" textLength="487.3" lengthAdjust="spacing">de îmbogățire a vocabularului. Cuvintele moștenite au trecut continuu din</text>
+<text x="62.0" y="348.5" font-size="15" fill="#3a3226" textLength="507.3" lengthAdjust="spacing">latină în română, schimbându-și forma după legi precise (din latina populară:</text>
+<text x="573.3" y="348.5" font-size="15" fill="#10233f" font-style="italic" textLength="99.6" lengthAdjust="spacing">plovia → ploaie</text>
+<text x="672.9" y="348.5" font-size="15" fill="#3a3226" textLength="148.5" lengthAdjust="spacing">); cele împrumutate au</text>
+<text x="62.0" y="370.2" font-size="15" fill="#3a3226" textLength="247.0" lengthAdjust="spacing">fost preluate într-un anumit moment.</text>
+<text x="62.0" y="395.0" font-size="15" fill="#3a3226" textLength="593.2" lengthAdjust="spacing">Împrumuturile apar prin conviețuire, vecinătate, relații culturale, economice, politice; pot fi</text>
+<text x="659.3" y="395.0" font-size="15" fill="#3a3226" font-weight="700" textLength="48.8" lengthAdjust="spacing">directe</text>
+<text x="712.1" y="395.0" font-size="15" fill="#3a3226" textLength="108.9" lengthAdjust="spacing">(contactul dintre</text>
+<text x="62.0" y="416.7" font-size="15" fill="#3a3226" textLength="87.6" lengthAdjust="spacing">vorbitori) sau</text>
+<text x="153.6" y="416.7" font-size="15" fill="#3a3226" font-weight="700" textLength="62.1" lengthAdjust="spacing">indirecte</text>
+<text x="219.8" y="416.7" font-size="15" fill="#3a3226" textLength="71.1" lengthAdjust="spacing">(prin cărți).</text>
+<rect x="40" y="459.2" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="482.2" font-size="16" font-weight="700" fill="#ffffff">2. ÎMPRUMUTURI VECHI ȘI NOI</text>
+<rect x="40" y="493.2" width="820" height="199.4" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="511.2" width="380.0" height="163.4" rx="12" fill="#ffffff" stroke="#9a7433" stroke-width="2"/>
+<text x="78.0" y="539.2" font-size="16" fill="#9a7433" font-weight="700" textLength="39.0" lengthAdjust="spacing">vechi</text>
+<text x="78.0" y="562.5" font-size="14.5" fill="#3a3226" textLength="34.5" lengthAdjust="spacing">slavă:</text>
+<text x="116.4" y="562.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="121.9" lengthAdjust="spacing">drag, a iubi, prieten</text>
+<text x="78.0" y="586.4" font-size="14.5" fill="#3a3226" textLength="35.5" lengthAdjust="spacing">turcă:</text>
+<text x="117.4" y="586.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="140.7" lengthAdjust="spacing">ciulama, iaurt, murdar</text>
+<text x="78.0" y="610.4" font-size="14.5" fill="#3a3226" textLength="45.8" lengthAdjust="spacing">greacă:</text>
+<text x="127.7" y="610.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="175.6" lengthAdjust="spacing">a agonisi, conopidă, tacticos</text>
+<text x="78.0" y="634.3" font-size="14.5" fill="#3a3226" textLength="63.2" lengthAdjust="spacing">maghiară:</text>
+<text x="145.1" y="634.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="144.0" lengthAdjust="spacing">a făgădui, oraș, viclean</text>
+<rect x="458.0" y="511.2" width="380.0" height="163.4" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="474.0" y="539.2" font-size="16" fill="#0d9c92" font-weight="700" textLength="24.0" lengthAdjust="spacing">noi</text>
+<text x="474.0" y="562.5" font-size="14.5" fill="#3a3226" textLength="56.5" lengthAdjust="spacing">franceză:</text>
+<text x="534.5" y="562.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="185.2" lengthAdjust="spacing">aliterație, hiperbolă, nostalgic</text>
+<text x="474.0" y="586.4" font-size="14.5" fill="#3a3226" textLength="52.5" lengthAdjust="spacing">engleză:</text>
+<text x="530.4" y="586.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="138.8" lengthAdjust="spacing">design, volei, weekend</text>
+<text x="474.0" y="610.4" font-size="14.5" fill="#3a3226" textLength="49.0" lengthAdjust="spacing">italiană:</text>
+<text x="526.9" y="610.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="145.1" lengthAdjust="spacing">adagio, pizza, scadență</text>
+<text x="474.0" y="634.3" font-size="14.5" fill="#3a3226" textLength="59.9" lengthAdjust="spacing">germană:</text>
+<text x="537.8" y="634.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="148.3" lengthAdjust="spacing">crenvurst, rucsac, ștecăr</text>
+<text x="474.0" y="658.2" font-size="14.5" fill="#3a3226" textLength="38.1" lengthAdjust="spacing">latină:</text>
+<text x="516.0" y="658.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="137.0" lengthAdjust="spacing">colocviu, etern, fabulă</text>
+<rect x="40" y="712.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="735.6" font-size="16" font-weight="700" fill="#ffffff">3. NEOLOGISMELE</text>
+<rect x="40" y="746.6" width="820" height="158.6" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="780.6" font-size="16" fill="#10233f" font-weight="700" textLength="103.2" lengthAdjust="spacing">Neologismele</text>
+<text x="169.5" y="780.6" font-size="16" fill="#10233f" textLength="433.1" lengthAdjust="spacing">sunt cuvinte mai recente, împrumutate sau create în limbă, cu</text>
+<text x="606.9" y="780.6" font-size="16" fill="#10233f" font-weight="700" textLength="207.2" lengthAdjust="spacing">obligatoriu un element nou</text>
+<text x="814.1" y="780.6" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<text x="62.0" y="814.4" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="814.4" font-size="15" fill="#3a3226" textLength="698.8" lengthAdjust="spacing">Au intrat din primele decenii ale secolului al XIX-lea, mai ales din franceză și latină, și au modernizat limba:</text>
+<text x="777.1" y="814.4" font-size="15" fill="#10233f" font-style="italic" textLength="59.0" lengthAdjust="spacing">epidemie</text>
+<text x="74.2" y="836.1" font-size="15" fill="#3a3226" textLength="60.5" lengthAdjust="spacing">a înlocuit</text>
+<text x="138.7" y="836.1" font-size="15" fill="#10233f" font-style="italic" textLength="49.8" lengthAdjust="spacing">molimă</text>
+<text x="188.5" y="836.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">,</text>
+<text x="195.9" y="836.1" font-size="15" fill="#10233f" font-style="italic" textLength="28.2" lengthAdjust="spacing">rege</text>
+<text x="228.1" y="836.1" font-size="15" fill="#3a3226" textLength="16.6" lengthAdjust="spacing">pe</text>
+<text x="248.8" y="836.1" font-size="15" fill="#10233f" font-style="italic" textLength="25.5" lengthAdjust="spacing">rigă</text>
+<text x="274.3" y="836.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">,</text>
+<text x="281.7" y="836.1" font-size="15" fill="#10233f" font-style="italic" textLength="40.9" lengthAdjust="spacing">casetă</text>
+<text x="326.6" y="836.1" font-size="15" fill="#3a3226" textLength="16.6" lengthAdjust="spacing">pe</text>
+<text x="347.3" y="836.1" font-size="15" fill="#10233f" font-style="italic" textLength="56.4" lengthAdjust="spacing">besactea</text>
+<text x="403.7" y="836.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="860.9" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="860.9" font-size="15" fill="#3a3226" textLength="338.8" lengthAdjust="spacing">Azi cele mai multe vin din engleză: unele adaptate (</text>
+<text x="413.0" y="860.9" font-size="15" fill="#10233f" font-style="italic" textLength="86.8" lengthAdjust="spacing">miting, fotbal</text>
+<text x="499.9" y="860.9" font-size="15" fill="#3a3226" textLength="255.7" lengthAdjust="spacing">), altele cu forma din limba de origine (</text>
+<text x="755.6" y="860.9" font-size="15" fill="#10233f" font-style="italic" textLength="43.2" lengthAdjust="spacing">hobby,</text>
+<text x="74.2" y="882.6" font-size="15" fill="#10233f" font-style="italic" textLength="77.6" lengthAdjust="spacing">smartphone</text>
+<text x="151.8" y="882.6" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">).</text>
+<text x="329.5" y="936.6" font-size="11.5" fill="#5b6b83" textLength="240.9" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 36-37, rubricile Repere.</text>
 </svg>

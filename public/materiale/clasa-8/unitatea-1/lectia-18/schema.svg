@@ -1,37 +1,118 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="400" fill="#faf7f0"/>
-  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Registrele limbii</text>
-  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I · lecția 18 · varietăți de utilizare, după situația de comunicare (relație, loc, timp)</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1135" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1135" fill="#faf7f0"/>
+<text x="225.6" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="449.7" lengthAdjust="spacing">Registrele limbii. Argoul. Jargonul</text>
+<text x="220.5" y="74.4" font-size="14" fill="#5b6b83" textLength="458.9" lengthAdjust="spacing">Clasa a VIII-a · Unitatea I, Lecția 18 · Manual, pp. 38-39 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. REGISTRELE LIMBII</text>
+<rect x="40" y="128.6" width="820" height="505.1" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="114.3" lengthAdjust="spacing">Registrele limbii</text>
+<text x="180.3" y="161.6" font-size="15" fill="#3a3226" textLength="413.2" lengthAdjust="spacing">sunt felurile în care folosim limba după situația de comunicare:</text>
+<text x="597.6" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="28.6" lengthAdjust="spacing">cine</text>
+<text x="630.3" y="161.6" font-size="15" fill="#3a3226" textLength="76.6" lengthAdjust="spacing">vorbește cu</text>
+<text x="711.0" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="28.6" lengthAdjust="spacing">cine</text>
+<text x="743.7" y="161.6" font-size="15" fill="#3a3226" textLength="84.0" lengthAdjust="spacing">(statutul lor),</text>
+<text x="62.0" y="183.3" font-size="15" fill="#3a3226" font-weight="700" textLength="35.7" lengthAdjust="spacing">unde</text>
+<text x="101.8" y="183.3" font-size="15" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">și</text>
+<text x="115.7" y="183.3" font-size="15" fill="#3a3226" font-weight="700" textLength="33.8" lengthAdjust="spacing">când</text>
+<text x="149.4" y="183.3" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="201.8" width="776.0" height="31.6" fill="#efeaf8"/>
 
-  <g font-size="11" fill="#3a3226">
-    <rect x="55" y="80" width="255" height="150" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="182" y="102" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Solemn (oficial)</text>
-    <text x="182" y="126" text-anchor="middle">situații oficiale, respect marcat</text>
-    <text x="182" y="144" text-anchor="middle">termeni căutați, enunțuri</text>
-    <text x="182" y="162" text-anchor="middle">ample, cu subordonări</text>
-    <text x="182" y="182" text-anchor="middle">pronunție foarte îngrijită</text>
-    <text x="182" y="200" text-anchor="middle">(se aude articolul „-l”)</text>
-
-    <rect x="322" y="80" width="255" height="150" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="450" y="102" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Standard (curent)</text>
-    <text x="450" y="126" text-anchor="middle">varianta literară a uzului</text>
-    <text x="450" y="144" text-anchor="middle">general, în condiții obișnuite</text>
-    <text x="450" y="164" text-anchor="middle">vocabular uzual, enunțuri</text>
-    <text x="450" y="182" text-anchor="middle">scurte, reguli respectate</text>
-    <text x="450" y="200" text-anchor="middle">pronunție îngrijită</text>
-
-    <rect x="589" y="80" width="256" height="150" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="717" y="102" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Familiar (colocvial)</text>
-    <text x="717" y="126" text-anchor="middle">între persoane apropiate</text>
-    <text x="717" y="144" text-anchor="middle">termeni puțin pretențioși</text>
-    <text x="717" y="162" text-anchor="middle">(profu'), reguli relaxate,</text>
-    <text x="717" y="180" text-anchor="middle">coordonare, interjecții</text>
-    <text x="717" y="198" text-anchor="middle">pronunție cu căderi de sunete</text>
-  </g>
-
-  <rect x="55" y="246" width="790" height="84" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="75" y="268" font-size="12.5" font-weight="700" fill="#10233f">Argoul și jargonul</text>
-  <text font-size="11" fill="#3a3226"><tspan x="75" y="290">argoul: limbaj codificat al unui grup relativ închis, ca să nu fie înțeles de ceilalți (metaforă, împrumut,</tspan><tspan x="75" y="308">derivare, trunchiere) · toate cele trei registre pot fi orale sau scrise; amestecul lor produce efecte comice</tspan></text>
-
-  <text x="450" y="378" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 38-39</text>
+<text x="198.2" y="223.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="99.8" lengthAdjust="spacing">Solemn (oficial)</text>
+<text x="415.4" y="223.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="112.5" lengthAdjust="spacing">Standard (curent)</text>
+<text x="632.7" y="223.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="119.9" lengthAdjust="spacing">Familiar (colocvial)</text>
+<line x1="62.0" y1="233.4" x2="838.0" y2="233.4" stroke="#e3dccb"/>
+<text x="74.0" y="255.9" font-size="14.5" fill="#3a3226" textLength="30.9" lengthAdjust="spacing">când</text>
+<text x="198.2" y="255.9" font-size="14.5" fill="#3a3226" textLength="173.7" lengthAdjust="spacing">ceremonii, discursuri, relații</text>
+<text x="198.2" y="276.9" font-size="14.5" fill="#3a3226" textLength="45.1" lengthAdjust="spacing">oficiale</text>
+<text x="415.4" y="255.9" font-size="14.5" fill="#3a3226" textLength="139.6" lengthAdjust="spacing">situații obișnuite, cu o</text>
+<text x="415.4" y="276.9" font-size="14.5" fill="#3a3226" textLength="107.2" lengthAdjust="spacing">anumită distanță</text>
+<text x="632.7" y="255.9" font-size="14.5" fill="#3a3226" textLength="143.3" lengthAdjust="spacing">cu persoane apropiate</text>
+<line x1="62.0" y1="287.3" x2="838.0" y2="287.3" stroke="#e3dccb"/>
+<text x="74.0" y="309.8" font-size="14.5" fill="#3a3226" textLength="74.1" lengthAdjust="spacing">vocabularul</text>
+<text x="198.2" y="309.8" font-size="14.5" fill="#3a3226" textLength="124.8" lengthAdjust="spacing">termeni pretențioși;</text>
+<text x="326.9" y="309.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="53.4" lengthAdjust="spacing">maestre,</text>
+<text x="198.2" y="330.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="138.5" lengthAdjust="spacing">domnule academician</text>
+<text x="415.4" y="309.8" font-size="14.5" fill="#3a3226" textLength="33.9" lengthAdjust="spacing">uzual</text>
+<text x="632.7" y="309.8" font-size="14.5" fill="#3a3226" textLength="132.8" lengthAdjust="spacing">mai puțin pretențios:</text>
+<text x="769.5" y="309.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="36.4" lengthAdjust="spacing">profu’</text>
+<line x1="62.0" y1="341.1" x2="838.0" y2="341.1" stroke="#e3dccb"/>
+<text x="74.0" y="363.6" font-size="14.5" fill="#3a3226" textLength="63.4" lengthAdjust="spacing">gramatica</text>
+<text x="198.2" y="363.6" font-size="14.5" fill="#3a3226" textLength="182.7" lengthAdjust="spacing">respectată strict; fraze ample</text>
+<text x="415.4" y="363.6" font-size="14.5" fill="#3a3226" textLength="169.8" lengthAdjust="spacing">respectată; enunțuri scurte</text>
+<text x="632.7" y="363.6" font-size="14.5" fill="#3a3226" textLength="158.5" lengthAdjust="spacing">nu strict; enunțuri scurte,</text>
+<text x="632.7" y="384.7" font-size="14.5" fill="#3a3226" textLength="63.5" lengthAdjust="spacing">exclamații</text>
+<line x1="62.0" y1="395.0" x2="838.0" y2="395.0" stroke="#e3dccb"/>
+<text x="74.0" y="417.5" font-size="14.5" fill="#3a3226" textLength="62.8" lengthAdjust="spacing">pronunția</text>
+<text x="198.2" y="417.5" font-size="14.5" fill="#3a3226" textLength="90.0" lengthAdjust="spacing">foarte îngrijită</text>
+<text x="415.4" y="417.5" font-size="14.5" fill="#3a3226" textLength="48.1" lengthAdjust="spacing">îngrijită</text>
+<text x="632.7" y="417.5" font-size="14.5" fill="#3a3226" textLength="72.4" lengthAdjust="spacing">cad sunete:</text>
+<text x="709.0" y="417.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="85.8" lengthAdjust="spacing">domne, s-aud</text>
+<line x1="62.0" y1="427.9" x2="838.0" y2="427.9" stroke="#e3dccb"/>
+<text x="74.0" y="450.4" font-size="14.5" fill="#3a3226" textLength="54.5" lengthAdjust="spacing">exemplu</text>
+<text x="198.2" y="450.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="184.4" lengthAdjust="spacing">Stimate domnule ministru, vă</text>
+<text x="198.2" y="471.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="132.8" lengthAdjust="spacing">rog să luați cuvântul!</text>
+<text x="415.4" y="450.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="146.4" lengthAdjust="spacing">Doamnă, vă rog liniște!</text>
+<text x="632.7" y="450.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="153.6" lengthAdjust="spacing">Sst! Domne, vreau s-aud</text>
+<text x="632.7" y="471.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="111.4" lengthAdjust="spacing">comunicatu’ ăsta!</text>
+<line x1="62.0" y1="481.8" x2="838.0" y2="481.8" stroke="#e3dccb"/>
+<line x1="186.2" y1="201.8" x2="186.2" y2="481.8" stroke="#e3dccb"/>
+<line x1="403.4" y1="201.8" x2="403.4" y2="481.8" stroke="#e3dccb"/>
+<line x1="620.7" y1="201.8" x2="620.7" y2="481.8" stroke="#e3dccb"/>
+<text x="62.0" y="510.8" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="510.8" font-size="15" fill="#3a3226" textLength="182.7" lengthAdjust="spacing">Solemnul și standardul sunt</text>
+<text x="260.9" y="510.8" font-size="15" fill="#3a3226" font-weight="700" textLength="55.0" lengthAdjust="spacing">formale</text>
+<text x="320.0" y="510.8" font-size="15" fill="#3a3226" textLength="200.4" lengthAdjust="spacing">(politețe negativă); familiarul e</text>
+<text x="524.5" y="510.8" font-size="15" fill="#3a3226" font-weight="700" textLength="60.3" lengthAdjust="spacing">informal</text>
+<text x="588.8" y="510.8" font-size="15" fill="#3a3226" textLength="118.6" lengthAdjust="spacing">(politețe pozitivă).</text>
+<text x="62.0" y="535.5" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="535.5" font-size="15" fill="#3a3226" textLength="537.1" lengthAdjust="spacing">Toate pot fi orale sau scrise; familiarul apare în scris în literatură sau între prieteni.</text>
+<rect x="62.0" y="554.0" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="554.0" width="6" height="61.7" rx="3" fill="#b4432c"/><text x="84.0" y="580.5" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="599.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="146.2" lengthAdjust="spacing">Amestecul registrelor</text>
+<text x="234.1" y="599.4" font-size="14.5" fill="#3a3226" textLength="299.9" lengthAdjust="spacing">produce efecte comice. Nu îl folosesc în lucrări.</text>
+<rect x="40" y="653.7" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="676.7" font-size="16" font-weight="700" fill="#ffffff">2. ARGOUL</text>
+<rect x="40" y="687.7" width="820" height="265.3" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="720.7" font-size="15" fill="#3a3226" font-weight="700" textLength="48.3" lengthAdjust="spacing">Argoul</text>
+<text x="114.3" y="720.7" font-size="15" fill="#3a3226" textLength="629.2" lengthAdjust="spacing">este un limbaj codificat al unui grup relativ închis, ca să nu fie înțeles de ceilalți. Se schimbă des.</text>
+<rect x="62.0" y="739.2" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="760.7" font-size="13.5" fill="#10233f" font-weight="700" textLength="170.8" lengthAdjust="spacing">Cum apar termenii argotici</text>
+<text x="345.6" y="760.7" font-size="13.5" fill="#10233f" font-weight="700" textLength="53.7" lengthAdjust="spacing">Exemple</text>
+<line x1="62.0" y1="770.7" x2="838.0" y2="770.7" stroke="#e3dccb"/>
+<text x="74.0" y="793.2" font-size="14.5" fill="#3a3226" textLength="87.1" lengthAdjust="spacing">prin metaforă</text>
+<text x="345.6" y="793.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="62.9" lengthAdjust="spacing">mansardă</text>
+<text x="412.4" y="793.2" font-size="14.5" fill="#3a3226" textLength="34.5" lengthAdjust="spacing">(cap),</text>
+<text x="450.9" y="793.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="49.9" lengthAdjust="spacing">vrăjeală</text>
+<text x="504.7" y="793.2" font-size="14.5" fill="#3a3226" textLength="67.7" lengthAdjust="spacing">(prosteală)</text>
+<line x1="62.0" y1="803.6" x2="838.0" y2="803.6" stroke="#e3dccb"/>
+<text x="74.0" y="826.1" font-size="14.5" fill="#3a3226" textLength="92.8" lengthAdjust="spacing">prin împrumut</text>
+<text x="345.6" y="826.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="74.1" lengthAdjust="spacing">mișto, baftă</text>
+<text x="423.6" y="826.1" font-size="14.5" fill="#3a3226" textLength="81.3" lengthAdjust="spacing">(din romani),</text>
+<text x="508.9" y="826.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="21.5" lengthAdjust="spacing">bos</text>
+<text x="534.2" y="826.1" font-size="14.5" fill="#3a3226" textLength="85.4" lengthAdjust="spacing">(din engleză),</text>
+<text x="623.6" y="826.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="33.5" lengthAdjust="spacing">fraier</text>
+<text x="661.0" y="826.1" font-size="14.5" fill="#3a3226" textLength="89.6" lengthAdjust="spacing">(din germană)</text>
+<line x1="62.0" y1="836.4" x2="838.0" y2="836.4" stroke="#e3dccb"/>
+<text x="74.0" y="858.9" font-size="14.5" fill="#3a3226" textLength="80.9" lengthAdjust="spacing">prin derivare</text>
+<text x="345.6" y="858.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="44.5" lengthAdjust="spacing">bengos</text>
+<text x="394.0" y="858.9" font-size="14.5" fill="#3a3226" textLength="74.2" lengthAdjust="spacing">(formidabil)</text>
+<line x1="62.0" y1="869.3" x2="838.0" y2="869.3" stroke="#e3dccb"/>
+<text x="74.0" y="891.8" font-size="14.5" fill="#3a3226" textLength="94.4" lengthAdjust="spacing">prin trunchiere</text>
+<text x="345.6" y="891.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="22.0" lengthAdjust="spacing">bac</text>
+<text x="371.6" y="891.8" font-size="14.5" fill="#3a3226" textLength="86.0" lengthAdjust="spacing">(bacalaureat),</text>
+<text x="461.5" y="891.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="37.4" lengthAdjust="spacing">nașpa</text>
+<line x1="62.0" y1="902.1" x2="838.0" y2="902.1" stroke="#e3dccb"/>
+<text x="74.0" y="924.6" font-size="14.5" fill="#3a3226" textLength="196.6" lengthAdjust="spacing">din cuvinte vechi sau regionale</text>
+<text x="345.6" y="924.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="47.7" lengthAdjust="spacing">pârnaie</text>
+<text x="397.2" y="924.6" font-size="14.5" fill="#3a3226" textLength="73.5" lengthAdjust="spacing">(închisoare)</text>
+<line x1="62.0" y1="935.0" x2="838.0" y2="935.0" stroke="#e3dccb"/>
+<line x1="333.6" y1="739.2" x2="333.6" y2="935.0" stroke="#e3dccb"/>
+<rect x="40" y="973.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="996.0" font-size="16" font-weight="700" fill="#ffffff">3. JARGONUL</text>
+<rect x="40" y="1007.0" width="820" height="77.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="1040.0" font-size="15" fill="#3a3226" font-weight="700" textLength="61.8" lengthAdjust="spacing">Jargonul</text>
+<text x="127.8" y="1040.0" font-size="15" fill="#3a3226" textLength="634.0" lengthAdjust="spacing">este un limbaj de specialitate, cu mulți termeni tehnici (medical, lingvistic, matematic, informatic:</text>
+<text x="765.9" y="1040.0" font-size="15" fill="#10233f" font-style="italic" textLength="53.1" lengthAdjust="spacing">desktop,</text>
+<text x="62.0" y="1061.8" font-size="15" fill="#10233f" font-style="italic" textLength="28.4" lengthAdjust="spacing">click</text>
+<text x="90.3" y="1061.8" font-size="15" fill="#3a3226" textLength="695.1" lengthAdjust="spacing">), sau un limbaj plin de cuvinte străine, folosit de cine vrea să pară pretențios. Se folosește între specialiști.</text>
+<text x="267.7" y="1115.8" font-size="11.5" fill="#5b6b83" textLength="364.5" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 38-39, rubricile Repere și exemplele din desene.</text>
 </svg>

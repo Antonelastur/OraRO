@@ -1,54 +1,92 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="360" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Conversiunea. Familia de cuvinte</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1146" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1146" fill="#faf7f0"/>
+<text x="234.5" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="431.7" lengthAdjust="spacing">Conversiunea. Familia de cuvinte</text>
+<text x="220.5" y="74.4" font-size="14" fill="#5b6b83" textLength="458.9" lengthAdjust="spacing">Clasa a VIII-a · Unitatea I, Lecția 16 · Manual, pp. 34-35 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CONVERSIUNEA</text>
+<rect x="40" y="128.6" width="820" height="482.4" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="101.4" lengthAdjust="spacing">Conversiunea</text>
+<text x="167.8" y="162.6" font-size="16" fill="#10233f" textLength="654.9" lengthAdjust="spacing">(schimbarea valorii gramaticale) formează cuvinte noi prin trecerea de la o parte de vorbire la</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" textLength="29.1" lengthAdjust="spacing">alta,</text>
+<text x="95.4" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="166.6" lengthAdjust="spacing">fără să schimbe forma</text>
+<text x="266.3" y="185.8" font-size="16" fill="#10233f" textLength="76.3" lengthAdjust="spacing">cuvântului.</text>
+<text x="62.0" y="219.6" font-size="15" fill="#3a3226" textLength="765.3" lengthAdjust="spacing">Cuvântul nou se poartă ca partea de vorbire la care a trecut: se articulează (substantivul), se acordă (adjectivul) sau e</text>
+<text x="62.0" y="241.3" font-size="15" fill="#3a3226" textLength="432.0" lengthAdjust="spacing">invariabil (adverbul, prepoziția), cu funcțiile sintactice ale acesteia.</text>
+<rect x="62.0" y="259.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="281.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="52.5" lengthAdjust="spacing">Se obțin</text>
+<text x="229.2" y="281.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="22.0" lengthAdjust="spacing">Din</text>
+<text x="555.1" y="281.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="291.4" x2="838.0" y2="291.4" stroke="#e3dccb"/>
+<text x="74.0" y="313.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="78.3" lengthAdjust="spacing">substantive</text>
+<text x="229.2" y="313.9" font-size="14.5" fill="#3a3226" textLength="295.4" lengthAdjust="spacing">adjective, participii, supine, gerunzii, pronume,</text>
+<text x="229.2" y="334.9" font-size="14.5" fill="#3a3226" textLength="117.6" lengthAdjust="spacing">adverbe, interjecții</text>
+<text x="555.1" y="313.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="219.8" lengthAdjust="spacing">Binele învinge. Frumosul ne atrage.</text>
+<line x1="62.0" y1="345.3" x2="838.0" y2="345.3" stroke="#e3dccb"/>
+<text x="74.0" y="367.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="61.0" lengthAdjust="spacing">adjective</text>
+<text x="229.2" y="367.8" font-size="14.5" fill="#3a3226" textLength="172.1" lengthAdjust="spacing">participii, gerunzii, adverbe</text>
+<text x="555.1" y="367.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="195.5" lengthAdjust="spacing">o ușă închisă, o apă curgătoare</text>
+<line x1="62.0" y1="378.1" x2="838.0" y2="378.1" stroke="#e3dccb"/>
+<text x="74.0" y="400.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="55.1" lengthAdjust="spacing">adverbe</text>
+<text x="229.2" y="400.6" font-size="14.5" fill="#3a3226" textLength="280.3" lengthAdjust="spacing">adjective, participii, substantive (anotimpuri,</text>
+<text x="229.2" y="421.6" font-size="14.5" fill="#3a3226" textLength="112.7" lengthAdjust="spacing">zile, părți ale zilei)</text>
+<text x="555.1" y="400.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="244.0" lengthAdjust="spacing">Vorbește frumos. Vara plecăm la mare.</text>
+<line x1="62.0" y1="432.0" x2="838.0" y2="432.0" stroke="#e3dccb"/>
+<text x="74.0" y="454.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="65.2" lengthAdjust="spacing">prepoziții</text>
+<text x="229.2" y="454.5" font-size="14.5" fill="#3a3226" textLength="193.4" lengthAdjust="spacing">adverbe, substantive, participii</text>
+<text x="555.1" y="454.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="238.8" lengthAdjust="spacing">grație talentului, mulțumită sprijinului</text>
+<line x1="62.0" y1="464.9" x2="838.0" y2="464.9" stroke="#e3dccb"/>
+<line x1="217.2" y1="259.9" x2="217.2" y2="464.9" stroke="#e3dccb"/>
+<line x1="543.1" y1="259.9" x2="543.1" y2="464.9" stroke="#e3dccb"/>
+<text x="62.0" y="492.9" font-size="14" fill="#5b6b83" textLength="105.6" lengthAdjust="spacing">Substantivele din</text>
+<text x="171.3" y="492.9" font-size="14" fill="#5b6b83" font-weight="700" textLength="63.0" lengthAdjust="spacing">participiu</text>
+<text x="238.1" y="492.9" font-size="14" fill="#5b6b83" textLength="190.5" lengthAdjust="spacing">numesc persoane sau obiecte (</text>
+<text x="428.7" y="492.9" font-size="14" fill="#5b6b83" font-style="italic" textLength="48.2" lengthAdjust="spacing">vizitatul</text>
+<text x="476.8" y="492.9" font-size="14" fill="#5b6b83" textLength="122.9" lengthAdjust="spacing">, cel vizitat), cele din</text>
+<text x="603.5" y="492.9" font-size="14" fill="#5b6b83" font-weight="700" textLength="35.8" lengthAdjust="spacing">supin</text>
+<text x="643.1" y="492.9" font-size="14" fill="#5b6b83" textLength="111.4" lengthAdjust="spacing">numesc acțiunea (</text>
+<text x="754.6" y="492.9" font-size="14" fill="#5b6b83" font-style="italic" textLength="78.1" lengthAdjust="spacing">vizitatul unei</text>
+<text x="62.0" y="513.1" font-size="14" fill="#5b6b83" font-style="italic" textLength="50.1" lengthAdjust="spacing">expoziții</text>
+<text x="112.1" y="513.1" font-size="14" fill="#5b6b83" textLength="7.3" lengthAdjust="spacing">).</text>
+<rect x="62.0" y="531.4" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><text x="78.0" y="557.9" font-size="14.5" fill="#10233f" font-weight="700" textLength="47.6" lengthAdjust="spacing">Model:</text>
+<text x="78.0" y="576.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="39.7" lengthAdjust="spacing">„totul”</text>
+<text x="121.6" y="576.7" font-size="14.5" fill="#3a3226" textLength="404.2" lengthAdjust="spacing">– substantiv, obținut prin conversiune din pronumele nehotărât</text>
+<text x="529.8" y="576.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="17.1" lengthAdjust="spacing">tot</text>
+<text x="546.9" y="576.7" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<rect x="40" y="631.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="654.0" font-size="16" font-weight="700" fill="#ffffff">2. FAMILIA LEXICALĂ</text>
+<rect x="40" y="665.0" width="820" height="210.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="699.0" font-size="16" fill="#10233f" font-weight="700" textLength="114.1" lengthAdjust="spacing">Familia lexicală</text>
+<text x="180.4" y="699.0" font-size="16" fill="#10233f" textLength="263.0" lengthAdjust="spacing">cuprinde toate cuvintele formate prin</text>
+<text x="447.7" y="699.0" font-size="16" fill="#10233f" font-weight="700" textLength="266.9" lengthAdjust="spacing">derivare, compunere și conversiune</text>
+<text x="718.9" y="699.0" font-size="16" fill="#10233f" textLength="107.8" lengthAdjust="spacing">de la un cuvânt</text>
+<text x="62.0" y="722.2" font-size="16" fill="#10233f" textLength="58.6" lengthAdjust="spacing">de bază.</text>
+<text x="62.0" y="756.0" font-size="15" fill="#10233f" font-style="italic" textLength="472.6" lengthAdjust="spacing">pădure → păduriță, pădurar, păduros, a împăduri, împădurit, despădurire</text>
+<rect x="62.0" y="774.5" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="774.5" width="6" height="82.7" rx="3" fill="#b4432c"/><text x="84.0" y="801.0" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="819.9" font-size="14.5" fill="#3a3226" textLength="108.3" lengthAdjust="spacing">În familia lexicală</text>
+<text x="196.2" y="819.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="17.7" lengthAdjust="spacing">nu</text>
+<text x="217.8" y="819.9" font-size="14.5" fill="#3a3226" textLength="599.0" lengthAdjust="spacing">intră cuvintele împrumutate din alte limbi, chiar dacă seamănă ca formă și sens cu cuvântul de</text>
+<text x="84.0" y="840.9" font-size="14.5" fill="#3a3226" textLength="33.1" lengthAdjust="spacing">bază.</text>
+<rect x="40" y="895.3" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="918.3" font-size="16" font-weight="700" fill="#ffffff">3. FAMILIA LEXICALĂ SAU CÂMPUL LEXICAL?</text>
+<rect x="40" y="929.3" width="820" height="166.1" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="947.3" width="776.0" height="31.6" fill="#efeaf8"/>
 
-  <text x="230" y="92" text-anchor="middle" font-size="15" font-weight="700" fill="#6f5ea8">Conversiunea</text>
-  <text x="230" y="110" text-anchor="middle" font-size="11" fill="#3a3226">schimbarea categoriei gramaticale, fără afix</text>
-
-  <g>
-    <rect x="60" y="130" width="340" height="58" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="80" y="153" font-size="12" fill="#10233f"><tspan font-weight="700">frumos</tspan> (adjectiv) → <tspan font-weight="700">frumos</tspan> (adverb)</text>
-    <text x="80" y="173" font-size="11" fill="#5b6b83" font-style="italic">Cântă frumos.</text>
-  </g>
-  <g>
-    <rect x="60" y="198" width="340" height="58" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="80" y="221" font-size="12" fill="#10233f"><tspan font-weight="700">obosit</tspan> (participiu) → <tspan font-weight="700">obosit</tspan> (adjectiv)</text>
-    <text x="80" y="241" font-size="11" fill="#5b6b83" font-style="italic">Copilul obosit a adormit.</text>
-  </g>
-  <g>
-    <rect x="60" y="266" width="340" height="58" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="80" y="289" font-size="12" fill="#10233f"><tspan font-weight="700">bine</tspan> (adverb) → <tspan font-weight="700">binele</tspan> (substantiv)</text>
-    <text x="80" y="309" font-size="11" fill="#5b6b83" font-style="italic">Face binele fără să ceară nimic.</text>
-  </g>
-
-  <line x1="440" y1="90" x2="440" y2="330" stroke="#0d9c92" stroke-width="1.5" stroke-dasharray="4 4"/>
-
-  <text x="670" y="92" text-anchor="middle" font-size="15" font-weight="700" fill="#0d9c92">Familia de cuvinte</text>
-  <text x="670" y="110" text-anchor="middle" font-size="11" fill="#3a3226">cuvinte cu aceeași rădăcină, sensuri înrudite</text>
-
-  <g>
-    <circle cx="670" cy="180" r="42" fill="#ffffff" stroke="#0d9c92" stroke-width="2.5"/>
-    <text x="670" y="185" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">floare</text>
-  </g>
-  <g>
-    <circle cx="560" cy="270" r="34" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="560" y="266" text-anchor="middle" font-size="11" fill="#10233f">floral</text>
-    <text x="560" y="280" text-anchor="middle" font-size="9" fill="#5b6b83">adjectiv</text>
-  </g>
-  <g>
-    <circle cx="670" cy="290" r="34" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="670" y="286" text-anchor="middle" font-size="11" fill="#10233f">înflori</text>
-    <text x="670" y="300" text-anchor="middle" font-size="9" fill="#5b6b83">verb</text>
-  </g>
-  <g>
-    <circle cx="780" cy="270" r="34" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="780" y="266" text-anchor="middle" font-size="11" fill="#10233f">floricea</text>
-    <text x="780" y="280" text-anchor="middle" font-size="9" fill="#5b6b83">diminutiv</text>
-  </g>
-  <line x1="670" y1="222" x2="560" y2="240" stroke="#0d9c92" stroke-width="1.5"/>
-  <line x1="670" y1="222" x2="670" y2="256" stroke="#0d9c92" stroke-width="1.5"/>
-  <line x1="670" y1="222" x2="780" y2="240" stroke="#0d9c92" stroke-width="1.5"/>
-
-  <text x="450" y="345" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 34-35</text>
+<text x="260.2" y="968.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="96.2" lengthAdjust="spacing">Familia lexicală</text>
+<text x="555.1" y="968.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="92.1" lengthAdjust="spacing">Câmpul lexical</text>
+<line x1="62.0" y1="978.8" x2="838.0" y2="978.8" stroke="#e3dccb"/>
+<text x="74.0" y="1001.3" font-size="14.5" fill="#3a3226" textLength="75.7" lengthAdjust="spacing">ce le unește</text>
+<text x="260.2" y="1001.3" font-size="14.5" fill="#3a3226" textLength="209.1" lengthAdjust="spacing">același cuvânt de bază (rădăcină)</text>
+<text x="555.1" y="1001.3" font-size="14.5" fill="#3a3226" textLength="77.1" lengthAdjust="spacing">aceeași idee</text>
+<line x1="62.0" y1="1011.7" x2="838.0" y2="1011.7" stroke="#e3dccb"/>
+<text x="74.0" y="1034.2" font-size="14.5" fill="#3a3226" textLength="109.6" lengthAdjust="spacing">părțile de vorbire</text>
+<text x="260.2" y="1034.2" font-size="14.5" fill="#3a3226" textLength="45.1" lengthAdjust="spacing">diferite</text>
+<text x="555.1" y="1034.2" font-size="14.5" fill="#3a3226" textLength="81.5" lengthAdjust="spacing">de același fel</text>
+<line x1="62.0" y1="1044.5" x2="838.0" y2="1044.5" stroke="#e3dccb"/>
+<text x="74.0" y="1067.0" font-size="14.5" fill="#3a3226" textLength="54.5" lengthAdjust="spacing">exemplu</text>
+<text x="260.2" y="1067.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="189.5" lengthAdjust="spacing">floare, floricică, florar, a înflori</text>
+<text x="555.1" y="1067.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="178.6" lengthAdjust="spacing">trandafir, lalea, crin, garoafă</text>
+<line x1="62.0" y1="1077.4" x2="838.0" y2="1077.4" stroke="#e3dccb"/>
+<line x1="248.2" y1="947.3" x2="248.2" y2="1077.4" stroke="#e3dccb"/>
+<line x1="543.1" y1="947.3" x2="543.1" y2="1077.4" stroke="#e3dccb"/>
+<text x="152.7" y="1126.9" font-size="11.5" fill="#5b6b83" textLength="594.7" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 34-35, rubricile Repere și modelul de analiză. Unele exemple sunt create pentru aceste notițe.</text>
 </svg>

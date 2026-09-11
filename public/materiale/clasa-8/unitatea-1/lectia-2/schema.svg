@@ -1,38 +1,110 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="960" height="400" fill="#faf7f0"/>
-  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Versificația, ce măsurăm într-o poezie</text>
-  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 2 · Structura poeziei și caracteristicile textului liric</text>
-  <rect x="36" y="100" width="216" height="150" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-  <text x="56" y="130" font-size="14" font-weight="700" fill="#10233f">Strofa</text>
-  <text x="56" y="156" font-size="12" fill="#3d4a5f">Grupul de versuri,</text>
-  <text x="56" y="176" font-size="12" fill="#3d4a5f">despărțit prin pauză.</text>
-  <text x="56" y="196" font-size="12" fill="#3d4a5f"></text>
-  <text x="56" y="216" font-size="12" fill="#3d4a5f">distih 2, terțină 3,</text>
-  <text x="56" y="236" font-size="12" fill="#3d4a5f">catren 4 versuri</text>
-  <rect x="268" y="100" width="216" height="150" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
-  <text x="288" y="130" font-size="14" font-weight="700" fill="#10233f">Versul</text>
-  <text x="288" y="156" font-size="12" fill="#3d4a5f">Un rând din poezie.</text>
-  <text x="288" y="176" font-size="12" fill="#3d4a5f"></text>
-  <text x="288" y="196" font-size="12" fill="#3d4a5f">Nu coincide mereu</text>
-  <text x="288" y="216" font-size="12" fill="#3d4a5f">cu o propoziție.</text>
-  <rect x="500" y="100" width="216" height="150" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
-  <text x="520" y="130" font-size="14" font-weight="700" fill="#10233f">Măsura</text>
-  <text x="520" y="156" font-size="12" fill="#3d4a5f">Numărul de silabe</text>
-  <text x="520" y="176" font-size="12" fill="#3d4a5f">dintr-un vers.</text>
-  <text x="520" y="196" font-size="12" fill="#3d4a5f"></text>
-  <text x="520" y="216" font-size="12" fill="#3d4a5f">Poate fi constantă</text>
-  <text x="520" y="236" font-size="12" fill="#3d4a5f">sau variabilă.</text>
-  <rect x="732" y="100" width="192" height="150" rx="16" fill="#ffffff" stroke="#6f5ea8" stroke-width="2.5"/>
-  <text x="752" y="130" font-size="14" font-weight="700" fill="#10233f">Rima</text>
-  <text x="752" y="156" font-size="12" fill="#3d4a5f">Potrivirea sunetelor</text>
-  <text x="752" y="176" font-size="12" fill="#3d4a5f">la sfârșit de vers.</text>
-  <text x="752" y="196" font-size="12" fill="#3d4a5f"></text>
-  <text x="752" y="216" font-size="12" fill="#3d4a5f">împerecheată,</text>
-  <text x="752" y="236" font-size="12" fill="#3d4a5f">încrucișată, îmbrățișată</text>
-  <rect x="36" y="274" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="58" y="299" font-size="13" font-weight="700" fill="#10233f">Ritmul</text>
-  <text x="58" y="319" font-size="12" fill="#3d4a5f">alternanța silabelor accentuate cu cele neaccentuate. Dă muzicalitatea versului.</text>
-  <rect x="36" y="342" width="888" height="56" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
-  <text x="58" y="367" font-size="13" font-weight="700" fill="#10233f">Vers alb față de vers liber</text>
-  <text x="58" y="387" font-size="12" fill="#3d4a5f">albul păstrează ritmul și măsura, dar nu are rimă. Liberul renunță la toate trei.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1312" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1312" fill="#faf7f0"/>
+<text x="300.1" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="300.4" lengthAdjust="spacing">Textul liric. Versificația</text>
+<text x="238.8" y="74.4" font-size="14" fill="#5b6b83" textLength="422.4" lengthAdjust="spacing">Clasa a VIII-a · Unitatea I, Lecția 2 · Manual, p. 11 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. TEXTUL LIRIC</text>
+<rect x="40" y="128.6" width="820" height="80.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="79.3" lengthAdjust="spacing">Textul liric</text>
+<text x="145.7" y="162.6" font-size="16" fill="#10233f" textLength="117.9" lengthAdjust="spacing">exprimă mai ales</text>
+<text x="267.9" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="182.9" lengthAdjust="spacing">stări, emoții, sentimente</text>
+<text x="450.8" y="162.6" font-size="16" fill="#10233f" textLength="249.9" lengthAdjust="spacing">, dar și idei, aspirații. Este marcat de</text>
+<text x="705.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="101.1" lengthAdjust="spacing">subiectivitate</text>
+<text x="806.1" y="162.6" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">:</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" textLength="469.3" lengthAdjust="spacing">autorul imaginează un univers care redă felul lui de a vedea lumea.</text>
+<rect x="40" y="228.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="251.6" font-size="16" font-weight="700" fill="#ffffff">2. VOCEA LIRICĂ ȘI MĂRCILE SUBIECTIVITĂȚII</text>
+<rect x="40" y="262.6" width="820" height="308.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="295.6" font-size="15" fill="#3a3226" textLength="176.2" lengthAdjust="spacing">Vocea care rostește poezia</text>
+<text x="242.3" y="295.6" font-size="15" fill="#3a3226" font-weight="700" textLength="107.0" lengthAdjust="spacing">nu este autorul</text>
+<text x="353.3" y="295.6" font-size="15" fill="#3a3226" textLength="146.2" lengthAdjust="spacing">ca persoană reală, ci o</text>
+<text x="503.6" y="295.6" font-size="15" fill="#3a3226" font-weight="700" textLength="148.5" lengthAdjust="spacing">construcție ficțională</text>
+<text x="652.1" y="295.6" font-size="15" fill="#3a3226" textLength="156.1" lengthAdjust="spacing">, într-o ipostază umană:</text>
+<text x="62.0" y="317.4" font-size="15" fill="#3a3226" textLength="730.6" lengthAdjust="spacing">copilul, îndrăgostitul, admiratorul naturii, geniul, revoltatul. Poate fi chiar un obiect sau un element al naturii: în</text>
+<text x="796.7" y="317.4" font-size="15" fill="#10233f" font-style="italic" textLength="14.5" lengthAdjust="spacing">O,</text>
+<text x="62.0" y="339.1" font-size="15" fill="#10233f" font-style="italic" textLength="48.3" lengthAdjust="spacing">rămâi...</text>
+<text x="114.3" y="339.1" font-size="15" fill="#3a3226" textLength="57.1" lengthAdjust="spacing">vorbește</text>
+<text x="175.5" y="339.1" font-size="15" fill="#3a3226" font-weight="700" textLength="58.0" lengthAdjust="spacing">pădurea</text>
+<text x="233.6" y="339.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="357.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="379.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="128.8" lengthAdjust="spacing">Marca subiectivității</text>
+<text x="462.0" y="379.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="389.2" x2="838.0" y2="389.2" stroke="#e3dccb"/>
+<text x="74.0" y="411.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="129.9" lengthAdjust="spacing">persoana I singular</text>
+<text x="207.8" y="411.7" font-size="14.5" fill="#3a3226" textLength="121.7" lengthAdjust="spacing">(cea mai puternică)</text>
+<text x="462.0" y="411.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="149.6" lengthAdjust="spacing">eu, mă, îmi; iubesc, simt</text>
+<line x1="62.0" y1="422.0" x2="838.0" y2="422.0" stroke="#e3dccb"/>
+<text x="74.0" y="444.5" font-size="14.5" fill="#3a3226" textLength="210.1" lengthAdjust="spacing">celelalte persoane, mai ales a II-a</text>
+<text x="462.0" y="444.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="102.2" lengthAdjust="spacing">tu, rămâi, te văd</text>
+<line x1="62.0" y1="454.9" x2="838.0" y2="454.9" stroke="#e3dccb"/>
+<text x="74.0" y="477.4" font-size="14.5" fill="#3a3226" textLength="129.5" lengthAdjust="spacing">interjecții, exclamații</text>
+<text x="462.0" y="477.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="69.3" lengthAdjust="spacing">O, rămâi...!</text>
+<line x1="62.0" y1="487.7" x2="838.0" y2="487.7" stroke="#e3dccb"/>
+<text x="74.0" y="510.2" font-size="14.5" fill="#3a3226" textLength="228.5" lengthAdjust="spacing">interogații care nu așteaptă răspuns</text>
+<text x="462.0" y="510.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="112.4" lengthAdjust="spacing">Cine mă cheamă?</text>
+<line x1="62.0" y1="520.6" x2="838.0" y2="520.6" stroke="#e3dccb"/>
+<text x="74.0" y="543.0" font-size="14.5" fill="#3a3226" textLength="306.5" lengthAdjust="spacing">verbe și substantive care exprimă trăiri, aprecieri</text>
+<text x="462.0" y="543.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="133.2" lengthAdjust="spacing">dor, a iubi, frumusețe</text>
+<line x1="62.0" y1="553.4" x2="838.0" y2="553.4" stroke="#e3dccb"/>
+<line x1="450.0" y1="357.6" x2="450.0" y2="553.4" stroke="#e3dccb"/>
+<rect x="40" y="591.4" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="614.4" font-size="16" font-weight="700" fill="#ffffff">3. VERSIFICAȚIA (PROZODIA)</text>
+<rect x="40" y="625.4" width="820" height="274.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="658.4" font-size="15" fill="#3a3226" font-weight="700" textLength="78.3" lengthAdjust="spacing">Versificația</text>
+<text x="144.3" y="658.4" font-size="15" fill="#3a3226" textLength="429.6" lengthAdjust="spacing">cuprinde regulile de construcție a poeziei. Textele în versuri pot fi</text>
+<text x="578.0" y="658.4" font-size="15" fill="#3a3226" font-weight="700" textLength="181.9" lengthAdjust="spacing">lirice, epice sau dramatice</text>
+<text x="759.9" y="658.4" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="676.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="698.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="59.0" lengthAdjust="spacing">Noțiunea</text>
+<text x="244.7" y="698.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="45.2" lengthAdjust="spacing">Ce este</text>
+<line x1="62.0" y1="708.4" x2="838.0" y2="708.4" stroke="#e3dccb"/>
+<text x="74.0" y="730.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="40.7" lengthAdjust="spacing">versul</text>
+<text x="244.7" y="730.9" font-size="14.5" fill="#3a3226" textLength="308.0" lengthAdjust="spacing">un rând dintr-o poezie, încheiat cu un spațiu gol</text>
+<line x1="62.0" y1="741.3" x2="838.0" y2="741.3" stroke="#e3dccb"/>
+<text x="74.0" y="763.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="40.0" lengthAdjust="spacing">strofa</text>
+<text x="244.7" y="763.8" font-size="14.5" fill="#3a3226" textLength="407.6" lengthAdjust="spacing">un grup de versuri, despărțit de altele printr-un rând alb (blanc):</text>
+<text x="656.2" y="763.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="37.8" lengthAdjust="spacing">distih</text>
+<text x="698.0" y="763.8" font-size="14.5" fill="#3a3226" textLength="66.1" lengthAdjust="spacing">(2 versuri),</text>
+<text x="768.0" y="763.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="45.7" lengthAdjust="spacing">terțină</text>
+<text x="244.7" y="784.8" font-size="14.5" fill="#3a3226" textLength="19.7" lengthAdjust="spacing">(3),</text>
+<text x="268.4" y="784.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="42.9" lengthAdjust="spacing">catren</text>
+<text x="315.2" y="784.8" font-size="14.5" fill="#3a3226" textLength="16.5" lengthAdjust="spacing">(4)</text>
+<line x1="62.0" y1="795.2" x2="838.0" y2="795.2" stroke="#e3dccb"/>
+<text x="74.0" y="817.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="50.0" lengthAdjust="spacing">măsura</text>
+<text x="244.7" y="817.7" font-size="14.5" fill="#3a3226" textLength="563.5" lengthAdjust="spacing">numărul de silabe dintr-un vers; constantă sau variabilă; scurtă (5-8), medie (9-11), lungă</text>
+<text x="244.7" y="838.7" font-size="14.5" fill="#3a3226" textLength="45.8" lengthAdjust="spacing">(12-18)</text>
+<line x1="62.0" y1="849.0" x2="838.0" y2="849.0" stroke="#e3dccb"/>
+<text x="74.0" y="871.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="31.0" lengthAdjust="spacing">rima</text>
+<text x="244.7" y="871.5" font-size="14.5" fill="#3a3226" textLength="360.9" lengthAdjust="spacing">potrivirea sunetelor de la sfârșitul versurilor, începând cu</text>
+<text x="609.5" y="871.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="169.5" lengthAdjust="spacing">ultima vocală accentuată</text>
+<line x1="62.0" y1="881.9" x2="838.0" y2="881.9" stroke="#e3dccb"/>
+<line x1="232.7" y1="676.9" x2="232.7" y2="881.9" stroke="#e3dccb"/>
+<rect x="40" y="919.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="942.9" font-size="16" font-weight="700" fill="#ffffff">4. TIPURI DE RIMĂ ÎN CATREN</text>
+<rect x="40" y="953.9" width="820" height="307.5" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="971.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="993.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="32.3" lengthAdjust="spacing">Rima</text>
+<text x="619.4" y="993.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="49.1" lengthAdjust="spacing">Schema</text>
+<line x1="62.0" y1="1003.4" x2="838.0" y2="1003.4" stroke="#e3dccb"/>
+<text x="74.0" y="1025.9" font-size="14.5" fill="#3a3226" textLength="86.9" lengthAdjust="spacing">împerecheată</text>
+<text x="622.2" y="1025.9" font-size="14.5" fill="#3a3226" textLength="43.6" lengthAdjust="spacing">a a b b</text>
+<line x1="62.0" y1="1036.3" x2="838.0" y2="1036.3" stroke="#e3dccb"/>
+<text x="74.0" y="1058.8" font-size="14.5" fill="#3a3226" textLength="67.7" lengthAdjust="spacing">încrucișată</text>
+<text x="622.2" y="1058.8" font-size="14.5" fill="#3a3226" textLength="43.6" lengthAdjust="spacing">a b a b</text>
+<line x1="62.0" y1="1069.1" x2="838.0" y2="1069.1" stroke="#e3dccb"/>
+<text x="74.0" y="1091.7" font-size="14.5" fill="#3a3226" textLength="71.2" lengthAdjust="spacing">îmbrățișată</text>
+<text x="622.2" y="1091.7" font-size="14.5" fill="#3a3226" textLength="43.6" lengthAdjust="spacing">a b b a</text>
+<line x1="62.0" y1="1102.0" x2="838.0" y2="1102.0" stroke="#e3dccb"/>
+<text x="74.0" y="1124.5" font-size="14.5" fill="#3a3226" textLength="66.3" lengthAdjust="spacing">monorimă</text>
+<text x="623.3" y="1124.5" font-size="14.5" fill="#3a3226" textLength="41.3" lengthAdjust="spacing">a a a a</text>
+<line x1="62.0" y1="1134.8" x2="838.0" y2="1134.8" stroke="#e3dccb"/>
+<text x="74.0" y="1157.3" font-size="14.5" fill="#3a3226" textLength="58.0" lengthAdjust="spacing">semirimă</text>
+<text x="622.5" y="1157.3" font-size="14.5" fill="#3a3226" textLength="42.9" lengthAdjust="spacing">a b c b</text>
+<line x1="62.0" y1="1167.7" x2="838.0" y2="1167.7" stroke="#e3dccb"/>
+<line x1="450.0" y1="971.9" x2="450.0" y2="1167.7" stroke="#e3dccb"/>
+<rect x="62.0" y="1181.7" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><text x="78.0" y="1208.2" font-size="14.5" fill="#10233f" font-weight="700" textLength="116.4" lengthAdjust="spacing">Rima imperfectă:</text>
+<text x="78.0" y="1227.0" font-size="14.5" fill="#3a3226" textLength="426.9" lengthAdjust="spacing">se potrivesc doar vocalele accentuate de la final, consoanele diferă:</text>
+<text x="508.8" y="1227.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="95.3" lengthAdjust="spacing">creștet – veșted</text>
+<text x="604.0" y="1227.0" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="213.9" y="1292.9" font-size="11.5" fill="#5b6b83" textLength="472.2" lengthAdjust="spacing">Sursa: Manual Art 8, p. 11, rubrica Repere; textul de bază este „O, rămâi...” de Mihai Eminescu.</text>
 </svg>

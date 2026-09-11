@@ -1,34 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 340" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="980" height="340" fill="#faf7f0"/>
-  <text x="490" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cele patru etape ale ascultării active</text>
-  <text x="490" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea I, Lecția 13 · Strategii de ascultare activă</text>
-  <circle cx="66" cy="128" r="24" fill="#3b5fa8"/>
-  <text x="66" y="136" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">1</text>
-  <text x="102" y="134" font-size="13.5" font-weight="700" fill="#10233f">Concentrez atenția</text>
-  <text x="36" y="178" font-size="11.5" fill="#3d4a5f">Înlătur ce mă distrage.</text>
-  <text x="36" y="197" font-size="11.5" fill="#3d4a5f">Telefonul jos, privirea sus.</text>
-  <path d="M244 128 L262 128" stroke="#b8944f" stroke-width="2.5"/>
-  <path d="M256 122 L266 128 L256 134 Z" fill="#b8944f"/>
-  <circle cx="302" cy="128" r="24" fill="#a1417e"/>
-  <text x="302" y="136" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">2</text>
-  <text x="338" y="134" font-size="13.5" font-weight="700" fill="#10233f">Încurajez vorbitorul</text>
-  <text x="272" y="178" font-size="11.5" fill="#3d4a5f">Contact vizual, aha, hmm.</text>
-  <text x="272" y="197" font-size="11.5" fill="#3d4a5f">Nu preiau locul central.</text>
-  <path d="M480 128 L498 128" stroke="#b8944f" stroke-width="2.5"/>
-  <path d="M492 122 L502 128 L492 134 Z" fill="#b8944f"/>
-  <circle cx="538" cy="128" r="24" fill="#1c7f5e"/>
-  <text x="538" y="136" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">3</text>
-  <text x="574" y="134" font-size="13.5" font-weight="700" fill="#10233f">Reflectez</text>
-  <text x="508" y="178" font-size="11.5" fill="#3d4a5f">Reformulez ca să verific</text>
-  <text x="508" y="197" font-size="11.5" fill="#3d4a5f">că am înțeles corect.</text>
-  <path d="M716 128 L734 128" stroke="#b8944f" stroke-width="2.5"/>
-  <path d="M728 122 L738 128 L728 134 Z" fill="#b8944f"/>
-  <circle cx="774" cy="128" r="24" fill="#b8944f"/>
-  <text x="774" y="136" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">4</text>
-  <text x="810" y="134" font-size="13.5" font-weight="700" fill="#10233f">Ofer feedback</text>
-  <text x="744" y="178" font-size="11.5" fill="#3d4a5f">Abia acum îmi spun</text>
-  <text x="744" y="197" font-size="11.5" fill="#3d4a5f">părerea, la temă.</text>
-  <rect x="36" y="248" width="908" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="58" y="273" font-size="13" font-weight="700" fill="#10233f">Bariere care o strică</text>
-  <text x="58" y="293" font-size="12" fill="#3d4a5f">întreruperea, schimbarea temei, pregătirea răspunsului în timp ce celălalt încă vorbește.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 864" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="864" fill="#faf7f0"/>
+<text x="268.6" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="363.7" lengthAdjust="spacing">Strategii de ascultare activă</text>
+<text x="220.5" y="74.4" font-size="14" fill="#5b6b83" textLength="458.9" lengthAdjust="spacing">Clasa a VIII-a · Unitatea I, Lecția 13 · Manual, pp. 26-27 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ESTE ASCULTAREA ACTIVĂ</text>
+<rect x="40" y="128.6" width="820" height="112.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="127.5" lengthAdjust="spacing">Ascultarea activă</text>
+<text x="193.8" y="162.6" font-size="16" fill="#10233f" textLength="631.6" lengthAdjust="spacing">înseamnă atenție deplină la vorbitor, încurajarea lui prin întrebări și semnale nonverbale și</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" textLength="120.2" lengthAdjust="spacing">paraverbale și un</text>
+<text x="186.5" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="68.5" lengthAdjust="spacing">feedback</text>
+<text x="259.3" y="185.8" font-size="16" fill="#10233f" textLength="169.1" lengthAdjust="spacing">care arată că l-ai înțeles.</text>
+<text x="62.0" y="218.6" font-size="14" fill="#5b6b83" textLength="622.0" lengthAdjust="spacing">Tipurile de comunicare verbală: publică, în grupuri mici, interpersonală, intrapersonală (cu tine însuți).</text>
+<rect x="40" y="260.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="283.8" font-size="16" font-weight="700" fill="#ffffff">2. CELE PATRU ETAPE</text>
+<rect x="40" y="294.8" width="820" height="262.0" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="312.8" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="334.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="35.4" lengthAdjust="spacing">Etapa</text>
+<text x="283.5" y="334.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="38.3" lengthAdjust="spacing">Ce fac</text>
+<line x1="62.0" y1="344.3" x2="838.0" y2="344.3" stroke="#e3dccb"/>
+<text x="74.0" y="366.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="163.3" lengthAdjust="spacing">1. Concentrarea atenției</text>
+<text x="283.5" y="366.8" font-size="14.5" fill="#3a3226" textLength="535.8" lengthAdjust="spacing">înlătur ce mă poate distrage (telefon, ecrane, căști), elimin zgomotele, mă apropii de</text>
+<text x="283.5" y="387.9" font-size="14.5" fill="#3a3226" textLength="218.6" lengthAdjust="spacing">vorbitor, nu mă gândesc la altceva</text>
+<line x1="62.0" y1="398.2" x2="838.0" y2="398.2" stroke="#e3dccb"/>
+<text x="74.0" y="420.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="178.3" lengthAdjust="spacing">2. Încurajarea vorbitorului</text>
+<text x="283.5" y="420.7" font-size="14.5" fill="#3a3226" textLength="536.2" lengthAdjust="spacing">contact vizual, corp ușor aplecat spre el, fără brațe încrucișate; nu întrerup; zâmbesc,</text>
+<text x="283.5" y="441.7" font-size="14.5" fill="#3a3226" textLength="180.5" lengthAdjust="spacing">dau din cap; scurte semnale:</text>
+<text x="468.0" y="441.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="63.9" lengthAdjust="spacing">aha, hmm</text>
+<line x1="62.0" y1="452.1" x2="838.0" y2="452.1" stroke="#e3dccb"/>
+<text x="74.0" y="474.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="125.3" lengthAdjust="spacing">3. Reflecția asupra</text>
+<text x="74.0" y="495.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="57.1" lengthAdjust="spacing">spuselor</text>
+<text x="283.5" y="474.6" font-size="14.5" fill="#3a3226" textLength="520.1" lengthAdjust="spacing">pun întrebări de clarificare, reformulez cu cuvintele mele, rezum ca să nu uit nimic</text>
+<line x1="62.0" y1="506.0" x2="838.0" y2="506.0" stroke="#e3dccb"/>
+<text x="74.0" y="528.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="164.0" lengthAdjust="spacing">4. Oferirea feedbackului</text>
+<text x="283.5" y="528.5" font-size="14.5" fill="#3a3226" textLength="542.1" lengthAdjust="spacing">răspund la tema abordată și respect opiniile vorbitorului, chiar dacă nu sunt de acord</text>
+<line x1="62.0" y1="538.8" x2="838.0" y2="538.8" stroke="#e3dccb"/>
+<line x1="271.5" y1="312.8" x2="271.5" y2="538.8" stroke="#e3dccb"/>
+<rect x="40" y="576.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="599.8" font-size="16" font-weight="700" fill="#ffffff">3. DE CE MĂ AJUTĂ</text>
+<rect x="40" y="610.8" width="820" height="201.7" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="643.8" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="643.8" font-size="15" fill="#3a3226" textLength="249.4" lengthAdjust="spacing">construiesc relații mai bune cu ceilalți;</text>
+<text x="62.0" y="668.6" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="668.6" font-size="15" fill="#3a3226" textLength="204.3" lengthAdjust="spacing">învăț mai ușor, în orice situație;</text>
+<text x="62.0" y="693.3" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="693.3" font-size="15" fill="#3a3226" textLength="252.1" lengthAdjust="spacing">rezolv mai bine problemele de zi cu zi.</text>
+<rect x="62.0" y="711.8" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="711.8" width="6" height="82.7" rx="3" fill="#b4432c"/><text x="84.0" y="738.3" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="757.2" font-size="14.5" fill="#3a3226" textLength="107.4" lengthAdjust="spacing">Îmi spun părerea</text>
+<text x="195.4" y="757.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="34.7" lengthAdjust="spacing">după</text>
+<text x="233.9" y="757.2" font-size="14.5" fill="#3a3226" textLength="555.5" lengthAdjust="spacing">ce am întrebat, am rezumat sau am reformulat, nu în timpul intervenției vorbitorului. La</text>
+<text x="84.0" y="778.2" font-size="14.5" fill="#3a3226" textLength="151.7" lengthAdjust="spacing">teme de specialitate mă</text>
+<text x="239.6" y="778.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="84.1" lengthAdjust="spacing">documentez</text>
+<text x="327.6" y="778.2" font-size="14.5" fill="#3a3226" textLength="55.1" lengthAdjust="spacing">dinainte.</text>
+<text x="280.0" y="844.0" font-size="11.5" fill="#5b6b83" textLength="340.1" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 26-27, rubrica Repere și grila de observare.</text>
 </svg>

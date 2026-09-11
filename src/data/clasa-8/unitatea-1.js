@@ -1297,7 +1297,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 8, pp. 28-30',
-          'Schema „Categoriile semantice” (/materiale/clasa-8/unitatea-1/lectia-14/schema.svg)',
+          'Schema „Categorii semantice” (/materiale/clasa-8/unitatea-1/lectia-14/schema.svg)',
           'DEX',
         ],
         desfasurare: [
@@ -1434,7 +1434,7 @@ export const unitatea1 = {
           ],
         },
         infografic: null,
-        schema: { fisier: '/materiale/clasa-8/unitatea-1/lectia-14/schema.svg', titlu: 'Categoriile semantice' },
+        schema: { fisier: '/materiale/clasa-8/unitatea-1/lectia-14/schema.svg', titlu: 'Categorii semantice' },
         altele: [],
       },
     },
@@ -1774,7 +1774,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 8, pp. 36-37',
-          'Schema „Împrumuturile” (/materiale/clasa-8/unitatea-1/lectia-17/schema.svg)',
+          'Schema „Împrumuturile. Neologismele” (/materiale/clasa-8/unitatea-1/lectia-17/schema.svg)',
           'DEX',
         ],
         desfasurare: [
@@ -1911,7 +1911,7 @@ export const unitatea1 = {
           ],
         },
         infografic: null,
-        schema: { fisier: '/materiale/clasa-8/unitatea-1/lectia-17/schema.svg', titlu: 'Împrumuturile' },
+        schema: { fisier: '/materiale/clasa-8/unitatea-1/lectia-17/schema.svg', titlu: 'Împrumuturile. Neologismele' },
         altele: [],
       },
     },
@@ -1933,7 +1933,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 8, pp. 38-39',
-          'Schema „Registrele limbii” (/materiale/clasa-8/unitatea-1/lectia-18/schema.svg)',
+          'Schema „Registrele limbii. Argoul. Jargonul” (/materiale/clasa-8/unitatea-1/lectia-18/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -2070,7 +2070,7 @@ export const unitatea1 = {
           ],
         },
         infografic: null,
-        schema: { fisier: '/materiale/clasa-8/unitatea-1/lectia-18/schema.svg', titlu: 'Registrele limbii' },
+        schema: { fisier: '/materiale/clasa-8/unitatea-1/lectia-18/schema.svg', titlu: 'Registrele limbii. Argoul. Jargonul' },
         altele: [],
       },
     },
