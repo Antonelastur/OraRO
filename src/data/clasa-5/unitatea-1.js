@@ -1137,6 +1137,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, pp. 24-25',
+          'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-9/fisa-exercitii.pdf)',
           'Schema „Propoziția. Tipuri de propoziții” (/materiale/clasa-5/unitatea-1/lectia-9/schema.svg)',
           'Quizul „Subiectul și predicatul” (materialul de joc al lecției)',
         ],
@@ -1178,7 +1179,7 @@ export const unitatea1 = {
         prezentare: null,
         video: null,
         test: null,
-        fisa: null,
+        fisa: { exercitii: '/materiale/clasa-5/unitatea-1/lectia-9/fisa-exercitii.pdf' },
         joc: {
           tip: 'quiz',
           titlu: 'Subiectul și predicatul',

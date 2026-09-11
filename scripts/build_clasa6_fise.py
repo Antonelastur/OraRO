@@ -100,11 +100,13 @@ def _layout_page(page, blocks, reper_text=None):
                 else:
                     y = draw_table(pg, y, b["cols"], b["widths"], b["rows"], rh, b.get("data"))
                 y += 12
-            else:
+            elif b["t"] == "lines":
                 if not dry:
                     y = write_lines(pg, y + 2, line_counts[li])
                 li += 1
                 y += 8
+            else:  # 'text': se răspunde direct în enunț (subliniere, încercuire), fără rânduri
+                y += 6
         return y
 
     y0 = 88

@@ -1,4 +1,6 @@
 export type MaterialFisier = { fisier: string }
+// fișa de lucru a lecției și/sau fișa de exerciții pentru clasă
+export type MaterialFisa = { fisier?: string | null; exercitii?: string | null }
 export type MaterialVideo = { link: string }
 export type NivelTest = { nivel: string; linkGoogleForms: string }
 export type MaterialTest = {
@@ -18,7 +20,7 @@ export type Materiale = {
   prezentare: MaterialFisier | null
   video: MaterialVideo | null
   test: MaterialTest | null
-  fisa: MaterialFisier | null
+  fisa: MaterialFisa | null
   joc: MaterialJoc | null
   infografic: MaterialImagine | null
   schema: MaterialImagine | null
