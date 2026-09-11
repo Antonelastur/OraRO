@@ -53,7 +53,7 @@ export const recapitulareInitiala = {
         resurse: [
           'Manualul Art 6, pentru prezentarea cuprinsului și a rubricilor',
           'Manual Art 5, pp. 24-25, ca reper pentru recapitulare',
-          'Schema „Tipurile de propoziție” (/materiale/clasa-5/unitatea-1/lectia-9/schema.svg)',
+          'Schema „Propoziția. Tipuri de propoziții” (/materiale/clasa-5/unitatea-1/lectia-9/schema.svg)',
           'Quizul „Subiectul și predicatul” (materialul de joc al lecției)',
         ],
         desfasurare: [

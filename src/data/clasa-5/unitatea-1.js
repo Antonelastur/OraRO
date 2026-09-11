@@ -1137,7 +1137,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, pp. 24-25',
-          'Schema „Tipurile de propoziție” (/materiale/clasa-5/unitatea-1/lectia-9/schema.svg)',
+          'Schema „Propoziția. Tipuri de propoziții” (/materiale/clasa-5/unitatea-1/lectia-9/schema.svg)',
           'Quizul „Subiectul și predicatul” (materialul de joc al lecției)',
         ],
         desfasurare: [
@@ -1225,7 +1225,7 @@ export const unitatea1 = {
           ],
         },
         infografic: null,
-        schema: { fisier: '/materiale/clasa-5/unitatea-1/lectia-9/schema.svg', titlu: 'Tipurile de propoziție' },
+        schema: { fisier: '/materiale/clasa-5/unitatea-1/lectia-9/schema.svg', titlu: 'Propoziția. Tipuri de propoziții' },
         altele: [],
       },
     },

@@ -157,7 +157,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Definește propoziția și clasifică propozițiile după alcătuire și după aspectul predicatului.'],
-    resurse: ['Manual Art 5, pp. 24-25', 'Schema „Tipurile de propoziție” (/materiale/clasa-5/unitatea-1/lectia-9/schema.svg)', 'Quizul „Subiectul și predicatul” (materialul de joc al lecției)'],
+    resurse: ['Manual Art 5, pp. 24-25', 'Schema „Propoziția. Tipuri de propoziții” (/materiale/clasa-5/unitatea-1/lectia-9/schema.svg)', 'Quizul „Subiectul și predicatul” (materialul de joc al lecției)'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le cer elevilor un exemplu de propoziție scurtă din propria experiență și o scriu pe tablă.' },
