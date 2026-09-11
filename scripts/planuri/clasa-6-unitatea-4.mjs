@@ -11,18 +11,18 @@ const org = {
 
 export default {
   'lectia-1': {
-    titlu: 'Textul narativ literar în versuri. Uleul și găinile de Grigore Alexandrescu',
+    titlu: 'Textul narativ literar în versuri. Uliul și găinile de Grigore Alexandrescu',
     data: null,
     tipOra: 'Predare, lectură',
     durata: 50,
-    obiective: ['Identifică informații esențiale din fabula Uleul și găinile de Grigore Alexandrescu.'],
+    obiective: ['Identifică informații esențiale din fabula Uliul și găinile de Grigore Alexandrescu.'],
     resurse: ['Manual Art 6, pp. 122-123', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '7 min', activitate: 'În perechi, elevii completează expresiile de la p. 122 cu numele animalului potrivit, curajos ca un leu, harnic ca o furnică, șiret ca o vulpe, și explică una dintre ele.' },
       { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că deschidem unitatea cu o întâmplare în versuri, cu animale care seamănă mult cu oamenii.' },
       { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Numim texte literare cu animale ca personaje, ajutându-ne de imaginile de la p. 122.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Îl prezint pe Grigore Alexandrescu, considerat cel mai mare fabulist român, și citesc model textul de la pp. 122-123. Clarificăm cuvintele din subsol, uleu, a priimi, slobod, a slobozi, și urmărim momentele: uliul legat lângă coteț, promisiunea, eliberarea, trădarea, răspunsul uliului, versurile de final.' },
+      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Îl prezint pe Grigore Alexandrescu, considerat cel mai mare fabulist român, și citesc model textul de la pp. 122-123. Clarificăm cuvintele din subsol, uliu (în text apare forma regională uleu), a priimi, slobod, a slobozi, și urmărim momentele: uliul legat lângă coteț, promisiunea, eliberarea, trădarea, răspunsul uliului, versurile de final.' },
       { etapa: 'Obținerea performanței', timp: '11 min', activitate: 'Elevii notează ce asocieri au făcut ascultând textul și ce ar fi făcut diferit în locul lui Ion, al uliului sau al păsărilor, apoi câțiva își citesc răspunsurile.' },
     ],
     evaluare: 'Observarea sistematică a elevilor; verificarea impresiilor de lectură.',
@@ -32,7 +32,7 @@ export default {
     data: null,
     tipOra: 'Predare, lectură',
     durata: 50,
-    obiective: ['Identifică acțiunea, elementele structurii textului narativ și indiciile de spațiu din fabula Uleul și găinile.'],
+    obiective: ['Identifică acțiunea, elementele structurii textului narativ și indiciile de spațiu din fabula Uliul și găinile.'],
     resurse: ['Manual Art 6, pp. 124-125', 'Schema „Acțiunea, timpul și spațiul” (/materiale/clasa-6/unitatea-4/lectia-2/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
@@ -66,7 +66,7 @@ export default {
     data: null,
     tipOra: 'Predare, interpretare',
     durata: 50,
-    obiective: ['Formulează o opinie despre semnificația fabulei Uleul și găinile și despre atitudinile personajelor.'],
+    obiective: ['Formulează o opinie despre semnificația fabulei Uliul și găinile și despre atitudinile personajelor.'],
     resurse: ['Manual Art 6, p. 128', 'Fișa lecției (/materiale/clasa-6/unitatea-4/lectia-4/fisa.pdf)', 'Caietele elevilor'],
     desfasurare: [
       org,
@@ -100,12 +100,12 @@ export default {
     data: null,
     tipOra: 'Lectură, text auxiliar',
     durata: 50,
-    obiective: ['Compară structura fabulei Iepurele și broasca-țestoasă cu cea a fabulei Uleul și găinile.'],
+    obiective: ['Compară structura fabulei Iepurele și broasca-țestoasă cu cea a fabulei Uliul și găinile.'],
     resurse: ['Manual Art 6, pp. 129-131', 'Fișa lecției (/materiale/clasa-6/unitatea-4/lectia-6/fisa.pdf)', 'Bilețele pentru rolurile de lectură'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Îi întreb pe elevi ce s-ar întâmpla dacă ar pune la întrecere cel mai lent și cel mai rapid animal.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că citim o fabulă de La Fontaine și o comparăm cu Uleul și găinile.' },
+      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că citim o fabulă de La Fontaine și o comparăm cu Uliul și găinile.' },
       { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '4 min', activitate: 'Îl prezint pe La Fontaine, pe baza textului de la p. 129: Franța secolului al XVII-lea, modelul lui Esop, scopul de „a instrui și a plăcea”.' },
       { etapa: 'Dirijarea învățării', timp: '24 min', activitate: 'Elevii citesc în gând textul, apoi pe roluri: narator, Broasca, Iepurele. Observăm că morala stă la început, identificăm provocarea, întrecerea și victoria, discutăm atitudinea iepurelui și tonul țestoasei și alegem morala dintre variante. Încheiem cu lectura ilustrației lui Arthur Rackham.' },
       { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Elevii rezolvă fișa lecției, apoi prezint cărțile de la Biblioteci deschise, Antologia de fabule clasice românești și Domnul Fox, vulpoi fantastic de Roald Dahl.' },
@@ -362,7 +362,7 @@ export default {
       { etapa: 'Captarea atenției', timp: '4 min', activitate: 'Îi rog pe elevi să spună pe rând câte o noțiune de lectură sau de comunicare învățată în unitate.' },
       { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că recapitulăm lectura și comunicarea pe un text nou în versuri.' },
       { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '8 min', activitate: 'Reluăm textul narativ în versuri, fabula și morala, enumerația, personajele-măști, proverbele, dicția și inteligența emoțională.' },
-      { etapa: 'Dirijarea învățării', timp: '18 min', activitate: 'Citim întâmplarea cu cei doi prieteni și ursul din Povestea vorbei de Anton Pann, de la p. 150, și rezolvăm ghidat cerințele de lectură: rezumatul, naratorul, tabelul personajelor, gestul celui urcat în copac, semnificația pe grupe, diagrama Venn cu Uleul și găinile, enumerația, măsura și rima.' },
+      { etapa: 'Dirijarea învățării', timp: '18 min', activitate: 'Citim întâmplarea cu cei doi prieteni și ursul din Povestea vorbei de Anton Pann, de la p. 150, și rezolvăm ghidat cerințele de lectură: rezumatul, naratorul, tabelul personajelor, gestul celui urcat în copac, semnificația pe grupe, diagrama Venn cu Uliul și găinile, enumerația, măsura și rima.' },
       { etapa: 'Obținerea performanței', timp: '15 min', activitate: 'Elevii rezolvă quizul „Recapitulare, lectură și comunicare”, apoi discutăm răspunsurile greșite.' },
     ],
     evaluare: 'Observarea sistematică a elevilor; rezultatele la quiz.',

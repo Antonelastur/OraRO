@@ -696,7 +696,7 @@ if __name__ == "__main__":
                       "Crezi că băiatul din text chiar crede în oracol sau doar vrea să fie acceptat de colegi?",
                       "Art 6, Lecția 5, pp. 54-55")
     fisa_text_auxiliar("unitatea-2/lectia-7/fisa.pdf", "Unitatea II, Lecția 7",
-                       "Micuțul Nicolas de Sempé și Goscinny",
+                       "Micuțul Nicolas de René Goscinny, ilustrații de Sempé",
                        "Art 6, Lecția 6, „Noi pagini, alte idei”, pp. 56-57",
                        texte_baza="textul de bază al unității (Oracolul de Mircea Cărtărescu)")
     fisa_proiect_grila("unitatea-2/lectia-9/fisa.pdf", "Unitatea II, Lecția 9 · Proiect de grup",
@@ -751,16 +751,16 @@ if __name__ == "__main__":
 
     # ---------- Unitatea IV ----------
     fisa_semnificatii("unitatea-4/lectia-4/fisa.pdf",
-                      "Unitatea IV, Lecția 4 (manual, Lecția 4, partea 1/2) · Uleul și găinile",
+                      "Unitatea IV, Lecția 4 (manual, Lecția 4, partea 1/2) · Uliul și găinile",
                       "Cu ce personaj al fabulei ești de acord și cu ce personaj nu ești de acord? De ce?",
                       "Art 6, Lecția 4, p. 128")
     fisa_fabula_mesaj("unitatea-4/lectia-5/fisa.pdf",
                       "Unitatea IV, Lecția 5 (manual, Lecția 4, partea 2/2)",
-                      "Uleul și găinile", "Art 6, Lecția 4, p. 128")
+                      "Uliul și găinile", "Art 6, Lecția 4, p. 128")
     fisa_text_auxiliar("unitatea-4/lectia-6/fisa.pdf", "Unitatea IV, Lecția 6",
                        "Iepurele și broasca-țestoasă de Jean de La Fontaine",
                        "Art 6, Lecția 5, „Noi pagini, alte idei”, p. 129",
-                       texte_baza="textul de bază al unității (fabula Uleul și găinile)")
+                       texte_baza="textul de bază al unității (fabula Uliul și găinile)")
     fisa_pronume_caz("unitatea-4/lectia-12/fisa.pdf",
                      "Unitatea IV, Lecția 12 (manual, Lecția 8, partea 2/2)", "Art 6, Lecția 8, pp. 137-139")
     fisa_clitice("unitatea-4/lectia-14/fisa.pdf",

@@ -24,19 +24,19 @@ export const unitatea4 = {
   lectii: [
     {
       id: 'lectia-1',
-      titlu: 'Textul narativ literar în versuri. Uleul și găinile de Grigore Alexandrescu',
+      titlu: 'Textul narativ literar în versuri. Uliul și găinile de Grigore Alexandrescu',
       obiective: [
-        'Identifică informații esențiale din fabula Uleul și găinile de Grigore Alexandrescu.',
+        'Identifică informații esențiale din fabula Uliul și găinile de Grigore Alexandrescu.',
       ],
-      sursaManual: 'Manual, Lecția 1, pp. 122-123 (Uleul și găinile de Grigore Alexandrescu)',
+      sursaManual: 'Manual, Lecția 1, pp. 122-123 (Uliul și găinile de Grigore Alexandrescu)',
       rezolvareGhid: null,
       planLectie: {
-        titlu: 'Textul narativ literar în versuri. Uleul și găinile de Grigore Alexandrescu',
+        titlu: 'Textul narativ literar în versuri. Uliul și găinile de Grigore Alexandrescu',
         data: null,
         tipOra: 'Predare, lectură',
         durata: 50,
         obiective: [
-          'Identifică informații esențiale din fabula Uleul și găinile de Grigore Alexandrescu.',
+          'Identifică informații esențiale din fabula Uliul și găinile de Grigore Alexandrescu.',
         ],
         resurse: [
           'Manual Art 6, pp. 122-123',
@@ -66,7 +66,7 @@ export const unitatea4 = {
           {
             etapa: 'Dirijarea învățării',
             timp: '22 min',
-            activitate: 'Îl prezint pe Grigore Alexandrescu, considerat cel mai mare fabulist român, și citesc model textul de la pp. 122-123. Clarificăm cuvintele din subsol, uleu, a priimi, slobod, a slobozi, și urmărim momentele: uliul legat lângă coteț, promisiunea, eliberarea, trădarea, răspunsul uliului, versurile de final.',
+            activitate: 'Îl prezint pe Grigore Alexandrescu, considerat cel mai mare fabulist român, și citesc model textul de la pp. 122-123. Clarificăm cuvintele din subsol, uliu (în text apare forma regională uleu), a priimi, slobod, a slobozi, și urmărim momentele: uliul legat lângă coteț, promisiunea, eliberarea, trădarea, răspunsul uliului, versurile de final.',
           },
           {
             etapa: 'Obținerea performanței',
@@ -91,7 +91,7 @@ export const unitatea4 = {
       id: 'lectia-2',
       titlu: 'Acțiunea, timpul și spațiul. Structura textului',
       obiective: [
-        'Identifică acțiunea, elementele structurii textului narativ și indiciile de spațiu din fabula Uleul și găinile.',
+        'Identifică acțiunea, elementele structurii textului narativ și indiciile de spațiu din fabula Uliul și găinile.',
       ],
       sursaManual: 'Manual, Lecția 2, pp. 124-125',
       rezolvareGhid: null,
@@ -101,7 +101,7 @@ export const unitatea4 = {
         tipOra: 'Predare, lectură',
         durata: 50,
         obiective: [
-          'Identifică acțiunea, elementele structurii textului narativ și indiciile de spațiu din fabula Uleul și găinile.',
+          'Identifică acțiunea, elementele structurii textului narativ și indiciile de spațiu din fabula Uliul și găinile.',
         ],
         resurse: [
           'Manual Art 6, pp. 124-125',
@@ -223,7 +223,7 @@ export const unitatea4 = {
       id: 'lectia-4',
       titlu: 'Semnificațiile textului (I), discuție și opinie',
       obiective: [
-        'Formulează o opinie despre semnificația fabulei Uleul și găinile și despre atitudinile personajelor.',
+        'Formulează o opinie despre semnificația fabulei Uliul și găinile și despre atitudinile personajelor.',
       ],
       sursaManual: 'Manual, Lecția 4, p. 128, partea 1/2',
       rezolvareGhid: null,
@@ -233,7 +233,7 @@ export const unitatea4 = {
         tipOra: 'Predare, interpretare',
         durata: 50,
         obiective: [
-          'Formulează o opinie despre semnificația fabulei Uleul și găinile și despre atitudinile personajelor.',
+          'Formulează o opinie despre semnificația fabulei Uliul și găinile și despre atitudinile personajelor.',
         ],
         resurse: [
           'Manual Art 6, p. 128',
@@ -355,7 +355,7 @@ export const unitatea4 = {
       id: 'lectia-6',
       titlu: 'Text auxiliar. Iepurele și broasca-țestoasă de Jean de La Fontaine',
       obiective: [
-        'Compară structura fabulei Iepurele și broasca-țestoasă cu cea a fabulei Uleul și găinile.',
+        'Compară structura fabulei Iepurele și broasca-țestoasă cu cea a fabulei Uliul și găinile.',
       ],
       sursaManual: 'Manual, Lecția 5, „Noi pagini, alte idei”, p. 129 (Iepurele și broasca-țestoasă de Jean de La Fontaine)',
       rezolvareGhid: null,
@@ -365,7 +365,7 @@ export const unitatea4 = {
         tipOra: 'Lectură, text auxiliar',
         durata: 50,
         obiective: [
-          'Compară structura fabulei Iepurele și broasca-țestoasă cu cea a fabulei Uleul și găinile.',
+          'Compară structura fabulei Iepurele și broasca-țestoasă cu cea a fabulei Uliul și găinile.',
         ],
         resurse: [
           'Manual Art 6, pp. 129-131',
@@ -386,7 +386,7 @@ export const unitatea4 = {
           {
             etapa: 'Enunțarea subiectului și a obiectivelor',
             timp: '2 min',
-            activitate: 'Anunț că citim o fabulă de La Fontaine și o comparăm cu Uleul și găinile.',
+            activitate: 'Anunț că citim o fabulă de La Fontaine și o comparăm cu Uliul și găinile.',
           },
           {
             etapa: 'Reactualizarea cunoștințelor anterioare',
@@ -1455,7 +1455,7 @@ export const unitatea4 = {
           {
             etapa: 'Dirijarea învățării',
             timp: '18 min',
-            activitate: 'Citim întâmplarea cu cei doi prieteni și ursul din Povestea vorbei de Anton Pann, de la p. 150, și rezolvăm ghidat cerințele de lectură: rezumatul, naratorul, tabelul personajelor, gestul celui urcat în copac, semnificația pe grupe, diagrama Venn cu Uleul și găinile, enumerația, măsura și rima.',
+            activitate: 'Citim întâmplarea cu cei doi prieteni și ursul din Povestea vorbei de Anton Pann, de la p. 150, și rezolvăm ghidat cerințele de lectură: rezumatul, naratorul, tabelul personajelor, gestul celui urcat în copac, semnificația pe grupe, diagrama Venn cu Uliul și găinile, enumerația, măsura și rima.',
           },
           {
             etapa: 'Obținerea performanței',
