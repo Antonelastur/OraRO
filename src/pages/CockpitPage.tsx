@@ -1,28 +1,35 @@
 // Cockpitul orei. Mod special, fără sidebar și fără antet: profesorul îl
-// proiectează în clasă. Vezi docs/ux.md, secțiunea 5.
+// proiectează în clasă. Vezi docs/ux.md, secțiunile 5 și 14.
 import { useCallback, useEffect, useMemo, useState } from 'react'
-import { Link, useParams } from 'react-router-dom'
+import { Link, useNavigate, useParams } from 'react-router-dom'
 import { Check, ChevronLeft, ChevronRight, Pause, Play, RotateCcw, X } from 'lucide-react'
 import { clase } from '../data/clase.js'
 import { blocuriOra, durataTotala, formateazaCeas } from '@/lib/ora'
+import { cheieLectie, reflectieGoala, useJurnal } from '@/lib/jurnal'
+import { ReflectieOra } from '@/components/ReflectieOra'
 import type { Clase } from '@/types'
 
 const CLASE = clase as unknown as Clase
 
 export function CockpitPage() {
   const { clasa, unitate, lectie } = useParams()
+  const navigate = useNavigate()
   const dateClasa = CLASE[clasa!]
   const dateUnitate = dateClasa?.unitati.find((u) => u.id === unitate)
   const dateLectie = dateUnitate?.lectii.find((l) => l.id === lectie)
 
   const blocuri = useMemo(() => (dateLectie ? blocuriOra(dateLectie) : []), [dateLectie])
+  const { jurnal, salveaza } = useJurnal()
 
   const [pas, setPas] = useState(0)
   const [ramas, setRamas] = useState(0)
   const [merge, setMerge] = useState(false)
+  const [inchidere, setInchidere] = useState(false)
 
   const blocCurent = blocuri[pas]
   const caleLectie = `/${clasa}/${unitate}/${lectie}`
+  const cheie = cheieLectie(clasa!, unitate!, lectie!)
+  const ultimulPas = pas === blocuri.length - 1
 
   // La schimbarea pasului, cronometrul se reîncarcă cu durata blocului și se oprește.
   useEffect(() => {
@@ -39,8 +46,14 @@ export function CockpitPage() {
 
   const inainte = useCallback(() => setPas((p) => Math.min(p + 1, blocuri.length - 1)), [blocuri.length])
   const inapoi = useCallback(() => setPas((p) => Math.max(p - 1, 0)), [])
+  const incheie = useCallback(() => {
+    setMerge(false)
+    setInchidere(true)
+  }, [])
 
   useEffect(() => {
+    // Pe ecranul de închidere, tastele scriu în formular, nu conduc ora.
+    if (inchidere) return
     function laTasta(e: KeyboardEvent) {
       const tinta = e.target as HTMLElement | null
       if (tinta && ['INPUT', 'TEXTAREA'].includes(tinta.tagName)) return
@@ -55,7 +68,7 @@ export function CockpitPage() {
     }
     window.addEventListener('keydown', laTasta)
     return () => window.removeEventListener('keydown', laTasta)
-  }, [inainte, inapoi])
+  }, [inainte, inapoi, inchidere])
 
   if (!dateClasa || !dateUnitate || !dateLectie) {
     return (
@@ -81,6 +94,49 @@ export function CockpitPage() {
     )
   }
 
+  // Închiderea orei: marcarea ca parcursă și reflecția, docs/ux.md, secțiunea 14.
+  if (inchidere) {
+    return (
+      <div className="min-h-svh bg-bg px-6 py-10 text-ink lg:px-12">
+        <div className="mx-auto max-w-2xl">
+          <p className="text-sm font-semibold uppercase tracking-wide text-accent-ink">Ora s-a încheiat</p>
+          <h1 className="mt-2 text-2xl font-bold text-ink">{dateLectie.titlu}</h1>
+          <p className="mt-1 text-sm text-ink-soft">
+            Lecția se marchează ca parcursă azi. Câmpurile sunt opționale și se salvează doar pe acest calculator; le poți
+            completa și mai târziu, din pagina lecției.
+          </p>
+          <div className="mt-8">
+            <ReflectieOra
+              initial={jurnal[cheie]?.reflectie ?? reflectieGoala}
+              onSalveaza={(r) => {
+                salveaza(cheie, r, new Date().toISOString())
+                navigate(caleLectie)
+              }}
+            >
+              <button
+                type="submit"
+                className="inline-flex items-center gap-2 rounded-xl bg-accent px-6 py-3.5 text-base font-semibold text-navy hover:brightness-105"
+              >
+                <Check className="h-5 w-5" aria-hidden="true" />
+                Salvează și marchează ca parcursă
+              </button>
+              <button
+                type="button"
+                onClick={() => setInchidere(false)}
+                className="rounded-xl border border-border px-4 py-3.5 text-sm font-medium text-ink-soft hover:bg-ink/5"
+              >
+                Înapoi la oră
+              </button>
+              <Link to={caleLectie} className="ml-auto text-sm text-ink-soft underline hover:text-ink">
+                Ieși fără să salvez
+              </Link>
+            </ReflectieOra>
+          </div>
+        </div>
+      </div>
+    )
+  }
+
   const total = durataTotala(blocuri)
   const depasit = ramas < 0
 
@@ -94,13 +150,14 @@ export function CockpitPage() {
             {dateClasa.titlu} · {dateUnitate.titlu} · {total} min
           </p>
         </div>
-        <Link
-          to={caleLectie}
+        <button
+          type="button"
+          onClick={incheie}
           className="inline-flex shrink-0 items-center gap-1.5 rounded-lg border border-border px-3 py-2 text-sm font-medium text-ink-soft hover:bg-ink/5"
         >
           <X className="h-4 w-4" aria-hidden="true" />
           Închide ora
-        </Link>
+        </button>
       </header>
 
       <div className="flex flex-1 flex-col lg:flex-row">
@@ -161,15 +218,25 @@ export function CockpitPage() {
                 <ChevronLeft className="h-4 w-4" aria-hidden="true" />
                 Înapoi
               </button>
-              <button
-                type="button"
-                onClick={inainte}
-                disabled={pas === blocuri.length - 1}
-                className="inline-flex items-center gap-1.5 rounded-xl border border-accent bg-accent-soft px-5 py-3.5 text-sm font-semibold text-accent-ink hover:brightness-105 disabled:opacity-40"
-              >
-                Următorul pas
-                <ChevronRight className="h-4 w-4" aria-hidden="true" />
-              </button>
+              {ultimulPas ? (
+                <button
+                  type="button"
+                  onClick={incheie}
+                  className="inline-flex items-center gap-1.5 rounded-xl border border-accent bg-accent-soft px-5 py-3.5 text-sm font-semibold text-accent-ink hover:brightness-105"
+                >
+                  <Check className="h-4 w-4" aria-hidden="true" />
+                  Încheie ora
+                </button>
+              ) : (
+                <button
+                  type="button"
+                  onClick={inainte}
+                  className="inline-flex items-center gap-1.5 rounded-xl border border-accent bg-accent-soft px-5 py-3.5 text-sm font-semibold text-accent-ink hover:brightness-105"
+                >
+                  Următorul pas
+                  <ChevronRight className="h-4 w-4" aria-hidden="true" />
+                </button>
+              )}
             </div>
           </div>
 

@@ -44,10 +44,11 @@ src/
 ```
 
 **Distanța față de OraRO 2.0.** Aplicația de acum e, structural, o bibliotecă de
-resurse organizată pe clasă, unitate și lecție. Din ETAPA 1 nu există aproape
-nimic: lipsesc Ora de azi, cockpitul, timerul, planificarea, marcarea lecției ca
-parcursă, reflecția. Biblioteca, care e în ETAPA 2, e deja construită, un element
-făcut în afara ordinii.
+resurse organizată pe clasă, unitate și lecție. Din ETAPA 1 există cockpitul,
+cronometrul, navigarea între etape, marcarea lecției ca parcursă și reflecția
+după oră; lipsesc Ora de azi, planificarea și dashboardul în forma nouă.
+Biblioteca, care e în ETAPA 2, e deja construită, un element făcut în afara
+ordinii.
 
 ## 2. Decizia de arhitectură: strat de derivare, nu migrare
 

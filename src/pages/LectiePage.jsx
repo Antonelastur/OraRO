@@ -10,6 +10,7 @@ import Joc from '../components/Joc/index.jsx'
 import Infografic from '../components/Infografic.jsx'
 import Schema from '../components/Schema.jsx'
 import { PlanProfesor } from '../components/PlanProfesor.tsx'
+import { JurnalLectie } from '../components/JurnalLectie.tsx'
 import { areMateriale } from '../lib/lectii.ts'
 
 function LectiePage() {
@@ -65,6 +66,8 @@ function LectiePage() {
           </p>
         </div>
       )}
+
+      <JurnalLectie clasa={clasa} unitate={unitate} lectie={lectie} />
 
       {areMateriale(dateLectie) ? (
         <div className="mt-6 grid gap-4 sm:grid-cols-2">

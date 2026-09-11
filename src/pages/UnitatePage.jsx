@@ -6,10 +6,13 @@ import { MaterialChips } from '../components/MaterialChips.tsx'
 import { MotivUnitate } from '../components/MotivUnitate.tsx'
 import { ProgresBara } from '../components/ProgresBara.tsx'
 import { Tooltip, TooltipContent, TooltipTrigger } from '../components/ui/tooltip.tsx'
+import { Check } from 'lucide-react'
 import { areMateriale, completitudineLectie } from '../lib/lectii.ts'
+import { cheieLectie, useJurnal } from '../lib/jurnal.ts'
 
 function UnitatePage() {
   const { clasa, unitate } = useParams()
+  const { jurnal } = useJurnal()
   const dateClasa = clase[clasa]
   const dateUnitate = dateClasa?.unitati.find((u) => u.id === unitate)
 
@@ -50,6 +53,12 @@ function UnitatePage() {
                   {index + 1}
                 </span>
                 <span className="flex-1 text-base font-medium text-ink">{lectie.titlu}</span>
+                {jurnal[cheieLectie(clasa, unitate, lectie.id)] && (
+                  <span className="inline-flex shrink-0 items-center gap-1 rounded-full bg-good/10 px-2 py-1 text-xs font-medium text-good">
+                    <Check className="h-3.5 w-3.5" aria-hidden="true" />
+                    Parcursă
+                  </span>
+                )}
                 <MaterialChips materiale={lectie.materiale} />
                 <Tooltip>
                   <TooltipTrigger asChild>

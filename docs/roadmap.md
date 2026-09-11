@@ -33,16 +33,16 @@ Prioritate maximă.
 | Funcție | Stare | Note |
 |---|---|---|
 | Dashboard | Există, dar nu în forma cerută | Trebuie rescris în jurul cardului „Ora de azi" |
-| Ora de azi | **Nu există** | Blocată de lipsa `ScheduleItem` |
+| Ora de azi | **Nu există** | Blocată de lipsa `ScheduleItem`, orarul vine în octombrie 2026 |
 | Planificare | **Nu există** | Sursa e planificarea calendaristică din folderul de surse |
-| Unități de învățare | Există | `UnitatePage`, se păstrează |
-| Lecții | Există | `LectiePage`, `ClasaPage`, se păstrează |
-| Lecții modulare | **Nu există** | Blocurile există ca date la clasa a V-a, editarea nu |
-| Cockpitul orei | **Nu există** | Pornește din `planLectie.desfasurare` |
-| Timer | **Nu există** | |
-| Navigarea între blocuri | **Nu există** | |
-| Marcarea lecției ca parcursă | **Nu există** | `localStorage` până la backend |
-| Reflecția după oră | **Nu există** | `localStorage`, date private |
+| Unități de învățare | Există | `UnitatePage`, cu lecțiile parcurse marcate |
+| Lecții | Există | `LectiePage`, `ClasaPage`, cu jurnalul orei pe pagina lecției |
+| Lecții modulare | **Nu există** | Blocurile există ca date la toate clasele, editarea nu |
+| Cockpitul orei | Există | `CockpitPage`, pornește din `planLectie.desfasurare` |
+| Timer | Există | Cronometru pe fiecare etapă, cu depășire marcată |
+| Navigarea între blocuri | Există | Butoane, săgeți, lista etapelor din lateral |
+| Marcarea lecției ca parcursă | Există | Din cockpit („Închide ora”, „Încheie ora”) sau din pagina lecției; `localStorage`, un singur browser |
+| Reflecția după oră | Există | Câmpurile din `docs/ux.md` §14, `src/lib/jurnal.ts`; `localStorage`, date private |
 
 **Rezultat așteptat:** profesorul intră în OraRO și conduce o oră completă.
 
@@ -57,6 +57,9 @@ următorul:
 4. Cockpitul orei, cu timer și navigare între blocuri.
 5. Închiderea orei, marcarea ca parcursă, reflecția.
 6. Dashboardul rescris în jurul cardului „Ora de azi".
+
+**Stare la 2026-09-11:** pașii 1, 4 și 5 sunt făcuți. Pașii 2 și 3 așteaptă
+orarul, care vine în octombrie 2026; pasul 6 vine după „Ora de azi”.
 
 Nu trece la funcții complexe înainte ca acest flux să fie stabil.
 
@@ -120,10 +123,16 @@ clase.
 | Clasă | Lecții | `planLectie` | Prioritate |
 |---|---|---|---|
 | a V-a | 120 | 120 din 120 | Gata |
-| a VIII-a | ~132 | 0 | A doua prioritate, se predă anul acesta |
-| a VI-a | ~121 | 0 | La anul |
-| a VII-a | ~102 | 0 | Peste doi ani |
+| a VIII-a | 119 | 119 din 119 | Gata, se predă anul acesta |
+| a VI-a | 122 | 122 din 122 | Gata, se predă la anul |
+| a VII-a | 119 | 119 din 119 | Gata, se predă peste doi ani |
 
-Fără `planLectie`, o clasă nu are blocuri, deci cockpitul nu are ce afișa pentru
-ea. Metoda de generare e stabilită, vezi `docs/continut-si-stil.md` și
-`scripts/planuri/`.
+Toate lecțiile au blocuri, deci cockpitul poate conduce orice oră. Metoda de
+redactare e în `docs/continut-si-stil.md` și `scripts/planuri/`.
+
+**Materiale, stare la 2026-09-11.** A V-a și a VIII-a au quizuri și scheme
+unde se pot face fără NotebookLM; lipsesc prezentările și video-urile din
+briefurile din `docs/materiale-de-generat/`. A VI-a și a VII-a au fișe, câteva
+quizuri și scheme, dar zeci de lecții fără material de exersare sau de predare.
+Schemele existente sunt prea sumare și trebuie refăcute ca notițe complete ale
+lecției, cele pe care elevii le scriu în caiet și din care învață acasă.
