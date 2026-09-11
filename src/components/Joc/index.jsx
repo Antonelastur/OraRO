@@ -31,7 +31,7 @@ function Joc({ joc }) {
   // jocuri de energizare), vin ca fișier de tipărit, nu ca quiz.
   if (joc.fisier) {
     return (
-      <MaterialCard tip="joc" titlu={`Joc: ${joc.titlu}`} Icon={Gamepad2}>
+      <MaterialCard tip="joc" titlu={joc.titlu ? `Joc: ${joc.titlu}` : 'Joc'} Icon={Gamepad2}>
         <a
           className="inline-flex items-center gap-1 text-sm font-medium text-[var(--card-ink)] hover:underline"
           href={caleMaterial(joc.fisier)}
