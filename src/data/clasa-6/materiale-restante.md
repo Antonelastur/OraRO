@@ -48,7 +48,7 @@ Fișele lecțiilor 2, 5, 6, 8, 11, 13, 21 și 22 și infograficele lecțiilor 7,
 
 | Lecție | Titlu | Lipsește |
 |---|---|---|
-| lectia-1 | Textul narativ literar în versuri. Ulucul și găinile | prezentare |
+| lectia-1 | Textul narativ literar în versuri. Uleul și găinile | prezentare |
 | lectia-23 | Evaluare, probă scrisă | test (Google Forms) |
 
 Fișele lecțiilor 4, 5, 6, 12, 14, 17, 18 și 20 și infograficul lecției 8 sunt gata, integrate în cod.

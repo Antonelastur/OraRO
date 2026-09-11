@@ -14,7 +14,8 @@
 // materiale-restante.md conține lista completă, cumulativă, pe toate cele
 // cinci unități, pentru o sesiune dedicată de completare.
 //
-// rezolvareGhid și planLectie rămân null, document intern, nu se publică.
+// rezolvareGhid rămâne null, document intern, nu se publică. planLectie conține
+// o schiță de plan în 6 pași, afișată sub eticheta discretă „Doar profesor”.
 //
 // Materiale: schema pentru lecțiile 3, 4, 8, 14, 16, 18. Joc pentru 12, 20,
 // 21. Restul rămân null, listate în materiale-restante.md.
@@ -31,7 +32,53 @@ export const unitatea5 = {
       ],
       sursaManual: 'Manual, Proiect de grup, p. 175',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Proiectul „Comunitățile din jurul României” (anunțare)',
+        data: null,
+        tipOra: 'Proiect, anunțare',
+        durata: 50,
+        obiective: [
+          'Se familiarizează cu tema, sarcinile și criteriile de evaluare ale proiectului de grup Comunitățile din jurul României.',
+        ],
+        resurse: [
+          'Manual Art 6, p. 175',
+          'Fișa lecției (/materiale/clasa-6/unitatea-5/lectia-1/fisa.pdf)',
+          'Bilețele pentru tragerea la sorți',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '5 min',
+            activitate: 'Îi întreb pe elevi ce țări se învecinează cu România și dacă știu locuri din afara granițelor unde trăiesc români.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț proiectul de grup al ultimei unități: comunitățile românești din țările vecine, prezentat peste trei săptămâni.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '5 min',
+            activitate: 'Ne amintim de proiectul Prietenia în filme: ce a mers bine în lucrul pe grupe și ce ar trebui îmbunătățit.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '22 min',
+            activitate: 'Explic sarcina de la p. 175: cinci grupe, câte una pentru Bulgaria, Republica Moldova, Serbia, Ucraina și Ungaria. Stabilim ce caută fiecare grupă, poziția țării, populația, limba oficială, regiunile cu români, numărul lor aproximativ, personalități, calendarul pe trei săptămâni și formele de prezentare posibile.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '13 min',
+            activitate: 'Tragem la sorți țările, apoi fiecare grupă completează fișa lecției cu rolurile membrilor. Citim criteriile de evaluare: conținutul, munca în echipă, prezentarea.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; fișa de organizare a grupei, fără notare.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -51,7 +98,52 @@ export const unitatea5 = {
       ],
       sursaManual: 'Manual, Lecția 1, pp. 154-157 (D-l Goe... de I.L. Caragiale)',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Textul narativ literar. D-l Goe... de I.L. Caragiale',
+        data: null,
+        tipOra: 'Predare, lectură',
+        durata: 50,
+        obiective: [
+          'Identifică informații esențiale din textul narativ D-l Goe... de I.L. Caragiale.',
+        ],
+        resurse: [
+          'Manual Art 6, pp. 154-157',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '7 min',
+            activitate: 'Elevii spun cu ce mijloace de transport au călătorit și care li s-a părut cel mai confortabil, apoi, în perechi, stabilesc cinci reguli de purtare într-un mijloc de transport în comun.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că deschidem ultima unitate cu o călătorie cu trenul povestită de I.L. Caragiale.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '4 min',
+            activitate: 'Îi întreb cine cred că e personajul unui text numit D-l Goe... și cum și-l imaginează.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '24 min',
+            activitate: 'Îl prezint pe I.L. Caragiale și volumul Momente și schițe, apoi citesc model textul de la pp. 154-157. Clarificăm cuvintele din subsol, 10 Mai, urbe, impacient, cupeu, macaz, manivelă, bulivar, și urmărim întâmplările: așteptarea pe peron, disputa despre „mariner”, pălăria zburată cu biletul, nasul lovit de clanță, ușa încuiată, semnalul de alarmă, sosirea la București.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '10 min',
+            activitate: 'Elevii completează cele patru cadrane ale impresiilor de lectură, apoi caută în text cuvintele cu formă greșită, marinel, ciucalată, bulivar, și le dau forma corectă.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; verificarea impresiilor de lectură.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -71,7 +163,53 @@ export const unitatea5 = {
       ],
       sursaManual: 'Manual, Lecția 2, pp. 158-159',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Acțiunea, spațiul și timpul',
+        data: null,
+        tipOra: 'Predare, lectură',
+        durata: 50,
+        obiective: [
+          'Identifică spațiul și indiciile temporale ale unei călătorii, pe baza textului D-l Goe...',
+        ],
+        resurse: [
+          'Manual Art 6, pp. 158-159',
+          'Schema „Acțiunea, spațiul și timpul” (/materiale/clasa-6/unitatea-5/lectia-3/schema.svg)',
+          'O hartă sau acces la internet',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '5 min',
+            activitate: 'Îi întreb pe elevi din ce oraș pleacă Goe și de ce autorul scrie doar „urbea X”.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că urmărim traseul călătoriei, locurile și timpul întâmplărilor.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '5 min',
+            activitate: 'Reamintim timpul, spațiul și momentele subiectului din Unitatea II.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '23 min',
+            activitate: 'În perechi, elevii împart textul în fragmente și găsesc cuvintele-cheie. Cu ajutorul schemei stabilim spațiul de început, al întâmplărilor și cel final, locurile din tren și localitățile Crivina, Periș, Buftea, pe care le verificăm pe hartă. Completăm tabelul indicilor de timp: 10 Mai, dimineața, ora sosirii, întârzierea, oprirea de la kilometrul 24. Stabilim naratorul și fixăm Reperele despre schiță.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '12 min',
+            activitate: 'Pe grupe, elevii rezumă oral textul prin metoda ștafetei, apoi citim fragmentul din În intimitatea secolului 19 de Ioana Pârvulescu, despre ziua de 10 Mai 1900 la București.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; aprecieri pe rezumatele orale.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -91,7 +229,53 @@ export const unitatea5 = {
       ],
       sursaManual: 'Manual, Lecția 3, pp. 160-161',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Dialogul în textul literar',
+        data: null,
+        tipOra: 'Predare, lectură',
+        durata: 50,
+        obiective: [
+          'Recunoaște replicile și verbele de declarație într-un text narativ dialogat.',
+        ],
+        resurse: [
+          'Manual Art 6, pp. 160-161',
+          'Schema „Dialogul în textul literar” (/materiale/clasa-6/unitatea-5/lectia-4/schema.svg)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '5 min',
+            activitate: 'Pe grupe, ca pentru o punere în scenă, elevii atribuie replicile personajelor și numără cine vorbește cel mai mult.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că învățăm cum e construit dialogul într-un text literar.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '5 min',
+            activitate: 'Reamintim linia de dialog și replicile din textele citite în unitățile anterioare.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '23 min',
+            activitate: 'Pe schimbul dintre mamiță și Goe, „Las’ că știu eu că te prefaci!”, deosebim dialogul de replicile izolate. Cu ajutorul schemei explic replica, linia de dialog, verbele de declarație, zice, răspunde, întrerupe, zbiară, și locul lor, înainte, după sau în interiorul replicii. Discutăm rolul semnelor exclamării, întrebării și al punctelor de suspensie și de ce e scris „Mamițoo!” sau „opreascăăă”.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '12 min',
+            activitate: 'Pe grupe, elevii caută în text tipurile de replici de la p. 160: scurte, întrerupte, întrebare-răspuns, mai multe întrebări la rând. Ca temă, două grupe pregătesc sceneta de la Provocări.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; aprecieri.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -111,7 +295,53 @@ export const unitatea5 = {
       ],
       sursaManual: 'Manual, Lecția 4, pp. 162-163',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Personajele',
+        data: null,
+        tipOra: 'Predare, lectură',
+        durata: 50,
+        obiective: [
+          'Identifică trăsăturile personajelor din textul D-l Goe..., pe baza acțiunilor și a replicilor lor.',
+        ],
+        resurse: [
+          'Manual Art 6, pp. 162-163',
+          'Fișa lecției (/materiale/clasa-6/unitatea-5/lectia-5/fisa.pdf)',
+          'Coli mari pentru harta personajelor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '5 min',
+            activitate: 'Îi întreb pe elevi care e personajul principal și le cer să grupeze celelalte personaje în secundare și episodice.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că aflăm cum e Goe și ce spun despre el faptele și vorbele lui și ale celor din jur.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '5 min',
+            activitate: 'Reamintim, din Unitatea II, că trăsăturile unui personaj pot fi numite sau deduse.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '18 min',
+            activitate: 'Citim ce spune naratorul despre Goe în primul paragraf, apoi replicile celorlalți despre el, „E lucru mare, cât e de deștept!”, „Nu știi ce simțitor e?”, și atitudinea lor. Deducem trăsăturile din faptele lui și din replicile „Eu vreau să vie!”, „Pe tine nu vreau!”, cu rolul pronumelui eu. Fixăm Reperele: figuranții și rolul dialogului în construirea personajului.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '17 min',
+            activitate: 'Pe grupe, elevii realizează harta personajelor, cu Goe în mijloc și săgeți pe care notează atitudinile, iar un reprezentant o prezintă. Apoi rezolvă fișa lecției.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; harta personajelor; fișa lecției.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -131,7 +361,53 @@ export const unitatea5 = {
       ],
       sursaManual: 'Manual, Lecția 5, pp. 164-165',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Semnificațiile textului',
+        data: null,
+        tipOra: 'Predare, interpretare',
+        durata: 50,
+        obiective: [
+          'Formulează o opinie argumentată despre semnificația textului D-l Goe..., inclusiv despre ironia din text.',
+        ],
+        resurse: [
+          'Manual Art 6, pp. 164-165',
+          'Fișa lecției (/materiale/clasa-6/unitatea-5/lectia-6/fisa.pdf)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '5 min',
+            activitate: 'Îi întreb pe elevi ce sugerează titlul, „D-l” urmat de un nume de alint și de puncte de suspensie.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că discutăm ce vrea să arate Caragiale și cum ne face să râdem.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '5 min',
+            activitate: 'Reluăm trăsăturile lui Goe și ale celor trei cucoane de ora trecută.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '22 min',
+            activitate: 'Discutăm titlul inițial, 10 Mai, și contrastul dintre sărbătoare și întâmplare, apoi situațiile în care Goe îi imită pe adulți. Explicăm comicul din „Mam’ mare își face cruce, apoi aprinde o țigară...” și ironia naratorului din „discuții filologice” și „centrul de gravitate”. Încheiem cu linia valorică: e Goe vinovat pentru felul în care se poartă?',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '13 min',
+            activitate: 'Elevii rezolvă fișa lecției, apoi scriu un scurt mesaj către cele trei femei despre efectul purtării lor asupra lui Goe.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; fișa lecției. Temă de portofoliu: cvintetul despre un personaj.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -151,7 +427,53 @@ export const unitatea5 = {
       ],
       sursaManual: 'Manual, Lecția 6, pp. 166-167 (Motive pentru care călătoriile te fac mai bun de Samantha Fanelli)',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Textul argumentativ. Motive pentru care călătoriile te fac mai bun de Samantha Fanelli',
+        data: null,
+        tipOra: 'Predare, lectură nonliterară',
+        durata: 50,
+        obiective: [
+          'Identifică argumentele dintr-un text argumentativ despre efectele pozitive ale călătoriilor.',
+        ],
+        resurse: [
+          'Manual Art 6, pp. 166-167',
+          'Fișa lecției (/materiale/clasa-6/unitatea-5/lectia-7/fisa.pdf)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '6 min',
+            activitate: 'Privim cele patru imagini de la p. 166 și îi întreb în care dintre locuri le-ar plăcea să ajungă și de ce.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că citim un text care vrea să ne convingă de ceva și căutăm argumentele lui.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '5 min',
+            activitate: 'Elevii continuă enunțurile de la p. 166 despre ultima lor călătorie: ce a fost interesant, ce a fost greu, ce au aflat despre ei.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '22 min',
+            activitate: 'O prezint pe Samantha Fanelli și citesc model textul. Elevii completează cadranele impresiilor, apoi alegem tema dintre variantele de la p. 167, legăm textul de imaginea cu obiecte de călătorie și căutăm o asemănare cu D-l Goe....',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '12 min',
+            activitate: 'Elevii rezolvă fișa lecției, apoi fiecare formulează un argument propriu pentru ideea că, prin călătorii, devii mai bun.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; fișa lecției; aprecieri.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -171,7 +493,53 @@ export const unitatea5 = {
       ],
       sursaManual: 'Manual, Lecția 7, pp. 168-169',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Organizarea textului argumentativ',
+        data: null,
+        tipOra: 'Predare, lectură nonliterară',
+        durata: 50,
+        obiective: [
+          'Identifică ipoteza, argumentele și concluzia unui text argumentativ.',
+        ],
+        resurse: [
+          'Manual Art 6, pp. 168-169',
+          'Schema „Organizarea textului argumentativ” (/materiale/clasa-6/unitatea-5/lectia-8/schema.svg)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '5 min',
+            activitate: 'Îi întreb pe elevi cu ce scop a fost scris textul: să amuze, să convingă, să informeze sau să uimească.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că învățăm din ce se compune un text argumentativ.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '5 min',
+            activitate: 'Reamintim introducerea, cuprinsul și încheierea unei compuneri și le delimităm în textul Samanthei Fanelli.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '23 min',
+            activitate: 'Pe modelul de la p. 168, „Este bine să călătorești, pentru că…”, găsim în text premisa, două argumente, exemplele care le susțin, Colosseumul și Machu Picchu, contraargumentul introdus prin „Pe de altă parte” și concluzia. Cu ajutorul schemei fixăm Reperele și formulele textului argumentativ: de ierarhizare, de exemplificare, de legătură, de concluzie.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '12 min',
+            activitate: 'Elevii reformulează ipoteza și primul argument cu propriile cuvinte, apoi completează autoevaluarea pentru lecțiile 1-7.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; autoevaluarea achizițiilor din lecțiile 1-7. Temă de portofoliu: textul „Este important să știi să argumentezi?”.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -191,7 +559,53 @@ export const unitatea5 = {
       ],
       sursaManual: 'Manual, Lecția 8, „Noi pagini, alte idei”, pp. 170-171 (George și cheia secretă a Universului de Lucy și Stephen Hawking)',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Text auxiliar. George și cheia secretă a Universului de Lucy și Stephen Hawking',
+        data: null,
+        tipOra: 'Lectură, text auxiliar',
+        durata: 50,
+        obiective: [
+          'Formulează idei și puncte de vedere pe baza fragmentului auxiliar George și cheia secretă a Universului.',
+        ],
+        resurse: [
+          'Manual Art 6, pp. 170-171',
+          'Fișa lecției (/materiale/clasa-6/unitatea-5/lectia-9/fisa.pdf)',
+          'Creioane, pentru notarea pe margine',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '5 min',
+            activitate: 'Îi întreb pe elevi ce știu despre planetele Sistemului Solar și care e cea mai mare.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că citim o călătorie printre planete și că vom compara ce aflăm cu ce știam deja.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '5 min',
+            activitate: 'Explic metoda SINELG de la p. 170, cu cele patru semne pe margine: confirmă ce știam, contrazice, informație nouă, neclar.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '22 min',
+            activitate: 'Elevii citesc individual fragmentul, notând semnele, apoi le confruntă în perechi. Discutăm ce s-a confirmat, ce a contrazis ce știau și lămurim semnele de întrebare. Stabilim unde se petrece întâmplarea, ce trăsături au George și Annie și găsim replicile în care Annie îl tachinează.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '13 min',
+            activitate: 'Elevii rezolvă fișa lecției, apoi prezint cele două cărți de la Biblioteci deschise, Toate pânzele sus! și Călătoriile lui Gulliver.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; fișa lecției.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -211,7 +625,53 @@ export const unitatea5 = {
       ],
       sursaManual: 'Manual, Lecția 9, pp. 172-174',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Limba română în Europa. Comunitatea lingvistică a vorbitorilor de limbă română de pretutindeni',
+        data: null,
+        tipOra: 'Interculturalitate',
+        durata: 50,
+        obiective: [
+          'Identifică informații despre comunitatea lingvistică a vorbitorilor de limbă română din Europa.',
+        ],
+        resurse: [
+          'Manual Art 6, pp. 172-174',
+          'Infograficul „Limba română în Europa” (/materiale/clasa-6/unitatea-5/lectia-10/infografic.svg)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '6 min',
+            activitate: 'Pe grupe, elevii privesc harta Europei de la p. 172 și numesc limbile oficiale ale cât mai multor țări.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că aflăm unde se vorbește limba română în lume și ce înseamnă ea pentru cei care o vorbesc departe de casă.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '4 min',
+            activitate: 'Îi întreb în ce țări cred că se vorbește românește fără să fie limbă națională.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '23 min',
+            activitate: 'Citim grupajul de la pp. 172-173: În limba ta de Grigore Vieru, Despre limba română de Nichita Stănescu și e-mailul Luminiței, elevă româncă la o școală din Castellon, în Spania. Discutăm temele, sentimentele față de limbă, cursul de „Limbă, cultură și civilizație românească” și sensul cuvântului diaspora. Cu infograficul fixăm Reperele: vorbitorii, țările unde româna e limbă oficială, comunitățile din Europa și de pe alte continente.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '12 min',
+            activitate: 'Discutăm enunțul „Limba română este patria mea”, apoi fiecare elev scrie, în 30-50 de cuvinte, ce reprezintă pentru el limba română.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; aprecieri pe textele scrise, pentru portofoliu.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -231,7 +691,53 @@ export const unitatea5 = {
       ],
       sursaManual: 'Manual, Proiect de grup, p. 175',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Prezentarea proiectului „Comunitățile din jurul României”',
+        data: null,
+        tipOra: 'Proiect, prezentare și evaluare',
+        durata: 50,
+        obiective: [
+          'Prezintă și evaluează, pe grupe, proiectul Comunitățile din jurul României, conform criteriilor stabilite.',
+        ],
+        resurse: [
+          'Manual Art 6, p. 175, criteriile de evaluare',
+          'Fișa lecției (/materiale/clasa-6/unitatea-5/lectia-11/fisa.pdf)',
+          'Produsele grupelor, postere sau prezentări',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '3 min',
+            activitate: 'Tragem la sorți ordinea în care prezintă cele cinci grupe.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că fiecare grupă are câteva minute pentru prezentare și că la final discutăm ce am descoperit.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '4 min',
+            activitate: 'Recitim criteriile de la p. 175: conținutul, munca în echipă, prezentarea.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '3 min',
+            activitate: 'Distribui fișele de evaluare pentru grupele care ascultă.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '35 min',
+            activitate: 'Grupele prezintă comunitățile românești din Bulgaria, Republica Moldova, Serbia, Ucraina și Ungaria, iar colegii completează fișele. La final, discutăm ce au aflat despre aceste comunități și despre ei înșiși, lucrând în echipă.',
+          },
+        ],
+        evaluare: 'Evaluare pe grila de la p. 175; interevaluare.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -251,7 +757,52 @@ export const unitatea5 = {
       ],
       sursaManual: 'Manual, Lecția 10, pp. 176-177',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Performarea actelor de limbaj',
+        data: null,
+        tipOra: 'Comunicare orală',
+        durata: 50,
+        obiective: [
+          'Recunoaște actele de limbaj (promisiune, felicitare, interzicere, recomandare) dintr-o secvență de comunicare.',
+        ],
+        resurse: [
+          'Manual Art 6, pp. 176-177',
+          'Quizul „Performarea actelor de limbaj” (materialul de joc al lecției)',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '5 min',
+            activitate: 'Privim vinietele din banda desenată D-l Goe... de la p. 176 și stabilim contextul: unde are loc schimbul de replici, cine sunt interlocutorii, ce statut au.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că învățăm ce este un act de limbaj și de ce același enunț poate avea efecte diferite.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '5 min',
+            activitate: 'Reamintim contextul de comunicare din Unitatea I pe replica tânărului către Goe: „Nu e voie să scoți capul pe fereastră, mititelule!”.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '17 min',
+            activitate: 'Discutăm ce fel de enunț e replica tânărului, ce intenție are și ce efect produce asupra lui Goe. Fixăm Reperele: secvența lingvistică, intenția și efectul, cum se exprimă intenția prin verbe ca promit sau rog, prin imperativ, ton și gesturi, act eficient sau ineficient. Aplicăm pe „Ceaiul e atât de rece!” și pe tabelul cu „E frig aici!”.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '18 min',
+            activitate: 'Trei perechi joacă scene de călătorie cu replica „Vom vedea mai târziu!”, pe rând ca anticipare, promisiune și amenințare, iar colegii le evaluează pe criteriile de la p. 177. Toți rezolvă apoi quizul „Performarea actelor de limbaj”.',
+          },
+        ],
+        evaluare: 'Evaluare pe grila jocului de rol; rezultatele la quiz.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -306,7 +857,53 @@ export const unitatea5 = {
       ],
       sursaManual: 'Manual, Lecția 11, pp. 178-179',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Strategii de concepere și comprehensiune a textului oral',
+        data: null,
+        tipOra: 'Comunicare orală',
+        durata: 50,
+        obiective: [
+          'Identifică parafraze și diferențiază informațiile explicite de cele implicite dintr-un text oral.',
+        ],
+        resurse: [
+          'Manual Art 6, pp. 178-179',
+          'Fișa lecției (/materiale/clasa-6/unitatea-5/lectia-13/fisa.pdf)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '5 min',
+            activitate: 'Citim bulele de dialog de la librărie de la p. 178, cu băiatul care cere Ghidul exploratorului.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că învățăm să reformulăm ce spune altcineva și să înțelegem și ce nu se spune direct.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '5 min',
+            activitate: 'Reamintim, din rezumatul oral, regula reformulării cu propriile cuvinte.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '20 min',
+            activitate: 'Stabilim ce vrea să spună de fapt băiatul și comparăm, într-o diagramă Venn, replica librarului cu reformularea băiatului. Fixăm Reperele despre parafrază, cu sinonime sau cu reformulare completă, apoi despre informațiile explicite și implicite: ce spune direct băiatul și ce deducem din entuziasmul lui.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '15 min',
+            activitate: 'Elevii rezolvă fișa lecției, apoi, în perechi, fiecare își prezintă destinația preferată, iar colegul o parafrazează și e evaluat pe grila de la p. 179.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; fișa lecției; evaluare pe grila parafrazei.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -326,7 +923,53 @@ export const unitatea5 = {
       ],
       sursaManual: 'Manual, Lecția 12, pp. 180-181',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Adjectivul (actualizare)',
+        data: null,
+        tipOra: 'Predare, gramatică',
+        durata: 50,
+        obiective: [
+          'Reactualizează acordul adjectivului cu substantivul determinat, în gen, număr și caz.',
+        ],
+        resurse: [
+          'Manual Art 6, pp. 180-181',
+          'Schema „Adjectivul (actualizare)” (/materiale/clasa-6/unitatea-5/lectia-14/schema.svg)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '5 min',
+            activitate: 'Privim imaginea Sistemului Solar de la p. 180, iar câțiva elevi descriu o planetă, formă, culoare, mărime, și o compară cu celelalte.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că reluăm adjectivul, cu acordul și gradele lui de comparație.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '6 min',
+            activitate: 'Pe textul despre Saturn găsim adjectivele, propriu-zise sau provenite din participiu, locul lor și formele lui drăguț, mic, cuminte.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '22 min',
+            activitate: 'Cu ajutorul schemei reluăm adjectivele variabile, cu patru, trei sau două forme, și invariabile, antiglonț, eficace, vernil, acordul cu substantivul și articolul demonstrativ cel, cea, cei, cele. Parcurgem gradele de comparație pe tabelul cu „piatră strălucitoare” și adjectivele fără grade: superior, unic, cosmic.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '12 min',
+            activitate: 'Elevii găsesc adjectivele din textul despre comete, cu felul și gradul lor, apoi sortează lista de la p. 181 în adjective variabile și invariabile.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; aprecieri.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -346,7 +989,53 @@ export const unitatea5 = {
       ],
       sursaManual: 'Manual, Lecția 13, pp. 182-183',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Posibilități combinatorii ale adjectivului',
+        data: null,
+        tipOra: 'Predare, gramatică',
+        durata: 50,
+        obiective: [
+          'Recunoaște funcția sintactică a adjectivului și complementele care determină un adjectiv.',
+        ],
+        resurse: [
+          'Manual Art 6, pp. 182-183',
+          'Fișa lecției (/materiale/clasa-6/unitatea-5/lectia-15/fisa.pdf)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '5 min',
+            activitate: 'Pe grupe, elevii găsesc adjectivele din textul despre inelele lui Saturn de la p. 182 și le stabilesc funcția.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că vedem ce funcții are adjectivul și ce cuvinte se pot lega de el.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '5 min',
+            activitate: 'Reamintim atributul și numele predicativ din unitățile II și III.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '22 min',
+            activitate: 'Pe Reperele de la p. 182 explic adjectivul adjunct, atribut adjectival sau nume predicativ acordat cu subiectul, apoi adjectivul centru, cu propriile determinări: „dornic de aventură”, „recunoscător prietenilor”, „ud la picioare”, „agitată încă de la primirea veștii”, „strălucitoare ca soarele”.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '13 min',
+            activitate: 'Elevii rezolvă fișa lecției, apoi subliniază adjectivele din enunțurile despre Dumitru Prunariu și Neil Armstrong și le precizează funcția.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; fișa lecției.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -366,7 +1055,53 @@ export const unitatea5 = {
       ],
       sursaManual: 'Manual, Lecția 14, pp. 184-185',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Adverbul. Felurile adverbului',
+        data: null,
+        tipOra: 'Predare, gramatică',
+        durata: 50,
+        obiective: [
+          'Identifică adverbele de loc, de timp și de mod într-un text dat.',
+        ],
+        resurse: [
+          'Manual Art 6, pp. 184-185',
+          'Schema „Adverbul. Felurile adverbului” (/materiale/clasa-6/unitatea-5/lectia-16/schema.svg)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '5 min',
+            activitate: 'Elevii completează mesajul Alinei către Miruna de la p. 184 cu cuvintele acasă, astăzi, repede.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că învățăm adverbul și felurile lui.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '5 min',
+            activitate: 'Reamintim circumstanțialele de loc, de timp și de mod din Unitatea III.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '22 min',
+            activitate: 'Grupăm cuvintele colorate din biletul Alinei după ce arată: locul, timpul, felul acțiunii. Cu ajutorul schemei definesc adverbul, care determină un verb și nu își schimbă forma, și felurile lui, de loc, de timp, de mod, apoi le căutăm în textul despre istoria căilor ferate.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '13 min',
+            activitate: 'Elevii găsesc intrusul din seriile de la p. 185, apoi, pe grupe, scriu o narațiune de patru propoziții cu verbele a descoperi, a plăcea, a zbura și adverbele departe, întotdeauna, repede.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; aprecieri.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -386,7 +1121,53 @@ export const unitatea5 = {
       ],
       sursaManual: 'Manual, Lecția 15, pp. 186-187',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Gradele de comparație și funcțiile sintactice ale adverbului',
+        data: null,
+        tipOra: 'Predare, gramatică',
+        durata: 50,
+        obiective: [
+          'Recunoaște gradele de comparație ale adverbului și funcția lui sintactică.',
+        ],
+        resurse: [
+          'Manual Art 6, pp. 186-187',
+          'Fișa lecției (/materiale/clasa-6/unitatea-5/lectia-17/fisa.pdf)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '5 min',
+            activitate: 'Citim replicile din ilustrația de la p. 186 despre prezentările proiectelor, „la fel de bine”, „cel mai bine”, „foarte bine”, și observăm cum se schimbă aprecierea.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că învățăm gradele de comparație și funcțiile adverbului.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '5 min',
+            activitate: 'Reamintim gradele de comparație ale adjectivului.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '22 min',
+            activitate: 'Pe tabelul cu „învață bine” parcurgem gradele adverbului și observăm că multe adverbe nu au grade: acolo, ieri, firește. Punem întrebări pentru a afla funcțiile adverbelor, circumstanțial de loc, de timp, de mod, și deosebim semiadverbele fără funcție sintactică: „Îl tot caut.”, „Mă cam grăbesc.”.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '13 min',
+            activitate: 'Elevii rezolvă fișa lecției, apoi găsesc adverbele din textul despre copiii din curte, cu gradul și funcția lor, și completează autoevaluarea pentru lecțiile 12-15.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; fișa lecției; autoevaluarea achizițiilor din lecțiile 12-15.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -406,7 +1187,53 @@ export const unitatea5 = {
       ],
       sursaManual: 'Manual, Lecția 16, p. 188, partea 1/2',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Transformarea vorbirii directe în indirectă (I), comparare texte',
+        data: null,
+        tipOra: 'Redactare',
+        durata: 50,
+        obiective: [
+          'Compară un text la vorbire directă cu varianta lui la vorbire indirectă, identificând schimbările produse.',
+        ],
+        resurse: [
+          'Manual Art 6, pp. 188-189',
+          'Schema „Vorbirea directă și vorbirea indirectă” (/materiale/clasa-6/unitatea-5/lectia-18/schema.svg)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '5 min',
+            activitate: 'Privim cele trei viniete de la p. 188, cu Maria care vorbește la telefon, și îi întreb prin ce diferă cele două replici ale băiatului.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că învățăm să trecem spusele cuiva din vorbire directă în vorbire indirectă.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '5 min',
+            activitate: 'Reamintim dialogul, linia de dialog și verbele de declarație din Lecția 3.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '23 min',
+            activitate: 'Comparăm fragmentul din D-l Goe... de la p. 188 cu varianta lui la vorbire indirectă: ce semne dispar, ce se întâmplă cu persoana verbelor și a pronumelor, ce cuvinte urmează după verbele de declarație, cum devine imperativul „ieși” conjunctiv, ce se întâmplă cu exclamațiile și cu vocativul. Cu ajutorul schemei fixăm regulile din Repere, p. 189.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '12 min',
+            activitate: 'Elevii trec în vorbire indirectă primele trei enunțuri de la p. 189, cu George și Annie, și notează ce le-a fost greu.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; aprecieri.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -426,7 +1253,53 @@ export const unitatea5 = {
       ],
       sursaManual: 'Manual, Lecția 16, p. 189, partea 2/2',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Transformarea vorbirii directe în indirectă (II), exerciții',
+        data: null,
+        tipOra: 'Redactare',
+        durata: 50,
+        obiective: [
+          'Transformă enunțuri de la vorbire directă la vorbire indirectă, cu respectarea regulilor învățate.',
+        ],
+        resurse: [
+          'Manual Art 6, p. 189, lista de control',
+          'Fișa lecției (/materiale/clasa-6/unitatea-5/lectia-19/fisa.pdf)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '4 min',
+            activitate: 'Un elev spune o replică, iar colegul de lângă el o relatează clasei, începând cu „A spus că…”.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că exersăm transformarea pe un fragment mai lung.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '6 min',
+            activitate: 'Reamintim regulile transformării de ora trecută.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '10 min',
+            activitate: 'Transformăm împreună primele replici din fragmentul din Micul Prinț de Antoine de Saint-Exupéry, de la p. 189, cu geograful și micul prinț.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '25 min',
+            activitate: 'Elevii rezolvă fișa lecției și transformă restul fragmentului, apoi schimbă caietele și se evaluează pe lista de control de la p. 189.',
+          },
+        ],
+        evaluare: 'Interevaluare pe lista de control de la p. 189; fișa lecției.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -446,7 +1319,53 @@ export const unitatea5 = {
       ],
       sursaManual: 'Manual, Recapitulare, pp. 190-191, partea 1/2',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Recapitulare, lectură și comunicare',
+        data: null,
+        tipOra: 'Recapitulare',
+        durata: 50,
+        obiective: [
+          'Recapitulează, prin exerciții aplicate, achizițiile de lectură din Unitatea V: dialog, structura textului argumentativ.',
+        ],
+        resurse: [
+          'Manual Art 6, pp. 190-191',
+          'Quizul „Recapitulare, lectură și comunicare” (materialul de joc al lecției)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '4 min',
+            activitate: 'Îi rog pe elevi să spună pe rând câte o noțiune de lectură sau de comunicare învățată în unitate.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că recapitulăm lectura și comunicarea pe un fragment nou.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '8 min',
+            activitate: 'Reluăm schița, dialogul și verbele de declarație, personajele, comicul și ironia, textul argumentativ, actele de limbaj și parafraza.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '18 min',
+            activitate: 'Citim fragmentul din Jim Năsturel și Lukas, mecanicul de locomotivă de Michael Ende, de la p. 190, și rezolvăm ghidat cerințele de lectură de la p. 191: momentul plecării, destinația, orientarea fără busolă, naratorul, verbele de declarație și locul lor, semnele de punctuație, rolul replicilor.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '15 min',
+            activitate: 'Elevii rezolvă quizul „Recapitulare, lectură și comunicare”, apoi discutăm răspunsurile greșite.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; rezultatele la quiz.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -501,7 +1420,53 @@ export const unitatea5 = {
       ],
       sursaManual: 'Manual, Recapitulare, pp. 190-191, partea 2/2',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Recapitulare, gramatică și redactare',
+        data: null,
+        tipOra: 'Recapitulare',
+        durata: 50,
+        obiective: [
+          'Recapitulează, prin exerciții aplicate, achizițiile de gramatică din Unitatea V: adjectivul, adverbul, vorbirea directă și indirectă.',
+        ],
+        resurse: [
+          'Manual Art 6, pp. 190-191',
+          'Quizul „Recapitulare, gramatică și redactare” (materialul de joc al lecției)',
+          'Caietele elevilor',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '4 min',
+            activitate: 'Scriu pe tablă „Până acum, acolo aveam munții cei înalți.” și cer părțile de vorbire ale cuvintelor subliniate.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că recapitulăm adjectivul, adverbul și vorbirea indirectă.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '8 min',
+            activitate: 'Reluăm felurile adjectivului, formele flexionare, acordul, articolul demonstrativ, gradele de comparație, funcțiile, felurile și funcțiile adverbului și regulile vorbirii indirecte.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '16 min',
+            activitate: 'Rezolvăm ghidat cerințele de limbă de la p. 191, pe textul lui Michael Ende: rolul lui cei, adverbele și gradul lor, formele lui înalt, mare, straniu, analiza adjectivelor, funcția lui înăbușitor.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '17 min',
+            activitate: 'Elevii rezolvă quizul „Recapitulare, gramatică și redactare”, apoi discutăm greșelile. Ca temă, transformă în vorbire indirectă fragmentul de la cerința 19.',
+          },
+        ],
+        evaluare: 'Observarea sistematică a elevilor; rezultatele la quiz.',
+      },
       materiale: {
         prezentare: null,
         video: null,
@@ -556,7 +1521,52 @@ export const unitatea5 = {
       ],
       sursaManual: 'Manual, Evaluare, p. 192',
       rezolvareGhid: null,
-      planLectie: null,
+      planLectie: {
+        titlu: 'Evaluare, probă scrisă',
+        data: null,
+        tipOra: 'Evaluare',
+        durata: 50,
+        obiective: [
+          'Verifică, printr-o probă scrisă, nivelul de achiziție a competențelor vizate în Unitatea V.',
+        ],
+        resurse: [
+          'Testul, Manual Art 6, p. 192',
+          'Barem de corectare din Ghidul profesorului',
+        ],
+        desfasurare: [
+          {
+            etapa: 'Moment organizatoric',
+            timp: '3 min',
+            activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
+          },
+          {
+            etapa: 'Captarea atenției',
+            timp: '2 min',
+            activitate: 'Le spun elevilor că e ultima probă a anului pe unitate și îi liniștesc în privința timpului de lucru.',
+          },
+          {
+            etapa: 'Enunțarea subiectului și a obiectivelor',
+            timp: '2 min',
+            activitate: 'Anunț că se dă proba scrisă a Unității V, pe fragmentul Singuri, pe vârful Omu de Adina Popescu, cu o parte de limbă și lectură și o transformare în vorbire indirectă.',
+          },
+          {
+            etapa: 'Reactualizarea cunoștințelor anterioare',
+            timp: '3 min',
+            activitate: 'Reamintesc structura probei, 60 de puncte la partea A, 30 la partea B, 10 din oficiu, și cum își împart timpul.',
+          },
+          {
+            etapa: 'Dirijarea învățării',
+            timp: '5 min',
+            activitate: 'Distribui testele, citesc cerințele cu voce tare, explic punctajul și răspund la întrebările de clarificare.',
+          },
+          {
+            etapa: 'Obținerea performanței',
+            timp: '35 min',
+            activitate: 'Elevii rezolvă individual proba pe o foaie separată; supraveghez discret, gestionez timpul și strâng lucrările la final.',
+          },
+        ],
+        evaluare: 'Evaluare sumativă scrisă, notată după baremul din Ghidul profesorului.',
+      },
       materiale: {
         prezentare: null,
         video: null,
