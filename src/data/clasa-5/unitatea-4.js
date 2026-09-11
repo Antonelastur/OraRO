@@ -550,7 +550,7 @@ export const unitatea4 = {
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
             timp: '15 min',
-            activitate: '– Pagina 1: ex. 1 (părțile comparației), ex. 2 (figură de stil sau nu?) și ex. 3 (ghicitori cu comparații), individual, 10 minute.\n– Verificare, 5 minute; insist pe diferența dintre „ca un tunet” și „ca arhitect”.',
+            activitate: '– Pagina 1: ex. 1 (părțile comparației), ex. 2 (figură de stil sau nu?) și ex. 3 (ghicitori cu comparații), individual, 10 minute.\n– Verificare, 5 minute; insist pe diferența dintre comparația figură de stil și „ca” cu sensul de „în calitate de”.',
           },
           {
             etapa: 'Quiz',

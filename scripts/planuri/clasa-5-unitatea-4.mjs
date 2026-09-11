@@ -158,7 +158,7 @@ export default {
         'Ex. 2: comparațiile din versurile lui Ion Pillat; pentru fiecare, comparatul și comparantul.') },
       { etapa: 'Obținerea performanței: fișa de exerciții', timp: '15 min', activitate: pasi(
         'Pagina 1: ex. 1 (părțile comparației), ex. 2 (figură de stil sau nu?) și ex. 3 (ghicitori cu comparații), individual, 10 minute.',
-        'Verificare, 5 minute; insist pe diferența dintre „ca un tunet” și „ca arhitect”.') },
+        'Verificare, 5 minute; insist pe diferența dintre comparația figură de stil și „ca” cu sensul de „în calitate de”.') },
       { etapa: 'Quiz', timp: '5 min', activitate: pasi(
         'Quizul „Comparația”, frontal; notez întrebările cu cele mai multe răspunsuri greșite.') },
       { etapa: 'Temă', timp: '3 min', activitate: pasi(
