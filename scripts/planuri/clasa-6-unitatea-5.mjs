@@ -50,7 +50,7 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Identifică spațiul și indiciile temporale ale unei călătorii, pe baza textului D-l Goe...'],
-    resurse: ['Manual Art 6, pp. 158-159', 'Schema „Acțiunea, spațiul și timpul” (/materiale/clasa-6/unitatea-5/lectia-3/schema.svg)', 'O hartă sau acces la internet'],
+    resurse: ['Manual Art 6, pp. 158-159', 'Schema „Acțiunea, spațiul și timpul într-o schiță” (/materiale/clasa-6/unitatea-5/lectia-3/schema.svg)', 'O hartă sau acces la internet'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Îi întreb pe elevi din ce oraș pleacă Goe și de ce autorul scrie doar „urbea X”.' },
@@ -237,7 +237,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Reactualizează acordul adjectivului cu substantivul determinat, în gen, număr și caz.'],
-    resurse: ['Manual Art 6, pp. 180-181', 'Schema „Adjectivul (actualizare)” (/materiale/clasa-6/unitatea-5/lectia-14/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 180-181', 'Schema „Adjectivul. Gradele de comparație” (/materiale/clasa-6/unitatea-5/lectia-14/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Privim imaginea Sistemului Solar de la p. 180, iar câțiva elevi descriu o planetă, formă, culoare, mărime, și o compară cu celelalte.' },

@@ -1,37 +1,78 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="380" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Adverbul. Felurile adverbului</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V, Lecția 14</text>
-
-  <rect x="250" y="86" width="400" height="44" rx="12" fill="#6f5ea8"/>
-  <text x="450" y="113" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">Determină un verb, arată o împrejurare</text>
-
-  <g>
-    <rect x="60" y="150" width="250" height="140" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="185" y="176" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">de loc</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="185" y="204" font-style="italic">acasă, afară, la ea</tspan>
-      <tspan x="185" y="230">„Vin acasă la tine.”</tspan>
-    </text>
-  </g>
-
-  <g>
-    <rect x="325" y="150" width="250" height="140" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="450" y="176" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">de timp</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="450" y="204" font-style="italic">astăzi, acum, aseară</tspan>
-      <tspan x="450" y="230">„Astăzi mănânc repede.”</tspan>
-    </text>
-  </g>
-
-  <g>
-    <rect x="590" y="150" width="250" height="140" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="715" y="176" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">de mod</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="715" y="204" font-style="italic">repede, liniștit</tspan>
-      <tspan x="715" y="230">„Lucrăm liniștit.”</tspan>
-    </text>
-  </g>
-
-  <text x="450" y="330" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 14, pp. 184-185</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 721" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="721" fill="#faf7f0"/>
+<text x="259.5" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="381.6" lengthAdjust="spacing">Adverbul. Felurile adverbului</text>
+<text x="202.5" y="74.4" font-size="14" fill="#5b6b83" textLength="495.0" lengthAdjust="spacing">Clasa a VI-a · Unitatea a V-a, Lecția 16 · Manual, pp. 184-185 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. ADVERBUL</text>
+<rect x="40" y="128.6" width="820" height="56.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="69.0" lengthAdjust="spacing">Adverbul</text>
+<text x="135.3" y="162.6" font-size="16" fill="#10233f" textLength="94.6" lengthAdjust="spacing">determină un</text>
+<text x="234.2" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="33.6" lengthAdjust="spacing">verb</text>
+<text x="272.1" y="162.6" font-size="16" fill="#10233f" textLength="71.4" lengthAdjust="spacing">și exprimă</text>
+<text x="347.8" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="97.4" lengthAdjust="spacing">împrejurările</text>
+<text x="449.5" y="162.6" font-size="16" fill="#10233f" textLength="213.4" lengthAdjust="spacing">în care se desfășoară acțiunea.</text>
+<text x="667.3" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="159.5" lengthAdjust="spacing">Nu își schimbă forma</text>
+<text x="826.8" y="162.6" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<rect x="40" y="205.4" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="228.4" font-size="16" font-weight="700" fill="#ffffff">2. FELURILE ADVERBULUI</text>
+<rect x="40" y="239.4" width="820" height="166.1" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="257.4" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="278.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="30.1" lengthAdjust="spacing">Felul</text>
+<text x="198.2" y="278.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="66.1" lengthAdjust="spacing">Întrebarea</text>
+<text x="322.3" y="278.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="53.7" lengthAdjust="spacing">Exemple</text>
+<text x="586.2" y="278.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="81.5" lengthAdjust="spacing">În propoziție</text>
+<line x1="62.0" y1="288.9" x2="838.0" y2="288.9" stroke="#e3dccb"/>
+<text x="74.0" y="311.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="40.7" lengthAdjust="spacing">de loc</text>
+<text x="198.2" y="311.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="37.4" lengthAdjust="spacing">unde?</text>
+<text x="322.3" y="311.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="137.5" lengthAdjust="spacing">aici, deasupra, jos, sus</text>
+<text x="586.2" y="311.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="88.2" lengthAdjust="spacing">Pisica doarme</text>
+<text x="678.2" y="311.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="21.6" lengthAdjust="spacing">sus</text>
+<text x="699.8" y="311.4" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="321.8" x2="838.0" y2="321.8" stroke="#e3dccb"/>
+<text x="74.0" y="344.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="52.9" lengthAdjust="spacing">de timp</text>
+<text x="198.2" y="344.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="36.4" lengthAdjust="spacing">când?</text>
+<text x="322.3" y="344.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="176.0" lengthAdjust="spacing">acum, astăzi, curând, mereu</text>
+<text x="586.2" y="344.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="42.5" lengthAdjust="spacing">Mâine</text>
+<text x="632.6" y="344.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="108.5" lengthAdjust="spacing">plecăm la munte.</text>
+<line x1="62.0" y1="354.6" x2="838.0" y2="354.6" stroke="#e3dccb"/>
+<text x="74.0" y="377.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="52.1" lengthAdjust="spacing">de mod</text>
+<text x="198.2" y="377.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="33.2" lengthAdjust="spacing">cum?</text>
+<text x="322.3" y="377.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="137.9" lengthAdjust="spacing">agale, alene, așa, bine</text>
+<text x="586.2" y="377.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="90.2" lengthAdjust="spacing">Bunicul merge</text>
+<text x="680.3" y="377.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="36.5" lengthAdjust="spacing">agale</text>
+<text x="716.8" y="377.1" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="387.5" x2="838.0" y2="387.5" stroke="#e3dccb"/>
+<line x1="186.2" y1="257.4" x2="186.2" y2="387.5" stroke="#e3dccb"/>
+<line x1="310.3" y1="257.4" x2="310.3" y2="387.5" stroke="#e3dccb"/>
+<line x1="574.2" y1="257.4" x2="574.2" y2="387.5" stroke="#e3dccb"/>
+<rect x="40" y="425.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="448.5" font-size="16" font-weight="700" fill="#ffffff">3. CUM ÎL RECUNOSC</text>
+<rect x="40" y="459.5" width="820" height="210.6" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="492.5" font-size="15" fill="#3a3226" font-weight="700">1.</text>
+<text x="81.0" y="492.5" font-size="15" fill="#3a3226" textLength="43.8" lengthAdjust="spacing">găsesc</text>
+<text x="128.8" y="492.5" font-size="15" fill="#3a3226" font-weight="700" textLength="44.8" lengthAdjust="spacing">verbul</text>
+<text x="177.7" y="492.5" font-size="15" fill="#3a3226" textLength="134.4" lengthAdjust="spacing">pe care îl determină;</text>
+<text x="62.0" y="517.2" font-size="15" fill="#3a3226" font-weight="700">2.</text>
+<text x="81.0" y="517.2" font-size="15" fill="#3a3226" textLength="97.5" lengthAdjust="spacing">pun întrebarea</text>
+<text x="182.5" y="517.2" font-size="15" fill="#3a3226" font-weight="700" textLength="127.8" lengthAdjust="spacing">unde? când? cum?</text>
+<text x="314.3" y="517.2" font-size="15" fill="#3a3226" textLength="68.4" lengthAdjust="spacing">de la verb;</text>
+<text x="62.0" y="542.0" font-size="15" fill="#3a3226" font-weight="700">3.</text>
+<text x="81.0" y="542.0" font-size="15" fill="#3a3226" textLength="102.4" lengthAdjust="spacing">verific: cuvântul</text>
+<text x="187.4" y="542.0" font-size="15" fill="#3a3226" font-weight="700" textLength="146.8" lengthAdjust="spacing">nu își schimbă forma</text>
+<text x="338.3" y="542.0" font-size="15" fill="#3a3226" textLength="185.1" lengthAdjust="spacing">(spre deosebire de adjectiv).</text>
+<rect x="62.0" y="560.5" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#9a7433" stroke-width="2"/>
+<text x="78.0" y="588.5" font-size="16" fill="#9a7433" font-weight="700" textLength="58.7" lengthAdjust="spacing">adjectiv</text>
+<text x="78.0" y="611.8" font-size="14.5" fill="#3a3226" textLength="85.7" lengthAdjust="spacing">determină un</text>
+<text x="167.6" y="611.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="70.5" lengthAdjust="spacing">substantiv</text>
+<text x="242.0" y="611.8" font-size="14.5" fill="#3a3226" textLength="74.7" lengthAdjust="spacing">și se acordă</text>
+<text x="78.0" y="635.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="50.2" lengthAdjust="spacing">o rochie</text>
+<text x="132.1" y="635.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="64.4" lengthAdjust="spacing">frumoasă</text>
+<rect x="458.0" y="560.5" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="474.0" y="588.5" font-size="16" fill="#0d9c92" font-weight="700" textLength="52.2" lengthAdjust="spacing">adverb</text>
+<text x="474.0" y="611.8" font-size="14.5" fill="#3a3226" textLength="85.7" lengthAdjust="spacing">determină un</text>
+<text x="563.6" y="611.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="30.4" lengthAdjust="spacing">verb</text>
+<text x="594.1" y="611.8" font-size="14.5" fill="#3a3226" textLength="98.0" lengthAdjust="spacing">, nu se schimbă</text>
+<text x="474.0" y="635.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="34.8" lengthAdjust="spacing">cântă</text>
+<text x="512.7" y="635.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="48.7" lengthAdjust="spacing">frumos</text>
+<text x="201.0" y="701.6" font-size="11.5" fill="#5b6b83" textLength="497.9" lengthAdjust="spacing">Sursa: Manual Art 6, pp. 184-185, rubricile Repere. Unele exemple sunt create pentru aceste notițe.</text>
 </svg>

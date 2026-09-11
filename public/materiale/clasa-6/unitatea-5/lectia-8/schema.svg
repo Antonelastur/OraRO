@@ -1,44 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="340" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Organizarea textului argumentativ</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V, Lecția 7 · Motive pentru care călătoriile te fac mai bun</text>
-
-  <path d="M 90 180 L 810 180" stroke="#b8944f" stroke-width="3" fill="none" marker-end="url(#arrF)"/>
-  <defs>
-    <marker id="arrF" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
-      <path d="M0,0 L10,5 L0,10 z" fill="#b8944f"/>
-    </marker>
-  </defs>
-
-  <g>
-    <rect x="60" y="110" width="220" height="140" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="170" y="138" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Ipoteza</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="170" y="164">Ideea pe care autorul</tspan>
-      <tspan x="170" y="180">vrea s-o susțină.</tspan>
-      <tspan x="170" y="206" font-style="italic">„Călătoriile te fac</tspan>
-      <tspan x="170" y="222" font-style="italic">mai bun.”</tspan>
-    </text>
-  </g>
-
-  <g>
-    <rect x="340" y="110" width="220" height="140" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="450" y="138" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Argumentele</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="450" y="164">Motivele care susțin</tspan>
-      <tspan x="450" y="180">ipoteza, în ordine.</tspan>
-      <tspan x="450" y="206" font-style="italic">„Mai întâi... Apoi...”</tspan>
-    </text>
-  </g>
-
-  <g>
-    <rect x="620" y="110" width="220" height="140" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="730" y="138" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Concluzia</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="730" y="164">Reia ipoteza, întărită</tspan>
-      <tspan x="730" y="180">de argumente.</tspan>
-    </text>
-  </g>
-
-  <text x="450" y="300" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 7, p. 169</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 970" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="970" fill="#faf7f0"/>
+<text x="222.1" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="456.4" lengthAdjust="spacing">Organizarea textului argumentativ</text>
+<text x="206.3" y="74.4" font-size="14" fill="#5b6b83" textLength="487.5" lengthAdjust="spacing">Clasa a VI-a · Unitatea a V-a, Lecția 8 · Manual, pp. 168-169 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. SCOPUL ȘI PREMISA</text>
+<rect x="40" y="128.6" width="820" height="113.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="153.9" lengthAdjust="spacing">Textul argumentativ</text>
+<text x="220.2" y="162.6" font-size="16" fill="#10233f" textLength="49.0" lengthAdjust="spacing">vrea să</text>
+<text x="273.5" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="68.6" lengthAdjust="spacing">convingă</text>
+<text x="346.5" y="162.6" font-size="16" fill="#10233f" textLength="306.6" lengthAdjust="spacing">cititorii de o opinie. Opinia se formulează în</text>
+<text x="657.3" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="59.8" lengthAdjust="spacing">premisă</text>
+<text x="721.5" y="162.6" font-size="16" fill="#10233f" textLength="101.9" lengthAdjust="spacing">(ipoteză, teză),</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" textLength="231.2" lengthAdjust="spacing">un enunț de acord sau dezacord.</text>
+<text x="62.0" y="219.6" font-size="15" fill="#10233f" font-style="italic" textLength="504.9" lengthAdjust="spacing">Cred că printre momentele care te ajută să te dezvolți se numără și călătoriile.</text>
+<rect x="40" y="262.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="285.1" font-size="16" font-weight="700" fill="#ffffff">2. STRUCTURA</text>
+<rect x="40" y="296.1" width="820" height="283.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="314.1" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="335.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="40.8" lengthAdjust="spacing">Partea</text>
+<text x="229.2" y="335.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="67.0" lengthAdjust="spacing">Ce conține</text>
+<line x1="62.0" y1="345.7" x2="838.0" y2="345.7" stroke="#e3dccb"/>
+<text x="74.0" y="368.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="87.3" lengthAdjust="spacing">introducerea</text>
+<text x="229.2" y="368.2" font-size="14.5" fill="#3a3226" textLength="16.1" lengthAdjust="spacing">(a)</text>
+<text x="249.2" y="368.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="54.2" lengthAdjust="spacing">premisa</text>
+<line x1="62.0" y1="378.5" x2="838.0" y2="378.5" stroke="#e3dccb"/>
+<text x="74.0" y="401.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="62.8" lengthAdjust="spacing">cuprinsul</text>
+<text x="229.2" y="401.0" font-size="14.5" fill="#3a3226" textLength="17.3" lengthAdjust="spacing">(b)</text>
+<text x="250.4" y="401.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="86.9" lengthAdjust="spacing">argumentele</text>
+<text x="337.2" y="401.0" font-size="14.5" fill="#3a3226" textLength="303.3" lengthAdjust="spacing">: fapte, dovezi, exemple, impresii, convingeri; (c)</text>
+<text x="644.5" y="401.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="69.7" lengthAdjust="spacing">exemplele</text>
+<text x="718.1" y="401.0" font-size="14.5" fill="#3a3226" textLength="64.1" lengthAdjust="spacing">care le fac</text>
+<text x="229.2" y="422.0" font-size="14.5" fill="#3a3226" textLength="102.7" lengthAdjust="spacing">credibile; uneori</text>
+<text x="335.8" y="422.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="118.9" lengthAdjust="spacing">contraargumente</text>
+<line x1="62.0" y1="432.4" x2="838.0" y2="432.4" stroke="#e3dccb"/>
+<text x="74.0" y="454.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="69.7" lengthAdjust="spacing">încheierea</text>
+<text x="229.2" y="454.9" font-size="14.5" fill="#3a3226" textLength="17.3" lengthAdjust="spacing">(d)</text>
+<text x="250.4" y="454.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="63.4" lengthAdjust="spacing">concluzia</text>
+<text x="313.7" y="454.9" font-size="14.5" fill="#3a3226" textLength="377.6" lengthAdjust="spacing">: reformulează punctul de vedere, nuanțat după argumente</text>
+<line x1="62.0" y1="465.2" x2="838.0" y2="465.2" stroke="#e3dccb"/>
+<line x1="217.2" y1="314.1" x2="217.2" y2="465.2" stroke="#e3dccb"/>
+<rect x="62.0" y="479.2" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="505.7" font-size="14.5" fill="#10233f" font-weight="700" textLength="141.2" lengthAdjust="spacing">Modelul din manual:</text>
+<text x="78.0" y="524.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="662.8" lengthAdjust="spacing">Este bine să călătorești (a), pentru că astfel îți poți depăși limitele (b). De exemplu, când am urcat pe vârful</text>
+<text x="78.0" y="545.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="725.4" lengthAdjust="spacing">Moldoveanu, am descoperit că îmi pot învinge teama de înălțime (c). Așadar, călătorind, te poți descoperi pe tine (d).</text>
+<rect x="40" y="600.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="623.0" font-size="16" font-weight="700" fill="#ffffff">3. CUVINTELE ARGUMENTĂRII</text>
+<rect x="40" y="634.0" width="820" height="285.0" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="652.0" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="673.5" font-size="13.5" fill="#10233f" font-weight="700" textLength="32.8" lengthAdjust="spacing">Rolul</text>
+<text x="306.8" y="673.5" font-size="13.5" fill="#10233f" font-weight="700" textLength="48.5" lengthAdjust="spacing">Cuvinte</text>
+<line x1="62.0" y1="683.5" x2="838.0" y2="683.5" stroke="#e3dccb"/>
+<text x="74.0" y="706.0" font-size="14.5" fill="#3a3226" textLength="139.9" lengthAdjust="spacing">ordinea argumentelor</text>
+<text x="306.8" y="706.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="515.5" lengthAdjust="spacing">în primul rând, în al doilea rând, mai întâi, apoi, după aceea, nu în ultimul rând, în</text>
+<text x="306.8" y="727.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="85.5" lengthAdjust="spacing">cele din urmă</text>
+<line x1="62.0" y1="737.4" x2="838.0" y2="737.4" stroke="#e3dccb"/>
+<text x="74.0" y="759.9" font-size="14.5" fill="#3a3226" textLength="64.8" lengthAdjust="spacing">exemplele</text>
+<text x="306.8" y="759.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="169.5" lengthAdjust="spacing">de exemplu, astfel, de pildă</text>
+<line x1="62.0" y1="770.2" x2="838.0" y2="770.2" stroke="#e3dccb"/>
+<text x="74.0" y="792.7" font-size="14.5" fill="#3a3226" textLength="121.4" lengthAdjust="spacing">legătura dintre idei</text>
+<text x="306.8" y="792.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="309.3" lengthAdjust="spacing">pentru că, deoarece, ca urmare, spre deosebire de</text>
+<line x1="62.0" y1="803.1" x2="838.0" y2="803.1" stroke="#e3dccb"/>
+<text x="74.0" y="825.6" font-size="14.5" fill="#3a3226" textLength="59.3" lengthAdjust="spacing">concluzia</text>
+<text x="306.8" y="825.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="123.2" lengthAdjust="spacing">în concluzie, așadar</text>
+<line x1="62.0" y1="835.9" x2="838.0" y2="835.9" stroke="#e3dccb"/>
+<text x="74.0" y="858.4" font-size="14.5" fill="#3a3226" textLength="127.2" lengthAdjust="spacing">implicarea cititorilor</text>
+<text x="306.8" y="858.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="392.9" lengthAdjust="spacing">după cum știți, așa cum vă dați seama, nu cred că vă îndoiți de</text>
+<line x1="62.0" y1="868.8" x2="838.0" y2="868.8" stroke="#e3dccb"/>
+<line x1="294.8" y1="652.0" x2="294.8" y2="868.8" stroke="#e3dccb"/>
+<text x="62.0" y="896.8" font-size="14" fill="#5b6b83" textLength="188.9" lengthAdjust="spacing">Timpul verbal folosit de obicei:</text>
+<text x="254.6" y="896.8" font-size="14" fill="#5b6b83" font-weight="700" textLength="147.7" lengthAdjust="spacing">prezentul indicativului</text>
+<text x="402.3" y="896.8" font-size="14" fill="#5b6b83" textLength="3.1" lengthAdjust="spacing">.</text>
+<text x="222.9" y="950.5" font-size="11.5" fill="#5b6b83" textLength="454.1" lengthAdjust="spacing">Sursa: Manual Art 6, pp. 168-169, rubrica Repere, schema și modelul textual din Explorare.</text>
 </svg>

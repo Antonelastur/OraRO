@@ -1,36 +1,78 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="380" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Dialogul în textul literar</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V, Lecția 3 · D-l Goe... de I.L. Caragiale</text>
-
-  <rect x="120" y="95" width="660" height="110" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text font-size="12.5" fill="#3a3226" text-anchor="middle">
-    <tspan x="450" y="122" font-weight="700">— Mam’ mare! De ce nu mai vine?... </tspan><tspan fill="#6f5ea8" font-weight="700">Eu vreau să vie!</tspan>
-    <tspan x="450" y="148">— Vine, vine acuma, puișorul mamii! </tspan><tspan fill="#0d9c92" font-weight="700">răspunde cucoana.</tspan>
-    <tspan x="450" y="178">linia de dialog (—) marchează replica; verbul de declarație</tspan>
-    <tspan x="450" y="194">(zice, răspunde, strigă) anunță cine vorbește</tspan>
-  </text>
-
-  <g>
-    <rect x="80" y="225" width="340" height="110" rx="14" fill="#eaf6f4"/>
-    <text x="250" y="250" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Replica</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="250" y="274">Ce spune un personaj,</tspan>
-      <tspan x="250" y="290">introdusă de linia de dialog.</tspan>
-      <tspan x="250" y="312">Poate fi întrebare, răspuns,</tspan>
-      <tspan x="250" y="328">exclamație, poruncă.</tspan>
-    </text>
-  </g>
-
-  <g>
-    <rect x="480" y="225" width="340" height="110" rx="14" fill="#f1ecfa"/>
-    <text x="650" y="250" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Verbul de declarație</text>
-    <text font-size="11.5" fill="#3a3226" text-anchor="middle">
-      <tspan x="650" y="274">Arată cine vorbește și</tspan>
-      <tspan x="650" y="290">adesea cum: zice, răspunde,</tspan>
-      <tspan x="650" y="312" font-style="italic">strigă, zbiară, întreabă</tspan>
-    </text>
-  </g>
-
-  <text x="450" y="360" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: manual, Lecția 3, pp. 160-161</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 851" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="851" fill="#faf7f0"/>
+<text x="292.5" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="315.8" lengthAdjust="spacing">Dialogul în textul literar</text>
+<text x="206.3" y="74.4" font-size="14" fill="#5b6b83" textLength="487.5" lengthAdjust="spacing">Clasa a VI-a · Unitatea a V-a, Lecția 4 · Manual, pp. 160-161 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. DIALOGUL</text>
+<rect x="40" y="128.6" width="820" height="163.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="63.4" lengthAdjust="spacing">Dialogul</text>
+<text x="129.7" y="162.6" font-size="16" fill="#10233f" textLength="628.8" lengthAdjust="spacing">este comunicarea verbală dintre două sau mai multe persoane care își transmit informații.</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" textLength="259.7" lengthAdjust="spacing">Intervenția unui partener se numește</text>
+<text x="326.0" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="50.2" lengthAdjust="spacing">replică</text>
+<text x="376.2" y="185.8" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<text x="62.0" y="219.6" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="219.6" font-size="15" fill="#3a3226" textLength="89.1" lengthAdjust="spacing">Un dialog are</text>
+<text x="167.3" y="219.6" font-size="15" fill="#3a3226" font-weight="700" textLength="148.7" lengthAdjust="spacing">cel puțin două replici</text>
+<text x="320.0" y="219.6" font-size="15" fill="#3a3226" textLength="137.5" lengthAdjust="spacing">legate logic între ele.</text>
+<text x="62.0" y="244.3" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="244.3" font-size="15" fill="#3a3226" textLength="165.9" lengthAdjust="spacing">În opera literară, dialogul</text>
+<text x="244.1" y="244.3" font-size="15" fill="#3a3226" font-weight="700" textLength="36.1" lengthAdjust="spacing">imită</text>
+<text x="284.3" y="244.3" font-size="15" fill="#3a3226" textLength="337.8" lengthAdjust="spacing">dialogul real și reproduce discuția dintre personaje.</text>
+<text x="62.0" y="269.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="269.1" font-size="15" fill="#3a3226" textLength="288.5" lengthAdjust="spacing">Intervenția unui personaj se marchează prin</text>
+<text x="366.7" y="269.1" font-size="15" fill="#3a3226" font-weight="700" textLength="99.9" lengthAdjust="spacing">linie de dialog</text>
+<text x="470.7" y="269.1" font-size="15" fill="#3a3226" textLength="27.3" lengthAdjust="spacing">(—).</text>
+<rect x="40" y="311.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="334.6" font-size="16" font-weight="700" fill="#ffffff">2. VERBELE DE DECLARAȚIE</text>
+<rect x="40" y="345.6" width="820" height="220.6" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="378.6" font-size="15" fill="#10233f" font-style="italic" textLength="486.4" lengthAdjust="spacing">a zice, a spune, a întreba, a răspunde, a adăuga, a exclama, a striga, a ruga</text>
+<rect x="62.0" y="397.1" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="418.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="100.0" lengthAdjust="spacing">Unde stă verbul</text>
+<text x="260.2" y="418.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="68.3" lengthAdjust="spacing">Punctuația</text>
+<text x="539.6" y="418.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="428.7" x2="838.0" y2="428.7" stroke="#e3dccb"/>
+<text x="74.0" y="451.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="55.0" lengthAdjust="spacing">înaintea</text>
+<text x="132.9" y="451.2" font-size="14.5" fill="#3a3226" textLength="41.8" lengthAdjust="spacing">replicii</text>
+<text x="260.2" y="451.2" font-size="14.5" fill="#3a3226" textLength="58.1" lengthAdjust="spacing">urmat de</text>
+<text x="322.3" y="451.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="85.7" lengthAdjust="spacing">două puncte</text>
+<text x="539.6" y="451.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="66.8" lengthAdjust="spacing">Ana spuse:</text>
+<text x="610.4" y="451.2" font-size="14.5" fill="#3a3226" textLength="5.7" lengthAdjust="spacing">/</text>
+<text x="619.9" y="451.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="76.7" lengthAdjust="spacing">— Vin și eu!</text>
+<line x1="62.0" y1="461.5" x2="838.0" y2="461.5" stroke="#e3dccb"/>
+<text x="74.0" y="484.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="34.7" lengthAdjust="spacing">după</text>
+<text x="112.6" y="484.0" font-size="14.5" fill="#3a3226" textLength="42.2" lengthAdjust="spacing">replică</text>
+<text x="260.2" y="484.0" font-size="14.5" fill="#3a3226" textLength="76.3" lengthAdjust="spacing">precedat de</text>
+<text x="340.4" y="484.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="123.4" lengthAdjust="spacing">virgulă, puncte de</text>
+<text x="260.2" y="505.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="115.9" lengthAdjust="spacing">suspensie, ! sau ?</text>
+<text x="539.6" y="484.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="147.9" lengthAdjust="spacing">— Vin și eu! strigă Ana.</text>
+<line x1="62.0" y1="515.4" x2="838.0" y2="515.4" stroke="#e3dccb"/>
+<text x="74.0" y="537.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="80.8" lengthAdjust="spacing">în interiorul</text>
+<text x="158.7" y="537.9" font-size="14.5" fill="#3a3226" textLength="41.8" lengthAdjust="spacing">replicii</text>
+<text x="260.2" y="537.9" font-size="14.5" fill="#3a3226" textLength="63.7" lengthAdjust="spacing">izolat prin</text>
+<text x="327.8" y="537.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="47.4" lengthAdjust="spacing">virgule</text>
+<text x="379.1" y="537.9" font-size="14.5" fill="#3a3226" textLength="21.8" lengthAdjust="spacing">sau</text>
+<text x="404.8" y="537.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="90.5" lengthAdjust="spacing">linii de pauză</text>
+<text x="539.6" y="537.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="149.2" lengthAdjust="spacing">— Vin, spuse Ana, și eu.</text>
+<line x1="62.0" y1="548.2" x2="838.0" y2="548.2" stroke="#e3dccb"/>
+<line x1="248.2" y1="397.1" x2="248.2" y2="548.2" stroke="#e3dccb"/>
+<line x1="527.6" y1="397.1" x2="527.6" y2="548.2" stroke="#e3dccb"/>
+<rect x="40" y="586.2" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="609.2" font-size="16" font-weight="700" fill="#ffffff">3. CE MAI ARATĂ DIALOGUL</text>
+<rect x="40" y="620.2" width="820" height="179.9" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="653.2" font-size="15" fill="#3a3226" font-weight="700" textLength="195.1" lengthAdjust="spacing">Nonverbalul și paraverbalul</text>
+<text x="261.2" y="653.2" font-size="15" fill="#3a3226" textLength="536.8" lengthAdjust="spacing">(mimica, gesturile, privirea, tonul, volumul vocii, pauzele) sunt redate prin cuvinte:</text>
+<text x="802.1" y="653.2" font-size="15" fill="#10233f" font-style="italic" textLength="24.6" lengthAdjust="spacing">zice</text>
+<text x="62.0" y="675.0" font-size="15" fill="#10233f" font-style="italic" textLength="239.4" lengthAdjust="spacing">încruntat, zbiară, bătând din picioare</text>
+<text x="301.4" y="675.0" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="693.5" width="248.0" height="88.7" rx="12" fill="#ffffff" stroke="#b4432c" stroke-width="2"/>
+<text x="78.0" y="721.5" font-size="16" fill="#b4432c" font-weight="700" textLength="5.3" lengthAdjust="spacing">!</text>
+<text x="78.0" y="744.8" font-size="14.5" fill="#3a3226" textLength="141.2" lengthAdjust="spacing">emoție, surpriză, furie,</text>
+<text x="78.0" y="765.8" font-size="14.5" fill="#3a3226" textLength="71.2" lengthAdjust="spacing">nervozitate</text>
+<rect x="326.0" y="693.5" width="248.0" height="88.7" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="342.0" y="721.5" font-size="16" fill="#0d9c92" font-weight="700" textLength="7.0" lengthAdjust="spacing">?</text>
+<text x="342.0" y="744.8" font-size="14.5" fill="#3a3226" textLength="138.8" lengthAdjust="spacing">întrebare, nedumerire</text>
+<rect x="590.0" y="693.5" width="248.0" height="88.7" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="606.0" y="721.5" font-size="16" fill="#6f5ea8" font-weight="700" textLength="13.0" lengthAdjust="spacing">...</text>
+<text x="606.0" y="744.8" font-size="14.5" fill="#3a3226" textLength="158.2" lengthAdjust="spacing">ezitări, întreruperi, pauze</text>
+<text x="201.0" y="831.7" font-size="11.5" fill="#5b6b83" textLength="497.9" lengthAdjust="spacing">Sursa: Manual Art 6, pp. 160-161, rubricile Repere. Unele exemple sunt create pentru aceste notițe.</text>
 </svg>

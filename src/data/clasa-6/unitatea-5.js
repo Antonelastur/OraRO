@@ -173,7 +173,7 @@ export const unitatea5 = {
         ],
         resurse: [
           'Manual Art 6, pp. 158-159',
-          'Schema „Acțiunea, spațiul și timpul” (/materiale/clasa-6/unitatea-5/lectia-3/schema.svg)',
+          'Schema „Acțiunea, spațiul și timpul într-o schiță” (/materiale/clasa-6/unitatea-5/lectia-3/schema.svg)',
           'O hartă sau acces la internet',
         ],
         desfasurare: [
@@ -217,7 +217,7 @@ export const unitatea5 = {
         fisa: null,
         joc: null,
         infografic: null,
-        schema: { fisier: '/materiale/clasa-6/unitatea-5/lectia-3/schema.svg', titlu: 'Acțiunea, spațiul și timpul' },
+        schema: { fisier: '/materiale/clasa-6/unitatea-5/lectia-3/schema.svg', titlu: 'Acțiunea, spațiul și timpul într-o schiță' },
         altele: [],
       },
     },
@@ -933,7 +933,7 @@ export const unitatea5 = {
         ],
         resurse: [
           'Manual Art 6, pp. 180-181',
-          'Schema „Adjectivul (actualizare)” (/materiale/clasa-6/unitatea-5/lectia-14/schema.svg)',
+          'Schema „Adjectivul. Gradele de comparație” (/materiale/clasa-6/unitatea-5/lectia-14/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -977,7 +977,7 @@ export const unitatea5 = {
         fisa: null,
         joc: null,
         infografic: null,
-        schema: { fisier: '/materiale/clasa-6/unitatea-5/lectia-14/schema.svg', titlu: 'Adjectivul (actualizare)' },
+        schema: { fisier: '/materiale/clasa-6/unitatea-5/lectia-14/schema.svg', titlu: 'Adjectivul. Gradele de comparație' },
         altele: [],
       },
     },
