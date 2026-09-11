@@ -47,6 +47,20 @@ def verifica_celule(f):
                         print(f'ATENȚIE: {f["cale"]}, ex. {b["n"]}: „{text}” nu încape în celulă')
 
 
+def _umple(blocks, reper):
+    """Pe paginile fără rânduri de scris, spațiul rămas liber mărește rândurile tabelelor."""
+    tabele = [b for b in blocks if b['t'] == 'table']
+    if not tabele or any(b['t'] == 'lines' for b in blocks):
+        return
+    pg = new_page(new_doc())
+    _layout_page(pg, blocks, reper)
+    ys = [it[2].y for d in pg.get_drawings() for it in d['items'] if it[0] == 'l']
+    jos = max(ys + [b[3] for b in pg.get_text('blocks')])
+    plus = min(14, int((FOOT_LIMIT - 12 - jos) / sum(b['rows'] for b in tabele)))
+    for b in tabele:
+        b['row_h'] += max(0, plus)
+
+
 def build(f):
     f.setdefault('titlu', 'Fișă de exerciții — ' + titlu_lectie(f['cale']))
     verifica_celule(f)
@@ -57,7 +71,9 @@ def build(f):
         header(p, f['titlu'], f['sub'])
         if f['titlu'][:30] not in p.get_text().replace('‐', '-'):
             print(f'ATENȚIE: {f["cale"]}: titlul nu încape în antet')
-        _layout_page(p, blocks, f.get('reper') if i == 0 else None)
+        reper = f.get('reper') if i == 0 else None
+        _umple(blocks, reper)
+        _layout_page(p, blocks, reper)
         footer(p, f['sursa'] + (f' Pagina {i + 1} din {n}.' if n > 1 else ''))
         # ultima linie desenată nu are voie să intre în subsol
         ys = [it[2].y for d in p.get_drawings() for it in d['items'] if it[0] == 'l']
@@ -108,7 +124,9 @@ def leaga(cale):
     if os.path.exists(plan):
         p = open(plan, encoding='utf-8').read()
         k = p.find(f"'{lectie}': {{")
-        if k >= 0 and resursa not in p[k:p.find("'lectia-", k + 1)]:
+        blok = p[k:p.find("'lectia-", k + 1)]
+        # planurile detaliate scriu resursa prin helperul fisa(n)
+        if k >= 0 and resursa not in blok and f"fisa({lectie.split('-')[1]})" not in blok:
             j = p.find('resurse: [', k)
             if j >= 0:
                 p = p[:j] + re.sub(r"(resurse: \['(?:[^'\\]|\\.)*')", lambda m: f"{m.group(1)}, '{resursa}'", p[j:], count=1)

@@ -53,10 +53,14 @@ def section(page, y, number, title):
 
 
 def item(page, y, text, fontsize=11, gap=14):
-    page.insert_textbox(fitz.Rect(48, y, W - 40, y + 100), text,
-                         fontsize=fontsize, fontname="F-reg", color=TEXT, align=0, lineheight=1.4)
-    chars_per_line = int((W - 88) / (fontsize * 0.5))
-    lines = max(1, math.ceil(len(text) / chars_per_line))
+    rc = page.insert_textbox(fitz.Rect(48, y, W - 40, y + 100), text,
+                              fontsize=fontsize, fontname="F-reg", color=TEXT, align=0, lineheight=1.4)
+    if rc >= 0:
+        # rândurile scrise efectiv (rc = spațiul rămas nefolosit în casetă)
+        lines = max(1, round((100 - rc) / (fontsize * 1.4)))
+    else:
+        chars_per_line = int((W - 88) / (fontsize * 0.5))
+        lines = max(1, math.ceil(len(text) / chars_per_line))
     return y + lines * fontsize * 1.4 + gap
 
 
