@@ -1,40 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 596" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="1000" height="596" fill="#faf7f0"/>
-  <text x="500" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Vocea și corpul, când prezinți</text>
-  <text x="500" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V · Comunicare orală</text>
-  <rect x="36" y="96" width="928" height="58" rx="12" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="56" y="120" font-size="13" font-weight="700" fill="#10233f">Într-o prezentare orală contează la fel de mult ce spui și cum spui</text>
-  <text x="56" y="140" font-size="12" fill="#3d4a5f">Verbal: cuvintele alese.  Paraverbal: cum sună vocea.  Nonverbal: ce arată corpul.</text>
-  <rect x="36" y="166" width="452" height="34" rx="10" fill="#3b5fa8"/>
-  <text x="262" y="189" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">PARAVERBALE · VOCEA</text>
-  <rect x="512" y="166" width="452" height="34" rx="10" fill="#a1417e"/>
-  <text x="738" y="189" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">NONVERBALE · CORPUL</text>
-  <rect x="36" y="212" width="452" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="56" y="236" font-size="13" font-weight="700" fill="#10233f">Intensitatea vocii</text>
-  <text x="56" y="256" font-size="12" fill="#3d4a5f">potrivită publicului și sălii, nici prea tare, nici prea încet</text>
-  <rect x="36" y="282" width="452" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="56" y="306" font-size="13" font-weight="700" fill="#10233f">Intonația</text>
-  <text x="56" y="326" font-size="12" fill="#3d4a5f">accentuează ce e important</text>
-  <rect x="36" y="352" width="452" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="56" y="376" font-size="13" font-weight="700" fill="#10233f">Ritmul</text>
-  <text x="56" y="396" font-size="12" fill="#3d4a5f">mai rar decât în conversație, ca ascultătorii să înțeleagă</text>
-  <rect x="36" y="422" width="452" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="56" y="446" font-size="13" font-weight="700" fill="#10233f">Pauza</text>
-  <text x="56" y="466" font-size="12" fill="#3d4a5f">subliniază o idee importantă</text>
-  <rect x="512" y="212" width="452" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
-  <text x="532" y="236" font-size="13" font-weight="700" fill="#10233f">Mimica</text>
-  <text x="532" y="256" font-size="12" fill="#3d4a5f">arată deschidere; un chip zâmbitor, nu unul încruntat</text>
-  <rect x="512" y="282" width="452" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
-  <text x="532" y="306" font-size="13" font-weight="700" fill="#10233f">Gesturile</text>
-  <text x="532" y="326" font-size="12" fill="#3d4a5f">măsurate și firești, întăresc spusele</text>
-  <rect x="512" y="352" width="452" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
-  <text x="532" y="376" font-size="13" font-weight="700" fill="#10233f">Poziția corpului</text>
-  <text x="532" y="396" font-size="12" fill="#3d4a5f">sigură, dreaptă, dar nu rigidă</text>
-  <rect x="512" y="422" width="452" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
-  <text x="532" y="446" font-size="13" font-weight="700" fill="#10233f">Contactul vizual</text>
-  <text x="532" y="466" font-size="12" fill="#3d4a5f">arată respect; privești toată sala, nu un singur om</text>
-  <rect x="36" y="492" width="928" height="58" rx="12" fill="#ffffff" stroke="#c1503a" stroke-width="2"/>
-  <text x="56" y="516" font-size="13" font-weight="700" fill="#10233f">Capcana</text>
-  <text x="56" y="536" font-size="12" fill="#3d4a5f">Intonația NU e nonverbală. Tot ce ține de voce e paraverbal, tot ce ține de corp e nonverbal.</text>
-  <text x="500" y="582" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 7, pp. 155-156</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 722" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="722" fill="#faf7f0"/>
+<text x="80.4" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="740.9" lengthAdjust="spacing">Elemente paraverbale și nonverbale în prezentarea orală</text>
+<text x="220.0" y="74.4" font-size="14" fill="#5b6b83" textLength="460.0" lengthAdjust="spacing">Clasa a V-a · Unitatea V, Lecția 8 · Manual, pp. 155-156 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CONȚINUTUL ȘI MODUL DE PREZENTARE</text>
+<rect x="40" y="128.6" width="820" height="90.3" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" textLength="163.2" lengthAdjust="spacing">Într-o prezentare orală,</text>
+<text x="229.5" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="16.3" lengthAdjust="spacing">ce</text>
+<text x="250.1" y="162.6" font-size="16" fill="#10233f" textLength="44.0" lengthAdjust="spacing">spui și</text>
+<text x="298.5" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="32.2" lengthAdjust="spacing">cum</text>
+<text x="334.9" y="162.6" font-size="16" fill="#10233f" textLength="210.1" lengthAdjust="spacing">spui sunt la fel de importante.</text>
+<text x="62.0" y="196.4" font-size="15" fill="#3a3226" textLength="621.4" lengthAdjust="spacing">Folosite potrivit, elementele paraverbale și nonverbale îi ajută pe ascultători să înțeleagă tema.</text>
+<rect x="40" y="238.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="261.9" font-size="16" font-weight="700" fill="#ffffff">2. CE FOLOSESC</text>
+<rect x="40" y="272.9" width="820" height="198.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="171.4" y="305.9" font-size="15" fill="#10233f" font-weight="700" textLength="159.3" lengthAdjust="spacing">PARAVERBALE (vocea)</text>
+<text x="62.0" y="331.4" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="331.4" font-size="15" fill="#3a3226" font-weight="700" textLength="120.3" lengthAdjust="spacing">intensitatea vocii</text>
+<text x="194.5" y="331.4" font-size="15" fill="#3a3226" textLength="237.6" lengthAdjust="spacing">: potrivită publicului și sălii, nici prea</text>
+<text x="74.2" y="353.1" font-size="15" fill="#3a3226" textLength="128.7" lengthAdjust="spacing">tare, nici prea încet;</text>
+<text x="62.0" y="377.9" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="377.9" font-size="15" fill="#3a3226" font-weight="700" textLength="63.8" lengthAdjust="spacing">intonația</text>
+<text x="142.0" y="377.9" font-size="15" fill="#3a3226" textLength="168.9" lengthAdjust="spacing">subliniază ce e important;</text>
+<text x="62.0" y="402.6" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="402.6" font-size="15" fill="#3a3226" font-weight="700" textLength="43.2" lengthAdjust="spacing">ritmul</text>
+<text x="121.5" y="402.6" font-size="15" fill="#3a3226" textLength="317.1" lengthAdjust="spacing">e mai rar decât într-o conversație, ca ascultătorii</text>
+<text x="74.2" y="424.4" font-size="15" fill="#3a3226" textLength="166.2" lengthAdjust="spacing">să aibă timp să înțeleagă;</text>
+<text x="62.0" y="449.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="449.1" font-size="15" fill="#3a3226" font-weight="700" textLength="41.8" lengthAdjust="spacing">pauza</text>
+<text x="120.1" y="449.1" font-size="15" fill="#3a3226" textLength="210.0" lengthAdjust="spacing">poate scoate în evidență o idee.</text>
+<text x="569.6" y="305.9" font-size="15" fill="#10233f" font-weight="700" textLength="158.8" lengthAdjust="spacing">NONVERBALE (corpul)</text>
+<text x="460.0" y="331.4" font-size="15" fill="#3a3226">•</text>
+<text x="472.2" y="331.4" font-size="15" fill="#3a3226" font-weight="700" textLength="51.3" lengthAdjust="spacing">mimica</text>
+<text x="523.5" y="331.4" font-size="15" fill="#3a3226" textLength="296.0" lengthAdjust="spacing">: deschidere față de public, un chip zâmbitor;</text>
+<text x="460.0" y="356.1" font-size="15" fill="#3a3226">•</text>
+<text x="472.2" y="356.1" font-size="15" fill="#3a3226" font-weight="700" textLength="61.5" lengthAdjust="spacing">gesturile</text>
+<text x="533.7" y="356.1" font-size="15" fill="#3a3226" textLength="237.9" lengthAdjust="spacing">: măsurate și firești, întăresc spusele;</text>
+<text x="460.0" y="380.9" font-size="15" fill="#3a3226">•</text>
+<text x="472.2" y="380.9" font-size="15" fill="#3a3226" font-weight="700" textLength="110.5" lengthAdjust="spacing">poziția corpului</text>
+<text x="582.8" y="380.9" font-size="15" fill="#3a3226" textLength="201.4" lengthAdjust="spacing">: sigură, dreaptă, dar nu rigidă;</text>
+<text x="460.0" y="405.6" font-size="15" fill="#3a3226">•</text>
+<text x="472.2" y="405.6" font-size="15" fill="#3a3226" font-weight="700" textLength="111.0" lengthAdjust="spacing">contactul vizual</text>
+<text x="587.2" y="405.6" font-size="15" fill="#3a3226" textLength="207.3" lengthAdjust="spacing">arată respect; nu privesc doar o</text>
+<text x="472.2" y="427.4" font-size="15" fill="#3a3226" textLength="64.2" lengthAdjust="spacing">persoană.</text>
+<rect x="40" y="491.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="514.6" font-size="16" font-weight="700" fill="#ffffff">3. MĂ AUTOEVALUEZ DUPĂ PREZENTARE</text>
+<rect x="40" y="525.6" width="820" height="145.7" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="543.6" width="380.0" height="109.7" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="571.6" font-size="16" fill="#0d9c92" font-weight="700" textLength="77.9" lengthAdjust="spacing">conținutul</text>
+<text x="78.0" y="594.9" font-size="14.5" fill="#3a3226" textLength="307.3" lengthAdjust="spacing">informații clare, bine alese · un plan · explicații la</text>
+<text x="78.0" y="616.0" font-size="14.5" fill="#3a3226" textLength="339.6" lengthAdjust="spacing">întrebări · legătura cu ce am învățat · opinii motivate ·</text>
+<text x="78.0" y="637.0" font-size="14.5" fill="#3a3226" textLength="114.0" lengthAdjust="spacing">interesul colegilor</text>
+<rect x="458.0" y="543.6" width="380.0" height="109.7" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="571.6" font-size="16" fill="#6f5ea8" font-weight="700" textLength="89.6" lengthAdjust="spacing">prezentarea</text>
+<text x="474.0" y="594.9" font-size="14.5" fill="#3a3226" textLength="345.8" lengthAdjust="spacing">intonație potrivită, fără blocaje, în timp · contact vizual</text>
+<text x="474.0" y="616.0" font-size="14.5" fill="#3a3226" textLength="322.2" lengthAdjust="spacing">· corp sigur · ritm potrivit · gesturi naturale · fără să</text>
+<text x="474.0" y="637.0" font-size="14.5" fill="#3a3226" textLength="154.7" lengthAdjust="spacing">citesc planul · entuziasm</text>
+<text x="283.5" y="702.8" font-size="11.5" fill="#5b6b83" textLength="333.0" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 155-156, rubrica Repere și autoevaluarea.</text>
 </svg>

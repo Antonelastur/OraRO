@@ -226,7 +226,7 @@ export const unitatea5 = {
         ],
         resurse: [
           'Manual Art 5, pp. 144-145',
-          'Schema „Acțiunea. Timpul și spațiul” (/materiale/clasa-5/unitatea-5/lectia-2/schema.svg)',
+          'Schema „Basmul. Acțiunea, timpul și spațiul” (/materiale/clasa-5/unitatea-5/lectia-2/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -407,7 +407,7 @@ export const unitatea5 = {
           ],
         },
         infografic: null,
-        schema: { fisier: '/materiale/clasa-5/unitatea-5/lectia-2/schema.svg', titlu: 'Acțiunea. Timpul și spațiul' },
+        schema: { fisier: '/materiale/clasa-5/unitatea-5/lectia-2/schema.svg', titlu: 'Basmul. Acțiunea, timpul și spațiul' },
         altele: [],
       },
     },
@@ -429,7 +429,7 @@ export const unitatea5 = {
         ],
         resurse: [
           'Manual Art 5, pp. 146-147',
-          'Schema „Personajele, în basm” (/materiale/clasa-5/unitatea-5/lectia-3/schema.svg)',
+          'Schema „Personajele basmului” (/materiale/clasa-5/unitatea-5/lectia-3/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -588,7 +588,7 @@ export const unitatea5 = {
           ],
         },
         infografic: null,
-        schema: { fisier: '/materiale/clasa-5/unitatea-5/lectia-3/schema.svg', titlu: 'Personajele, în basm' },
+        schema: { fisier: '/materiale/clasa-5/unitatea-5/lectia-3/schema.svg', titlu: 'Personajele basmului' },
         altele: [],
       },
     },
@@ -1177,7 +1177,7 @@ export const unitatea5 = {
         ],
         resurse: [
           'Manual Art 5, p. 158',
-          'Schema „Numeralul cardinal” (/materiale/clasa-5/unitatea-5/lectia-10/schema.svg)',
+          'Schema „Numeralul. Numeralul cardinal” (/materiale/clasa-5/unitatea-5/lectia-10/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -1336,7 +1336,7 @@ export const unitatea5 = {
           ],
         },
         infografic: null,
-        schema: { fisier: '/materiale/clasa-5/unitatea-5/lectia-10/schema.svg', titlu: 'Numeralul cardinal' },
+        schema: { fisier: '/materiale/clasa-5/unitatea-5/lectia-10/schema.svg', titlu: 'Numeralul. Numeralul cardinal' },
         altele: [],
       },
     },
@@ -1358,7 +1358,7 @@ export const unitatea5 = {
         ],
         resurse: [
           'Manual Art 5, p. 160',
-          'Schema „Numeralul ordinal” (/materiale/clasa-5/unitatea-5/lectia-11/schema.svg)',
+          'Schema „Numeralul ordinal. Numeralul, aspecte normative” (/materiale/clasa-5/unitatea-5/lectia-11/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -1539,7 +1539,7 @@ export const unitatea5 = {
           ],
         },
         infografic: null,
-        schema: { fisier: '/materiale/clasa-5/unitatea-5/lectia-11/schema.svg', titlu: 'Numeralul ordinal' },
+        schema: { fisier: '/materiale/clasa-5/unitatea-5/lectia-11/schema.svg', titlu: 'Numeralul ordinal. Numeralul, aspecte normative' },
         altele: [],
       },
     },

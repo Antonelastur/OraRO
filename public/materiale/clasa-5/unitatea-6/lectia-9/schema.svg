@@ -1,44 +1,74 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 513" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="1000" height="513" fill="#faf7f0"/>
-  <text x="500" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">A explica, a recomanda, a afirma</text>
-  <text x="500" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea VI · Acte de limbaj</text>
-  <rect x="36" y="96" width="301" height="34" rx="10" fill="#3b5fa8"/>
-  <text x="186.5" y="119" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">A EXPLICA</text>
-  <rect x="36" y="142" width="301" height="77" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="56" y="166" font-size="13" font-weight="700" fill="#10233f">Ce faci</text>
-  <text x="56" y="186" font-size="12" fill="#3d4a5f">lămurești un subiect, ca să fie</text>
-  <text x="56" y="205" font-size="12" fill="#3d4a5f">ușor de înțeles</text>
-  <rect x="36" y="231" width="301" height="77" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="56" y="255" font-size="13" font-weight="700" fill="#10233f">Două întrebări</text>
-  <text x="56" y="275" font-size="12" fill="#3d4a5f">de ce? (cauza)</text>
-  <text x="56" y="294" font-size="12" fill="#3d4a5f">cum? (instrucțiuni, un traseu)</text>
-  <rect x="36" y="320" width="301" height="77" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="56" y="344" font-size="13" font-weight="700" fill="#10233f">Cuvinte-cheie</text>
-  <text x="56" y="364" font-size="12" fill="#3d4a5f">pentru că, deoarece, fiindcă;</text>
-  <text x="56" y="383" font-size="12" fill="#3d4a5f">prin urmare, deci, în consecință</text>
-  <rect x="349" y="96" width="301" height="34" rx="10" fill="#a1417e"/>
-  <text x="499.5" y="119" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">A RECOMANDA</text>
-  <rect x="349" y="142" width="301" height="77" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
-  <text x="369" y="166" font-size="13" font-weight="700" fill="#10233f">Ce faci</text>
-  <text x="369" y="186" font-size="12" fill="#3d4a5f">îl îndemni pe cineva să acționeze,</text>
-  <text x="369" y="205" font-size="12" fill="#3d4a5f">îi dai un sfat, îi propui ceva</text>
-  <rect x="349" y="231" width="301" height="96" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
-  <text x="369" y="255" font-size="13" font-weight="700" fill="#10233f">Formule</text>
-  <text x="369" y="275" font-size="12" fill="#3d4a5f">Îți recomand să…</text>
-  <text x="369" y="294" font-size="12" fill="#3d4a5f">Te sfătuiesc să…</text>
-  <text x="369" y="313" font-size="12" fill="#3d4a5f">Îți propun să…</text>
-  <rect x="662" y="96" width="301" height="34" rx="10" fill="#0d9c92"/>
-  <text x="812.5" y="119" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">A AFIRMA</text>
-  <rect x="662" y="142" width="301" height="77" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="682" y="166" font-size="13" font-weight="700" fill="#10233f">Ce faci</text>
-  <text x="682" y="186" font-size="12" fill="#3d4a5f">enunți un fapt sau susții</text>
-  <text x="682" y="205" font-size="12" fill="#3d4a5f">că ceva e adevărat</text>
-  <rect x="662" y="231" width="301" height="77" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="682" y="255" font-size="13" font-weight="700" fill="#10233f">Exemple</text>
-  <text x="682" y="275" font-size="12" fill="#3d4a5f">Pământul este rotund.</text>
-  <text x="682" y="294" font-size="12" fill="#3d4a5f">Recunosc că am greșit.</text>
-  <rect x="36" y="409" width="928" height="58" rx="12" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="56" y="433" font-size="13" font-weight="700" fill="#10233f">Toate trei, într-o singură prezentare</text>
-  <text x="56" y="453" font-size="12" fill="#3d4a5f">Afirmi ceva despre o localitate, explici de ce te atrage și le recomanzi colegilor să o viziteze.</text>
-  <text x="500" y="499" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 7, pp. 183-184</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1035" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1035" fill="#faf7f0"/>
+<text x="136.5" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="629.2" lengthAdjust="spacing">Acte de limbaj: a explica, a recomanda, a afirma</text>
+<text x="218.1" y="74.4" font-size="14" fill="#5b6b83" textLength="463.8" lengthAdjust="spacing">Clasa a V-a · Unitatea VI, Lecția 9 · Manual, pp. 183-184 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. A EXPLICA</text>
+<rect x="40" y="128.6" width="820" height="258.9" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="68.3" lengthAdjust="spacing">A explica</text>
+<text x="134.6" y="162.6" font-size="16" fill="#10233f" textLength="496.5" lengthAdjust="spacing">înseamnă a oferi lămuriri, ca un fapt sau o idee să fie înțelese mai ușor.</text>
+<rect x="62.0" y="181.4" width="380.0" height="88.7" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="209.4" font-size="16" fill="#0d9c92" font-weight="700" textLength="48.3" lengthAdjust="spacing">De ce?</text>
+<text x="78.0" y="232.7" font-size="14.5" fill="#3a3226" textLength="57.0" lengthAdjust="spacing">lămuresc</text>
+<text x="138.9" y="232.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="38.4" lengthAdjust="spacing">cauza</text>
+<text x="181.2" y="232.7" font-size="14.5" fill="#3a3226" textLength="181.7" lengthAdjust="spacing">unui fenomen, a unei acțiuni</text>
+<rect x="458.0" y="181.4" width="380.0" height="88.7" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="209.4" font-size="16" fill="#6f5ea8" font-weight="700" textLength="41.4" lengthAdjust="spacing">Cum?</text>
+<text x="474.0" y="232.7" font-size="14.5" fill="#3a3226" textLength="24.2" lengthAdjust="spacing">dau</text>
+<text x="502.1" y="232.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="78.0" lengthAdjust="spacing">instrucțiuni</text>
+<text x="580.1" y="232.7" font-size="14.5" fill="#3a3226" textLength="235.6" lengthAdjust="spacing">: cum folosesc un aparat, cum prepar</text>
+<text x="474.0" y="253.7" font-size="14.5" fill="#3a3226" textLength="191.4" lengthAdjust="spacing">o prăjitură, cum ajung undeva</text>
+<rect x="62.0" y="284.1" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="305.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="134.6" lengthAdjust="spacing">Cuvinte pentru cauză</text>
+<text x="462.0" y="305.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="166.1" lengthAdjust="spacing">Cuvinte pentru consecință</text>
+<line x1="62.0" y1="315.6" x2="838.0" y2="315.6" stroke="#e3dccb"/>
+<text x="74.0" y="338.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="337.1" lengthAdjust="spacing">pentru că, deoarece, căci, fiindcă, având în vedere, dat</text>
+<text x="74.0" y="359.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="146.7" lengthAdjust="spacing">fiind că, din moment ce</text>
+<text x="462.0" y="338.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="329.3" lengthAdjust="spacing">prin urmare, deci, în consecință, ca urmare, de aceea</text>
+<line x1="62.0" y1="369.5" x2="838.0" y2="369.5" stroke="#e3dccb"/>
+<line x1="450.0" y1="284.1" x2="450.0" y2="369.5" stroke="#e3dccb"/>
+<rect x="40" y="407.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="430.5" font-size="16" font-weight="700" fill="#ffffff">2. A RECOMANDA ȘI A AFIRMA</text>
+<rect x="40" y="441.5" width="820" height="148.6" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="459.5" width="380.0" height="112.6" rx="12" fill="#ffffff" stroke="#9a7433" stroke-width="2"/>
+<text x="78.0" y="487.5" font-size="16" fill="#9a7433" font-weight="700" textLength="97.3" lengthAdjust="spacing">a recomanda</text>
+<text x="78.0" y="510.8" font-size="14.5" fill="#3a3226" textLength="340.0" lengthAdjust="spacing">îl îndemn pe celălalt să acționeze într-un fel, îi dau un</text>
+<text x="78.0" y="531.8" font-size="14.5" fill="#3a3226" textLength="22.9" lengthAdjust="spacing">sfat</text>
+<text x="78.0" y="555.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="305.3" lengthAdjust="spacing">Îți recomand să… Te sfătuiesc să… Îți propun să…</text>
+<rect x="458.0" y="459.5" width="380.0" height="112.6" rx="12" fill="#ffffff" stroke="#10233f" stroke-width="2"/>
+<text x="474.0" y="487.5" font-size="16" fill="#10233f" font-weight="700" textLength="62.1" lengthAdjust="spacing">a afirma</text>
+<text x="474.0" y="510.8" font-size="14.5" fill="#3a3226" textLength="285.6" lengthAdjust="spacing">spun că un fapt există sau că ceva e adevărat</text>
+<text x="474.0" y="534.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="284.5" lengthAdjust="spacing">Pământul este rotund. Recunosc că am greșit.</text>
+<rect x="40" y="610.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="633.1" font-size="16" font-weight="700" fill="#ffffff">3. CUM EXPLIC UN DRUM</text>
+<rect x="40" y="644.1" width="820" height="340.3" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="662.1" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="683.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="67.4" lengthAdjust="spacing">Informația</text>
+<text x="306.8" y="683.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="693.6" x2="838.0" y2="693.6" stroke="#e3dccb"/>
+<text x="74.0" y="716.1" font-size="14.5" fill="#3a3226" textLength="118.6" lengthAdjust="spacing">punctul de plecare</text>
+<text x="306.8" y="716.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="82.1" lengthAdjust="spacing">de la biserică</text>
+<line x1="62.0" y1="726.5" x2="838.0" y2="726.5" stroke="#e3dccb"/>
+<text x="74.0" y="749.0" font-size="14.5" fill="#3a3226" textLength="47.1" lengthAdjust="spacing">direcția</text>
+<text x="306.8" y="749.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="240.1" lengthAdjust="spacing">mergi drept, o iei la dreapta, spre nord</text>
+<line x1="62.0" y1="759.4" x2="838.0" y2="759.4" stroke="#e3dccb"/>
+<text x="74.0" y="781.9" font-size="14.5" fill="#3a3226" textLength="52.3" lengthAdjust="spacing">reperele</text>
+<text x="306.8" y="781.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="317.4" lengthAdjust="spacing">treci pe lângă benzinărie, până la prima intersecție</text>
+<line x1="62.0" y1="792.2" x2="838.0" y2="792.2" stroke="#e3dccb"/>
+<text x="74.0" y="814.7" font-size="14.5" fill="#3a3226" textLength="110.1" lengthAdjust="spacing">distanța și durata</text>
+<text x="306.8" y="814.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="253.0" lengthAdjust="spacing">aproape doi kilometri, o jumătate de oră</text>
+<line x1="62.0" y1="825.1" x2="838.0" y2="825.1" stroke="#e3dccb"/>
+<text x="74.0" y="847.5" font-size="14.5" fill="#3a3226" textLength="132.7" lengthAdjust="spacing">mijlocul de transport</text>
+<text x="306.8" y="847.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="201.3" lengthAdjust="spacing">pe jos, cu autobuzul, cu bicicleta</text>
+<line x1="62.0" y1="857.9" x2="838.0" y2="857.9" stroke="#e3dccb"/>
+<text x="74.0" y="880.4" font-size="14.5" fill="#3a3226" textLength="109.2" lengthAdjust="spacing">punctul de sosire</text>
+<text x="306.8" y="880.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="160.8" lengthAdjust="spacing">casa din spatele spitalului</text>
+<line x1="62.0" y1="890.8" x2="838.0" y2="890.8" stroke="#e3dccb"/>
+<line x1="294.8" y1="662.1" x2="294.8" y2="890.8" stroke="#e3dccb"/>
+<rect x="62.0" y="904.8" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="904.8" width="6" height="61.7" rx="3" fill="#b4432c"/><text x="84.0" y="931.2" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="950.1" font-size="14.5" fill="#3a3226" textLength="101.8" lengthAdjust="spacing">La final adaug o</text>
+<text x="189.7" y="950.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="179.1" lengthAdjust="spacing">recomandare de siguranță</text>
+<text x="368.8" y="950.1" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">:</text>
+<text x="375.9" y="950.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="259.1" lengthAdjust="spacing">Îți recomand să fii atentă când traversezi!</text>
+<text x="126.1" y="1016.0" font-size="11.5" fill="#5b6b83" textLength="647.8" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 183-184, rubrica Repere, dialogul și tabelul de itinerarii. Unele exemple sunt create pentru aceste notițe.</text>
 </svg>

@@ -1,40 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 564" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="1000" height="564" fill="#faf7f0"/>
-  <text x="500" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Basmul și comunicarea, tot la un loc</text>
-  <text x="500" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V · Recapitulare, lectură și comunicare</text>
-  <rect x="36" y="96" width="452" height="34" rx="10" fill="#3b5fa8"/>
-  <text x="262" y="119" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">BASMUL</text>
-  <rect x="512" y="96" width="452" height="34" rx="10" fill="#0d9c92"/>
-  <text x="738" y="119" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">COMUNICARE ȘI INTERCULTURALITATE</text>
-  <rect x="36" y="142" width="452" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="56" y="166" font-size="13" font-weight="700" fill="#10233f">Lumea basmului</text>
-  <text x="56" y="186" font-size="12" fill="#3d4a5f">ireală: întâmplări supranaturale, ființe fabuloase</text>
-  <rect x="36" y="212" width="452" height="77" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="56" y="236" font-size="13" font-weight="700" fill="#10233f">Firul acțiunii</text>
-  <text x="56" y="256" font-size="12" fill="#3d4a5f">echilibru → tulburare → probe →</text>
-  <text x="56" y="275" font-size="12" fill="#3d4a5f">echilibru refăcut, eroul răsplătit</text>
-  <rect x="36" y="301" width="452" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="56" y="325" font-size="13" font-weight="700" fill="#10233f">Timpul și spațiul</text>
-  <text x="56" y="345" font-size="12" fill="#3d4a5f">vagi, imposibil de situat; formule de început și de încheiere</text>
-  <rect x="36" y="371" width="452" height="77" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="56" y="395" font-size="13" font-weight="700" fill="#10233f">Personajele</text>
-  <text x="56" y="415" font-size="12" fill="#3d4a5f">eroul, în slujba binelui, trece probe;</text>
-  <text x="56" y="434" font-size="12" fill="#3d4a5f">alături, ființe cu puteri miraculoase</text>
-  <rect x="512" y="142" width="452" height="58" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="532" y="166" font-size="13" font-weight="700" fill="#10233f">Paraverbal</text>
-  <text x="532" y="186" font-size="12" fill="#3d4a5f">vocea: intensitate, intonație, ritm, pauză</text>
-  <rect x="512" y="212" width="452" height="58" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="532" y="236" font-size="13" font-weight="700" fill="#10233f">Nonverbal</text>
-  <text x="532" y="256" font-size="12" fill="#3d4a5f">corpul: mimică, gesturi, poziție, privire</text>
-  <rect x="512" y="282" width="452" height="58" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="532" y="306" font-size="13" font-weight="700" fill="#10233f">A promite · a declara</text>
-  <text x="532" y="326" font-size="12" fill="#3d4a5f">mă angajez să fac · anunț, recunosc, îmi asum</text>
-  <rect x="512" y="352" width="452" height="77" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="532" y="376" font-size="13" font-weight="700" fill="#10233f">Diversitatea culturală</text>
-  <text x="532" y="396" font-size="12" fill="#3d4a5f">culturi care se influențează;</text>
-  <text x="532" y="415" font-size="12" fill="#3d4a5f">cuvintele călătoresc odată cu lucrurile</text>
-  <rect x="36" y="460" width="928" height="58" rx="12" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="56" y="484" font-size="13" font-weight="700" fill="#10233f">Textele unității</text>
-  <text x="56" y="504" font-size="12" fill="#3d4a5f">Zâna Munților (Petre Ispirescu) · Aladin, din O mie și una de nopți · Nastratin Hogea · Prințesa și mazărea (Andersen)</text>
-  <text x="500" y="550" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, pp. 140-165</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 666" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="666" fill="#faf7f0"/>
+<text x="128.1" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="645.4" lengthAdjust="spacing">Recapitulare. Lectură și comunicare în Unitatea V</text>
+<text x="187.3" y="74.4" font-size="14" fill="#5b6b83" textLength="525.4" lengthAdjust="spacing">Clasa a V-a · Unitatea V, Lecția 15 · Manual, pp. 144-163, 164-165 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. BASMUL</text>
+<rect x="40" y="128.6" width="820" height="198.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="146.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="59.0" lengthAdjust="spacing">Noțiunea</text>
+<text x="306.8" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="49.4" lengthAdjust="spacing">Ce rețin</text>
+<line x1="62.0" y1="178.2" x2="838.0" y2="178.2" stroke="#e3dccb"/>
+<text x="74.0" y="200.7" font-size="14.5" fill="#3a3226" textLength="101.1" lengthAdjust="spacing">lumea basmului</text>
+<text x="306.8" y="200.7" font-size="14.5" fill="#3a3226" textLength="419.2" lengthAdjust="spacing">ireală, cu întâmplări supranaturale; în basm se poate petrece orice</text>
+<line x1="62.0" y1="211.0" x2="838.0" y2="211.0" stroke="#e3dccb"/>
+<text x="74.0" y="233.5" font-size="14.5" fill="#3a3226" textLength="53.9" lengthAdjust="spacing">acțiunea</text>
+<text x="306.8" y="233.5" font-size="14.5" fill="#3a3226" textLength="497.6" lengthAdjust="spacing">echilibru → un eveniment îl strică → probe → echilibrul revine, eroul e răsplătit</text>
+<line x1="62.0" y1="243.8" x2="838.0" y2="243.8" stroke="#e3dccb"/>
+<text x="74.0" y="266.4" font-size="14.5" fill="#3a3226" textLength="100.8" lengthAdjust="spacing">timpul și spațiul</text>
+<text x="306.8" y="266.4" font-size="14.5" fill="#3a3226" textLength="318.3" lengthAdjust="spacing">vagi, imprecise; formule de început și de încheiere</text>
+<line x1="62.0" y1="276.7" x2="838.0" y2="276.7" stroke="#e3dccb"/>
+<text x="74.0" y="299.2" font-size="14.5" fill="#3a3226" textLength="73.5" lengthAdjust="spacing">personajele</text>
+<text x="306.8" y="299.2" font-size="14.5" fill="#3a3226" textLength="470.5" lengthAdjust="spacing">oameni cu puteri supranaturale și ființe fabuloase; eroul e în slujba binelui</text>
+<line x1="62.0" y1="309.6" x2="838.0" y2="309.6" stroke="#e3dccb"/>
+<line x1="294.8" y1="146.6" x2="294.8" y2="309.5" stroke="#e3dccb"/>
+<rect x="40" y="347.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="370.5" font-size="16" font-weight="700" fill="#ffffff">2. COMUNICAREA</text>
+<rect x="40" y="381.5" width="820" height="102.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="414.5" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="414.5" font-size="15" fill="#3a3226" textLength="189.4" lengthAdjust="spacing">În prezentarea orală folosesc</text>
+<text x="267.7" y="414.5" font-size="15" fill="#3a3226" font-weight="700" textLength="88.6" lengthAdjust="spacing">paraverbalul</text>
+<text x="360.4" y="414.5" font-size="15" fill="#3a3226" textLength="293.1" lengthAdjust="spacing">(intensitatea vocii, intonația, ritmul, pauza) și</text>
+<text x="657.5" y="414.5" font-size="15" fill="#3a3226" font-weight="700" textLength="84.6" lengthAdjust="spacing">nonverbalul</text>
+<text x="746.2" y="414.5" font-size="15" fill="#3a3226" textLength="55.4" lengthAdjust="spacing">(mimica,</text>
+<text x="74.2" y="436.3" font-size="15" fill="#3a3226" textLength="284.6" lengthAdjust="spacing">gesturile, poziția corpului, contactul vizual).</text>
+<text x="62.0" y="461.0" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="461.0" font-size="15" fill="#3a3226" font-weight="700" textLength="71.1" lengthAdjust="spacing">A promite</text>
+<text x="145.3" y="461.0" font-size="15" fill="#3a3226" textLength="160.9" lengthAdjust="spacing">: mă angajez să fac ceva.</text>
+<text x="310.3" y="461.0" font-size="15" fill="#3a3226" font-weight="700" textLength="65.7" lengthAdjust="spacing">A declara</text>
+<text x="376.0" y="461.0" font-size="15" fill="#3a3226" textLength="343.0" lengthAdjust="spacing">: anunț, recunosc sau îmi asum ceva, mai ales oficial.</text>
+<rect x="40" y="503.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="526.5" font-size="16" font-weight="700" fill="#ffffff">3. DESCRIEREA UNEI FIINȚE IMAGINARE</text>
+<rect x="40" y="537.5" width="820" height="77.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="570.5" font-size="15" fill="#3a3226" textLength="732.1" lengthAdjust="spacing">trăsături fizice și morale, aspecte fabuloase · substantive, adjective, verbe la prezent sau imperfect · introducere,</text>
+<text x="62.0" y="592.3" font-size="15" fill="#3a3226" textLength="115.2" lengthAdjust="spacing">cuprins, încheiere</text>
+<text x="209.0" y="646.3" font-size="11.5" fill="#5b6b83" textLength="482.1" lengthAdjust="spacing">Sursa: Manual Art 5, rubricile Repere ale lecțiilor 2-11 și cerințele recapitulării de la pp. 164-165.</text>
 </svg>

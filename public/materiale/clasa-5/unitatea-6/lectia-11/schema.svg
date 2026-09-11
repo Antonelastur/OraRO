@@ -1,16 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="320" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Enunțul</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea VI, Lecția 8, partea 1/2</text>
-  <g>
-    <rect x="90" y="100" width="330" height="130" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="255" y="128" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Enunț simplu</text>
-    <text font-size="12" fill="#3a3226" text-anchor="middle"><tspan x="255" y="154" font-style="italic">O propoziție.</tspan><tspan x="255" y="176">Trenul a plecat.</tspan></text>
-  </g>
-  <g>
-    <rect x="480" y="100" width="330" height="130" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="645" y="128" text-anchor="middle" font-size="13.5" font-weight="700" fill="#10233f">Enunț complex</text>
-    <text font-size="12" fill="#3a3226" text-anchor="middle"><tspan x="645" y="154" font-style="italic">Mai multe propoziții.</tspan><tspan x="645" y="176">Trenul a plecat, deși era târziu.</tspan></text>
-  </g>
-  <text x="450" y="280" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 8, p. 185</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 515" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="515" fill="#faf7f0"/>
+<text x="399.0" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="101.9" lengthAdjust="spacing">Enunțul</text>
+<text x="232.6" y="74.4" font-size="14" fill="#5b6b83" textLength="434.8" lengthAdjust="spacing">Clasa a V-a · Unitatea VI, Lecția 11 · Manual, p. 185 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ESTE ENUNȚUL</text>
+<rect x="40" y="128.6" width="820" height="56.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="58.2" lengthAdjust="spacing">Enunțul</text>
+<text x="124.6" y="162.6" font-size="16" fill="#10233f" textLength="496.3" lengthAdjust="spacing">este o unitate de bază a comunicării, construită, de obicei, în jurul unui</text>
+<text x="625.2" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="61.9" lengthAdjust="spacing">predicat</text>
+<text x="687.1" y="162.6" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<rect x="40" y="205.4" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="228.4" font-size="16" font-weight="700" fill="#ffffff">2. ENUNȚUL SIMPLU ȘI ENUNȚUL COMPLEX</text>
+<rect x="40" y="239.4" width="820" height="224.3" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="257.4" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="285.4" font-size="16" fill="#0d9c92" font-weight="700" textLength="50.4" lengthAdjust="spacing">simplu</text>
+<text x="78.0" y="308.7" font-size="14.5" fill="#3a3226" textLength="95.1" lengthAdjust="spacing">alcătuit dintr-o</text>
+<text x="177.0" y="308.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="124.8" lengthAdjust="spacing">singură propoziție</text>
+<text x="78.0" y="332.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="194.6" lengthAdjust="spacing">Cărțile tipărite nu vor dispărea.</text>
+<rect x="458.0" y="257.4" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="285.4" font-size="16" fill="#6f5ea8" font-weight="700" textLength="64.0" lengthAdjust="spacing">complex</text>
+<text x="474.0" y="308.7" font-size="14.5" fill="#3a3226" textLength="70.8" lengthAdjust="spacing">alcătuit din</text>
+<text x="548.7" y="308.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="205.0" lengthAdjust="spacing">două sau mai multe propoziții</text>
+<text x="474.0" y="332.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="335.8" lengthAdjust="spacing">Avem o istorie veche, am supraviețuit multor pericole.</text>
+<rect x="62.0" y="363.0" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="389.5" font-size="14.5" fill="#10233f" font-weight="700" textLength="166.0" lengthAdjust="spacing">Cum număr propozițiile:</text>
+<text x="78.0" y="408.3" font-size="14.5" fill="#3a3226" textLength="26.5" lengthAdjust="spacing">câte</text>
+<text x="108.4" y="408.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="63.9" lengthAdjust="spacing">predicate</text>
+<text x="172.4" y="408.3" font-size="14.5" fill="#3a3226" textLength="46.7" lengthAdjust="spacing">, atâtea</text>
+<text x="223.0" y="408.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="66.3" lengthAdjust="spacing">propoziții</text>
+<text x="289.3" y="408.3" font-size="14.5" fill="#3a3226" textLength="270.4" lengthAdjust="spacing">. În al doilea exemplu sunt două predicate:</text>
+<text x="563.6" y="408.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="34.2" lengthAdjust="spacing">avem</text>
+<text x="597.8" y="408.3" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="604.9" y="408.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="97.9" lengthAdjust="spacing">am supraviețuit</text>
+<text x="702.8" y="408.3" font-size="14.5" fill="#3a3226" textLength="70.0" lengthAdjust="spacing">, deci două</text>
+<text x="78.0" y="429.3" font-size="14.5" fill="#3a3226" textLength="64.4" lengthAdjust="spacing">propoziții.</text>
+<text x="265.4" y="495.2" font-size="11.5" fill="#5b6b83" textLength="369.3" lengthAdjust="spacing">Sursa: Manual Art 5, p. 185, rubrica Repere și dialogul din Pentru început.</text>
 </svg>

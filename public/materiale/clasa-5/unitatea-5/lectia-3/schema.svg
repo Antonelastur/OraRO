@@ -1,21 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="320" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Personajele, în basm</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V, Lecția 3 · Zâna Munților</text>
-  <g>
-    <rect x="60" y="95" width="240" height="140" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="180" y="123" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Eroul</text>
-    <text font-size="11" fill="#3a3226" text-anchor="middle"><tspan x="180" y="150">Pornește într-o</tspan><tspan x="180" y="166">încercare, se schimbă.</tspan></text>
-  </g>
-  <g>
-    <rect x="330" y="95" width="240" height="140" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="450" y="123" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Ajutorul fantastic</text>
-    <text font-size="11" fill="#3a3226" text-anchor="middle"><tspan x="450" y="150">O ființă cu puteri</tspan><tspan x="450" y="166">magice, ca zâna.</tspan></text>
-  </g>
-  <g>
-    <rect x="600" y="95" width="240" height="140" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="720" y="123" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Personajul negativ</text>
-    <text font-size="11" fill="#3a3226" text-anchor="middle"><tspan x="720" y="150">Se opune eroului,</tspan><tspan x="720" y="166">creează obstacole.</tspan></text>
-  </g>
-  <text x="450" y="270" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 3, pp. 146-147</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1012" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1012" fill="#faf7f0"/>
+<text x="310.6" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="279.1" lengthAdjust="spacing">Personajele basmului</text>
+<text x="220.0" y="74.4" font-size="14" fill="#5b6b83" textLength="460.0" lengthAdjust="spacing">Clasa a V-a · Unitatea V, Lecția 3 · Manual, pp. 146-147 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CINE TRĂIEȘTE ÎN BASME</text>
+<rect x="40" y="128.6" width="820" height="124.7" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="146.6" width="380.0" height="88.7" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="174.6" font-size="16" fill="#0d9c92" font-weight="700" textLength="242.1" lengthAdjust="spacing">oameni cu calități supranaturale</text>
+<text x="78.0" y="197.9" font-size="14.5" fill="#3a3226" textLength="340.0" lengthAdjust="spacing">puteri excepționale, capacitatea de a se transforma în</text>
+<text x="78.0" y="218.9" font-size="14.5" fill="#3a3226" textLength="44.4" lengthAdjust="spacing">altceva</text>
+<rect x="458.0" y="146.6" width="380.0" height="88.7" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="174.6" font-size="16" fill="#6f5ea8" font-weight="700" textLength="117.1" lengthAdjust="spacing">ființe fabuloase</text>
+<text x="474.0" y="197.9" font-size="14.5" fill="#3a3226" textLength="265.1" lengthAdjust="spacing">zâne, zmei, căpcăuni, animale năzdrăvane</text>
+<rect x="40" y="273.3" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="296.3" font-size="16" font-weight="700" fill="#ffffff">2. EROUL DIN BASM</text>
+<rect x="40" y="307.3" width="820" height="136.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="341.3" font-size="16" fill="#10233f" font-weight="700" textLength="38.9" lengthAdjust="spacing">Eroul</text>
+<text x="105.2" y="341.3" font-size="16" fill="#10233f" textLength="91.5" lengthAdjust="spacing">este în slujba</text>
+<text x="201.0" y="341.3" font-size="16" fill="#10233f" font-weight="700" textLength="51.5" lengthAdjust="spacing">binelui</text>
+<text x="256.9" y="341.3" font-size="16" fill="#10233f" textLength="23.0" lengthAdjust="spacing">și a</text>
+<text x="284.2" y="341.3" font-size="16" fill="#10233f" font-weight="700" textLength="65.0" lengthAdjust="spacing">dreptății</text>
+<text x="353.5" y="341.3" font-size="16" fill="#10233f" textLength="96.8" lengthAdjust="spacing">(erou pozitiv).</text>
+<text x="62.0" y="375.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="375.1" font-size="15" fill="#3a3226" textLength="43.9" lengthAdjust="spacing">Are un</text>
+<text x="122.2" y="375.1" font-size="15" fill="#3a3226" font-weight="700" textLength="32.2" lengthAdjust="spacing">scop</text>
+<text x="154.4" y="375.1" font-size="15" fill="#3a3226" textLength="683.5" lengthAdjust="spacing">: să îndeplinească o misiune, să-i înfrângă pe cei răi (personajele negative), să-și găsească dragostea sau</text>
+<text x="74.2" y="396.8" font-size="15" fill="#3a3226" textLength="53.8" lengthAdjust="spacing">norocul.</text>
+<text x="62.0" y="421.6" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="421.6" font-size="15" fill="#3a3226" textLength="219.9" lengthAdjust="spacing">Ca să reușească, trebuie să treacă</text>
+<text x="298.1" y="421.6" font-size="15" fill="#3a3226" font-weight="700" textLength="41.9" lengthAdjust="spacing">probe</text>
+<text x="340.0" y="421.6" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="40" y="464.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="487.1" font-size="16" font-weight="700" fill="#ffffff">3. PIRAMIDA PERSONAJELOR</text>
+<rect x="40" y="498.1" width="820" height="124.7" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="516.1" width="248.0" height="88.7" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="544.1" font-size="16" fill="#0d9c92" font-weight="700" textLength="74.4" lengthAdjust="spacing">principale</text>
+<text x="78.0" y="567.4" font-size="14.5" fill="#3a3226" textLength="109.8" lengthAdjust="spacing">în centrul acțiunii</text>
+<rect x="326.0" y="516.1" width="248.0" height="88.7" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="342.0" y="544.1" font-size="16" fill="#6f5ea8" font-weight="700" textLength="76.5" lengthAdjust="spacing">secundare</text>
+<text x="342.0" y="567.4" font-size="14.5" fill="#3a3226" textLength="164.7" lengthAdjust="spacing">ajută sau încurcă acțiunea</text>
+<rect x="590.0" y="516.1" width="248.0" height="88.7" rx="12" fill="#ffffff" stroke="#9a7433" stroke-width="2"/>
+<text x="606.0" y="544.1" font-size="16" fill="#9a7433" font-weight="700" textLength="70.6" lengthAdjust="spacing">episodice</text>
+<text x="606.0" y="567.4" font-size="14.5" fill="#3a3226" textLength="214.6" lengthAdjust="spacing">apar o singură dată sau de câteva</text>
+<text x="606.0" y="588.4" font-size="14.5" fill="#3a3226" textLength="17.1" lengthAdjust="spacing">ori</text>
+<rect x="40" y="642.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="665.8" font-size="16" font-weight="700" fill="#ffffff">4. DIN FAPTE LA TRĂSĂTURI</text>
+<rect x="40" y="676.8" width="820" height="284.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="709.8" font-size="15" fill="#3a3226" textLength="594.1" lengthAdjust="spacing">Deduc trăsăturile din ce fac și din ce spun personajele. În caiet notez trăsătura lângă pasaj:</text>
+<rect x="62.0" y="728.2" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="749.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="44.5" lengthAdjust="spacing">Pasajul</text>
+<text x="632.7" y="749.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="60.1" lengthAdjust="spacing">Trăsătura</text>
+<line x1="62.0" y1="759.8" x2="838.0" y2="759.8" stroke="#e3dccb"/>
+<text x="74.0" y="782.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="346.5" lengthAdjust="spacing">„Ajunsese să nu mai aibă dascălii ce să-i dea să învețe.”</text>
+<text x="424.4" y="782.3" font-size="14.5" fill="#3a3226" textLength="101.6" lengthAdjust="spacing">(fiul de împărat)</text>
+<text x="632.7" y="782.3" font-size="14.5" fill="#3a3226" textLength="10.6" lengthAdjust="spacing">…</text>
+<line x1="62.0" y1="792.6" x2="838.0" y2="792.6" stroke="#e3dccb"/>
+<text x="74.0" y="815.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="493.0" lengthAdjust="spacing">„Toată curtea împărătească lua în nume de bine pe această găinăreasă, pentru</text>
+<text x="74.0" y="836.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="156.6" lengthAdjust="spacing">vrednicia și curățenia ei.”</text>
+<text x="234.5" y="836.2" font-size="14.5" fill="#3a3226" textLength="38.3" lengthAdjust="spacing">(zâna)</text>
+<text x="632.7" y="815.1" font-size="14.5" fill="#3a3226" textLength="10.6" lengthAdjust="spacing">…</text>
+<line x1="62.0" y1="846.5" x2="838.0" y2="846.5" stroke="#e3dccb"/>
+<line x1="620.7" y1="728.2" x2="620.7" y2="846.5" stroke="#e3dccb"/>
+<rect x="62.0" y="860.5" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="887.0" font-size="14.5" fill="#10233f" font-weight="700" textLength="113.8" lengthAdjust="spacing">Comparații utile:</text>
+<text x="78.0" y="905.9" font-size="14.5" fill="#3a3226" textLength="109.9" lengthAdjust="spacing">fiul împăratului și</text>
+<text x="191.8" y="905.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="77.6" lengthAdjust="spacing">Făt-Frumos</text>
+<text x="269.4" y="905.9" font-size="14.5" fill="#3a3226" textLength="110.9" lengthAdjust="spacing">; Zâna Munților și</text>
+<text x="384.2" y="905.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="84.4" lengthAdjust="spacing">Cenușăreasa</text>
+<text x="468.6" y="905.9" font-size="14.5" fill="#3a3226" textLength="335.2" lengthAdjust="spacing">, în diagrame Venn: asemănări la mijloc, deosebiri pe</text>
+<text x="78.0" y="926.9" font-size="14.5" fill="#3a3226" textLength="35.8" lengthAdjust="spacing">laturi.</text>
+<text x="241.3" y="992.8" font-size="11.5" fill="#5b6b83" textLength="417.4" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 146-147, rubrica Repere; citatele sunt din „Zâna Munților”.</text>
 </svg>

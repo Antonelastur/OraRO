@@ -32,7 +32,7 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Înțelege noțiunea de miraculos în basme și identifică reperele de timp și de spațiu din textul-suport.'],
-    resurse: ['Manual Art 5, pp. 144-145', 'Schema „Acțiunea. Timpul și spațiul” (/materiale/clasa-5/unitatea-5/lectia-2/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 5, pp. 144-145', 'Schema „Basmul. Acțiunea, timpul și spațiul” (/materiale/clasa-5/unitatea-5/lectia-2/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Îi întreb pe elevi ce lucruri se întâmplă în basm care nu s-ar putea întâmpla în realitate.' },
@@ -49,7 +49,7 @@ export default {
     tipOra: 'Predare, interpretare',
     durata: 50,
     obiective: ['Identifică personajele și rolul lor în basm și le compară cu alte personaje din basme cunoscute (Făt-Frumos, Cenușăreasa).'],
-    resurse: ['Manual Art 5, pp. 146-147', 'Schema „Personajele, în basm” (/materiale/clasa-5/unitatea-5/lectia-3/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 5, pp. 146-147', 'Schema „Personajele basmului” (/materiale/clasa-5/unitatea-5/lectia-3/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le cer elevilor să numească un erou și un răufăcător din basmele pe care le știu.' },
@@ -168,7 +168,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Identifică numeralele cardinale și transcrie corect în litere numerele dintr-un text.'],
-    resurse: ['Manual Art 5, p. 158', 'Schema „Numeralul cardinal” (/materiale/clasa-5/unitatea-5/lectia-10/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 5, p. 158', 'Schema „Numeralul. Numeralul cardinal” (/materiale/clasa-5/unitatea-5/lectia-10/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le amintesc formula „a fost odată ca niciodată” și numerele magice din basme, trei probe, șapte zmei, și le scriu pe tablă.' },
@@ -185,7 +185,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Identifică numeralele ordinale și respectă normele de ortografie și ortoepie ale numeralelor simple și compuse.'],
-    resurse: ['Manual Art 5, p. 160', 'Schema „Numeralul ordinal” (/materiale/clasa-5/unitatea-5/lectia-11/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 5, p. 160', 'Schema „Numeralul ordinal. Numeralul, aspecte normative” (/materiale/clasa-5/unitatea-5/lectia-11/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le cer elevilor să spună în ce ordine trec personajele prin probe: prima, a doua, a treia.' },

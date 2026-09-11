@@ -1,38 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="380" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Tipuri de enunț</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea VI, Lecția 8</text>
-
-  <g font-size="12" fill="#3a3226">
-    <rect x="45" y="95" width="180" height="150" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="135" y="122" text-anchor="middle" font-weight="700" fill="#10233f">Asertiv</text>
-    <text x="135" y="148" text-anchor="middle" font-size="11">transmite o</text>
-    <text x="135" y="164" text-anchor="middle" font-size="11">informație</text>
-    <text x="135" y="196" text-anchor="middle" font-style="italic">Trenul a ajuns.</text>
-    <text x="135" y="216" text-anchor="middle" font-size="16" fill="#0d9c92">.</text>
-
-    <rect x="255" y="95" width="180" height="150" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="345" y="122" text-anchor="middle" font-weight="700" fill="#10233f">Interogativ</text>
-    <text x="345" y="148" text-anchor="middle" font-size="11">pune o</text>
-    <text x="345" y="164" text-anchor="middle" font-size="11">întrebare</text>
-    <text x="345" y="196" text-anchor="middle" font-style="italic">A ajuns trenul?</text>
-    <text x="345" y="220" text-anchor="middle" font-size="18" fill="#0d9c92">?</text>
-
-    <rect x="465" y="95" width="180" height="150" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="555" y="122" text-anchor="middle" font-weight="700" fill="#10233f">Imperativ</text>
-    <text x="555" y="148" text-anchor="middle" font-size="11">dă o poruncă</text>
-    <text x="555" y="164" text-anchor="middle" font-size="11">sau un îndemn</text>
-    <text x="555" y="196" text-anchor="middle" font-style="italic">Urcă în tren!</text>
-    <text x="555" y="220" text-anchor="middle" font-size="18" fill="#6f5ea8">!</text>
-
-    <rect x="675" y="95" width="180" height="150" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="765" y="122" text-anchor="middle" font-weight="700" fill="#10233f">Exclamativ</text>
-    <text x="765" y="148" text-anchor="middle" font-size="11">exprimă o</text>
-    <text x="765" y="164" text-anchor="middle" font-size="11">emoție puternică</text>
-    <text x="765" y="196" text-anchor="middle" font-style="italic">Ce călătorie!</text>
-    <text x="765" y="220" text-anchor="middle" font-size="18" fill="#6f5ea8">!</text>
-  </g>
-
-  <text x="450" y="290" text-anchor="middle" font-size="12" fill="#3a3226">Semnul de punctuație de la final marchează tipul enunțului.</text>
-  <text x="450" y="352" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 8, p. 186</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 769" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="769" fill="#faf7f0"/>
+<text x="348.6" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="203.3" lengthAdjust="spacing">Tipuri de enunț</text>
+<text x="214.3" y="74.4" font-size="14" fill="#5b6b83" textLength="471.4" lengthAdjust="spacing">Clasa a V-a · Unitatea VI, Lecția 12 · Manual, pp. 185-186 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. ENUNȚURILE DUPĂ SCOPUL COMUNICĂRII</text>
+<rect x="40" y="128.6" width="820" height="262.0" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="146.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="49.1" lengthAdjust="spacing">Enunțul</text>
+<text x="205.9" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="80.6" lengthAdjust="spacing">Ce comunică</text>
+<text x="462.0" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="113.8" lengthAdjust="spacing">Semnul de la final</text>
+<text x="617.2" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="178.2" x2="838.0" y2="178.2" stroke="#e3dccb"/>
+<text x="74.0" y="200.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="45.4" lengthAdjust="spacing">asertiv</text>
+<text x="205.9" y="200.7" font-size="14.5" fill="#3a3226" textLength="192.8" lengthAdjust="spacing">o informație despre o stare de</text>
+<text x="205.9" y="221.7" font-size="14.5" fill="#3a3226" textLength="40.3" lengthAdjust="spacing">lucruri</text>
+<text x="462.0" y="200.7" font-size="14.5" fill="#3a3226" textLength="94.7" lengthAdjust="spacing">punctul (.); la o</text>
+<text x="462.0" y="221.7" font-size="14.5" fill="#3a3226" textLength="109.8" lengthAdjust="spacing">întrerupere voită,</text>
+<text x="462.0" y="242.7" font-size="14.5" fill="#3a3226" textLength="75.3" lengthAdjust="spacing">punctele de</text>
+<text x="462.0" y="263.7" font-size="14.5" fill="#3a3226" textLength="85.1" lengthAdjust="spacing">suspensie (…)</text>
+<text x="617.2" y="200.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="76.8" lengthAdjust="spacing">Afară plouă.</text>
+<line x1="62.0" y1="274.1" x2="838.0" y2="274.1" stroke="#e3dccb"/>
+<text x="74.0" y="296.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="75.4" lengthAdjust="spacing">interogativ</text>
+<text x="205.9" y="296.6" font-size="14.5" fill="#3a3226" textLength="108.9" lengthAdjust="spacing">cere o informație</text>
+<text x="462.0" y="296.6" font-size="14.5" fill="#3a3226" textLength="126.4" lengthAdjust="spacing">semnul întrebării (?)</text>
+<text x="617.2" y="296.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="156.5" lengthAdjust="spacing">Ai redactat compunerea?</text>
+<line x1="62.0" y1="306.9" x2="838.0" y2="306.9" stroke="#e3dccb"/>
+<text x="74.0" y="329.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="65.4" lengthAdjust="spacing">imperativ</text>
+<text x="205.9" y="329.4" font-size="14.5" fill="#3a3226" textLength="216.2" lengthAdjust="spacing">un ordin, o solicitare, o rugăminte</text>
+<text x="462.0" y="329.4" font-size="14.5" fill="#3a3226" textLength="130.4" lengthAdjust="spacing">semnul exclamării (!)</text>
+<text x="617.2" y="329.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="169.1" lengthAdjust="spacing">Adu-mi cartea de pe birou!</text>
+<line x1="62.0" y1="339.8" x2="838.0" y2="339.8" stroke="#e3dccb"/>
+<text x="74.0" y="362.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="73.4" lengthAdjust="spacing">exclamativ</text>
+<text x="205.9" y="362.3" font-size="14.5" fill="#3a3226" textLength="118.6" lengthAdjust="spacing">emoții, sentimente</text>
+<text x="462.0" y="362.3" font-size="14.5" fill="#3a3226" textLength="130.4" lengthAdjust="spacing">semnul exclamării (!)</text>
+<text x="617.2" y="362.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="133.4" lengthAdjust="spacing">Ce idee bună ai avut!</text>
+<line x1="62.0" y1="372.6" x2="838.0" y2="372.6" stroke="#e3dccb"/>
+<line x1="193.9" y1="146.6" x2="193.9" y2="372.6" stroke="#e3dccb"/>
+<line x1="450.0" y1="146.6" x2="450.0" y2="372.6" stroke="#e3dccb"/>
+<line x1="605.2" y1="146.6" x2="605.2" y2="372.6" stroke="#e3dccb"/>
+<rect x="40" y="410.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="433.6" font-size="16" font-weight="700" fill="#ffffff">2. DIN ASERTIV ÎN ALTE TIPURI</text>
+<rect x="40" y="444.6" width="820" height="100.4" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="462.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="484.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="44.4" lengthAdjust="spacing">Asertiv</text>
+<text x="332.7" y="484.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="70.7" lengthAdjust="spacing">Interogativ</text>
+<text x="591.3" y="484.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="68.2" lengthAdjust="spacing">Exclamativ</text>
+<line x1="62.0" y1="494.2" x2="838.0" y2="494.2" stroke="#e3dccb"/>
+<text x="74.0" y="516.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="112.2" lengthAdjust="spacing">Filmul a fost lung.</text>
+<text x="332.7" y="516.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="115.3" lengthAdjust="spacing">Filmul a fost lung?</text>
+<text x="591.3" y="516.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="131.2" lengthAdjust="spacing">Ce lung a fost filmul!</text>
+<line x1="62.0" y1="527.0" x2="838.0" y2="527.0" stroke="#e3dccb"/>
+<line x1="320.7" y1="462.6" x2="320.7" y2="527.0" stroke="#e3dccb"/>
+<line x1="579.3" y1="462.6" x2="579.3" y2="527.0" stroke="#e3dccb"/>
+<rect x="40" y="565.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="588.0" font-size="16" font-weight="700" fill="#ffffff">3. ATENȚIE LA MESAJELE SCRISE</text>
+<rect x="40" y="599.0" width="820" height="118.7" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="617.0" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="617.0" width="6" height="82.7" rx="3" fill="#b4432c"/><text x="84.0" y="643.5" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="662.4" font-size="14.5" fill="#3a3226" textLength="227.1" lengthAdjust="spacing">Fără semnul de la final, nu știu dacă</text>
+<text x="315.0" y="662.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="59.9" lengthAdjust="spacing">Vii mâine</text>
+<text x="378.8" y="662.4" font-size="14.5" fill="#3a3226" textLength="398.0" lengthAdjust="spacing">este o informație sau o întrebare. Semnele de punctuație arată</text>
+<text x="84.0" y="683.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="52.8" lengthAdjust="spacing">intenția</text>
+<text x="140.7" y="683.4" font-size="14.5" fill="#3a3226" textLength="96.0" lengthAdjust="spacing">celui care scrie.</text>
+<text x="203.8" y="749.2" font-size="11.5" fill="#5b6b83" textLength="492.3" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 185-186, rubrica Repere. Unele exemple sunt create pentru aceste notițe.</text>
 </svg>

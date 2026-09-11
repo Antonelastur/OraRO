@@ -1,39 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 634" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="1000" height="634" fill="#faf7f0"/>
-  <text x="500" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Numeralul, tot la un loc</text>
-  <text x="500" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V · Recapitulare, gramatică</text>
-  <rect x="36" y="96" width="928" height="58" rx="12" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="56" y="120" font-size="13" font-weight="700" fill="#10233f">Numeralul exprimă un număr sau ordinea obiectelor prin numărare</text>
-  <text x="56" y="140" font-size="12" fill="#3d4a5f">Câte? → cardinal: trei pești.   Al câtelea? → ordinal: al treilea pește.</text>
-  <rect x="36" y="166" width="452" height="34" rx="10" fill="#0d9c92"/>
-  <text x="262" y="189" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">CARDINALUL</text>
-  <rect x="512" y="166" width="452" height="34" rx="10" fill="#6f5ea8"/>
-  <text x="738" y="189" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">ORDINALUL</text>
-  <rect x="36" y="212" width="452" height="58" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="56" y="236" font-size="13" font-weight="700" fill="#10233f">Simple și compuse</text>
-  <text x="56" y="256" font-size="12" fill="#3d4a5f">simple: unu ... zece; compuse: unsprezece, o sută cinci</text>
-  <rect x="36" y="282" width="452" height="58" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="56" y="306" font-size="13" font-weight="700" fill="#10233f">Își schimbă forma după gen</text>
-  <text x="56" y="326" font-size="12" fill="#3d4a5f">un băiat, o fată; doi băieți, două fete</text>
-  <rect x="36" y="352" width="452" height="77" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="56" y="376" font-size="13" font-weight="700" fill="#10233f">Un, o sunt numerale când</text>
-  <text x="56" y="396" font-size="12" fill="#3d4a5f">stau lângă alt numeral, lângă singur, numai, doar</text>
-  <text x="56" y="415" font-size="12" fill="#3d4a5f">sau arată o măsură: după o secundă</text>
-  <rect x="512" y="212" width="452" height="58" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="532" y="236" font-size="13" font-weight="700" fill="#10233f">Forma după gen</text>
-  <text x="532" y="256" font-size="12" fill="#3d4a5f">masculin și neutru: al doilea; feminin: a doua</text>
-  <rect x="512" y="282" width="452" height="58" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="532" y="306" font-size="13" font-weight="700" fill="#10233f">Începutul seriei</text>
-  <text x="532" y="326" font-size="12" fill="#3d4a5f">întâiul, întâia = primul, prima</text>
-  <rect x="512" y="352" width="452" height="58" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="532" y="376" font-size="13" font-weight="700" fill="#10233f">Cu cifre</text>
-  <text x="532" y="396" font-size="12" fill="#3d4a5f">arabe sau romane: al XX-lea, a 27-a</text>
-  <rect x="36" y="441" width="928" height="77" rx="12" fill="#ffffff" stroke="#c1503a" stroke-width="2"/>
-  <text x="56" y="465" font-size="13" font-weight="700" fill="#10233f">Capcanele de scriere</text>
-  <text x="56" y="485" font-size="12" fill="#3d4a5f">paisprezece, șaisprezece, șaizeci (nu patrusprezece, șasesprezece) · șaptesprezece, optsprezece</text>
-  <text x="56" y="504" font-size="12" fill="#3d4a5f">ora două, ora douăsprezece, patruzeci și două de cărți: doi se acordă cu femininul</text>
-  <rect x="36" y="530" width="928" height="58" rx="12" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="56" y="554" font-size="13" font-weight="700" fill="#10233f">În texte</text>
-  <text x="56" y="574" font-size="12" fill="#3d4a5f">numeralele sub zece se scriu în cuvinte, celelalte cu cifre: șapte pitici, 64 de căsuțe</text>
-  <text x="500" y="620" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecțiile 9-10, pp. 158-161</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="650" fill="#faf7f0"/>
+<text x="290.7" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="318.9" lengthAdjust="spacing">Recapitulare. Numeralul</text>
+<text x="216.2" y="74.4" font-size="14" fill="#5b6b83" textLength="467.6" lengthAdjust="spacing">Clasa a V-a · Unitatea V, Lecția 16 · Manual, pp. 158-165 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. FELURILE NUMERALULUI</text>
+<rect x="40" y="128.6" width="820" height="166.1" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="146.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="30.1" lengthAdjust="spacing">Felul</text>
+<text x="268.0" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="71.4" lengthAdjust="spacing">Ce exprimă</text>
+<text x="500.8" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="53.7" lengthAdjust="spacing">Exemple</text>
+<line x1="62.0" y1="178.2" x2="838.0" y2="178.2" stroke="#e3dccb"/>
+<text x="74.0" y="200.7" font-size="14.5" fill="#3a3226" textLength="96.6" lengthAdjust="spacing">cardinal simplu</text>
+<text x="268.0" y="200.7" font-size="14.5" fill="#3a3226" textLength="61.9" lengthAdjust="spacing">un număr</text>
+<text x="500.8" y="200.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="55.0" lengthAdjust="spacing">trei, zece</text>
+<line x1="62.0" y1="211.0" x2="838.0" y2="211.0" stroke="#e3dccb"/>
+<text x="74.0" y="233.5" font-size="14.5" fill="#3a3226" textLength="104.8" lengthAdjust="spacing">cardinal compus</text>
+<text x="268.0" y="233.5" font-size="14.5" fill="#3a3226" textLength="61.9" lengthAdjust="spacing">un număr</text>
+<text x="500.8" y="233.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="228.7" lengthAdjust="spacing">șaptesprezece, douăzeci și opt, o mie</text>
+<line x1="62.0" y1="243.8" x2="838.0" y2="243.8" stroke="#e3dccb"/>
+<text x="74.0" y="266.4" font-size="14.5" fill="#3a3226" textLength="44.8" lengthAdjust="spacing">ordinal</text>
+<text x="268.0" y="266.4" font-size="14.5" fill="#3a3226" textLength="48.9" lengthAdjust="spacing">ordinea</text>
+<text x="500.8" y="266.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="269.3" lengthAdjust="spacing">primul, întâiul, al doilea, a doua, al cincilea</text>
+<line x1="62.0" y1="276.7" x2="838.0" y2="276.7" stroke="#e3dccb"/>
+<line x1="256.0" y1="146.6" x2="256.0" y2="276.7" stroke="#e3dccb"/>
+<line x1="488.8" y1="146.6" x2="488.8" y2="276.7" stroke="#e3dccb"/>
+<rect x="40" y="314.7" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="337.7" font-size="16" font-weight="700" fill="#ffffff">2. „UN” ȘI „O”</text>
+<rect x="40" y="348.7" width="820" height="77.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="381.7" font-size="15" fill="#3a3226" font-weight="700" textLength="66.6" lengthAdjust="spacing">numerale</text>
+<text x="132.7" y="381.7" font-size="15" fill="#3a3226" textLength="202.0" lengthAdjust="spacing">când apar cu alte numerale, cu</text>
+<text x="338.7" y="381.7" font-size="15" fill="#10233f" font-style="italic" textLength="126.3" lengthAdjust="spacing">singur, numai, doar</text>
+<text x="469.1" y="381.7" font-size="15" fill="#3a3226" textLength="307.8" lengthAdjust="spacing">sau ca unitate de măsură; altfel sunt, de obicei,</text>
+<text x="780.9" y="381.7" font-size="15" fill="#3a3226" font-weight="700" textLength="52.8" lengthAdjust="spacing">articole</text>
+<text x="62.0" y="403.4" font-size="15" fill="#3a3226" font-weight="700" textLength="77.4" lengthAdjust="spacing">nehotărâte</text>
+<text x="139.4" y="403.4" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">;</text>
+<text x="146.8" y="403.4" font-size="15" fill="#10233f" font-style="italic" textLength="8.1" lengthAdjust="spacing">o</text>
+<text x="158.9" y="403.4" font-size="15" fill="#3a3226" textLength="64.5" lengthAdjust="spacing">poate fi și</text>
+<text x="227.4" y="403.4" font-size="15" fill="#3a3226" font-weight="700" textLength="64.7" lengthAdjust="spacing">pronume</text>
+<text x="292.1" y="403.4" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="299.4" y="403.4" font-size="15" fill="#10233f" font-style="italic" textLength="41.9" lengthAdjust="spacing">O văd.</text>
+<rect x="40" y="445.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="468.9" font-size="16" font-weight="700" fill="#ffffff">3. FORME CORECTE</text>
+<rect x="40" y="479.9" width="820" height="118.7" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="497.9" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="497.9" width="6" height="82.7" rx="3" fill="#b4432c"/><text x="84.0" y="524.5" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="543.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="73.4" lengthAdjust="spacing">optsprezece</text>
+<text x="157.4" y="543.3" font-size="14.5" fill="#3a3226" textLength="23.6" lengthAdjust="spacing">, nu</text>
+<text x="184.9" y="543.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="81.2" lengthAdjust="spacing">optâsprezece</text>
+<text x="270.0" y="543.3" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">·</text>
+<text x="277.1" y="543.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="108.6" lengthAdjust="spacing">douăsprezece mii</text>
+<text x="385.7" y="543.3" font-size="14.5" fill="#3a3226" textLength="149.9" lengthAdjust="spacing">, cu substantiv feminin ·</text>
+<text x="539.6" y="543.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="140.4" lengthAdjust="spacing">treizeci și una de litere</text>
+<text x="683.9" y="543.3" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">·</text>
+<text x="691.0" y="543.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="122.8" lengthAdjust="spacing">unul din patru copii</text>
+<text x="817.7" y="543.3" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">·</text>
+<text x="84.0" y="564.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="41.2" lengthAdjust="spacing">șaizeci</text>
+<text x="125.2" y="564.3" font-size="14.5" fill="#3a3226" textLength="23.6" lengthAdjust="spacing">, nu</text>
+<text x="152.7" y="564.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="50.3" lengthAdjust="spacing">șasezeci</text>
+<text x="207.0" y="564.3" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">·</text>
+<text x="214.1" y="564.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="150.1" lengthAdjust="spacing">paisprezece, șaisprezece</text>
+<text x="158.9" y="630.2" font-size="11.5" fill="#5b6b83" textLength="582.1" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 158-161, rubricile Repere ale lecțiilor 9-10. Unele exemple sunt create pentru aceste notițe.</text>
 </svg>

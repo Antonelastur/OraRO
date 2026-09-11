@@ -1,43 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 615" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="1000" height="615" fill="#faf7f0"/>
-  <text x="500" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cum descriu o ființă imaginară</text>
-  <text x="500" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V · Redactare</text>
-  <rect x="36" y="96" width="560" height="34" rx="10" fill="#3b5fa8"/>
-  <text x="316" y="119" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">PAȘII</text>
-  <rect x="36" y="142" width="560" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="56" y="166" font-size="13" font-weight="700" fill="#10233f">1. Aleg ființa</text>
-  <text x="56" y="186" font-size="12" fill="#3d4a5f">o inventez sau o iau dintr-un text citit; îi dau un nume</text>
-  <rect x="36" y="212" width="560" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="56" y="236" font-size="13" font-weight="700" fill="#10233f">2. Hotărăsc cum e</text>
-  <text x="56" y="256" font-size="12" fill="#3d4a5f">înspăimântătoare, blândă și ocrotitoare, sau înșelătoare</text>
-  <rect x="36" y="282" width="560" height="77" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="56" y="306" font-size="13" font-weight="700" fill="#10233f">3. Fac o schemă</text>
-  <text x="56" y="326" font-size="12" fill="#3d4a5f">părțile corpului, trăsăturile fizice și morale,</text>
-  <text x="56" y="345" font-size="12" fill="#3d4a5f">puterile miraculoase, relația cu ceilalți și cu locul unde trăiește</text>
-  <rect x="36" y="371" width="560" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="56" y="395" font-size="13" font-weight="700" fill="#10233f">4. Scriu</text>
-  <text x="56" y="415" font-size="12" fill="#3d4a5f">introducere, cuprins, încheiere; fiecare idee nouă, alineat nou</text>
-  <rect x="36" y="441" width="560" height="58" rx="12" fill="#ffffff" stroke="#3b5fa8" stroke-width="2"/>
-  <text x="56" y="465" font-size="13" font-weight="700" fill="#10233f">5. Revizuiesc</text>
-  <text x="56" y="485" font-size="12" fill="#3d4a5f">șterg ce nu e relevant, verific ortografia și punctuația, pun un titlu</text>
-  <rect x="612" y="96" width="352" height="34" rx="10" fill="#a1417e"/>
-  <text x="788" y="119" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">UNELTELE DE LIMBĂ</text>
-  <rect x="612" y="142" width="352" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
-  <text x="632" y="166" font-size="13" font-weight="700" fill="#10233f">Substantivele</text>
-  <text x="632" y="186" font-size="12" fill="#3d4a5f">numesc ființa și părțile ei</text>
-  <rect x="612" y="212" width="352" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
-  <text x="632" y="236" font-size="13" font-weight="700" fill="#10233f">Adjectivele</text>
-  <text x="632" y="256" font-size="12" fill="#3d4a5f">arată trăsăturile</text>
-  <rect x="612" y="282" width="352" height="58" rx="12" fill="#ffffff" stroke="#a1417e" stroke-width="2"/>
-  <text x="632" y="306" font-size="13" font-weight="700" fill="#10233f">Verbele</text>
-  <text x="632" y="326" font-size="12" fill="#3d4a5f">la indicativ, prezent sau imperfect</text>
-  <rect x="612" y="352" width="352" height="96" rx="12" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="632" y="376" font-size="13" font-weight="700" fill="#10233f">Model: Faunul, la C.S. Lewis</text>
-  <text x="632" y="396" font-size="12" fill="#3d4a5f">de la mijloc în sus, bărbat</text>
-  <text x="632" y="415" font-size="12" fill="#3d4a5f">picioare de țap, cu copite și coadă</text>
-  <text x="632" y="434" font-size="12" fill="#3d4a5f">barbă ascuțită, câte un corn pe frunte</text>
-  <rect x="36" y="511" width="928" height="58" rx="12" fill="#ffffff" stroke="#c1503a" stroke-width="2"/>
-  <text x="56" y="535" font-size="13" font-weight="700" fill="#10233f">Capcana</text>
-  <text x="56" y="555" font-size="12" fill="#3d4a5f">Nu te opri la aspect: trăsăturile morale și ce o face fabuloasă contează la fel de mult.</text>
-  <text x="500" y="601" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 11, pp. 162-163</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 993" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="993" fill="#faf7f0"/>
+<text x="240.6" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="419.7" lengthAdjust="spacing">Descrierea unei ființe imaginare</text>
+<text x="216.2" y="74.4" font-size="14" fill="#5b6b83" textLength="467.6" lengthAdjust="spacing">Clasa a V-a · Unitatea V, Lecția 12 · Manual, pp. 162-163 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE DESCRIU</text>
+<rect x="40" y="128.6" width="820" height="80.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="239.8" lengthAdjust="spacing">Descrierea unei ființe imaginare</text>
+<text x="306.2" y="162.6" font-size="16" fill="#10233f" textLength="148.2" lengthAdjust="spacing">prezintă trăsăturile ei</text>
+<text x="458.6" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="39.0" lengthAdjust="spacing">fizice</text>
+<text x="502.0" y="162.6" font-size="16" fill="#10233f" textLength="10.6" lengthAdjust="spacing">și</text>
+<text x="516.9" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="52.6" lengthAdjust="spacing">morale</text>
+<text x="573.8" y="162.6" font-size="16" fill="#10233f" textLength="215.5" lengthAdjust="spacing">și scoate în evidență caracterul</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="55.7" lengthAdjust="spacing">fabulos</text>
+<text x="117.7" y="185.8" font-size="16" fill="#10233f" textLength="294.1" lengthAdjust="spacing">, prin aspecte surprinzătoare, neobișnuite.</text>
+<rect x="40" y="228.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="251.6" font-size="16" font-weight="700" fill="#ffffff">2. PĂRȚILE DE VORBIRE ALE DESCRIERII</text>
+<rect x="40" y="262.6" width="820" height="124.7" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="280.6" width="248.0" height="88.7" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="308.6" font-size="16" fill="#0d9c92" font-weight="700" textLength="86.4" lengthAdjust="spacing">substantive</text>
+<text x="78.0" y="331.9" font-size="14.5" fill="#3a3226" textLength="161.2" lengthAdjust="spacing">numesc ființa și părțile ei:</text>
+<text x="78.0" y="352.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="138.2" lengthAdjust="spacing">picioare, coadă, barbă</text>
+<rect x="326.0" y="280.6" width="248.0" height="88.7" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="342.0" y="308.6" font-size="16" fill="#6f5ea8" font-weight="700" textLength="67.4" lengthAdjust="spacing">adjective</text>
+<text x="342.0" y="331.9" font-size="14.5" fill="#3a3226" textLength="103.0" lengthAdjust="spacing">arată trăsăturile:</text>
+<text x="448.9" y="331.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="52.2" lengthAdjust="spacing">ascuțită,</text>
+<text x="342.0" y="352.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="102.8" lengthAdjust="spacing">cârlionțat, lucios</text>
+<rect x="590.0" y="280.6" width="248.0" height="88.7" rx="12" fill="#ffffff" stroke="#9a7433" stroke-width="2"/>
+<text x="606.0" y="308.6" font-size="16" fill="#9a7433" font-weight="700" textLength="42.2" lengthAdjust="spacing">verbe</text>
+<text x="606.0" y="331.9" font-size="14.5" fill="#3a3226" textLength="71.2" lengthAdjust="spacing">la indicativ,</text>
+<text x="681.1" y="331.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="51.9" lengthAdjust="spacing">prezent</text>
+<text x="736.9" y="331.9" font-size="14.5" fill="#3a3226" textLength="21.8" lengthAdjust="spacing">sau</text>
+<text x="606.0" y="352.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="66.0" lengthAdjust="spacing">imperfect</text>
+<text x="672.0" y="352.9" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">:</text>
+<text x="679.1" y="352.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="97.6" lengthAdjust="spacing">era, avea, purta</text>
+<rect x="40" y="407.3" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="430.3" font-size="16" font-weight="700" fill="#ffffff">3. UN MODEL: FAUNUL</text>
+<rect x="40" y="441.3" width="820" height="220.0" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="459.3" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="480.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="40.8" lengthAdjust="spacing">Partea</text>
+<text x="306.8" y="480.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="113.2" lengthAdjust="spacing">Trăsătura din text</text>
+<line x1="62.0" y1="490.8" x2="838.0" y2="490.8" stroke="#e3dccb"/>
+<text x="74.0" y="513.3" font-size="14.5" fill="#3a3226" textLength="44.1" lengthAdjust="spacing">statura</text>
+<text x="306.8" y="513.3" font-size="14.5" fill="#3a3226" textLength="207.6" lengthAdjust="spacing">numai puțin mai înalt decât Lucy</text>
+<line x1="62.0" y1="523.7" x2="838.0" y2="523.7" stroke="#e3dccb"/>
+<text x="74.0" y="546.2" font-size="14.5" fill="#3a3226" textLength="38.6" lengthAdjust="spacing">trupul</text>
+<text x="306.8" y="546.2" font-size="14.5" fill="#3a3226" textLength="499.7" lengthAdjust="spacing">de la mijloc în sus bărbat; picioare de țap, cu păr negru, lucios, și copite; coadă</text>
+<line x1="62.0" y1="556.5" x2="838.0" y2="556.5" stroke="#e3dccb"/>
+<text x="74.0" y="579.0" font-size="14.5" fill="#3a3226" textLength="24.2" lengthAdjust="spacing">fața</text>
+<text x="306.8" y="579.0" font-size="14.5" fill="#3a3226" textLength="513.9" lengthAdjust="spacing">ciudată, dar plăcută, cu barbă ascuțită și păr cârlionțat; câte un corn de o parte și</text>
+<text x="306.8" y="600.1" font-size="14.5" fill="#3a3226" textLength="96.4" lengthAdjust="spacing">de alta a frunții</text>
+<line x1="62.0" y1="610.4" x2="838.0" y2="610.4" stroke="#e3dccb"/>
+<text x="74.0" y="632.9" font-size="14.5" fill="#3a3226" textLength="95.1" lengthAdjust="spacing">îmbrăcămintea</text>
+<text x="306.8" y="632.9" font-size="14.5" fill="#3a3226" textLength="131.5" lengthAdjust="spacing">un fular roșu de lână</text>
+<line x1="62.0" y1="643.3" x2="838.0" y2="643.3" stroke="#e3dccb"/>
+<line x1="294.8" y1="459.3" x2="294.8" y2="643.2" stroke="#e3dccb"/>
+<rect x="40" y="681.2" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="704.2" font-size="16" font-weight="700" fill="#ffffff">4. PAȘII</text>
+<rect x="40" y="715.2" width="820" height="226.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="748.2" font-size="15" fill="#3a3226" font-weight="700">1.</text>
+<text x="81.0" y="748.2" font-size="15" fill="#3a3226" textLength="400.8" lengthAdjust="spacing">Inventez o ființă sau aleg una dintr-o carte și îi dau un nume.</text>
+<text x="62.0" y="773.0" font-size="15" fill="#3a3226" font-weight="700">2.</text>
+<text x="81.0" y="773.0" font-size="15" fill="#3a3226" textLength="543.3" lengthAdjust="spacing">Hotărăsc ce fel de ființă este: înspăimântătoare, blândă și protectoare sau vicleană.</text>
+<text x="62.0" y="797.8" font-size="15" fill="#3a3226" font-weight="700">3.</text>
+<text x="81.0" y="797.8" font-size="15" fill="#3a3226" textLength="550.8" lengthAdjust="spacing">Fac o schemă: părțile, trăsăturile fizice și morale, puterile, relația cu alții, o concluzie.</text>
+<text x="62.0" y="822.5" font-size="15" fill="#3a3226" font-weight="700">4.</text>
+<text x="81.0" y="822.5" font-size="15" fill="#3a3226" textLength="725.1" lengthAdjust="spacing">Scriu descrierea, cu introducere, cuprins și încheiere; revizuiesc; rescriu îngrijit, cu titlu și, dacă vreau, un desen.</text>
+<rect x="62.0" y="841.0" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="867.5" font-size="14.5" fill="#10233f" font-weight="700" textLength="36.0" lengthAdjust="spacing">Grila:</text>
+<text x="78.0" y="886.4" font-size="14.5" fill="#3a3226" textLength="684.1" lengthAdjust="spacing">descriere fizică și morală · trăsăturile supranaturale · vocabular potrivit · verbe la prezent sau imperfect · text</text>
+<text x="78.0" y="907.4" font-size="14.5" fill="#3a3226" textLength="252.3" lengthAdjust="spacing">interesant și original · propoziții corecte</text>
+<text x="147.0" y="973.2" font-size="11.5" fill="#5b6b83" textLength="605.9" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 162-163, rubrica Repere, pașii și grila; modelul e din „Șifonierul, leul și vrăjitoarea” de C.S. Lewis.</text>
 </svg>

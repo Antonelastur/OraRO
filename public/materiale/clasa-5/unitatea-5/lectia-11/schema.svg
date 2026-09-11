@@ -1,18 +1,101 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="340" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Numeralul ordinal</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V, Lecția 10</text>
-
-  <rect x="150" y="95" width="600" height="90" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="450" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Ce arată</text>
-  <text font-size="12" fill="#3a3226" text-anchor="middle">
-    <tspan x="450" y="147">Arată ordinea obiectelor prin numărare.</tspan>
-    <tspan x="450" y="164" font-style="italic">primul/întâiul, al doilea, a treia, al douăzeci și șaptelea</tspan>
-  </text>
-
-  <rect x="180" y="205" width="540" height="70" rx="14" fill="#f1ecfa"/>
-  <text x="450" y="230" text-anchor="middle" font-size="12.5" font-weight="700" fill="#10233f">Aspecte normative</text>
-  <text x="450" y="252" text-anchor="middle" font-size="11.5" fill="#3a3226" font-style="italic">se scrie cu cratimă: al XX-lea, a 27-a</text>
-
-  <text x="450" y="304" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 10, p. 160</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 950" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="950" fill="#faf7f0"/>
+<text x="124.1" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="653.0" lengthAdjust="spacing">Numeralul ordinal. Numeralul, aspecte normative</text>
+<text x="216.2" y="74.4" font-size="14" fill="#5b6b83" textLength="467.6" lengthAdjust="spacing">Clasa a V-a · Unitatea V, Lecția 11 · Manual, pp. 160-161 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. NUMERALUL ORDINAL</text>
+<rect x="40" y="128.6" width="820" height="223.3" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="137.4" lengthAdjust="spacing">Numeralul ordinal</text>
+<text x="203.8" y="162.6" font-size="16" fill="#10233f" textLength="35.5" lengthAdjust="spacing">arată</text>
+<text x="243.6" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="57.6" lengthAdjust="spacing">ordinea</text>
+<text x="305.5" y="162.6" font-size="16" fill="#10233f" textLength="179.0" lengthAdjust="spacing">obiectelor prin numărare.</text>
+<rect x="62.0" y="181.4" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="202.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="37.1" lengthAdjust="spacing">Genul</text>
+<text x="306.8" y="202.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="40.4" lengthAdjust="spacing">Forma</text>
+<text x="500.8" y="202.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="101.8" lengthAdjust="spacing">Din ce e alcătuit</text>
+<line x1="62.0" y1="212.9" x2="838.0" y2="212.9" stroke="#e3dccb"/>
+<text x="74.0" y="235.4" font-size="14.5" fill="#3a3226" textLength="115.9" lengthAdjust="spacing">masculin și neutru</text>
+<text x="306.8" y="235.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="53.6" lengthAdjust="spacing">al doilea</text>
+<text x="500.8" y="235.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="11.6" lengthAdjust="spacing">al</text>
+<text x="516.3" y="235.4" font-size="14.5" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">+</text>
+<text x="530.1" y="235.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="19.4" lengthAdjust="spacing">doi</text>
+<text x="553.4" y="235.4" font-size="14.5" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">+</text>
+<text x="567.2" y="235.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="22.5" lengthAdjust="spacing">-le-</text>
+<text x="593.6" y="235.4" font-size="14.5" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">+</text>
+<text x="607.4" y="235.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="13.6" lengthAdjust="spacing">-a</text>
+<line x1="62.0" y1="245.8" x2="838.0" y2="245.8" stroke="#e3dccb"/>
+<text x="74.0" y="268.3" font-size="14.5" fill="#3a3226" textLength="48.0" lengthAdjust="spacing">feminin</text>
+<text x="306.8" y="268.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="43.4" lengthAdjust="spacing">a doua</text>
+<text x="500.8" y="268.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="7.8" lengthAdjust="spacing">a</text>
+<text x="512.5" y="268.3" font-size="14.5" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">+</text>
+<text x="526.3" y="268.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="31.6" lengthAdjust="spacing">doua</text>
+<line x1="62.0" y1="278.6" x2="838.0" y2="278.6" stroke="#e3dccb"/>
+<line x1="294.8" y1="181.4" x2="294.8" y2="278.6" stroke="#e3dccb"/>
+<line x1="488.8" y1="181.4" x2="488.8" y2="278.6" stroke="#e3dccb"/>
+<text x="62.0" y="307.6" font-size="15" fill="#3a3226" textLength="99.3" lengthAdjust="spacing">Seria începe cu</text>
+<text x="165.4" y="307.6" font-size="15" fill="#10233f" font-style="italic" textLength="128.1" lengthAdjust="spacing">întâi (întâiul, întâia)</text>
+<text x="297.5" y="307.6" font-size="15" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">și</text>
+<text x="311.5" y="307.6" font-size="15" fill="#10233f" font-style="italic" textLength="94.0" lengthAdjust="spacing">primul (prima)</text>
+<text x="405.5" y="307.6" font-size="15" fill="#3a3226" textLength="67.5" lengthAdjust="spacing">, care sunt</text>
+<text x="477.0" y="307.6" font-size="15" fill="#3a3226" font-weight="700" textLength="64.3" lengthAdjust="spacing">sinonime</text>
+<text x="541.4" y="307.6" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="548.7" y="307.6" font-size="15" fill="#10233f" font-style="italic" textLength="248.2" lengthAdjust="spacing">Întâia noapte a trecut repede. = Prima</text>
+<text x="62.0" y="329.4" font-size="15" fill="#10233f" font-style="italic" textLength="149.4" lengthAdjust="spacing">noapte a trecut repede.</text>
+<rect x="40" y="371.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="394.9" font-size="16" font-weight="700" fill="#ffffff">2. REGULI DE SCRIERE ȘI DE ACORD</text>
+<rect x="40" y="405.9" width="820" height="317.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="423.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="445.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="43.7" lengthAdjust="spacing">Regula</text>
+<text x="500.8" y="445.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="455.4" x2="838.0" y2="455.4" stroke="#e3dccb"/>
+<text x="74.0" y="477.9" font-size="14.5" fill="#3a3226" textLength="152.8" lengthAdjust="spacing">numeralul „1” are forma</text>
+<text x="230.7" y="477.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="24.4" lengthAdjust="spacing">unu</text>
+<text x="500.8" y="477.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="214.3" lengthAdjust="spacing">doi crini: unu alb și unu portocaliu</text>
+<line x1="62.0" y1="488.3" x2="838.0" y2="488.3" stroke="#e3dccb"/>
+<text x="74.0" y="510.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="19.4" lengthAdjust="spacing">doi</text>
+<text x="97.3" y="510.8" font-size="14.5" fill="#3a3226" textLength="318.3" lengthAdjust="spacing">și compusele lui se acordă cu substantivul feminin</text>
+<text x="500.8" y="510.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="316.8" lengthAdjust="spacing">ora două, clasa a douăsprezecea, patruzeci și două</text>
+<text x="500.8" y="531.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="46.7" lengthAdjust="spacing">de cărți</text>
+<line x1="62.0" y1="542.2" x2="838.0" y2="542.2" stroke="#e3dccb"/>
+<text x="74.0" y="564.7" font-size="14.5" fill="#3a3226" textLength="212.3" lengthAdjust="spacing">după substantiv, la feminin, merg</text>
+<text x="290.2" y="564.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="28.1" lengthAdjust="spacing">întâi</text>
+<text x="322.2" y="564.7" font-size="14.5" fill="#3a3226" textLength="9.6" lengthAdjust="spacing">și</text>
+<text x="335.7" y="564.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="36.0" lengthAdjust="spacing">întâia</text>
+<text x="500.8" y="564.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="148.8" lengthAdjust="spacing">clasa întâi / clasa întâia</text>
+<line x1="62.0" y1="575.0" x2="838.0" y2="575.0" stroke="#e3dccb"/>
+<text x="74.0" y="597.5" font-size="14.5" fill="#3a3226" textLength="359.7" lengthAdjust="spacing">17 și 18 se scriu după numeralele din care sunt compuse</text>
+<text x="500.8" y="597.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="166.7" lengthAdjust="spacing">șaptesprezece, optsprezece</text>
+<line x1="62.0" y1="607.9" x2="838.0" y2="607.9" stroke="#e3dccb"/>
+<text x="74.0" y="630.4" font-size="14.5" fill="#3a3226" textLength="187.8" lengthAdjust="spacing">14, 16 și 60 au forme speciale</text>
+<text x="500.8" y="630.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="198.4" lengthAdjust="spacing">paisprezece, șaisprezece, șaizeci</text>
+<line x1="62.0" y1="640.7" x2="838.0" y2="640.7" stroke="#e3dccb"/>
+<text x="74.0" y="663.2" font-size="14.5" fill="#3a3226" textLength="372.6" lengthAdjust="spacing">în texte, numerele se scriu cu cifre, cele sub zece în cuvinte</text>
+<text x="500.8" y="663.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="206.6" lengthAdjust="spacing">Avem 24 de elevi și trei profesori.</text>
+<line x1="62.0" y1="673.6" x2="838.0" y2="673.6" stroke="#e3dccb"/>
+<line x1="488.8" y1="423.9" x2="488.8" y2="673.6" stroke="#e3dccb"/>
+<text x="62.0" y="701.6" font-size="14" fill="#5b6b83" textLength="314.9" lengthAdjust="spacing">Numeralele ordinale se pot scrie și cu cifre romane:</text>
+<text x="380.6" y="701.6" font-size="14" fill="#5b6b83" font-style="italic" textLength="67.6" lengthAdjust="spacing">clasa a V-a</text>
+<text x="448.3" y="701.6" font-size="14" fill="#5b6b83" textLength="3.1" lengthAdjust="spacing">.</text>
+<rect x="40" y="743.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="766.8" font-size="16" font-weight="700" fill="#ffffff">3. ATENȚIE</text>
+<rect x="40" y="777.8" width="820" height="121.6" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="795.8" width="776.0" height="85.6" rx="12" fill="#f3efe4"/><rect x="62.0" y="795.8" width="6" height="85.6" rx="3" fill="#b4432c"/><text x="84.0" y="822.3" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="841.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="20.0" lengthAdjust="spacing">mii</text>
+<text x="107.9" y="841.1" font-size="14.5" fill="#3a3226" textLength="60.0" lengthAdjust="spacing">(numeral:</text>
+<text x="171.9" y="841.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="55.5" lengthAdjust="spacing">două mii</text>
+<text x="227.4" y="841.1" font-size="14.5" fill="#3a3226" textLength="13.9" lengthAdjust="spacing">) /</text>
+<text x="245.2" y="841.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="25.8" lengthAdjust="spacing">mi-i</text>
+<text x="275.0" y="841.1" font-size="14.5" fill="#3a3226" textLength="4.3" lengthAdjust="spacing">(</text>
+<text x="279.3" y="841.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="16.2" lengthAdjust="spacing">mi</text>
+<text x="299.5" y="841.1" font-size="14.5" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">+</text>
+<text x="313.2" y="841.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="7.5" lengthAdjust="spacing">îi</text>
+<text x="320.8" y="841.1" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">:</text>
+<text x="327.9" y="841.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="110.8" lengthAdjust="spacing">Mi-i dor de bunici</text>
+<text x="438.7" y="841.1" font-size="14.5" fill="#3a3226" textLength="7.5" lengthAdjust="spacing">).</text>
+<text x="84.0" y="865.0" font-size="14.5" fill="#3a3226" textLength="261.3" lengthAdjust="spacing">În vorbirea neîngrijită apar forme greșite:</text>
+<text x="349.2" y="865.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="129.5" lengthAdjust="spacing">unșpe, paișpe, douăj’</text>
+<text x="478.7" y="865.0" font-size="14.5" fill="#3a3226" textLength="106.0" lengthAdjust="spacing">. În scris folosesc</text>
+<text x="588.6" y="865.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="94.2" lengthAdjust="spacing">forma literară</text>
+<text x="682.8" y="865.0" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="201.0" y="930.9" font-size="11.5" fill="#5b6b83" textLength="497.9" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 160-161, rubricile Repere. Unele exemple sunt create pentru aceste notițe.</text>
 </svg>

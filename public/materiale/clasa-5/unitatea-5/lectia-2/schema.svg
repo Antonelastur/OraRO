@@ -1,10 +1,97 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="320" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Acțiunea. Timpul și spațiul</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea V, Lecția 2 · Zâna Munților</text>
-  <rect x="150" y="95" width="600" height="90" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="450" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Miraculosul</text>
-  <text font-size="12" fill="#3a3226" text-anchor="middle"><tspan x="450" y="147">În basm, timpul și spațiul sunt vagi ori magice („a fost odată”,</tspan><tspan x="450" y="164">tărâmuri fermecate) — semn al miraculosului.</tspan></text>
-  <text x="450" y="228" text-anchor="middle" font-size="13" fill="#3a3226" font-style="italic">„A fost odată...” — un timp nedefinit, al basmului</text>
-  <text x="450" y="270" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 5, Lecția 2, pp. 144-145</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1180" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1180" fill="#faf7f0"/>
+<text x="223.5" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="454.2" lengthAdjust="spacing">Basmul. Acțiunea, timpul și spațiul</text>
+<text x="220.0" y="74.4" font-size="14" fill="#5b6b83" textLength="460.0" lengthAdjust="spacing">Clasa a V-a · Unitatea V, Lecția 2 · Manual, pp. 144-145 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. BASMUL</text>
+<rect x="40" y="128.6" width="820" height="113.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="62.4" lengthAdjust="spacing">Basmele</text>
+<text x="128.7" y="162.6" font-size="16" fill="#10233f" textLength="87.7" lengthAdjust="spacing">înfățișează o</text>
+<text x="220.7" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="83.4" lengthAdjust="spacing">lume ireală</text>
+<text x="304.1" y="162.6" font-size="16" fill="#10233f" textLength="99.8" lengthAdjust="spacing">, cu întâmplări</text>
+<text x="408.2" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="104.3" lengthAdjust="spacing">supranaturale</text>
+<text x="512.6" y="162.6" font-size="16" fill="#10233f" textLength="261.1" lengthAdjust="spacing">, creaturi fabuloase, oameni cu puteri</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" textLength="331.4" lengthAdjust="spacing">supranaturale sau animale cu însușiri omenești.</text>
+<text x="62.0" y="219.6" font-size="15" fill="#3a3226" textLength="242.5" lengthAdjust="spacing">Între povestitor și ascultători există o</text>
+<text x="308.6" y="219.6" font-size="15" fill="#3a3226" font-weight="700" textLength="69.0" lengthAdjust="spacing">convenție</text>
+<text x="377.6" y="219.6" font-size="15" fill="#3a3226" textLength="362.4" lengthAdjust="spacing">: în basm se poate petrece orice, oricât de surprinzător.</text>
+<rect x="40" y="262.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="285.1" font-size="16" font-weight="700" fill="#ffffff">2. ACȚIUNEA ÎN BASM</text>
+<rect x="40" y="296.1" width="820" height="179.2" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="314.1" width="248.0" height="109.7" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="342.1" font-size="16" fill="#0d9c92" font-weight="700" textLength="111.2" lengthAdjust="spacing">situația inițială</text>
+<text x="78.0" y="365.4" font-size="14.5" fill="#3a3226" textLength="63.5" lengthAdjust="spacing">o stare de</text>
+<text x="145.4" y="365.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="59.3" lengthAdjust="spacing">echilibru</text>
+<text x="204.7" y="365.4" font-size="14.5" fill="#3a3226" textLength="74.5" lengthAdjust="spacing">, modificată</text>
+<text x="78.0" y="386.4" font-size="14.5" fill="#3a3226" textLength="165.6" lengthAdjust="spacing">de un eveniment sau de o</text>
+<text x="78.0" y="407.5" font-size="14.5" fill="#3a3226" textLength="73.9" lengthAdjust="spacing">împrejurare</text>
+<rect x="326.0" y="314.1" width="248.0" height="109.7" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="342.0" y="342.1" font-size="16" fill="#6f5ea8" font-weight="700" textLength="172.6" lengthAdjust="spacing">restabilirea echilibrului</text>
+<text x="342.0" y="365.4" font-size="14.5" fill="#3a3226" textLength="90.8" lengthAdjust="spacing">de obicei, prin</text>
+<text x="436.7" y="365.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="91.9" lengthAdjust="spacing">trecerea unor</text>
+<text x="342.0" y="386.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="40.5" lengthAdjust="spacing">probe</text>
+<rect x="590.0" y="314.1" width="248.0" height="109.7" rx="12" fill="#ffffff" stroke="#9a7433" stroke-width="2"/>
+<text x="606.0" y="342.1" font-size="16" fill="#9a7433" font-weight="700" textLength="102.1" lengthAdjust="spacing">situația finală</text>
+<text x="606.0" y="365.4" font-size="14.5" fill="#3a3226" textLength="200.0" lengthAdjust="spacing">echilibrul e restabilit, iar eroul e</text>
+<text x="606.0" y="386.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="56.3" lengthAdjust="spacing">răsplătit</text>
+<text x="62.0" y="452.8" font-size="15" fill="#3a3226" textLength="113.8" lengthAdjust="spacing">Basmul transmite</text>
+<text x="179.9" y="452.8" font-size="15" fill="#3a3226" font-weight="700" textLength="74.2" lengthAdjust="spacing">încrederea</text>
+<text x="258.2" y="452.8" font-size="15" fill="#3a3226" textLength="195.0" lengthAdjust="spacing">într-o lume bună și frumoasă.</text>
+<rect x="40" y="495.3" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="518.3" font-size="16" font-weight="700" fill="#ffffff">3. TIMPUL ȘI SPAȚIUL</text>
+<rect x="40" y="529.3" width="820" height="443.6" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="562.3" font-size="15" fill="#3a3226" textLength="162.7" lengthAdjust="spacing">Cadrul întâmplărilor este</text>
+<text x="228.8" y="562.3" font-size="15" fill="#3a3226" font-weight="700" textLength="93.1" lengthAdjust="spacing">vag, imprecis</text>
+<text x="321.9" y="562.3" font-size="15" fill="#3a3226" textLength="440.2" lengthAdjust="spacing">: evenimentele nu pot fi așezate în timp și spațiu. Asta anunță chiar</text>
+<text x="766.2" y="562.3" font-size="15" fill="#3a3226" font-weight="700" textLength="56.1" lengthAdjust="spacing">formula</text>
+<text x="62.0" y="584.0" font-size="15" fill="#3a3226" font-weight="700" textLength="74.5" lengthAdjust="spacing">de început</text>
+<text x="136.6" y="584.0" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="602.5" width="380.0" height="88.7" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="630.5" font-size="16" fill="#0d9c92" font-weight="700" textLength="143.8" lengthAdjust="spacing">formula de început</text>
+<text x="78.0" y="653.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="318.6" lengthAdjust="spacing">A fost odată ca niciodată; că de n-ar fi, nu s-ar mai</text>
+<text x="78.0" y="674.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="54.5" lengthAdjust="spacing">povesti…</text>
+<rect x="458.0" y="602.5" width="380.0" height="88.7" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="474.0" y="630.5" font-size="16" fill="#6f5ea8" font-weight="700" textLength="155.7" lengthAdjust="spacing">formula de încheiere</text>
+<text x="474.0" y="653.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="320.7" lengthAdjust="spacing">Iar eu încălecai p-o șea și vă spusei dumneavoastră</text>
+<text x="474.0" y="674.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="24.6" lengthAdjust="spacing">așa.</text>
+<rect x="62.0" y="705.2" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="726.7" font-size="13.5" fill="#10233f" font-weight="700" textLength="106.2" lengthAdjust="spacing">Spațiul din basm</text>
+<text x="306.8" y="726.7" font-size="13.5" fill="#10233f" font-weight="700" textLength="112.9" lengthAdjust="spacing">Ce poate însemna</text>
+<line x1="62.0" y1="736.8" x2="838.0" y2="736.8" stroke="#e3dccb"/>
+<text x="74.0" y="759.3" font-size="14.5" fill="#3a3226" textLength="43.5" lengthAdjust="spacing">palatul</text>
+<text x="306.8" y="759.3" font-size="14.5" fill="#3a3226" textLength="259.1" lengthAdjust="spacing">statutul social înalt al familiei împărătești</text>
+<line x1="62.0" y1="769.6" x2="838.0" y2="769.6" stroke="#e3dccb"/>
+<text x="74.0" y="792.1" font-size="14.5" fill="#3a3226" textLength="103.4" lengthAdjust="spacing">cotețele găinilor</text>
+<text x="306.8" y="792.1" font-size="14.5" fill="#3a3226" textLength="337.3" lengthAdjust="spacing">statutul de jos al slujnicei; proba pe care o trece zâna</text>
+<line x1="62.0" y1="802.5" x2="838.0" y2="802.5" stroke="#e3dccb"/>
+<text x="74.0" y="825.0" font-size="14.5" fill="#3a3226" textLength="52.8" lengthAdjust="spacing">pădurea</text>
+<text x="306.8" y="825.0" font-size="14.5" fill="#3a3226" textLength="448.3" lengthAdjust="spacing">loc al pericolelor sau al întâlnirii care schimbă viața; trecere spre lumea</text>
+<text x="306.8" y="846.0" font-size="14.5" fill="#3a3226" textLength="87.6" lengthAdjust="spacing">supranaturală</text>
+<line x1="62.0" y1="856.3" x2="838.0" y2="856.3" stroke="#e3dccb"/>
+<text x="74.0" y="878.8" font-size="14.5" fill="#3a3226" textLength="40.9" lengthAdjust="spacing">munții</text>
+<text x="306.8" y="878.8" font-size="14.5" fill="#3a3226" textLength="216.2" lengthAdjust="spacing">tărâmul zânei, un spațiu protector</text>
+<line x1="62.0" y1="889.2" x2="838.0" y2="889.2" stroke="#e3dccb"/>
+<text x="74.0" y="911.7" font-size="14.5" fill="#3a3226" textLength="104.5" lengthAdjust="spacing">palatele nunților</text>
+<text x="306.8" y="911.7" font-size="14.5" fill="#3a3226" textLength="330.0" lengthAdjust="spacing">sărbători ale iubirii, unde au loc adevăratele întâlniri</text>
+<line x1="62.0" y1="922.0" x2="838.0" y2="922.0" stroke="#e3dccb"/>
+<text x="74.0" y="944.5" font-size="14.5" fill="#3a3226" textLength="30.2" lengthAdjust="spacing">satul</text>
+<text x="306.8" y="944.5" font-size="14.5" fill="#3a3226" textLength="166.9" lengthAdjust="spacing">lumea oamenilor obișnuiți</text>
+<line x1="62.0" y1="954.9" x2="838.0" y2="954.9" stroke="#e3dccb"/>
+<line x1="294.8" y1="705.2" x2="294.8" y2="954.9" stroke="#e3dccb"/>
+<rect x="40" y="992.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="1015.9" font-size="16" font-weight="700" fill="#ffffff">4. HARTA MENTALĂ</text>
+<rect x="40" y="1026.9" width="820" height="102.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="1059.9" font-size="15" fill="#3a3226" font-weight="700" textLength="101.1" lengthAdjust="spacing">Harta mentală</text>
+<text x="167.2" y="1059.9" font-size="15" fill="#3a3226" textLength="586.9" lengthAdjust="spacing">este o schemă care dă o imagine de ansamblu asupra unei teme, cu cuvinte, idei, desene.</text>
+<text x="62.0" y="1084.7" font-size="15" fill="#3a3226" textLength="148.9" lengthAdjust="spacing">Pentru un basm notez:</text>
+<text x="215.0" y="1084.7" font-size="15" fill="#3a3226" font-weight="700" textLength="147.3" lengthAdjust="spacing">situația de la început</text>
+<text x="362.3" y="1084.7" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">,</text>
+<text x="369.6" y="1084.7" font-size="15" fill="#3a3226" font-weight="700" textLength="233.4" lengthAdjust="spacing">evenimentul care strică echilibrul</text>
+<text x="603.0" y="1084.7" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">,</text>
+<text x="610.4" y="1084.7" font-size="15" fill="#3a3226" font-weight="700" textLength="71.5" lengthAdjust="spacing">peripețiile</text>
+<text x="686.0" y="1084.7" font-size="15" fill="#3a3226" textLength="96.3" lengthAdjust="spacing">personajelor și</text>
+<text x="786.3" y="1084.7" font-size="15" fill="#3a3226" font-weight="700" textLength="52.0" lengthAdjust="spacing">situația</text>
+<text x="62.0" y="1106.4" font-size="15" fill="#3a3226" font-weight="700" textLength="69.5" lengthAdjust="spacing">de la final</text>
+<text x="131.4" y="1106.4" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="123.5" y="1160.4" font-size="11.5" fill="#5b6b83" textLength="653.0" lengthAdjust="spacing">Sursa: Manual Art 5, pp. 144-145, rubricile Repere și tabelul spațiilor; textul de bază este „Zâna Munților”, cules de Petre Ispirescu.</text>
 </svg>
