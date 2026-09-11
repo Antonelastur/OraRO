@@ -1,10 +1,75 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="320" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Circumstanțialul de scop</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II</text>
-  <rect x="150" y="95" width="600" height="90" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="450" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Ce arată</text>
-  <text font-size="12" fill="#3a3226" text-anchor="middle"><tspan x="450" y="147">Scopul, finalitatea acțiunii exprimate de verb.</tspan><tspan x="450" y="164" font-weight="700">Întrebări: cu ce scop? în ce scop? pentru ce?</tspan></text>
-  <text x="450" y="228" text-anchor="middle" font-size="13" fill="#3a3226" font-style="italic">A plecat devreme ca să prindă trenul.</text>
-  <text x="450" y="270" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, p. 81</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 866" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="866" fill="#faf7f0"/>
+<text x="288.7" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="323.1" lengthAdjust="spacing">Circumstanțialul de scop</text>
+<text x="223.2" y="74.4" font-size="14" fill="#5b6b83" textLength="453.6" lengthAdjust="spacing">Clasa a VII-a · Unitatea a II-a, Lecția 20 · Manual, p. 81 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ESTE</text>
+<rect x="40" y="128.6" width="820" height="112.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" textLength="83.7" lengthAdjust="spacing">Subordonat</text>
+<text x="150.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="70.9" lengthAdjust="spacing">facultativ</text>
+<text x="225.2" y="162.6" font-size="16" fill="#10233f" textLength="116.6" lengthAdjust="spacing">al verbului; arată</text>
+<text x="346.2" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="48.6" lengthAdjust="spacing">scopul</text>
+<text x="399.1" y="162.6" font-size="16" fill="#10233f" textLength="231.5" lengthAdjust="spacing">(finalitatea) acțiunii. Răspunde la:</text>
+<text x="635.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="169.6" lengthAdjust="spacing">cu ce scop? în ce scop?</text>
+<text x="62.0" y="196.4" font-size="15" fill="#3a3226" textLength="494.8" lengthAdjust="spacing">Poate depinde de un verb la un mod personal sau de o formă nepersonală:</text>
+<text x="560.9" y="196.4" font-size="15" fill="#10233f" font-style="italic" textLength="47.9" lengthAdjust="spacing">Au ieșit</text>
+<text x="612.8" y="196.4" font-size="15" fill="#3a3226" font-weight="700" textLength="132.4" lengthAdjust="spacing">la strâns gunoaiele</text>
+<text x="745.2" y="196.4" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="752.6" y="196.4" font-size="15" fill="#10233f" font-style="italic" textLength="21.6" lengthAdjust="spacing">S-a</text>
+<text x="62.0" y="218.1" font-size="15" fill="#10233f" font-style="italic" textLength="122.7" lengthAdjust="spacing">remarcat, muncind</text>
+<text x="188.8" y="218.1" font-size="15" fill="#3a3226" font-weight="700" textLength="166.3" lengthAdjust="spacing">pentru a-și împlini visul</text>
+<text x="355.1" y="218.1" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="40" y="260.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="283.6" font-size="16" font-weight="700" fill="#ffffff">2. PRIN CE SE EXPRIMĂ</text>
+<rect x="40" y="294.6" width="820" height="241.8" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="312.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="334.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="109.8" lengthAdjust="spacing">Partea de vorbire</text>
+<text x="384.4" y="334.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="344.2" x2="838.0" y2="344.2" stroke="#e3dccb"/>
+<text x="74.0" y="366.7" font-size="14.5" fill="#3a3226" textLength="245.8" lengthAdjust="spacing">substantiv (sau substitut) cu prepoziție</text>
+<text x="384.4" y="366.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="64.7" lengthAdjust="spacing">Au muncit</text>
+<text x="453.0" y="366.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="202.6" lengthAdjust="spacing">pentru ajutorarea comunității</text>
+<text x="655.6" y="366.7" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="377.1" x2="838.0" y2="377.1" stroke="#e3dccb"/>
+<text x="74.0" y="399.5" font-size="14.5" fill="#3a3226" textLength="133.8" lengthAdjust="spacing">infinitiv cu prepoziție</text>
+<text x="384.4" y="399.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="55.7" lengthAdjust="spacing">Lucrează</text>
+<text x="444.0" y="399.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="96.1" lengthAdjust="spacing">pentru a ajuta</text>
+<text x="544.0" y="399.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="81.9" lengthAdjust="spacing">comunitatea.</text>
+<line x1="62.0" y1="409.9" x2="838.0" y2="409.9" stroke="#e3dccb"/>
+<text x="74.0" y="432.4" font-size="14.5" fill="#3a3226" textLength="34.7" lengthAdjust="spacing">supin</text>
+<text x="384.4" y="432.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="58.7" lengthAdjust="spacing">Au plecat</text>
+<text x="447.0" y="432.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="50.0" lengthAdjust="spacing">la cules</text>
+<text x="501.0" y="432.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="35.1" lengthAdjust="spacing">mere.</text>
+<line x1="62.0" y1="442.8" x2="838.0" y2="442.8" stroke="#e3dccb"/>
+<line x1="372.4" y1="312.6" x2="372.4" y2="442.8" stroke="#e3dccb"/>
+<rect x="62.0" y="456.8" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="456.8" width="6" height="61.7" rx="3" fill="#b4432c"/><text x="84.0" y="483.2" font-size="14.5" fill="#b4432c" font-weight="700" textLength="49.3" lengthAdjust="spacing">Virgula</text>
+<text x="84.0" y="502.1" font-size="14.5" fill="#3a3226" textLength="230.1" lengthAdjust="spacing">Poate sta înainte sau după verb. Pus</text>
+<text x="318.0" y="502.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="47.1" lengthAdjust="spacing">înainte</text>
+<text x="365.1" y="502.1" font-size="14.5" fill="#3a3226" textLength="109.6" lengthAdjust="spacing">, se desparte prin</text>
+<text x="478.7" y="502.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="47.4" lengthAdjust="spacing">virgulă</text>
+<text x="526.1" y="502.1" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">:</text>
+<text x="533.2" y="502.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="224.0" lengthAdjust="spacing">Pentru a reuși, a făcut eforturi mari.</text>
+<rect x="40" y="556.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="579.5" font-size="16" font-weight="700" fill="#ffffff">3. CAUZĂ SAU SCOP?</text>
+<rect x="40" y="590.5" width="820" height="224.3" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="608.5" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#10233f" stroke-width="2"/>
+<text x="78.0" y="636.5" font-size="16" fill="#10233f" font-weight="700" textLength="42.4" lengthAdjust="spacing">cauza</text>
+<text x="78.0" y="659.8" font-size="14.5" fill="#3a3226" textLength="51.3" lengthAdjust="spacing">motivul,</text>
+<text x="133.2" y="659.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="47.1" lengthAdjust="spacing">înainte</text>
+<text x="184.3" y="659.8" font-size="14.5" fill="#3a3226" textLength="66.6" lengthAdjust="spacing">de acțiune</text>
+<text x="78.0" y="683.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="46.4" lengthAdjust="spacing">A plâns</text>
+<text x="128.3" y="683.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="66.0" lengthAdjust="spacing">de durere</text>
+<text x="194.3" y="683.7" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<rect x="458.0" y="608.5" width="380.0" height="91.6" rx="12" fill="#ffffff" stroke="#9a7433" stroke-width="2"/>
+<text x="474.0" y="636.5" font-size="16" fill="#9a7433" font-weight="700" textLength="48.6" lengthAdjust="spacing">scopul</text>
+<text x="474.0" y="659.8" font-size="14.5" fill="#3a3226" textLength="143.5" lengthAdjust="spacing">ce urmărește acțiunea,</text>
+<text x="621.5" y="659.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="34.7" lengthAdjust="spacing">după</text>
+<text x="660.0" y="659.8" font-size="14.5" fill="#3a3226" textLength="14.9" lengthAdjust="spacing">ea</text>
+<text x="474.0" y="683.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="50.6" lengthAdjust="spacing">A plecat</text>
+<text x="528.5" y="683.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="50.0" lengthAdjust="spacing">la cules</text>
+<text x="582.5" y="683.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="35.1" lengthAdjust="spacing">mere.</text>
+<rect x="62.0" y="714.0" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="740.5" font-size="14.5" fill="#10233f" font-weight="700" textLength="119.9" lengthAdjust="spacing">Model de analiză:</text>
+<text x="78.0" y="759.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="736.7" lengthAdjust="spacing">„pentru a inspira” – circumstanțial de scop, exprimat prin verb predicativ, conjugarea I, infinitiv, precedat de prepoziția</text>
+<text x="78.0" y="780.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="100.3" lengthAdjust="spacing">simplă „pentru”.</text>
+<text x="167.4" y="846.2" font-size="11.5" fill="#5b6b83" textLength="565.2" lengthAdjust="spacing">Sursa: Manual Art 7, p. 81, rubrica Repere și modelul de analiză. Unele exemple sunt create pentru aceste notițe.</text>
 </svg>

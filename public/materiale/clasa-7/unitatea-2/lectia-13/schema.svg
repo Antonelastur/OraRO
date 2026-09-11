@@ -1,22 +1,127 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="340" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Verbul. Tipuri de verbe. Locuțiunea verbală</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, „Verbul” · actualizare</text>
-  <g>
-    <rect x="60" y="95" width="240" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="180" y="123" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Predicativ</text>
-    <text font-size="11" fill="#3a3226" text-anchor="middle"><tspan x="180" y="150">sens complet, singur</tspan><tspan x="180" y="166">predicat</tspan><tspan x="180" y="192" font-style="italic">Elevul scrie.</tspan></text>
-  </g>
-  <g>
-    <rect x="330" y="95" width="240" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="450" y="123" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Copulativ</text>
-    <text font-size="11" fill="#3a3226" text-anchor="middle"><tspan x="450" y="150">a fi, a deveni, a ajunge,</tspan><tspan x="450" y="166">a rămâne, a părea...</tspan><tspan x="450" y="192" font-style="italic">El a devenit medic.</tspan></text>
-  </g>
-  <g>
-    <rect x="600" y="95" width="240" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="720" y="123" text-anchor="middle" font-size="13" font-weight="700" fill="#10233f">Locuțiune verbală</text>
-    <text font-size="11" fill="#3a3226" text-anchor="middle"><tspan x="720" y="150">grup stabil de cuvinte,</tspan><tspan x="720" y="166">cu sens de verb</tspan><tspan x="720" y="192" font-style="italic">a-și da seama</tspan></text>
-  </g>
-  <text x="450" y="290" text-anchor="middle" font-size="11.5" fill="#3a3226">Verbul copulativ nu are sens complet singur — are nevoie de numele predicativ.</text>
-  <text x="450" y="316" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, pp. 67-69</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1180" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1180" fill="#faf7f0"/>
+<text x="166.8" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="567.8" lengthAdjust="spacing">Verbul. Tipuri de verbe. Locuțiunea verbală</text>
+<text x="208.7" y="74.4" font-size="14" fill="#5b6b83" textLength="482.6" lengthAdjust="spacing">Clasa a VII-a · Unitatea a II-a, Lecția 13 · Manual, pp. 67-69 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. PREDICATIVE ȘI NEPREDICATIVE</text>
+<rect x="40" y="128.6" width="820" height="263.4" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="46.8" lengthAdjust="spacing">Verbul</text>
+<text x="112.8" y="161.6" font-size="15" fill="#3a3226" textLength="232.9" lengthAdjust="spacing">arată acțiunea, starea sau existența.</text>
+<text x="349.8" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="90.6" lengthAdjust="spacing">Predicativele</text>
+<text x="444.5" y="161.6" font-size="15" fill="#3a3226" textLength="201.6" lengthAdjust="spacing">pot alcătui singure predicatul (</text>
+<text x="646.1" y="161.6" font-size="15" fill="#10233f" font-style="italic" textLength="93.6" lengthAdjust="spacing">El citește mult.</text>
+<text x="739.7" y="161.6" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">);</text>
+<text x="62.0" y="183.3" font-size="15" fill="#3a3226" font-weight="700" textLength="108.0" lengthAdjust="spacing">nepredicativele</text>
+<text x="174.0" y="183.3" font-size="15" fill="#3a3226" textLength="47.2" lengthAdjust="spacing">nu pot.</text>
+<rect x="62.0" y="201.8" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="223.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="61.2" lengthAdjust="spacing">Auxiliarul</text>
+<text x="213.7" y="223.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="61.4" lengthAdjust="spacing">Formează</text>
+<line x1="62.0" y1="233.4" x2="838.0" y2="233.4" stroke="#e3dccb"/>
+<text x="74.0" y="255.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="43.2" lengthAdjust="spacing">a avea</text>
+<text x="213.7" y="255.9" font-size="14.5" fill="#3a3226" textLength="164.7" lengthAdjust="spacing">indicativ perfect compus (</text>
+<text x="378.4" y="255.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="60.2" lengthAdjust="spacing">am lucrat</text>
+<text x="438.6" y="255.9" font-size="14.5" fill="#3a3226" textLength="194.3" lengthAdjust="spacing">); condițional-optativ prezent (</text>
+<text x="632.9" y="255.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="48.9" lengthAdjust="spacing">aș lucra</text>
+<text x="681.7" y="255.9" font-size="14.5" fill="#3a3226" textLength="74.8" lengthAdjust="spacing">) și perfect (</text>
+<text x="756.6" y="255.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="25.7" lengthAdjust="spacing">aș fi</text>
+<text x="213.7" y="276.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="36.0" lengthAdjust="spacing">lucrat</text>
+<text x="249.6" y="276.9" font-size="14.5" fill="#3a3226" textLength="4.3" lengthAdjust="spacing">)</text>
+<line x1="62.0" y1="287.3" x2="838.0" y2="287.3" stroke="#e3dccb"/>
+<text x="74.0" y="309.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="41.2" lengthAdjust="spacing">a vrea</text>
+<text x="213.7" y="309.8" font-size="14.5" fill="#3a3226" textLength="97.9" lengthAdjust="spacing">indicativ viitor (</text>
+<text x="311.6" y="309.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="52.9" lengthAdjust="spacing">vei lucra</text>
+<text x="364.5" y="309.8" font-size="14.5" fill="#3a3226" textLength="116.7" lengthAdjust="spacing">) și viitor anterior (</text>
+<text x="481.2" y="309.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="69.6" lengthAdjust="spacing">vei fi lucrat</text>
+<text x="550.8" y="309.8" font-size="14.5" fill="#3a3226" textLength="4.3" lengthAdjust="spacing">)</text>
+<line x1="62.0" y1="320.1" x2="838.0" y2="320.1" stroke="#e3dccb"/>
+<text x="74.0" y="342.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="21.5" lengthAdjust="spacing">a fi</text>
+<text x="213.7" y="342.6" font-size="14.5" fill="#3a3226" textLength="95.0" lengthAdjust="spacing">viitor anterior (</text>
+<text x="308.7" y="342.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="64.2" lengthAdjust="spacing">vor fi aflat</text>
+<text x="372.9" y="342.6" font-size="14.5" fill="#3a3226" textLength="134.0" lengthAdjust="spacing">), conjunctiv perfect (</text>
+<text x="506.9" y="342.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="69.6" lengthAdjust="spacing">să fi plouat</text>
+<text x="576.5" y="342.6" font-size="14.5" fill="#3a3226" textLength="190.7" lengthAdjust="spacing">), condițional-optativ perfect (</text>
+<text x="767.1" y="342.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="25.7" lengthAdjust="spacing">aș fi</text>
+<text x="213.7" y="363.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="30.4" lengthAdjust="spacing">venit</text>
+<text x="244.1" y="363.6" font-size="14.5" fill="#3a3226" textLength="4.3" lengthAdjust="spacing">)</text>
+<line x1="62.0" y1="374.0" x2="838.0" y2="374.0" stroke="#e3dccb"/>
+<line x1="201.7" y1="201.8" x2="201.7" y2="374.0" stroke="#e3dccb"/>
+<rect x="40" y="412.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="435.0" font-size="16" font-weight="700" fill="#ffffff">2. VERBELE COPULATIVE</text>
+<rect x="40" y="446.0" width="820" height="351.4" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="479.0" font-size="15" fill="#3a3226" textLength="219.7" lengthAdjust="spacing">Nu au sens deplin singure: cer un</text>
+<text x="285.8" y="479.0" font-size="15" fill="#3a3226" font-weight="700" textLength="114.8" lengthAdjust="spacing">nume predicativ</text>
+<text x="400.5" y="479.0" font-size="15" fill="#3a3226" textLength="120.0" lengthAdjust="spacing">, cu care formează</text>
+<text x="524.6" y="479.0" font-size="15" fill="#3a3226" font-weight="700" textLength="133.3" lengthAdjust="spacing">predicatul nominal</text>
+<text x="657.9" y="479.0" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="497.5" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="519.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="42.1" lengthAdjust="spacing">Verbul</text>
+<text x="198.2" y="519.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="122.3" lengthAdjust="spacing">Este copulativ când</text>
+<text x="539.6" y="519.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="529.0" x2="838.0" y2="529.0" stroke="#e3dccb"/>
+<text x="74.0" y="551.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="21.5" lengthAdjust="spacing">a fi</text>
+<text x="198.2" y="551.5" font-size="14.5" fill="#3a3226" textLength="250.1" lengthAdjust="spacing">nu înseamnă „a se afla, a exista, a dura”</text>
+<text x="539.6" y="551.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="118.8" lengthAdjust="spacing">El este perseverent.</text>
+<line x1="62.0" y1="561.9" x2="838.0" y2="561.9" stroke="#e3dccb"/>
+<text x="74.0" y="584.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="57.3" lengthAdjust="spacing">a deveni</text>
+<text x="198.2" y="584.4" font-size="14.5" fill="#3a3226" textLength="77.6" lengthAdjust="spacing">întotdeauna</text>
+<text x="539.6" y="584.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="116.7" lengthAdjust="spacing">A devenit profesor.</text>
+<line x1="62.0" y1="594.8" x2="838.0" y2="594.8" stroke="#e3dccb"/>
+<text x="74.0" y="617.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="74.1" lengthAdjust="spacing">a ajunge, a</text>
+<text x="74.0" y="638.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="88.6" lengthAdjust="spacing">ieși, a se face</text>
+<text x="198.2" y="617.2" font-size="14.5" fill="#3a3226" textLength="129.5" lengthAdjust="spacing">înseamnă „a deveni”</text>
+<text x="539.6" y="617.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="222.3" lengthAdjust="spacing">A ajuns faimoasă. S-a făcut inginer.</text>
+<line x1="62.0" y1="648.6" x2="838.0" y2="648.6" stroke="#e3dccb"/>
+<text x="74.0" y="671.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="69.0" lengthAdjust="spacing">a însemna</text>
+<text x="198.2" y="671.1" font-size="14.5" fill="#3a3226" textLength="251.9" lengthAdjust="spacing">nu înseamnă „a nota”; arată echivalența</text>
+<text x="539.6" y="671.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="172.1" lengthAdjust="spacing">Prietenia înseamnă respect.</text>
+<line x1="62.0" y1="681.5" x2="838.0" y2="681.5" stroke="#e3dccb"/>
+<text x="74.0" y="704.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="63.4" lengthAdjust="spacing">a rămâne</text>
+<text x="198.2" y="704.0" font-size="14.5" fill="#3a3226" textLength="201.1" lengthAdjust="spacing">înseamnă „a-și păstra însușirile”</text>
+<text x="539.6" y="704.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="137.3" lengthAdjust="spacing">El a rămas nedumerit.</text>
+<line x1="62.0" y1="714.3" x2="838.0" y2="714.3" stroke="#e3dccb"/>
+<text x="74.0" y="736.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="50.2" lengthAdjust="spacing">a părea</text>
+<text x="198.2" y="736.8" font-size="14.5" fill="#3a3226" textLength="138.5" lengthAdjust="spacing">propoziția are subiect</text>
+<text x="539.6" y="736.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="100.3" lengthAdjust="spacing">Ei păreau veseli.</text>
+<line x1="62.0" y1="747.2" x2="838.0" y2="747.2" stroke="#e3dccb"/>
+<line x1="186.2" y1="497.5" x2="186.2" y2="747.2" stroke="#e3dccb"/>
+<line x1="527.6" y1="497.5" x2="527.6" y2="747.2" stroke="#e3dccb"/>
+<text x="62.0" y="775.2" font-size="14" fill="#5b6b83" font-style="italic" textLength="20.4" lengthAdjust="spacing">A fi</text>
+<text x="86.2" y="775.2" font-size="14" fill="#5b6b83" textLength="115.2" lengthAdjust="spacing">poate fi copulativ (</text>
+<text x="201.4" y="775.2" font-size="14" fill="#5b6b83" font-style="italic" textLength="77.1" lengthAdjust="spacing">Sunt curajos.</text>
+<text x="278.6" y="775.2" font-size="14" fill="#5b6b83" textLength="79.5" lengthAdjust="spacing">), predicativ (</text>
+<text x="358.1" y="775.2" font-size="14" fill="#5b6b83" font-style="italic" textLength="142.8" lengthAdjust="spacing">Sunt multe cărți pe raft.</text>
+<text x="500.9" y="775.2" font-size="14" fill="#5b6b83" textLength="84.4" lengthAdjust="spacing">) sau auxiliar (</text>
+<text x="585.3" y="775.2" font-size="14" fill="#5b6b83" font-style="italic" textLength="65.1" lengthAdjust="spacing">Aș fi plâns.</text>
+<text x="650.4" y="775.2" font-size="14" fill="#5b6b83" textLength="7.3" lengthAdjust="spacing">).</text>
+<rect x="40" y="817.4" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="840.4" font-size="16" font-weight="700" fill="#ffffff">3. LOCUȚIUNEA VERBALĂ</text>
+<rect x="40" y="851.4" width="820" height="277.9" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="884.4" font-size="15" fill="#3a3226" textLength="151.5" lengthAdjust="spacing">Grup unitar de cuvinte,</text>
+<text x="217.5" y="884.4" font-size="15" fill="#3a3226" font-weight="700" textLength="135.0" lengthAdjust="spacing">sinonim cu un verb</text>
+<text x="352.5" y="884.4" font-size="15" fill="#3a3226" textLength="165.1" lengthAdjust="spacing">, care are întotdeauna un</text>
+<text x="521.7" y="884.4" font-size="15" fill="#3a3226" font-weight="700" textLength="31.5" lengthAdjust="spacing">verb</text>
+<text x="557.3" y="884.4" font-size="15" fill="#3a3226" textLength="103.5" lengthAdjust="spacing">în componență:</text>
+<text x="664.8" y="884.4" font-size="15" fill="#10233f" font-style="italic" textLength="110.5" lengthAdjust="spacing">a băga de seamă</text>
+<text x="779.4" y="884.4" font-size="15" fill="#3a3226" textLength="26.4" lengthAdjust="spacing">(= a</text>
+<text x="62.0" y="906.1" font-size="15" fill="#3a3226" textLength="59.7" lengthAdjust="spacing">observa),</text>
+<text x="125.8" y="906.1" font-size="15" fill="#10233f" font-style="italic" textLength="90.7" lengthAdjust="spacing">a-și da seama</text>
+<text x="220.6" y="906.1" font-size="15" fill="#3a3226" textLength="91.3" lengthAdjust="spacing">(= a înțelege).</text>
+<text x="62.0" y="939.6" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="939.6" font-size="15" fill="#3a3226" textLength="185.1" lengthAdjust="spacing">Se comportă ca un verb: are</text>
+<text x="263.4" y="939.6" font-size="15" fill="#3a3226" font-weight="700" textLength="96.8" lengthAdjust="spacing">complemente</text>
+<text x="364.2" y="939.6" font-size="15" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">și</text>
+<text x="378.1" y="939.6" font-size="15" fill="#3a3226" font-weight="700" textLength="107.7" lengthAdjust="spacing">circumstanțiale</text>
+<text x="485.8" y="939.6" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">,</text>
+<text x="493.2" y="939.6" font-size="15" fill="#3a3226" font-weight="700" textLength="18.3" lengthAdjust="spacing">nu</text>
+<text x="515.5" y="939.6" font-size="15" fill="#3a3226" textLength="293.7" lengthAdjust="spacing">atribute; substantivele din ea sunt, de obicei,</text>
+<text x="74.2" y="961.4" font-size="15" fill="#3a3226" textLength="80.9" lengthAdjust="spacing">nearticulate.</text>
+<text x="62.0" y="986.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="986.1" font-size="15" fill="#3a3226" textLength="210.3" lengthAdjust="spacing">Cu verbul la un mod personal, e</text>
+<text x="288.6" y="986.1" font-size="15" fill="#3a3226" font-weight="700" textLength="106.0" lengthAdjust="spacing">predicat verbal</text>
+<text x="394.6" y="986.1" font-size="15" fill="#3a3226" textLength="144.0" lengthAdjust="spacing">. Apare des în vorbire.</text>
+<rect x="62.0" y="1004.6" width="776.0" height="106.7" rx="12" fill="#f3efe4"/><text x="78.0" y="1031.1" font-size="14.5" fill="#10233f" font-weight="700" textLength="127.7" lengthAdjust="spacing">Modele de analiză:</text>
+<text x="78.0" y="1050.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="724.4" lengthAdjust="spacing">„a ajuns popă” – predicat nominal: verbul copulativ „a ajunge”, indicativ perfect compus, persoana a III-a, singular +</text>
+<text x="78.0" y="1071.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="549.7" lengthAdjust="spacing">numele predicativ „popă” (substantiv comun, masculin, singular, nominativ, nearticulat).</text>
+<text x="78.0" y="1094.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="633.1" lengthAdjust="spacing">„aduc aminte” – locuțiune verbală: verb la indicativ prezent, persoana I, singular + adverbul „aminte”.</text>
+<text x="150.0" y="1160.8" font-size="11.5" fill="#5b6b83" textLength="600.1" lengthAdjust="spacing">Sursa: Manual Art 7, pp. 67-69, rubricile Repere și modelele de analiză. Unele exemple sunt create pentru aceste notițe.</text>
 </svg>

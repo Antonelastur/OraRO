@@ -1,23 +1,150 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="420" fill="#faf7f0"/>
-  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Modurile și timpurile verbului</text>
-  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II · lecția 15 · patru moduri personale (verbul se schimbă după persoană și număr, e predicat)</text>
-
-  <rect x="55" y="80" width="400" height="150" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Indicativul</text>
-  <text font-size="11" fill="#3a3226"><tspan x="75" y="126">acțiune sigură, reală; singurul mod cu forme</tspan><tspan x="75" y="144">pentru toate timpurile:</tspan><tspan x="75" y="164">• prezent</tspan><tspan x="75" y="182">• trecut: imperfect, perfect compus,</tspan><tspan x="75" y="198">  perfect simplu, mai-mult-ca-perfect</tspan><tspan x="75" y="216">• viitor: standard, anterior, în trecut</tspan></text>
-
-  <rect x="465" y="80" width="380" height="150" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="485" y="104" font-size="13" font-weight="700" fill="#10233f">Imperativul</text>
-  <text font-size="11" fill="#3a3226"><tspan x="485" y="126">ordin, îndemn, sfat, rugăminte</tspan><tspan x="485" y="144">nu are forme de timp; doar persoana</tspan><tspan x="485" y="162">a II-a, singular și plural</tspan><tspan x="485" y="180">forma negativă sg.: nu + infinitiv (Nu veni!)</tspan><tspan x="485" y="198">a fi: fii / nu fi</tspan></text>
-
-  <rect x="55" y="246" width="400" height="120" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="75" y="270" font-size="13" font-weight="700" fill="#10233f">Conjunctivul</text>
-  <text font-size="11" fill="#3a3226"><tspan x="75" y="292">acțiune posibilă, realizabilă</tspan><tspan x="75" y="310">marca gramaticală: conjuncția „să”</tspan><tspan x="75" y="328">două timpuri: prezent (să vină)</tspan><tspan x="75" y="346">și perfect (să fi venit)</tspan></text>
-
-  <rect x="465" y="246" width="380" height="120" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="485" y="270" font-size="13" font-weight="700" fill="#10233f">Condiționalul-optativ</text>
-  <text font-size="11" fill="#3a3226"><tspan x="485" y="292">acțiune posibilă sau dorită, a cărei</tspan><tspan x="485" y="310">realizare depinde de o condiție</tspan><tspan x="485" y="328">două timpuri: prezent (aș veni)</tspan><tspan x="485" y="346">și perfect (aș fi venit)</tspan></text>
-
-  <text x="450" y="398" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, pp. 70-73</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1196" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1196" fill="#faf7f0"/>
+<text x="253.6" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="393.7" lengthAdjust="spacing">Modurile și timpurile verbului</text>
+<text x="208.7" y="74.4" font-size="14" fill="#5b6b83" textLength="482.6" lengthAdjust="spacing">Clasa a VII-a · Unitatea a II-a, Lecția 15 · Manual, pp. 70-73 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. MODURILE</text>
+<rect x="40" y="128.6" width="820" height="275.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="46.2" lengthAdjust="spacing">Modul</text>
+<text x="112.2" y="161.6" font-size="15" fill="#3a3226" textLength="681.0" lengthAdjust="spacing">arată cum privește vorbitorul acțiunea. Verbele la moduri personale își schimbă forma după persoană și</text>
+<text x="62.0" y="183.3" font-size="15" fill="#3a3226" textLength="89.4" lengthAdjust="spacing">număr și sunt</text>
+<text x="155.5" y="183.3" font-size="15" fill="#3a3226" font-weight="700" textLength="66.2" lengthAdjust="spacing">predicate</text>
+<text x="221.6" y="183.3" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="201.8" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="223.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="41.6" lengthAdjust="spacing">Modul</text>
+<text x="244.7" y="223.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="34.7" lengthAdjust="spacing">Arată</text>
+<text x="601.7" y="223.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="233.4" x2="838.0" y2="233.4" stroke="#e3dccb"/>
+<text x="74.0" y="255.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="58.3" lengthAdjust="spacing">indicativ</text>
+<text x="244.7" y="255.9" font-size="14.5" fill="#3a3226" textLength="46.5" lengthAdjust="spacing">acțiune</text>
+<text x="295.2" y="255.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="83.2" lengthAdjust="spacing">sigură, reală</text>
+<text x="601.7" y="255.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="75.5" lengthAdjust="spacing">Ei au plecat.</text>
+<line x1="62.0" y1="266.2" x2="838.0" y2="266.2" stroke="#e3dccb"/>
+<text x="74.0" y="288.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="65.4" lengthAdjust="spacing">imperativ</text>
+<text x="244.7" y="288.8" font-size="14.5" fill="#3a3226" textLength="192.7" lengthAdjust="spacing">ordin, îndemn, sfat, rugăminte</text>
+<text x="601.7" y="288.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="120.6" lengthAdjust="spacing">Plecați mai repede!</text>
+<line x1="62.0" y1="299.1" x2="838.0" y2="299.1" stroke="#e3dccb"/>
+<text x="74.0" y="321.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="70.9" lengthAdjust="spacing">conjunctiv</text>
+<text x="244.7" y="321.6" font-size="14.5" fill="#3a3226" textLength="46.5" lengthAdjust="spacing">acțiune</text>
+<text x="295.2" y="321.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="130.5" lengthAdjust="spacing">posibilă, realizabilă</text>
+<text x="429.6" y="321.6" font-size="14.5" fill="#3a3226" textLength="43.4" lengthAdjust="spacing">(marca</text>
+<text x="476.9" y="321.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="13.6" lengthAdjust="spacing">să</text>
+<text x="490.5" y="321.6" font-size="14.5" fill="#3a3226" textLength="4.3" lengthAdjust="spacing">)</text>
+<text x="601.7" y="321.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="87.1" lengthAdjust="spacing">Vreau să plec.</text>
+<line x1="62.0" y1="332.0" x2="838.0" y2="332.0" stroke="#e3dccb"/>
+<text x="74.0" y="354.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="131.7" lengthAdjust="spacing">condițional-optativ</text>
+<text x="244.7" y="354.4" font-size="14.5" fill="#3a3226" textLength="125.7" lengthAdjust="spacing">acțiune posibilă sau</text>
+<text x="374.4" y="354.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="41.2" lengthAdjust="spacing">dorită</text>
+<text x="415.5" y="354.4" font-size="14.5" fill="#3a3226" textLength="122.7" lengthAdjust="spacing">, care depinde de o</text>
+<text x="244.7" y="375.5" font-size="14.5" fill="#3a3226" textLength="51.5" lengthAdjust="spacing">condiție</text>
+<text x="601.7" y="354.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="114.8" lengthAdjust="spacing">Aș pleca la munte.</text>
+<line x1="62.0" y1="385.8" x2="838.0" y2="385.8" stroke="#e3dccb"/>
+<line x1="232.7" y1="201.8" x2="232.7" y2="385.8" stroke="#e3dccb"/>
+<line x1="589.7" y1="201.8" x2="589.7" y2="385.8" stroke="#e3dccb"/>
+<rect x="40" y="423.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="446.8" font-size="16" font-weight="700" fill="#ffffff">2. TIMPURILE INDICATIVULUI</text>
+<rect x="40" y="457.8" width="820" height="445.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="475.8" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="497.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="44.5" lengthAdjust="spacing">Timpul</text>
+<text x="260.2" y="497.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="52.0" lengthAdjust="spacing">Ce arată</text>
+<text x="617.2" y="497.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="507.4" x2="838.0" y2="507.4" stroke="#e3dccb"/>
+<text x="74.0" y="529.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="51.9" lengthAdjust="spacing">prezent</text>
+<text x="260.2" y="529.9" font-size="14.5" fill="#3a3226" textLength="326.0" lengthAdjust="spacing">acțiunea din momentul vorbirii; adevăruri generale,</text>
+<text x="260.2" y="550.9" font-size="14.5" fill="#3a3226" textLength="57.9" lengthAdjust="spacing">proverbe</text>
+<text x="617.2" y="529.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="206.3" lengthAdjust="spacing">lucrez; Leneșul mai mult aleargă.</text>
+<line x1="62.0" y1="561.2" x2="838.0" y2="561.2" stroke="#e3dccb"/>
+<text x="74.0" y="583.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="66.0" lengthAdjust="spacing">imperfect</text>
+<text x="260.2" y="583.8" font-size="14.5" fill="#3a3226" textLength="251.7" lengthAdjust="spacing">acțiune trecută, în paralel cu alta (sufixe</text>
+<text x="515.9" y="583.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="53.1" lengthAdjust="spacing">-a-, -ea-</text>
+<text x="568.9" y="583.8" font-size="14.5" fill="#3a3226" textLength="4.3" lengthAdjust="spacing">)</text>
+<text x="617.2" y="583.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="102.7" lengthAdjust="spacing">cântam, păream</text>
+<line x1="62.0" y1="594.1" x2="838.0" y2="594.1" stroke="#e3dccb"/>
+<text x="74.0" y="616.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="106.0" lengthAdjust="spacing">perfect compus</text>
+<text x="260.2" y="616.6" font-size="14.5" fill="#3a3226" textLength="168.1" lengthAdjust="spacing">acțiune trecută, încheiată (</text>
+<text x="428.3" y="616.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="41.3" lengthAdjust="spacing">a avea</text>
+<text x="473.5" y="616.6" font-size="14.5" fill="#3a3226" textLength="78.0" lengthAdjust="spacing">+ participiu)</text>
+<text x="617.2" y="616.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="60.2" lengthAdjust="spacing">am lucrat</text>
+<line x1="62.0" y1="627.0" x2="838.0" y2="627.0" stroke="#e3dccb"/>
+<text x="74.0" y="649.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="98.3" lengthAdjust="spacing">perfect simplu</text>
+<text x="260.2" y="649.5" font-size="14.5" fill="#3a3226" textLength="307.5" lengthAdjust="spacing">acțiune încheiată; timpul povestirii la pers. a III-a</text>
+<text x="617.2" y="649.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="82.8" lengthAdjust="spacing">lucră, lucrară</text>
+<line x1="62.0" y1="659.8" x2="838.0" y2="659.8" stroke="#e3dccb"/>
+<text x="74.0" y="682.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="137.9" lengthAdjust="spacing">mai-mult-ca-perfect</text>
+<text x="260.2" y="682.3" font-size="14.5" fill="#3a3226" textLength="296.8" lengthAdjust="spacing">acțiune încheiată înaintea altei acțiuni trecute (</text>
+<text x="557.0" y="682.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="24.5" lengthAdjust="spacing">-se-</text>
+<text x="581.5" y="682.3" font-size="14.5" fill="#3a3226" textLength="4.3" lengthAdjust="spacing">)</text>
+<text x="617.2" y="682.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="56.7" lengthAdjust="spacing">lucrasem</text>
+<line x1="62.0" y1="692.7" x2="838.0" y2="692.7" stroke="#e3dccb"/>
+<text x="74.0" y="715.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="36.2" lengthAdjust="spacing">viitor</text>
+<text x="260.2" y="715.2" font-size="14.5" fill="#3a3226" textLength="188.9" lengthAdjust="spacing">după momentul vorbirii; scris:</text>
+<text x="453.1" y="715.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="48.1" lengthAdjust="spacing">voi veni</text>
+<text x="501.2" y="715.2" font-size="14.5" fill="#3a3226" textLength="47.8" lengthAdjust="spacing">; vorbit:</text>
+<text x="553.0" y="715.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="37.8" lengthAdjust="spacing">am să</text>
+<text x="260.2" y="736.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="75.5" lengthAdjust="spacing">/ o să ascult</text>
+<text x="617.2" y="715.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="48.1" lengthAdjust="spacing">voi veni</text>
+<line x1="62.0" y1="746.5" x2="838.0" y2="746.5" stroke="#e3dccb"/>
+<text x="74.0" y="769.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="95.0" lengthAdjust="spacing">viitor anterior</text>
+<text x="260.2" y="769.0" font-size="14.5" fill="#3a3226" textLength="306.5" lengthAdjust="spacing">acțiune viitoare, încheiată înaintea alteia viitoare</text>
+<text x="617.2" y="769.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="81.8" lengthAdjust="spacing">vor fi început</text>
+<line x1="62.0" y1="779.4" x2="838.0" y2="779.4" stroke="#e3dccb"/>
+<text x="74.0" y="801.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="98.0" lengthAdjust="spacing">viitor în trecut</text>
+<text x="260.2" y="801.9" font-size="14.5" fill="#3a3226" textLength="234.7" lengthAdjust="spacing">viitor văzut dintr-un moment trecut (</text>
+<text x="495.0" y="801.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="42.0" lengthAdjust="spacing">aveam</text>
+<text x="540.9" y="801.9" font-size="14.5" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">+</text>
+<text x="260.2" y="822.9" font-size="14.5" fill="#3a3226" textLength="69.9" lengthAdjust="spacing">conjunctiv)</text>
+<text x="617.2" y="801.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="105.8" lengthAdjust="spacing">aveam să înțeleg</text>
+<line x1="62.0" y1="833.2" x2="838.0" y2="833.2" stroke="#e3dccb"/>
+<line x1="248.2" y1="475.8" x2="248.2" y2="833.2" stroke="#e3dccb"/>
+<line x1="605.2" y1="475.8" x2="605.2" y2="833.2" stroke="#e3dccb"/>
+<text x="62.0" y="861.2" font-size="14" fill="#5b6b83" textLength="221.9" lengthAdjust="spacing">Forme regionale: perfect compus cu</text>
+<text x="287.7" y="861.2" font-size="14" fill="#5b6b83" font-style="italic" textLength="27.0" lengthAdjust="spacing">o, or</text>
+<text x="318.5" y="861.2" font-size="14" fill="#5b6b83" textLength="4.2" lengthAdjust="spacing">(</text>
+<text x="322.7" y="861.2" font-size="14" fill="#5b6b83" font-style="italic" textLength="40.7" lengthAdjust="spacing">o venit</text>
+<text x="363.4" y="861.2" font-size="14" fill="#5b6b83" textLength="346.5" lengthAdjust="spacing">); perfect simplu la persoana I în Oltenia, Banat, Crișana (</text>
+<text x="709.9" y="861.2" font-size="14" fill="#5b6b83" font-style="italic" textLength="63.0" lengthAdjust="spacing">Abia venii.</text>
+<text x="772.9" y="861.2" font-size="14" fill="#5b6b83" textLength="60.6" lengthAdjust="spacing">); viitor cu</text>
+<text x="62.0" y="881.5" font-size="14" fill="#5b6b83" font-style="italic" textLength="48.7" lengthAdjust="spacing">oi, ăi, or</text>
+<text x="114.5" y="881.5" font-size="14" fill="#5b6b83" textLength="4.2" lengthAdjust="spacing">(</text>
+<text x="118.7" y="881.5" font-size="14" fill="#5b6b83" font-style="italic" textLength="39.9" lengthAdjust="spacing">oi veni</text>
+<text x="158.6" y="881.5" font-size="14" fill="#5b6b83" textLength="7.3" lengthAdjust="spacing">).</text>
+<rect x="40" y="923.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="946.8" font-size="16" font-weight="700" fill="#ffffff">3. CELELALTE MODURI</text>
+<rect x="40" y="957.8" width="820" height="187.1" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="975.8" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="997.2" font-size="13.5" fill="#10233f" font-weight="700" textLength="41.6" lengthAdjust="spacing">Modul</text>
+<text x="268.0" y="997.2" font-size="13.5" fill="#10233f" font-weight="700" textLength="40.4" lengthAdjust="spacing">Forme</text>
+<line x1="62.0" y1="1007.3" x2="838.0" y2="1007.3" stroke="#e3dccb"/>
+<text x="74.0" y="1029.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="65.4" lengthAdjust="spacing">imperativ</text>
+<text x="268.0" y="1029.8" font-size="14.5" fill="#3a3226" textLength="322.2" lengthAdjust="spacing">fără timpuri; doar persoana a II-a; negativ singular:</text>
+<text x="594.1" y="1029.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="16.2" lengthAdjust="spacing">nu</text>
+<text x="614.3" y="1029.8" font-size="14.5" fill="#3a3226" textLength="68.9" lengthAdjust="spacing">+ infinitiv (</text>
+<text x="683.1" y="1029.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="53.4" lengthAdjust="spacing">Nu veni!</text>
+<text x="736.5" y="1029.8" font-size="14.5" fill="#3a3226" textLength="50.9" lengthAdjust="spacing">); plural:</text>
+<text x="791.3" y="1029.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="16.2" lengthAdjust="spacing">nu</text>
+<text x="811.5" y="1029.8" font-size="14.5" fill="#3a3226" textLength="9.9" lengthAdjust="spacing">+</text>
+<text x="268.0" y="1050.8" font-size="14.5" fill="#3a3226" textLength="68.2" lengthAdjust="spacing">imperativ (</text>
+<text x="336.1" y="1050.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="61.8" lengthAdjust="spacing">Nu veniți!</text>
+<text x="397.9" y="1050.8" font-size="14.5" fill="#3a3226" textLength="7.5" lengthAdjust="spacing">);</text>
+<text x="409.4" y="1050.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="19.9" lengthAdjust="spacing">a fi</text>
+<text x="429.2" y="1050.8" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">:</text>
+<text x="436.3" y="1050.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="53.8" lengthAdjust="spacing">fii / nu fi</text>
+<line x1="62.0" y1="1061.2" x2="838.0" y2="1061.2" stroke="#e3dccb"/>
+<text x="74.0" y="1083.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="70.9" lengthAdjust="spacing">conjunctiv</text>
+<text x="268.0" y="1083.7" font-size="14.5" fill="#3a3226" textLength="51.6" lengthAdjust="spacing">prezent:</text>
+<text x="323.5" y="1083.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="87.4" lengthAdjust="spacing">să vin, să vină</text>
+<text x="411.0" y="1083.7" font-size="14.5" fill="#3a3226" textLength="55.1" lengthAdjust="spacing">; perfect:</text>
+<text x="470.0" y="1083.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="60.0" lengthAdjust="spacing">să fi venit</text>
+<text x="533.9" y="1083.7" font-size="14.5" fill="#3a3226" textLength="222.7" lengthAdjust="spacing">(aceeași formă la toate persoanele)</text>
+<line x1="62.0" y1="1094.0" x2="838.0" y2="1094.0" stroke="#e3dccb"/>
+<text x="74.0" y="1116.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="131.7" lengthAdjust="spacing">condițional-optativ</text>
+<text x="268.0" y="1116.5" font-size="14.5" fill="#3a3226" textLength="51.6" lengthAdjust="spacing">prezent:</text>
+<text x="323.5" y="1116.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="43.4" lengthAdjust="spacing">aș veni</text>
+<text x="370.8" y="1116.5" font-size="14.5" fill="#3a3226" textLength="4.3" lengthAdjust="spacing">(</text>
+<text x="375.2" y="1116.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="41.3" lengthAdjust="spacing">a avea</text>
+<text x="420.4" y="1116.5" font-size="14.5" fill="#3a3226" textLength="120.1" lengthAdjust="spacing">+ infinitiv); perfect:</text>
+<text x="544.4" y="1116.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="60.0" lengthAdjust="spacing">aș fi venit</text>
+<line x1="62.0" y1="1126.9" x2="838.0" y2="1126.9" stroke="#e3dccb"/>
+<line x1="256.0" y1="975.8" x2="256.0" y2="1126.9" stroke="#e3dccb"/>
+<text x="329.5" y="1176.4" font-size="11.5" fill="#5b6b83" textLength="240.9" lengthAdjust="spacing">Sursa: Manual Art 7, pp. 70-73, rubricile Repere.</text>
 </svg>

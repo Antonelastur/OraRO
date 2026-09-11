@@ -305,7 +305,7 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Descoperă circumstanțialul de cauză și rolul lui în enunț.'],
-    resurse: ['Manual Art 7, pp. 78-79', 'Schema „Circumstanțialul de cauză” (/materiale/clasa-7/unitatea-2/lectia-18/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 7, pp. 78-79', 'Schema „Posibilitățile combinatorii ale verbului. Circumstanțialul de cauză” (/materiale/clasa-7/unitatea-2/lectia-18/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Privim planșa din Zâmbește de Raina Telgemeier, de la p. 79, cu replica „Fiica mea tocmai a leșinat din neglijența voastră!”, și îi întreb din ce cauză a leșinat fata.' },

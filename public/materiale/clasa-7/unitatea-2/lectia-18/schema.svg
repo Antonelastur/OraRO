@@ -1,10 +1,121 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="320" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Circumstanțialul de cauză</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II, „Posibilități combinatorii ale verbului”</text>
-  <rect x="150" y="95" width="600" height="90" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="450" y="123" text-anchor="middle" font-size="14" font-weight="700" fill="#10233f">Ce arată</text>
-  <text font-size="12" fill="#3a3226" text-anchor="middle"><tspan x="450" y="147">Motivul, cauza pentru care se petrece acțiunea exprimată de verb.</tspan><tspan x="450" y="164" font-weight="700">Întrebări: din ce cauză? din ce pricină? de ce?</tspan></text>
-  <text x="450" y="228" text-anchor="middle" font-size="13" fill="#3a3226" font-style="italic">A întârziat din cauza ploii.</text>
-  <text x="450" y="270" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, pp. 78-80</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 941" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="941" fill="#faf7f0"/>
+<text x="64.6" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="772.2" lengthAdjust="spacing">Posibilitățile combinatorii ale verbului. Circumstanțialul de</text>
+<text x="412.9" y="85.0" font-size="28" fill="#10233f" font-weight="700" textLength="74.2" lengthAdjust="spacing">cauză</text>
+<text x="208.7" y="109.4" font-size="14" fill="#5b6b83" textLength="482.6" lengthAdjust="spacing">Clasa a VII-a · Unitatea a II-a, Lecția 18 · Manual, pp. 78-80 · notițe pentru caiet</text>
+<rect x="40" y="129.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="152.6" font-size="16" font-weight="700" fill="#ffffff">1. VERBUL CA CENTRU</text>
+<rect x="40" y="163.6" width="820" height="330.5" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="196.6" font-size="15" fill="#3a3226" textLength="193.0" lengthAdjust="spacing">Cu mod personal, verbul este</text>
+<text x="259.1" y="196.6" font-size="15" fill="#3a3226" font-weight="700" textLength="162.3" lengthAdjust="spacing">centrul grupului verbal</text>
+<text x="421.4" y="196.6" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="428.7" y="196.6" font-size="15" fill="#3a3226" font-weight="700" textLength="106.0" lengthAdjust="spacing">predicat verbal</text>
+<text x="538.8" y="196.6" font-size="15" fill="#3a3226" textLength="291.4" lengthAdjust="spacing">(verb predicativ) sau, cu un nume predicativ,</text>
+<text x="62.0" y="218.4" font-size="15" fill="#3a3226" font-weight="700" textLength="120.0" lengthAdjust="spacing">predicat nominal</text>
+<text x="182.0" y="218.4" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="236.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="258.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="136.2" lengthAdjust="spacing">Verbul se combină cu</text>
+<text x="345.6" y="258.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="268.4" x2="838.0" y2="268.4" stroke="#e3dccb"/>
+<text x="74.0" y="290.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="61.6" lengthAdjust="spacing">subiectul</text>
+<text x="139.5" y="290.9" font-size="14.5" fill="#3a3226" textLength="115.1" lengthAdjust="spacing">(interdependență)</text>
+<text x="345.6" y="290.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="45.1" lengthAdjust="spacing">Preotul</text>
+<text x="394.6" y="290.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="34.2" lengthAdjust="spacing">ajută</text>
+<text x="428.8" y="290.9" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="301.3" x2="838.0" y2="301.3" stroke="#e3dccb"/>
+<text x="74.0" y="323.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="122.8" lengthAdjust="spacing">numele predicativ</text>
+<text x="200.7" y="323.8" font-size="14.5" fill="#3a3226" textLength="97.7" lengthAdjust="spacing">(relație ternară)</text>
+<text x="345.6" y="323.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="84.5" lengthAdjust="spacing">Oamenii sunt</text>
+<text x="434.1" y="323.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="43.9" lengthAdjust="spacing">fericiți</text>
+<text x="478.0" y="323.8" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="334.1" x2="838.0" y2="334.1" stroke="#e3dccb"/>
+<text x="74.0" y="356.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="244.8" lengthAdjust="spacing">complement direct / prepozițional /</text>
+<text x="74.0" y="377.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="52.2" lengthAdjust="spacing">indirect</text>
+<text x="345.6" y="356.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="59.5" lengthAdjust="spacing">Am văzut</text>
+<text x="409.0" y="356.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="48.7" lengthAdjust="spacing">un film</text>
+<text x="457.7" y="356.6" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="464.8" y="356.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="52.1" lengthAdjust="spacing">A apelat</text>
+<text x="520.8" y="356.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="77.7" lengthAdjust="spacing">la voluntari</text>
+<text x="598.5" y="356.6" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="605.6" y="356.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="84.0" lengthAdjust="spacing">Li s-a adresat</text>
+<text x="693.5" y="356.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="59.3" lengthAdjust="spacing">sătenilor</text>
+<text x="752.8" y="356.6" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="388.0" x2="838.0" y2="388.0" stroke="#e3dccb"/>
+<text x="74.0" y="410.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="104.1" lengthAdjust="spacing">circumstanțiale</text>
+<text x="182.0" y="410.5" font-size="14.5" fill="#3a3226" textLength="111.9" lengthAdjust="spacing">de loc, timp, mod</text>
+<text x="345.6" y="410.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="47.3" lengthAdjust="spacing">A intrat</text>
+<text x="396.8" y="410.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="68.9" lengthAdjust="spacing">în biserică</text>
+<text x="465.7" y="410.5" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="472.8" y="410.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="28.1" lengthAdjust="spacing">Vine</text>
+<text x="504.8" y="410.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="113.8" lengthAdjust="spacing">sâmbăta viitoare</text>
+<text x="618.6" y="410.5" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="625.7" y="410.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="43.5" lengthAdjust="spacing">Îi ajută</text>
+<text x="673.1" y="410.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="80.8" lengthAdjust="spacing">cu prietenie</text>
+<text x="753.9" y="410.5" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="420.8" x2="838.0" y2="420.8" stroke="#e3dccb"/>
+<line x1="333.6" y1="236.9" x2="333.6" y2="420.8" stroke="#e3dccb"/>
+<text x="62.0" y="449.8" font-size="15" fill="#3a3226" textLength="299.2" lengthAdjust="spacing">Infinitivul, supinul și gerunziul pot fi, mai ales:</text>
+<text x="365.3" y="449.8" font-size="15" fill="#3a3226" font-weight="700" textLength="96.4" lengthAdjust="spacing">atribut verbal</text>
+<text x="465.8" y="449.8" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="470.3" y="449.8" font-size="15" fill="#10233f" font-style="italic" textLength="321.3" lengthAdjust="spacing">dorința de a reuși, porumb de fiert, lacrimi șiroind</text>
+<text x="791.6" y="449.8" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">),</text>
+<text x="62.0" y="471.6" font-size="15" fill="#3a3226" font-weight="700" textLength="133.5" lengthAdjust="spacing">complement direct</text>
+<text x="199.6" y="471.6" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="204.1" y="471.6" font-size="15" fill="#10233f" font-style="italic" textLength="227.4" lengthAdjust="spacing">Pot învăța. Am terminat de învățat.</text>
+<text x="431.4" y="471.6" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">),</text>
+<text x="443.3" y="471.6" font-size="15" fill="#3a3226" font-weight="700" textLength="186.8" lengthAdjust="spacing">complement prepozițional</text>
+<text x="634.1" y="471.6" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="638.6" y="471.6" font-size="15" fill="#10233f" font-style="italic" textLength="140.1" lengthAdjust="spacing">M-am plictisit de citit.</text>
+<text x="778.7" y="471.6" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">).</text>
+<rect x="40" y="514.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="537.1" font-size="16" font-weight="700" fill="#ffffff">2. CIRCUMSTANȚIALUL DE CAUZĂ</text>
+<rect x="40" y="548.1" width="820" height="341.9" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="582.1" font-size="16" fill="#10233f" textLength="83.7" lengthAdjust="spacing">Subordonat</text>
+<text x="150.0" y="582.1" font-size="16" fill="#10233f" font-weight="700" textLength="70.9" lengthAdjust="spacing">facultativ</text>
+<text x="225.2" y="582.1" font-size="16" fill="#10233f" textLength="116.6" lengthAdjust="spacing">al verbului; arată</text>
+<text x="346.2" y="582.1" font-size="16" fill="#10233f" font-weight="700" textLength="42.4" lengthAdjust="spacing">cauza</text>
+<text x="392.9" y="582.1" font-size="16" fill="#10233f" textLength="307.8" lengthAdjust="spacing">unei acțiuni sau a unei însușiri. Răspunde la:</text>
+<text x="705.0" y="582.1" font-size="16" fill="#10233f" font-weight="700" textLength="127.5" lengthAdjust="spacing">din ce cauză? din</text>
+<text x="62.0" y="605.3" font-size="16" fill="#10233f" font-weight="700" textLength="79.2" lengthAdjust="spacing">ce pricină?</text>
+<rect x="62.0" y="624.1" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="645.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="100.2" lengthAdjust="spacing">Se exprimă prin</text>
+<text x="423.2" y="645.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="655.6" x2="838.0" y2="655.6" stroke="#e3dccb"/>
+<text x="74.0" y="678.1" font-size="14.5" fill="#3a3226" textLength="248.1" lengthAdjust="spacing">substantiv, pronume, numeral în Ac. cu</text>
+<text x="326.0" y="678.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="45.0" lengthAdjust="spacing">de, din,</text>
+<text x="74.0" y="699.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="79.8" lengthAdjust="spacing">pentru, după</text>
+<text x="423.2" y="678.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="46.4" lengthAdjust="spacing">A plâns</text>
+<text x="473.5" y="678.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="68.4" lengthAdjust="spacing">de emoție</text>
+<text x="542.0" y="678.1" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="549.1" y="678.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="92.7" lengthAdjust="spacing">Să nu te superi</text>
+<text x="645.6" y="678.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="84.1" lengthAdjust="spacing">pentru mine</text>
+<text x="729.7" y="678.1" font-size="14.5" fill="#3a3226" textLength="4.1" lengthAdjust="spacing">!</text>
+<line x1="62.0" y1="709.5" x2="838.0" y2="709.5" stroke="#e3dccb"/>
+<text x="74.0" y="732.0" font-size="14.5" fill="#3a3226" textLength="136.0" lengthAdjust="spacing">adjectiv cu prepoziție</text>
+<text x="423.2" y="732.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="68.9" lengthAdjust="spacing">De zgârcit</text>
+<text x="492.1" y="732.0" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">,</text>
+<text x="499.2" y="732.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="160.8" lengthAdjust="spacing">nu le-a dat copiilor nimic.</text>
+<line x1="62.0" y1="742.4" x2="838.0" y2="742.4" stroke="#e3dccb"/>
+<text x="74.0" y="764.9" font-size="14.5" fill="#3a3226" textLength="56.0" lengthAdjust="spacing">gerunziu</text>
+<text x="423.2" y="764.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="40.6" lengthAdjust="spacing">Citind</text>
+<text x="467.7" y="764.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="235.6" lengthAdjust="spacing">cu atenție textul, ai înțeles personajul.</text>
+<line x1="62.0" y1="775.2" x2="838.0" y2="775.2" stroke="#e3dccb"/>
+<line x1="411.2" y1="624.1" x2="411.2" y2="775.2" stroke="#e3dccb"/>
+<rect x="62.0" y="789.2" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="789.2" width="6" height="82.7" rx="3" fill="#b4432c"/><text x="84.0" y="815.7" font-size="14.5" fill="#b4432c" font-weight="700" textLength="49.3" lengthAdjust="spacing">Virgula</text>
+<text x="84.0" y="834.6" font-size="14.5" fill="#3a3226" textLength="82.2" lengthAdjust="spacing">De obicei stă</text>
+<text x="170.1" y="834.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="34.7" lengthAdjust="spacing">după</text>
+<text x="208.7" y="834.6" font-size="14.5" fill="#3a3226" textLength="36.4" lengthAdjust="spacing">verb (</text>
+<text x="245.1" y="834.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="110.2" lengthAdjust="spacing">Cântă de bucurie.</text>
+<text x="355.3" y="834.6" font-size="14.5" fill="#3a3226" textLength="96.7" lengthAdjust="spacing">). Exprimat prin</text>
+<text x="455.9" y="834.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="146.2" lengthAdjust="spacing">adjectiv cu prepoziție</text>
+<text x="606.0" y="834.6" font-size="14.5" fill="#3a3226" textLength="21.8" lengthAdjust="spacing">sau</text>
+<text x="631.7" y="834.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="60.2" lengthAdjust="spacing">gerunziu</text>
+<text x="695.8" y="834.6" font-size="14.5" fill="#3a3226" textLength="36.4" lengthAdjust="spacing">și pus</text>
+<text x="736.1" y="834.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="47.1" lengthAdjust="spacing">înainte</text>
+<text x="783.2" y="834.6" font-size="14.5" fill="#3a3226" textLength="14.6" lengthAdjust="spacing">, e</text>
+<text x="84.0" y="855.6" font-size="14.5" fill="#3a3226" textLength="38.1" lengthAdjust="spacing">urmat</text>
+<text x="126.0" y="855.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="76.0" lengthAdjust="spacing">obligatoriu</text>
+<text x="205.9" y="855.6" font-size="14.5" fill="#3a3226" textLength="66.4" lengthAdjust="spacing">de virgulă:</text>
+<text x="276.3" y="855.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="358.0" lengthAdjust="spacing">De invidios, nu l-a felicitat. Nevăzând groapa, a alunecat.</text>
+<text x="329.5" y="921.4" font-size="11.5" fill="#5b6b83" textLength="240.9" lengthAdjust="spacing">Sursa: Manual Art 7, pp. 78-80, rubricile Repere.</text>
 </svg>

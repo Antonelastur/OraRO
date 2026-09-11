@@ -1,15 +1,129 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="380" fill="#faf7f0"/>
-  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Forme verbale nepersonale: infinitivul și participiul</text>
-  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea II · lecția 16 · nu se schimbă după persoană, nu sunt predicate de sine</text>
-
-  <rect x="55" y="80" width="390" height="230" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Infinitivul</text>
-  <text font-size="11" fill="#3a3226"><tspan x="75" y="126">denumește o acțiune sau o stare;</tspan><tspan x="75" y="144">e forma din dicționar a verbului</tspan><tspan x="75" y="166">cu prepoziția „a” (a ajuta) sau fără (pot rezolva)</tspan><tspan x="75" y="184">cinci conjugări, cu sufixe diferite</tspan><tspan x="75" y="208" font-weight="700" fill="#10233f">Funcții sintactice:</tspan><tspan x="75" y="228">subiect, nume predicativ, complement</tspan><tspan x="75" y="246">direct, complement prepozițional,</tspan><tspan x="75" y="264">atribut verbal</tspan></text>
-
-  <rect x="465" y="80" width="380" height="230" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="485" y="104" font-size="13" font-weight="700" fill="#10233f">Participiul</text>
-  <text font-size="11" fill="#3a3226"><tspan x="485" y="126">arată o acțiune terminată, suferită</tspan><tspan x="485" y="144">sau îndeplinită</tspan><tspan x="485" y="166">intră în moduri și timpuri compuse:</tspan><tspan x="485" y="184">perfect compus, viitor anterior,</tspan><tspan x="485" y="202">conjunctiv perfect, condițional perfect</tspan><tspan x="485" y="224">sufixe: -at, -ut, -s, -t, -it, -ât</tspan><tspan x="485" y="248">independent → adjectiv provenit din</tspan><tspan x="485" y="266">participiu: atribut adjectival sau nume</tspan><tspan x="485" y="284">predicativ; negativ cu prefixul ne-</tspan></text>
-
-  <text x="450" y="350" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 7, pp. 74-75</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1050" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1050" fill="#faf7f0"/>
+<text x="301.3" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="297.9" lengthAdjust="spacing">Infinitivul și participiul</text>
+<text x="208.7" y="74.4" font-size="14" fill="#5b6b83" textLength="482.6" lengthAdjust="spacing">Clasa a VII-a · Unitatea a II-a, Lecția 16 · Manual, pp. 74-75 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. INFINITIVUL</text>
+<rect x="40" y="128.6" width="820" height="365.4" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" textLength="250.3" lengthAdjust="spacing">Denumește o acțiune sau o stare; este</text>
+<text x="316.4" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="131.7" lengthAdjust="spacing">forma de dicționar</text>
+<text x="452.1" y="161.6" font-size="15" fill="#3a3226" textLength="131.2" lengthAdjust="spacing">a verbului. Apare cu</text>
+<text x="587.4" y="161.6" font-size="15" fill="#10233f" font-style="italic" textLength="8.1" lengthAdjust="spacing">a</text>
+<text x="599.6" y="161.6" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="604.1" y="161.6" font-size="15" fill="#10233f" font-style="italic" textLength="159.3" lengthAdjust="spacing">A ajuta este o dovadă de</text>
+<text x="62.0" y="183.3" font-size="15" fill="#10233f" font-style="italic" textLength="83.7" lengthAdjust="spacing">generozitate.</text>
+<text x="145.7" y="183.3" font-size="15" fill="#3a3226" textLength="60.3" lengthAdjust="spacing">) sau fără</text>
+<text x="210.1" y="183.3" font-size="15" fill="#10233f" font-style="italic" textLength="8.1" lengthAdjust="spacing">a</text>
+<text x="222.2" y="183.3" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="226.7" y="183.3" font-size="15" fill="#10233f" font-style="italic" textLength="75.6" lengthAdjust="spacing">Pot rezolva.</text>
+<text x="302.3" y="183.3" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">).</text>
+<rect x="62.0" y="201.8" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="223.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="72.5" lengthAdjust="spacing">Conjugarea</text>
+<text x="277.1" y="223.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="4.3" lengthAdjust="spacing">I</text>
+<text x="387.3" y="223.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="32.4" lengthAdjust="spacing">a II-a</text>
+<text x="509.3" y="223.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="36.7" lengthAdjust="spacing">a III-a</text>
+<text x="633.3" y="223.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="37.1" lengthAdjust="spacing">a IV-a</text>
+<text x="759.6" y="223.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="32.8" lengthAdjust="spacing">a V-a</text>
+<line x1="62.0" y1="233.4" x2="838.0" y2="233.4" stroke="#e3dccb"/>
+<text x="74.0" y="255.9" font-size="14.5" fill="#3a3226" textLength="54.5" lengthAdjust="spacing">exemplu</text>
+<text x="257.7" y="255.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="43.1" lengthAdjust="spacing">a lucra</text>
+<text x="379.2" y="255.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="48.4" lengthAdjust="spacing">a vedea</text>
+<text x="507.7" y="255.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="39.7" lengthAdjust="spacing">a râde</text>
+<text x="630.2" y="255.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="43.2" lengthAdjust="spacing">a vorbi</text>
+<text x="751.3" y="255.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="49.2" lengthAdjust="spacing">a hotărî</text>
+<line x1="62.0" y1="266.2" x2="838.0" y2="266.2" stroke="#e3dccb"/>
+<line x1="217.2" y1="201.8" x2="217.2" y2="266.2" stroke="#e3dccb"/>
+<line x1="341.4" y1="201.8" x2="341.4" y2="266.2" stroke="#e3dccb"/>
+<line x1="465.5" y1="201.8" x2="465.5" y2="266.2" stroke="#e3dccb"/>
+<line x1="589.7" y1="201.8" x2="589.7" y2="266.2" stroke="#e3dccb"/>
+<line x1="713.8" y1="201.8" x2="713.8" y2="266.2" stroke="#e3dccb"/>
+<rect x="62.0" y="280.2" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="301.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="123.4" lengthAdjust="spacing">Funcția infinitivului</text>
+<text x="345.6" y="301.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="311.8" x2="838.0" y2="311.8" stroke="#e3dccb"/>
+<text x="74.0" y="334.3" font-size="14.5" fill="#3a3226" textLength="45.5" lengthAdjust="spacing">subiect</text>
+<text x="345.6" y="334.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="40.3" lengthAdjust="spacing">A visa</text>
+<text x="389.8" y="334.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="84.8" lengthAdjust="spacing">este minunat.</text>
+<line x1="62.0" y1="344.7" x2="838.0" y2="344.7" stroke="#e3dccb"/>
+<text x="74.0" y="367.1" font-size="14.5" fill="#3a3226" textLength="103.1" lengthAdjust="spacing">nume predicativ</text>
+<text x="345.6" y="367.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="105.1" lengthAdjust="spacing">Pasiunea lui este</text>
+<text x="454.6" y="367.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="84.1" lengthAdjust="spacing">de a explora</text>
+<text x="542.7" y="367.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="90.9" lengthAdjust="spacing">culturi diferite.</text>
+<line x1="62.0" y1="377.5" x2="838.0" y2="377.5" stroke="#e3dccb"/>
+<text x="74.0" y="400.0" font-size="14.5" fill="#3a3226" textLength="120.6" lengthAdjust="spacing">complement direct</text>
+<text x="345.6" y="400.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="20.9" lengthAdjust="spacing">Pot</text>
+<text x="370.4" y="400.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="42.0" lengthAdjust="spacing">învăța</text>
+<text x="416.4" y="400.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="67.4" lengthAdjust="spacing">din greșeli.</text>
+<line x1="62.0" y1="410.4" x2="838.0" y2="410.4" stroke="#e3dccb"/>
+<text x="74.0" y="432.9" font-size="14.5" fill="#3a3226" textLength="168.8" lengthAdjust="spacing">complement prepozițional</text>
+<text x="345.6" y="432.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="74.5" lengthAdjust="spacing">Se gândește</text>
+<text x="424.0" y="432.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="44.7" lengthAdjust="spacing">la a da</text>
+<text x="472.6" y="432.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="60.0" lengthAdjust="spacing">un mesaj.</text>
+<line x1="62.0" y1="443.2" x2="838.0" y2="443.2" stroke="#e3dccb"/>
+<text x="74.0" y="465.7" font-size="14.5" fill="#3a3226" textLength="85.5" lengthAdjust="spacing">atribut verbal</text>
+<text x="345.6" y="465.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="39.9" lengthAdjust="spacing">teama</text>
+<text x="389.4" y="465.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="68.3" lengthAdjust="spacing">de a vorbi</text>
+<text x="461.6" y="465.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="53.5" lengthAdjust="spacing">în public</text>
+<line x1="62.0" y1="476.1" x2="838.0" y2="476.1" stroke="#e3dccb"/>
+<line x1="333.6" y1="280.2" x2="333.6" y2="476.0" stroke="#e3dccb"/>
+<rect x="40" y="514.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="537.0" font-size="16" font-weight="700" fill="#ffffff">2. PARTICIPIUL</text>
+<rect x="40" y="548.0" width="820" height="450.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="581.0" font-size="15" fill="#3a3226" textLength="100.5" lengthAdjust="spacing">Arată o acțiune</text>
+<text x="166.6" y="581.0" font-size="15" fill="#3a3226" font-weight="700" textLength="69.2" lengthAdjust="spacing">terminată</text>
+<text x="235.7" y="581.0" font-size="15" fill="#3a3226" textLength="210.8" lengthAdjust="spacing">, suferită sau îndeplinită. Intră în</text>
+<text x="450.5" y="581.0" font-size="15" fill="#3a3226" font-weight="700" textLength="132.3" lengthAdjust="spacing">timpurile compuse</text>
+<text x="582.8" y="581.0" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="590.1" y="581.0" font-size="15" fill="#10233f" font-style="italic" textLength="239.4" lengthAdjust="spacing">am vorbit, voi fi vorbit, să fi vorbit, aș</text>
+<text x="62.0" y="602.8" font-size="15" fill="#10233f" font-style="italic" textLength="49.8" lengthAdjust="spacing">fi vorbit</text>
+<text x="111.8" y="602.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="621.3" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="642.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="44.1" lengthAdjust="spacing">Sufixul</text>
+<text x="182.6" y="642.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="48.5" lengthAdjust="spacing">Verbele</text>
+<text x="570.6" y="642.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="53.7" lengthAdjust="spacing">Exemple</text>
+<line x1="62.0" y1="652.8" x2="838.0" y2="652.8" stroke="#e3dccb"/>
+<text x="74.0" y="675.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="19.3" lengthAdjust="spacing">-at</text>
+<text x="182.6" y="675.3" font-size="14.5" fill="#3a3226" textLength="79.0" lengthAdjust="spacing">conjugarea I</text>
+<text x="570.6" y="675.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="82.5" lengthAdjust="spacing">cântat, lucrat</text>
+<line x1="62.0" y1="685.7" x2="838.0" y2="685.7" stroke="#e3dccb"/>
+<text x="74.0" y="708.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="20.3" lengthAdjust="spacing">-ut</text>
+<text x="182.6" y="708.2" font-size="14.5" fill="#3a3226" textLength="145.0" lengthAdjust="spacing">a II-a și unele de a III-a</text>
+<text x="570.6" y="708.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="72.4" lengthAdjust="spacing">văzut, făcut</text>
+<line x1="62.0" y1="718.5" x2="838.0" y2="718.5" stroke="#e3dccb"/>
+<text x="74.0" y="741.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="12.2" lengthAdjust="spacing">-s</text>
+<text x="182.6" y="741.0" font-size="14.5" fill="#3a3226" textLength="95.3" lengthAdjust="spacing">unele de a III-a</text>
+<text x="570.6" y="741.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="76.9" lengthAdjust="spacing">mers, rămas</text>
+<line x1="62.0" y1="751.4" x2="838.0" y2="751.4" stroke="#e3dccb"/>
+<text x="74.0" y="773.9" font-size="14.5" fill="#3a3226" font-weight="700" textLength="11.5" lengthAdjust="spacing">-t</text>
+<text x="182.6" y="773.9" font-size="14.5" fill="#3a3226" textLength="101.2" lengthAdjust="spacing">puține de a III-a</text>
+<text x="570.6" y="773.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="59.6" lengthAdjust="spacing">copt, rupt</text>
+<line x1="62.0" y1="784.2" x2="838.0" y2="784.2" stroke="#e3dccb"/>
+<text x="74.0" y="806.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="15.5" lengthAdjust="spacing">-it</text>
+<text x="182.6" y="806.8" font-size="14.5" fill="#3a3226" textLength="37.4" lengthAdjust="spacing">a IV-a</text>
+<text x="570.6" y="806.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="66.4" lengthAdjust="spacing">citit, vorbit</text>
+<line x1="62.0" y1="817.1" x2="838.0" y2="817.1" stroke="#e3dccb"/>
+<text x="74.0" y="839.6" font-size="14.5" fill="#3a3226" font-weight="700" textLength="19.3" lengthAdjust="spacing">-ât</text>
+<text x="182.6" y="839.6" font-size="14.5" fill="#3a3226" textLength="33.5" lengthAdjust="spacing">a V-a</text>
+<text x="570.6" y="839.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="89.5" lengthAdjust="spacing">doborât, pârât</text>
+<line x1="62.0" y1="849.9" x2="838.0" y2="849.9" stroke="#e3dccb"/>
+<line x1="170.6" y1="621.3" x2="170.6" y2="849.9" stroke="#e3dccb"/>
+<line x1="558.6" y1="621.3" x2="558.6" y2="849.9" stroke="#e3dccb"/>
+<text x="62.0" y="878.9" font-size="15" fill="#3a3226" textLength="163.5" lengthAdjust="spacing">Singur, participiul devine</text>
+<text x="229.5" y="878.9" font-size="15" fill="#3a3226" font-weight="700" textLength="55.0" lengthAdjust="spacing">adjectiv</text>
+<text x="284.6" y="878.9" font-size="15" fill="#3a3226" textLength="60.0" lengthAdjust="spacing">: atribut (</text>
+<text x="344.6" y="878.9" font-size="15" fill="#10233f" font-style="italic" textLength="76.5" lengthAdjust="spacing">cartea citită</text>
+<text x="421.1" y="878.9" font-size="15" fill="#3a3226" textLength="150.3" lengthAdjust="spacing">) sau nume predicativ (</text>
+<text x="571.4" y="878.9" font-size="15" fill="#10233f" font-style="italic" textLength="150.2" lengthAdjust="spacing">Amintirile sunt plăcute.</text>
+<text x="721.5" y="878.9" font-size="15" fill="#3a3226" textLength="66.6" lengthAdjust="spacing">). Negativ:</text>
+<text x="792.2" y="878.9" font-size="15" fill="#10233f" font-style="italic" textLength="21.8" lengthAdjust="spacing">ne-</text>
+<text x="62.0" y="900.7" font-size="15" fill="#3a3226" textLength="4.5" lengthAdjust="spacing">(</text>
+<text x="66.5" y="900.7" font-size="15" fill="#10233f" font-style="italic" textLength="45.1" lengthAdjust="spacing">neaflat</text>
+<text x="111.7" y="900.7" font-size="15" fill="#3a3226" textLength="27.3" lengthAdjust="spacing">), cu</text>
+<text x="143.0" y="900.7" font-size="15" fill="#10233f" font-style="italic" textLength="24.9" lengthAdjust="spacing">mai</text>
+<text x="172.0" y="900.7" font-size="15" fill="#3a3226" textLength="69.7" lengthAdjust="spacing">intercalat (</text>
+<text x="241.7" y="900.7" font-size="15" fill="#10233f" font-style="italic" textLength="72.6" lengthAdjust="spacing">nemaiauzit</text>
+<text x="314.3" y="900.7" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">).</text>
+<rect x="62.0" y="919.2" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><text x="78.0" y="945.7" font-size="14.5" fill="#10233f" font-weight="700" textLength="119.9" lengthAdjust="spacing">Model de analiză:</text>
+<text x="78.0" y="964.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="490.5" lengthAdjust="spacing">„a învăța” – verb predicativ, conjugarea I, infinitiv, funcția sintactică de subiect.</text>
+<text x="275.0" y="1030.4" font-size="11.5" fill="#5b6b83" textLength="350.1" lengthAdjust="spacing">Sursa: Manual Art 7, pp. 74-75, rubricile Repere și modelul de analiză.</text>
 </svg>

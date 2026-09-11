@@ -1056,7 +1056,7 @@ export const unitatea2 = {
         ],
         resurse: [
           'Manual Art 7, pp. 78-79',
-          'Schema „Circumstanțialul de cauză” (/materiale/clasa-7/unitatea-2/lectia-18/schema.svg)',
+          'Schema „Posibilitățile combinatorii ale verbului. Circumstanțialul de cauză” (/materiale/clasa-7/unitatea-2/lectia-18/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -1093,7 +1093,7 @@ export const unitatea2 = {
         ],
         evaluare: 'Observarea sistematică a elevilor; aprecieri.',
       },
-      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-2/lectia-18/schema.svg', titlu: 'Circumstanțialul de cauză' }, altele: [] },
+      materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: { fisier: '/materiale/clasa-7/unitatea-2/lectia-18/schema.svg', titlu: 'Posibilitățile combinatorii ale verbului. Circumstanțialul de cauză' }, altele: [] },
     },
     {
       id: 'lectia-19',
