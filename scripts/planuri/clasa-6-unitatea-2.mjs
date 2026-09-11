@@ -113,11 +113,11 @@ export default {
     evaluare: 'Observarea sistematică a elevilor; fișa lecției; autoevaluarea achizițiilor din lecțiile 1-5. Temă opțională de portofoliu: posterul despre Oracolele Sibiline.',
   },
   'lectia-7': {
-    titlu: 'Text auxiliar. Micuțul Nicolas de René Goscinny, ilustrații de Jean-Jacques Sempé',
+    titlu: 'Text auxiliar. Micul Nicolas de René Goscinny, ilustrații de Jean-Jacques Sempé',
     data: null,
     tipOra: 'Lectură, text auxiliar',
     durata: 50,
-    obiective: ['Compară textul auxiliar Micuțul Nicolas cu textul de bază al unității și formulează sugestii de lectură.'],
+    obiective: ['Compară textul auxiliar Micul Nicolas cu textul de bază al unității și formulează sugestii de lectură.'],
     resurse: ['Manual Art 6, pp. 56-57', 'Fișa lecției (/materiale/clasa-6/unitatea-2/lectia-7/fisa.pdf)', 'Caietele elevilor'],
     desfasurare: [
       org,

@@ -421,19 +421,19 @@ export const unitatea2 = {
     },
     {
       id: 'lectia-7',
-      titlu: 'Text auxiliar. Micuțul Nicolas de René Goscinny, ilustrații de Jean-Jacques Sempé',
+      titlu: 'Text auxiliar. Micul Nicolas de René Goscinny, ilustrații de Jean-Jacques Sempé',
       obiective: [
-        'Compară textul auxiliar Micuțul Nicolas cu textul de bază al unității și formulează sugestii de lectură.',
+        'Compară textul auxiliar Micul Nicolas cu textul de bază al unității și formulează sugestii de lectură.',
       ],
-      sursaManual: 'Manual, Lecția 6, „Noi pagini, alte idei”, pp. 56-57 (Micuțul Nicolas de René Goscinny, ilustrații de Sempé)',
+      sursaManual: 'Manual, Lecția 6, „Noi pagini, alte idei”, pp. 56-57 (Micul Nicolas de René Goscinny, ilustrații de Sempé)',
       rezolvareGhid: null,
       planLectie: {
-        titlu: 'Text auxiliar. Micuțul Nicolas de René Goscinny, ilustrații de Jean-Jacques Sempé',
+        titlu: 'Text auxiliar. Micul Nicolas de René Goscinny, ilustrații de Jean-Jacques Sempé',
         data: null,
         tipOra: 'Lectură, text auxiliar',
         durata: 50,
         obiective: [
-          'Compară textul auxiliar Micuțul Nicolas cu textul de bază al unității și formulează sugestii de lectură.',
+          'Compară textul auxiliar Micul Nicolas cu textul de bază al unității și formulează sugestii de lectură.',
         ],
         resurse: [
           'Manual Art 6, pp. 56-57',

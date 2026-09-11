@@ -696,7 +696,7 @@ if __name__ == "__main__":
                       "Crezi că băiatul din text chiar crede în oracol sau doar vrea să fie acceptat de colegi?",
                       "Art 6, Lecția 5, pp. 54-55")
     fisa_text_auxiliar("unitatea-2/lectia-7/fisa.pdf", "Unitatea II, Lecția 7",
-                       "Micuțul Nicolas de René Goscinny, ilustrații de Sempé",
+                       "Micul Nicolas de René Goscinny, ilustrații de Sempé",
                        "Art 6, Lecția 6, „Noi pagini, alte idei”, pp. 56-57",
                        texte_baza="textul de bază al unității (Oracolul de Mircea Cărtărescu)")
     fisa_proiect_grila("unitatea-2/lectia-9/fisa.pdf", "Unitatea II, Lecția 9 · Proiect de grup",
