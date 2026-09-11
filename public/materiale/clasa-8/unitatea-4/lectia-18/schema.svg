@@ -1,32 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 412" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="960" height="412" fill="#faf7f0"/>
-  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Ce am învățat despre adevăr și despre texte</text>
-  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 18 · Recapitulare</text>
-  <rect x="36" y="100" width="290" height="150" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-  <text x="56" y="130" font-size="14" font-weight="700" fill="#10233f">Povestirea în ramă</text>
-  <text x="56" y="156" font-size="12" fill="#3d4a5f">o poveste cuprinsă</text>
-  <text x="56" y="176" font-size="12" fill="#3d4a5f">în alta, prin inserție</text>
-  <text x="56" y="196" font-size="12" fill="#3d4a5f"></text>
-  <text x="56" y="216" font-size="12" fill="#3d4a5f">doi naratori,</text>
-  <text x="56" y="236" font-size="12" fill="#3d4a5f">două planuri</text>
-  <rect x="340" y="100" width="290" height="150" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
-  <text x="360" y="130" font-size="14" font-weight="700" fill="#10233f">Antiteza</text>
-  <text x="360" y="156" font-size="12" fill="#3d4a5f">două lucruri opuse,</text>
-  <text x="360" y="176" font-size="12" fill="#3d4a5f">puse alături</text>
-  <text x="360" y="196" font-size="12" fill="#3d4a5f"></text>
-  <text x="360" y="216" font-size="12" fill="#3d4a5f">la nivel de enunț</text>
-  <text x="360" y="236" font-size="12" fill="#3d4a5f">sau al întregii opere</text>
-  <rect x="644" y="100" width="280" height="150" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
-  <text x="664" y="130" font-size="14" font-weight="700" fill="#10233f">Reclama</text>
-  <text x="664" y="156" font-size="12" fill="#3d4a5f">imagine, slogan,</text>
-  <text x="664" y="176" font-size="12" fill="#3d4a5f">text, marcă</text>
-  <text x="664" y="196" font-size="12" fill="#3d4a5f"></text>
-  <text x="664" y="216" font-size="12" fill="#3d4a5f">vinde rareori obiectul,</text>
-  <text x="664" y="236" font-size="12" fill="#3d4a5f">de obicei o stare</text>
-  <rect x="36" y="272" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="58" y="297" font-size="13" font-weight="700" fill="#10233f">Firul unității</text>
-  <text x="58" y="317" font-size="12" fill="#3d4a5f">trei texte despre adevăr ascuns: Vodă îl scoate cu viclenie, împăratul e mințit de toți, reclama exagerează.</text>
-  <rect x="36" y="336" width="888" height="56" rx="14" fill="#ffffff" stroke="#e2d9c4" stroke-width="2"/>
-  <text x="58" y="361" font-size="13" font-weight="700" fill="#10233f">Întrebarea unității</text>
-  <text x="58" y="381" font-size="12" fill="#3d4a5f">unde găsim adevărul? De obicei, la cine nu are niciun interes să mintă. În poveste, un copil.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 874" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="874" fill="#faf7f0"/>
+<text x="171.3" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="558.6" lengthAdjust="spacing">Recapitulare: textul epic, antiteza, reclama</text>
+<text x="162.9" y="74.4" font-size="14" fill="#5b6b83" textLength="574.1" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a IV-a, Lecția 18 · Manual, pp. 136-143 și 160-161 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CUM SE LEAGĂ PLANURILE NARATIVE</text>
+<rect x="40" y="128.6" width="820" height="187.1" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="146.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="63.3" lengthAdjust="spacing">Procedeul</text>
+<text x="268.0" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="50.6" lengthAdjust="spacing">Pe scurt</text>
+<line x1="62.0" y1="178.2" x2="838.0" y2="178.2" stroke="#e3dccb"/>
+<text x="74.0" y="200.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="73.7" lengthAdjust="spacing">înlănțuirea</text>
+<text x="268.0" y="200.7" font-size="14.5" fill="#3a3226" textLength="140.8" lengthAdjust="spacing">întâmplările se succed</text>
+<line x1="62.0" y1="211.0" x2="838.0" y2="211.0" stroke="#e3dccb"/>
+<text x="74.0" y="233.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="70.2" lengthAdjust="spacing">alternanța</text>
+<text x="268.0" y="233.5" font-size="14.5" fill="#3a3226" textLength="156.0" lengthAdjust="spacing">firele narative alternează</text>
+<line x1="62.0" y1="243.8" x2="838.0" y2="243.8" stroke="#e3dccb"/>
+<text x="74.0" y="266.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="50.5" lengthAdjust="spacing">inserția</text>
+<text x="268.0" y="266.4" font-size="14.5" fill="#3a3226" textLength="546.2" lengthAdjust="spacing">o poveste inclusă în alta (povestirea în ramă): naratorul din ramă devine ascultător, un</text>
+<text x="268.0" y="287.4" font-size="14.5" fill="#3a3226" textLength="151.8" lengthAdjust="spacing">personaj devine narator</text>
+<line x1="62.0" y1="297.7" x2="838.0" y2="297.7" stroke="#e3dccb"/>
+<line x1="256.0" y1="146.6" x2="256.0" y2="297.7" stroke="#e3dccb"/>
+<rect x="40" y="335.7" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="358.7" font-size="16" font-weight="700" fill="#ffffff">2. ANTITEZA ȘI CARACTERIZAREA</text>
+<rect x="40" y="369.7" width="820" height="102.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="402.7" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="402.7" font-size="15" fill="#3a3226" font-weight="700" textLength="59.0" lengthAdjust="spacing">Antiteza</text>
+<text x="137.2" y="402.7" font-size="15" fill="#3a3226" textLength="211.3" lengthAdjust="spacing">alătură termeni opuși: în enunț (</text>
+<text x="348.5" y="402.7" font-size="15" fill="#10233f" font-style="italic" textLength="53.7" lengthAdjust="spacing">sus – jos</text>
+<text x="402.2" y="402.7" font-size="15" fill="#3a3226" textLength="333.9" lengthAdjust="spacing">) sau în întreaga operă (planuri, personaje, acțiuni).</text>
+<text x="62.0" y="427.5" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="427.5" font-size="15" fill="#3a3226" font-weight="700" textLength="100.3" lengthAdjust="spacing">Caracterizarea</text>
+<text x="174.6" y="427.5" font-size="15" fill="#3a3226" textLength="217.8" lengthAdjust="spacing">: trăsături fizice și morale, reieșite</text>
+<text x="396.4" y="427.5" font-size="15" fill="#3a3226" font-weight="700" textLength="40.6" lengthAdjust="spacing">direct</text>
+<text x="441.1" y="427.5" font-size="15" fill="#3a3226" textLength="305.1" lengthAdjust="spacing">(narator, alte personaje, autocaracterizare) sau</text>
+<text x="750.2" y="427.5" font-size="15" fill="#3a3226" font-weight="700" textLength="54.0" lengthAdjust="spacing">indirect</text>
+<text x="74.2" y="449.2" font-size="15" fill="#3a3226" textLength="270.4" lengthAdjust="spacing">(fapte, limbaj, gesturi), fiecare cu o citare.</text>
+<rect x="40" y="491.7" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="514.7" font-size="16" font-weight="700" fill="#ffffff">3. RECLAMA ȘI PERSUASIUNEA</text>
+<rect x="40" y="525.7" width="820" height="126.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="558.7" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="558.7" font-size="15" fill="#3a3226" font-weight="700" textLength="130.3" lengthAdjust="spacing">Textul multimodal</text>
+<text x="208.6" y="558.7" font-size="15" fill="#3a3226" textLength="264.0" lengthAdjust="spacing">combină cuvinte, imagini, sunete, culori;</text>
+<text x="476.6" y="558.7" font-size="15" fill="#3a3226" font-weight="700" textLength="55.5" lengthAdjust="spacing">reclama</text>
+<text x="536.2" y="558.7" font-size="15" fill="#3a3226" textLength="254.8" lengthAdjust="spacing">pune un produs într-o lumină pozitivă.</text>
+<text x="62.0" y="583.5" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="583.5" font-size="15" fill="#3a3226" textLength="440.4" lengthAdjust="spacing">Principiile: atenția, înțelegerea, încrederea, marca, acțiunea, efectul.</text>
+<text x="62.0" y="608.2" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="608.2" font-size="15" fill="#3a3226" textLength="316.8" lengthAdjust="spacing">Convingem prin argumente și dovezi, dar și prin</text>
+<text x="395.0" y="608.2" font-size="15" fill="#3a3226" font-weight="700" textLength="71.2" lengthAdjust="spacing">nonverbal</text>
+<text x="470.3" y="608.2" font-size="15" fill="#3a3226" textLength="172.2" lengthAdjust="spacing">(gesturi, mimică, privire) și</text>
+<text x="646.6" y="608.2" font-size="15" fill="#3a3226" font-weight="700" textLength="75.3" lengthAdjust="spacing">paraverbal</text>
+<text x="725.9" y="608.2" font-size="15" fill="#3a3226" textLength="83.1" lengthAdjust="spacing">(volum, ritm,</text>
+<text x="74.2" y="630.0" font-size="15" fill="#3a3226" textLength="113.5" lengthAdjust="spacing">pauze, intonație).</text>
+<rect x="40" y="672.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="695.5" font-size="16" font-weight="700" fill="#ffffff">4. LECTURA PREDICTIVĂ</text>
+<rect x="40" y="706.5" width="820" height="99.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="724.5" width="776.0" height="63.9" rx="12" fill="#f3efe4"/><text x="78.0" y="751.0" font-size="14.5" fill="#3a3226" textLength="283.2" lengthAdjust="spacing">Citesc pe fragmente; înaintea fiecăruia notez</text>
+<text x="365.1" y="751.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="80.0" lengthAdjust="spacing">ce anticipez</text>
+<text x="449.0" y="751.0" font-size="14.5" fill="#3a3226" textLength="9.6" lengthAdjust="spacing">și</text>
+<text x="462.5" y="751.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="168.1" lengthAdjust="spacing">pe ce îmi bazez predicția</text>
+<text x="630.6" y="751.0" font-size="14.5" fill="#3a3226" textLength="162.7" lengthAdjust="spacing">; după lectură verific dacă</text>
+<text x="797.2" y="751.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="20.0" lengthAdjust="spacing">s-a</text>
+<text x="78.0" y="772.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="66.8" lengthAdjust="spacing">confirmat</text>
+<text x="144.8" y="772.0" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="68.3" y="837.9" font-size="11.5" fill="#5b6b83" textLength="763.4" lengthAdjust="spacing">Sursa: Manual Art 8, rubricile Repere din lecțiile 2, 3 și 5; recapitularea de la pp. 160-161 („Cele trei adevăruri ale canarului”, din „Cercul mincinoșilor” de</text>
+<text x="394.5" y="854.5" font-size="11.5" fill="#5b6b83" textLength="111.1" lengthAdjust="spacing">Jean-Claude Carrière).</text>
 </svg>

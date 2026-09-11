@@ -219,7 +219,7 @@ export default {
     tipOra: 'Predare, limbă română',
     durata: 50,
     obiective: ['Definește propoziția circumstanțială de timp și identifică elementele de relație și topica ei.'],
-    resurse: ['Manual Art 8, pp. 153-154', 'Schema „Circumstanțialul și circumstanțiala de timp” (/materiale/clasa-8/unitatea-4/lectia-13/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 8, pp. 153-154', 'Schema „Circumstanțiala de timp” (/materiale/clasa-8/unitatea-4/lectia-13/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
       org,
       { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le dau „Am plecat atunci" și le cer să înlocuiască „atunci" cu o propoziție.' },

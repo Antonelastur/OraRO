@@ -1,19 +1,87 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="400" fill="#faf7f0"/>
-  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Circumstanțiala de loc</text>
-  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV · lecția 11 · realizarea propozițională a circumstanțialului de loc</text>
-
-  <rect x="55" y="80" width="390" height="130" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
-  <text x="75" y="104" font-size="13" font-weight="700" fill="#10233f">Regentul</text>
-  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="128">• un verb sau o locuțiune verbală</tspan><tspan x="75" y="148">• un adjectiv (Rămăsese așezat unde…)</tspan><tspan x="75" y="168">• o interjecție predicativă</tspan><tspan x="75" y="188">  (Hai cu noi până unde e intersecția.)</tspan></text>
-
-  <rect x="465" y="80" width="380" height="130" rx="14" fill="none" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="485" y="104" font-size="13" font-weight="700" fill="#10233f">Elemente de relație</text>
-  <text font-size="11" fill="#3a3226"><tspan x="485" y="126">• adverbe relative (unde, încotro, dincotro)</tspan><tspan x="485" y="144">• adverbe nehotărâte (oriunde, oriîncotro)</tspan><tspan x="485" y="162">• pronume relative + prepoziții</tspan><tspan x="485" y="180">• adjective pronominale relative</tspan><tspan x="485" y="198">• pronume și adjective pronominale nehotărâte</tspan></text>
-
-  <rect x="55" y="226" width="790" height="110" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
-  <text x="75" y="250" font-size="12.5" font-weight="700" fill="#10233f">Topica și punctuația</text>
-  <text font-size="11" fill="#3a3226"><tspan x="75" y="272">în regentă pot apărea adverbe corelative (acolo, de acolo, pe acolo…), care marchează relația dintre propoziții</tspan><tspan x="75" y="290">stă de obicei după regentă, fără virgulă; antepusă, se desparte prin virgulă dacă nu se insistă asupra ei</tspan><tspan x="75" y="312">dacă în regentă e un adverb corelativ, circumstanțiala se desparte prin virgulă, indiferent de poziție</tspan></text>
-
-  <text x="450" y="378" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 150-151</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 953" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="953" fill="#faf7f0"/>
+<text x="304.5" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="291.5" lengthAdjust="spacing">Circumstanțiala de loc</text>
+<text x="196.8" y="74.4" font-size="14" fill="#5b6b83" textLength="506.4" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a IV-a, Lecția 11 · Manual, pp. 150-151 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ESTE</text>
+<rect x="40" y="128.6" width="820" height="168.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="166.6" lengthAdjust="spacing">Circumstanțiala de loc</text>
+<text x="232.9" y="162.6" font-size="16" fill="#10233f" textLength="316.3" lengthAdjust="spacing">este circumstanțialul de loc exprimat printr-o</text>
+<text x="553.5" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="77.3" lengthAdjust="spacing">propoziție</text>
+<text x="630.8" y="162.6" font-size="16" fill="#10233f" textLength="97.6" lengthAdjust="spacing">. Răspunde la:</text>
+<text x="732.7" y="162.6" font-size="16" fill="#10233f" font-style="italic" textLength="62.1" lengthAdjust="spacing">unde? de</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" font-style="italic" textLength="320.2" lengthAdjust="spacing">unde? până unde? pe unde? încotro? dincotro?</text>
+<text x="62.0" y="219.6" font-size="15" fill="#10233f" font-style="italic" textLength="191.2" lengthAdjust="spacing">Unde mergem? → Mergem 1/</text>
+<text x="257.3" y="219.6" font-size="15" fill="#3a3226" font-weight="700" textLength="88.3" lengthAdjust="spacing">unde spui tu</text>
+<text x="345.6" y="219.6" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="353.0" y="219.6" font-size="15" fill="#10233f" font-style="italic" textLength="14.1" lengthAdjust="spacing">2/</text>
+<text x="62.0" y="253.1" font-size="15" fill="#3a3226" font-weight="700" textLength="63.6" lengthAdjust="spacing">Regentul</text>
+<text x="125.6" y="253.1" font-size="15" fill="#3a3226" textLength="189.1" lengthAdjust="spacing">: verb sau locuțiune verbală (</text>
+<text x="314.7" y="253.1" font-size="15" fill="#10233f" font-style="italic" textLength="209.2" lengthAdjust="spacing">Du-te 1/ încotro vezi cu ochii. 2/</text>
+<text x="524.0" y="253.1" font-size="15" fill="#3a3226" textLength="71.1" lengthAdjust="spacing">), adjectiv (</text>
+<text x="595.1" y="253.1" font-size="15" fill="#10233f" font-style="italic" textLength="184.3" lengthAdjust="spacing">Rămăsese așezată 1/ unde o</text>
+<text x="62.0" y="274.9" font-size="15" fill="#10233f" font-style="italic" textLength="77.5" lengthAdjust="spacing">pusesem. 2/</text>
+<text x="139.5" y="274.9" font-size="15" fill="#3a3226" textLength="162.0" lengthAdjust="spacing">), interjecție predicativă (</text>
+<text x="301.5" y="274.9" font-size="15" fill="#10233f" font-style="italic" textLength="279.0" lengthAdjust="spacing">Hai cu noi 1/ până unde este intersecția. 2/</text>
+<text x="580.5" y="274.9" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">).</text>
+<rect x="40" y="317.4" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="340.4" font-size="16" font-weight="700" fill="#ffffff">2. ELEMENTELE DE RELAȚIE</text>
+<rect x="40" y="351.4" width="820" height="264.6" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="369.4" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="390.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="63.5" lengthAdjust="spacing">Elementul</text>
+<text x="384.4" y="390.9" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="400.9" x2="838.0" y2="400.9" stroke="#e3dccb"/>
+<text x="74.0" y="423.4" font-size="14.5" fill="#3a3226" textLength="105.1" lengthAdjust="spacing">adverbe relative:</text>
+<text x="183.0" y="423.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="140.8" lengthAdjust="spacing">unde, încotro, dincotro</text>
+<text x="384.4" y="423.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="235.2" lengthAdjust="spacing">Am mers 1/ până unde am stabilit. 2/</text>
+<line x1="62.0" y1="433.8" x2="838.0" y2="433.8" stroke="#e3dccb"/>
+<text x="74.0" y="456.2" font-size="14.5" fill="#3a3226" textLength="128.6" lengthAdjust="spacing">adverbe nehotărâte:</text>
+<text x="206.5" y="456.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="115.7" lengthAdjust="spacing">oriunde, oriîncotro</text>
+<text x="384.4" y="456.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="299.7" lengthAdjust="spacing">Furtuna a distrus totul 1/ pe oriunde a trecut. 2/</text>
+<line x1="62.0" y1="466.6" x2="838.0" y2="466.6" stroke="#e3dccb"/>
+<text x="74.0" y="489.1" font-size="14.5" fill="#3a3226" textLength="196.0" lengthAdjust="spacing">pronume relative cu prepoziție</text>
+<text x="384.4" y="489.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="223.3" lengthAdjust="spacing">M-am ascuns 1/ sub ce am găsit. 2/</text>
+<line x1="62.0" y1="499.5" x2="838.0" y2="499.5" stroke="#e3dccb"/>
+<text x="74.0" y="522.0" font-size="14.5" fill="#3a3226" textLength="192.4" lengthAdjust="spacing">adjective pronominale relative</text>
+<text x="384.4" y="522.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="229.2" lengthAdjust="spacing">Mă voi opri 1/ la ce han întâlnesc. 2/</text>
+<line x1="62.0" y1="532.3" x2="838.0" y2="532.3" stroke="#e3dccb"/>
+<text x="74.0" y="554.8" font-size="14.5" fill="#3a3226" textLength="219.5" lengthAdjust="spacing">pronume nehotărâte cu prepoziție</text>
+<text x="384.4" y="554.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="221.7" lengthAdjust="spacing">Se duce 1/ spre oricine îl ascultă. 2/</text>
+<line x1="62.0" y1="565.1" x2="838.0" y2="565.1" stroke="#e3dccb"/>
+<text x="74.0" y="587.6" font-size="14.5" fill="#3a3226" textLength="215.9" lengthAdjust="spacing">adjective pronominale nehotărâte</text>
+<text x="384.4" y="587.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="208.7" lengthAdjust="spacing">...1/ în oricare han am poposit. 2/</text>
+<line x1="62.0" y1="598.0" x2="838.0" y2="598.0" stroke="#e3dccb"/>
+<line x1="372.4" y1="369.4" x2="372.4" y2="598.0" stroke="#e3dccb"/>
+<rect x="40" y="636.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="659.0" font-size="16" font-weight="700" fill="#ffffff">3. CORELATIVELE, TOPICA, VIRGULA</text>
+<rect x="40" y="670.0" width="820" height="232.4" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="703.0" font-size="15" fill="#3a3226" textLength="143.4" lengthAdjust="spacing">În regentă pot apărea</text>
+<text x="209.4" y="703.0" font-size="15" fill="#3a3226" font-weight="700" textLength="69.0" lengthAdjust="spacing">corelative</text>
+<text x="278.4" y="703.0" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="285.8" y="703.0" font-size="15" fill="#10233f" font-style="italic" textLength="220.8" lengthAdjust="spacing">acolo, de acolo, pe acolo, peste tot</text>
+<text x="506.6" y="703.0" font-size="15" fill="#3a3226" textLength="319.2" lengthAdjust="spacing">. Ele întăresc legătura și arată felul subordonatei.</text>
+<rect x="62.0" y="721.5" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="743.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="43.1" lengthAdjust="spacing">Poziția</text>
+<text x="384.4" y="743.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="45.9" lengthAdjust="spacing">Virgula</text>
+<line x1="62.0" y1="753.0" x2="838.0" y2="753.0" stroke="#e3dccb"/>
+<text x="74.0" y="775.5" font-size="14.5" fill="#3a3226" textLength="86.0" lengthAdjust="spacing">după regentă</text>
+<text x="384.4" y="775.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="27.0" lengthAdjust="spacing">fără</text>
+<text x="415.3" y="775.5" font-size="14.5" fill="#3a3226" textLength="43.2" lengthAdjust="spacing">virgulă</text>
+<line x1="62.0" y1="785.9" x2="838.0" y2="785.9" stroke="#e3dccb"/>
+<text x="74.0" y="808.4" font-size="14.5" fill="#3a3226" textLength="107.6" lengthAdjust="spacing">înaintea regentei</text>
+<text x="384.4" y="808.4" font-size="14.5" fill="#3a3226" textLength="242.4" lengthAdjust="spacing">cu virgulă, dacă nu se insistă asupra ei</text>
+<line x1="62.0" y1="818.8" x2="838.0" y2="818.8" stroke="#e3dccb"/>
+<text x="74.0" y="841.2" font-size="14.5" fill="#3a3226" textLength="135.4" lengthAdjust="spacing">intercalată în regentă</text>
+<text x="384.4" y="841.2" font-size="14.5" fill="#3a3226" textLength="71.0" lengthAdjust="spacing">izolată prin</text>
+<text x="459.4" y="841.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="47.4" lengthAdjust="spacing">virgule</text>
+<line x1="62.0" y1="851.6" x2="838.0" y2="851.6" stroke="#e3dccb"/>
+<text x="74.0" y="874.1" font-size="14.5" fill="#3a3226" textLength="35.4" lengthAdjust="spacing">cu un</text>
+<text x="113.3" y="874.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="58.9" lengthAdjust="spacing">corelativ</text>
+<text x="176.1" y="874.1" font-size="14.5" fill="#3a3226" textLength="65.0" lengthAdjust="spacing">în regentă</text>
+<text x="384.4" y="874.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="67.3" lengthAdjust="spacing">cu virgulă</text>
+<text x="451.7" y="874.1" font-size="14.5" fill="#3a3226" textLength="98.7" lengthAdjust="spacing">, oriunde ar sta:</text>
+<text x="554.3" y="874.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="236.5" lengthAdjust="spacing">De acolo a pornit, de unde s-a născut.</text>
+<line x1="62.0" y1="884.5" x2="838.0" y2="884.5" stroke="#e3dccb"/>
+<line x1="372.4" y1="721.5" x2="372.4" y2="884.5" stroke="#e3dccb"/>
+<text x="323.3" y="934.0" font-size="11.5" fill="#5b6b83" textLength="253.3" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 150-151, rubricile Repere.</text>
 </svg>

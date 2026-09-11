@@ -1,20 +1,78 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="380" fill="#faf7f0"/>
-  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Circumstanțialul de loc</text>
-  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV · lecția 10 · arată situarea și orientarea spațială</text>
-
-  <rect x="55" y="80" width="790" height="60" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
-  <text x="75" y="102" font-size="13" font-weight="700" fill="#10233f">Întrebări</text>
-  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="124">unde?, de unde?, până unde?, pe unde?, încotro?, dincotro?</tspan></text>
-
-  <rect x="55" y="156" width="390" height="130" rx="14" fill="none" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="75" y="180" font-size="13" font-weight="700" fill="#10233f">Regentul</text>
-  <text font-size="11" fill="#3a3226"><tspan x="75" y="202">un verb sau o locuțiune verbală,</tspan><tspan x="75" y="220">o interjecție predicativă (Poftim înăuntru!)</tspan><tspan x="75" y="238">sau un adjectiv (curat pe picioare)</tspan></text>
-
-  <rect x="465" y="156" width="380" height="130" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
-  <text x="485" y="180" font-size="13" font-weight="700" fill="#10233f">Se exprimă prin</text>
-  <text font-size="11" fill="#3a3226"><tspan x="485" y="202">substantiv în acuzativ, genitiv sau dativ;</tspan><tspan x="485" y="220">adverb de loc, relativ, nehotărât sau</tspan><tspan x="485" y="238">interogativ ori locuțiune adverbială;</tspan><tspan x="485" y="256">pronume, numeral, supin (la pescuit)</tspan></text>
-
-  <text x="450" y="326" text-anchor="middle" font-size="11.5" fill="#3a3226">Exemple: Urcați pe scara din stânga. Deasupra orașului s-au adunat nori. A plecat departe.</text>
-  <text x="450" y="360" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, p. 149</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1015" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1015" fill="#faf7f0"/>
+<text x="299.6" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="301.3" lengthAdjust="spacing">Circumstanțialul de loc</text>
+<text x="215.1" y="74.4" font-size="14" fill="#5b6b83" textLength="469.8" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a IV-a, Lecția 10 · Manual, p. 149 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ESTE</text>
+<rect x="40" y="128.6" width="820" height="80.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="172.2" lengthAdjust="spacing">Circumstanțialul de loc</text>
+<text x="238.5" y="162.6" font-size="16" fill="#10233f" textLength="35.5" lengthAdjust="spacing">arată</text>
+<text x="278.3" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="59.8" lengthAdjust="spacing">situarea</text>
+<text x="342.5" y="162.6" font-size="16" fill="#10233f" textLength="10.6" lengthAdjust="spacing">și</text>
+<text x="357.4" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="146.9" lengthAdjust="spacing">orientarea în spațiu</text>
+<text x="504.2" y="162.6" font-size="16" fill="#10233f" textLength="173.4" lengthAdjust="spacing">. Răspunde la întrebările:</text>
+<text x="682.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="117.8" lengthAdjust="spacing">unde? de unde?</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="300.3" lengthAdjust="spacing">până unde? pe unde? încotro? dincotro?</text>
+<rect x="40" y="228.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="251.6" font-size="16" font-weight="700" fill="#ffffff">2. DE CE DEPINDE</text>
+<rect x="40" y="262.6" width="820" height="166.1" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="280.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="302.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="57.2" lengthAdjust="spacing">Regentul</text>
+<text x="345.6" y="302.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="312.2" x2="838.0" y2="312.2" stroke="#e3dccb"/>
+<text x="74.0" y="334.7" font-size="14.5" fill="#3a3226" textLength="145.0" lengthAdjust="spacing">verb, locuțiune verbală</text>
+<text x="345.6" y="334.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="58.9" lengthAdjust="spacing">Am ajuns</text>
+<text x="408.4" y="334.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="41.3" lengthAdjust="spacing">la han</text>
+<text x="449.7" y="334.7" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="456.8" y="334.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="110.8" lengthAdjust="spacing">Și-a luat tălpășița</text>
+<text x="571.5" y="334.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="43.8" lengthAdjust="spacing">de aici</text>
+<text x="615.3" y="334.7" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="345.0" x2="838.0" y2="345.0" stroke="#e3dccb"/>
+<text x="74.0" y="367.5" font-size="14.5" fill="#3a3226" textLength="136.9" lengthAdjust="spacing">interjecție predicativă</text>
+<text x="345.6" y="367.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="41.5" lengthAdjust="spacing">Poftim</text>
+<text x="391.0" y="367.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="58.7" lengthAdjust="spacing">înăuntru</text>
+<text x="449.7" y="367.5" font-size="14.5" fill="#3a3226" textLength="4.1" lengthAdjust="spacing">!</text>
+<line x1="62.0" y1="377.9" x2="838.0" y2="377.9" stroke="#e3dccb"/>
+<text x="74.0" y="400.4" font-size="14.5" fill="#3a3226" textLength="49.0" lengthAdjust="spacing">adjectiv</text>
+<text x="345.6" y="400.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="104.7" lengthAdjust="spacing">Cățelul era curat</text>
+<text x="454.2" y="400.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="75.3" lengthAdjust="spacing">pe picioare</text>
+<text x="529.5" y="400.4" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="410.7" x2="838.0" y2="410.7" stroke="#e3dccb"/>
+<line x1="333.6" y1="280.6" x2="333.6" y2="410.7" stroke="#e3dccb"/>
+<rect x="40" y="448.7" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="471.7" font-size="16" font-weight="700" fill="#ffffff">3. PRIN CE SE EXPRIMĂ</text>
+<rect x="40" y="482.7" width="820" height="327.7" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="500.7" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="522.2" font-size="13.5" fill="#10233f" font-weight="700" textLength="109.8" lengthAdjust="spacing">Partea de vorbire</text>
+<text x="399.9" y="522.2" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="532.2" x2="838.0" y2="532.2" stroke="#e3dccb"/>
+<text x="74.0" y="554.8" font-size="14.5" fill="#3a3226" textLength="167.0" lengthAdjust="spacing">substantiv în Ac., G. sau D.</text>
+<text x="399.9" y="554.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="419.5" lengthAdjust="spacing">Urcați pe scara din stânga. Deasupra orașului s-au adunat nori. Nu</text>
+<text x="399.9" y="575.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="67.1" lengthAdjust="spacing">stă locului.</text>
+<line x1="62.0" y1="586.1" x2="838.0" y2="586.1" stroke="#e3dccb"/>
+<text x="74.0" y="608.6" font-size="14.5" fill="#3a3226" textLength="290.3" lengthAdjust="spacing">adverb (de loc, relativ, nehotărât, interogativ),</text>
+<text x="74.0" y="629.6" font-size="14.5" fill="#3a3226" textLength="129.2" lengthAdjust="spacing">locuțiune adverbială</text>
+<text x="399.9" y="608.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="391.9" lengthAdjust="spacing">A plecat departe. Spune-mi până unde să merg. Umblă de colo</text>
+<text x="399.9" y="629.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="64.5" lengthAdjust="spacing">până colo.</text>
+<line x1="62.0" y1="640.0" x2="838.0" y2="640.0" stroke="#e3dccb"/>
+<text x="74.0" y="662.5" font-size="14.5" fill="#3a3226" textLength="58.7" lengthAdjust="spacing">pronume</text>
+<text x="399.9" y="662.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="337.4" lengthAdjust="spacing">Se îndreaptă spre tine. În jurul lor s-a creat busculadă.</text>
+<line x1="62.0" y1="672.9" x2="838.0" y2="672.9" stroke="#e3dccb"/>
+<text x="74.0" y="695.4" font-size="14.5" fill="#3a3226" textLength="298.7" lengthAdjust="spacing">adjectiv pronominal posesiv, după o prepoziție</text>
+<text x="74.0" y="716.4" font-size="14.5" fill="#3a3226" textLength="63.2" lengthAdjust="spacing">de genitiv</text>
+<text x="399.9" y="695.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="188.6" lengthAdjust="spacing">Ploaia s-a abătut asupra mea.</text>
+<line x1="62.0" y1="726.7" x2="838.0" y2="726.7" stroke="#e3dccb"/>
+<text x="74.0" y="749.2" font-size="14.5" fill="#3a3226" textLength="207.0" lengthAdjust="spacing">numeral cu valoare pronominală</text>
+<text x="399.9" y="749.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="132.8" lengthAdjust="spacing">L-am găsit în a doua.</text>
+<line x1="62.0" y1="759.6" x2="838.0" y2="759.6" stroke="#e3dccb"/>
+<text x="74.0" y="782.1" font-size="14.5" fill="#3a3226" textLength="34.7" lengthAdjust="spacing">supin</text>
+<text x="399.9" y="782.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="131.7" lengthAdjust="spacing">A întârziat la pescuit.</text>
+<line x1="62.0" y1="792.4" x2="838.0" y2="792.4" stroke="#e3dccb"/>
+<line x1="387.9" y1="500.7" x2="387.9" y2="792.4" stroke="#e3dccb"/>
+<rect x="40" y="830.4" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="853.4" font-size="16" font-weight="700" fill="#ffffff">4. MODEL DE ANALIZĂ</text>
+<rect x="40" y="864.4" width="820" height="99.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="882.4" width="776.0" height="63.9" rx="12" fill="#f3efe4"/><text x="78.0" y="908.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="720.8" lengthAdjust="spacing">„din gara” – circumstanțial de loc, exprimat prin substantiv comun, genul feminin, numărul singular, cazul acuzativ,</text>
+<text x="78.0" y="930.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="433.2" lengthAdjust="spacing">articulat cu articolul hotărât „-a”, precedat de prepoziția simplă „din”.</text>
+<text x="286.6" y="995.8" font-size="11.5" fill="#5b6b83" textLength="326.8" lengthAdjust="spacing">Sursa: Manual Art 8, p. 149, rubrica Repere și modelul de analiză.</text>
 </svg>

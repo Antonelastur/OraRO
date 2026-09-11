@@ -1,24 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="960" height="420" fill="#faf7f0"/>
-  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Tiparul pro-contra</text>
-  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 16 · Tipare textuale de structurare a ideilor</text>
-  <rect x="36" y="100" width="432" height="180" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
-  <text x="58" y="132" font-size="15" font-weight="700" fill="#1c7f5e">PRO</text>
-  <text x="58" y="162" font-size="12.5" fill="#3d4a5f">Argument 1 + exemplul lui</text>
-  <text x="58" y="186" font-size="12.5" fill="#3d4a5f">Argument 2 + exemplul lui</text>
-  <text x="58" y="222" font-size="12" font-style="italic" fill="#5b6b83">în primul rând, mai mult,</text>
-  <text x="58" y="242" font-size="12" font-style="italic" fill="#5b6b83">de asemenea</text>
-  <rect x="492" y="100" width="432" height="180" rx="16" fill="#ffffff" stroke="#c1503a" stroke-width="2.5"/>
-  <text x="514" y="132" font-size="15" font-weight="700" fill="#c1503a">CONTRA</text>
-  <text x="514" y="162" font-size="12.5" fill="#3d4a5f">Contraargument 1 + exemplu</text>
-  <text x="514" y="186" font-size="12.5" fill="#3d4a5f">Contraargument 2 + exemplu</text>
-  <text x="514" y="222" font-size="12" font-style="italic" fill="#5b6b83">dar, dimpotrivă, totuși,</text>
-  <text x="514" y="242" font-size="12" font-style="italic" fill="#5b6b83">în schimb, pe de altă parte</text>
-  <path d="M474 190 L486 190" stroke="#b8944f" stroke-width="3"/>
-  <rect x="36" y="296" width="888" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="58" y="321" font-size="13" font-weight="700" fill="#10233f">Încheierea</text>
-  <text x="58" y="341" font-size="12" fill="#3d4a5f">îți asumi o poziție. Un text pro-contra care nu se decide la final nu convinge pe nimeni.</text>
-  <rect x="36" y="360" width="888" height="56" rx="14" fill="#ffffff" stroke="#c1503a" stroke-width="2"/>
-  <text x="58" y="385" font-size="13" font-weight="700" fill="#10233f">Greșeala frecventă</text>
-  <text x="58" y="405" font-size="12" fill="#3d4a5f">argumentele contra puse ca să fie bifate, fără exemple. Ele trebuie tratate la fel de serios ca cele pro.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 870" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="870" fill="#faf7f0"/>
+<text x="272.5" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="355.6" lengthAdjust="spacing">Tipare textuale: pro-contra</text>
+<text x="196.8" y="74.4" font-size="14" fill="#5b6b83" textLength="506.4" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a IV-a, Lecția 16 · Manual, pp. 158-159 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. PRO ȘI CONTRA</text>
+<rect x="40" y="128.6" width="820" height="221.4" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" textLength="210.4" lengthAdjust="spacing">Orice temă poate fi privită din</text>
+<text x="276.7" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="135.8" lengthAdjust="spacing">perspective opuse</text>
+<text x="412.6" y="162.6" font-size="16" fill="#10233f" textLength="3.5" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="181.4" width="380.0" height="67.7" rx="12" fill="#ffffff" stroke="#2f7d4f" stroke-width="2"/>
+<text x="78.0" y="209.4" font-size="16" fill="#2f7d4f" font-weight="700" textLength="113.3" lengthAdjust="spacing">argumente pro</text>
+<text x="78.0" y="232.7" font-size="14.5" fill="#3a3226" textLength="11.7" lengthAdjust="spacing">în</text>
+<text x="93.7" y="232.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="38.4" lengthAdjust="spacing">acord</text>
+<text x="136.0" y="232.7" font-size="14.5" fill="#3a3226" textLength="101.9" lengthAdjust="spacing">cu teza, o susțin</text>
+<rect x="458.0" y="181.4" width="380.0" height="67.7" rx="12" fill="#ffffff" stroke="#b4432c" stroke-width="2"/>
+<text x="474.0" y="209.4" font-size="16" fill="#b4432c" font-weight="700" textLength="131.2" lengthAdjust="spacing">contraargumente</text>
+<text x="474.0" y="232.7" font-size="14.5" fill="#3a3226" textLength="11.7" lengthAdjust="spacing">în</text>
+<text x="489.7" y="232.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="62.2" lengthAdjust="spacing">dezacord</text>
+<text x="555.8" y="232.7" font-size="14.5" fill="#3a3226" textLength="113.4" lengthAdjust="spacing">cu teza, o combat</text>
+<text x="62.0" y="278.1" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="278.1" font-size="15" fill="#3a3226" textLength="461.2" lengthAdjust="spacing">În același text pot apărea ambele; autorul se situează de partea unora.</text>
+<text x="62.0" y="302.8" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="302.8" font-size="15" fill="#3a3226" textLength="353.1" lengthAdjust="spacing">Și argumentele, și contraargumentele sunt însoțite de</text>
+<text x="431.3" y="302.8" font-size="15" fill="#3a3226" font-weight="700" textLength="59.8" lengthAdjust="spacing">exemple</text>
+<text x="491.2" y="302.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="327.6" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="327.6" font-size="15" fill="#3a3226" textLength="552.6" lengthAdjust="spacing">Contraargumentele stau după fiecare argument sau după toată seria de argumente.</text>
+<rect x="40" y="370.0" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="393.0" font-size="16" font-weight="700" fill="#ffffff">2. CONECTORII DE TRECERE</text>
+<rect x="40" y="404.0" width="820" height="77.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="437.0" font-size="15" fill="#10233f" font-style="italic" textLength="714.0" lengthAdjust="spacing">dar, or, dimpotrivă, totuși, cu toate acestea, în schimb, din contră, de fapt, în realitate, în timp ce, în loc să, spre</text>
+<text x="62.0" y="458.8" font-size="15" fill="#10233f" font-style="italic" textLength="295.5" lengthAdjust="spacing">deosebire, ceea ce contrazice, pe de altă parte</text>
+<rect x="40" y="501.3" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="524.3" font-size="16" font-weight="700" fill="#ffffff">3. PLANUL TEXTULUI</text>
+<rect x="40" y="535.3" width="820" height="283.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="553.3" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="574.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="40.8" lengthAdjust="spacing">Partea</text>
+<text x="229.2" y="574.8" font-size="13.5" fill="#10233f" font-weight="700" textLength="49.3" lengthAdjust="spacing">Ce scriu</text>
+<line x1="62.0" y1="584.8" x2="838.0" y2="584.8" stroke="#e3dccb"/>
+<text x="74.0" y="607.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="87.3" lengthAdjust="spacing">introducerea</text>
+<text x="229.2" y="607.3" font-size="14.5" fill="#3a3226" textLength="155.4" lengthAdjust="spacing">opinia mea față de temă</text>
+<line x1="62.0" y1="617.7" x2="838.0" y2="617.7" stroke="#e3dccb"/>
+<text x="74.0" y="640.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="62.8" lengthAdjust="spacing">cuprinsul</text>
+<text x="229.2" y="640.2" font-size="14.5" fill="#3a3226" textLength="584.9" lengthAdjust="spacing">două argumente diferite, cu exemple (fapte, dovezi, mărturii, statistici, emoții, valori); pentru</text>
+<text x="229.2" y="661.2" font-size="14.5" fill="#3a3226" textLength="259.0" lengthAdjust="spacing">fiecare, contraargumentul și exemplul lui</text>
+<line x1="62.0" y1="671.6" x2="838.0" y2="671.6" stroke="#e3dccb"/>
+<text x="74.0" y="694.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="69.7" lengthAdjust="spacing">încheierea</text>
+<text x="229.2" y="694.1" font-size="14.5" fill="#3a3226" textLength="288.6" lengthAdjust="spacing">o concluzie scurtă, care îmi reafirmă poziția și</text>
+<text x="521.7" y="694.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="193.6" lengthAdjust="spacing">respinge contraargumentele</text>
+<line x1="62.0" y1="704.4" x2="838.0" y2="704.4" stroke="#e3dccb"/>
+<line x1="217.2" y1="553.3" x2="217.2" y2="704.4" stroke="#e3dccb"/>
+<rect x="62.0" y="718.4" width="776.0" height="82.7" rx="12" fill="#f3efe4"/><text x="78.0" y="744.9" font-size="14.5" fill="#10233f" font-weight="700" textLength="47.8" lengthAdjust="spacing">Verific:</text>
+<text x="78.0" y="763.8" font-size="14.5" fill="#3a3226" textLength="742.5" lengthAdjust="spacing">opinie clară · introducere, cuprins, încheiere · argumente relevante, cu exemple · contraargumente în relație logică cu</text>
+<text x="78.0" y="784.8" font-size="14.5" fill="#3a3226" textLength="493.9" lengthAdjust="spacing">argumentele · conectori potriviți · încheiere care anulează contraargumentele.</text>
+<text x="238.5" y="850.6" font-size="11.5" fill="#5b6b83" textLength="423.0" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 158-159, rubrica Repere, planul textului și grila de evaluare.</text>
 </svg>

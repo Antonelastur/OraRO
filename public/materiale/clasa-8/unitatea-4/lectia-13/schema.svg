@@ -1,27 +1,90 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="320" fill="#faf7f0"/>
-  <text x="450" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#10233f">Circumstanțialul și circumstanțiala de timp</text>
-  <text x="450" y="63" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV</text>
-
-  <g>
-    <rect x="60" y="95" width="360" height="170" rx="14" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-    <text x="240" y="122" text-anchor="middle" font-size="15" font-weight="700" fill="#6f5ea8">Circumstanțialul de timp</text>
-    <text x="240" y="145" text-anchor="middle" font-size="11" fill="#3a3226">parte secundară de propoziție</text>
-    <text x="240" y="180" text-anchor="middle" font-size="12" fill="#10233f">A plecat <tspan fill="#6f5ea8" font-weight="700">dimineața</tspan>.</text>
-    <text x="240" y="200" text-anchor="middle" font-size="10" fill="#5b6b83">adverb de timp</text>
-    <text x="240" y="230" text-anchor="middle" font-size="12" fill="#10233f">A plecat <tspan fill="#6f5ea8" font-weight="700">înainte de masă</tspan>.</text>
-    <text x="240" y="250" text-anchor="middle" font-size="10" fill="#5b6b83">grup prepozițional</text>
-  </g>
-
-  <g>
-    <rect x="480" y="95" width="360" height="170" rx="14" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
-    <text x="660" y="122" text-anchor="middle" font-size="15" font-weight="700" fill="#0d9c92">Circumstanțiala de timp</text>
-    <text x="660" y="145" text-anchor="middle" font-size="11" fill="#3a3226">propoziție subordonată, cu același rol</text>
-    <text x="660" y="180" text-anchor="middle" font-size="12" fill="#10233f">A plecat <tspan fill="#0d9c92" font-weight="700">când s-a luminat</tspan>.</text>
-    <text x="660" y="200" text-anchor="middle" font-size="10" fill="#5b6b83">element de relație: când</text>
-    <text x="660" y="230" text-anchor="middle" font-size="12" fill="#10233f"><tspan fill="#0d9c92" font-weight="700">Înainte să plece</tspan>, a mâncat.</text>
-    <text x="660" y="250" text-anchor="middle" font-size="10" fill="#5b6b83">locuțiune conjuncțională: înainte să</text>
-  </g>
-
-  <text x="450" y="290" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, pp. 152-154</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 971" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="971" fill="#faf7f0"/>
+<text x="292.8" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="315.0" lengthAdjust="spacing">Circumstanțiala de timp</text>
+<text x="196.8" y="74.4" font-size="14" fill="#5b6b83" textLength="506.4" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a IV-a, Lecția 13 · Manual, pp. 153-154 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ESTE</text>
+<rect x="40" y="128.6" width="820" height="135.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="180.0" lengthAdjust="spacing">Circumstanțiala de timp</text>
+<text x="246.3" y="162.6" font-size="16" fill="#10233f" textLength="328.1" lengthAdjust="spacing">este circumstanțialul de timp exprimat printr-o</text>
+<text x="578.8" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="77.3" lengthAdjust="spacing">propoziție</text>
+<text x="656.1" y="162.6" font-size="16" fill="#10233f" textLength="97.6" lengthAdjust="spacing">. Răspunde la:</text>
+<text x="758.0" y="162.6" font-size="16" fill="#10233f" font-style="italic" textLength="61.0" lengthAdjust="spacing">când? de</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" font-style="italic" textLength="123.8" lengthAdjust="spacing">când? până când?</text>
+<text x="62.0" y="219.6" font-size="15" fill="#3a3226" font-weight="700" textLength="63.6" lengthAdjust="spacing">Regentul</text>
+<text x="125.6" y="219.6" font-size="15" fill="#3a3226" textLength="189.1" lengthAdjust="spacing">: verb sau locuțiune verbală (</text>
+<text x="314.7" y="219.6" font-size="15" fill="#10233f" font-style="italic" textLength="296.5" lengthAdjust="spacing">Am așteptat 1/ până când s-a făcut ora 14. 2/</text>
+<text x="611.3" y="219.6" font-size="15" fill="#3a3226" textLength="71.1" lengthAdjust="spacing">), adjectiv (</text>
+<text x="682.4" y="219.6" font-size="15" fill="#10233f" font-style="italic" textLength="114.7" lengthAdjust="spacing">Ajunsă 1/ când se</text>
+<text x="62.0" y="241.3" font-size="15" fill="#10233f" font-style="italic" textLength="319.9" lengthAdjust="spacing">terminase spectacolul, 2/ a rămas dezamăgită. 1/</text>
+<text x="381.9" y="241.3" font-size="15" fill="#3a3226" textLength="162.0" lengthAdjust="spacing">), interjecție predicativă (</text>
+<text x="543.9" y="241.3" font-size="15" fill="#10233f" font-style="italic" textLength="262.6" lengthAdjust="spacing">Hai cu noi 1/ după ce termini de scris. 2/</text>
+<text x="806.6" y="241.3" font-size="15" fill="#3a3226" textLength="7.8" lengthAdjust="spacing">).</text>
+<rect x="40" y="283.9" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="306.9" font-size="16" font-weight="700" fill="#ffffff">2. ELEMENTELE DE RELAȚIE</text>
+<rect x="40" y="317.9" width="820" height="327.7" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="335.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="357.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="63.5" lengthAdjust="spacing">Elementul</text>
+<text x="399.9" y="357.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="367.4" x2="838.0" y2="367.4" stroke="#e3dccb"/>
+<text x="74.0" y="389.9" font-size="14.5" fill="#3a3226" textLength="98.6" lengthAdjust="spacing">adverbul relativ</text>
+<text x="176.5" y="389.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="30.2" lengthAdjust="spacing">când</text>
+<text x="210.6" y="389.9" font-size="14.5" fill="#3a3226" textLength="101.2" lengthAdjust="spacing">(și cu prepoziții)</text>
+<text x="399.9" y="389.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="281.4" lengthAdjust="spacing">M-a surprins tonul lui 1/ când mi-a vorbit. 2/</text>
+<line x1="62.0" y1="400.3" x2="838.0" y2="400.3" stroke="#e3dccb"/>
+<text x="74.0" y="422.8" font-size="14.5" fill="#3a3226" textLength="122.1" lengthAdjust="spacing">adverbul nehotărât</text>
+<text x="200.0" y="422.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="47.0" lengthAdjust="spacing">oricând</text>
+<text x="399.9" y="422.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="144.9" lengthAdjust="spacing">Vino 1/ oricând vrei. 2/</text>
+<line x1="62.0" y1="433.1" x2="838.0" y2="433.1" stroke="#e3dccb"/>
+<text x="74.0" y="455.6" font-size="14.5" fill="#3a3226" textLength="65.2" lengthAdjust="spacing">conjuncții:</text>
+<text x="143.2" y="455.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="31.6" lengthAdjust="spacing">până</text>
+<text x="174.8" y="455.6" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">;</text>
+<text x="181.9" y="455.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="27.0" lengthAdjust="spacing">cum</text>
+<text x="212.8" y="455.6" font-size="14.5" fill="#3a3226" textLength="83.8" lengthAdjust="spacing">(= îndată ce);</text>
+<text x="300.5" y="455.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="18.9" lengthAdjust="spacing">cât</text>
+<text x="323.3" y="455.6" font-size="14.5" fill="#3a3226" textLength="50.2" lengthAdjust="spacing">(= atâta</text>
+<text x="74.0" y="476.6" font-size="14.5" fill="#3a3226" textLength="33.8" lengthAdjust="spacing">timp)</text>
+<text x="399.9" y="455.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="363.4" lengthAdjust="spacing">Am citit 1/ până am obosit. 2/ Cum a auzit, 1/ a plecat. 2/</text>
+<line x1="62.0" y1="487.0" x2="838.0" y2="487.0" stroke="#e3dccb"/>
+<text x="74.0" y="509.5" font-size="14.5" fill="#3a3226" textLength="58.6" lengthAdjust="spacing">locuțiuni:</text>
+<text x="136.5" y="509.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="229.1" lengthAdjust="spacing">până ce, până să, după ce, îndată ce,</text>
+<text x="74.0" y="530.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="286.7" lengthAdjust="spacing">imediat ce, odată ce, în timp ce, cât timp, câtă</text>
+<text x="74.0" y="551.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="132.1" lengthAdjust="spacing">vreme, ori de câte ori</text>
+<text x="399.9" y="509.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="234.9" lengthAdjust="spacing">Vine la noi 1/ ori de câte ori poate. 2/</text>
+<line x1="62.0" y1="561.9" x2="838.0" y2="561.9" stroke="#e3dccb"/>
+<text x="74.0" y="584.4" font-size="14.5" fill="#3a3226" textLength="279.3" lengthAdjust="spacing">pronume relative și nehotărâte cu prepoziții</text>
+<text x="399.9" y="584.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="302.3" lengthAdjust="spacing">Am sosit 1/ înaintea oricui participase la cros. 2/</text>
+<line x1="62.0" y1="594.7" x2="838.0" y2="594.7" stroke="#e3dccb"/>
+<text x="74.0" y="617.2" font-size="14.5" fill="#3a3226" textLength="279.7" lengthAdjust="spacing">adjective pronominale relative și nehotărâte</text>
+<text x="399.9" y="617.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="281.3" lengthAdjust="spacing">Stau cu tine 1/ până la oricare oră dorești. 2/</text>
+<line x1="62.0" y1="627.6" x2="838.0" y2="627.6" stroke="#e3dccb"/>
+<line x1="387.9" y1="335.9" x2="387.9" y2="627.6" stroke="#e3dccb"/>
+<rect x="40" y="665.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="688.6" font-size="16" font-weight="700" fill="#ffffff">3. CORELATIVELE, TOPICA, VIRGULA</text>
+<rect x="40" y="699.6" width="820" height="220.6" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="732.6" font-size="15" fill="#3a3226" textLength="140.7" lengthAdjust="spacing">Corelative în regentă:</text>
+<text x="206.7" y="732.6" font-size="15" fill="#10233f" font-style="italic" textLength="349.5" lengthAdjust="spacing">atunci, de atunci, până atunci, abia, și, imediat, îndată</text>
+<text x="556.2" y="732.6" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<rect x="62.0" y="751.1" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="772.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="43.1" lengthAdjust="spacing">Poziția</text>
+<text x="423.2" y="772.6" font-size="13.5" fill="#10233f" font-weight="700" textLength="45.9" lengthAdjust="spacing">Virgula</text>
+<line x1="62.0" y1="782.6" x2="838.0" y2="782.6" stroke="#e3dccb"/>
+<text x="74.0" y="805.1" font-size="14.5" fill="#3a3226" textLength="86.0" lengthAdjust="spacing">după regentă</text>
+<text x="423.2" y="805.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="27.0" lengthAdjust="spacing">fără</text>
+<text x="454.1" y="805.1" font-size="14.5" fill="#3a3226" textLength="351.0" lengthAdjust="spacing">virgulă (excepție: alt circumstanțial corelativ în regentă)</text>
+<line x1="62.0" y1="815.5" x2="838.0" y2="815.5" stroke="#e3dccb"/>
+<text x="74.0" y="838.0" font-size="14.5" fill="#3a3226" textLength="260.8" lengthAdjust="spacing">intercalată, înaintea predicatului regentei</text>
+<text x="423.2" y="838.0" font-size="14.5" fill="#3a3226" textLength="71.0" lengthAdjust="spacing">izolată prin</text>
+<text x="498.2" y="838.0" font-size="14.5" fill="#3a3226" font-weight="700" textLength="47.4" lengthAdjust="spacing">virgule</text>
+<line x1="62.0" y1="848.3" x2="838.0" y2="848.3" stroke="#e3dccb"/>
+<text x="74.0" y="870.8" font-size="14.5" fill="#3a3226" textLength="35.4" lengthAdjust="spacing">cu un</text>
+<text x="113.3" y="870.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="110.2" lengthAdjust="spacing">adverb corelativ</text>
+<text x="227.4" y="870.8" font-size="14.5" fill="#3a3226" textLength="65.0" lengthAdjust="spacing">în regentă</text>
+<text x="423.2" y="870.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="67.3" lengthAdjust="spacing">cu virgulă</text>
+<text x="490.5" y="870.8" font-size="14.5" fill="#3a3226" textLength="98.7" lengthAdjust="spacing">, oriunde ar sta:</text>
+<text x="593.1" y="870.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="217.1" lengthAdjust="spacing">De atunci a devenit trist, de când a</text>
+<text x="423.2" y="891.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="67.3" lengthAdjust="spacing">fost plecat.</text>
+<line x1="62.0" y1="902.2" x2="838.0" y2="902.2" stroke="#e3dccb"/>
+<line x1="411.2" y1="751.1" x2="411.2" y2="902.2" stroke="#e3dccb"/>
+<text x="323.3" y="951.7" font-size="11.5" fill="#5b6b83" textLength="253.3" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 153-154, rubricile Repere.</text>
 </svg>

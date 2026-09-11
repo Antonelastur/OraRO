@@ -1,17 +1,78 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 400" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="960" height="400" fill="#faf7f0"/>
-  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Povestirea în ramă, o poveste în altă poveste</text>
-  <text x="480" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 3 · Textul epic. Structuri textuale</text>
-  <rect x="60" y="100" width="840" height="192" rx="18" fill="#ffffff" stroke="#3b5fa8" stroke-width="3"/>
-  <text x="84" y="130" font-size="14" font-weight="700" fill="#3b5fa8">RAMA, planul întâi</text>
-  <text x="84" y="154" font-size="12.5" fill="#3d4a5f">La Hanu Ancuței. Călătorii se strâng, mănâncă, se pregătesc să asculte.</text>
-  <text x="84" y="174" font-size="12.5" fill="#3d4a5f">Un narator descrie locul și pe cei de față.</text>
-  <rect x="110" y="188" width="740" height="86" rx="14" fill="#fef8e9" stroke="#a1417e" stroke-width="2.5"/>
-  <text x="134" y="216" font-size="14" font-weight="700" fill="#a1417e">POVESTEA DIN INTERIOR, planul al doilea</text>
-  <text x="134" y="240" font-size="12.5" fill="#3d4a5f">Unul dintre călători ia cuvântul și spune întâmplarea cu iapa lui Vodă.</text>
-  <text x="134" y="260" font-size="12.5" fill="#3d4a5f">Alt narator, alt timp, alte personaje.</text>
-  <rect x="60" y="308" width="840" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="82" y="333" font-size="13" font-weight="700" fill="#10233f">Se numește inserție</text>
-  <text x="82" y="353" font-size="12" fill="#3d4a5f">o structură cuprinsă în interiorul alteia. Alte moduri de îmbinare: succesiunea și alternanța.</text>
-  <text x="480" y="386" text-anchor="middle" font-size="12" font-style="italic" fill="#5b6b83">Același procedeu apare în O mie și una de nopți și în Decameronul.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 963" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="963" fill="#faf7f0"/>
+<text x="197.9" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="505.4" lengthAdjust="spacing">Textul epic. Planurile narative. Inserția</text>
+<text x="200.6" y="74.4" font-size="14" fill="#5b6b83" textLength="498.8" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a IV-a, Lecția 3 · Manual, pp. 136-137 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. PLANURILE NARATIVE</text>
+<rect x="40" y="128.6" width="820" height="216.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" textLength="347.3" lengthAdjust="spacing">Într-un text epic, întâmplările pot fi organizate pe</text>
+<text x="413.7" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="200.0" lengthAdjust="spacing">mai multe planuri narative</text>
+<text x="613.7" y="162.6" font-size="16" fill="#10233f" textLength="211.8" lengthAdjust="spacing">. Fiecare plan urmărește un alt</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="74.2" lengthAdjust="spacing">fir narativ</text>
+<text x="136.2" y="185.8" font-size="16" fill="#10233f" textLength="403.8" lengthAdjust="spacing">: o succesiune de întâmplări în ordine logică și temporală.</text>
+<text x="62.0" y="219.6" font-size="15" fill="#3a3226" textLength="240.3" lengthAdjust="spacing">Planurile se leagă prin trei procedee:</text>
+<rect x="62.0" y="238.1" width="248.0" height="88.7" rx="12" fill="#ffffff" stroke="#0d9c92" stroke-width="2"/>
+<text x="78.0" y="266.1" font-size="16" fill="#0d9c92" font-weight="700" textLength="81.3" lengthAdjust="spacing">înlănțuirea</text>
+<text x="78.0" y="289.4" font-size="14.5" fill="#3a3226" textLength="205.3" lengthAdjust="spacing">întâmplările se succed una după</text>
+<text x="78.0" y="310.4" font-size="14.5" fill="#3a3226" textLength="23.2" lengthAdjust="spacing">alta</text>
+<rect x="326.0" y="238.1" width="248.0" height="88.7" rx="12" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
+<text x="342.0" y="266.1" font-size="16" fill="#6f5ea8" font-weight="700" textLength="77.4" lengthAdjust="spacing">alternanța</text>
+<text x="342.0" y="289.4" font-size="14.5" fill="#3a3226" textLength="156.0" lengthAdjust="spacing">firele narative alternează</text>
+<rect x="590.0" y="238.1" width="248.0" height="88.7" rx="12" fill="#ffffff" stroke="#9a7433" stroke-width="2"/>
+<text x="606.0" y="266.1" font-size="16" fill="#9a7433" font-weight="700" textLength="55.7" lengthAdjust="spacing">inserția</text>
+<text x="606.0" y="289.4" font-size="14.5" fill="#3a3226" textLength="164.4" lengthAdjust="spacing">o poveste e inclusă în alta</text>
+<rect x="40" y="364.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="387.8" font-size="16" font-weight="700" fill="#ffffff">2. INSERȚIA (POVESTIREA ÎN RAMĂ)</text>
+<rect x="40" y="398.8" width="820" height="329.9" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="431.8" font-size="15" fill="#3a3226" font-weight="700" textLength="52.8" lengthAdjust="spacing">Inserția</text>
+<text x="118.8" y="431.8" font-size="15" fill="#3a3226" textLength="401.8" lengthAdjust="spacing">este includerea unei povești în interiorul alteia. Se numește și</text>
+<text x="524.7" y="431.8" font-size="15" fill="#3a3226" font-weight="700" textLength="123.1" lengthAdjust="spacing">povestire în ramă</text>
+<text x="647.9" y="431.8" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">:</text>
+<text x="655.2" y="431.8" font-size="15" fill="#3a3226" font-weight="700" textLength="36.0" lengthAdjust="spacing">rama</text>
+<text x="695.3" y="431.8" font-size="15" fill="#3a3226" textLength="120.6" lengthAdjust="spacing">(povestirea-cadru)</text>
+<text x="62.0" y="453.5" font-size="15" fill="#3a3226" textLength="181.2" lengthAdjust="spacing">cuprinde povestea inserată.</text>
+<rect x="62.0" y="472.0" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="493.5" font-size="13.5" fill="#10233f" font-weight="700" textLength="88.3" lengthAdjust="spacing">Opere celebre</text>
+<text x="500.8" y="493.5" font-size="13.5" fill="#10233f" font-weight="700" textLength="48.6" lengthAdjust="spacing">Autorul</text>
+<line x1="62.0" y1="503.6" x2="838.0" y2="503.6" stroke="#e3dccb"/>
+<text x="74.0" y="526.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="134.6" lengthAdjust="spacing">O mie și una de nopți</text>
+<text x="500.8" y="526.1" font-size="14.5" fill="#3a3226" textLength="81.9" lengthAdjust="spacing">basme arabe</text>
+<line x1="62.0" y1="536.4" x2="838.0" y2="536.4" stroke="#e3dccb"/>
+<text x="74.0" y="558.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="84.2" lengthAdjust="spacing">Decameronul</text>
+<text x="500.8" y="558.9" font-size="14.5" fill="#3a3226" textLength="166.5" lengthAdjust="spacing">Giovanni Boccaccio (Italia)</text>
+<line x1="62.0" y1="569.3" x2="838.0" y2="569.3" stroke="#e3dccb"/>
+<text x="74.0" y="591.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="162.1" lengthAdjust="spacing">Povestirile din Canterbury</text>
+<text x="500.8" y="591.8" font-size="14.5" fill="#3a3226" textLength="164.0" lengthAdjust="spacing">Geoffrey Chaucer (Anglia)</text>
+<line x1="62.0" y1="602.1" x2="838.0" y2="602.1" stroke="#e3dccb"/>
+<text x="74.0" y="624.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="85.5" lengthAdjust="spacing">Hanu Ancuței</text>
+<text x="163.5" y="624.6" font-size="14.5" fill="#3a3226" textLength="176.3" lengthAdjust="spacing">(nouă povestitori la un han)</text>
+<text x="500.8" y="624.6" font-size="14.5" fill="#3a3226" textLength="113.7" lengthAdjust="spacing">Mihail Sadoveanu</text>
+<line x1="62.0" y1="635.0" x2="838.0" y2="635.0" stroke="#e3dccb"/>
+<line x1="488.8" y1="472.0" x2="488.8" y2="635.0" stroke="#e3dccb"/>
+<rect x="62.0" y="649.0" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="649.0" width="6" height="61.7" rx="3" fill="#b4432c"/><text x="84.0" y="675.5" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="694.3" font-size="14.5" fill="#3a3226" textLength="104.4" lengthAdjust="spacing">Planurile trebuie</text>
+<text x="192.3" y="694.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="42.2" lengthAdjust="spacing">legate</text>
+<text x="238.4" y="694.3" font-size="14.5" fill="#3a3226" textLength="312.5" lengthAdjust="spacing">astfel încât un fir narativ să îl genereze pe celălalt</text>
+<text x="554.8" y="694.3" font-size="14.5" fill="#3a3226" font-weight="700" textLength="106.6" lengthAdjust="spacing">firesc și necesar</text>
+<text x="661.4" y="694.3" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<rect x="40" y="748.7" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="771.7" font-size="16" font-weight="700" fill="#ffffff">3. CUM LUCREZ CU O POVESTIRE ÎN RAMĂ</text>
+<rect x="40" y="782.7" width="820" height="129.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="815.7" font-size="15" fill="#3a3226" font-weight="700">1.</text>
+<text x="81.0" y="815.7" font-size="15" fill="#3a3226" textLength="132.9" lengthAdjust="spacing">delimitez secvențele</text>
+<text x="217.9" y="815.7" font-size="15" fill="#3a3226" font-weight="700" textLength="40.2" lengthAdjust="spacing">ramei</text>
+<text x="262.1" y="815.7" font-size="15" fill="#3a3226" textLength="69.9" lengthAdjust="spacing">de cele ale</text>
+<text x="336.1" y="815.7" font-size="15" fill="#3a3226" font-weight="700" textLength="115.8" lengthAdjust="spacing">poveștii inserate</text>
+<text x="451.9" y="815.7" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">;</text>
+<text x="62.0" y="840.4" font-size="15" fill="#3a3226" font-weight="700">2.</text>
+<text x="81.0" y="840.4" font-size="15" fill="#3a3226" textLength="152.2" lengthAdjust="spacing">caut secvența care face</text>
+<text x="237.2" y="840.4" font-size="15" fill="#3a3226" font-weight="700" textLength="57.5" lengthAdjust="spacing">trecerea</text>
+<text x="298.7" y="840.4" font-size="15" fill="#3a3226" textLength="136.9" lengthAdjust="spacing">de la un plan la altul;</text>
+<text x="62.0" y="865.2" font-size="15" fill="#3a3226" font-weight="700">3.</text>
+<text x="81.0" y="865.2" font-size="15" fill="#3a3226" textLength="62.1" lengthAdjust="spacing">așez pe o</text>
+<text x="147.1" y="865.2" font-size="15" fill="#3a3226" font-weight="700" textLength="100.8" lengthAdjust="spacing">axă a timpului</text>
+<text x="252.0" y="865.2" font-size="15" fill="#3a3226" textLength="460.2" lengthAdjust="spacing">trei momente: al scrierii, al spunerii poveștilor, al întâmplării povestite;</text>
+<text x="62.0" y="889.9" font-size="15" fill="#3a3226" font-weight="700">4.</text>
+<text x="81.0" y="889.9" font-size="15" fill="#3a3226" textLength="408.4" lengthAdjust="spacing">în rezumat, marchez clar trecerea de la un plan narativ la altul.</text>
+<text x="182.2" y="943.9" font-size="11.5" fill="#5b6b83" textLength="535.7" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 136-137, rubrica Repere; textul de bază este „Iapa lui Vodă” de Mihail Sadoveanu.</text>
 </svg>

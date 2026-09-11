@@ -1176,7 +1176,7 @@ export const unitatea4 = {
         ],
         resurse: [
           'Manual Art 8, pp. 153-154',
-          'Schema „Circumstanțialul și circumstanțiala de timp” (/materiale/clasa-8/unitatea-4/lectia-13/schema.svg)',
+          'Schema „Circumstanțiala de timp” (/materiale/clasa-8/unitatea-4/lectia-13/schema.svg)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -1291,7 +1291,7 @@ export const unitatea4 = {
           ],
         },
         infografic: null,
-        schema: { fisier: '/materiale/clasa-8/unitatea-4/lectia-13/schema.svg', titlu: 'Circumstanțialul și circumstanțiala de timp' },
+        schema: { fisier: '/materiale/clasa-8/unitatea-4/lectia-13/schema.svg', titlu: 'Circumstanțiala de timp' },
         altele: [],
       },
     },

@@ -1,34 +1,76 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 486" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="1000" height="486" fill="#faf7f0"/>
-  <text x="500" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Cum e construită o reclamă</text>
-  <text x="500" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 6 · Textul multimodal. Reclama</text>
-  <rect x="36" y="100" width="220" height="116" rx="16" fill="#ffffff" stroke="#3b5fa8" stroke-width="2.5"/>
-  <text x="56" y="130" font-size="14" font-weight="700" fill="#10233f">Imaginea</text>
-  <text x="56" y="156" font-size="12" fill="#3d4a5f">atrage privirea</text>
-  <text x="56" y="176" font-size="12" fill="#3d4a5f">în prima secundă</text>
-  <rect x="276" y="100" width="220" height="116" rx="16" fill="#ffffff" stroke="#a1417e" stroke-width="2.5"/>
-  <text x="296" y="130" font-size="14" font-weight="700" fill="#10233f">Sloganul</text>
-  <text x="296" y="156" font-size="12" fill="#3d4a5f">scurt, ușor de reținut,</text>
-  <text x="296" y="176" font-size="12" fill="#3d4a5f">adesea cu joc de cuvinte</text>
-  <rect x="516" y="100" width="220" height="116" rx="16" fill="#ffffff" stroke="#1c7f5e" stroke-width="2.5"/>
-  <text x="536" y="130" font-size="14" font-weight="700" fill="#10233f">Textul</text>
-  <text x="536" y="156" font-size="12" fill="#3d4a5f">argumentul,</text>
-  <text x="536" y="176" font-size="12" fill="#3d4a5f">de obicei mic</text>
-  <rect x="756" y="100" width="220" height="116" rx="16" fill="#ffffff" stroke="#b0512f" stroke-width="2.5"/>
-  <text x="776" y="130" font-size="14" font-weight="700" fill="#10233f">Marca</text>
-  <text x="776" y="156" font-size="12" fill="#3d4a5f">cine vinde,</text>
-  <text x="776" y="176" font-size="12" fill="#3d4a5f">ca să reții</text>
-  <text x="500" y="256" text-anchor="middle" font-size="15" font-weight="700" fill="#10233f">Cum te convinge</text>
-  <rect x="36" y="272" width="928" height="38" rx="10" fill="#ffffff" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="58" y="296" font-size="12.5" font-weight="700" fill="#6f5ea8">Îți promite o schimbare</text>
-  <text x="330" y="296" font-size="12" fill="#3d4a5f">vei fi mai rapid, mai frumos, mai liber</text>
-  <rect x="36" y="318" width="928" height="38" rx="10" fill="#ffffff" stroke="#846b36" stroke-width="2"/>
-  <text x="58" y="342" font-size="12.5" font-weight="700" fill="#846b36">Îți arată oameni fericiți</text>
-  <text x="330" y="342" font-size="12" fill="#3d4a5f">ca să asociezi produsul cu starea lor</text>
-  <rect x="36" y="364" width="928" height="38" rx="10" fill="#ffffff" stroke="#c1503a" stroke-width="2"/>
-  <text x="58" y="388" font-size="12.5" font-weight="700" fill="#c1503a">Îți creează o lipsă</text>
-  <text x="330" y="388" font-size="12" fill="#3d4a5f">ofertă limitată, doar azi, ultimele bucăți</text>
-  <rect x="36" y="410" width="928" height="56" rx="14" fill="#ffffff" stroke="#c1503a" stroke-width="2"/>
-  <text x="58" y="435" font-size="13" font-weight="700" fill="#10233f">Întrebarea de pus la orice reclamă</text>
-  <text x="58" y="455" font-size="12" fill="#3d4a5f">ce vinde de fapt? Rareori obiectul. De obicei o stare: siguranță, apartenență, admirație.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1115" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="1115" fill="#faf7f0"/>
+<text x="265.6" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="369.3" lengthAdjust="spacing">Textul multimodal. Reclama</text>
+<text x="200.6" y="74.4" font-size="14" fill="#5b6b83" textLength="498.8" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a IV-a, Lecția 6 · Manual, pp. 142-143 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. TEXTUL NONLITERAR ȘI TEXTUL MULTIMODAL</text>
+<rect x="40" y="128.6" width="820" height="102.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="161.6" font-size="15" fill="#3a3226" font-weight="700" textLength="118.5" lengthAdjust="spacing">Textul nonliterar</text>
+<text x="184.5" y="161.6" font-size="15" fill="#3a3226" textLength="549.7" lengthAdjust="spacing">se referă la aspecte ale realității; scopul lui: să informeze, să convingă, să amuze etc.</text>
+<text x="62.0" y="186.3" font-size="15" fill="#3a3226" font-weight="700" textLength="130.3" lengthAdjust="spacing">Textul multimodal</text>
+<text x="196.4" y="186.3" font-size="15" fill="#3a3226" textLength="192.0" lengthAdjust="spacing">combină două sau mai multe</text>
+<text x="392.4" y="186.3" font-size="15" fill="#3a3226" font-weight="700" textLength="180.6" lengthAdjust="spacing">modalități de comunicare</text>
+<text x="573.0" y="186.3" font-size="15" fill="#3a3226" textLength="218.7" lengthAdjust="spacing">: cuvinte, imagini, sunete, gesturi,</text>
+<text x="62.0" y="208.1" font-size="15" fill="#3a3226" textLength="88.2" lengthAdjust="spacing">lumini, culori.</text>
+<rect x="40" y="250.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="273.6" font-size="16" font-weight="700" fill="#ffffff">2. RECLAMA</text>
+<rect x="40" y="284.6" width="820" height="254.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="317.6" font-size="15" fill="#3a3226" font-weight="700" textLength="59.2" lengthAdjust="spacing">Reclama</text>
+<text x="125.3" y="317.6" font-size="15" fill="#3a3226" textLength="703.6" lengthAdjust="spacing">este un text nonliterar, de obicei multimodal (afiș, panou, prospect, spot audio sau video), în locuri publice,</text>
+<text x="62.0" y="339.4" font-size="15" fill="#3a3226" textLength="313.3" lengthAdjust="spacing">în mass-media sau pe internet, care pune într-o</text>
+<text x="379.4" y="339.4" font-size="15" fill="#3a3226" font-weight="700" textLength="108.9" lengthAdjust="spacing">lumină pozitivă</text>
+<text x="492.3" y="339.4" font-size="15" fill="#3a3226" textLength="260.7" lengthAdjust="spacing">un produs (mărfuri, spectacole, servicii).</text>
+<rect x="62.0" y="357.9" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="379.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="111.2" lengthAdjust="spacing">Cei patru „actori”</text>
+<text x="306.8" y="379.4" font-size="13.5" fill="#10233f" font-weight="700" textLength="59.1" lengthAdjust="spacing">Cine sunt</text>
+<line x1="62.0" y1="389.4" x2="838.0" y2="389.4" stroke="#e3dccb"/>
+<text x="74.0" y="411.9" font-size="14.5" fill="#3a3226" textLength="143.0" lengthAdjust="spacing">deținătorul produsului</text>
+<text x="306.8" y="411.9" font-size="14.5" fill="#3a3226" textLength="165.2" lengthAdjust="spacing">firma, compania, instituția</text>
+<line x1="62.0" y1="422.3" x2="838.0" y2="422.3" stroke="#e3dccb"/>
+<text x="74.0" y="444.8" font-size="14.5" fill="#3a3226" textLength="140.9" lengthAdjust="spacing">producătorul reclamei</text>
+<text x="306.8" y="444.8" font-size="14.5" fill="#3a3226" textLength="138.8" lengthAdjust="spacing">agenția de publicitate</text>
+<line x1="62.0" y1="455.1" x2="838.0" y2="455.1" stroke="#e3dccb"/>
+<text x="74.0" y="477.6" font-size="14.5" fill="#3a3226" textLength="82.2" lengthAdjust="spacing">distribuitorul</text>
+<text x="306.8" y="477.6" font-size="14.5" fill="#3a3226" textLength="77.3" lengthAdjust="spacing">mass-media</text>
+<line x1="62.0" y1="488.0" x2="838.0" y2="488.0" stroke="#e3dccb"/>
+<text x="74.0" y="510.5" font-size="14.5" fill="#3a3226" textLength="86.1" lengthAdjust="spacing">cumpărătorul</text>
+<text x="306.8" y="510.5" font-size="14.5" fill="#3a3226" textLength="88.0" lengthAdjust="spacing">consumatorul</text>
+<line x1="62.0" y1="520.8" x2="838.0" y2="520.8" stroke="#e3dccb"/>
+<line x1="294.8" y1="357.9" x2="294.8" y2="520.8" stroke="#e3dccb"/>
+<rect x="40" y="558.8" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="581.8" font-size="16" font-weight="700" fill="#ffffff">3. PRINCIPIILE UNEI RECLAME REUȘITE</text>
+<rect x="40" y="592.8" width="820" height="340.3" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="610.8" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="632.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="60.1" lengthAdjust="spacing">Principiul</text>
+<text x="244.7" y="632.3" font-size="13.5" fill="#10233f" font-weight="700" textLength="45.9" lengthAdjust="spacing">Ce cere</text>
+<line x1="62.0" y1="642.3" x2="838.0" y2="642.3" stroke="#e3dccb"/>
+<text x="74.0" y="664.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="47.7" lengthAdjust="spacing">atenția</text>
+<text x="244.7" y="664.8" font-size="14.5" fill="#3a3226" textLength="248.2" lengthAdjust="spacing">să capteze interesul, să iasă în evidență</text>
+<line x1="62.0" y1="675.2" x2="838.0" y2="675.2" stroke="#e3dccb"/>
+<text x="74.0" y="697.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="76.6" lengthAdjust="spacing">înțelegerea</text>
+<text x="244.7" y="697.7" font-size="14.5" fill="#3a3226" textLength="193.9" lengthAdjust="spacing">un mesaj-cheie ușor de înțeles</text>
+<line x1="62.0" y1="708.0" x2="838.0" y2="708.0" stroke="#e3dccb"/>
+<text x="74.0" y="730.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="71.8" lengthAdjust="spacing">încrederea</text>
+<text x="244.7" y="730.5" font-size="14.5" fill="#3a3226" textLength="199.5" lengthAdjust="spacing">să câștige încrederea publicului</text>
+<line x1="62.0" y1="740.9" x2="838.0" y2="740.9" stroke="#e3dccb"/>
+<text x="74.0" y="763.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="41.8" lengthAdjust="spacing">marca</text>
+<text x="244.7" y="763.4" font-size="14.5" fill="#3a3226" textLength="289.6" lengthAdjust="spacing">legătură clară între marca produsului și mesaj</text>
+<line x1="62.0" y1="773.8" x2="838.0" y2="773.8" stroke="#e3dccb"/>
+<text x="74.0" y="796.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="57.9" lengthAdjust="spacing">acțiunea</text>
+<text x="244.7" y="796.2" font-size="14.5" fill="#3a3226" textLength="309.1" lengthAdjust="spacing">să spună ce pas urmează (cumpărare, informare)</text>
+<line x1="62.0" y1="806.6" x2="838.0" y2="806.6" stroke="#e3dccb"/>
+<text x="74.0" y="829.1" font-size="14.5" fill="#3a3226" font-weight="700" textLength="46.7" lengthAdjust="spacing">efectul</text>
+<text x="244.7" y="829.1" font-size="14.5" fill="#3a3226" textLength="245.9" lengthAdjust="spacing">să convingă mulți oameni să acționeze</text>
+<line x1="62.0" y1="839.4" x2="838.0" y2="839.4" stroke="#e3dccb"/>
+<line x1="232.7" y1="610.8" x2="232.7" y2="839.4" stroke="#e3dccb"/>
+<rect x="62.0" y="853.4" width="776.0" height="61.7" rx="12" fill="#f3efe4"/><rect x="62.0" y="853.4" width="6" height="61.7" rx="3" fill="#b4432c"/><text x="84.0" y="879.9" font-size="14.5" fill="#b4432c" font-weight="700" textLength="54.8" lengthAdjust="spacing">Atenție!</text>
+<text x="84.0" y="898.8" font-size="14.5" fill="#3a3226" textLength="246.9" lengthAdjust="spacing">Reclama e un produs cultural: respectă</text>
+<text x="334.8" y="898.8" font-size="14.5" fill="#3a3226" font-weight="700" textLength="129.8" lengthAdjust="spacing">drepturile de autor</text>
+<text x="464.6" y="898.8" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<rect x="40" y="953.1" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="976.1" font-size="16" font-weight="700" fill="#ffffff">4. CUM ANALIZEZ O RECLAMĂ</text>
+<rect x="40" y="987.1" width="820" height="77.2" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="1020.1" font-size="15" fill="#3a3226" textLength="768.6" lengthAdjust="spacing">ce produs promovează? · ce temă are mesajul? · ce scop are? · cine a creat-o și cine a comandat-o? · cui se adresează</text>
+<text x="62.0" y="1041.9" font-size="15" fill="#3a3226" textLength="711.9" lengthAdjust="spacing">(publicul-țintă)? · ce rol au imaginea, culorile, luminile? · unde e așezată marca? · ce joc de cuvinte folosește?</text>
+<text x="258.7" y="1095.9" font-size="11.5" fill="#5b6b83" textLength="382.6" lengthAdjust="spacing">Sursa: Manual Art 8, pp. 142-143, rubrica Repere și întrebările din Explorare.</text>
 </svg>

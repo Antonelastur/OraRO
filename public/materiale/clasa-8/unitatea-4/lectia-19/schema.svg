@@ -1,35 +1,106 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 476" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="1000" height="476" fill="#faf7f0"/>
-  <text x="500" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#10233f">Toate circumstanțialele, la un loc</text>
-  <text x="500" y="70" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV, Lecția 19 · Recapitulare, limbă română</text>
-  <rect x="36" y="96" width="180" height="36" rx="10" fill="#e2d9c4"/>
-  <text x="126" y="120" text-anchor="middle" font-size="12" font-weight="700" fill="#10233f">TIPUL</text>
-  <rect x="228" y="96" width="360" height="36" rx="10" fill="#e2d9c4"/>
-  <text x="408" y="120" text-anchor="middle" font-size="12" font-weight="700" fill="#10233f">ÎNTREBĂRI</text>
-  <rect x="600" y="96" width="364" height="36" rx="10" fill="#e2d9c4"/>
-  <text x="782" y="120" text-anchor="middle" font-size="12" font-weight="700" fill="#10233f">ELEMENTE DE RELAȚIE (pentru propoziție)</text>
-  <rect x="36" y="144" width="180" height="52" rx="12" fill="#3b5fa8"/>
-  <text x="126" y="176" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">DE LOC</text>
-  <rect x="228" y="144" width="360" height="52" rx="12" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="248" y="176" font-size="12.5" fill="#10233f">unde? de unde? încotro?</text>
-  <rect x="600" y="144" width="364" height="52" rx="12" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="620" y="176" font-size="12" fill="#3d4a5f">unde, oriunde, de unde</text>
-  <rect x="36" y="206" width="180" height="52" rx="12" fill="#a1417e"/>
-  <text x="126" y="238" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">DE TIMP</text>
-  <rect x="228" y="206" width="360" height="52" rx="12" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="248" y="238" font-size="12.5" fill="#10233f">când? cât timp? până când?</text>
-  <rect x="600" y="206" width="364" height="52" rx="12" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="620" y="238" font-size="12" fill="#3d4a5f">când, până când, după ce</text>
-  <rect x="36" y="268" width="180" height="52" rx="12" fill="#1c7f5e"/>
-  <text x="126" y="300" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">DE MOD</text>
-  <rect x="228" y="268" width="360" height="52" rx="12" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="248" y="300" font-size="12.5" fill="#10233f">cum? în ce fel? cât?</text>
-  <rect x="600" y="268" width="364" height="52" rx="12" fill="#ffffff" stroke="#e2d9c4" stroke-width="1.5"/>
-  <text x="620" y="300" font-size="12" fill="#3d4a5f">cum, precum, ca și cum, cu cât</text>
-  <rect x="36" y="336" width="928" height="56" rx="14" fill="#fef8e9" stroke="#b8944f" stroke-width="2"/>
-  <text x="58" y="361" font-size="13" font-weight="700" fill="#10233f">Fiecare are două forme</text>
-  <text x="58" y="381" font-size="12" fill="#3d4a5f">circumstanțialul e parte de propoziție, circumstanțiala e propoziție. Se opresc ACOLO, față de Se opresc UNDE VOR EI.</text>
-  <rect x="36" y="400" width="928" height="56" rx="14" fill="#ffffff" stroke="#c1503a" stroke-width="2"/>
-  <text x="58" y="425" font-size="13" font-weight="700" fill="#10233f">Virgula</text>
-  <text x="58" y="445" font-size="12" fill="#3d4a5f">obligatorie când subordonata stă înaintea regentei. Când s-a înserat, au plecat.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 974" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="974" fill="#faf7f0"/>
+<text x="89.1" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="723.8" lengthAdjust="spacing">Recapitulare: circumstanțialele de loc, de timp, de mod</text>
+<text x="162.9" y="74.4" font-size="14" fill="#5b6b83" textLength="574.1" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a IV-a, Lecția 19 · Manual, pp. 149-157 și 160-161 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. PARTEA DE PROPOZIȚIE ȘI PROPOZIȚIA</text>
+<rect x="40" y="128.6" width="820" height="325.1" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="146.6" width="776.0" height="31.6" fill="#efeaf8"/>
+
+<text x="221.4" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="39.6" lengthAdjust="spacing">De loc</text>
+<text x="431.0" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="50.9" lengthAdjust="spacing">De timp</text>
+<text x="640.5" y="168.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="50.1" lengthAdjust="spacing">De mod</text>
+<line x1="62.0" y1="178.2" x2="838.0" y2="178.2" stroke="#e3dccb"/>
+<text x="74.0" y="200.7" font-size="14.5" fill="#3a3226" textLength="64.8" lengthAdjust="spacing">întrebările</text>
+<text x="221.4" y="200.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="174.4" lengthAdjust="spacing">unde? de unde? până unde?</text>
+<text x="221.4" y="221.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="50.0" lengthAdjust="spacing">încotro?</text>
+<text x="431.0" y="200.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="171.4" lengthAdjust="spacing">când? de când? până când?</text>
+<text x="640.5" y="200.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="163.3" lengthAdjust="spacing">cum? în ce fel? în ce mod?</text>
+<line x1="62.0" y1="232.0" x2="838.0" y2="232.0" stroke="#e3dccb"/>
+<text x="74.0" y="254.5" font-size="14.5" fill="#3a3226" textLength="100.3" lengthAdjust="spacing">circumstanțialul</text>
+<text x="221.4" y="254.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="154.9" lengthAdjust="spacing">la han, departe, spre tine</text>
+<text x="431.0" y="254.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="162.3" lengthAdjust="spacing">după examen, ieri, până a</text>
+<text x="431.0" y="275.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="39.9" lengthAdjust="spacing">sosi tu</text>
+<text x="640.5" y="254.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="173.6" lengthAdjust="spacing">cu atenție, repede, alergând</text>
+<line x1="62.0" y1="285.9" x2="838.0" y2="285.9" stroke="#e3dccb"/>
+<text x="74.0" y="308.4" font-size="14.5" fill="#3a3226" textLength="68.3" lengthAdjust="spacing">propoziția:</text>
+<text x="74.0" y="329.4" font-size="14.5" fill="#3a3226" textLength="122.7" lengthAdjust="spacing">elemente de relație</text>
+<text x="221.4" y="308.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="144.0" lengthAdjust="spacing">unde, încotro, dincotro,</text>
+<text x="221.4" y="329.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="48.0" lengthAdjust="spacing">oriunde</text>
+<text x="269.4" y="329.4" font-size="14.5" fill="#3a3226" textLength="79.3" lengthAdjust="spacing">; pronume și</text>
+<text x="221.4" y="350.4" font-size="14.5" fill="#3a3226" textLength="132.5" lengthAdjust="spacing">adjective relative sau</text>
+<text x="221.4" y="371.5" font-size="14.5" fill="#3a3226" textLength="156.9" lengthAdjust="spacing">nehotărâte cu prepoziție</text>
+<text x="431.0" y="308.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="160.2" lengthAdjust="spacing">când, oricând, până, cum,</text>
+<text x="431.0" y="329.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="18.9" lengthAdjust="spacing">cât</text>
+<text x="449.8" y="329.4" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">;</text>
+<text x="456.9" y="329.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="132.5" lengthAdjust="spacing">după ce, îndată ce, în</text>
+<text x="431.0" y="350.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="139.5" lengthAdjust="spacing">timp ce, ori de câte ori</text>
+<text x="640.5" y="308.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="158.1" lengthAdjust="spacing">cum, cât, oricum, precum</text>
+<text x="798.5" y="308.4" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">;</text>
+<text x="640.5" y="329.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="181.2" lengthAdjust="spacing">fără să, după cum, ca și cum,</text>
+<text x="640.5" y="350.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="53.9" lengthAdjust="spacing">de parcă</text>
+<line x1="62.0" y1="381.8" x2="838.0" y2="381.8" stroke="#e3dccb"/>
+<text x="74.0" y="404.3" font-size="14.5" fill="#3a3226" textLength="77.3" lengthAdjust="spacing">corelative în</text>
+<text x="74.0" y="425.3" font-size="14.5" fill="#3a3226" textLength="49.3" lengthAdjust="spacing">regentă</text>
+<text x="221.4" y="404.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="152.8" lengthAdjust="spacing">acolo, de acolo, pe acolo</text>
+<text x="431.0" y="404.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="141.2" lengthAdjust="spacing">atunci, de atunci, abia,</text>
+<text x="431.0" y="425.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="94.5" lengthAdjust="spacing">imediat, îndată</text>
+<text x="640.5" y="404.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="124.0" lengthAdjust="spacing">așa, astfel, întocmai</text>
+<line x1="62.0" y1="435.7" x2="838.0" y2="435.7" stroke="#e3dccb"/>
+<line x1="209.4" y1="146.6" x2="209.4" y2="435.7" stroke="#e3dccb"/>
+<line x1="419.0" y1="146.6" x2="419.0" y2="435.7" stroke="#e3dccb"/>
+<line x1="628.5" y1="146.6" x2="628.5" y2="435.7" stroke="#e3dccb"/>
+<rect x="40" y="473.7" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="496.7" font-size="16" font-weight="700" fill="#ffffff">2. VIRGULA</text>
+<rect x="40" y="507.7" width="820" height="129.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="540.7" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="540.7" font-size="15" fill="#3a3226" font-weight="700" textLength="96.4" lengthAdjust="spacing">După regentă</text>
+<text x="170.6" y="540.7" font-size="15" fill="#3a3226" textLength="67.7" lengthAdjust="spacing">: de obicei</text>
+<text x="242.3" y="540.7" font-size="15" fill="#3a3226" font-weight="700" textLength="27.9" lengthAdjust="spacing">fără</text>
+<text x="274.3" y="540.7" font-size="15" fill="#3a3226" textLength="48.0" lengthAdjust="spacing">virgulă.</text>
+<text x="62.0" y="565.5" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="565.5" font-size="15" fill="#3a3226" font-weight="700" textLength="75.5" lengthAdjust="spacing">Intercalată</text>
+<text x="149.7" y="565.5" font-size="15" fill="#3a3226" textLength="133.0" lengthAdjust="spacing">: izolată prin virgule.</text>
+<text x="62.0" y="590.2" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="590.2" font-size="15" fill="#3a3226" font-weight="700" textLength="106.0" lengthAdjust="spacing">Cu un corelativ</text>
+<text x="184.3" y="590.2" font-size="15" fill="#3a3226" textLength="70.5" lengthAdjust="spacing">în regentă:</text>
+<text x="258.8" y="590.2" font-size="15" fill="#3a3226" font-weight="700" textLength="119.0" lengthAdjust="spacing">mereu cu virgulă</text>
+<text x="377.8" y="590.2" font-size="15" fill="#3a3226" textLength="3.3" lengthAdjust="spacing">.</text>
+<text x="62.0" y="615.0" font-size="15" fill="#3a3226">•</text>
+<text x="74.2" y="615.0" font-size="15" fill="#3a3226" font-weight="700" textLength="120.5" lengthAdjust="spacing">Înaintea regentei</text>
+<text x="194.7" y="615.0" font-size="15" fill="#3a3226" textLength="473.8" lengthAdjust="spacing">: circumstanțiala de loc și cea de mod se despart, de regulă, prin virgulă.</text>
+<rect x="40" y="657.5" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="680.5" font-size="16" font-weight="700" fill="#ffffff">3. ACELAȘI CUVÂNT, FUNCȚII DIFERITE</text>
+<rect x="40" y="691.5" width="820" height="231.8" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="724.5" font-size="15" fill="#3a3226" textLength="104.1" lengthAdjust="spacing">Adverbul relativ</text>
+<text x="170.1" y="724.5" font-size="15" fill="#3a3226" font-weight="700" textLength="35.7" lengthAdjust="spacing">unde</text>
+<text x="209.9" y="724.5" font-size="15" fill="#3a3226" textLength="22.5" lengthAdjust="spacing">sau</text>
+<text x="236.4" y="724.5" font-size="15" fill="#3a3226" font-weight="700" textLength="30.1" lengthAdjust="spacing">cum</text>
+<text x="270.6" y="724.5" font-size="15" fill="#3a3226" textLength="256.6" lengthAdjust="spacing">poate introduce propoziții diferite. Pun</text>
+<text x="531.3" y="724.5" font-size="15" fill="#3a3226" font-weight="700" textLength="72.9" lengthAdjust="spacing">întrebarea</text>
+<text x="608.3" y="724.5" font-size="15" fill="#3a3226" textLength="186.4" lengthAdjust="spacing">de la regent la subordonată:</text>
+<rect x="62.0" y="743.0" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="764.5" font-size="13.5" fill="#10233f" font-weight="700" textLength="66.1" lengthAdjust="spacing">Întrebarea</text>
+<text x="306.8" y="764.5" font-size="13.5" fill="#10233f" font-weight="700" textLength="65.1" lengthAdjust="spacing">Propoziția</text>
+<line x1="62.0" y1="774.5" x2="838.0" y2="774.5" stroke="#e3dccb"/>
+<text x="74.0" y="797.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="114.8" lengthAdjust="spacing">unde? când? cum?</text>
+<text x="192.8" y="797.0" font-size="14.5" fill="#3a3226" textLength="73.5" lengthAdjust="spacing">(după verb)</text>
+<text x="306.8" y="797.0" font-size="14.5" fill="#3a3226" textLength="251.9" lengthAdjust="spacing">circumstanțială de loc, de timp, de mod</text>
+<line x1="62.0" y1="807.4" x2="838.0" y2="807.4" stroke="#e3dccb"/>
+<text x="74.0" y="829.9" font-size="14.5" fill="#10233f" font-style="italic" textLength="94.4" lengthAdjust="spacing">care? ce fel de?</text>
+<text x="172.3" y="829.9" font-size="14.5" fill="#3a3226" textLength="110.3" lengthAdjust="spacing">(după substantiv)</text>
+<text x="306.8" y="829.9" font-size="14.5" fill="#3a3226" textLength="60.5" lengthAdjust="spacing">atributivă</text>
+<line x1="62.0" y1="840.2" x2="838.0" y2="840.2" stroke="#e3dccb"/>
+<text x="74.0" y="862.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="19.7" lengthAdjust="spacing">ce?</text>
+<text x="97.6" y="862.7" font-size="14.5" fill="#3a3226" textLength="73.5" lengthAdjust="spacing">(după verb)</text>
+<text x="306.8" y="862.7" font-size="14.5" fill="#3a3226" textLength="117.6" lengthAdjust="spacing">completivă directă</text>
+<line x1="62.0" y1="873.1" x2="838.0" y2="873.1" stroke="#e3dccb"/>
+<line x1="294.8" y1="743.0" x2="294.8" y2="873.1" stroke="#e3dccb"/>
+<text x="62.0" y="901.1" font-size="14" fill="#5b6b83" font-style="italic" textLength="68.0" lengthAdjust="spacing">expansiune</text>
+<text x="130.0" y="901.1" font-size="14" fill="#5b6b83" textLength="3.1" lengthAdjust="spacing">:</text>
+<text x="136.9" y="901.1" font-size="14" fill="#5b6b83" font-style="italic" textLength="152.0" lengthAdjust="spacing">la întoarcerea de la Vodă</text>
+<text x="292.7" y="901.1" font-size="14" fill="#5b6b83" textLength="12.0" lengthAdjust="spacing">→</text>
+<text x="308.5" y="901.1" font-size="14" fill="#5b6b83" font-style="italic" textLength="176.2" lengthAdjust="spacing">după ce s-a întors de la Vodă</text>
+<text x="484.8" y="901.1" font-size="14" fill="#5b6b83" textLength="3.1" lengthAdjust="spacing">.</text>
+<text x="157.9" y="954.8" font-size="11.5" fill="#5b6b83" textLength="584.2" lengthAdjust="spacing">Sursa: Manual Art 8, rubricile Repere din lecțiile 8-13 (pp. 149-157); cerințele de limbă din recapitularea de la p. 161.</text>
 </svg>

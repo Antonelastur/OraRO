@@ -1,20 +1,76 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
-  <rect width="900" height="380" fill="#faf7f0"/>
-  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#10233f">Circumstanțialul de mod</text>
-  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#5b6b83">Unitatea IV · lecția 14 · indică modul în care se desfășoară o acțiune sau se manifestă o însușire</text>
-
-  <rect x="55" y="80" width="790" height="56" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
-  <text x="75" y="102" font-size="13" font-weight="700" fill="#10233f">Întrebări</text>
-  <text font-size="11.5" fill="#3a3226"><tspan x="75" y="124">cum?, în ce fel?, în ce mod?</tspan></text>
-
-  <rect x="55" y="152" width="390" height="128" rx="14" fill="none" stroke="#6f5ea8" stroke-width="2"/>
-  <text x="75" y="176" font-size="13" font-weight="700" fill="#10233f">Regentul</text>
-  <text font-size="11" fill="#3a3226"><tspan x="75" y="198">un verb, o locuțiune verbală, o interjecție</tspan><tspan x="75" y="216">predicativă (Hai repede!), un adjectiv</tspan><tspan x="75" y="234">(un răspuns bine argumentat) sau un adverb</tspan></text>
-
-  <rect x="465" y="152" width="380" height="128" rx="14" fill="none" stroke="#0d9c92" stroke-width="2"/>
-  <text x="485" y="176" font-size="13" font-weight="700" fill="#10233f">Se exprimă prin</text>
-  <text font-size="11" fill="#3a3226"><tspan x="485" y="198">substantiv în acuzativ, pronume, numeral</tspan><tspan x="485" y="216">cu valoare pronominală, adverb și locuțiune</tspan><tspan x="485" y="234">adverbială, infinitiv și gerunziu,</tspan><tspan x="485" y="252">interjecție onomatopeică (merge pâș-pâș)</tspan></text>
-
-  <text x="450" y="326" text-anchor="middle" font-size="11.5" fill="#3a3226">Exemple: A scris tema cu atenție. Timpul trece pe nesimțite. Venea alergând.</text>
-  <text x="450" y="360" text-anchor="middle" font-size="11" fill="#5b6b83">Sursă: Art 8, p. 155</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 964" font-family="'Segoe UI', 'Plus Jakarta Sans', -apple-system, Roboto, sans-serif">
+<rect width="900" height="964" fill="#faf7f0"/>
+<text x="288.7" y="50.0" font-size="28" fill="#10233f" font-weight="700" textLength="323.1" lengthAdjust="spacing">Circumstanțialul de mod</text>
+<text x="215.1" y="74.4" font-size="14" fill="#5b6b83" textLength="469.8" lengthAdjust="spacing">Clasa a VIII-a · Unitatea a IV-a, Lecția 14 · Manual, p. 155 · notițe pentru caiet</text>
+<rect x="40" y="94.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="117.6" font-size="16" font-weight="700" fill="#ffffff">1. CE ESTE</text>
+<rect x="40" y="128.6" width="820" height="80.0" fill="#ffffff" stroke="#e3dccb"/>
+<text x="62.0" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="184.6" lengthAdjust="spacing">Circumstanțialul de mod</text>
+<text x="251.0" y="162.6" font-size="16" fill="#10233f" textLength="35.5" lengthAdjust="spacing">arată</text>
+<text x="290.8" y="162.6" font-size="16" fill="#10233f" font-weight="700" textLength="33.4" lengthAdjust="spacing">felul</text>
+<text x="328.6" y="162.6" font-size="16" fill="#10233f" textLength="501.4" lengthAdjust="spacing">în care se desfășoară o acțiune sau se manifestă o însușire. Răspunde la</text>
+<text x="62.0" y="185.8" font-size="16" fill="#10233f" textLength="75.0" lengthAdjust="spacing">întrebările:</text>
+<text x="141.4" y="185.8" font-size="16" fill="#10233f" font-weight="700" textLength="194.9" lengthAdjust="spacing">cum? în ce fel? în ce mod?</text>
+<rect x="40" y="228.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="251.6" font-size="16" font-weight="700" fill="#ffffff">2. DE CE DEPINDE</text>
+<rect x="40" y="262.6" width="820" height="198.9" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="280.6" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="302.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="57.2" lengthAdjust="spacing">Regentul</text>
+<text x="345.6" y="302.1" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="312.2" x2="838.0" y2="312.2" stroke="#e3dccb"/>
+<text x="74.0" y="334.7" font-size="14.5" fill="#3a3226" textLength="145.0" lengthAdjust="spacing">verb, locuțiune verbală</text>
+<text x="345.6" y="334.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="64.1" lengthAdjust="spacing">A acționat</text>
+<text x="413.6" y="334.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="29.7" lengthAdjust="spacing">bine</text>
+<text x="443.3" y="334.7" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<text x="450.4" y="334.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="93.8" lengthAdjust="spacing">Și-a dat seama</text>
+<text x="548.2" y="334.7" font-size="14.5" fill="#3a3226" font-weight="700" textLength="37.0" lengthAdjust="spacing">brusc</text>
+<text x="589.1" y="334.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="74.5" lengthAdjust="spacing">de greșeală.</text>
+<line x1="62.0" y1="345.0" x2="838.0" y2="345.0" stroke="#e3dccb"/>
+<text x="74.0" y="367.5" font-size="14.5" fill="#3a3226" textLength="136.9" lengthAdjust="spacing">interjecție predicativă</text>
+<text x="345.6" y="367.5" font-size="14.5" fill="#10233f" font-style="italic" textLength="21.9" lengthAdjust="spacing">Hai</text>
+<text x="371.4" y="367.5" font-size="14.5" fill="#3a3226" font-weight="700" textLength="47.3" lengthAdjust="spacing">repede</text>
+<text x="418.7" y="367.5" font-size="14.5" fill="#3a3226" textLength="4.1" lengthAdjust="spacing">!</text>
+<line x1="62.0" y1="377.9" x2="838.0" y2="377.9" stroke="#e3dccb"/>
+<text x="74.0" y="400.4" font-size="14.5" fill="#3a3226" textLength="49.0" lengthAdjust="spacing">adjectiv</text>
+<text x="345.6" y="400.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="70.8" lengthAdjust="spacing">Un răspuns</text>
+<text x="420.3" y="400.4" font-size="14.5" fill="#3a3226" font-weight="700" textLength="29.7" lengthAdjust="spacing">bine</text>
+<text x="453.9" y="400.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="77.0" lengthAdjust="spacing">argumentat.</text>
+<line x1="62.0" y1="410.7" x2="838.0" y2="410.7" stroke="#e3dccb"/>
+<text x="74.0" y="433.2" font-size="14.5" fill="#3a3226" textLength="44.1" lengthAdjust="spacing">adverb</text>
+<text x="345.6" y="433.2" font-size="14.5" fill="#10233f" font-style="italic" textLength="112.7" lengthAdjust="spacing">S-au purtat corect</text>
+<text x="462.2" y="433.2" font-size="14.5" fill="#3a3226" font-weight="700" textLength="68.2" lengthAdjust="spacing">în general</text>
+<text x="530.3" y="433.2" font-size="14.5" fill="#3a3226" textLength="3.2" lengthAdjust="spacing">.</text>
+<line x1="62.0" y1="443.6" x2="838.0" y2="443.6" stroke="#e3dccb"/>
+<line x1="333.6" y1="280.6" x2="333.6" y2="443.6" stroke="#e3dccb"/>
+<rect x="40" y="481.6" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="504.6" font-size="16" font-weight="700" fill="#ffffff">3. PRIN CE SE EXPRIMĂ</text>
+<rect x="40" y="515.5" width="820" height="264.6" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="533.5" width="776.0" height="31.6" fill="#efeaf8"/>
+<text x="74.0" y="555.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="109.8" lengthAdjust="spacing">Partea de vorbire</text>
+<text x="399.9" y="555.0" font-size="13.5" fill="#10233f" font-weight="700" textLength="54.7" lengthAdjust="spacing">Exemplu</text>
+<line x1="62.0" y1="565.1" x2="838.0" y2="565.1" stroke="#e3dccb"/>
+<text x="74.0" y="587.6" font-size="14.5" fill="#3a3226" textLength="136.2" lengthAdjust="spacing">substantiv în acuzativ</text>
+<text x="399.9" y="587.6" font-size="14.5" fill="#10233f" font-style="italic" textLength="144.7" lengthAdjust="spacing">A scris tema cu atenție.</text>
+<line x1="62.0" y1="597.9" x2="838.0" y2="597.9" stroke="#e3dccb"/>
+<text x="74.0" y="620.4" font-size="14.5" fill="#3a3226" textLength="58.7" lengthAdjust="spacing">pronume</text>
+<text x="399.9" y="620.4" font-size="14.5" fill="#10233f" font-style="italic" textLength="124.1" lengthAdjust="spacing">Ea gândește ca tine.</text>
+<line x1="62.0" y1="630.8" x2="838.0" y2="630.8" stroke="#e3dccb"/>
+<text x="74.0" y="653.3" font-size="14.5" fill="#3a3226" textLength="207.0" lengthAdjust="spacing">numeral cu valoare pronominală</text>
+<text x="399.9" y="653.3" font-size="14.5" fill="#10233f" font-style="italic" textLength="246.8" lengthAdjust="spacing">Dansează ca doi dintre balerinii celebri.</text>
+<line x1="62.0" y1="663.6" x2="838.0" y2="663.6" stroke="#e3dccb"/>
+<text x="74.0" y="686.1" font-size="14.5" fill="#3a3226" textLength="180.4" lengthAdjust="spacing">adverb, locuțiune adverbială</text>
+<text x="399.9" y="686.1" font-size="14.5" fill="#10233f" font-style="italic" textLength="266.8" lengthAdjust="spacing">Citim împreună. Timpul trece pe nesimțite.</text>
+<line x1="62.0" y1="696.5" x2="838.0" y2="696.5" stroke="#e3dccb"/>
+<text x="74.0" y="719.0" font-size="14.5" fill="#3a3226" textLength="116.3" lengthAdjust="spacing">infinitiv / gerunziu</text>
+<text x="399.9" y="719.0" font-size="14.5" fill="#10233f" font-style="italic" textLength="255.2" lengthAdjust="spacing">A vorbit fără a se gândi. Venea alergând.</text>
+<line x1="62.0" y1="729.4" x2="838.0" y2="729.4" stroke="#e3dccb"/>
+<text x="74.0" y="751.8" font-size="14.5" fill="#3a3226" textLength="159.2" lengthAdjust="spacing">interjecție onomatopeică</text>
+<text x="399.9" y="751.8" font-size="14.5" fill="#10233f" font-style="italic" textLength="135.4" lengthAdjust="spacing">Pisica merge pâș-pâș.</text>
+<line x1="62.0" y1="762.2" x2="838.0" y2="762.2" stroke="#e3dccb"/>
+<line x1="387.9" y1="533.5" x2="387.9" y2="762.2" stroke="#e3dccb"/>
+<rect x="40" y="800.2" width="820" height="34" rx="10" fill="#6f5ea8"/>
+<text x="58" y="823.2" font-size="16" font-weight="700" fill="#ffffff">4. MODEL DE ANALIZĂ</text>
+<rect x="40" y="834.2" width="820" height="78.8" fill="#ffffff" stroke="#e3dccb"/>
+<rect x="62.0" y="852.2" width="776.0" height="42.9" rx="12" fill="#f3efe4"/><text x="78.0" y="878.7" font-size="14.5" fill="#10233f" font-style="italic" textLength="390.9" lengthAdjust="spacing">„brusc” – circumstanțial de mod, exprimat prin adverb de mod.</text>
+<text x="286.6" y="944.5" font-size="11.5" fill="#5b6b83" textLength="326.8" lengthAdjust="spacing">Sursa: Manual Art 8, p. 155, rubrica Repere și modelul de analiză.</text>
 </svg>
