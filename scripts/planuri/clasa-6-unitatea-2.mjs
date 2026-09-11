@@ -1,13 +1,12 @@
-// Schițe de plan de lecție, model în 6 pași (momentele lecției), pentru
-// Unitatea II „Printre colegi și prieteni”, clasa a VI-a. Conținut derivat din
-// datele lecțiilor, din proiectarea pe unități și din Manual Art 6, pp. 44-82.
-// 50 min / lecție.
+// Planuri de lecție detaliate pentru Unitatea II „Printre colegi și prieteni”,
+// clasa a VI-a. Fără moment organizatoric (se subînțelege); fiecare etapă are pașii
+// concreți ai orei: rubrica și exercițiul din manual, întrebările, ce se notează în
+// caiete, fișa de exerciții, tema. Surse: Manual Art 6, pp. 44-82, și ghidul
+// profesorului. Rezolvările din ghid și ale fișelor nu intră aici (datele ajung
+// în browser). 50 min / lecție.
 
-const org = {
-  etapa: 'Moment organizatoric',
-  timp: '3 min',
-  activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
-}
+const pasi = (...linii) => linii.map((l) => `– ${l}`).join('\n')
+const fisa = (n) => `Fișa de exerciții (/materiale/clasa-6/unitatea-2/lectia-${n}/fisa-exercitii.pdf)`
 
 export default {
   'lectia-1': {
@@ -18,12 +17,22 @@ export default {
     obiective: ['Se familiarizează cu tema, sarcinile, calendarul și criteriile de evaluare ale proiectului de grup Prietenia în filme.'],
     resurse: ['Manual Art 6, pp. 60-61', 'Fișa lecției (/materiale/clasa-6/unitatea-2/lectia-1/fisa.pdf)'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le arăt cele trei cadre din scurtmetrajul Cântecul (Mindenki) de la p. 60 și îi întreb despre ce cred că e filmul.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț proiectul de grup al unității, Prietenia în filme, pe care îl prezentăm peste două săptămâni.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Discutăm ce e un scurtmetraj și prin ce diferă de un lungmetraj, cu Reperele de la p. 60.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Explic sarcina și tehnica arborelui lui Sapiro, parte cu parte: rădăcinile sunt cauzele conflictului, solul e mediul, tulpina sunt cei implicați, scorbura e problema, ramurile sunt efectele, frunzele sunt acțiunile, fructele sunt soluțiile. Formez grupe de 5-7 elevi și stabilim calendarul pe două săptămâni și forma prezentării, poster sau PowerPoint.' },
-      { etapa: 'Obținerea performanței', timp: '13 min', activitate: 'Fiecare grupă completează fișa lecției cu rolurile și termenele membrilor, inclusiv cine face prezentarea generală a filmului. Citim împreună criteriile de evaluare de la p. 61.' },
+      { etapa: 'Captarea atenției', timp: '5 min', activitate: pasi(
+        'Cele trei cadre din scurtmetrajul „Cântecul” (Mindenki), p. 60: despre ce credeți că e filmul? Notez câteva ipoteze pe tablă, le verificăm după vizionare.') },
+      { etapa: 'Scurtmetrajul', timp: '4 min', activitate: pasi(
+        'Caseta de la p. 60: scurtmetraj și lungmetraj, durata, festivalurile; filmul a primit Premiul Oscar în 2016.') },
+      { etapa: 'Arborele lui Sapiro', timp: '14 min', activitate: pasi(
+        'Desenez arborele pe tablă și îl completăm pe un exemplu cunoscut (conflictul din „Oracolul”), parte cu parte: rădăcinile – cauzele; solul – mediul; tulpina – cei implicați; scorbura – problema; ramurile – ce simt; frunzele – ce fac; fructele – soluțiile.',
+        'Elevii copiază schema în caiete, cu întrebarea fiecărei părți.') },
+      { etapa: 'Formarea grupelor și sarcinile', timp: '8 min', activitate: pasi(
+        'Formez grupe de 5-7 elevi; o grupă primește și prezentarea generală a filmului (fișa cu titlul, regizorii, genul, durata, premiile, p. 61).',
+        'Calendarul: săptămâna I – vizionarea și împărțirea sarcinilor; săptămâna II – pregătirea prezentării de 3-5 minute (poster, PowerPoint sau altă formă).') },
+      { etapa: 'Fișa grupei', timp: '14 min', activitate: pasi(
+        'Fiecare grupă completează fișa lecției: membrii, partea din arbore a fiecăruia, termenele, forma prezentării, cine prezintă ce.',
+        'Trec pe la grupe și verific dacă fiecare elev are cel puțin o sarcină.') },
+      { etapa: 'Criteriile de evaluare', timp: '5 min', activitate: pasi(
+        'Citim fișa de observare de la p. 61 (prezentare cursivă, cu gesturi și mimică; colaborare; sprijin pentru colegi) și scara de clasificare; le spun că așa vor fi evaluați.',
+        'Tema: vizionarea filmului în grupă, în prima săptămână.') },
     ],
     evaluare: 'Observarea sistematică a elevilor; fișa de organizare a grupei, fără notare.',
   },
@@ -33,16 +42,26 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Identifică informații esențiale din textul narativ Oracolul de Mircea Cărtărescu.'],
-    resurse: ['Manual Art 6, pp. 44-46', 'Coli pentru planșele de impresii', 'Bilețele pentru întrebările adresate autorului'],
+    resurse: ['Manual Art 6, pp. 44-46', fisa(2), 'Coli pentru planșele de impresii', 'Bilețele pentru întrebările adresate autorului'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '7 min', activitate: 'Privim fotografiile cu mâini de la p. 44 și ghicim ce simt oamenii. În perechi, fiecare alege o emoție și povestește într-un minut o situație în care a trăit-o.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că deschidem unitatea cu o povestire de Mircea Cărtărescu despre o clasă a patra și un băiat pus deoparte de colegi.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '4 min', activitate: 'Îi întreb ce cred că înseamnă cuvântul oracol și notez pe tablă ipotezele lor, ca să le verificăm după lectură.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Citesc model textul de la pp. 44-46 și clarificăm cuvintele din subsol, IDR, tebecist, ofticos, preventoriu. Ne oprim la momentele-cheie: pata de pe braț, porecla, oracolul Petruței, ora de desen, dispariția petei, Petruța regăsită după treizeci de ani.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'În grupe de patru, elevii completează pe o coală cele patru cadrane ale impresiilor de lectură, iar un reprezentant prezintă planșa. Cine are timp scrie pe un bilețel o întrebare pentru autor.' },
+      { etapa: 'Captarea atenției', timp: '7 min', activitate: pasi(
+        'Dezgheț: jocuri în care se ating palmele (Bâza, Piatră-foarfece-hârtie...).',
+        '„Pentru început”, p. 44, ex. 1-2: fotografiile cu mâini – ce au în comun, prin ce diferă, ce simt oamenii; notez pe tablă, pe trei coloane.',
+        'Ex. 4: ce credeți că înseamnă „oracol”? Notez ipotezele, fără corecturi; le verificăm după lectură.') },
+      { etapa: 'Despre autor', timp: '3 min', activitate: pasi(
+        'Caseta de la p. 44: Mircea Cărtărescu (n. 1956), poet și prozator, cel mai tradus scriitor român contemporan; „Enciclopedia zmeilor”, pentru copii; „Oracolul” e adaptat după textul „Petruța”.') },
+      { etapa: 'Lectura model', timp: '13 min', activitate: pasi(
+        'Citesc textul cu voce tare, cu manualele închise; elevii notează cuvintele necunoscute.',
+        'Lămurim cuvintele din subsol (IDR, tebecist, ofticos, preventoriu) și pe cele notate de elevi; revenim la ipotezele despre „oracol”.') },
+      { etapa: 'Impresii după prima lectură', timp: '12 min', activitate: pasi(
+        'P. 46, ex. 1: grupe de patru completează pe o coală cele patru cadrane (mi-a plăcut, nu mi-a plăcut, n-am înțeles, mi-a amintit de); reprezentanții prezintă, planșele rămân afișate pe durata lecțiilor despre text.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '12 min', activitate: pasi(
+        'Pagina 1: ex. 1 (cine face?) și ex. 2 (adevărat sau fals?), individual, 8 minute.',
+        'Verificare, 4 minute; la fiecare „fals”, elevul arată locul din text.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: p. 46, ex. 2 (întrebarea pentru autor, pe bilețel; la începutul orei următoare, voluntarii răspund în locul lui); fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; aprecieri pe planșele de impresii.',
+    evaluare: 'Planșele de impresii; observarea sistematică; fișa de exerciții, ex. 1-2.',
   },
   'lectia-3': {
     titlu: 'Timpul și spațiul',
@@ -50,16 +69,27 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Diferențiază timpul desfășurării întâmplărilor de timpul povestirii lor, pe baza textului Oracolul.'],
-    resurse: ['Manual Art 6, pp. 47-48', 'Schema „Timpul și spațiul într-o narațiune” (/materiale/clasa-6/unitatea-2/lectia-3/schema.svg)', 'Coli pentru postere, abțibilduri'],
+    resurse: ['Manual Art 6, pp. 47-48', fisa(3), 'Schema „Timpul și spațiul într-o narațiune” (/materiale/clasa-6/unitatea-2/lectia-3/schema.svg)', 'Coli pentru postere, abțibilduri'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Căutăm în primul paragraf indiciul care arată ce vârstă avea naratorul, apoi în final câți ani au trecut până când povestește.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că învățăm să deosebim timpul în care se petrec întâmplările de timpul în care sunt povestite.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '4 min', activitate: 'Reamintim indicii de timp și de spațiu lucrați la Un păianjen care se crede Spiderman.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'În perechi, elevii asociază cuvintele-cheie de la p. 47, IDR-ul, pata, rușinea, oracolul, ora de desen, miracolul, cu secvențele textului, le ordonează și formulează ideile principale. Cu ajutorul schemei explic timpul desfășurării și timpul povestirii, marcat prin prezent, și episoadele sărite sau comprimate, apoi sortăm reperele temporale de la p. 48.' },
-      { etapa: 'Obținerea performanței', timp: '14 min', activitate: 'Grupe de 4-5 elevi alcătuiesc pe poster planul dezvoltat de idei. Prin turul galeriei, fiecare elev evaluează posterele pe grila de la p. 48 și lipește un abțibild pe cel mai bun.' },
+      { etapa: 'Verificarea temei', timp: '4 min', activitate: pasi(
+        'Trei voluntari trag bilețele cu întrebări pentru autor și răspund în locul lui; aleg și o întrebare despre „când” și „unde”, ca punte spre lecție.') },
+      { etapa: 'Explorare, ex. 1-5, ca un concurs', timp: '10 min', activitate: pasi(
+        'P. 47: elevii rezolvă individual; primii cinci care termină prezintă: vârsta naratorului, anotimpul și câmpul lui lexical, câți ani au trecut, primii indici spațiali și locul principal, indicele spațial legat de momentul povestirii.',
+        'Toți notează răspunsurile în caiete.') },
+      { etapa: 'Notițe: timpul și spațiul', timp: '5 min', activitate: pasi(
+        'În caiete, după Repere și schema lecției: timpul desfășurării întâmplărilor și timpul povestirii (marcat prin prezent), episoadele sărite sau comprimate, unul sau mai multe locuri; desenăm axa timpului.') },
+      { etapa: 'Secvențele și ideile principale', timp: '12 min', activitate: pasi(
+        'Ex. 6, în perechi: asociază cuvintele-cheie cu secvențele textului și le ordonează; le reamintesc că secvențele nu coincid mereu cu paragrafele.',
+        'Ex. 7: formulează ideile principale; le verificăm frontal și le scriu pe tablă, iar elevii le notează.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '12 min', activitate: pasi(
+        'Pagina 1: textul „Prietena din tabără” (scris pentru fișă), ex. 2 (al întâmplării sau al povestirii?) și ex. 3 (unde se petrece?), individual, 8 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Aplicații, ex. 3: anunțarea posterelor', timp: '4 min', activitate: pasi(
+        'Formez grupe de 4-5 pentru planul dezvoltat de idei (poster) și le arăt grila de la p. 48; posterele se prezintă la începutul orei următoare, prin turul galeriei.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: Aplicații, ex. 1-2 (reperele temporale și secvențele lor); posterul grupei; fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; interevaluare prin turul galeriei, pe grila de la p. 48.',
+    evaluare: 'Observarea sistematică; ideile principale din caiete; fișa de exerciții, ex. 2-3.',
   },
   'lectia-4': {
     titlu: 'Etapele acțiunii (momentele subiectului literar)',
@@ -67,16 +97,29 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Identifică situația inițială, succesiunea de întâmplări și situația finală într-un text narativ.'],
-    resurse: ['Manual Art 6, pp. 49-51', 'Schema „Etapele acțiunii (momentele subiectului)” (/materiale/clasa-6/unitatea-2/lectia-4/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 49-51', fisa(4), 'Schema „Etapele acțiunii (momentele subiectului)” (/materiale/clasa-6/unitatea-2/lectia-4/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Elevii ordonează cele zece secvențe citate la p. 49 în ordinea în care apar în text.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că împărțim textul în momentele subiectului literar și vedem ce timpuri verbale folosește fiecare.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'În grupe de patru, elevii grupează secvențele pe cele trei părți din clasa a V-a: situația inițială, succesiunea de întâmplări, situația finală.' },
-      { etapa: 'Dirijarea învățării', timp: '23 min', activitate: 'Cu ajutorul schemei explic cele cinci momente, expozițiunea, intriga, desfășurarea acțiunii, punctul culminant, deznodământul, și epilogul. Discutăm ce eveniment declanșează acțiunea, alegând dintre variantele de la p. 49, care e momentul de tensiune maximă și ce aduce ultimul paragraf, apoi observăm schimbarea timpurilor verbale de la un moment la altul.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Elevii completează schema de la p. 51, asociind secvențele cu momentele subiectului, apoi discută în perechi care moment a fost cel mai greu de delimitat.' },
+      { etapa: 'Turul galeriei', timp: '6 min', activitate: pasi(
+        'Posterele cu planul dezvoltat de idei se afișează; elevii le evaluează pe grila de la p. 48 și lipesc câte un abțibild pe cel mai bun.') },
+      { etapa: 'Explorare, ex. 1-3 (p. 49 sus)', timp: '7 min', activitate: pasi(
+        'Ex. 1, frontal: scriu pe tablă numerele 1-10, elevii aleg citatele în ordine.',
+        'Ex. 2, în grupe de patru: grupează secvențele în situația inițială, succesiunea de întâmplări, situația finală (2-3 minute); ce parte a fost mai greu de delimitat?',
+        'Ex. 3: modul și timpul din primul paragraf.') },
+      { etapa: 'Momentele, pe rând', timp: '14 min', activitate: pasi(
+        'Expozițiunea (Repere, p. 49); intriga: p. 49 jos, ex. 1-3 (schimbarea timpului verbal, evenimentul care declanșează acțiunea, indicele temporal) și Repere, p. 50.',
+        'Desfășurarea acțiunii: p. 50 sus (organizatorul cu indici temporali); punctul culminant: p. 50 mijloc, ex. 1-3, în perechi; deznodământul și epilogul: p. 50 jos și Repere, p. 51.',
+        'După fiecare moment, elevii notează definiția în caiet, după schema lecției.') },
+      { etapa: 'Schema momentelor', timp: '6 min', activitate: pasi(
+        'Aplicații, ex. 4: elevii completează în caiet schema care leagă secvențele de momente; verificăm pe tablă.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '12 min', activitate: pasi(
+        'Pagina 1: textul „Mingea din curte” (scris pentru fișă) și ex. 2 (momentele subiectului), individual, 7 minute.',
+        'Verificare, 5 minute; discutăm unde se termină desfășurarea și unde începe punctul culminant.') },
+      { etapa: 'Discuție în perechi', timp: '2 min', activitate: pasi(
+        'Aplicații, ex. 5: ce moment a fost cel mai greu de delimitat, în „Oracolul” și în textul din fișă?') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: Aplicații, ex. 1-3 (textul despre momentul preferat, întrebările pentru fiecare moment, schimb de caiete ora viitoare); fișa de exerciții, pagina 2. Opțional, „Provocări”: filmul poveștii, termen o săptămână.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; verificarea schemei completate. Temă opțională: filmul poveștii, de la Provocări.',
+    evaluare: 'Schema momentelor din caiet; fișa de exerciții, ex. 1-2; interevaluarea posterelor.',
   },
   'lectia-5': {
     titlu: 'Personajele',
@@ -84,16 +127,27 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Identifică trăsăturile personajelor din textul Oracolul, pe baza acțiunilor și a relațiilor dintre ele.'],
-    resurse: ['Manual Art 6, pp. 52-53', 'Fișa lecției (/materiale/clasa-6/unitatea-2/lectia-5/fisa.pdf)', 'Bilețele cu numele personajelor', 'DEX sau dexonline.ro'],
+    resurse: ['Manual Art 6, pp. 52-53', fisa(5), 'Fișa lecției (/materiale/clasa-6/unitatea-2/lectia-5/fisa.pdf)', 'Bilețele cu numele personajelor', 'DEX sau dexonline.ro'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '7 min', activitate: 'Jocul „Vitrina” de la p. 52: elevii extrag bilețele cu personajele, asistenta, băiatul, Iosub, Petruța, Puică, Tovarășa, și se așază în fața clasei pe trei rânduri, după rolul pe care cred că îl are personajul lor.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că vedem ce rol are fiecare personaj și cum îi aflăm trăsăturile.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '4 min', activitate: 'Stabilim dacă naratorul e participant la acțiune sau doar martor.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Fixăm Reperele de la p. 52: personaj principal, secundar, episodic, personaj colectiv, trăsături numite sau deduse. Deducem trăsăturile grupului de copii din pasajele citate, apoi pe ale lui Puică și ale Petruței, fizice și morale, și discutăm de ce naratorul îi spune „săraca”. Căutăm în DEX sensul cuvântului tovarășă și îl comparăm cu cel din perioada comunistă.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Elevii rezolvă fișa lecției, apoi discutăm întrebarea de la Provocări: trăiește băiatul o situație de bullying și cum ar fi procedat ei în locul colegilor?' },
+      { etapa: 'Vitrina', timp: '8 min', activitate: pasi(
+        'Explorare, ex. 1: elevii extrag bilețele (asistenta, băiatul, Iosub, Petruța, Puică, Tovarășa) și se așază în „vitrină”, pe trei rânduri; fiecare spune, la persoana I, în ce momente apare, cu cine intră în contact și ce face.') },
+      { etapa: 'Acvariul emoțiilor și istoria cuvintelor', timp: '6 min', activitate: pasi(
+        'Ex. 2, individual: substantivele potrivite cu impresia lăsată de personaje; câțiva își citesc alegerile, cu motivare.',
+        'Ex. 3: sensul cuvântului „tovarășă” atunci și azi, cu DEX-ul; caseta „Istoria cuvintelor”.') },
+      { etapa: 'Notițe: tipurile de personaje', timp: '6 min', activitate: pasi(
+        'În caiete, după Repere: principal, secundar, episodic; personajul colectiv; trăsături numite sau deduse (din fapte, vorbe, îmbrăcăminte).',
+        'Ex. 4-5, în perechi: secvențele în care grupul de elevi se comportă ca un singur personaj; un episod în care naratorul e în grup și unul în care e exclus.') },
+      { etapa: 'Aplicații, ex. 1-8', timp: '10 min', activitate: pasi(
+        'Frontal: participant sau martor; trăsăturile grupului din pasaje; Puică (o trăsătură numită, una dedusă); expresia „a tremura din toate încheieturile”.',
+        'În perechi: trăsăturile fizice și morale ale Petruței (ex. 5-6); uniforma ei (ex. 7); de ce o numește naratorul „săraca” (ex. 8).') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '13 min', activitate: pasi(
+        'Pagina 1: textul „Colega nouă” (scris pentru fișă), ex. 2 (rolul personajului) și ex. 3 (trăsături deduse), individual, 9 minute.',
+        'Verificare, 4 minute; discutăm cum recunoaștem personajul colectiv.') },
+      { etapa: 'Temă', timp: '7 min', activitate: pasi(
+        'Discutăm „Provocări”, ex. 1: trăiește băiatul o situație de bullying? Cum ați proceda voi? (câteva păreri, fără judecăți de persoane).',
+        'Tema: Aplicații, ex. 9-11; „Provocări”, ex. 2, în scris; fișa lecției; fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; fișa lecției.',
+    evaluare: 'Observarea jocului de rol; fișa lecției; fișa de exerciții, ex. 2-3.',
   },
   'lectia-6': {
     titlu: 'Semnificațiile textului',
@@ -101,16 +155,28 @@ export default {
     tipOra: 'Predare, interpretare',
     durata: 50,
     obiective: ['Formulează o opinie argumentată despre semnificația textului Oracolul de Mircea Cărtărescu.'],
-    resurse: ['Manual Art 6, pp. 54-55', 'Fișa lecției (/materiale/clasa-6/unitatea-2/lectia-6/fisa.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 54-55', fisa(6), 'Fișa lecției (/materiale/clasa-6/unitatea-2/lectia-6/fisa.pdf)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Îi întreb pe elevi dacă băiatul se deosebește prin ceva de colegi în primul paragraf, înainte de apariția petei.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că discutăm ce spune povestirea despre excludere, prietenie și lucruri greu de explicat.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reluăm cum se poartă colegii cu băiatul după ce îi descoperă pata și prin ce se distinge Petruța de ceilalți.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Asociem titlul cu cele trei imagini de la p. 54, templul din Delphi, Bocca della Verità, caietul-oracol, și citim fragmentele care le explică. Discutăm de ce aveau copiii caiete-oracol, de ce se așază Petruța lângă băiat, cum explică elevii dispariția petei și ce substantiv ar numi relația dintre cei doi.' },
-      { etapa: 'Obținerea performanței', timp: '13 min', activitate: 'Elevii rezolvă fișa lecției, apoi completează autoevaluarea pentru lecțiile 1-5.' },
+      { etapa: 'Verificarea temei', timp: '4 min', activitate: pasi(
+        'Doi-trei elevi citesc ce ar fi făcut în locul colegilor băiatului; discutăm pe scurt despre bullying.') },
+      { etapa: 'Interpretare, ex. 1-5', timp: '10 min', activitate: pasi(
+        'Frontal: e diferit băiatul la început? Cum se poartă colegii după pată? Prin ce se distinge Petruța (fizic, îmbrăcăminte, familie)?',
+        'Ex. 4, în perechi: seamănă băiatul cu Petruța în felul în care îi privesc ceilalți? Ex. 5: de ce se gândește la Petruța, nu la Lili?') },
+      { etapa: 'Titlul: trei oracole', timp: '10 min', activitate: pasi(
+        'Ex. 6-7: imaginile de la p. 54 (templul din Delphi, Bocca della Verità, caietul-oracol); trei elevi citesc fragmentele; ce le leagă?',
+        'Ex. 8-9: la ce apelau oamenii în Antichitate, ce practică a rămas azi, de ce aveau copiii caiete-oracol.') },
+      { etapa: 'Interpretare, ex. 10-12', timp: '7 min', activitate: pasi(
+        'De ce se așază Petruța lângă băiat? Poate ghici viitorul? Cum explicați dispariția petei? Primesc orice răspuns argumentat din text.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '12 min', activitate: pasi(
+        'Pagina 1: ex. 1 (de acord sau nu?) și ex. 2 (ce poate însemna?), individual, 8 minute.',
+        'Citim câteva interpretări, 4 minute; cer argumentul din text pentru fiecare.') },
+      { etapa: 'Provocări și autoevaluare', timp: '4 min', activitate: pasi(
+        '„Provocări”, ex. 4: un substantiv pentru relația dintre băiat și Petruța, spus de fiecare pe rând.',
+        'Autoevaluare L1-L5, p. 55: elevii completează cele trei afirmații.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: „Provocări”, ex. 1 (cinci întrebări ale Petruței) și ex. 5 (Sibilele); fișa lecției; fișa de exerciții, pagina 2. Opțional, „Portofoliu”: posterul despre Oracolele Sibiline.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; fișa lecției; autoevaluarea achizițiilor din lecțiile 1-5. Temă opțională de portofoliu: posterul despre Oracolele Sibiline.',
+    evaluare: 'Observarea discuției; fișa lecției; fișa de exerciții, ex. 1-2; autoevaluarea L1-L5.',
   },
   'lectia-7': {
     titlu: 'Text auxiliar. Micul Nicolas de René Goscinny, ilustrații de Jean-Jacques Sempé',
@@ -118,16 +184,29 @@ export default {
     tipOra: 'Lectură, text auxiliar',
     durata: 50,
     obiective: ['Compară textul auxiliar Micul Nicolas cu textul de bază al unității și formulează sugestii de lectură.'],
-    resurse: ['Manual Art 6, pp. 56-57', 'Fișa lecției (/materiale/clasa-6/unitatea-2/lectia-7/fisa.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 56-57', fisa(7), 'Fișa lecției (/materiale/clasa-6/unitatea-2/lectia-7/fisa.pdf)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Îi întreb pe elevi dacă au avut vreodată un coleg nou venit din altă parte și cum a fost primit.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că citim o întâmplare amuzantă cu un coleg nou și o comparăm cu Oracolul.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reamintim cum se purta grupul de copii cu băiatul din Oracolul, personajul colectiv.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Elevii citesc individual fragmentul de la p. 56 și notează două comentarii despre comportamentul copiilor, pe care le confruntă în perechi. Formulăm întrebări după organizatorul de la p. 57, discutăm prin ce se deosebește George de ceilalți, de ce îl crede Aristide norocos și ce au în comun cele două texte, dintre variantele propuse.' },
-      { etapa: 'Obținerea performanței', timp: '13 min', activitate: 'Elevii rezolvă fișa lecției, apoi prezint cele două cărți de la Biblioteci deschise, Val și Cetatea Sufletelor și Magee, zis Maniacul, iar elevii spun pe care ar citi-o și de ce.' },
+      { etapa: 'Captarea atenției', timp: '5 min', activitate: pasi(
+        'O întâmplare amuzantă cu un coleg nou (sau când ați fost voi cei noi). Privim desenul de la p. 56: ce credeți că se va întâmpla?') },
+      { etapa: 'Lectura', timp: '10 min', activitate: pasi(
+        'Citesc fragmentul cu voce tare; elevii urmăresc.',
+        'Ex. 1: fiecare notează două comentarii despre comportamentul copiilor și le confruntă cu colegul de bancă.') },
+      { etapa: 'Discutarea textului, ex. 2-6', timp: '10 min', activitate: pasi(
+        'Ex. 2: întrebări după organizator (cine?, cum?, când?, ce?), schimb de caiete.',
+        'Ex. 3: ideile principale, formulate individual, verificate frontal.',
+        'Ex. 4-6: prin ce se deosebește George, personajul cel mai simpatic și cel mai antipatic, de ce îl crede Aristide norocos.') },
+      { etapa: 'Discutarea textului, ex. 7-10', timp: '8 min', activitate: pasi(
+        'Ce au în comun cele două texte (variantele de la ex. 7, orice răspuns justificat); câte un cuvânt pentru Nicolas, Aristide, Achim, George; afirmația lui Achim; comportamentul cel mai condamnabil.',
+        'Le reamintesc formulele de opinie (după părerea mea...) și de motivare (deoarece...).') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (cine spune sau face?) și ex. 2 (adevărat sau fals?), individual, 8 minute.',
+        'Verificare, 3 minute.') },
+      { etapa: 'Biblioteci deschise', timp: '3 min', activitate: pasi(
+        'Prezint „Val și Cetatea Sufletelor” de Ana Alfianu și „Magee, zis Maniacul” de Jerry Spinelli; elevii spun pe care ar citi-o și de ce.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: „Portofoliu”, poreclele amuzante pentru personajele desenate de Sempé (pe grupe, până ora viitoare); impresia despre text, 10-15 rânduri; fișa lecției; fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; fișa lecției; aprecieri.',
+    evaluare: 'Observarea discuției; fișa lecției; fișa de exerciții, ex. 1-2.',
   },
   'lectia-8': {
     titlu: 'Valori ale culturii populare în spațiul românesc. Etnii și jocuri de copii',
@@ -135,16 +214,28 @@ export default {
     tipOra: 'Interculturalitate',
     durata: 50,
     obiective: ['Recunoaște similitudini între jocurile de copii din diverse comunități etnice din spațiul românesc.'],
-    resurse: ['Manual Art 6, pp. 58-59', 'Infograficul „Etnii și jocuri de copii” (/materiale/clasa-6/unitatea-2/lectia-8/infografic.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 58-59', fisa(8), 'Infograficul „Etnii și jocuri de copii” (/materiale/clasa-6/unitatea-2/lectia-8/infografic.svg)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Îi întreb pe elevi dacă au prieteni care aparțin altei comunități etnice și ce comunități cunosc în localitatea lor.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că descoperim cum se regăsesc aceleași jocuri de copii la comunități etnice diferite.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'În perechi, elevii enumeră minorități din România și le găsesc pe harta de la p. 58: maghiari, sârbi, tătari, ucraineni.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Citim fragmentul din Lumea prin care am trecut de Ioan Slavici, despre colegii maghiari din Șiria. Privim fotografiile de joc și comparăm cele trei jocuri descrise, Țuiul, Bújj, bújj, zöld ág și O podo baruno, cu jocuri pe care le știu elevii. Cu infograficul fixăm Reperele: comunitatea etnică și jocul ca limbaj comun.' },
-      { etapa: 'Obținerea performanței', timp: '13 min', activitate: 'Grupe de 4-6 elevi inventează un joc care se poate juca fără cuvinte, cu 4-6 reguli, și îl prezintă clasei. Alegem prin vot jocul cel mai reușit.' },
+      { etapa: 'Pentru început', timp: '6 min', activitate: pasi(
+        'Ex. 1, frontal: aveți prieteni din altă comunitate etnică? Ce comunități sunt în clasa, în localitatea voastră?',
+        'Ex. 2, în perechi: minoritățile din România și culorile lor pe harta de la p. 58 (maghiari, sârbi, tătari, ucraineni).') },
+      { etapa: 'Slavici și colegii maghiari', timp: '6 min', activitate: pasi(
+        'Explorare, ex. 1: elevii citesc fragmentul din „Lumea prin care am trecut” și notează ce îi leagă pe Slavici și pe Sima de colegii de bancă.') },
+      { etapa: 'Jocurile din fotografii și din descrieri', timp: '10 min', activitate: pasi(
+        'Ex. 2: fotografiile de la Muzeul Etnografic al Transilvaniei – ce joc vă e cunoscut?',
+        'Ex. 3: citesc descrierile (Țuiul, Bújj, bújj, zöld ág, O podo baruno); elevii le asociază cu fotografiile și cu jocuri pe care le-au jucat.') },
+      { etapa: 'Notițe: comunitatea etnică și jocul', timp: '4 min', activitate: pasi(
+        'În caiete, după Repere și infograficul lecției: comunitatea etnică, influențele culturale, jocul ca limbaj universal.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (trei jocuri, trei comunități) și ex. 2 (poarta și podul), individual, 8 minute.',
+        'Verificare, 3 minute.') },
+      { etapa: 'Provocări: un joc fără cuvinte', timp: '10 min', activitate: pasi(
+        'Grupe de 4-6 (după locul din bănci) inventează un joc care se poate juca fără cuvinte, cu 4-6 reguli și desene, pe o coală.',
+        'Câte un elev prezintă jocul; alegem prin vot cel mai reușit.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: Aplicații, ex. 1-3 (jocuri fără cuvinte, titlurile tablourilor, joaca cu un copil necunoscut); „Portofoliu”, planșa despre un joc în culturi diferite; fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; aprecieri pe jocurile inventate. Temă de portofoliu: planșa despre un joc practicat în culturi diferite.',
+    evaluare: 'Jocurile inventate, prezentate și votate; fișa de exerciții, ex. 1-2.',
   },
   'lectia-9': {
     titlu: 'Prezentarea proiectului „Prietenia în filme”',
@@ -154,12 +245,17 @@ export default {
     obiective: ['Prezintă și evaluează, pe grupe, proiectul Prietenia în filme, conform criteriilor stabilite.'],
     resurse: ['Manual Art 6, p. 61, criteriile de evaluare', 'Fișa lecției (/materiale/clasa-6/unitatea-2/lectia-9/fisa.pdf)', 'Produsele grupelor, postere sau prezentări'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '3 min', activitate: 'Tragem la sorți ordinea în care prezintă grupele.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că fiecare grupă are 3-5 minute și că fiecare membru participă la prezentare.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '4 min', activitate: 'Recitim criteriile de la p. 61: prezentare cursivă, cu gesturi și mimică, colaborare, sprijin pentru colegi.' },
-      { etapa: 'Dirijarea învățării', timp: '3 min', activitate: 'Distribui fișele de evaluare; fiecare grupă care ascultă urmărește câte un coleg din grupa care prezintă.' },
-      { etapa: 'Obținerea performanței', timp: '35 min', activitate: 'Grupele își prezintă arborele lui Sapiro pe filmul Cântecul, iar ascultătorii completează fișele. La final, toți completează scara de clasificare, iar un elev centralizează răspunsurile pe lista de control.' },
+      { etapa: 'Pregătirea', timp: '5 min', activitate: pasi(
+        'Tragem la sorți ordinea grupelor; grupele își pregătesc posterele sau prezentările.',
+        'Distribui fișele de observare: fiecare grupă care ascultă urmărește câte un coleg din grupa care prezintă (criteriile de la p. 61).') },
+      { etapa: 'Prezentările', timp: '35 min', activitate: pasi(
+        'Fiecare grupă are 3-5 minute: arborele lui Sapiro pe filmul „Cântecul”, cu toți membrii la cuvânt; grupa care a avut prezentarea generală a filmului începe.',
+        'După fiecare prezentare: o întrebare din public și completarea fișelor de observare (1 minut).') },
+      { etapa: 'Evaluarea', timp: '7 min', activitate: pasi(
+        'Toți completează scara de clasificare („Ai participat cu plăcere?”); un elev centralizează răspunsurile pe lista de control.',
+        'Spun ce a reușit fiecare grupă și ce se poate îmbunătăți.') },
+      { etapa: 'Reflecție', timp: '3 min', activitate: pasi(
+        'Ce ați aflat din film despre prietenie și despre colegi? Două-trei răspunsuri.') },
     ],
     evaluare: 'Evaluare sumativă a proiectului, pe criteriile de la p. 61; interevaluare și autoevaluare prin scara de clasificare.',
   },
@@ -169,16 +265,26 @@ export default {
     tipOra: 'Comunicare orală',
     durata: 50,
     obiective: ['Formulează oral ideile principale ale unei succesiuni de întâmplări, respectând regulile rezumatului.'],
-    resurse: ['Manual Art 6, pp. 62-63', 'Quizul „Rezumatul oral, regulile” (materialul de joc al lecției)', 'Scurtmetrajul Un mic ajutor de la un prieten, dacă e disponibil la clasă'],
+    resurse: ['Manual Art 6, pp. 62-63', fisa(10), 'Quizul „Rezumatul oral, regulile” (materialul de joc al lecției)', 'Scurtmetrajul Un mic ajutor de la un prieten, dacă e disponibil la clasă'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '6 min', activitate: 'Câțiva voluntari mimează în 1-2 minute desfășurarea zilei de ieri, iar clasa ghicește momentele.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că învățăm să povestim pe scurt o succesiune de întâmplări, adică să facem un rezumat oral.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reamintim ideile principale ale Oracolului, formulate la lecțiile de lectură.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'În perechi, pe imaginile de la p. 62, un elev formulează ideea fiecărei imagini, celălalt pune o întrebare de clarificare, apoi schimbă rolurile. Prezentăm ideile în ordine, notăm cuvintele de legătură folosite și fixăm regulile rezumatului oral din Repere: ideile principale, ordinea întâmplărilor, prezentul sau perfectul compus, fără comentarii, dialog sau citate.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Elevii rezolvă quizul „Rezumatul oral, regulile”, apoi discutăm răspunsurile greșite.' },
+      { etapa: 'Pentru început: ziua de ieri, mimată', timp: '8 min', activitate: pasi(
+        'Un minut de gândit la momentele importante ale zilei de ieri; voluntarii le mimează în 1-2 minute, clasa ghicește.') },
+      { etapa: 'Imaginile, în perechi', timp: '12 min', activitate: pasi(
+        'Explorare, ex. 1: la p. 62, unul formulează ideea imaginii, celălalt pune o întrebare de clarificare, apoi schimbă rolurile.',
+        'Cel puțin șase elevi prezintă ideile în ordine, legate între ele; urmărim scurtmetrajul, dacă e disponibil.') },
+      { etapa: 'Ex. 2-3', timp: '4 min', activitate: pasi(
+        'Ce a fost mai ușor: mimul sau ideile spuse oral? Ce cuvinte ați folosit ca să legați ideile? Fac lista pe tablă.') },
+      { etapa: 'Notițe: rezumatul oral', timp: '5 min', activitate: pasi(
+        'În caiete, după Repere: ce este rezumatul și cele cinci reguli (ideile principale, ordinea, prezentul sau perfectul compus, fără comentarii, dialog, citate, cuvintele de legătură).') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '12 min', activitate: pasi(
+        'Pagina 1: ex. 1 (ce nu merge în rezumat?) și ex. 2 (cuvinte de legătură), individual, 8 minute.',
+        'Verificare, 4 minute; pentru fiecare fragment, spunem regula.') },
+      { etapa: 'Quiz', timp: '6 min', activitate: pasi(
+        'Quizul „Rezumatul oral, regulile”, frontal; discutăm răspunsurile greșite.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: Aplicații, ex. 1 (fișa „Ce este rezumatul?”, în caiet); fișa de exerciții, pagina 2 (rezumatul zilei, pregătit pentru a fi spus).') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; rezultatele la quiz.',
+    evaluare: 'Observarea sistematică; quizul; fișa de exerciții, ex. 1-2.',
   },
   'lectia-11': {
     titlu: 'Rezumatul oral (II), rezumarea unui text și a unui film',
@@ -186,16 +292,23 @@ export default {
     tipOra: 'Comunicare orală',
     durata: 50,
     obiective: ['Rezumă oral, aplicat, un text și un scurtmetraj, folosind regulile învățate.'],
-    resurse: ['Manual Art 6, p. 63', 'Fișa lecției (/materiale/clasa-6/unitatea-2/lectia-11/fisa.pdf)', 'Scurtmetrajul Lou (Pixar, 2017), dacă e disponibil la clasă'],
+    resurse: ['Manual Art 6, p. 63', fisa(11), 'Fișa lecției (/materiale/clasa-6/unitatea-2/lectia-11/fisa.pdf)', 'Scurtmetrajul Lou (Pixar, 2017), dacă e disponibil la clasă'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Îi întreb pe elevi cum i-ar povesti unui prieten, în două minute, ultimul film pe care l-au văzut.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că exersăm rezumatul oral pe un fragment din Oracolul și pe un scurtmetraj.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '6 min', activitate: 'Completăm fișa „Ce este rezumatul?” de la p. 63: ce este și ce nu este un rezumat.' },
-      { etapa: 'Dirijarea învățării', timp: '12 min', activitate: 'În perechi, elevii recitesc fragmentul cu oracolul de la p. 63 și îl rezumă oral pe rând, iar ascultătorul evaluează pe grila Da/Nu.' },
-      { etapa: 'Obținerea performanței', timp: '22 min', activitate: 'Urmărim scurtmetrajul Lou, iar elevii îl rezumă oral după schema de la Provocări, Cine, Scop, Dar, Atunci, Așa că, sprijinindu-se pe fișa lecției. Câțiva își prezintă rezumatul clasei.' },
+      { etapa: 'Verificarea temei', timp: '5 min', activitate: pasi(
+        'Doi elevi spun rezumatul zilei lor; clasa verifică regulile cu lista din caiet.') },
+      { etapa: 'Rezumatul fragmentului din „Oracolul”', timp: '13 min', activitate: pasi(
+        'Aplicații, ex. 2, în perechi: recitesc fragmentul cu oracolul de la p. 63 și îl rezumă oral pe rând; ascultătorul evaluează pe grila Da/Nu.',
+        'Doi elevi rezumă în fața clasei; le dau feedback pe fiecare criteriu.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '12 min', activitate: pasi(
+        'Pagina 1: textul „Fluierul” (scris pentru fișă) și ex. 2 (schema Cine, Scop, Dar, Atunci, Așa că), individual, 8 minute.',
+        'Verificare, 4 minute; arăt cum schema devine un rezumat în cinci propoziții.') },
+      { etapa: 'Provocări: scurtmetrajul „Lou”', timp: '17 min', activitate: pasi(
+        'Urmărim scurtmetrajul (circa 7 minute), cu fișa lecției în față.',
+        'Un minut de gândire după schemă; câțiva elevi prezintă rezumatul oral; clasa verifică regulile.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: fișa de exerciții, pagina 2 (schema pentru „Capra cu trei iezi” și rezumatul „Fluierului”, pregătit pentru a fi spus).') },
     ],
-    evaluare: 'Interevaluare pe grila de la p. 63; observarea sistematică a rezumatelor orale.',
+    evaluare: 'Interevaluare pe grila de la p. 63; observarea rezumatelor orale; fișa de exerciții, ex. 2.',
   },
   'lectia-12': {
     titlu: 'Verbul (actualizare), tipuri și categorii gramaticale',
@@ -203,16 +316,27 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Diferențiază verbele predicative de verbele auxiliare, recapitulare din clasa a V-a.'],
-    resurse: ['Manual Art 6, pp. 64-65', 'Schema „Verbul. Felul verbelor. Indicativul” (/materiale/clasa-6/unitatea-2/lectia-12/schema.svg)', 'Cretă colorată'],
+    resurse: ['Manual Art 6, pp. 64-65', fisa(12), 'Schema „Verbul. Felul verbelor. Indicativul” (/materiale/clasa-6/unitatea-2/lectia-12/schema.svg)', 'Cretă colorată'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '6 min', activitate: 'Jocul „Graffiti”: toți elevii scriu în același timp pe tablă, cu cretă colorată, cuvinte care arată ce face Petruța în Oracolul.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că reluăm verbul și învățăm să deosebim verbele predicative de cele auxiliare.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Stabilim ce parte de vorbire sunt cuvintele de pe tablă și reamintim definiția verbului.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Citim „Rețeta pentru note mari” de la p. 64 și găsim verbele, apoi auxiliarele și modurile și timpurile pe care le formează. Cu ajutorul schemei explic verbele predicative și nepredicative, auxiliarele a avea, a vrea, a fi, și căutăm în rețetă locurile unde aceleași verbe sunt predicative.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Elevii precizează modurile verbelor din rețetă și aleg formele corecte de la „Normă și abatere”: aranjează, creează, scrii, copiez.' },
+      { etapa: 'Graffiti', timp: '6 min', activitate: pasi(
+        '„Pentru început”, p. 64, ex. 1: toți elevii scriu în același timp pe tablă cuvinte care arată ce face Petruța; păstrez pe tablă doar verbele.',
+        'Ex. 2: ce parte de vorbire sunt? Scriu definiția verbului.') },
+      { etapa: 'Rețeta pentru note mari', timp: '10 min', activitate: pasi(
+        'Explorare, ex. 1-4: un elev citește rețeta; găsim verbele și funcția lor, auxiliarele și timpurile pe care le formează, apoi locurile unde aceleași verbe sunt predicative.') },
+      { etapa: 'Notițe: felul verbelor', timp: '5 min', activitate: pasi(
+        'În caiete, după Repere și schema lecției: verbe predicative și nepredicative; auxiliarele a avea, a vrea, a fi, cu exemple; funcția sintactică.') },
+      { etapa: 'Modurile și prezentul', timp: '8 min', activitate: pasi(
+        'Explorare (p. 64 jos), ex. 1-3: modurile verbelor din rețetă, timpul celor la indicativ, desinențele și sunetele de prezent (aflăm, ascultați, aud...).',
+        'Notăm Reperele despre mod, indicativ și prezent.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '14 min', activitate: pasi(
+        'Pagina 1: scrisoarea lui Ștefan (scrisă pentru fișă), ex. 2 (predicativ sau auxiliar?) și ex. 3 (modul și timpul), individual, 10 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Normă și abatere', timp: '4 min', activitate: pasi(
+        'Explorare, p. 65, ex. 4: formele pe care „vrăjitoarea” le face să dispară; le explicăm cu DOOM-ul la îndemână.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: Aplicații, ex. 1-3 (p. 67); fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; aprecieri.',
+    evaluare: 'Observarea sistematică; fișa de exerciții, ex. 2-3.',
   },
   'lectia-13': {
     titlu: 'Verbul (actualizare), flexiunea verbală',
@@ -220,16 +344,27 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Recunoaște formele modului indicativ, timpul trecut (imperfect, perfect compus, perfect simplu, mai-mult-ca-perfect).'],
-    resurse: ['Manual Art 6, pp. 65-67', 'Fișa lecției (/materiale/clasa-6/unitatea-2/lectia-13/fisa.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 65-67', fisa(13), 'Fișa lecției (/materiale/clasa-6/unitatea-2/lectia-13/fisa.pdf)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Scriu pe tablă patru verbe la trecut, schimbau, au alergat, fugiră, preparase, și îi întreb ce diferență de sens simt între ele.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că reluăm modurile și timpurile verbului, cu accent pe cele patru timpuri trecute ale indicativului.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reamintim ce este modul, indicativul și prezentul, cu desinențele și sunetele care arată timpul.' },
-      { etapa: 'Dirijarea învățării', timp: '23 min', activitate: 'Pe tabelul de la p. 66 explic imperfectul, perfectul compus, perfectul simplu și mai-mult-ca-perfectul, cu greșelile frecvente, alergasei în loc de alergaseși, vorbiseți în loc de vorbiserăți. Trecem prin cele trei forme de viitor, prin imperativul afirmativ și negativ și prin infinitiv și participiu.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Elevii rezolvă fișa lecției, apoi, în grupe de patru, jocul „Trifoiul norocos” de la p. 67, cu verbele de așezat pe frunza timpului potrivit.' },
+      { etapa: 'Verificarea temei', timp: '4 min', activitate: pasi(
+        'Aplicații, ex. 2-3: citim formele corecte și enunțurile construite cu cealaltă formă.') },
+      { etapa: 'Cele patru trecuturi', timp: '12 min', activitate: pasi(
+        'Explorare, p. 65, ex. 5-7: grupăm verbele în cutiile timpurilor, alcătuirea perfectului compus, desinențele și sunetele de timp.',
+        'Notăm tabelul de la p. 66 (imperfect, perfect compus, perfect simplu, mai-mult-ca-perfect), cu greșelile frecvente la persoana a II-a singular și la plural.') },
+      { etapa: 'Normă și abatere', timp: '4 min', activitate: pasi(
+        'Ex. 8: enunțurile corecte și greșelile din celelalte, explicate.') },
+      { etapa: 'Viitorul și imperativul', timp: '10 min', activitate: pasi(
+        'Ex. 9-12: viitorul de limbă scrisă și de limbă vorbită, viitorul popular, viitorul anterior, viitorul în trecut; notăm Reperele.',
+        'Ex. 13-14: imperativul din rețetă și imperativul negativ; infinitivul și participiul.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '12 min', activitate: pasi(
+        'Pagina 1: ex. 1 (care trecut?) și ex. 2 (corectează), individual, 8 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Trifoiul norocos', timp: '5 min', activitate: pasi(
+        'Aplicații, ex. 4, în grupe de patru: verbele pe frunzele timpurilor; câștigă grupa care termină prima corect.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: Aplicații, ex. 5-10; „Provocări” (reporterul de la emisiunea de cultivare a limbii); fișa lecției; fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; fișa lecției. Temă de portofoliu: schema cu timpurile indicativului.',
+    evaluare: 'Observarea jocului; fișa lecției; fișa de exerciții, ex. 1-2.',
   },
   'lectia-14': {
     titlu: 'Modul conjunctiv',
@@ -237,16 +372,27 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Recunoaște modul conjunctiv și îl folosește pentru a exprima acțiuni posibile, realizabile.'],
-    resurse: ['Manual Art 6, pp. 68-69', 'Schema „Modul conjunctiv” (/materiale/clasa-6/unitatea-2/lectia-14/schema.svg)', 'Bilețele și un panou'],
+    resurse: ['Manual Art 6, pp. 68-69', fisa(14), 'Schema „Modul conjunctiv” (/materiale/clasa-6/unitatea-2/lectia-14/schema.svg)', 'Bilețele și un panou'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Jocul „Toamna, cu prietenii”: fiecare elev continuă pe un bilețel enunțul „Într-o zi ploioasă de toamnă, împreună cu prietenii mei pot să…” și îl prinde pe panou.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că învățăm un mod nou, conjunctivul, care arată acțiuni posibile.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Pe textul despre fotbal de la p. 68 stabilim care acțiuni sunt sigure și care sunt posibile, amintind indicativul și imperativul.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Cu ajutorul schemei explic conjunctivul și marca lui, să. Conjugăm la prezent și observăm persoana a III-a, să cânte, să meargă, apoi perfectul, să fi cântat, la fel la toate persoanele. Discutăm forma negativă, locul lui cam, mai, tot, corect „să ne mai ajutați”, și formele fără să din vorbire, Fie ce-o fi!' },
-      { etapa: 'Obținerea performanței', timp: '13 min', activitate: 'În perechi, jocul „Umbreluța”: elevii grupează enunțurile de la p. 69 după timpul conjunctivului, apoi analizează verbele la conjunctiv din fragmentul de Cleopatra Lorințiu.' },
+      { etapa: 'Toamna, cu prietenii', timp: '5 min', activitate: pasi(
+        'Explorare, p. 68, ex. 1: fiecare continuă pe un bilețel „Într-o zi ploioasă de toamnă, împreună cu prietenii mei pot să...” și îl prinde pe panou; citim câteva.') },
+      { etapa: 'Ce arată conjunctivul', timp: '8 min', activitate: pasi(
+        'Ex. 2-4: textul despre fotbal – acțiuni sigure sau posibile, elementul comun al verbelor colorate, funcția lor.',
+        'Ex. 5: formele fără „să” din limba vorbită.',
+        'Notăm Reperele: acțiune posibilă, marca „să”, predicat verbal.') },
+      { etapa: 'Timpurile conjunctivului', timp: '12 min', activitate: pasi(
+        'Explorare, ex. 1-3: când se desfășoară acțiunea; conjugarea la prezent (culorile desinențelor și ale sunetelor de conjunctiv, persoana a III-a); perfectul, la fel la toate persoanele.',
+        'Ex. 4-5: forma negativă; locul lui cam, mai, tot.',
+        'În caiete, după schema lecției: prezentul și perfectul, alcătuirea lor, forma negativă, topica.') },
+      { etapa: 'Umbreluța', timp: '6 min', activitate: pasi(
+        'Aplicații, ex. 1, în perechi: grupează enunțurile după timpul conjunctivului; verificăm frontal.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '14 min', activitate: pasi(
+        'Pagina 1: ex. 1 (prezent sau perfect?) și ex. 2 (conjugarea verbelor „a scrie”, „a lucra”, „a vedea”), individual, 10 minute.',
+        'Verificare, 4 minute; atenție la persoana a III-a.') },
+      { etapa: 'Temă', timp: '5 min', activitate: pasi(
+        'Tema: Aplicații, ex. 2-3 (topica și analiza verbelor din fragmentul de Cleopatra Lorințiu, după model); fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; aprecieri.',
+    evaluare: 'Observarea lucrului în perechi; fișa de exerciții, ex. 1-2.',
   },
   'lectia-15': {
     titlu: 'Modul condițional-optativ',
@@ -254,16 +400,28 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Recunoaște modul condițional-optativ și îl folosește pentru a exprima acțiuni condiționate.'],
-    resurse: ['Manual Art 6, pp. 70-71', 'Schema „Modul condițional-optativ” (/materiale/clasa-6/unitatea-2/lectia-15/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 70-71', fisa(15), 'Schema „Modul condițional-optativ” (/materiale/clasa-6/unitatea-2/lectia-15/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'În perechi, elevii completează enunțurile de la p. 70: „Aș vrea să fiu o frunză, pentru că…”, „N-aș vrea să fiu un nor, pentru că…”, și citesc câteva variante.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că învățăm modul care exprimă dorințe și acțiuni ce depind de o condiție.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reamintim conjunctivul și ce arată, ca să-l deosebim de modul nou.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Cu ajutorul schemei explic condițional-optativul, prezentul, aș cânta, și perfectul, aș fi cântat, cu auxiliarele lor. Discutăm forma negativă, n-aș, formele inverse din vorbirea afectivă, Mânca-l-ar mama, și locul lui cam, mai, tot, corect „ar mai sări”, nu „mai ar sări”.' },
-      { etapa: 'Obținerea performanței', timp: '13 min', activitate: 'Elevii clasifică verbele de la p. 71 după timp, apoi încep, în grupe de patru, „Cărticica ortogramelor” cu perechi precum c-ai și cai, n-aș și naș, s-ar și sar, v-ar și var.' },
+      { etapa: 'Frunza și norul', timp: '7 min', activitate: pasi(
+        'Explorare, p. 70, ex. 1-2, în perechi: completează „Aș vrea / N-aș vrea să fiu o frunză / un nor, pentru că...”, dau un titlu textului; un elev îl prezintă.',
+        'Ex. 3-4: ce arată „aș vrea”? Ce arată verbele din enunțul cu jocul Dixit?') },
+      { etapa: 'Timpurile', timp: '12 min', activitate: pasi(
+        'Explorare, ex. 1-3: când se desfășoară acțiunea; tabelele A și B – auxiliarele a avea și a fi, infinitivul și participiul.',
+        'Ex. 4-5: forma negativă și funcția sintactică.',
+        'În caiete, după Repere și schema lecției: definiția, prezentul și perfectul, forma negativă.') },
+      { etapa: 'Limbă vorbită și normă', timp: '6 min', activitate: pasi(
+        'Ex. 6: formele inverse din vorbirea afectivă; ex. 7: corectăm topica lui mai, cam, tot; notăm regula.') },
+      { etapa: 'Aplicații, ex. 1', timp: '4 min', activitate: pasi(
+        'În perechi: clasificăm verbele după timp; verificăm frontal.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '14 min', activitate: pasi(
+        'Pagina 1: ex. 1 (timp și formă) și ex. 2 (conjugarea verbului „a învăța”), individual, 10 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Cărticica ortogramelor (anunțare)', timp: '4 min', activitate: pasi(
+        '„Provocări”: formez grupele de patru; fiecare elev alege două perechi de ortograme (c-ai/cai, n-aș/naș, s-ar/sar, v-ar/var...) pentru pagina lui; termen: o săptămână.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: Aplicații, ex. 2-3 (modurile din fragmentul „Oracolului”, analiza verbelor din textul Laurei Grünberg); fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; produsul cu ortograme.',
+    evaluare: 'Observarea sistematică; fișa de exerciții, ex. 1-2; cărticica ortogramelor, la portofoliu.',
   },
   'lectia-16': {
     titlu: 'Posibilități combinatorii ale verbului. Predicatul nominal',
@@ -271,16 +429,29 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Recunoaște verbul copulativ a fi și identifică numele predicativ, în structura predicatului nominal.'],
-    resurse: ['Manual Art 6, pp. 72-73', 'Schema „Verbul copulativ a fi. Predicatul nominal” (/materiale/clasa-6/unitatea-2/lectia-16/schema.svg)', 'Un săculeț cu un obiect ascuns'],
+    resurse: ['Manual Art 6, pp. 72-73', fisa(16), 'Schema „Verbul copulativ a fi. Predicatul nominal” (/materiale/clasa-6/unitatea-2/lectia-16/schema.svg)', 'Un săculeț cu un obiect ascuns'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '6 min', activitate: 'Jocul „Obiectul misterios”: un elev pipăie obiectul din săculeț și răspunde la întrebări de tipul „Este ușor? Este rece?”, iar colegii au trei încercări să-l ghicească.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că învățăm un predicat nou, predicatul nominal, format cu verbul a fi.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reamintim predicatul verbal și diferența dintre verbele predicative și cele auxiliare.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Pornind de la „Dan este elev.” și „El este inteligent.”, verificăm dacă putem înlătura cuvântul de după a fi. Cu ajutorul schemei definesc verbul copulativ, numele predicativ, simplu sau multiplu, exprimat prin substantiv sau adjectiv, și acordul lui cu subiectul. Deosebim cele trei valori ale lui a fi: copulativ, predicativ, auxiliar.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Elevii identifică predicatele nominale de la p. 73 și completează grila cu inițialele numelor predicative, apoi formulează o definiție amuzantă a prieteniei, cu predicat nominal.' },
+      { etapa: 'Obiectul misterios', timp: '6 min', activitate: pasi(
+        'Explorare, p. 72, ex. 1: un elev pipăie obiectul din săculeț și răspunde la „Este ușor? Este rece?”; clasa are trei încercări. Scriu pe tablă două răspunsuri ale lui („Este moale.”).') },
+      { etapa: 'Verbul copulativ', timp: '7 min', activitate: pasi(
+        'Ex. 2-4: „Dan este elev.”, „El este inteligent.” – putem scoate cuvântul de după „a fi”? E predicativ sau nu?',
+        'Notăm Reperele: verbul copulativ.') },
+      { etapa: 'Predicatul nominal', timp: '10 min', activitate: pasi(
+        'Explorare, ex. 1-4: predicatele din enunțuri, modul și timpul lui „a fi”, părțile de vorbire cerute, cu câte cuvinte se grupează.',
+        'În caiete, după schema lecției: predicat nominal = verb copulativ + nume predicativ; numele predicativ simplu și multiplu, prin substantiv sau adjectiv.') },
+      { etapa: 'Acordul și cele trei valori ale lui „a fi”', timp: '6 min', activitate: pasi(
+        'Explorare, p. 73, ex. 1-2: cui se subordonează numele predicativ; felul lui „a fi”.',
+        'Notăm: relația ternară, acordul cu subiectul, „a fi” copulativ, predicativ, auxiliar.') },
+      { etapa: 'Aplicații, ex. 1-2', timp: '5 min', activitate: pasi(
+        'Predicatele nominale din enunțuri și grila cu inițialele numelor predicative; cine descoperă primul cuvântul?') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '12 min', activitate: pasi(
+        'Pagina 1: ex. 1 (ce fel de „a fi”?) și ex. 2 (numele predicativ), individual, 8 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Provocări și temă', timp: '4 min', activitate: pasi(
+        'Doi-trei elevi spun o definiție amuzantă a prieteniei, cu predicat nominal.',
+        'Tema: Aplicații, ex. 3-5; fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; enunțurile construite cu predicat nominal.',
+    evaluare: 'Observarea sistematică; definițiile cu predicat nominal; fișa de exerciții, ex. 1-2.',
   },
   'lectia-17': {
     titlu: 'Subiectul',
@@ -288,16 +459,28 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Diferențiază subiectul exprimat de subiectul neexprimat și recunoaște subiectul simplu și multiplu.'],
-    resurse: ['Manual Art 6, pp. 74-75', 'Schema „Subiectul” (/materiale/clasa-6/unitatea-2/lectia-17/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 74-75', fisa(17), 'Schema „Subiectul” (/materiale/clasa-6/unitatea-2/lectia-17/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '6 min', activitate: 'Jocul de la p. 74: șase grupe, în patru minute, formează cât mai multe propoziții care răspund la „Cine aleargă?” sau „Cine este blând?”.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că studiem subiectul, felurile lui și acordul cu predicatul.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '4 min', activitate: 'Stabilim ce parte de propoziție sunt „aleargă” și „este blând”, predicat verbal și predicat nominal.' },
-      { etapa: 'Dirijarea învățării', timp: '23 min', activitate: 'Cu ajutorul schemei explic subiectul simplu și multiplu, exprimat prin substantiv sau pronume, apoi subiectul neexprimat, subînțeles sau inclus, și propozițiile fără subiect, Burnițează. Corectăm „Noi învățăm astăzi subiectul.” și discutăm când e firesc pronumele, pentru insistență sau opoziție. Încheiem cu acordul predicatului și prioritatea persoanei I.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Elevii rezolvă aplicațiile de la p. 75: subiectele simple și multiple din textul despre Mihai și felul subiectelor neexprimate.' },
+      { etapa: 'Joc: Cine aleargă? Cine este blând?', timp: '6 min', activitate: pasi(
+        'Explorare, p. 74, ex. 1: șase grupe, patru minute, cât mai multe propoziții pentru fișa a sau b; numărăm propozițiile corecte.') },
+      { etapa: 'Subiectul exprimat', timp: '8 min', activitate: pasi(
+        'Ex. 2-5: ce sunt „aleargă” și „este blând”; ce sunt „copilul” și „pisoiul”; subiectul simplu și multiplu; prin ce părți de vorbire se exprimă.',
+        'Le atrag atenția: întrebarea se pune predicatului. Notăm definiția și felurile, după schema lecției.') },
+      { etapa: 'Subiectul neexprimat', timp: '8 min', activitate: pasi(
+        'Explorare, ex. 1-5: propozițiile fără subiect exprimat, de ce lipsește, autorul acțiunii din „alergăm”, desinența care îl arată, propozițiile despre vreme.',
+        'Ex. 6: greșeala din „Noi învățăm astăzi subiectul.”; notăm subiectul subînțeles, inclus, propozițiile fără subiect și când e firesc pronumele.') },
+      { etapa: 'Acordul predicatului cu subiectul', timp: '5 min', activitate: pasi(
+        'P. 75, ex. 1-2: acordul în persoană și număr; prioritatea persoanelor la subiectul multiplu; notăm Reperele.') },
+      { etapa: 'Aplicații, ex. 1', timp: '4 min', activitate: pasi(
+        'Frontal: subiectele simple și multiple din textul despre Mihai și prin ce se exprimă.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '12 min', activitate: pasi(
+        'Pagina 1: ex. 1 (felul subiectului) și ex. 2 (subînțeles sau inclus?), individual, 8 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Temă', timp: '7 min', activitate: pasi(
+        'Aplicații, ex. 2, frontal, pe primul enunț, ca model.',
+        'Tema: Aplicații, ex. 2-3; „Portofoliu” (car, minte, poartă, ca subiect și ca predicat); fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; enunțurile cu subiecte și predicate date; aprecieri.',
+    evaluare: 'Observarea jocului; fișa de exerciții, ex. 1-2.',
   },
   'lectia-18': {
     titlu: 'Complementul',
@@ -305,16 +488,27 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Identifică complementul ca parte de propoziție care determină verbul și arată obiectul acțiunii.'],
-    resurse: ['Manual Art 6, pp. 76-77', 'Schema „Complementul. Posibilitățile combinatorii ale verbului” (/materiale/clasa-6/unitatea-2/lectia-18/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 76-77', fisa(18), 'Schema „Complementul. Posibilitățile combinatorii ale verbului” (/materiale/clasa-6/unitatea-2/lectia-18/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Citim enunțurile de sub desenul de la p. 76 și întrebările lor: ce face Maria? pe cine strigă Anca? cui îi dă Dinu un sendviș?' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că învățăm complementul, partea secundară care completează verbul.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reamintim părțile principale de propoziție și ce înseamnă o parte secundară.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Cu ajutorul schemei definesc complementul, cu întrebările lui, pe cine? ce? cui? la cine? după cine? pentru ce?, exprimat prin substantiv sau pronume și subordonat verbului. Punem întrebări pentru părțile de propoziție nemarcate de pe desen și observăm prepozițiile care leagă unele complemente de verb.' },
-      { etapa: 'Obținerea performanței', timp: '13 min', activitate: 'Elevii subliniază complementele din textul despre expoziția de desene de la p. 77 și notează întrebarea la care răspunde fiecare.' },
+      { etapa: 'Captarea atenției', timp: '5 min', activitate: pasi(
+        'Enunțuri spontane: pe cine ați întâlnit azi în drum spre școală? Cui ați vrea să faceți un cadou? Ce ați citit ieri? Scriu trei răspunsuri pe tablă.') },
+      { etapa: 'Desenul de la p. 76', timp: '10 min', activitate: pasi(
+        'Explorare, ex. 1: citim enunțurile și întrebările de sub desen; care arată împrejurări? Elevii notează întrebările în caiet.',
+        'Ex. 2-3: întrebări pentru părțile nemarcate; prin ce se exprimă părțile secundare.') },
+      { etapa: 'Notițe: complementul', timp: '6 min', activitate: pasi(
+        'În caiete, după Repere și schema lecției: complementul determină verbul; întrebările (pe cine? ce? cui? la cine? la ce? despre ce? după cine?); exprimat prin substantiv sau pronume, cu sau fără prepoziție.',
+        'Revenim la enunțurile de pe tablă și subliniem complementele.') },
+      { etapa: 'Posibilitățile combinatorii', timp: '7 min', activitate: pasi(
+        'P. 77, Explorare, ex. 1-2: felul predicatelor și al subiectelor, apoi complementele din textul despre clopoțel; notăm verbul ca centru (Repere, p. 77).') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '12 min', activitate: pasi(
+        'Pagina 1: ex. 1 (găsește complementul) și ex. 2 (completează cu un complement), individual, 8 minute.',
+        'Verificare, 4 minute; la fiecare complement, cer întrebarea.') },
+      { etapa: 'Aplicații, ex. 1 (începutul)', timp: '6 min', activitate: pasi(
+        'Primele două enunțuri din textul despre expoziția de desene, frontal: complementele și întrebările lor.') },
+      { etapa: 'Temă', timp: '4 min', activitate: pasi(
+        'Tema: Aplicații, ex. 1, terminat (doar complementele); fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; aprecieri.',
+    evaluare: 'Observarea sistematică; fișa de exerciții, ex. 1-2.',
   },
   'lectia-19': {
     titlu: 'Circumstanțialul. Prepoziția',
@@ -322,16 +516,27 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Identifică circumstanțialul ca parte de propoziție care arată împrejurările acțiunii și recunoaște rolul prepoziției.'],
-    resurse: ['Manual Art 6, pp. 76-77', 'Schema „Circumstanțialul. Prepoziția” (/materiale/clasa-6/unitatea-2/lectia-19/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 76-77', fisa(19), 'Schema „Circumstanțialul. Prepoziția” (/materiale/clasa-6/unitatea-2/lectia-19/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Pornind de la „În pauză, stăm în clasă.” și „Alex aleargă cu viteză.”, îi întreb când, unde și cum se petrec acțiunile.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că învățăm circumstanțialul, care arată împrejurările acțiunii, și prepoziția.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reamintim complementul și întrebările lui, din ora trecută.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Cu ajutorul schemei definesc circumstanțialul, cu întrebările unde? când? cum?, și îl deosebim de complement. Explic prepoziția, simplă sau compusă, cu sens sau fără sens, analizată împreună cu cuvântul pe care îl precede. Închei cu posibilitățile combinatorii ale verbului, centru care se leagă de subiect, nume predicativ, complement și circumstanțial.' },
-      { etapa: 'Obținerea performanței', timp: '13 min', activitate: 'Elevii stabilesc funcția cuvântului vacanță în cele patru enunțuri de la p. 77, completează prepozițiile potrivite, apoi completează autoevaluarea pentru lecțiile 9-14.' },
+      { etapa: 'Verificarea temei', timp: '4 min', activitate: pasi(
+        'Complementele din textul despre expoziție, citite cu întrebările lor; ce părți au rămas nesubliniate?') },
+      { etapa: 'Circumstanțialul', timp: '9 min', activitate: pasi(
+        'Revenim la desenul de la p. 76: „În pauză, stăm în clasă.”, „Alex aleargă cu viteză pe lângă bănci.” – când?, unde?, cum?, pe unde?',
+        'În caiete, după schema lecției: circumstanțialul arată împrejurările; întrebările lui; cum îl deosebim de complement (după întrebare).') },
+      { etapa: 'Prepoziția', timp: '8 min', activitate: pasi(
+        'Explorare, p. 76, ex. 1-2: prepozițiile de sub desen, simple sau compuse; înaintea cărei părți de propoziție stă „din”.',
+        'Notăm Reperele: prepoziția simplă și compusă, cu sens sau fără sens, analizată împreună cu cuvântul următor.') },
+      { etapa: 'Aplicații, ex. 1-3', timp: '9 min', activitate: pasi(
+        'Ex. 1: circumstanțialele din textul despre expoziție; ex. 2: funcția cuvântului „vacanță”; ex. 3: prepozițiile potrivite din tabloul băiatului, oral.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '12 min', activitate: pasi(
+        'Pagina 1: ex. 1 (complement sau circumstanțial?) și ex. 2 (prepozițiile), individual, 8 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Autoevaluare L9-L14', timp: '4 min', activitate: pasi(
+        'P. 77: elevii completează cele trei afirmații; notez ce trebuie reluat înainte de recapitulare.') },
+      { etapa: 'Temă', timp: '4 min', activitate: pasi(
+        'Tema: „Provocări”, p. 77 (prepozițiile folosite greșit la televizor); fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; fișa de autoevaluare pentru lecțiile 9-14.',
+    evaluare: 'Observarea sistematică; fișa de exerciții, ex. 1-2; autoevaluarea L9-L14.',
   },
   'lectia-20': {
     titlu: 'Rezumatul scris (I), identificarea secvențelor',
@@ -339,16 +544,27 @@ export default {
     tipOra: 'Redactare',
     durata: 50,
     obiective: ['Identifică secvențele unui text narativ și formulează ideile principale, în vederea redactării unui rezumat.'],
-    resurse: ['Manual Art 6, pp. 78-79', 'Fișa lecției (/materiale/clasa-6/unitatea-2/lectia-20/fisa.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 78-79', fisa(20), 'Fișa lecției (/materiale/clasa-6/unitatea-2/lectia-20/fisa.pdf)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '6 min', activitate: 'Fiecare elev scrie un text narativ de 5-6 rânduri cu cuvintele păduchi, șampon, chel, gard, prieten, în această ordine, și îl citește colegului de bancă.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că pregătim rezumatul scris al unui fragment: îl împărțim în secvențe și formulăm ideile principale.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Recitim regulile rezumatului oral de la p. 62 și ne întrebăm care se aplică și rezumatului scris.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Prezint pe scurt romanul Băiatul cu pijamale în dungi de John Boyne și citim fragmentul de la p. 78. În perechi, elevii își pun câte trei întrebări cu răspuns în text, apoi completăm fișa conținutului: cadru, personaje, conflict, acțiune, rezolvare.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Elevii rezolvă fișa lecției, apoi, în perechi, împart fragmentul în secvențe, notează cuvintele-cheie și stabilesc împreună ideile principale.' },
+      { etapa: 'Pentru început', timp: '7 min', activitate: pasi(
+        'P. 78: fiecare scrie un text de 5-6 rânduri cu păduchi, șampon, chel, gard, prieten, în această ordine, și îl citește colegului de bancă.') },
+      { etapa: 'Fragmentul din „Băiatul cu pijamale în dungi”', timp: '10 min', activitate: pasi(
+        'Prezint pe scurt romanul lui John Boyne (Bruno, fiul directorului unui lagăr nazist, și prietenul lui, Shmuel); citesc fragmentul.',
+        'Explorare, ex. 1: o asemănare și o deosebire între textele lor și fragment.') },
+      { etapa: 'Întrebări și conținut', timp: '9 min', activitate: pasi(
+        'Ex. 2, în perechi: câte trei întrebări cu răspuns în text, puse colegului.',
+        'Ex. 3: fișa conținutului (cadru, personaje, conflict, acțiune, rezolvare), completată în caiet după consultarea cu colegul.') },
+      { etapa: 'Rezumatul oral și cel scris', timp: '4 min', activitate: pasi(
+        'Ex. 4: recitim regulile de la p. 62; care se aplică și în scris? Notăm definiția rezumatului scris (Repere, p. 79).') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '12 min', activitate: pasi(
+        'Pagina 1: textul „Bicicleta roșie” (scris pentru fișă) și ex. 2 (conținutul textului), individual, 8 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Secvențele fragmentului', timp: '5 min', activitate: pasi(
+        'Aplicații, ex. 2 (p. 79), în perechi: încep împărțirea fragmentului din manual în secvențe, cu cuvintele-cheie.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: Aplicații, ex. 2, terminat (ideile principale ale fragmentului); fișa lecției; fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; fișa lecției; ideile principale stabilite în perechi.',
+    evaluare: 'Observarea lucrului în perechi; fișa lecției; fișa de exerciții, ex. 2.',
   },
   'lectia-21': {
     titlu: 'Rezumatul scris (II), redactarea rezumatului',
@@ -356,16 +572,26 @@ export default {
     tipOra: 'Redactare',
     durata: 50,
     obiective: ['Redactează un rezumat scris pornind de la ideile principale identificate.'],
-    resurse: ['Manual Art 6, p. 79, grila de evaluare', 'Fișa lecției (/materiale/clasa-6/unitatea-2/lectia-21/fisa.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, p. 79, grila de evaluare', fisa(21), 'Fișa lecției (/materiale/clasa-6/unitatea-2/lectia-21/fisa.pdf)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Comparăm cele două secvențe de rezumat de la p. 79 și îi întreb pe elevi care e corectă și ce greșeli are cealaltă.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că fiecare redactează azi rezumatul fragmentului din Băiatul cu pijamale în dungi.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reluăm ideile principale de ora trecută și eliminăm din lista de la p. 79 cuvintele care nu au ce căuta într-un rezumat, autorul, naratorul, personajul.' },
-      { etapa: 'Dirijarea învățării', timp: '8 min', activitate: 'Fixăm cele cinci reguli din Repere, p. 79, și folosirea gerunziului pentru a concentra informația, apoi elevii își pregătesc planul pe fișa lecției.' },
-      { etapa: 'Obținerea performanței', timp: '27 min', activitate: 'Elevii redactează rezumatul, apoi îl citesc colegului de bancă și se evaluează reciproc pe grila de la p. 79.' },
+      { etapa: 'Cele două rezumate', timp: '5 min', activitate: pasi(
+        'Aplicații, ex. 1: care secvență de rezumat e corectă? Două abateri din cealaltă.') },
+      { etapa: 'Ce eliminăm', timp: '5 min', activitate: pasi(
+        'Ex. 3-4: care răspunsuri la întrebările de ora trecută nu intră în rezumat; cuvintele din listă care nu au ce căuta într-un rezumat și de ce.') },
+      { etapa: 'Regulile și gerunziul', timp: '6 min', activitate: pasi(
+        'Notăm cele cinci reguli din Repere, p. 79, și rolul gerunziului.',
+        'Fișa de exerciții, ex. 2 (cu gerunziu), frontal.') },
+      { etapa: 'Corectarea unui rezumat', timp: '5 min', activitate: pasi(
+        'Fișa de exerciții, ex. 1 (corectează rezumatul), individual, apoi verificare.') },
+      { etapa: 'Redactarea', timp: '20 min', activitate: pasi(
+        'Ex. 5: fiecare redactează rezumatul fragmentului din „Băiatul cu pijamale în dungi”, pornind de la ideile principale din temă; planul pe fișa lecției.',
+        'Trec pe la bănci; ajut la persoana a III-a și la cuvintele de legătură.') },
+      { etapa: 'Interevaluarea', timp: '6 min', activitate: pasi(
+        'Elevii își citesc rezumatele colegului de bancă și se evaluează pe grila de la p. 79.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: forma finală a rezumatului; fișa de exerciții, pagina 2. Opțional, „Portofoliu”: romanul, rezumatul lui și diagrama Venn roman–film.') },
     ],
-    evaluare: 'Interevaluare pe grila de la p. 79; observarea sistematică a elevilor.',
+    evaluare: 'Interevaluare pe grila de la p. 79; fișa de exerciții, ex. 1-2.',
   },
   'lectia-22': {
     titlu: 'Recapitulare, lectură și comunicare',
@@ -373,16 +599,27 @@ export default {
     tipOra: 'Recapitulare',
     durata: 50,
     obiective: ['Recapitulează, prin exerciții aplicate, achizițiile de lectură din Unitatea II: timp, spațiu, etapele acțiunii, rezumat oral.'],
-    resurse: ['Manual Art 6, pp. 80-81', 'Quizul „Recapitulare, lectură și comunicare” (materialul de joc al lecției)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 80-81', fisa(22), 'Quizul „Recapitulare, lectură și comunicare” (materialul de joc al lecției)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '4 min', activitate: 'Îi rog pe elevi să spună pe rând câte o noțiune de lectură sau de comunicare învățată în unitate.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că recapitulăm lectura și rezumatul oral pe un text nou.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '8 min', activitate: 'Reluăm timpul desfășurării și timpul povestirii, momentele subiectului, tipurile de personaje și regulile rezumatului oral.' },
-      { etapa: 'Dirijarea învățării', timp: '18 min', activitate: 'Citim Ăsta este pentru Jamie de Truman Capote, de la p. 80, și rezolvăm ghidat cerințele de lectură de la p. 81: reperele de timp și spațiu, personajele pe categorii, naratorul, momentele subiectului, planul simplu de idei, rezumatul oral în perechi.' },
-      { etapa: 'Obținerea performanței', timp: '15 min', activitate: 'Elevii rezolvă quizul „Recapitulare, lectură și comunicare”, apoi discutăm răspunsurile greșite.' },
+      { etapa: 'Captarea atenției', timp: '3 min', activitate: pasi(
+        'Fiecare elev numește o noțiune de lectură sau de comunicare din unitate; le scriu pe tablă, într-un ciorchine.') },
+      { etapa: 'Lectura textului', timp: '9 min', activitate: pasi(
+        'P. 80: citesc proza scurtă „Ăsta este pentru Jamie” de Truman Capote; elevii urmăresc.') },
+      { etapa: 'Ex. 1-8', timp: '8 min', activitate: pasi(
+        'Frontal: momentul zilei și alt reper temporal; momentul povestirii; locul întâlnirilor; unde se joacă Jamie; cuvântul-cheie al primului paragraf; personajele pe categorii; persoana și naratorul.') },
+      { etapa: 'Ex. 9-11', timp: '8 min', activitate: pasi(
+        'Secvențele pe momentele subiectului și planul simplu de idei, în perechi; rezumatul oral spus colegului.') },
+      { etapa: 'Ex. 12-14', timp: '4 min', activitate: pasi(
+        'Trăsătura lui Teddy din replică; de ce ar fi vrut Jamie să-i dea câinele lui Teddy; relația dintre doi copii care nu se întâlnesc niciodată.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: textul „Cutia de scrisori” (scris pentru fișă) și ex. 2 (timp, spațiu, narator), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Quiz', timp: '5 min', activitate: pasi(
+        'Quizul „Recapitulare, lectură și comunicare”; notez ce trebuie reluat.') },
+      { etapa: 'Temă', timp: '2 min', activitate: pasi(
+        'Tema: fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; rezultatele la quiz.',
+    evaluare: 'Observarea sistematică; quizul; fișa de exerciții, ex. 2.',
   },
   'lectia-23': {
     titlu: 'Recapitulare, gramatică și redactare',
@@ -390,16 +627,25 @@ export default {
     tipOra: 'Recapitulare',
     durata: 50,
     obiective: ['Recapitulează, prin exerciții aplicate, achizițiile de gramatică din Unitatea II: verbul, modurile conjunctiv și condițional-optativ, predicatul nominal, subiectul, complementul, circumstanțialul.'],
-    resurse: ['Manual Art 6, pp. 80-81', 'Quizul „Recapitulare, gramatică și redactare” (materialul de joc al lecției)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 80-81', fisa(23), 'Quizul „Recapitulare, gramatică și redactare” (materialul de joc al lecției)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '4 min', activitate: 'Scriu pe tablă „Jamie ar fi vrut să-l iei tu.” și cer modul și timpul fiecărui verb.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că recapitulăm gramatica și rezumatul scris din Unitatea II.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '8 min', activitate: 'Reluăm felul verbelor, modurile și timpurile, predicatul verbal și nominal, subiectul, complementul, circumstanțialul și regulile rezumatului scris.' },
-      { etapa: 'Dirijarea învățării', timp: '16 min', activitate: 'Rezolvăm ghidat cerințele de limbă de la p. 81, pe textul lui Truman Capote: auxiliarele, analiza verbelor, predicatul nominal „parcul era proaspăt și verde”, felul subiectelor, părțile secundare din „A tras câinele spre el.”.' },
-      { etapa: 'Obținerea performanței', timp: '17 min', activitate: 'Elevii rezolvă quizul „Recapitulare, gramatică și redactare”, apoi discutăm greșelile. Ca temă, redactează rezumatul scris al textului, cerința 24.' },
+      { etapa: 'Captarea atenției', timp: '3 min', activitate: pasi(
+        'Scriu pe tablă ultima propoziție a scrisorii din textul lui Capote; cine găsește primul modul și timpul fiecărui verb?') },
+      { etapa: 'Ex. 15-18', timp: '8 min', activitate: pasi(
+        'Pe textul de la p. 80: auxiliarele din „A venit pe alee...”; rolul cuvântului colorat; analiza verbelor; un enunț cu „a plăcea” la condițional-optativ prezent.') },
+      { etapa: 'Ex. 19-23', timp: '9 min', activitate: pasi(
+        'Felul predicatului din „parcul era proaspăt și verde”; un conjunctiv prezent din ultimul paragraf; predicatul și subiectul din „Era indian, detectiv...”; funcțiile din „Femeia a ridicat privirea.”; părțile secundare din „A tras câinele spre el.”') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '14 min', activitate: pasi(
+        'Pagina 1: textul „Cutia de scrisori”, ex. 2 (verbele din text) și ex. 3 (predicat verbal sau nominal?), individual, 10 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Pregătirea rezumatului', timp: '8 min', activitate: pasi(
+        'Ex. 24: reamintim regulile rezumatului scris; fiecare își face planul pentru rezumatul textului lui Capote, pornind de la ideile de la ex. 10.') },
+      { etapa: 'Quiz', timp: '6 min', activitate: pasi(
+        'Quizul „Recapitulare, gramatică și redactare”; discutăm greșelile.') },
+      { etapa: 'Temă', timp: '2 min', activitate: pasi(
+        'Tema: ex. 24, rezumatul scris; fișa de exerciții, pagina 2. Anunț evaluarea: verbul și modurile, predicatul, subiectul, complementul, circumstanțialul, momentele subiectului, rezumatul.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; rezultatele la quiz.',
+    evaluare: 'Observarea sistematică; quizul; fișa de exerciții, ex. 2-3.',
   },
   'lectia-24': {
     titlu: 'Evaluare, probă scrisă',
@@ -409,12 +655,16 @@ export default {
     obiective: ['Verifică, printr-o probă scrisă, nivelul de achiziție a competențelor vizate în Unitatea II.'],
     resurse: ['Testul, Manual Art 6, p. 82', 'Barem de corectare din Ghidul profesorului'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '2 min', activitate: 'Le spun elevilor că proba seamănă ca structură cu cea din Unitatea I și îi liniștesc în privința timpului de lucru.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că se dă proba scrisă a Unității II, cu o parte de lectură și gramatică și un rezumat.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '3 min', activitate: 'Reamintesc structura probei, 60 de puncte la partea A, 30 la rezumat, 10 din oficiu, și cum își împart timpul.' },
-      { etapa: 'Dirijarea învățării', timp: '5 min', activitate: 'Distribui testele, citesc cerințele cu voce tare, explic punctajul și răspund la întrebările de clarificare.' },
-      { etapa: 'Obținerea performanței', timp: '35 min', activitate: 'Elevii rezolvă individual proba pe o foaie separată; supraveghez discret, gestionez timpul și strâng lucrările la final.' },
+      { etapa: 'Instructajul', timp: '5 min', activitate: pasi(
+        'Distribui testele (fragment după Mircea Sântimbreanu, „Mărinimie”) și foile de răspuns.',
+        'Citesc cerințele cu voce tare; structura: A, 60 de puncte (zece itemi a câte 6 puncte: modul și timpul, condițional-optativ, felul predicatului și al subiectului, funcții sintactice, naratorul, repere de timp și spațiu, idei principale pentru intrigă și punctul culminant, înțelegerea poantei, semnificația unei afirmații); B, 30 de puncte (rezumatul textului); 10 puncte din oficiu.',
+        'Recomand circa 25 de minute pentru A, 15 minute pentru rezumat, ultimele minute pentru recitire. Răspund doar la întrebări de înțelegere a cerințelor.') },
+      { etapa: 'Rezolvarea individuală', timp: '40 min', activitate: pasi(
+        'Elevii lucrează individual, pe foaia separată; supraveghez discret.',
+        'Anunț timpul rămas la 20 de minute și la 5 minute înainte de final.') },
+      { etapa: 'Strângerea lucrărilor', timp: '5 min', activitate: pasi(
+        'Elevii își recitesc lucrarea (persoana a III-a și timpurile din rezumat, ortografia, punctuația), apoi strâng foile.',
+        'Notez itemii care au ridicat cele mai multe întrebări, pentru corectare și pentru discuția de după.') },
     ],
     evaluare: 'Evaluare sumativă scrisă, notată după baremul din Ghidul profesorului.',
   },
