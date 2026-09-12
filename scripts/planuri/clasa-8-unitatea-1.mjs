@@ -1,12 +1,12 @@
-// Schițe de plan de lecție, model în 6 pași (momentele lecției), pentru
-// Unitatea I „Unde găsim frumusețea?", clasa a VIII-a. Conținut derivat din
-// datele existente ale lecțiilor. 50 min / lecție.
+// Planuri de lecție detaliate, Unitatea I „Unde găsim frumusețea?”, clasa a VIII-a.
+// Pași concreți pe rubricile și exercițiile din Manual Art 8, pp. 10-50, cu fișa
+// de exerciții a lecției folosită la „Obținerea performanței”. Exercițiile din
+// manual nerezolvate în clasă rămân temă. Fără răspunsuri (ghid sau fișă).
+// 50 min / lecție.
 
-const org = {
-  etapa: 'Moment organizatoric',
-  timp: '3 min',
-  activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
-}
+const pasi = (...linii) => linii.map((l) => `– ${l}`).join('\n')
+const fisa = (n) => `Fișa de exerciții (/materiale/clasa-8/unitatea-1/lectia-${n}/fisa-exercitii.pdf)`
+const fl = (n) => `Fișa lecției (/materiale/clasa-8/unitatea-1/lectia-${n}/fisa.pdf)`
 
 export default {
   'lectia-1': {
@@ -15,16 +15,28 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Citește și înțelege textul liric O, rămâi... de Mihai Eminescu, identificând tema frumuseții naturii.'],
-    resurse: ['Manual Art 8, p. 10', 'Caietele elevilor'],
+    resurse: ['Manual Art 8, p. 10', fisa(1), 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '7 min', activitate: 'Îi întreb pe elevi ce loc din natură i-a impresionat cel mai mult și ce anume îl făcea frumos.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că deschidem unitatea despre frumusețe cu poezia O, rămâi... de Mihai Eminescu și că îi identificăm tema.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '6 min', activitate: 'Reluăm ce știu din clasa a VII-a despre textul liric: eul liric, strofa, versul, deosebirea față de textul epic.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Citesc expresiv poezia, clarific arhaismele și regionalismele, apoi urmărim împreună chemarea pădurii și tema frumuseții naturii, cu exemplele de la p. 10.' },
-      { etapa: 'Obținerea performanței', timp: '10 min', activitate: 'Fiecare elev notează tema poeziei și două versuri care o susțin, apoi câțiva citesc alegerea și o argumentează.' },
+      { etapa: '„Pentru început”, ex. 1-2', timp: '5 min', activitate: pasi(
+        'Ce loc din natură le amintește elevilor de copilărie și ce îi dădea frumusețe.',
+        'Ce stări le produce tabloul „În pădure” de Nicolae Grigorescu.') },
+      { etapa: 'Autorul și poezia', timp: '3 min', activitate: pasi(
+        'Caseta despre Mihai Eminescu (p. 10); poezia a apărut în „Convorbiri literare”, în 1879.') },
+      { etapa: 'Lectura model, ex. 3', timp: '10 min', activitate: pasi(
+        'Citesc poezia de două ori; a doua oară, elevii marchează în manual unde se schimbă vocea care vorbește.') },
+      { etapa: 'Impresii după prima lectură, ex. 1-4', timp: '7 min', activitate: pasi(
+        'Starea produsă de lectură; imaginea preferată; alte poezii eminesciene; asemănarea cu tabloul.') },
+      { etapa: 'Lectura pe voci', timp: '6 min', activitate: pasi(
+        'Un elev citește monologul pădurii, altul ultimele două strofe; clasa spune ce ton se potrivește fiecărei voci.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '12 min', activitate: pasi(
+        'Pagina 1: ex. 1 (cine vorbește și ce spune) și ex. 2 (adevărat sau fals), individual, 8 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Eminescu și pădurea', timp: '4 min', activitate: pasi(
+        'Elevii amintesc alte poezii eminesciene cu codrul; notăm titlurile pe tablă, pentru ora viitoare.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: Impresii după prima lectură, ex. 3, în scris; fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; verificarea temei și a versurilor alese.',
+    evaluare: 'Observarea sistematică a elevilor; fișa de exerciții, ex. 1-2.',
   },
   'lectia-2': {
     titlu: 'Structura poeziei și caracteristicile textului liric. Versificația',
@@ -32,16 +44,29 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Identifică structura compozițională, vocile ficționale și elementele de versificație ale textului liric.'],
-    resurse: ['Manual Art 8, p. 11', 'Fișa lecției (/materiale/clasa-8/unitatea-1/lectia-2/fisa.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 8, p. 11', fisa(2), fl(2), 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le cer elevilor să bată din palme ritmul unui vers din poezie și îi întreb de ce sună a cântec.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că azi analizăm cum e construită poezia: strofele, vocile care vorbesc și elementele de versificație.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '6 min', activitate: 'Reluăm noțiunile de strofă, vers, rimă și măsură, învățate în clasele anterioare.' },
-      { etapa: 'Dirijarea învățării', timp: '24 min', activitate: 'Cu ajutorul fișei lecției stabilim structura compozițională, identificăm vocile ficționale și analizăm rima, măsura și ritmul, cu exemplele de la p. 11.' },
-      { etapa: 'Obținerea performanței', timp: '10 min', activitate: 'Fiecare elev completează o fișă de versificație pentru o strofă la alegere: măsură, rimă, ritm, și o verificăm împreună.' },
+      { etapa: 'Vocile, Explorare, ex. 1-3', timp: '7 min', activitate: pasi(
+        'Vocile ficționale și fragmentele poeziei; cuvintele-cheie; cui îi e adresat monologul pădurii, rolul interjecției și al imperativului.') },
+      { etapa: 'Momentul rememorat, ex. 4-6', timp: '6 min', activitate: pasi(
+        'Ce moment din copilărie rememorează adultul; cuvintele care arată că reflecțiile vin mai târziu; schimbarea spațiului în final.') },
+      { etapa: 'Textul liric, ex. 7', timp: '4 min', activitate: pasi(
+        'Sentimentele din fiecare parte și mărcile subiectivității.') },
+      { etapa: 'Versificația, ex. 8-9', timp: '4 min', activitate: pasi(
+        'Tipul de strofă, măsura ultimelor patru versuri, rima.') },
+      { etapa: 'Notițe: textul liric și versificația', timp: '7 min', activitate: pasi(
+        'În caiete, după Repere (p. 11): textul liric, vocea ficțională, mărcile subiectivității, versul, strofa, măsura, tipurile de rimă.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1-2 (patru strofe, versificația), individual, 7 minute.',
+        'Verificare, 4 minute; numărăm silabele împreună la tablă.') },
+      { etapa: 'Pădurea și apa, Aplicații, ex. 1-2', timp: '5 min', activitate: pasi(
+        'Însușirea comună a pădurii și formele apei în strofele din „Din străinătate” și „Floare albastră”.') },
+      { etapa: 'Rima și măsura, ex. 3-4', timp: '3 min', activitate: pasi(
+        'Tipul de rimă din cele trei strofe; măsura, frontal.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: fișa lecției; fișa de exerciții, pagina 2; opțional, Provocări.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; verificarea fișei de versificație.',
+    evaluare: 'Observarea sistematică a elevilor; fișa de exerciții, ex. 1-2.',
   },
   'lectia-3': {
     titlu: 'Limbajul figurat. Aliterația',
@@ -49,16 +74,29 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Recunoaște figurile de stil din poezie și analizează rolul aliterației.'],
-    resurse: ['Manual Art 8, p. 12', 'Fișa lecției (/materiale/clasa-8/unitatea-1/lectia-3/fisa.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 8, p. 12', fisa(3), fl(3), 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le rostesc rar un vers cu sunete repetate și îi întreb pe elevi ce aud, dincolo de înțelesul cuvintelor.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că azi recunoaștem figurile de stil din poezie și învățăm ce este aliterația și ce efect are.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '6 min', activitate: 'Recapitulăm epitetul, metafora, comparația și personificarea, figuri cunoscute din clasele anterioare.' },
-      { etapa: 'Dirijarea învățării', timp: '24 min', activitate: 'Cu ajutorul fișei lecției definim aliterația, o căutăm în text și discutăm ce sugerează sonoritatea ei, alături de celelalte figuri de stil, cu exemplele de la p. 12.' },
-      { etapa: 'Obținerea performanței', timp: '10 min', activitate: 'Fiecare elev identifică două figuri de stil în poezie, una dintre ele aliterație, și explică în scris efectul fiecăreia.' },
+      { etapa: 'Ghilimelele, Explorare, ex. 1', timp: '3 min', activitate: pasi(
+        'Rolul ghilimelelor și stările din chemarea pădurii personificate.') },
+      { etapa: 'Epitetele, ex. 2', timp: '5 min', activitate: pasi(
+        'Epitetele despre copil și pădure, tipul lor și ce sugerează.') },
+      { etapa: 'Timpul în comparații, ex. 3', timp: '4 min', activitate: pasi(
+        'Cele trei cuvinte din câmpul lexical al timpului și semnificația comparațiilor.') },
+      { etapa: 'Metafora, ex. 4', timp: '3 min', activitate: pasi(
+        'Metafora din versurile despre luna plină și ce sugerează.') },
+      { etapa: 'Repetiția și aliterația, ex. 5-9', timp: '8 min', activitate: pasi(
+        'Repetițiile din text; consoana repetată în versul despre valuri și poziția ei; exemplele de la ex. 8; consoanele din rimă.') },
+      { etapa: 'Notițe: figurile de stil', timp: '7 min', activitate: pasi(
+        'În caiete, după Repere (p. 12): personificarea, epitetul, comparația, metafora (explicită și implicită), repetiția, aliterația.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (figura de stil) și ex. 2 (aliterația), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Aliterațiile, Aplicații', timp: '6 min', activitate: pasi(
+        'Versurile a-c (Alecsandri, Eminescu, Nichita Stănescu): consoanele repetate și ce sugerează.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: fișa lecției; fișa de exerciții, pagina 2; opțional, Provocări (repetiția într-o poezie eminesciană).') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; verificarea comentariului la figurile de stil.',
+    evaluare: 'Observarea sistematică a elevilor; fișa de exerciții, ex. 1-2.',
   },
   'lectia-4': {
     titlu: 'Semnificațiile textului',
@@ -66,16 +104,29 @@ export default {
     tipOra: 'Predare, interpretare',
     durata: 50,
     obiective: ['Formulează opinii personale despre semnificațiile poeziei O, rămâi....'],
-    resurse: ['Manual Art 8, p. 13', 'Fișa lecției (/materiale/clasa-8/unitatea-1/lectia-4/fisa.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 8, p. 13', fisa(4), fl(4), 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Recitesc finalul poeziei și îi întreb pe elevi de ce copilul nu mai poate rămâne în lumea pădurii.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că azi discutăm ce ne transmite poezia dincolo de peisaj și ne formulăm o părere proprie.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '6 min', activitate: 'Reluăm tema, structura și figurile de stil identificate în lecțiile anterioare, ca bază pentru interpretare.' },
-      { etapa: 'Dirijarea învățării', timp: '25 min', activitate: 'Cu ajutorul fișei lecției ghidez discuția despre pierderea inocenței și despărțirea de copilărie, cerând argumente din text, cu exemplele de la p. 13.' },
-      { etapa: 'Obținerea performanței', timp: '9 min', activitate: 'Fiecare elev scrie o opinie de câteva rânduri despre mesajul poeziei, sprijinită pe un vers anume.' },
+      { etapa: 'Pădurea copilăriei, Interpretare, ex. 1-3', timp: '6 min', activitate: pasi(
+        'Ce reprezintă pădurea pentru copil; elementele vegetale și animale; planul terestru și cel astral.') },
+      { etapa: 'Creșterea, ex. 4', timp: '3 min', activitate: pasi(
+        'Cum diferă creșterea pădurii de creșterea copilului.') },
+      { etapa: 'Darurile pădurii, ex. 5, în perechi', timp: '5 min', activitate: pasi(
+        'Ce crede pădurea că numai ea îi poate dărui copilului și ce semnifică.') },
+      { etapa: 'Portretul copilului, ex. 6-7', timp: '4 min', activitate: pasi(
+        'Asemănarea cu un prinț; taina dezvăluită în strofa a treia.') },
+      { etapa: 'Ghid de învățare, ex. 8', timp: '9 min', activitate: pasi(
+        'Grupe de 4-5 urmăresc animația din varianta digitală și răspund la cele trei cerințe; raportorii prezintă.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (darurile pădurii) și ex. 2 (copilul și adultul), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Chemarea, Narcis, văpaia, ex. 9-11', timp: '5 min', activitate: pasi(
+        'Cum e chemarea pădurii; copilul ca Narcis; ce se întâmplă cu timpul când luna se oglindește în apă.') },
+      { etapa: 'Despărțirea, ex. 12-15', timp: '4 min', activitate: pasi(
+        'De ce pleacă adolescentul; sensul verbului „a șuiera”; câmpul; de ce adultul nu mai poate înțelege pădurea.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: fișa lecției; Portofoliu (dialogul peste ani, minimum 100 de cuvinte); fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; verificarea opiniei scrise și a argumentului.',
+    evaluare: 'Aprecieri pe raportările grupelor; fișa de exerciții, ex. 1-2.',
   },
   'lectia-5': {
     titlu: 'Textul liric. Izvorul nopții de Lucian Blaga. Structura textului poetic',
@@ -83,16 +134,29 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Citește textul Izvorul nopții de Lucian Blaga și identifică vocea ficțională, structura și cuvintele-cheie ale poeziei.'],
-    resurse: ['Manual Art 8, pp. 14-15', 'Caietele elevilor'],
+    resurse: ['Manual Art 8, pp. 14-15', fisa(5), 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '6 min', activitate: 'Îi întreb pe elevi cu ce ar compara ochii cuiva drag și notez pe tablă cele mai neașteptate răspunsuri.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că citim Izvorul nopții de Lucian Blaga și îi identificăm vocea, structura și cuvintele-cheie.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '6 min', activitate: 'Reluăm ce am stabilit la Eminescu despre vocea ficțională și structura compozițională.' },
-      { etapa: 'Dirijarea învățării', timp: '23 min', activitate: 'Citesc poezia, clarific imaginile mai greu de pătruns, apoi identificăm împreună vocea ficțională, structura și cuvintele-cheie, și observăm versul liber, cu exemplele de la pp. 14-15.' },
-      { etapa: 'Obținerea performanței', timp: '10 min', activitate: 'Fiecare elev notează trei cuvinte-cheie ale poeziei și explică pe scurt de ce le-a ales.' },
+      { etapa: '„Pentru început”, ex. 1-2', timp: '4 min', activitate: pasi(
+        'Ține frumusețea umană doar de aspectul fizic? Ce atrage în portretul lui Nicolae Tonitza.') },
+      { etapa: 'Autorul și lectura, ex. 3', timp: '5 min', activitate: pasi(
+        'Caseta despre Lucian Blaga (p. 14); citesc poezia de două ori.') },
+      { etapa: 'Impresii după prima lectură, ex. 1-3', timp: '4 min', activitate: pasi(
+        'Ce le-a plăcut, la ce s-au gândit, ce i-a surprins.') },
+      { etapa: 'Muzică, dans, pictură, ex. 4-7', timp: '5 min', activitate: pasi(
+        'Piesa lui Florin Bogardo (varianta digitală) și schimbările din text; dansul potrivit; legătura cu tabloul; citatele lui Paul Valéry și Alexandru Macedonski.') },
+      { etapa: 'Structura, Explorare, ex. 1-6', timp: '8 min', activitate: pasi(
+        'Substantivele de adresare și locul lor; adjectivele care însoțesc cuvântul „ochi”; sensul adresării finale; frumusețe fizică sau mister; de ce un substantiv în primul vers.') },
+      { etapa: 'Investigația, ex. 7', timp: '8 min', activitate: pasi(
+        'Trei grupe (artiștii, gânditorii, detectivii) răspund pe poster la întrebările lor; un reprezentant prezintă; sintetizez.') },
+      { etapa: 'Notițe: structura poeziei moderne', timp: '4 min', activitate: pasi(
+        'În caiete, după Repere (p. 15): cuvintele-cheie, vocea ficțională și contextul, versurile albe și libere.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '9 min', activitate: pasi(
+        'Pagina 1: ex. 1 (ce fel de vers?) și ex. 2 (câmpul lexical al întunericului), individual, 6 minute.',
+        'Verificare, 3 minute.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: Aplicații, ex. 1-4; fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; verificarea cuvintelor-cheie alese.',
+    evaluare: 'Aprecieri pe posterele grupelor; fișa de exerciții, ex. 1-2.',
   },
   'lectia-6': {
     titlu: 'Figurile de stil. Hiperbola',
@@ -100,16 +164,29 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Analizează figurile de stil din poezie, cu accent pe hiperbolă.'],
-    resurse: ['Manual Art 8, p. 16', 'Fișa lecției (/materiale/clasa-8/unitatea-1/lectia-6/fisa.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 8, p. 16', fisa(6), fl(6), 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le dau exemple de exagerări din vorbirea de zi cu zi, „ți-am spus de un milion de ori", și îi întreb dacă e o minciună sau altceva.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că azi învățăm hiperbola și o căutăm printre celelalte figuri de stil din poezia lui Blaga.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '6 min', activitate: 'Reluăm aliterația și celelalte figuri de stil discutate la Eminescu.' },
-      { etapa: 'Dirijarea învățării', timp: '24 min', activitate: 'Cu ajutorul fișei lecției definim hiperbola ca exagerare intenționată, o identificăm în text și arătăm cum se combină cu metafora, cu exemplele de la p. 16.' },
-      { etapa: 'Obținerea performanței', timp: '10 min', activitate: 'Fiecare elev construiește două hiperbole proprii pe tema frumuseții și explică ce anume exagerează fiecare.' },
+      { etapa: 'Ochii iubitei, Explorare, ex. 1-3', timp: '6 min', activitate: pasi(
+        'Elementul evidențiat în portret; asocierea figurilor de stil; ce trăsătură a iubitei pune în valoare fiecare.') },
+      { etapa: 'Enumerația, ex. 4', timp: '3 min', activitate: pasi(
+        'Ce sugerează formele de relief înșirate.') },
+      { etapa: 'Exagerarea, ex. 5-7', timp: '6 min', activitate: pasi(
+        'Cum li se pare imaginea mării de întuneric; scopul exagerării și figura combinată; exagerări din vorbirea de zi cu zi.') },
+      { etapa: 'Notițe: enumerația și hiperbola', timp: '5 min', activitate: pasi(
+        'În caiete, după Repere (p. 16): enumerația, hiperbola (mărire, micșorare, combinarea cu alte figuri), exemple din vorbirea curentă.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (hiperbolă sau nu?) și ex. 2 (enumerația), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Superlativul și hiperbola, Aplicații, ex. 1-2', timp: '5 min', activitate: pasi(
+        'Tipul de superlativ din descrierea ochilor și ce sugerează; semnificația hiperbolei din poezie.') },
+      { etapa: 'Coșbuc și Arghezi, ex. 3', timp: '6 min', activitate: pasi(
+        'În perechi, hiperbolele și enumerațiile din versurile a-b și figurile care le realizează.') },
+      { etapa: 'Enunțuri cu hiperbolă, ex. 4', timp: '4 min', activitate: pasi(
+        'Fiecare scrie cele două enunțuri; câțiva citesc.') },
+      { etapa: 'Temă', timp: '4 min', activitate: pasi(
+        'Tema: fișa lecției; fișa de exerciții, pagina 2; opțional, Provocări (cele două picturi).') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; verificarea hiperbolelor construite.',
+    evaluare: 'Observarea sistematică a elevilor; fișa de exerciții, ex. 1-2.',
   },
   'lectia-7': {
     titlu: 'Semnificațiile textului',
@@ -117,16 +194,31 @@ export default {
     tipOra: 'Predare, interpretare',
     durata: 50,
     obiective: ['Discută semnificațiile poeziei Izvorul nopții și realizează o interpretare creativă.'],
-    resurse: ['Manual Art 8, p. 17', 'Fișa lecției (/materiale/clasa-8/unitatea-1/lectia-7/fisa.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 8, p. 17', fisa(7), fl(7), 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Îi întreb pe elevi ce culoare ar da poeziei lui Blaga, dacă ar picta-o, și de ce.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că azi discutăm semnificațiile poeziei și facem o interpretare proprie, în cuvinte sau în imagini.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '6 min', activitate: 'Reluăm cuvintele-cheie și hiperbola identificate în lecțiile anterioare.' },
-      { etapa: 'Dirijarea învățării', timp: '25 min', activitate: 'Cu ajutorul fișei lecției ghidez discuția despre lumină, mister și frumusețe, cu exemplele de la p. 17, apoi propun sarcinile de interpretare creativă.' },
-      { etapa: 'Obținerea performanței', timp: '9 min', activitate: 'Fiecare elev alege o formă de interpretare, text scurt, desen sau titlu nou pentru poezie, și o motivează într-o frază.' },
+      { etapa: 'Concizie și profunzime, Interpretare, ex. 1', timp: '4 min', activitate: pasi(
+        'Se opune simplitatea formei ideilor profunde?') },
+      { etapa: 'Ochiul, ex. 2', timp: '4 min', activitate: pasi(
+        'Ochiul ca lumină spirituală; revenim la răspunsurile de la p. 16.') },
+      { etapa: 'Metafora „adâncii”, ex. 3', timp: '4 min', activitate: pasi(
+        'Partea de vorbire a cuvântului și elementul natural din comparația subînțeleasă.') },
+      { etapa: 'Ochii-izvor și noaptea tainică, ex. 4-5', timp: '6 min', activitate: pasi(
+        'Discutăm variantele a-d de la fiecare exercițiu sau formulăm altele.') },
+      { etapa: 'Iubirea, mister? ex. 6', timp: '4 min', activitate: pasi(
+        'Argumente cu exemple din poezie.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (de acord sau nu?) și ex. 2 (simboluri), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Semnificația de ansamblu, ex. 7-8', timp: '5 min', activitate: pasi(
+        'Varianta cea mai potrivită sau o interpretare proprie; alte texte cu care se leagă poezia.') },
+      { etapa: 'Picturile, ex. 9', timp: '3 min', activitate: pasi(
+        'Care portret e mai aproape de imaginea iubitei și de ce.') },
+      { etapa: 'Interpretarea creativă, Provocări', timp: '6 min', activitate: pasi(
+        'Elevii se grupează după limbajul artistic ales și își fac planul (fișa de exerciții, ex. 3).') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: fișa lecției; interpretarea creativă, pe grupe; fișa de exerciții, ex. 4.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; verificarea interpretării creative.',
+    evaluare: 'Observarea sistematică a elevilor; fișa de exerciții, ex. 1-2; planurile grupelor.',
   },
   'lectia-8': {
     titlu: 'Textul liric. Lecția de citire de Nichita Stănescu. Limbajul poetic și versificația',
@@ -134,16 +226,31 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Citește textul Lecția de citire de Nichita Stănescu și identifică trăsăturile textului liric din secolul al XX-lea.'],
-    resurse: ['Manual Art 8, pp. 18-19', 'Caietele elevilor'],
+    resurse: ['Manual Art 8, pp. 18-19', fisa(8), 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '6 min', activitate: 'Le citesc primele versuri fără să spun autorul și îi întreb pe elevi dacă seamănă cu poeziile citite până acum.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că citim Lecția de citire de Nichita Stănescu și vedem prin ce se deosebește poezia modernă de cea a lui Eminescu.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '6 min', activitate: 'Reluăm elementele de versificație clasică de la Eminescu și versul liber observat la Blaga.' },
-      { etapa: 'Dirijarea învățării', timp: '23 min', activitate: 'Citim poezia, discutăm limbajul neobișnuit și absența rimei și a măsurii fixe, și stabilim trăsăturile liricii secolului al XX-lea, cu exemplele de la pp. 18-19.' },
-      { etapa: 'Obținerea performanței', timp: '10 min', activitate: 'Fiecare elev completează un tabel cu trei deosebiri între poezia lui Eminescu și cea a lui Stănescu.' },
+      { etapa: '„Pentru început”, ex. 1-3', timp: '5 min', activitate: pasi(
+        'Artele din imagini și cea preferată; a șaptea artă; se poate învăța arta cuvântului?') },
+      { etapa: 'Autorul și lectura, ex. 4', timp: '6 min', activitate: pasi(
+        'Caseta despre Nichita Stănescu (p. 18); citesc poezia de două ori.') },
+      { etapa: 'Impresii după prima lectură, ex. 1-3', timp: '4 min', activitate: pasi(
+        'Ce le-a amintit poezia; enunțurile greu de înțeles; o întrebare pentru mine.') },
+      { etapa: 'Vocea și adresarea, Explorare, ex. 1-2', timp: '4 min', activitate: pasi(
+        'A cui poate fi vocea ficțională; cui se adresează și de ce se teme.') },
+      { etapa: 'Lumea poeziei, ex. 3-4', timp: '4 min', activitate: pasi(
+        'Elementele lumii imaginate; cuvintele care apar de trei ori și legătura dintre ele.') },
+      { etapa: 'Versificația, ex. 5-7', timp: '6 min', activitate: pasi(
+        'Strofele și numele lor; măsura și rima din strofa a doua; versuri albe sau libere; în perechi, mărcile subiectivității.') },
+      { etapa: 'Notițe: poezia modernă', timp: '5 min', activitate: pasi(
+        'În caiete, după Repere (p. 19): înnoirile poeziei din secolul al XX-lea, caligrama.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (lumea ca scriere) și ex. 2 (adevărat sau fals), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Aplicații, ex. 1-2', timp: '2 min', activitate: pasi(
+        'Câmpul lexical al literaturii; sensul din text al alfabetului, frontal.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: Aplicații, ex. 3-6; fișa de exerciții, pagina 2; opțional, Provocări (caligrama).') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; verificarea tabelului comparativ.',
+    evaluare: 'Observarea sistematică a elevilor; fișa de exerciții, ex. 1-2.',
   },
   'lectia-9': {
     titlu: 'Semnificațiile textului',
@@ -151,16 +258,31 @@ export default {
     tipOra: 'Predare, interpretare',
     durata: 50,
     obiective: ['Compară textul cu o operă de artă plastică și cu poezia O, rămâi..., formulând opinii despre semnificațiile lui.'],
-    resurse: ['Manual Art 8, p. 20', 'Fișa lecției (/materiale/clasa-8/unitatea-1/lectia-9/fisa.pdf)', 'Reproducerea operei de artă din manual'],
+    resurse: ['Manual Art 8, p. 20', fisa(9), fl(9), 'Reproducerea operei de artă din manual'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le arăt reproducerea operei de artă din manual și îi întreb ce simt privind-o, înainte de orice explicație.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că azi punem față în față poezia lui Stănescu, o operă de artă plastică și poezia lui Eminescu.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '6 min', activitate: 'Reluăm temele și mesajele celor trei poezii citite până acum în unitate.' },
-      { etapa: 'Dirijarea învățării', timp: '25 min', activitate: 'Cu ajutorul fișei lecției comparăm textul cu opera plastică și cu O, rămâi..., urmărind cum apare frumusețea în fiecare, cu exemplele de la p. 20.' },
-      { etapa: 'Obținerea performanței', timp: '9 min', activitate: 'Fiecare elev scrie o opinie despre semnificația poeziei, raportată la una dintre celelalte două opere.' },
+      { etapa: 'Cele trei imagini, Interpretare, ex. 1', timp: '4 min', activitate: pasi(
+        'Elemente din poezie în imaginile din realitatea de azi.') },
+      { etapa: 'Metaforele, ex. 2-3', timp: '6 min', activitate: pasi(
+        'Metaforele peștelui și ale păsărilor; sensul pietrei care poate fi citită.') },
+      { etapa: 'Norii și epitetele, ex. 4-5', timp: '5 min', activitate: pasi(
+        'Figura de stil a norilor și ce simbolizează; epitetele din strofa a treia.') },
+      { etapa: 'Literatura și viața, ex. 6', timp: '4 min', activitate: pasi(
+        'Discutăm variantele a-d.') },
+      { etapa: 'Actul creației, ex. 7-9', timp: '6 min', activitate: pasi(
+        'Repetiția și derivatele din penultima strofă; tabloul lui Magritte; punctul de fugă.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (simboluri) și ex. 2 (poezia modernă), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Totul e scriere, ex. 10-11', timp: '4 min', activitate: pasi(
+        'Copie a realului sau recompunere? Sensul invocării divinității.') },
+      { etapa: 'Interjecția și condiționalul, ex. 12-13', timp: '4 min', activitate: pasi(
+        'Interjecția comună cu „O, rămâi...”; ce exprimă verbele din ultima strofă.') },
+      { etapa: 'Titlul, ex. 14', timp: '3 min', activitate: pasi(
+        'Explicăm titlul, frontal.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: fișa lecției; fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; verificarea opiniei comparative.',
+    evaluare: 'Observarea sistematică a elevilor; fișa de exerciții, ex. 1-2.',
   },
   'lectia-10': {
     titlu: 'Compararea textelor sub aspectul conținutului și al structurii',
@@ -168,16 +290,28 @@ export default {
     tipOra: 'Recapitulare, lectură',
     durata: 50,
     obiective: ['Compară cele trei poezii studiate din punctul de vedere al temei, versificației și figurilor de stil.'],
-    resurse: ['Manual Art 8, p. 21', 'Fișa lecției (/materiale/clasa-8/unitatea-1/lectia-10/fisa.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 8, p. 21', fisa(10), fl(10), 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '4 min', activitate: 'Îi întreb pe elevi care dintre cele trei poezii le-a plăcut cel mai mult și de ce, fără să caute răspunsul corect.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că azi comparăm sistematic cele trei poezii, ca să vedem cum s-a schimbat poezia românească într-un secol.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '8 min', activitate: 'Reluăm, pentru fiecare poezie, tema, elementele de versificație și figurile de stil dominante.' },
-      { etapa: 'Dirijarea învățării', timp: '21 min', activitate: 'Cu ajutorul fișei lecției completăm împreună un tabel comparativ pe trei coloane, urmărind conținutul și structura, cu reperele de la p. 21.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Fiecare elev formulează în scris o concluzie despre felul în care se schimbă limbajul poetic de la Eminescu la Stănescu.' },
+      { etapa: 'Criteriile, Explorare, ex. 1', timp: '4 min', activitate: pasi(
+        'Ce aspecte putem compara la două sau mai multe texte; le notez pe tablă.') },
+      { etapa: 'Investigația, ex. 2', timp: '14 min', activitate: pasi(
+        'Trei grupe de 4-5, cu sarcinile din grafic (temă și voce, versificație și punere în pagină, figuri și imagini); lucrează pe poster, după modelul de la p. 21, 10 minute.',
+        'Verific pe parcurs că fiecare observație e confirmată de cele trei texte.') },
+      { etapa: 'Prezentarea, ex. 3', timp: '6 min', activitate: pasi(
+        'Câte un elev sau o pereche din fiecare grupă prezintă concluziile.') },
+      { etapa: 'Notițe: compararea textelor', timp: '4 min', activitate: pasi(
+        'În caiete, după Repere (p. 21): criteriile, aspectele de conținut și de formă, prezentarea în paralel.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (trei poezii, față în față) și ex. 2 (conținut sau formă?), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Diagrama Venn, Aplicații', timp: '5 min', activitate: pasi(
+        'Grupele încep diagrama cu trei cercuri; o termină acasă.') },
+      { etapa: 'Autoevaluare L1-L9', timp: '3 min', activitate: pasi(
+        'Cele trei enunțuri de la p. 21, în caiete.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: diagrama Venn și justificarea temei frumuseții; fișa lecției; fișa de exerciții, pagina 2; opțional, Portofoliu.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; verificarea tabelului și a concluziei.',
+    evaluare: 'Aprecieri pe posterele grupelor; fișa de exerciții, ex. 1-2; autoevaluarea L1-L9.',
   },
   'lectia-11': {
     titlu: 'Text auxiliar. O pasăre înaltă de Dan Coman',
@@ -185,16 +319,29 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Citește textul auxiliar O pasăre înaltă de Dan Coman și identifică frumusețea din viața cotidiană.'],
-    resurse: ['Manual Art 8, pp. 22-23', 'Fișa lecției (/materiale/clasa-8/unitatea-1/lectia-11/fisa.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 8, pp. 22-23', fisa(11), fl(11), 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '6 min', activitate: 'Îi întreb pe elevi ce lucru obișnuit, văzut azi pe drumul spre școală, li s-a părut frumos.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că citim un poet contemporan, Dan Coman, și căutăm frumusețea în lucruri de fiecare zi.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '6 min', activitate: 'Reluăm trăsăturile poeziei moderne observate la Stănescu.' },
-      { etapa: 'Dirijarea învățării', timp: '23 min', activitate: 'Citim textul, discutăm limbajul simplu și imaginile din cotidian și comparăm cu frumusețea solemnă din poeziile anterioare, cu ajutorul fișei lecției și al exemplelor de la pp. 22-23.' },
-      { etapa: 'Obținerea performanței', timp: '10 min', activitate: 'Fiecare elev scrie trei versuri proprii despre un lucru obișnuit, folosind limbajul direct al poeziei citite.' },
+      { etapa: 'Introducerea de la p. 22', timp: '3 min', activitate: pasi(
+        'Frumusețea poate fi găsită și în viața de zi cu zi; cine este Dan Coman.') },
+      { etapa: 'Lectura', timp: '4 min', activitate: pasi(
+        'Citesc poezia; elevii caută cele două planuri ale existenței în care e descoperită frumusețea.') },
+      { etapa: 'Eseul de cinci minute, ex. 1', timp: '7 min', activitate: pasi(
+        'Fiecare scrie 5 minute despre ce l-a impresionat; doi-trei citesc.') },
+      { etapa: 'Vocea și frumusețea, ex. 2-4', timp: '6 min', activitate: pasi(
+        'Pe cine reprezintă vocea; ce e frumusețea pentru bărbat și cui i se opune; locuțiunile care împart poezia.') },
+      { etapa: 'Nivelul sintactic, ex. 5-7', timp: '7 min', activitate: pasi(
+        'Grupe de 4-5: predicatele din prima parte, subiectul din ultimul enunț, lipsa predicatelor din a doua parte; tipul de vers și lipsa majusculelor.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (cele două planuri) și ex. 2 (adevărat sau fals), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Fotografia și musculița, ex. 8-12', timp: '5 min', activitate: pasi(
+        'Unde e păstrată fotografia; cum influențează viața bărbatului; musculița și diminutivul; variantele a-d; „nimic real”.') },
+      { etapa: 'Pasărea și finalul, ex. 17-19', timp: '4 min', activitate: pasi(
+        'Ce simbolizează flamingo; ultimele două versuri; sentimentul final.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: ex. 13-16 și ex. 20; fișa lecției; fișa de exerciții, pagina 2; opțional, Provocări (o poezie din cotidian).') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; verificarea versurilor scrise.',
+    evaluare: 'Observarea sistematică a elevilor; fișa de exerciții, ex. 1-2.',
   },
   'lectia-12': {
     titlu: 'Valori culturale românești în lume',
@@ -202,16 +349,29 @@ export default {
     tipOra: 'Interculturalitate',
     durata: 50,
     obiective: ['Discută despre contribuțiile românești la arta modernă mondială, precum Brâncuși și Enescu.'],
-    resurse: ['Manual Art 8, pp. 24-25', 'Infograficul „Valori culturale românești în lume” (/materiale/clasa-8/unitatea-1/lectia-12/infografic.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 8, pp. 24-25', fisa(12), 'Infograficul „Valori culturale românești în lume” (/materiale/clasa-8/unitatea-1/lectia-12/infografic.svg)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '6 min', activitate: 'Le arăt o imagine cu o sculptură de Brâncuși și îi întreb pe elevi ce cred că reprezintă, înainte să le spun titlul.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că azi vorbim despre artiști români recunoscuți în toată lumea și despre ce anume au schimbat ei în arta modernă.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reluăm ideea de frumusețe discutată la poeziile din unitate și o mutăm dinspre literatură spre sculptură și muzică.' },
-      { etapa: 'Dirijarea învățării', timp: '23 min', activitate: 'Cu ajutorul infograficului parcurgem contribuțiile lui Brâncuși, Enescu și ale altor creatori români, cu exemplele de la pp. 24-25.' },
-      { etapa: 'Obținerea performanței', timp: '11 min', activitate: 'Fiecare elev alege un creator român și notează trei lucruri prin care a schimbat arta timpului său.' },
+      { etapa: 'Topul personalităților, „Pentru început”, ex. 1', timp: '5 min', activitate: pasi(
+        'În perechi, trei personalități românești care au contribuit la patrimoniul lumii, într-un top.') },
+      { etapa: 'Domeniile, ex. 2', timp: '4 min', activitate: pasi(
+        'Completăm tabelul cu personalitățile și domeniile lor; elevii mai adaugă nume.') },
+      { etapa: 'Brâncuși și Enescu, Explorare', timp: '8 min', activitate: pasi(
+        'Citim cele două prezentări (p. 24); fiecare notează ce îi face pe cei doi valori ale umanității.') },
+      { etapa: 'Notițe', timp: '4 min', activitate: pasi(
+        'Proiectez infograficul; în caiete, după Repere (p. 24): Brâncuși, esența obiectului; Enescu, „cinci într-unu”; inspirația din folclor.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (Brâncuși sau Enescu?) și ex. 2 (operele), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Rapsodia română, Aplicații, ex. 1', timp: '5 min', activitate: pasi(
+        'Ascultăm fragmentul din varianta digitală: instrumentele, linia melodică, motivele repetate.') },
+      { etapa: 'Măiastra, ex. 2-3', timp: '6 min', activitate: pasi(
+        'Citim fragmentul lui Dan Grigorescu; comparăm Măiastra (1912) cu Pasărea în văzduh (1940).') },
+      { etapa: 'Legături, ex. 4', timp: '3 min', activitate: pasi(
+        'O legătură între poeziile unității și arta lui Brâncuși sau a lui Enescu.') },
+      { etapa: 'Temă', timp: '4 min', activitate: pasi(
+        'Tema: Aplicații, ex. 5; fișa de exerciții, pagina 2; opțional, Provocări (Alexandra Nechita).') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; verificarea fișei despre creatorul ales.',
+    evaluare: 'Observarea sistematică a elevilor; fișa de exerciții, ex. 1-2.',
   },
   'lectia-13': {
     titlu: 'Strategii de ascultare activă',
@@ -219,16 +379,31 @@ export default {
     tipOra: 'Comunicare orală',
     durata: 50,
     obiective: ['Exersează strategiile de ascultare activă în situații de comunicare.'],
-    resurse: ['Manual Art 8, pp. 26-27', 'Quizul „Strategii de ascultare activă” (materialul de joc al lecției)', 'Caietele elevilor'],
+    resurse: ['Manual Art 8, pp. 26-27', fisa(13), 'Quizul „Strategii de ascultare activă” (materialul de joc al lecției)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Rog doi elevi să povestească ceva în același timp, celorlalți, apoi întreb ce au reținut din fiecare.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că azi exersăm ascultarea activă, adică felul de a asculta care îi arată vorbitorului că l-am înțeles.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '6 min', activitate: 'Reluăm rolurile de vorbitor și ascultător și comunicarea nonverbală și paraverbală, din clasele anterioare.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Parcurgem etapele ascultării active, concentrarea atenției, încurajarea vorbitorului, reflecția, feedbackul, și barierele care o împiedică, cu exemplele de la pp. 26-27, apoi elevii exersează în perechi.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Câțiva ascultători reformulează în fața clasei ce au auzit, apoi elevii rezolvă quizul „Strategii de ascultare activă" și discutăm răspunsurile.' },
+      { etapa: '„Pentru început”, ex. 1-3', timp: '5 min', activitate: pasi(
+        'Să asculți sau să vorbești? Tipurile de comunicare verbală din imagini și cele trei poezii; unde nu poate apărea ascultarea activă.') },
+      { etapa: 'A auzi și a asculta, Explorare, ex. 1-3', timp: '5 min', activitate: pasi(
+        'Imaginile de la p. 26: diferența dintre a auzi și a asculta; de ce mama și prietena nu ascultă activ; alte bariere.') },
+      { etapa: 'Barierele din poezii, ex. 4', timp: '3 min', activitate: pasi(
+        'Barierele de ascultare din „O, rămâi...” și „Lecția de citire”.') },
+      { etapa: 'Semnele și momentul opiniei, ex. 5-6', timp: '4 min', activitate: pasi(
+        'Semnele nonverbale ale ascultării; când e bine să-ți spui părerea.') },
+      { etapa: 'Strategiile eficiente, ex. 7', timp: '4 min', activitate: pasi(
+        'În perechi, strategiile bune și cele rele, cu câte un exemplu.') },
+      { etapa: 'Notițe: ascultarea activă', timp: '5 min', activitate: pasi(
+        'În caiete, după Repere (pp. 26-27): cele patru etape și beneficiile ascultării active.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '9 min', activitate: pasi(
+        'Pagina 1: ex. 1 (a auzi sau a asculta?) și ex. 2 (etapele), individual, 6 minute.',
+        'Verificare, 3 minute.') },
+      { etapa: 'Discuția în grupe, Aplicații', timp: '10 min', activitate: pasi(
+        'Grupe de 4-5, câte o temă a-d; moderatorul notează ideile, observatorul completează grila de la p. 27; moderatorii prezintă concluziile.') },
+      { etapa: 'Quizul', timp: '3 min', activitate: pasi(
+        'Quizul „Strategii de ascultare activă”, câteva întrebări, frontal.') },
+      { etapa: 'Temă', timp: '2 min', activitate: pasi(
+        'Tema: Explorare, ex. 8-9, în scris; fișa de exerciții, pagina 2; opțional, Provocări.') },
     ],
-    evaluare: 'Observarea sistematică a exercițiilor în perechi; rezultatele la quiz.',
+    evaluare: 'Grilele observatorilor; fișa de exerciții, ex. 1-2; rezultatele la quiz.',
   },
   'lectia-14': {
     titlu: 'Categorii semantice (actualizare)',
@@ -236,16 +411,27 @@ export default {
     tipOra: 'Predare, limbă română',
     durata: 50,
     obiective: ['Actualizează cunoștințele despre sinonime, antonime, omonime și cuvinte polisemantice.'],
-    resurse: ['Manual Art 8, pp. 28-30', 'Schema „Categorii semantice” (/materiale/clasa-8/unitatea-1/lectia-14/schema.svg)', 'DEX'],
+    resurse: ['Manual Art 8, pp. 28-30', fisa(14), 'Schema „Categorii semantice” (/materiale/clasa-8/unitatea-1/lectia-14/schema.svg)', 'DEX'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Scriu pe tablă cuvântul „broască" și îi întreb pe elevi câte lucruri diferite poate numi.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că reluăm și adâncim categoriile semantice: sinonime, antonime, omonime și cuvinte polisemantice.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '7 min', activitate: 'Recapitulăm, cu exemple, sinonimele și antonimele învățate în clasele mai mici.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Cu ajutorul schemei lecției separăm omonimia de polisemie, discutăm capcanele lor și lucrăm cu articolul de dicționar, cu exemplele de la pp. 28-30.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Fiecare elev rezolvă un set de exerciții în care distinge omonimele de cuvintele polisemantice și găsește sinonime potrivite contextului.' },
+      { etapa: 'Dialogul despre teme, „Pentru început”, ex. 1-6', timp: '6 min', activitate: pasi(
+        'Sinonime, antonime, omonime, sensurile lui „a comenta”, confuzia paronimică din replică, frontal.') },
+      { etapa: 'Sinonimele și antonimele, Explorare, ex. 1-7', timp: '8 min', activitate: pasi(
+        'Sinonimele din versuri; „a îngâna”; sinonimul lui „sodiu”; locuțiunea „a râde în nas”; antonimele; prefixele negative; „cu capul în nori”.') },
+      { etapa: 'Omonimele și polisemia, Explorare, ex. 1-4', timp: '6 min', activitate: pasi(
+        'Perechile din imagini; tipurile de omonime; „veselă” și „dar”; în perechi, sensurile lui „ochi”.') },
+      { etapa: 'Paronimele, Explorare, ex. 1-2', timp: '3 min', activitate: pasi(
+        'Paronimele din versuri și cele de pe flori.') },
+      { etapa: 'Notițe', timp: '7 min', activitate: pasi(
+        'Proiectez schema; în caiete, după Repere (pp. 28-30): sinonime, antonime, omonime (totale, parțiale, lexico-gramaticale), omofone, omografe, cuvântul polisemantic, paronimele.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (sinonime și antonime) și ex. 2 (ce relație?), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Aplicații, ex. 2 și 6', timp: '5 min', activitate: pasi(
+        'Omonimele lui „lună” și „pas”; în perechi, expresiile sinonime din seriile A și B.') },
+      { etapa: 'Temă', timp: '4 min', activitate: pasi(
+        'Tema: Aplicații, ex. 3, 4, 7, 8; fișa de exerciții, pagina 2; opțional, Provocări.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; verificarea exercițiilor de categorii semantice.',
+    evaluare: 'Observarea sistematică a elevilor; fișa de exerciții, ex. 1-2.',
   },
   'lectia-15': {
     titlu: 'Derivarea. Compunerea (actualizare)',
@@ -253,16 +439,27 @@ export default {
     tipOra: 'Predare, limbă română',
     durata: 50,
     obiective: ['Actualizează cunoștințele despre derivare și compunere, cu exerciții aplicate.'],
-    resurse: ['Manual Art 8, pp. 31-33', 'Schema „Derivarea. Compunerea” (/materiale/clasa-8/unitatea-1/lectia-15/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 8, pp. 31-33', fisa(15), 'Schema „Derivarea. Compunerea” (/materiale/clasa-8/unitatea-1/lectia-15/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le cer elevilor să formeze cât mai multe cuvinte pornind de la „frumos" și le scriu pe tablă.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că reluăm cele două mijloace interne de îmbogățire a vocabularului, derivarea și compunerea.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '7 min', activitate: 'Recapitulăm rădăcina, prefixul și sufixul, noțiuni din clasele anterioare.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Cu ajutorul schemei lecției reluăm derivarea cu prefixe și sufixe, inclusiv cea parasintetică, și tipurile de compunere, cu exemplele de la pp. 31-33.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Fiecare elev analizează structura a șase cuvinte date, precizând mijlocul prin care s-au format.' },
+      { etapa: 'Versurile lui Topîrceanu, Explorare, ex. 1', timp: '5 min', activitate: pasi(
+        'În perechi, derivatele cu sufixe și cu prefixe; încercuim afixele.') },
+      { etapa: 'Sufixele, ex. 2-4', timp: '7 min', activitate: pasi(
+        'Sufixe lexicale și gramaticale; ce arată sufixele din tabel; valoarea diminutivelor.') },
+      { etapa: 'Prefixele, ex. 5-7', timp: '4 min', activitate: pasi(
+        'Prefixele din listă; formarea lui „străveziu” și a lui „a învălui”.') },
+      { etapa: 'Compunerea, Explorare, ex. 1-4', timp: '6 min', activitate: pasi(
+        'Compusele din versurile lui Minulescu; tabelul procedeelor, pe grupe; abrevierile; elementele savante.') },
+      { etapa: 'Notițe', timp: '8 min', activitate: pasi(
+        'Proiectez schema; în caiete, după Repere (pp. 31-33): sufixele, prefixele, seria derivativă, derivatele parasintetice, procedeele compunerii, elementele savante.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (derivatul) și ex. 2 (compusul), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Aplicații, ex. 1-2', timp: '5 min', activitate: pasi(
+        'Afixele derivatelor și procedeele compunerii, frontal.') },
+      { etapa: 'Temă', timp: '4 min', activitate: pasi(
+        'Tema: Aplicații, ex. 3-6; fișa de exerciții, pagina 2; opțional, Provocări (cuvinte-valiză).') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; verificarea analizei cuvintelor.',
+    evaluare: 'Observarea sistematică a elevilor; fișa de exerciții, ex. 1-2.',
   },
   'lectia-16': {
     titlu: 'Conversiunea. Familia de cuvinte',
@@ -270,16 +467,29 @@ export default {
     tipOra: 'Predare, limbă română',
     durata: 50,
     obiective: ['Definește conversiunea și identifică familia lexicală a unor cuvinte.'],
-    resurse: ['Manual Art 8, pp. 34-35', 'Schema „Conversiunea. Familia de cuvinte” (/materiale/clasa-8/unitatea-1/lectia-16/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 8, pp. 34-35', fisa(16), 'Schema „Conversiunea. Familia de cuvinte” (/materiale/clasa-8/unitatea-1/lectia-16/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Scriu „Frumosul din natură" și „un peisaj frumos" și îi întreb pe elevi ce s-a schimbat la cuvântul „frumos".' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că azi învățăm conversiunea, schimbarea valorii gramaticale, și construim familii de cuvinte.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '7 min', activitate: 'Reluăm derivarea și compunerea din lecția precedentă și părțile de vorbire de bază.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Cu ajutorul schemei lecției definim conversiunea, arătăm cum un adjectiv devine substantiv sau adverb, și construim împreună o familie lexicală, cu exemplele de la pp. 34-35.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Fiecare elev construiește familia lexicală a unui cuvânt dat și formulează două enunțuri cu același cuvânt în valori gramaticale diferite.' },
+      { etapa: '„Frumos”, Explorare, ex. 1-2', timp: '4 min', activitate: pasi(
+        'Partea de vorbire a cuvintelor din cele trei enunțuri; comparăm cu derivatele și compusul din pictură.') },
+      { etapa: 'Conversiunea, ex. 3-6', timp: '10 min', activitate: pasi(
+        'În grupe și în perechi: substantivele, adjectivele, adverbele și prepozițiile obținute prin conversiune; cazul cerut de prepoziții.') },
+      { etapa: 'Notițe: conversiunea', timp: '5 min', activitate: pasi(
+        'În caiete, după Repere (pp. 34-35): definiția, ce se poate obține prin conversiune, participiu și supin.') },
+      { etapa: 'Familia lui „floare”, Explorare, ex. 1-2', timp: '6 min', activitate: pasi(
+        'Grupe de 4-5 completează tabelul; de ce „floral”, „florentin”, „floretă” nu intră în familie; familia și câmpul lexical.') },
+      { etapa: 'Notițe: familia și câmpul lexical', timp: '3 min', activitate: pasi(
+        'Definițiile din Repere (p. 35).') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (din ce parte de vorbire?) și ex. 2 (familia cuvântului „munte”), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Aplicații, ex. 1', timp: '4 min', activitate: pasi(
+        'Cuvintele obținute prin conversiune din enunțurile date, frontal.') },
+      { etapa: 'Familia lui „nor”, ex. 3', timp: '3 min', activitate: pasi(
+        'Construim familia pe tablă.') },
+      { etapa: 'Temă', timp: '4 min', activitate: pasi(
+        'Tema: Aplicații, ex. 2 și 4; Portofoliu (coșul cu fructe); fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; verificarea familiei lexicale și a enunțurilor.',
+    evaluare: 'Observarea sistematică a elevilor; fișa de exerciții, ex. 1-2.',
   },
   'lectia-17': {
     titlu: 'Împrumuturile',
@@ -287,16 +497,29 @@ export default {
     tipOra: 'Predare, limbă română',
     durata: 50,
     obiective: ['Identifică tipurile de cuvinte din vocabularul limbii române, după originea lor.'],
-    resurse: ['Manual Art 8, pp. 36-37', 'Schema „Împrumuturile. Neologismele” (/materiale/clasa-8/unitatea-1/lectia-17/schema.svg)', 'DEX'],
+    resurse: ['Manual Art 8, pp. 36-37', fisa(17), 'Schema „Împrumuturile. Neologismele” (/materiale/clasa-8/unitatea-1/lectia-17/schema.svg)', 'DEX'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le cer elevilor cinci cuvinte folosite zilnic care li se par venite din engleză și le scriu pe tablă.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că azi vedem de unde vin cuvintele limbii române și cum se comportă împrumuturile.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '7 min', activitate: 'Reluăm mijloacele interne de îmbogățire a vocabularului, ca să le opunem celor externe.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Cu ajutorul schemei lecției discutăm fondul latin moștenit și împrumuturile, adaptate și neadaptate, și problema anglicismelor, cu exemplele de la pp. 36-37.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Fiecare elev clasifică opt cuvinte după origine și propune, unde există, echivalentul românesc pentru trei anglicisme.' },
+      { etapa: 'Cuvinte din alte limbi, Explorare, ex. 1-2', timp: '5 min', activitate: pasi(
+        'Fiecare spune un cuvânt preluat dintr-o limbă străină studiată; cele trei liste din versurile lui Dan Coman.') },
+      { etapa: 'Tânărul de ieri și cel de azi, Tipuri de împrumuturi, ex. 1-3', timp: '7 min', activitate: pasi(
+        'Asociem cuvintele cu cele două desene; originea lor; „drept” și „direct”.') },
+      { etapa: 'Seriile, ex. 4-6', timp: '3 min', activitate: pasi(
+        'Seria cu împrumuturi noi; formarea celorlalte cuvinte; mijloace externe sau interne.') },
+      { etapa: 'Notițe', timp: '8 min', activitate: pasi(
+        'Proiectez schema; în caiete, după Repere (pp. 36-37): cuvinte moștenite, formate, împrumutate; împrumuturi vechi și noi, cu limbile lor; neologismele.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (de unde vine cuvântul?) și ex. 2 (vechi sau nou?), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Etichetele, Aplicații, ex. 1', timp: '4 min', activitate: pasi(
+        'În perechi, împrumuturile vechi și noi de pe etichete.') },
+      { etapa: 'Neologisme și „a servi”, ex. 2-3', timp: '5 min', activitate: pasi(
+        'Neologismele din strofe; enunțurile în care „a servi” e folosit greșit.') },
+      { etapa: 'Forma corectă, ex. 4', timp: '4 min', activitate: pasi(
+        'Formele corecte ale împrumuturilor, verificate în DEX.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: fișa de exerciții, pagina 2; opțional, Provocări (neologismele din „Lecția de citire”).') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; verificarea clasificării după origine.',
+    evaluare: 'Observarea sistematică a elevilor; fișa de exerciții, ex. 1-2.',
   },
   'lectia-18': {
     titlu: 'Registrele limbii',
@@ -304,16 +527,29 @@ export default {
     tipOra: 'Predare, limbă română',
     durata: 50,
     obiective: ['Recunoaște registrele limbii, solemn, standard, familiar, și elementele de argou și jargon.'],
-    resurse: ['Manual Art 8, pp. 38-39', 'Schema „Registrele limbii. Argoul. Jargonul” (/materiale/clasa-8/unitatea-1/lectia-18/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 8, pp. 38-39', fisa(18), 'Schema „Registrele limbii. Argoul. Jargonul” (/materiale/clasa-8/unitatea-1/lectia-18/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Îi întreb pe elevi cum îi cer o favoare unui prieten și cum i-ar cere aceeași favoare directorului școlii.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că azi învățăm registrele limbii și când e potrivit fiecare.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '7 min', activitate: 'Reluăm împrumuturile și anglicismele din lecția precedentă, multe dintre ele intrate prin registrul familiar.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Cu ajutorul schemei lecției delimităm registrul solemn, standard și familiar și definim argoul și jargonul, cu exemplele de la pp. 38-39.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Fiecare elev rescrie un scurt mesaj din registrul familiar în cel standard și explică ce a schimbat.' },
+      { etapa: 'Cele trei desene, Explorare, ex. 1-3', timp: '6 min', activitate: pasi(
+        'Vocabularul, gramatica și pronunția din cele trei situații; diferențele dintre enunțurile a-b; unde apare limbajul cultivat.') },
+      { etapa: 'Notițe: registrele', timp: '6 min', activitate: pasi(
+        'Proiectez schema; în caiete, după Repere (p. 38): registrul solemn, standard, familiar, cu vocabularul, gramatica și pronunția fiecăruia.') },
+      { etapa: 'Argoul și jargonul, Explorare, ex. 1-4', timp: '6 min', activitate: pasi(
+        'Sensul cuvintelor din dialogul elevilor și cum s-au format; termenii din informatică; „parol” la Caragiale.') },
+      { etapa: 'Notițe: argoul și jargonul', timp: '4 min', activitate: pasi(
+        'Definițiile și mijloacele de formare a termenilor argotici (Repere, p. 39).') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (ce registru?) și ex. 2 (în registrul standard), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Aplicații, ex. 1-2', timp: '5 min', activitate: pasi(
+        'Registrul enunțurilor a-d; clasificarea adjectivelor pe registre.') },
+      { etapa: 'Termenii argotici, ex. 4', timp: '4 min', activitate: pasi(
+        'Termenii din fragmentul lui Mircea Sântimbreanu și echivalentele lor standard.') },
+      { etapa: 'Jargonul tinerilor, ex. 5', timp: '4 min', activitate: pasi(
+        'Sensul termenilor de jargon și de argou din text.') },
+      { etapa: 'Temă', timp: '4 min', activitate: pasi(
+        'Tema: Aplicații, ex. 3; fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; verificarea rescrierii în registru standard.',
+    evaluare: 'Observarea sistematică a elevilor; fișa de exerciții, ex. 1-2.',
   },
   'lectia-19': {
     titlu: 'Fonetica',
@@ -321,16 +557,29 @@ export default {
     tipOra: 'Predare, fonetică',
     durata: 50,
     obiective: ['Identifică diftongii, triftongii, vocalele în hiat și pronunția cuvintelor de origine străină.'],
-    resurse: ['Manual Art 8, pp. 40-41', 'Quizul „Fonetica” (materialul de joc al lecției)', 'DOOM3'],
+    resurse: ['Manual Art 8, pp. 40-41', fisa(19), 'Quizul „Fonetica” (materialul de joc al lecției)', 'DOOM3'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le cer elevilor să pronunțe rar „ploaie" și „poet" și să observe ce se întâmplă cu vocalele alăturate.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că recapitulăm și adâncim diftongul, triftongul și hiatul, plus pronunția cuvintelor străine.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '6 min', activitate: 'Reluăm vocalele, consoanele și semivocalele și regula silabei, din clasele anterioare.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Cu exemplele de la pp. 40-41 definim diftongul, triftongul și hiatul, exersăm despărțirea în silabe și discutăm pronunția împrumuturilor neadaptate, cu sprijinul DOOM3.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Elevii rezolvă quizul „Fonetica", apoi corectăm împreună și exersăm pe cuvintele care au ridicat probleme.' },
+      { etapa: 'Versurile Magdei Isanos, Explorare, ex. 1-3', timp: '7 min', activitate: pasi(
+        'Diftongii, triftongii și hiaturile; literele și sunetele din trei cuvinte; i „șoptit” din enunțul dat.') },
+      { etapa: 'Notițe: sunetele și literele', timp: '5 min', activitate: pasi(
+        'În caiete, după Repere (p. 40): grupurile de litere, i „șoptit”, diftongul, triftongul, hiatul.') },
+      { etapa: 'Cuvintele de origine străină, Explorare, ex. 1-8', timp: '8 min', activitate: pasi(
+        'Pronunția lui „e-mail”; împrumuturi adaptate și neadaptate; litera u; „bleumarin”; literele duble; literele care nu se citesc; articularea.') },
+      { etapa: 'Notițe: împrumuturile neadaptate', timp: '4 min', activitate: pasi(
+        'Repere (p. 41): scrierea și pronunțarea după DOOM3, articolul cu sau fără cratimă, numele proprii străine.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (diftong, triftong sau hiat?) și ex. 2 (litere și sunete), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Aplicații, ex. 1-4', timp: '5 min', activitate: pasi(
+        'Sunetele literelor colorate; obiectele din ilustrație; intrușii din serii; articularea cu cratimă.') },
+      { etapa: 'Quizul', timp: '5 min', activitate: pasi(
+        'Quizul „Fonetica”, frontal.') },
+      { etapa: 'Mâncărurile, ex. 8', timp: '2 min', activitate: pasi(
+        'Pronunțăm împreună cele patru denumiri.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: Aplicații, ex. 5-7; Portofoliu (cele două liste); fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; rezultatele la quiz.',
+    evaluare: 'Observarea sistematică a elevilor; fișa de exerciții, ex. 1-2; rezultatele la quiz.',
   },
   'lectia-20': {
     titlu: 'Organizarea coerentă a textului. Anafora',
@@ -338,16 +587,29 @@ export default {
     tipOra: 'Predare, limbă română',
     durata: 50,
     obiective: ['Explică rolul anaforei și al coerenței în organizarea unui text.'],
-    resurse: ['Manual Art 8, pp. 42-43', 'Fișa lecției (/materiale/clasa-8/unitatea-1/lectia-20/fisa.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 8, pp. 42-43', fisa(20), fl(20), 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le citesc un scurt text în care se repetă supărător același substantiv și îi întreb pe elevi ce ar schimba.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că azi învățăm ce ține un text legat: coerența și anafora.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '6 min', activitate: 'Reluăm pronumele și rolul lui de înlocuitor, învățat în clasele anterioare.' },
-      { etapa: 'Dirijarea învățării', timp: '24 min', activitate: 'Cu ajutorul fișei lecției definim anaforicul și antecedentul, arătăm ce părți de vorbire pot fi anaforice și discutăm regulile coerenței, cu exemplele de la pp. 42-43.' },
-      { etapa: 'Obținerea performanței', timp: '10 min', activitate: 'Fiecare elev rescrie un text dat, eliminând repetițiile prin anaforice potrivite, apoi verificăm împreună.' },
+      { etapa: 'Textul-clădire, Explorare, ex. 1-4', timp: '7 min', activitate: pasi(
+        'Reconstituim textul despre jurnalul de lectură al Anei; cuvintele care ne-au ajutat; paragrafele; tema.') },
+      { etapa: 'Texte fără logică, ex. 5', timp: '5 min', activitate: pasi(
+        'De ce exemplele a-e nu sunt logice.') },
+      { etapa: 'Notițe: coerența', timp: '6 min', activitate: pasi(
+        'În caiete, după Repere (p. 42): ordinea logică, temporală, spațială; regulile continuității, progresiei și noncontradicției.') },
+      { etapa: 'Anafora, Explorare, ex. 1-2', timp: '6 min', activitate: pasi(
+        'Cum sunt reluate „Ioana” și „comentariile”; în grupe, anaforicele din exemplele a-g și partea lor de vorbire.') },
+      { etapa: 'Notițe: anafora', timp: '3 min', activitate: pasi(
+        'Antecedentul, anaforicul, felurile anaforicelor (Repere, p. 43).') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1-2 (enunțuri amestecate, ordinea și legăturile), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Aplicații, ex. 1-3', timp: '7 min', activitate: pasi(
+        'Ordinea enunțurilor din „Apă, praf și soare”; anaforicele din exemplele a-b; eliminăm repetițiile din textul despre Mihai.') },
+      { etapa: 'Autoevaluare L13-L19', timp: '2 min', activitate: pasi(
+        'Cele trei enunțuri de la p. 43, în caiete.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: Portofoliu (text de 100-150 de cuvinte, cu patru anaforice ale lui „text”); fișa lecției; fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; verificarea textului rescris.',
+    evaluare: 'Observarea sistematică a elevilor; fișa de exerciții, ex. 1-2; autoevaluarea L13-L19.',
   },
   'lectia-21': {
     titlu: 'Etapele scrierii. Integrarea feedbackului (partea 1/2)',
@@ -355,16 +617,25 @@ export default {
     tipOra: 'Redactare',
     durata: 50,
     obiective: ['Redactează o ciornă și primește feedback pe baza unei grile de evaluare.'],
-    resurse: ['Manual Art 8, pp. 44-45', 'Fișa lecției cu grila de evaluare (/materiale/clasa-8/unitatea-1/lectia-21/fisa.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 8, pp. 44-45', fisa(21), 'Fișa lecției cu grila de evaluare (/materiale/clasa-8/unitatea-1/lectia-21/fisa.pdf)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Îi întreb pe elevi cum se simt când cineva le corectează o lucrare și ce fel de observație i-a ajutat cu adevărat.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că azi scriem o ciornă și învățăm să dăm și să primim feedback folositor, pe baza unei grile.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '6 min', activitate: 'Reluăm etapele scrierii cunoscute din clasele anterioare: pregătirea, ciorna, revizuirea, editarea, publicarea.' },
-      { etapa: 'Dirijarea învățării', timp: '20 min', activitate: 'Cu ajutorul fișei prezint grila de evaluare și regulile unui feedback util, concret și respectuos, cu exemplele de la pp. 44-45, apoi elevii redactează ciorna.' },
-      { etapa: 'Obținerea performanței', timp: '14 min', activitate: 'Elevii schimbă ciornele în perechi și completează grila de feedback pentru textul colegului, cu două aprecieri și două sugestii.' },
+      { etapa: 'Etapele și feedbackul, „Pentru început”', timp: '7 min', activitate: pasi(
+        'Reamintim cele cinci etape ale scrierii; fiecare completează fișa cu cele patru întrebări despre feedback, pentru mine.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (etapele scrierii) și ex. 2 (feedback util?), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Sarcina și grila, Explorare, ex. 1', timp: '5 min', activitate: pasi(
+        'Citim versurile lui Ion Pillat și reperele sarcinii; parcurgem grila de evaluare.') },
+      { etapa: 'Planul, fișa de exerciții, ex. 3', timp: '5 min', activitate: pasi(
+        'Fiecare își notează reperele: elementele peisajului, două figuri de stil, emoția, tema.') },
+      { etapa: 'Ciorna', timp: '12 min', activitate: pasi(
+        'Elevii redactează compunerea (minimum 100 de cuvinte) și o recitesc.') },
+      { etapa: 'Schimbul de caiete și feedbackul', timp: '8 min', activitate: pasi(
+        'Perechile își schimbă caietele și completează grila, cu sugestii concrete; fiecare notează cel puțin două sugestii primite (Explorare, ex. 2).') },
+      { etapa: 'Temă', timp: '2 min', activitate: pasi(
+        'Tema: ciorna terminată, dacă nu e gata; fișa de exerciții, ex. 4.') },
     ],
-    evaluare: 'Observarea sistematică a redactării; verificarea grilelor de feedback completate.',
+    evaluare: 'Grilele de feedback completate de colegi; fișa de exerciții, ex. 1-2.',
   },
   'lectia-22': {
     titlu: 'Etapele scrierii. Integrarea feedbackului (partea 2/2)',
@@ -372,16 +643,24 @@ export default {
     tipOra: 'Redactare',
     durata: 50,
     obiective: ['Integrează feedbackul primit și editează textul pentru prezentare.'],
-    resurse: ['Manual Art 8, pp. 44-45', 'Fișa lecției (/materiale/clasa-8/unitatea-1/lectia-22/fisa.pdf)', 'Ciornele și grilele de feedback de la ora anterioară'],
+    resurse: ['Manual Art 8, pp. 44-45', fisa(22), fl(22), 'Ciornele și grilele de feedback de la ora anterioară'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '4 min', activitate: 'Le cer elevilor să recitească feedbackul primit și să spună care sugestie li se pare cea mai utilă.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că azi rescriem textul integrând feedbackul, apoi îl edităm pentru prezentare.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reluăm diferența dintre revizuire, care schimbă conținutul, și editare, care corectează forma.' },
-      { etapa: 'Dirijarea învățării', timp: '19 min', activitate: 'Cu ajutorul fișei arăt cum se transformă o sugestie în modificare concretă și ce se verifică la editare, ortografie, punctuație, acord, cu exemplele de la pp. 44-45.' },
-      { etapa: 'Obținerea performanței', timp: '17 min', activitate: 'Fiecare elev rescrie textul integrând feedbackul, îl editează și notează pe fișă ce anume a schimbat față de ciornă.' },
+      { etapa: 'Sugestiile, fișa de exerciții, ex. 1', timp: '8 min', activitate: pasi(
+        'Fiecare trece sugestiile primite pe fișă și decide ce acceptă și cum modifică textul (Repere, p. 45).') },
+      { etapa: 'Întrebări pentru colegi', timp: '4 min', activitate: pasi(
+        'Elevii cer lămuriri colegului care le-a dat feedback, unde ceva nu e clar.') },
+      { etapa: 'Rescrierea, Aplicații, ex. 1', timp: '12 min', activitate: pasi(
+        'Elevii rescriu pasajele modificate; trec printre bănci.') },
+      { etapa: 'Editarea, Aplicații, ex. 2', timp: '8 min', activitate: pasi(
+        'Verificarea finală (fișa de exerciții, ex. 2) și transcrierea pe o foaie curată.') },
+      { etapa: 'Pregătirea lecturii, fișa, ex. 3', timp: '4 min', activitate: pasi(
+        'Pasajul important, schimbările de ton, pauzele.') },
+      { etapa: 'Din scaunul autorului, Aplicații, ex. 3', timp: '10 min', activitate: pasi(
+        'Trei-patru elevi își citesc compunerile; colegii spun ce s-a îmbunătățit față de ciornă.') },
+      { etapa: 'Temă', timp: '4 min', activitate: pasi(
+        'Tema: Portofoliu (compunerea și fișa de autoevaluare pe grilă); fișa de exerciții, ex. 4. Strâng lucrările editate.') },
     ],
-    evaluare: 'Grila de evaluare din fișă; verificarea textului final și a listei de modificări.',
+    evaluare: 'Compunerile editate, strânse pentru apreciere; prezentările din scaunul autorului.',
   },
   'lectia-23': {
     titlu: 'Rolul elementelor grafice în prezentarea unui text',
@@ -389,16 +668,27 @@ export default {
     tipOra: 'Redactare',
     durata: 50,
     obiective: ['Realizează o prezentare de text cu includerea unor elemente grafice.'],
-    resurse: ['Manual Art 8, pp. 46-47', 'Fișa lecției (/materiale/clasa-8/unitatea-1/lectia-23/fisa.pdf)', 'Textul editat la ora anterioară'],
+    resurse: ['Manual Art 8, pp. 46-47', fisa(23), fl(23), 'Textul editat la ora anterioară'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Le arăt aceeași informație scrisă simplu și pusă într-o infografică și îi întreb care se reține mai ușor.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că azi învățăm ce rol au imaginile, schemele și elementele grafice care însoțesc un text.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '6 min', activitate: 'Reluăm etapa de publicare din procesul scrierii, discutată la lecțiile anterioare.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Cu ajutorul fișei lecției discutăm funcțiile mesajului vizual, să emoționeze, să informeze, să convingă, să amuze, și cele două procese ale lecturii unei imagini, cu exemplele de la pp. 46-47.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Fiecare elev alege sau desenează un element grafic pentru textul redactat și explică în două rânduri ce adaugă el textului.' },
+      { etapa: 'Cărțile ilustrate, Explorare, ex. 1-3', timp: '6 min', activitate: pasi(
+        'Cărțile „citite” înainte de alfabet; profesia femeii din imagine; ordinea în care observăm elementele.') },
+      { etapa: 'Tipurile de imagini, ex. 4-5', timp: '5 min', activitate: pasi(
+        'Imaginile a-f și rolul lor; cum atrage atenția textul din banda desenată.') },
+      { etapa: 'Imagini și legende, ex. 6-7', timp: '4 min', activitate: pasi(
+        'Caligrama lui Apollinaire și imaginile din „Micul Prinț”; diferența față de elementele multimedia.') },
+      { etapa: 'Notițe: elementele grafice', timp: '7 min', activitate: pasi(
+        'În caiete, după Repere (pp. 46-47): funcțiile imaginilor, lectura în formă de Z, regulile pentru slide-uri, legenda.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (tipul și rolul imaginii) și ex. 2 (reguli pentru slide), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Imaginea pentru versurile lui Pillat, Aplicații, ex. 1-2', timp: '6 min', activitate: pasi(
+        'Tabloul lui Arcimboldo sau fotografia: care se potrivește și de ce; alte propuneri.') },
+      { etapa: 'Planul posterului, fișa de exerciții, ex. 3', timp: '7 min', activitate: pasi(
+        'În perechi, elevii aleg poezia de toamnă (Aplicații, ex. 3) și plănuiesc posterul sau prezentarea.') },
+      { etapa: 'Temă', timp: '4 min', activitate: pasi(
+        'Tema: Aplicații, ex. 3 (posterul sau prezentarea digitală); Portofoliu (fișa de autoevaluare); fișa de exerciții, ex. 4.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; verificarea elementului grafic și a motivării.',
+    evaluare: 'Observarea sistematică a elevilor; fișa de exerciții, ex. 1-2; planurile posterelor.',
   },
   'lectia-24': {
     titlu: 'Recapitulare (partea 1/2)',
@@ -406,16 +696,27 @@ export default {
     tipOra: 'Recapitulare',
     durata: 50,
     obiective: ['Recapitulează conținuturile de lectură și limbă română din unitate.'],
-    resurse: ['Manual Art 8, pp. 48-49', 'Quizul „Recapitulare, lectură și limbă română” (materialul de joc al lecției)', 'Caietele elevilor'],
+    resurse: ['Manual Art 8, pp. 48-49', fisa(24), 'Quizul „Recapitulare, lectură și limbă română” (materialul de joc al lecției)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '4 min', activitate: 'Îi rog pe elevi să spună pe rând câte o noțiune de lectură sau de limbă învățată în unitate.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că recapitulăm versificația, figurile de stil, categoriile semantice, formarea cuvintelor și fonetica.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '8 min', activitate: 'Reluăm, cu exemple din cele trei poezii, măsura, rima, versul alb și liber, aliterația și hiperbola, apoi noțiunile de vocabular.' },
-      { etapa: 'Dirijarea învățării', timp: '18 min', activitate: 'Rezolvăm ghidat exercițiile de lectură și limbă română de la pp. 48-49.' },
-      { etapa: 'Obținerea performanței', timp: '15 min', activitate: 'Elevii rezolvă quizul „Recapitulare, lectură și limbă română", apoi discutăm răspunsurile greșite.' },
+      { etapa: 'Ciorchinele unității', timp: '3 min', activitate: pasi(
+        'Pe tablă, „Unde găsim frumusețea?”; elevii spun câte o noțiune de lectură sau de limbă din unitate.') },
+      { etapa: 'Lectura', timp: '4 min', activitate: pasi(
+        'Citesc „Școala frumuseții” de Geo Dumitrescu (p. 48).') },
+      { etapa: 'Cerințele 1-7', timp: '7 min', activitate: pasi(
+        'Impresia, tipul versurilor, registrul, aliterațiile, vocea ficțională și mărcile ei, persoana a doua.') },
+      { etapa: 'Investigația, cerința 12', timp: '12 min', activitate: pasi(
+        'Patru grupe trag la sorți câte o strofă și rezolvă sarcinile pe poster, 8 minute; reprezentanții prezintă.') },
+      { etapa: 'Limba, cerințele 16-20', timp: '6 min', activitate: pasi(
+        'Sinonime și antonime, omonime, sensuri, paronime, formarea cuvintelor, selectiv, frontal.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1-2 (poezia „Grădina bunicii”, scrisă pentru fișă, și noțiunile recapitulate), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Quizul', timp: '4 min', activitate: pasi(
+        'Quizul „Recapitulare, lectură și limbă română”, frontal.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: cerințele 8-11 și 21-23; fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; rezultatele la quiz.',
+    evaluare: 'Aprecieri pe posterele grupelor; fișa de exerciții, ex. 1-2; rezultatele la quiz.',
   },
   'lectia-25': {
     titlu: 'Recapitulare (partea 2/2)',
@@ -423,16 +724,26 @@ export default {
     tipOra: 'Recapitulare',
     durata: 50,
     obiective: ['Recapitulează conținuturile de redactare și comunicare orală din unitate.'],
-    resurse: ['Manual Art 8, pp. 48-49', 'Quizul „Recapitulare, redactare și comunicare orală” (materialul de joc al lecției)', 'Caietele elevilor'],
+    resurse: ['Manual Art 8, pp. 48-49', fisa(25), 'Quizul „Recapitulare, redactare și comunicare orală” (materialul de joc al lecției)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '4 min', activitate: 'Le cer elevilor să numească un lucru pe care l-au schimbat la textul propriu după feedbackul colegului.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că recapitulăm etapele scrierii, integrarea feedbackului, elementele grafice și ascultarea activă.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '8 min', activitate: 'Reluăm etapele redactării, regulile feedbackului util și strategiile de ascultare activă.' },
-      { etapa: 'Dirijarea învățării', timp: '16 min', activitate: 'Rezolvăm ghidat exercițiile de redactare și comunicare orală de la pp. 48-49.' },
-      { etapa: 'Obținerea performanței', timp: '17 min', activitate: 'Elevii rezolvă quizul „Recapitulare, redactare și comunicare orală", apoi cei care termină pregătesc o scurtă prezentare orală a textului propriu.' },
+      { etapa: 'Discuția cu observator, cerința 24', timp: '10 min', activitate: pasi(
+        'Grupe de cinci discută 6 minute dacă frumusețea fizică e importantă; observatorul completează grila de la p. 27 și raportează.') },
+      { etapa: 'Opinii și comparații, cerințele 13-15', timp: '6 min', activitate: pasi(
+        'Frumusețea în afara sau în interiorul omului; frumusețea în creația artistului; comparația cu textele de bază.') },
+      { etapa: 'Pregătirea compunerii, cerința 25', timp: '8 min', activitate: pasi(
+        'Fiecare își face planul comparației dintre „Izvorul nopții” și „Școala frumuseții”: portretele, trei figuri de stil din fiecare poezie.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (grila de redactare) și ex. 2 (roluri în discuție), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Quizul', timp: '5 min', activitate: pasi(
+        'Quizul „Recapitulare, redactare și comunicare orală”, frontal.') },
+      { etapa: 'Pregătirea evaluării', timp: '5 min', activitate: pasi(
+        'Anunț proba de ora viitoare: o poezie nouă, zece cerințe de limbă și lectură (partea A) și o compunere de cel puțin 200 de cuvinte despre semnificația poeziei, cu reperele exersate (partea B).',
+        'Ce recitesc acasă: notițele despre textul liric, versificație, figurile de stil, categoriile semantice, formarea cuvintelor, registre, fonetică.') },
+      { etapa: 'Temă', timp: '5 min', activitate: pasi(
+        'Tema: cerința 25 (compunerea, cu feedbackul unui coleg); opțional, cerința 26; fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; rezultatele la quiz.',
+    evaluare: 'Grilele observatorilor; fișa de exerciții, ex. 1-2; rezultatele la quiz.',
   },
   'lectia-26': {
     titlu: 'Evaluare',
@@ -442,12 +753,15 @@ export default {
     obiective: ['Susține testul de evaluare sumativă pentru unitate.'],
     resurse: ['Testul tipărit, Manual Art 8, p. 50', 'Barem de corectare din Ghidul profesorului'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '2 min', activitate: 'Le spun elevilor că proba de azi arată tot ce au învățat în unitate și îi liniștesc în privința timpului de lucru.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că se dă proba scrisă a Unității I, care verifică lectura textului liric, limba română și redactarea.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '3 min', activitate: 'Reamintesc pe scurt structura probei și repartizarea timpului între exerciții și redactare.' },
-      { etapa: 'Dirijarea învățării', timp: '5 min', activitate: 'Distribui testele de la p. 50, citesc cerințele cu voce tare, explic punctajul și răspund la întrebările de clarificare.' },
-      { etapa: 'Obținerea performanței', timp: '35 min', activitate: 'Elevii rezolvă individual proba scrisă; supraveghez discret, gestionez timpul și strâng lucrările la final.' },
+      { etapa: 'Instructajul', timp: '5 min', activitate: pasi(
+        'Elevii au pe bancă doar foaia de răspuns și instrumentele de scris; distribui testul (poezia „Minunea” de Ana Blandiana, p. 50).',
+        'Anunț structura: partea A, 60 de puncte (zece cerințe de limbă și lectură), partea B, 30 de puncte (compunere de cel puțin 200 de cuvinte despre semnificația poeziei, cu cele patru repere), 10 puncte din oficiu.',
+        'Timpul orientativ: 5 minute pentru citirea textului, 18 pentru partea A, 17 pentru compunere; cerințele se rezolvă în ordinea preferată, cu numărul lor scris în față.') },
+      { etapa: 'Rezolvarea individuală', timp: '40 min', activitate: pasi(
+        'Elevii rezolvă proba; răspund doar la întrebări despre formularea cerințelor.',
+        'Anunț timpul rămas la 20 și la 5 minute; la 5 minute le reamintesc să verifice cele patru repere ale compunerii și paragrafele.') },
+      { etapa: 'Strângerea lucrărilor', timp: '5 min', activitate: pasi(
+        'Strâng foile, verific numele pe fiecare; anunț că rezultatele și greșelile frecvente se discută după corectare.') },
     ],
     evaluare: 'Evaluare sumativă scrisă, notată după baremul din Ghidul profesorului.',
   },
