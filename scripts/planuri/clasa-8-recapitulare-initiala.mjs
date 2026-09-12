@@ -1,13 +1,11 @@
-// Schițe de plan de lecție, model în 6 pași (momentele lecției), pentru
-// Recapitularea inițială, clasa a VIII-a. Cele două ore sunt administrative,
-// din proiectarea ghidului (ediția 2025), fără pagină de manual asociată.
-// 50 min / lecție.
+// Planuri de lecție detaliate pentru Recapitularea inițială, clasa a VIII-a:
+// prezentarea manualului și o oră de recapitulare. Ghidul profesorului Art 8
+// precizează că manualul nu are evaluare inițială și recomandă un test doar la
+// preluarea unei clase noi; OraRO nu are nici el un test pentru această oră.
+// Fără moment organizatoric; pași concreți, fără rezolvările fișei. 50 min / lecție.
 
-const org = {
-  etapa: 'Moment organizatoric',
-  timp: '3 min',
-  activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
-}
+const pasi = (...linii) => linii.map((l) => `– ${l}`).join('\n')
+const fisa = (n) => `Fișa de exerciții (/materiale/clasa-8/recapitulare-initiala/lectia-${n}/fisa-exercitii.pdf)`
 
 export default {
   'lectia-1': {
@@ -22,14 +20,33 @@ export default {
       'Tablă, pentru harta unităților',
     ],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '7 min', activitate: 'Îi întreb pe elevi ce își amintesc că le-a plăcut cel mai mult la română în clasa a VII-a și ce așteptări au de la anul acesta, care se încheie cu Evaluarea Națională.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '3 min', activitate: 'Anunț că ora e dedicată manualului nou și organizării anului: cum e construit, ce vom parcurge și cum lucrăm.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '7 min', activitate: 'Recapitulăm pe scurt cele patru domenii ale disciplinei, lectură, comunicare orală, limbă, redactare, așa cum le-au întâlnit până acum.' },
-      { etapa: 'Dirijarea învățării', timp: '20 min', activitate: 'Parcurgem împreună manualul: cuprinsul, cele cinci unități, structura unei lecții, rubricile recurente, resursele digitale și paginile de recapitulare și evaluare; notăm pe tablă harta anului.' },
-      { etapa: 'Obținerea performanței', timp: '10 min', activitate: 'Fiecare elev caută în manual, contra cronometru, trei lucruri date de mine, o rubrică, o pagină de evaluare, un text la alegere, și notează la ce pagină le-a găsit.' },
+      { etapa: 'Ce am descoperit în vacanță', timp: '5 min', activitate: pasi(
+        'Întreb: ce carte, ce film sau ce loc v-a impresionat în vacanță? Trei-patru elevi răspund.',
+        'Anunț că e anul Evaluării Naționale și că manualul ne însoțește până acolo.') },
+      { etapa: 'Tema anului', timp: '4 min', activitate: pasi(
+        'Scriu pe tablă „Reflecții asupra lumii”, tema programei pentru clasa a VIII-a.',
+        'Citim, de la pp. 4-5, ce și-au propus autorii și de ce unitățile au titluri-întrebări.') },
+      { etapa: 'Cele cinci unități', timp: '8 min', activitate: pasi(
+        'Paginile 4-5: Unde găsim frumusețea?, Cum sunt ceilalți?, Cum descoperim lumea?, Unde găsim adevărul?, Încotro se îndreaptă lumea?, cu domeniile fiecăreia.',
+        'Autorii textelor de bază: Mihai Eminescu, Lucian Blaga, Nichita Stănescu, Victor Ion Popa, Angela Baciu, Mihail Sadoveanu, Ray Bradbury; elevii spun ce au mai citit de la ei.') },
+      { etapa: 'Rubricile unei lecții', timp: '8 min', activitate: pasi(
+        'Deschidem prima lecție (p. 10) și găsim rubricile: Pentru început, Explorare, Repere, Aplicații, Interpretare, Provocări, Evaluare/Autoevaluare/Portofoliu, Noi pagini – alte idei.',
+        'Explic ce facem cu fiecare: Repere se trec în caiete, exercițiile din manual nefăcute în clasă rămân temă, la fiecare lecție lucrăm și pe o fișă de exerciții.') },
+      { etapa: 'Cuprinsul și varianta digitală', timp: '5 min', activitate: pasi(
+        'Cuprinsul de la pp. 6-7: cum găsim o lecție după unitate și domeniu.',
+        'Varianta digitală: cele trei feluri de activități multimedia interactive și butoanele principale (p. 4).') },
+      { etapa: 'Vânătoarea în manual, în perechi', timp: '10 min', activitate: pasi(
+        'Fiecare pereche notează în caiet pagina: primul text al anului, lecția despre derivare și compunere, proiectul de grup din Unitatea III, recapitularea Unității I, textul dramatic din Unitatea II.',
+        'Verificăm frontal; prima pereche cu toate paginile corecte câștigă.') },
+      { etapa: 'Cum vom fi evaluați', timp: '5 min', activitate: pasi(
+        'Teste la finalul fiecărei unități, proiecte, portofoliu, observarea sistematică (p. 8), autoevaluare; la final, Evaluarea Națională.',
+        'Manualul nu are test inițial; ora viitoare recapitulăm materia clasei a VII-a pe o fișă.') },
+      { etapa: 'Unitatea mea preferată', timp: '3 min', activitate: pasi(
+        'Fiecare elev notează în caiet unitatea care îl atrage cel mai mult și de ce, într-o propoziție.') },
+      { etapa: 'Temă', timp: '2 min', activitate: pasi(
+        'Tema: răsfoiți Unitatea I și notați o poezie sau o imagine care vă stârnește curiozitatea; aduceți caietul de clasa a VII-a.') },
     ],
-    evaluare: 'Observarea sistematică a participării; verificarea exercițiului de orientare în manual.',
+    evaluare: 'Observarea sistematică a elevilor, fără notare.',
   },
   'lectia-2': {
     titlu: 'Recapitulare și evaluare inițială',
@@ -38,17 +55,31 @@ export default {
     durata: 50,
     obiective: ['Recapitulează selectiv conținuturile asociate clasei a VII-a și susține un test predictiv.'],
     resurse: [
-      'Test predictiv tipărit, câte un exemplar pentru fiecare elev',
-      'Tablă, pentru recapitularea noțiunilor',
+      'Caietele elevilor, tabla',
+      fisa(2),
+      'Test inițial pregătit de profesor, doar dacă se aplică: manualul și Ghidul nu conțin unul, iar în OraRO nu există încă',
     ],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '4 min', activitate: 'Le spun elevilor că testul de azi nu se trece în catalog și că rezultatul îmi arată de unde pornim împreună în anul Evaluării Naționale.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '3 min', activitate: 'Anunț că recapitulăm pe scurt noțiunile-cheie din clasa a VII-a, apoi susținem un test predictiv de comprehensiune, limbă și redactare.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '10 min', activitate: 'Reluăm rapid, cu exemple la tablă, textul epic și liric, figurile de stil, părțile de propoziție și modurile verbale, noțiuni din clasa a VII-a pe care testul le atinge.' },
-      { etapa: 'Dirijarea învățării', timp: '5 min', activitate: 'Distribui testele, citesc cerințele cu voce tare, explic structura și timpul de lucru și răspund la întrebările de clarificare.' },
-      { etapa: 'Obținerea performanței', timp: '25 min', activitate: 'Elevii rezolvă individual testul predictiv; supraveghez discret, gestionez timpul și strâng lucrările la final.' },
+      { etapa: 'Adevărat sau fals', timp: '5 min', activitate: pasi(
+        'Citesc afirmațiile; elevii ridică mâna dreaptă pentru adevărat, stânga pentru fals, apoi cineva justifică:',
+        '„Comparația alătură doi termeni printr-un cuvânt de legătură.” / „Rima împerecheată are schema abab.” / „Didascaliile sunt rostite de actori.” / „Pronumele negativ apare doar în enunțuri negative.” / „Interviul folosește mai ales întrebări închise.”') },
+      { etapa: 'Reperele de lectură', timp: '8 min', activitate: pasi(
+        'Întrebări rapide și notițe în caiete, într-un tabel de recapitulare: textul liric (vocea lirică, versificația, figurile de stil), textul epic (naratorul, personajul, mijloacele de caracterizare), textul dramatic (replici, didascalii), interviul.') },
+      { etapa: 'Limba, la tablă', timp: '10 min', activitate: pasi(
+        'Pe enunțuri scurte scrise de mine: felurile pronumelui, valorile numeralului, felurile adverbului, interjecția predicativă, gradele adjectivului.',
+        'Funcțiile sintactice cu întrebările lor: subiect, predicat, nume predicativ, atribut, complemente, circumstanțiale.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții, pagina 1', timp: '12 min', activitate: pasi(
+        'Ex. 1-2: textul „Seara la mare” (scris pentru fișă) și reperele de lectură, individual, 8 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Fișa de exerciții, pagina 2, ex. 3-4', timp: '10 min', activitate: pasi(
+        'Pronumele; alte părți de vorbire, cu felul și funcția, individual, 7 minute.',
+        'Verificare, 3 minute; notez pe tablă ce greșesc mai mulți elevi.') },
+      { etapa: 'Ce trebuie reluat', timp: '3 min', activitate: pasi(
+        'Fiecare elev scrie pe un bilet două teme la care s-a simțit nesigur; strâng biletele, pentru a planifica recapitulările din Unitatea I.') },
+      { etapa: 'Temă', timp: '2 min', activitate: pasi(
+        'Tema: fișa de exerciții, ex. 5.',
+        'Dacă aplic un test inițial propriu (clasă preluată), el înlocuiește pagina 2 a fișei, iar fișa rămâne în întregime temă.') },
     ],
-    evaluare: 'Evaluare inițială scrisă, cu punctaj orientativ, fără notă în catalog; rezultatele se folosesc pentru planul de recuperare pe semestrul I.',
+    evaluare: 'Observarea sistematică a elevilor; fișa de exerciții; biletele cu temele de reluat. Testul inițial, dacă se aplică, fără notare în catalog.',
   },
 }
