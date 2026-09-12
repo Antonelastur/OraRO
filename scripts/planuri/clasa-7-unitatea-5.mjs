@@ -1,13 +1,11 @@
-// Schițe de plan de lecție, model în 6 pași (momentele lecției), pentru
-// Unitatea V „Lumea de pe scenă”, clasa a VII-a. Conținut derivat din
-// datele lecțiilor, din proiectarea pe unități și din Manual Art 7,
-// pp. 166-198. 50 min / lecție.
+// Planuri de lecție detaliate, Unitatea V „Lumea de pe scenă”, clasa a VII-a.
+// Pași concreți pe rubricile și exercițiile din Manual Art 7, pp. 166-198, cu
+// fișa de exerciții a lecției folosită la „Obținerea performanței”. Exercițiile
+// din manual nerezolvate în clasă rămân temă. Fără răspunsuri (ghid sau fișă).
+// 50 min / lecție.
 
-const org = {
-  etapa: 'Moment organizatoric',
-  timp: '3 min',
-  activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
-}
+const pasi = (...linii) => linii.map((l) => `– ${l}`).join('\n')
+const fisa = (n) => `Fișa de exerciții (/materiale/clasa-7/unitatea-5/lectia-${n}/fisa-exercitii.pdf)`
 
 export default {
   'lectia-1': {
@@ -18,14 +16,24 @@ export default {
     obiective: ['Se familiarizează cu tema, grupele, sarcinile, calendarul și criteriile de evaluare ale proiectului de grup De la text la spectacol.'],
     resurse: ['Manual Art 7, p. 183', 'Fișa lecției (/materiale/clasa-7/unitatea-5/lectia-1/fisa.pdf)'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Îi întreb pe elevi dacă au jucat vreodată într-o serbare sau într-o piesă și ce rol le-ar plăcea într-un spectacol: pe scenă sau în culise.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț unitatea „Lumea de pe scenă” și proiectul care o străbate: fiecare grupă va pune în scenă piesa Vrem să vă dăruim câte o fereastră de Matei Vișniec.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '4 min', activitate: 'Reamintim ce știm despre teatru din clasele anterioare: piesă, actor, scenă, spectatori.' },
-      { etapa: 'Dirijarea învățării', timp: '24 min', activitate: 'Citim sarcina de la p. 183: trei grupe de 8-9 elevi, cu regizor, asistent al regizorului, trei actori, doi scenografi, unul sau doi tehnicieni de lumină și sunet. Explic jurnalul proiectului, ținut de asistent, afișul spectacolului și pașii pe cele trei săptămâni, de la împărțirea rolurilor la premieră. Citim grila de evaluare, cu cele șase criterii.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Elevii se împart în grupe, își aleg rolurile și le notează pe fișa lecției, împreună cu calendarul. Distribuția actorilor se poate confirma după lectura piesei, ora următoare.' },
+      { etapa: 'Teatrul, în cuvinte', timp: '5 min', activitate: pasi(
+        'Elevii spun cuvinte pe care le asociază cu teatrul și spectacole pe care le-au văzut (în sală, la televizor, la radio).') },
+      { etapa: 'Sarcina proiectului', timp: '8 min', activitate: pasi(
+        'Citim sarcina de la p. 183: trei grupe de 8-9 elevi pun în scenă piesa „Vrem să vă dăruim câte o fereastră” de Matei Vișniec, pe care o citim ora viitoare.') },
+      { etapa: 'Rolurile din echipă', timp: '7 min', activitate: pasi(
+        'Ce face regizorul, asistentul (care ține jurnalul proiectului), cei trei actori, scenografii, tehnicienii de lumină și de sunet; fiecare echipă face și un afiș.') },
+      { etapa: 'Formarea grupelor', timp: '8 min', activitate: pasi(
+        'Împart clasa în trei grupe; fiecare grupă își împarte rolurile și le notează pe fișa lecției.') },
+      { etapa: 'Calendarul', timp: '7 min', activitate: pasi(
+        'Pașii celor trei săptămâni (roluri și schițe; repetiții și decor; repetiții generale și premieră); fixăm datele premierelor, la lecțiile 10-11.') },
+      { etapa: 'Criteriile de evaluare', timp: '7 min', activitate: pasi(
+        'Citim grila de la p. 183; explic că fiecare grupă le evaluează pe celelalte două.') },
+      { etapa: 'Primele sarcini', timp: '5 min', activitate: pasi(
+        'Grupele își stabilesc prima întâlnire; scenografii notează ideile pentru decor, actorii își aleg personajele.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: asistentul regizorului pornește jurnalul proiectului; fiecare elev își notează sarcinile de pe fișa lecției.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor.',
+    evaluare: 'Fișa lecției completată de fiecare grupă (roluri, calendar).',
   },
   'lectia-2': {
     titlu: 'Textul dramatic. Vrem să vă dăruim câte o fereastră de Matei Vișniec',
@@ -33,16 +41,30 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Identifică informații esențiale din textul dramatic Vrem să vă dăruim câte o fereastră de Matei Vișniec, prin relectură pe scene.'],
-    resurse: ['Manual Art 7, pp. 166-171', 'Bilețele', 'Caietele elevilor'],
+    resurse: ['Manual Art 7, pp. 166-171', fisa(2), 'Bilețele', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '7 min', activitate: 'Elevii spun cât mai multe cuvinte legate de teatru, apoi, în perechi, fac predicții despre piesă pornind de la cuvintele Doinița, ploaie, bibliotecă, tavan, Radu.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că citim piesa pe care o vom pune în scenă și o descoperim scenă cu scenă.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '4 min', activitate: 'Îl prezint pe Matei Vișniec, pe baza textului de la p. 166: dramaturg, poet, romancier, stabilit la Paris în 1987, cu piese jucate în peste 30 de țări și piese pentru copii.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Citesc model piesa, apoi elevii completează enunțurile impresiilor și verifică predicțiile. Relectura pe roluri se face scenă cu scenă, de fiecare dată cu alți trei elevi, iar în grupe de 4-6 elevii completează coloanele Ce s-a întâmplat? și De ce s-a întâmplat?, găsesc pasiunea fiecărui personaj, emoțiile trăite, personajul salvator și soluția ieșirii din labirint și dau un titlu fiecărei scene.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Fiecare elev scrie pe un bilețel un cuvânt care sintetizează textul și îl lipește pe tablă; comparăm cuvintele grupelor și găsim ce au în comun titlurile scenelor. Ca provocare, citim mărturisirea lui Borges despre paradisul-bibliotecă.' },
+      { etapa: '„Pentru început”, ex. 1-3', timp: '5 min', activitate: pasi(
+        'Ce le place și ce nu le place la teatru; în perechi, predicții pe baza cuvintelor de la p. 166.') },
+      { etapa: 'Autorul', timp: '2 min', activitate: pasi(
+        'Caseta despre Matei Vișniec de la p. 166.') },
+      { etapa: 'Lectura model, ex. 4', timp: '10 min', activitate: pasi(
+        'Citesc eu piesa (pp. 166-170), marcând vocea fiecărui personaj; elevii urmăresc și indicațiile scrise cu italice.') },
+      { etapa: 'Impresii după prima lectură, ex. 1-2', timp: '3 min', activitate: pasi(
+        'Doi-trei elevi completează oral enunțurile; s-au împlinit predicțiile?') },
+      { etapa: 'Scena 1, pe roluri, ex. 3-4', timp: '6 min', activitate: pasi(
+        'Trei elevi citesc scena 1; grupele de 4-6 răspund la cerințele a-e (tabelul „Ce s-a întâmplat? / De ce s-a întâmplat?”, titlul scenei).') },
+      { etapa: 'Scena 2, ex. 5-6', timp: '5 min', activitate: pasi(
+        'Alți trei elevi citesc scena 2; grupele notează ce se schimbă, emoțiile și titlul.') },
+      { etapa: 'Scenele 3 și 4, ex. 7-10', timp: '6 min', activitate: pasi(
+        'Citire pe roluri, cu alți elevi; grupele continuă tabelul: personajul salvator, soluția ieșirii, cărțile din bibliotecă, titlurile.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '8 min', activitate: pasi(
+        'Pagina 1: ex. 1 (scenă cu scenă) și ex. 2 (adevărat sau fals), individual, 6 minute; verificarea ex. 2, 2 minute.') },
+      { etapa: 'Cuvântul textului, ex. 11', timp: '3 min', activitate: pasi(
+        'Fiecare scrie pe un bilețel un cuvânt care sintetizează piesa; lipim bilețelele pe tablă și căutăm ce au în comun.') },
+      { etapa: 'Temă', timp: '2 min', activitate: pasi(
+        'Tema: fișa de exerciții, pagina 2; opțional, Provocări (paradisul tău, 80-100 de cuvinte).') },
     ],
-    evaluare: 'Observarea sistematică a elevilor.',
+    evaluare: 'Observarea sistematică a grupelor; fișa de exerciții, ex. 1-2.',
   },
   'lectia-3': {
     titlu: 'Textul dramatic. Structura, rolul indicațiilor scenice, autorul',
@@ -50,16 +72,29 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Investighează structura textului dramatic și identifică indicațiile scenice.'],
-    resurse: ['Manual Art 7, p. 172', 'Schema „Textul dramatic. Structura. Indicațiile scenice” (/materiale/clasa-7/unitatea-5/lectia-3/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 7, p. 172', fisa(3), 'Schema „Textul dramatic. Structura. Indicațiile scenice” (/materiale/clasa-7/unitatea-5/lectia-3/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Îi întreb pe elevi dacă piesa lui Matei Vișniec a fost scrisă pentru a fi citită sau pentru a fi jucată și cât ar dura spectacolul.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că descoperim cum e alcătuit un text dramatic și la ce folosesc indicațiile autorului.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reamintim dialogul și linia de dialog din textul narativ și comparăm punerea în pagină a piesei cu textele studiate până acum.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'În perechi, elevii despart în text ce s-ar auzi pe scenă de ce nu s-ar auzi și discută rolul celei de-a doua categorii. Cu ajutorul schemei fixăm Reperele de la p. 172: actul și scena, textul dialogat și replica, indicațiile autorului, didascaliile externe și interne.' },
-      { etapa: 'Obținerea performanței', timp: '13 min', activitate: 'Elevii stabilesc câte acte și scene are piesa și după ce criteriu sunt delimitate scenele, grupează în externe și interne indicațiile de la începutul piesei, apoi, în grupe de 4-5, caută indicații pentru etichetele de la p. 172: deplasarea, gesturile, acțiunile, tonul vocii, destinatarul replicii, amenajarea scenei.' },
+      { etapa: 'Citit sau jucat? Explorare, ex. 1-2', timp: '5 min', activitate: pasi(
+        'Pentru ce a fost scris textul; cât ar dura spectacolul.') },
+      { etapa: 'Ce se aude pe scenă, ex. 3', timp: '7 min', activitate: pasi(
+        'În perechi: secvențele rostite și cele nerostite; ce informații dau cele din urmă și de ce le-a notat autorul.') },
+      { etapa: 'Punerea în pagină, ex. 4', timp: '2 min', activitate: pasi(
+        'Ce e diferit față de textele studiate până acum.') },
+      { etapa: 'Notițe: textul dramatic', timp: '8 min', activitate: pasi(
+        'Proiectez schema; în caiete, după Repere (p. 172): actul și scena, replica, textul dialogat și indicațiile autorului, didascaliile externe și interne.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1-2 (fragmentul „Ninsoarea”, scris pentru fișă, și indicațiile autorului), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Acte, scene, criteriul, Aplicații, ex. 1-2', timp: '4 min', activitate: pasi(
+        'Câte acte și scene are piesa; după ce criteriu sunt delimitate scenele.') },
+      { etapa: 'Începutul piesei, ex. 3', timp: '5 min', activitate: pasi(
+        'În perechi, indicațiile de la p. 166, grupate în externe și interne.') },
+      { etapa: 'Etichetele, ex. 4', timp: '5 min', activitate: pasi(
+        'Grupe de 4-5: câte o indicație din piesă pentru fiecare etichetă (deplasare, gesturi, acțiuni, ton, destinatar, scenă și efecte).') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; aprecieri.',
+    evaluare: 'Observarea sistematică a elevilor; fișa de exerciții, ex. 1-2.',
   },
   'lectia-4': {
     titlu: 'Arta spectacolului. Personajul dramatic',
@@ -67,16 +102,30 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Identifică persoanele implicate în realizarea unui spectacol și trăsăturile morale ale personajelor, realizând fișe de identitate.'],
-    resurse: ['Manual Art 7, pp. 173-174', 'Fișa lecției (/materiale/clasa-7/unitatea-5/lectia-4/fisa.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 7, pp. 173-174', fisa(4), 'Fișa lecției (/materiale/clasa-7/unitatea-5/lectia-4/fisa.pdf)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Privim desenul sălii de teatru în timpul repetițiilor de la p. 173 și căutăm actorii, apoi ghicim ce rol au ceilalți oameni de pe scenă.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că aflăm cine lucrează la un spectacol și cum se construiește un personaj dramatic.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reamintim indicațiile scenice de ora trecută și rolurile din grupele proiectului.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Stabilim cine ar pune în practică indicațiile a-c de la p. 173 și cui îi e adresată sugestia cântecului final. Fixăm Reperele: originea cuvântului teatru și meseriile spectacolului, de la regizor la tehnicianul de sunet. Pe lista personajelor discutăm relația dintre Radu, Eliza și Doinița, apoi natura dublă a personajului dramatic și modurile în care e construit.' },
-      { etapa: 'Obținerea performanței', timp: '13 min', activitate: 'În grupe de câte trei, elevii citesc pe roluri începutul scenei 2 și completează fișa Doiniței, apoi fișele de identitate ale lui Radu și Eliza, pe fișa lecției. Discutăm dacă piesa are un personaj principal.' },
+      { etapa: 'Repetiția, Explorare, ex. 1', timp: '4 min', activitate: pasi(
+        'Desenul de la p. 173: cine sunt actorii și ce fac ceilalți oameni de pe scenă.') },
+      { etapa: 'Explorare, ex. 2-4', timp: '6 min', activitate: pasi(
+        'De ce numele personajului stă în fața replicii; cine pune în aplicare indicațiile a-c; cui se adresează mesajul despre cântecul final și de ce e opțional.') },
+      { etapa: 'Notițe: arta spectacolului', timp: '6 min', activitate: pasi(
+        'În caiete, după Repere (p. 173): originea cuvântului teatru și persoanele implicate într-un spectacol.') },
+      { etapa: 'Personajul dramatic, Explorare, ex. 1-3', timp: '5 min', activitate: pasi(
+        'Informațiile din lista personajelor; cum prinde viață personajul; relația dintre cei trei copii.') },
+      { etapa: 'Notițe: personajul dramatic', timp: '3 min', activitate: pasi(
+        'Dubla natură a personajului; caracterizarea directă și indirectă (Repere, p. 174).') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (cine se ocupă?) și ex. 2 (direct sau indirect?), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Regizorul, Aplicații, ex. 1', timp: '3 min', activitate: pasi(
+        'Căror persoane le dă instrucțiuni regizorul, după indicațiile de la începutul scenei 2.') },
+      { etapa: 'Fișa Doiniței, ex. 2', timp: '8 min', activitate: pasi(
+        'Grupe de trei citesc pe roluri prima parte a scenei 2 și completează fișa personajului, cu o replică relevantă.') },
+      { etapa: 'Temă', timp: '4 min', activitate: pasi(
+        'Tema: Aplicații, ex. 3-4; fișa lecției; fișa de exerciții, pagina 2.',
+        'Provocări, pe grupele de proiect: schițele de decor și costume.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; fișele de identitate ale personajelor.',
+    evaluare: 'Observarea sistematică a elevilor; fișa de exerciții, ex. 1-2; fișele Doiniței.',
   },
   'lectia-5': {
     titlu: 'Rolul dialogului. Dialogul în textul scris și în spectacol',
@@ -84,16 +133,30 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Identifică particularitățile dialogului dramatic și rolul lui în construcția personajelor.'],
-    resurse: ['Manual Art 7, pp. 175-176', 'Fișa lecției (/materiale/clasa-7/unitatea-5/lectia-5/fisa.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 7, pp. 175-176', fisa(5), 'Fișa lecției (/materiale/clasa-7/unitatea-5/lectia-5/fisa.pdf)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Citim schimbul de replici dintre Eliza, Radu și Doinița de la p. 175 și stabilim cine vorbește și cine ascultă.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că urmărim ce face dialogul într-o piesă și cum ne ajută să cunoaștem personajele.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reamintim replica și indicațiile scenice.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Discutăm rolul spectatorilor și, pe schema de la p. 175, planurile comunicării. Fixăm Reperele despre dialogul și monologul dramatic. În perechi, elevii completează axa timpului, de vinerea trecută până astăzi, și găsesc cuvintele care conturează spațiul. Asociem fragmentele a-d cu tipurile de replici de pe măștile teatrale.' },
-      { etapa: 'Obținerea performanței', timp: '13 min', activitate: 'Elevii găsesc, în fiecare scenă, o replică adresată publicului, desprind trăsăturile lui Radu din replicile date și discută intenția primei replici a lui Radu din scena 2 și efectul ei asupra Doiniței. Rezolvă apoi fișa lecției.' },
+      { etapa: 'Vorbitor și ascultător, Explorare, ex. 1-3', timp: '7 min', activitate: pasi(
+        'Radu și Eliza în fragmentul de la p. 175; rolul spectatorilor; planurile comunicării din schemă.') },
+      { etapa: 'Notițe: dialogul dramatic', timp: '5 min', activitate: pasi(
+        'În caiete, după Repere (p. 175): dialogul, rolurile lui, didascaliile, comunicarea cu spectatorii, monologul.') },
+      { etapa: 'Axa timpului, Aplicații, ex. 1', timp: '5 min', activitate: pasi(
+        'În perechi, completăm axa de la „vinerea trecută” la „astăzi”.') },
+      { etapa: 'Spațiul, ex. 2', timp: '3 min', activitate: pasi(
+        'Cuvintele care conturează spațiul întâmplării.') },
+      { etapa: 'Tipurile de replici, ex. 4', timp: '5 min', activitate: pasi(
+        'Asociem fragmentele a-d cu tipurile de replici din jurul măștilor.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (cum se leagă replicile) și ex. 2 (cui se adresează), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Adresarea către public, ex. 5-6', timp: '4 min', activitate: pasi(
+        'Câte o replică din fiecare scenă adresată publicului; va interveni publicul?') },
+      { etapa: 'Dialogul care caracterizează, ex. 7-8', timp: '6 min', activitate: pasi(
+        'Trăsăturile lui Radu din replicile a-b; intenția primei replici a lui Radu din scena 2 și efectul asupra Doiniței.') },
+      { etapa: 'Temă', timp: '4 min', activitate: pasi(
+        'Tema: Aplicații, ex. 3 (secvența transformată în narațiune); fișa lecției; fișa de exerciții, pagina 2.',
+        'Opțional: Provocări, ex. 1 (cum ai juca un personaj, 100-150 de cuvinte).') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; fișa lecției.',
+    evaluare: 'Observarea sistematică a elevilor; fișa de exerciții, ex. 1-2.',
   },
   'lectia-6': {
     titlu: 'Semnificațiile textului',
@@ -101,16 +164,28 @@ export default {
     tipOra: 'Predare, interpretare',
     durata: 50,
     obiective: ['Formulează un răspuns personal despre semnificațiile textului dramatic și rolul lecturii.'],
-    resurse: ['Manual Art 7, p. 177', 'Fișa lecției (/materiale/clasa-7/unitatea-5/lectia-6/fisa.pdf)', 'Un cub cu cele șase comenzi'],
+    resurse: ['Manual Art 7, p. 177', fisa(6), 'Fișa lecției (/materiale/clasa-7/unitatea-5/lectia-6/fisa.pdf)', 'Un cub cu cele șase comenzi'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Citim replica Doiniței „Nimeni nu se pierde într-o bibliotecă” și îi întreb pe elevi dacă ei s-au simțit vreodată pierduți sau regăsiți printre cărți.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că descoperim ce sunt, de fapt, ferestrele bibliotecii.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '4 min', activitate: 'Reluăm titlurile date scenelor și cuvintele-sinteză din prima oră.' },
-      { etapa: 'Dirijarea învățării', timp: '24 min', activitate: 'Discutăm interpretările titlului de la p. 177, ce îi face pe copii să vadă ferestre acolo unde spuneau că nu sunt și secvențele din scena 4 care arată cărțile ca ferestre spre sine, spre lumea apropiată și cea îndepărtată, spre trecut și viitor. Discutăm și rostul indicațiilor finale ale autorului. Metoda cubului: șase grupe lucrează pe versurile Doiniței, cu comenzile descrie, compară, asociază, analizează, aplică, argumentează.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Grupele își prezintă rezultatele, apoi dezbatem pe scurt rolul lecturii în viața noastră. Elevii rezolvă fișa lecției.' },
+      { etapa: 'Titlul, Interpretare, ex. 1', timp: '6 min', activitate: pasi(
+        'Recitim ultimele șase replici; discutăm variantele a-c sau o altă interpretare.') },
+      { etapa: 'Ferestrele, ex. 2', timp: '5 min', activitate: pasi(
+        'Ce îi face pe copii să-și schimbe părerea despre bibliotecă; care sunt ferestrele ei.') },
+      { etapa: 'Te poți pierde într-o bibliotecă? ex. 3', timp: '4 min', activitate: pasi(
+        'Ce a vrut să spună Doinița; opiniile elevilor.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (ce pot sugera) și ex. 2 (cărțile mele-ferestre), individual, 7 minute.',
+        'Verificare și câteva exemple de cărți-ferestre, 4 minute.') },
+      { etapa: 'Ferestre spre..., ex. 4', timp: '4 min', activitate: pasi(
+        'Secvențele din scena 4 pentru fiecare fereastră: spre sine, spre realitatea apropiată, spre lumea îndepărtată, spre trecut și viitor.') },
+      { etapa: 'Indicațiile din final, ex. 5', timp: '4 min', activitate: pasi(
+        'De ce le-a notat autorul; alegem una dintre ipoteze sau formulăm alta.') },
+      { etapa: 'Cubul, ex. 6', timp: '13 min', activitate: pasi(
+        'Șase grupe; reprezentantul fiecăreia aruncă cubul și primește comanda; 8 minute de lucru pe versurile finale.',
+        'Prezentări, 5 minute.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: fișa lecției; fișa de exerciții, pagina 2; opțional, Provocări (biblioteci celebre).') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; fișa lecției.',
+    evaluare: 'Aprecieri pe prezentările de la Cubul; fișa de exerciții, ex. 1-2.',
   },
   'lectia-7': {
     titlu: 'Dialogul în textul nonliterar. Interviul (I)',
@@ -118,16 +193,29 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Descoperă trăsăturile interviului ca text nonliterar dialogat, pe baza unui interviu cu Matei Vișniec.'],
-    resurse: ['Manual Art 7, pp. 178-180', 'Fișa lecției (/materiale/clasa-7/unitatea-5/lectia-7/fisa.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 7, pp. 178-180', fisa(7), 'Fișa lecției (/materiale/clasa-7/unitatea-5/lectia-7/fisa.pdf)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '6 min', activitate: 'Îi întreb pe elevi cui ar lua un interviu dacă ar fi jurnaliști, iar fiecare notează două întrebări pentru acea persoană.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că citim un interviu luat lui Matei Vișniec de o elevă, Miruna.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '4 min', activitate: 'Reamintim textul nonliterar și ce am aflat despre Matei Vișniec.' },
-      { etapa: 'Dirijarea învățării', timp: '23 min', activitate: 'Citesc model interviul, apărut în 2016 la Digi24, apoi elevii completează enunțurile impresiilor. Discutăm cine întreabă și cine răspunde, scopul textului, apoi ideile scriitorului: copilăria la Rădăuți, circul, Habarnam în Orașul Soarelui, copiii ca public exigent, după Peter Brook, sfatul despre ecrane.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Fiecare elev formulează o întrebare pe care i-ar fi pus-o scriitorului, în afara celor puse de Miruna, apoi rezolvă fișa lecției.' },
+      { etapa: 'Dacă ai fi jurnalist, „Pentru început”, ex. 1', timp: '4 min', activitate: pasi(
+        'Cui le-ar lua elevii un interviu; câteva întrebări, pe tablă.') },
+      { etapa: 'Lectura, ex. 2', timp: '8 min', activitate: pasi(
+        'Citesc interviul de la pp. 178-179, cu o elevă în rolul Mirunei.') },
+      { etapa: 'Impresii după prima lectură, ex. 1-2', timp: '4 min', activitate: pasi(
+        'Enunțurile, oral; ce altă întrebare i-ar fi pus elevii scriitorului.') },
+      { etapa: 'Cine întreabă, cine răspunde, Explorare, ex. 1-2', timp: '4 min', activitate: pasi(
+        'Reporterul și intervievatul; scopul textului, ales dintre variante.') },
+      { etapa: 'Notițe: interviul', timp: '6 min', activitate: pasi(
+        'În caiete, după Repere (p. 180): interviul ca text jurnalistic, formele lui, întrebările deschise și închise, etapele.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (deschise sau închise?) și ex. 2 (ce spune scriitorul), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Aplicații, ex. 1-2', timp: '5 min', activitate: pasi(
+        'Scopul primei intervenții a Mirunei; felul întrebărilor ei.') },
+      { etapa: 'Cele nouă cadrane, ex. 3', timp: '5 min', activitate: pasi(
+        'În perechi, primele trei secvențe: cuvântul-cheie și răspunsurile.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: Aplicații, ex. 3 (restul cadranelor); fișa lecției; fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; fișa lecției.',
+    evaluare: 'Observarea sistematică a elevilor; fișa de exerciții, ex. 1-2.',
   },
   'lectia-8': {
     titlu: 'Dialogul în textul nonliterar. Interviul (II)',
@@ -135,16 +223,27 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Verifică, printr-un minitest, înțelegerea trăsăturilor interviului ca text nonliterar.'],
-    resurse: ['Manual Art 7, p. 180', 'Quizul „Interviul, minitest” (materialul de joc al lecției)', 'Caietele elevilor'],
+    resurse: ['Manual Art 7, p. 180', fisa(8), 'Quizul „Interviul, minitest” (materialul de joc al lecției)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Citim prima intervenție a Mirunei, care nu e o întrebare, și îi întreb pe elevi ce rost are.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că fixăm trăsăturile interviului și ne verificăm printr-un minitest.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reluăm pe scurt ideile interviului de ora trecută.' },
-      { etapa: 'Dirijarea învățării', timp: '17 min', activitate: 'Fixăm Reperele de la p. 180: interviul ca text nonliterar, jurnalistic, informativ, întrebările deschise și închise, etapele interviului. Stabilim ce fel de întrebări pune Miruna, apoi, în perechi, elevii împart o foaie în nouă cadrane și notează cuvântul-cheie și răspunsurile pentru fiecare secvență.' },
-      { etapa: 'Obținerea performanței', timp: '18 min', activitate: 'Elevii rezolvă quizul „Interviul, minitest” și completează autoevaluarea de la p. 180. Prezint tema de portofoliu: în echipe, întrebări pentru un interviu cu o persoană publică.' },
+      { etapa: 'Cadranele, verificarea temei', timp: '8 min', activitate: pasi(
+        'Perechile prezintă câte o secvență din cele nouă: cuvântul-cheie și răspunsurile.') },
+      { etapa: 'Trăsăturile interviului', timp: '5 min', activitate: pasi(
+        'Întrebări frontale: ce e interviul, unde apare, ce fel de întrebări se recomandă, care sunt etapele.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1-2 (interviul „După premieră”, scris pentru fișă, și recunoașterea elementelor), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Minitestul', timp: '10 min', activitate: pasi(
+        'Quizul „Interviul, minitest”, individual sau frontal.') },
+      { etapa: 'Greșelile', timp: '4 min', activitate: pasi(
+        'Discutăm întrebările la care s-a greșit cel mai des.') },
+      { etapa: 'Autoevaluare L1-L6', timp: '3 min', activitate: pasi(
+        'Cele trei enunțuri de la p. 180, în caiete.') },
+      { etapa: 'Pregătirea interviului, Portofoliu', timp: '6 min', activitate: pasi(
+        'Grupele aleg persoana publică și încep întrebările, pe fișa de exerciții, ex. 3.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: fișa de exerciții, pagina 2; Portofoliu (întrebările interviului, în grup).') },
     ],
-    evaluare: 'Rezultatele la minitest; autoevaluarea de la p. 180.',
+    evaluare: 'Rezultatele la minitest; fișa de exerciții, ex. 1-2; autoevaluarea L1-L6.',
   },
   'lectia-9': {
     titlu: 'Text auxiliar. Fragment din Visul unei nopți de vară de William Shakespeare',
@@ -152,16 +251,27 @@ export default {
     tipOra: 'Lectură, text auxiliar',
     durata: 50,
     obiective: ['Interpretează un fragment din textul dramatic Visul unei nopți de vară de William Shakespeare, prin metoda grupului de lectură.'],
-    resurse: ['Manual Art 7, pp. 181-182', 'Fișa lecției (/materiale/clasa-7/unitatea-5/lectia-9/fisa.pdf)', 'Un dicționar englez-român'],
+    resurse: ['Manual Art 7, pp. 181-182', fisa(9), 'Fișa lecției (/materiale/clasa-7/unitatea-5/lectia-9/fisa.pdf)', 'Un dicționar englez-român'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Legăm fragmentul de proiectul nostru: și la Shakespeare un grup de meșteri pregătește o piesă, pentru nunta ducelui Atenei.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că citim o scenă de comedie în care se împart rolurile unei piese.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '4 min', activitate: 'Citim prezentarea de la p. 181 și reamintim actul, scena și indicațiile scenice.' },
-      { etapa: 'Dirijarea învățării', timp: '24 min', activitate: 'Elevii citesc individual fragmentul și își notează primele impresii, apoi îl citim pe roluri. În grupe de șase, fiecare elev face fișa de identitate a unui personaj, cu numele, meseria, rolul primit, reacția și o replică, iar grupa stabilește asemănările și deosebirile. Discutăm locul acțiunii, de ce s-au adunat meșterii, cine face pe regizorul, rolurile dorite de Jurubiță și de ce refuză Flaut rolul Thisbeii.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Elevii caută în dicționar numele originale, Quince, Bottom, Flute, și explică traducerea lor, apoi deduc din nume câte o trăsătură fizică. Rezolvă fișa lecției și prezint volumele de la Biblioteci deschise.' },
+      { etapa: 'Introducerea de la p. 181', timp: '3 min', activitate: pasi(
+        'Shakespeare și comedia „Visul unei nopți de vară”; o trupă de actori amatori pregătește o piesă pentru nunta ducelui.') },
+      { etapa: 'Lectura pe roluri', timp: '8 min', activitate: pasi(
+        'Șase elevi citesc fragmentul; ceilalți notează primele impresii (ce le-a plăcut, ce nu, ce nu au înțeles, ce le-a amintit).') },
+      { etapa: 'Locul și scopul, Discutarea textului, ex. 1-2', timp: '4 min', activitate: pasi(
+        'Unde are loc acțiunea și din ce secvență aflăm; de ce s-au adunat meșterii și unde vor juca.') },
+      { etapa: 'Grupul de lectură, ex. 3', timp: '10 min', activitate: pasi(
+        'Grupe de șase: fiecare elev face fișa de identitate a unui personaj, o prezintă grupului; grupa stabilește asemănările și deosebirile.') },
+      { etapa: 'Regizorul și actorii, ex. 4-6', timp: '5 min', activitate: pasi(
+        'Cine își asumă rolul regizorului; rolurile dorite de Jurubiță și argumentele lui; motivul lui Flaut.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (meșterii și rolurile) și ex. 2 (adevărat sau fals), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Numele personajelor, ex. 7-8', timp: '6 min', activitate: pasi(
+        'Căutăm în dicționarul englez-român numele originale; cum le-a transpus traducătorul; ce trăsături fizice sugerează.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: fișa lecției; fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; fișa lecției.',
+    evaluare: 'Observarea grupului de lectură; fișa de exerciții, ex. 1-2.',
   },
   'lectia-10': {
     titlu: 'Prezentarea proiectului de grup De la text la spectacol (I)',
@@ -171,14 +281,24 @@ export default {
     obiective: ['Prezintă produsul proiectului de grup De la text la spectacol, în fața clasei.'],
     resurse: ['Grila de evaluare, Manual Art 7, p. 183', 'Fișa lecției (/materiale/clasa-7/unitatea-5/lectia-10/fisa.pdf)', 'Decorurile, costumele și afișele grupelor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '3 min', activitate: 'Grupele își expun afișele spectacolelor, iar clasa le privește.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că azi au loc premierele celor trei spectacole.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '4 min', activitate: 'Recitim criteriile grilei de la p. 183: viziunea regizorului, rostirea replicilor, respectarea indicațiilor, decorul și efectele, interpretarea, afișul.' },
-      { etapa: 'Dirijarea învățării', timp: '5 min', activitate: 'Stabilim ordinea spectacolelor și le dau elevilor fișa de observare, pe care fiecare grupă notează spectacolele celorlalte două.' },
-      { etapa: 'Obținerea performanței', timp: '33 min', activitate: 'Grupele își joacă pe rând spectacolul, iar spectatorii completează fișa după criteriile grilei.' },
+      { etapa: 'Pregătirea scenei', timp: '5 min', activitate: pasi(
+        'Prima grupă își așază decorul și recuzita; afișele celor trei grupe se lipesc pe tablă.') },
+      { etapa: 'Instructajul spectatorilor', timp: '3 min', activitate: pasi(
+        'Grupele care nu joacă urmăresc spectacolul cu grila de la p. 183 și fișa lecției; notează câte o observație pe criteriu.') },
+      { etapa: 'Spectacolul grupei 1', timp: '11 min', activitate: pasi(
+        'Grupa 1 joacă piesa; cronometrez și notez observații pentru feedback.') },
+      { etapa: 'Schimbarea decorului', timp: '3 min', activitate: pasi(
+        'Grupa 2 își pregătește scena; spectatorii își completează grila pentru grupa 1.') },
+      { etapa: 'Spectacolul grupei 2', timp: '11 min', activitate: pasi(
+        'Grupa 2 joacă piesa.') },
+      { etapa: 'Schimbarea decorului', timp: '3 min', activitate: pasi(
+        'Grupa 3 își pregătește scena; grilele pentru grupa 2.') },
+      { etapa: 'Spectacolul grupei 3', timp: '11 min', activitate: pasi(
+        'Grupa 3 joacă piesa.') },
+      { etapa: 'Încheiere', timp: '3 min', activitate: pasi(
+        'Grilele se completează pentru grupa 3; asistenții aduc ora viitoare jurnalele proiectului.') },
     ],
-    evaluare: 'Fișele de observare completate de grupe. Ora presupune că spectacolele au fost pregătite în cele trei săptămâni anunțate la lecția 1; dacă o grupă nu e gata, prezentarea ei se mută.',
+    evaluare: 'Grilele de evaluare de la p. 183, completate de grupele-spectatori; observațiile profesorului.',
   },
   'lectia-11': {
     titlu: 'Evaluarea proiectului de grup De la text la spectacol (II)',
@@ -188,14 +308,24 @@ export default {
     obiective: ['Evaluează proiectele prezentate, oferind și primind feedback, conform grilei de evaluare.'],
     resurse: ['Grila de evaluare, Manual Art 7, p. 183', 'Fișa lecției (/materiale/clasa-7/unitatea-5/lectia-11/fisa.pdf)', 'Fișele de observare și jurnalele proiectului'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '4 min', activitate: 'Fiecare elev spune într-un cuvânt cum s-a simțit la premieră.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că evaluăm spectacolele și ne oferim feedback.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reamintim regulile unui feedback respectuos: întâi ce a mers bine, apoi ce se poate îmbunătăți, cu exemple.' },
-      { etapa: 'Dirijarea învățării', timp: '18 min', activitate: 'Grupele centralizează fișele de observare pe grila de la p. 183 și formulează feedbackul pentru celelalte două spectacole. Asistenții regizorilor citesc câte un fragment din jurnalul proiectului.' },
-      { etapa: 'Obținerea performanței', timp: '18 min', activitate: 'Fiecare grupă primește și discută feedbackul, apoi fiecare elev completează pe fișa lecției autoevaluarea contribuției sale la proiect.' },
+      { etapa: 'Criteriile', timp: '3 min', activitate: pasi(
+        'Recitim grila de la p. 183 și regula feedbackului: întâi ce a mers, apoi o sugestie.') },
+      { etapa: 'Feedback pentru grupa 1', timp: '10 min', activitate: pasi(
+        'Celelalte două grupe citesc aprecierile pe criterii; grupa 1 răspunde; adaug observațiile mele.') },
+      { etapa: 'Feedback pentru grupa 2', timp: '10 min', activitate: pasi(
+        'La fel, pentru grupa 2.') },
+      { etapa: 'Feedback pentru grupa 3', timp: '10 min', activitate: pasi(
+        'La fel, pentru grupa 3.') },
+      { etapa: 'Jurnalele proiectului', timp: '7 min', activitate: pasi(
+        'Asistenții regizorilor citesc câte o intrare din jurnal; ce a mers bine în echipă, ce a fost greu.') },
+      { etapa: 'Afișele', timp: '4 min', activitate: pasi(
+        'Turul afișelor: cât de bine anunță spectacolul fiecare.') },
+      { etapa: 'Autoevaluarea', timp: '4 min', activitate: pasi(
+        'Pe fișa lecției, fiecare elev notează ce a învățat și ce ar face altfel.') },
+      { etapa: 'Încheiere', timp: '2 min', activitate: pasi(
+        'Anunț aprecierile finale ale proiectului.') },
     ],
-    evaluare: 'Evaluarea produsului și a prezentării pe grila de la p. 183; interevaluare și autoevaluare.',
+    evaluare: 'Interevaluare pe grila de la p. 183; jurnalele proiectului; autoevaluarea individuală.',
   },
   'lectia-12': {
     titlu: 'Textul dialogat. Tracul comunicativ',
@@ -203,16 +333,31 @@ export default {
     tipOra: 'Comunicare orală',
     durata: 50,
     obiective: ['Discută despre tracul comunicativ și exersează prezentarea orală a unui monolog, printr-un joc de rol.'],
-    resurse: ['Manual Art 7, pp. 184-185', 'Quizul „Textul dialogat. Tracul comunicativ” (materialul de joc al lecției)', 'Bilețele cu roluri'],
+    resurse: ['Manual Art 7, pp. 184-185', fisa(12), 'Quizul „Textul dialogat. Tracul comunicativ” (materialul de joc al lecției)', 'Bilețele cu roluri'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Îi întreb pe elevi ce rol preferă într-un dialog: să vorbească, să asculte sau să observe. În grupe de patru, dau exemple de momente în care emoțiile i-au împiedicat să spună ce voiau.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că exersăm dialogul și învățăm să ne stăpânim emoțiile când vorbim în public.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '4 min', activitate: 'Reamintim emoțiile de la premiera spectacolului.' },
-      { etapa: 'Dirijarea învățării', timp: '18 min', activitate: 'Joc de rol: în grupe de patru, elevii trag la sorți rolurile de mamă, tată, copil și soră mai mare, iar copilul încearcă să obțină voie la o petrecere în pijamale. Grupele prezintă, iar ceilalți notează pe fișa de la p. 184 fiecare interlocutor, cu FB, P sau S. Fixăm Reperele despre dialog, apoi, pe imaginile de la p. 185, semnele emoției și strategiile de gestionare a tracului.' },
-      { etapa: 'Obținerea performanței', timp: '18 min', activitate: 'Câțiva elevi prezintă un text de două minute pe o temă de la p. 185, aplicând strategiile, iar publicul completează grila. Toți rezolvă quizul „Textul dialogat. Tracul comunicativ”.' },
+      { etapa: '„Pentru început”, ex. 1-2', timp: '5 min', activitate: pasi(
+        'Ce rol preferă elevii într-un dialog; în grupe de patru, momente în care emoțiile i-au împiedicat să spună ce voiau.') },
+      { etapa: 'Petrecerea în pijamale, Explorare, ex. 1', timp: '12 min', activitate: pasi(
+        'Grupe de patru trag la sorți bilețelele (mama, tata, copilul, sora mai mare) și pregătesc dialogul, 5 minute.',
+        'Două grupe îl joacă; ceilalți completează fișa de observare cu FB, P, S.') },
+      { etapa: 'Calificativele și itemii, ex. 2-3', timp: '4 min', activitate: pasi(
+        'Cine a avut cea mai bună prestație; răspunsurile la itemii A-C.') },
+      { etapa: 'Notițe: dialogul', timp: '3 min', activitate: pasi(
+        'În caiete, după Repere (p. 184): dialogul, conversația, replica, dialogul direct și mediat.') },
+      { etapa: 'Semnele emoției', timp: '3 min', activitate: pasi(
+        'Imaginile a-d de la p. 185: semnele tracului.') },
+      { etapa: 'Notițe: tracul comunicativ', timp: '4 min', activitate: pasi(
+        'Definiția și cele opt strategii de gestionare (Repere, p. 185).') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (reguli de dialog) și ex. 2 (semnul și soluția), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Quizul', timp: '5 min', activitate: pasi(
+        'Quizul „Textul dialogat. Tracul comunicativ”, frontal.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: Aplicații, ex. 2, discursul de două minute, planificat pe fișa de exerciții, ex. 3; câțiva elevi îl prezintă ora viitoare.',
+        'Opțional: fișa de exerciții, ex. 4, și Provocări (tracul și talentul).') },
     ],
-    evaluare: 'Fișa de observare a dialogului; grila de evaluare a tracului; rezultatele la quiz.',
+    evaluare: 'Fișele de observare ale dialogurilor; fișa de exerciții, ex. 1-2; rezultatele la quiz.',
   },
   'lectia-13': {
     titlu: 'Strategii de ascultare activă',
@@ -220,16 +365,27 @@ export default {
     tipOra: 'Comunicare orală',
     durata: 50,
     obiective: ['Identifică tehnicile de ascultare activă (încurajare verbală, întrebări de clarificare, reformularea ideilor, evocarea unor situații similare).'],
-    resurse: ['Manual Art 7, pp. 186-187', 'Quizul „Strategii de ascultare activă” (materialul de joc al lecției)'],
+    resurse: ['Manual Art 7, pp. 186-187', fisa(13), 'Quizul „Strategii de ascultare activă” (materialul de joc al lecției)'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Privim fotografia de la p. 186 și stabilim care copii îl ascultă atent pe vorbitor și după ce ne dăm seama.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că învățăm cum arătăm că ascultăm cu adevărat.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '4 min', activitate: 'Reamintim reformularea de la comunicarea orală din Unitatea IV.' },
-      { etapa: 'Dirijarea învățării', timp: '18 min', activitate: 'În grupe de 3-4, elevii citesc dialogul dintre Mara și Alex despre spectacolele Sânziana și Pepelea și Apolodor și găsesc tehnicile de ascultare activă folosite. Fixăm Reperele: atenția acordată vorbitorului, neîntreruperea, feedbackul. Găsim tehnicile din fragmentul Omul cu mârțoaga de Gheorghe Ciprian.' },
-      { etapa: 'Obținerea performanței', timp: '18 min', activitate: 'Exercițiul A-B-C: în grupe de trei, fiecare vorbește 30 de secunde despre preferințele lui, iar colegul repetă ce a reținut; discutăm cât de greu a fost. Elevii își completează chestionarul de autoevaluare de la p. 187 și rezolvă quizul „Strategii de ascultare activă”.' },
+      { etapa: 'Discursurile de două minute', timp: '8 min', activitate: pasi(
+        'Doi-trei elevi își prezintă discursul de acasă; clasa completează grila tracului de la p. 185.') },
+      { etapa: 'Fotografia, Explorare, ex. 1', timp: '3 min', activitate: pasi(
+        'Cine ascultă atent și cine nu; indiciile.') },
+      { etapa: 'Mara și Alex, Explorare, ex. 2', timp: '6 min', activitate: pasi(
+        'Grupe de 3-4 citesc dialogul de la p. 186 și găsesc tehnicile de ascultare activă folosite.') },
+      { etapa: 'Notițe: ascultarea activă', timp: '6 min', activitate: pasi(
+        'În caiete, după Repere (p. 186): atenția acordată vorbitorului, neîntreruperea, feedbackul (reformulare, întrebări).') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1-2 (dialogul „Teatrul de păpuși”, scris pentru fișă, și tehnicile), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'A, B și C, Aplicații, ex. 2-3', timp: '8 min', activitate: pasi(
+        'Grupe de trei, câte 30 de secunde pentru fiecare rol; discutăm întrebările a-b.') },
+      { etapa: 'Quizul', timp: '5 min', activitate: pasi(
+        'Quizul „Strategii de ascultare activă”, frontal.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: Aplicații, ex. 1 și ex. 5 (chestionarul de autoevaluare); fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Autoevaluare pe chestionarul de la p. 187; rezultatele la quiz.',
+    evaluare: 'Grila tracului pentru discursuri; fișa de exerciții, ex. 1-2; rezultatele la quiz.',
   },
   'lectia-14': {
     titlu: 'Numeralul. Posibilități combinatorii ale numeralului',
@@ -237,16 +393,29 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Reactualizează numeralul cardinal și ordinal, recunoscând valorile morfologice și funcțiile sintactice ale numeralului.'],
-    resurse: ['Manual Art 7, pp. 188-189', 'Schema „Numeralul. Posibilitățile combinatorii ale numeralului” (/materiale/clasa-7/unitatea-5/lectia-14/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 7, pp. 188-189', fisa(14), 'Schema „Numeralul. Posibilitățile combinatorii ale numeralului” (/materiale/clasa-7/unitatea-5/lectia-14/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Citim fragmentul din jurnalul Alexandrei, care a pus în scenă aceeași piesă, de la p. 188, și găsim numeralele.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că reluăm numeralul și vedem ce funcții poate avea.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Grupăm numeralele din jurnal în cardinale și ordinale, simple și compuse, și găsim numeralul însoțit de articol demonstrativ.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Cu ajutorul schemei reluăm numeralul cardinal și ordinal și cele trei valori morfologice, adjectivală, pronominală, substantivală. Pe textul despre trupa de teatru Alegoria găsim numeralele adjuncte, completăm tabelul de la p. 188 și pe cele cu calitate de centru. Fixăm Reperele de la p. 189 despre numeralul adjunct și centru.' },
-      { etapa: 'Obținerea performanței', timp: '13 min', activitate: 'Elevii găsesc numeralele cardinale din textul despre Insula misterioasă, analizează numeralele din replicile din Omul de zăpadă care voia să întâlnească soarele și stabilesc funcția numeralelor din cele 12 enunțuri de la p. 189.' },
+      { etapa: 'Jurnalul Alexandrei, „Pentru început”', timp: '4 min', activitate: pasi(
+        'Citim fragmentul de la p. 188 și găsim numeralele.') },
+      { etapa: 'Numeralul, Explorare, ex. 1-4', timp: '6 min', activitate: pasi(
+        'Cardinale și ordinale; simple și compuse; genul ordinalelor; numeralul cu articol demonstrativ; valoarea fiecăruia.') },
+      { etapa: 'Notițe: numeralul', timp: '6 min', activitate: pasi(
+        'Proiectez schema; în caiete, după Repere (p. 188): cardinalul, ordinalul, genul, cele trei valori.') },
+      { etapa: 'Trupa Alegoria, Explorare, ex. 1-3', timp: '6 min', activitate: pasi(
+        'Numeralele din text, felul și valoarea; tabelul numeralelor adjuncte; numeralele centru.') },
+      { etapa: 'Notițe: posibilitățile combinatorii', timp: '5 min', activitate: pasi(
+        'Numeralul adjunct (atribut adjectival, atribute, complemente, circumstanțiale) și numeralul centru; subiect și nume predicativ (Repere, p. 189).') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (felul și valoarea) și ex. 2 (funcția sintactică), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Insula misterioasă, Aplicații, ex. 1', timp: '3 min', activitate: pasi(
+        'Numeralele cardinale din text și valoarea lor.') },
+      { etapa: 'Funcțiile, Aplicații, ex. 3', timp: '6 min', activitate: pasi(
+        'Primele șase enunțuri, frontal.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: Aplicații, ex. 2 și ex. 3 (restul enunțurilor); fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; aprecieri.',
+    evaluare: 'Observarea sistematică a elevilor; fișa de exerciții, ex. 1-2.',
   },
   'lectia-15': {
     titlu: 'Adverbul. Posibilități combinatorii ale adverbului',
@@ -254,16 +423,29 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Reactualizează tipurile de adverb, identificând calitatea de centru sau adjunct și atributul adverbial.'],
-    resurse: ['Manual Art 7, pp. 190-191', 'Schema „Adverbul. Posibilitățile combinatorii ale adverbului” (/materiale/clasa-7/unitatea-5/lectia-15/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 7, pp. 190-191', fisa(15), 'Schema „Adverbul. Posibilitățile combinatorii ale adverbului” (/materiale/clasa-7/unitatea-5/lectia-15/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Citim anunțul pentru selecția noii trupe de teatru a școlii și mesajele dintre cei doi colegi, de la p. 190, și găsim adverbele.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că reluăm adverbul și descoperim atributul adverbial.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reamintim adverbele de loc, de timp și de mod și locuțiunea adverbială.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Stabilim felul adverbelor din anunț și din mesaje, pe cele fără funcție sintactică, formarea unora prin derivare și compunere, cuvântul determinat și funcția, adverbele care determină substantive, cu funcție de atribut adverbial, și gradele de comparație. Cu ajutorul schemei fixăm Reperele, cu semiadverbele, numai și doar față de decât, și locul lui mai.' },
-      { etapa: 'Obținerea performanței', timp: '13 min', activitate: 'Elevii identifică adverbele din enunțurile a-h, găsesc semiadverbele din fragmentul din D-ale carnavalului, locuțiunile adverbiale din textul de la ex. 4 și corectează biletul „Lipsim decât zece minute. Mai ne aștepți?”.' },
+      { etapa: 'Anunțul și mesajele, Explorare, ex. 1-3', timp: '7 min', activitate: pasi(
+        'Adverbele din anunț și din mesaje, felul lor; cele fără funcție sintactică; unul derivat și două compuse.') },
+      { etapa: 'Explorare, ex. 4-6', timp: '5 min', activitate: pasi(
+        'Ce determină adverbele din afiș și funcția lor; cele două care determină substantive; gradele de comparație.') },
+      { etapa: 'Sinonime, ex. 7', timp: '3 min', activitate: pasi(
+        'Un adverb pentru fiecare expresie a-e.') },
+      { etapa: 'Notițe', timp: '8 min', activitate: pasi(
+        'Proiectez schema; în caiete, după Repere (p. 190): felurile, alcătuirea, gradele, locuțiunea adverbială, funcțiile (inclusiv atributul adverbial), semiadverbele, folosirea lui „decât” și „mai”.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (felul și funcția) și ex. 2 (gradele de comparație), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Aplicații, ex. 1-2', timp: '5 min', activitate: pasi(
+        'Adverbele din enunțurile a-h, felul, funcția și gradul, frontal.') },
+      { etapa: 'Aplicații, ex. 4-5', timp: '4 min', activitate: pasi(
+        'Locuțiunile adverbiale și funcția lor; „acasă” ca circumstanțial și ca atribut.') },
+      { etapa: 'Biletul, ex. 6', timp: '3 min', activitate: pasi(
+        'Corectăm biletul, pe tablă.') },
+      { etapa: 'Temă', timp: '4 min', activitate: pasi(
+        'Tema: Aplicații, ex. 3 și ex. 7 (analiza, după model); fișa de exerciții, pagina 2; opțional, Portofoliu (indicațiile de decor, cu adverbe).') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; aprecieri. Temă de portofoliu: indicații de decor, de 30-50 de cuvinte, cu cât mai multe adverbe.',
+    evaluare: 'Observarea sistematică a elevilor; fișa de exerciții, ex. 1-2.',
   },
   'lectia-16': {
     titlu: 'Interjecția. Onomatopeele. Interjecția predicativă',
@@ -271,16 +453,33 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Identifică interjecțiile de adresare, onomatopeele și interjecțiile predicative și redactează texte care le conțin.'],
-    resurse: ['Manual Art 7, pp. 192-193', 'Schema „Interjecția. Onomatopeele. Interjecția predicativă” (/materiale/clasa-7/unitatea-5/lectia-16/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 7, pp. 192-193', fisa(16), 'Schema „Interjecția. Onomatopeele. Interjecția predicativă” (/materiale/clasa-7/unitatea-5/lectia-16/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Citim replicile „O… ce caraghios…”, „Ah, uite că începe să plouă…”, „Hei, unde este ieșirea” și spunem ce exprimă cuvintele colorate, apoi imităm sunetele animalelor din imaginile de la p. 192.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că învățăm interjecția, onomatopeele și interjecțiile care țin loc de verb.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reamintim părțile de vorbire neflexibile și semnul exclamării.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Pe enunțul cu „hodoronc-tronc”, „pâș-pâș”, „Doamne ferește!” observăm componentele și punctuația, apoi înlocuim cu verbe interjecțiile din „Hai la spectacol!”, „Iepurele țuști! în tufiș” și stabilim funcția. Discutăm scopul lui „Bre”, „măi”, „Pst!” din D-ale carnavalului. Cu ajutorul schemei fixăm Reperele: interjecții propriu-zise și onomatopee, simple, compuse și repetate, locuțiuni, interjecții de adresare și predicative, punctuația.' },
-      { etapa: 'Obținerea performanței', timp: '13 min', activitate: 'Elevii găsesc interjecțiile din fragmentele din O scrisoare pierdută, Florentina și Romeo și Julieta, le separă pe cele predicative, derivă verbe de la bâz, chiț, ham, ronț și completează autoevaluarea de la p. 193.' },
+      { etapa: 'Replicile din piesă, Explorare, ex. 1-2', timp: '4 min', activitate: pasi(
+        'Ce exprimă cuvintele colorate din replicile Elizei, lui Radu și Doiniței; care e de adresare.') },
+      { etapa: 'Sunetele animalelor, ex. 3', timp: '3 min', activitate: pasi(
+        'Elevii imită și scriu sunetele animalelor din imagini.') },
+      { etapa: 'Componente și punctuație, ex. 4', timp: '3 min', activitate: pasi(
+        'Din câte părți sunt alcătuite cuvintele colorate și ce semne le urmează.') },
+      { etapa: 'Interjecția ca verb, ex. 5-6', timp: '4 min', activitate: pasi(
+        'Verbele care pot înlocui interjecțiile din enunțurile a-e și funcția lor.') },
+      { etapa: 'Caragiale, ex. 7', timp: '3 min', activitate: pasi(
+        'Scopul interjecțiilor din replicile a-c din „D-ale carnavalului”.') },
+      { etapa: 'Notițe', timp: '8 min', activitate: pasi(
+        'Proiectez schema; în caiete, după Repere (p. 192): interjecțiile propriu-zise și onomatopeele, simple, repetate, compuse, locuțiunile interjecționale, interjecțiile de adresare, interjecția predicativă, punctuația.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (felul interjecției) și ex. 2 (interjecția predicativă), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Aplicații, ex. 1-2', timp: '5 min', activitate: pasi(
+        'Interjecțiile pentru emoțiile fetei din imagini; în perechi, norul de cuvinte.') },
+      { etapa: 'Emoții și zgomote, ex. 6', timp: '3 min', activitate: pasi(
+        'În perechi, câte o interjecție pentru fiecare situație din listă.') },
+      { etapa: 'Autoevaluare L10-L12', timp: '3 min', activitate: pasi(
+        'Cele trei enunțuri de la p. 193, în caiete.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: Aplicații, ex. 3-5; fișa de exerciții, pagina 2; opțional, Provocări (impresii de la un spectacol, cu interjecții).') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; autoevaluarea de la p. 193. Minitestul lecției e în varianta digitală a manualului, cu baremul în Anexa 7.e a Ghidului profesorului.',
+    evaluare: 'Observarea sistematică a elevilor; fișa de exerciții, ex. 1-2; autoevaluarea L10-L12.',
   },
   'lectia-17': {
     titlu: 'Tipare textuale de structurare a ideilor. Cererea (I)',
@@ -288,16 +487,26 @@ export default {
     tipOra: 'Redactare',
     durata: 50,
     obiective: ['Identifică trăsăturile textelor persuasive, informative, procedurale și descriptive, pregătind redactarea unei cereri.'],
-    resurse: ['Manual Art 7, pp. 194-195', 'Fișa lecției (/materiale/clasa-7/unitatea-5/lectia-17/fisa.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 7, pp. 194-195', fisa(17), 'Fișa lecției (/materiale/clasa-7/unitatea-5/lectia-17/fisa.pdf)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Elevii notează rapid câte două situații în care vor să convingă pe cineva, explică cum se procedează, descriu ceva, prezintă informații sau au nevoie să scrie o cerere, apoi compară răspunsurile.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că deosebim patru tipare de text și ne pregătim să scriem o cerere.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reamintim textul descriptiv din Unitatea III și textul explicativ.' },
-      { etapa: 'Dirijarea învățării', timp: '23 min', activitate: 'În grupe de 4-5, elevii asociază textele A-D despre Teatrul Metropolis cu cele patru scopuri și notează câte două trăsături ale fiecăruia. Fixăm Reperele: textul persuasiv, informativ, procedural și descriptiv, cu mijloacele lor.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'În grupe de câte trei, fiecare elev trage la sorți o sarcină: să-și convingă părinții să-l înscrie la clubul de teatru, să descrie sala Teatrului Metropolis sau să explice cum se scrie o cerere. Își scriu textele pe fișa lecției și le evaluează între ei.' },
+      { etapa: '„Pentru început”', timp: '4 min', activitate: pasi(
+        'Elevii notează rapid câte două situații în care conving, explică, descriu, informează, scriu o cerere; comparăm.') },
+      { etapa: 'Teatrul Metropolis, Explorare, ex. 1', timp: '8 min', activitate: pasi(
+        'Grupe de 4-5: asociază textele A-D de la p. 194 cu cele patru tipuri.') },
+      { etapa: 'Trăsăturile, ex. 2', timp: '6 min', activitate: pasi(
+        'Aceleași grupe notează câte două trăsături pentru fiecare text (fapte și opinii, structură, cuvinte-cheie, punctuație); un reprezentant prezintă.') },
+      { etapa: 'Notițe: tiparele textuale', timp: '7 min', activitate: pasi(
+        'În caiete, după Repere (p. 194): textul persuasiv, informativ, procedural, descriptiv și mijloacele fiecăruia.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1-2 (patru texte despre clubul de teatru, scrise pentru fișă, și tiparul lor), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Redactare în trei, Aplicații, ex. 1', timp: '10 min', activitate: pasi(
+        'Grupe de trei trag la sorți sarcinile a-c; fiecare scrie 6 minute; apoi își evaluează textele între ei, 4 minute.') },
+      { etapa: 'Temă', timp: '4 min', activitate: pasi(
+        'Tema: Aplicații, ex. 2 (articolul informativ, pe grupe, cu „întrebările jurnalistului”); fișa lecției; fișa de exerciții, pagina 2.',
+        'Anunț că ora viitoare redactăm o cerere.') },
     ],
-    evaluare: 'Interevaluare în grupe; fișa lecției.',
+    evaluare: 'Interevaluare în grupele de trei; fișa de exerciții, ex. 1-2.',
   },
   'lectia-18': {
     titlu: 'Tipare textuale de structurare a ideilor. Cererea (II)',
@@ -305,16 +514,27 @@ export default {
     tipOra: 'Redactare',
     durata: 50,
     obiective: ['Redactează o cerere, respectând tiparul textual specific.'],
-    resurse: ['Manual Art 7, p. 195', 'Fișa lecției (/materiale/clasa-7/unitatea-5/lectia-18/fisa.pdf)', 'Coli albe'],
+    resurse: ['Manual Art 7, p. 195', fisa(18), 'Fișa lecției (/materiale/clasa-7/unitatea-5/lectia-18/fisa.pdf)', 'Coli albe'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '4 min', activitate: 'Îi întreb pe elevi dacă au scris sau au văzut scrisă vreodată o cerere și în ce situație.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că fiecare scrie o cerere adevărată, respectând forma ei.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '4 min', activitate: 'Elevii completează pe o coală formularul de la p. 195, cererea pentru adeverința de elev necesară la Clubul de Teatru.' },
-      { etapa: 'Dirijarea învățării', timp: '5 min', activitate: 'Numim părțile formularului, cum e așezat fiecare element și punctuația din primul alineat, apoi fixăm Reperele: adresarea, cuprinsul în două paragrafe, data și semnătura, destinatarul.' },
-      { etapa: 'Obținerea performanței', timp: '32 min', activitate: 'Elevii redactează cererea adresată unui director de teatru pentru împrumutul de costume la spectacolul școlii, o verifică cu ajutorul fișei lecției, apoi își autoevaluează activitatea după întrebările de la p. 195.' },
+      { etapa: 'Formularul, Explorare, ex. 1', timp: '7 min', activitate: pasi(
+        'Fiecare completează pe o coală formularul de cerere de la p. 195.') },
+      { etapa: 'Părțile cererii, ex. 2', timp: '5 min', activitate: pasi(
+        'Părțile formularului, așezarea fiecăreia în pagină și punctuația din primul alineat.') },
+      { etapa: 'Notițe: cererea', timp: '6 min', activitate: pasi(
+        'În caiete, după Repere (p. 195): adresarea, cele două paragrafe ale cuprinsului, data și semnătura, destinatarul; desenăm pe tablă schema paginii.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (părțile cererii) și ex. 2 (corect sau greșit?), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Cererea către directorul de teatru, Aplicații, ex. 3', timp: '12 min', activitate: pasi(
+        'Fiecare redactează pe o coală albă cererea pentru împrumutul costumelor; trec printre bănci.') },
+      { etapa: 'Verificare în perechi', timp: '4 min', activitate: pasi(
+        'Colegul verifică după schema de pe tablă: părțile, așezarea, formula „Subsemnatul”, motivarea.') },
+      { etapa: 'Autoevaluare, ex. 4', timp: '3 min', activitate: pasi(
+        'Elevii răspund în scris la cele trei întrebări de autoevaluare. Strâng cererile.') },
+      { etapa: 'Temă', timp: '2 min', activitate: pasi(
+        'Tema: fișa de exerciții, pagina 2 (cererea către bibliotecara școlii).') },
     ],
-    evaluare: 'Autoevaluare după întrebările de la p. 195; cererile, strânse pentru apreciere.',
+    evaluare: 'Cererile, strânse pentru apreciere; interevaluare în perechi; fișa de exerciții, ex. 1-2.',
   },
   'lectia-19': {
     titlu: 'Recapitulare, lectură și comunicare',
@@ -322,16 +542,27 @@ export default {
     tipOra: 'Recapitulare',
     durata: 50,
     obiective: ['Recapitulează, prin exerciții aplicate, achizițiile de lectură din Unitatea V: textul dramatic, interviul, tracul comunicativ, ascultarea activă.'],
-    resurse: ['Manual Art 7, pp. 196-197', 'Quizul „Recapitulare, lectură și comunicare” (materialul de joc al lecției)', 'Caietele elevilor'],
+    resurse: ['Manual Art 7, pp. 196-197', fisa(19), 'Quizul „Recapitulare, lectură și comunicare” (materialul de joc al lecției)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '4 min', activitate: 'Îi rog pe elevi să spună pe rând câte o noțiune de lectură sau de comunicare învățată în unitate.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că recapitulăm pe un fragment din Răzbunarea sufleorului de Victor Ion Popa.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '8 min', activitate: 'Reluăm actul, scena, replica, didascaliile externe și interne, meseriile spectacolului, personajul dramatic, dialogul și monologul, interviul, tracul și ascultarea activă.' },
-      { etapa: 'Dirijarea învățării', timp: '18 min', activitate: 'Citim fragmentul pe roluri și rezolvăm ghidat cerințele 1-7: din ce parte a piesei e extras, indicațiile autorului după rolul lor, locul acțiunii și de ce acolo, tema discuției, „cușca” sufleorului, afirmația despre emoție și talent. În grupe de patru, elevii fac fișele de identitate ale lui nenea Costică și ale Fetiței, cerința 8.' },
-      { etapa: 'Obținerea performanței', timp: '15 min', activitate: 'Elevii rezolvă quizul „Recapitulare, lectură și comunicare”, apoi discutăm răspunsurile greșite.' },
+      { etapa: 'Ciorchinele unității', timp: '3 min', activitate: pasi(
+        'Pe tablă, „Lumea de pe scenă”; elevii spun câte o noțiune de lectură sau de comunicare din unitate.') },
+      { etapa: 'Lectura pe roluri', timp: '6 min', activitate: pasi(
+        'Doi elevi citesc fragmentul din „Răzbunarea sufleorului” de Victor Ion Popa (p. 196); un al treilea citește indicațiile scenice.') },
+      { etapa: 'Cerințele 1-4', timp: '7 min', activitate: pasi(
+        'Din ce parte a piesei e fragmentul; indicațiile autorului pentru fiecare rol din tabel; locul acțiunii și de ce acesta.') },
+      { etapa: 'Cerințele 5-7', timp: '6 min', activitate: pasi(
+        'Tema discuției; replica despre cușca sufleorului; emoție, suflet, talent: sunt de acord elevii?') },
+      { etapa: 'Fișele de identitate, cerința 8', timp: '6 min', activitate: pasi(
+        'Grupe de patru: câte o fișă pentru fiecare personaj; două grupe citesc.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1-2 (fragmentul „Înainte de premieră”, scris pentru fișă, și noțiunile recapitulate), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Quizul', timp: '7 min', activitate: pasi(
+        'Quizul „Recapitulare, lectură și comunicare”, frontal; discutăm răspunsurile greșite.') },
+      { etapa: 'Temă', timp: '4 min', activitate: pasi(
+        'Tema: cerința 15 (textul persuasiv, cel puțin 80 de cuvinte); fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; rezultatele la quiz.',
+    evaluare: 'Observarea sistematică a elevilor; fișa de exerciții, ex. 1-2; rezultatele la quiz.',
   },
   'lectia-20': {
     titlu: 'Recapitulare, gramatică și redactare',
@@ -339,16 +570,30 @@ export default {
     tipOra: 'Recapitulare',
     durata: 50,
     obiective: ['Recapitulează, prin exerciții aplicate, achizițiile de gramatică din Unitatea V: numeralul, adverbul, interjecția.'],
-    resurse: ['Manual Art 7, p. 197', 'Quizul „Recapitulare, gramatică și redactare” (materialul de joc al lecției)', 'Caietele elevilor'],
+    resurse: ['Manual Art 7, p. 197', fisa(20), 'Quizul „Recapitulare, gramatică și redactare” (materialul de joc al lecției)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '4 min', activitate: 'Scriu pe tablă replica „Mă rog, sunt eu ori nu sunt sufleor în teatrul ăsta de treizeci de ani?” și cer numeralul, cu felul și valoarea lui.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că recapitulăm numeralul, adverbul, interjecția, textul persuasiv și cererea.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '8 min', activitate: 'Reluăm valorile numeralului, adverbul și locuțiunea adverbială, atributul adverbial, semiadverbele, felurile interjecției, interjecția predicativă, tiparele textuale și părțile cererii.' },
-      { etapa: 'Dirijarea învățării', timp: '16 min', activitate: 'Rezolvăm ghidat cerințele 9-14 de la p. 197: analiza numeralului și transformarea lui în ordinal, adverbul din replica Fetiței, grupul „în față”, interjecțiile din replica lui nenea Costică și interjecția predicativă.' },
-      { etapa: 'Obținerea performanței', timp: '17 min', activitate: 'Elevii rezolvă quizul „Recapitulare, gramatică și redactare”, apoi discutăm greșelile. Ca temă, scriu textul persuasiv despre emoțiile dinaintea unui test și cererea pentru cursul de actorie, cerințele 15-16.' },
+      { etapa: 'O replică pe tablă', timp: '3 min', activitate: pasi(
+        'Scriu „Ei, bravo!”: ce fel de interjecție e și ce semn o desparte de restul?') },
+      { etapa: 'Numeralul, cerințele 9-10', timp: '5 min', activitate: pasi(
+        'Felul, valoarea și funcția numeralului din replica sufleorului; transformarea cu un numeral ordinal.') },
+      { etapa: 'Adverbul, cerințele 11-12', timp: '5 min', activitate: pasi(
+        'Adverbul din replica fetiței; ce este „în față”, cu justificare.') },
+      { etapa: 'Interjecția, cerințele 13-14', timp: '5 min', activitate: pasi(
+        'Interjecțiile din replica lui nenea Costică și interjecția predicativă.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1-3 (cinci enunțuri, numerale, adverbe, interjecții), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Quizul', timp: '7 min', activitate: pasi(
+        'Quizul „Recapitulare, gramatică și redactare”, frontal; la greșeli, revenim la notițe.') },
+      { etapa: 'Cererea, cerința 16', timp: '6 min', activitate: pasi(
+        'Elevii scriu adresarea și primul paragraf al cererii către Clubul Elevilor; verificăm așezarea în pagină.') },
+      { etapa: 'Pregătirea evaluării', timp: '4 min', activitate: pasi(
+        'Anunț proba de ora viitoare: un fragment dramatic nou, zece cerințe de limbă și lectură (partea A) și un text persuasiv (partea B).',
+        'Ce recitesc acasă: notițele despre textul dramatic și indicațiile scenice, numeral, adverb, interjecție și textul persuasiv.') },
+      { etapa: 'Temă', timp: '4 min', activitate: pasi(
+        'Tema: cerința 16 (cererea completă); fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; rezultatele la quiz.',
+    evaluare: 'Observarea sistematică a elevilor; fișa de exerciții, ex. 1-3; rezultatele la quiz.',
   },
   'lectia-21': {
     titlu: 'Evaluare, probă scrisă',
@@ -358,12 +603,15 @@ export default {
     obiective: ['Verifică, printr-o probă scrisă, nivelul de achiziție a competențelor vizate în Unitatea V.'],
     resurse: ['Testul, Manual Art 7, p. 198', 'Barem de corectare din Ghidul profesorului'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '2 min', activitate: 'Le spun elevilor că proba păstrează structura celor de până acum și îi liniștesc în privința timpului de lucru.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că se dă proba scrisă a Unității V, pe un fragment din Jocul de-a vacanța de Mihail Sebastian, cu o parte de limbă și lectură și un text persuasiv.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '3 min', activitate: 'Reamintesc structura probei, 60 de puncte la partea A, 30 la compunere, 10 din oficiu, și cum își împart timpul.' },
-      { etapa: 'Dirijarea învățării', timp: '5 min', activitate: 'Distribui testele, citesc cerințele cu voce tare, explic punctajul și răspund la întrebările de clarificare.' },
-      { etapa: 'Obținerea performanței', timp: '35 min', activitate: 'Elevii rezolvă individual proba pe o foaie separată; supraveghez discret, gestionez timpul și strâng lucrările la final.' },
+      { etapa: 'Instructajul', timp: '5 min', activitate: pasi(
+        'Elevii au pe bancă doar foaia de răspuns și instrumentele de scris; manualul e deschis la p. 198 (fragmentul din „Jocul de-a vacanța” de Mihail Sebastian).',
+        'Anunț structura: partea A, 60 de puncte (zece cerințe de limbă și lectură), partea B, 30 de puncte (text persuasiv despre clubul de teatru, cel puțin 80 de cuvinte), 10 puncte din oficiu.',
+        'Timpul orientativ: 5 minute pentru citirea textului, 20 pentru partea A, 15 pentru textul persuasiv; cerințele se rezolvă în ordinea preferată, cu numărul lor scris în față.') },
+      { etapa: 'Rezolvarea individuală', timp: '40 min', activitate: pasi(
+        'Elevii rezolvă proba; răspund doar la întrebări despre formularea cerințelor.',
+        'Anunț timpul rămas la 20 și la 5 minute; la 5 minute le reamintesc să verifice cele două mijloace persuasive și structura textului.') },
+      { etapa: 'Strângerea lucrărilor', timp: '5 min', activitate: pasi(
+        'Strâng foile, verific numele pe fiecare; anunț că rezultatele și greșelile frecvente se discută după corectare.') },
     ],
     evaluare: 'Evaluare sumativă scrisă, notată după baremul din Ghidul profesorului.',
   },
