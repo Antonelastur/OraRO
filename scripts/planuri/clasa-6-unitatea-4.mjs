@@ -1,13 +1,12 @@
-// Schițe de plan de lecție, model în 6 pași (momentele lecției), pentru
-// Unitatea IV „Popasuri cu tâlc”, clasa a VI-a. Conținut derivat din datele
-// lecțiilor, din proiectarea pe unități și din Manual Art 6, pp. 122-152.
-// 50 min / lecție.
+// Planuri de lecție detaliate pentru Unitatea IV „Popasuri cu tâlc”, clasa a VI-a.
+// Fără moment organizatoric (se subînțelege); fiecare etapă are pașii concreți ai
+// orei: rubrica și exercițiul din manual, întrebările, ce se notează în caiete,
+// fișa de exerciții, tema. Surse: Manual Art 6, pp. 122-152, și ghidul
+// profesorului. Rezolvările din ghid și ale fișelor nu intră aici (datele ajung
+// în browser). 50 min / lecție.
 
-const org = {
-  etapa: 'Moment organizatoric',
-  timp: '3 min',
-  activitate: 'Salut elevii, verific prezența și pregătirea caietelor, a manualului și a instrumentelor de scris.',
-}
+const pasi = (...linii) => linii.map((l) => `– ${l}`).join('\n')
+const fisa = (n) => `Fișa de exerciții (/materiale/clasa-6/unitatea-4/lectia-${n}/fisa-exercitii.pdf)`
 
 export default {
   'lectia-1': {
@@ -16,16 +15,30 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Identifică informații esențiale din fabula Uliul și găinile de Grigore Alexandrescu.'],
-    resurse: ['Manual Art 6, pp. 122-123', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 122-123', fisa(1), 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '7 min', activitate: 'În perechi, elevii completează expresiile de la p. 122 cu numele animalului potrivit, curajos ca un leu, harnic ca o furnică, șiret ca o vulpe, și explică una dintre ele.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că deschidem unitatea cu o întâmplare în versuri, cu animale care seamănă mult cu oamenii.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Numim texte literare cu animale ca personaje, ajutându-ne de imaginile de la p. 122.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Îl prezint pe Grigore Alexandrescu, considerat cel mai mare fabulist român, și citesc model textul de la pp. 122-123. Clarificăm cuvintele din subsol, uliu (în text apare forma regională uleu), a priimi, slobod, a slobozi, și urmărim momentele: uliul legat lângă coteț, promisiunea, eliberarea, trădarea, răspunsul uliului, versurile de final.' },
-      { etapa: 'Obținerea performanței', timp: '11 min', activitate: 'Elevii notează ce asocieri au făcut ascultând textul și ce ar fi făcut diferit în locul lui Ion, al uliului sau al păsărilor, apoi câțiva își citesc răspunsurile.' },
+      { etapa: 'Expresii cu animale', timp: '6 min', activitate: pasi(
+        '„Pentru început”, p. 122, ex. 1, în perechi: expresiile completate cu numele animalului; fiecare pereche explică una.') },
+      { etapa: 'Animale-personaje', timp: '3 min', activitate: pasi(
+        'Ex. 2: texte cu animale ca personaje, cu ajutorul imaginilor de la p. 122.') },
+      { etapa: 'Despre autor', timp: '3 min', activitate: pasi(
+        'Caseta de la p. 122: Grigore Alexandrescu, poet din generația de la 1848, considerat cel mai mare fabulist român („Boul și vițelul”, „Câinele și cățelul”).') },
+      { etapa: 'Lectura model', timp: '10 min', activitate: pasi(
+        'Citesc fabula expresiv; elevii urmăresc.',
+        'Lămurim cuvintele din subsol (uliu, în text forma regională „uleu”, a priimi, slobod, a slobozi, nenorocit) și formele vechi (norocit, adăogă, să vie).') },
+      { etapa: 'Impresii după prima lectură', timp: '6 min', activitate: pasi(
+        'P. 123, ex. 1: ce asocieri ați făcut (locul, o situație asemănătoare, un moment trăit, alte texte)?',
+        'Ex. 2: ce ați fi făcut diferit în locul lui Ion, al uliului, al păsărilor?') },
+      { etapa: 'Provocări', timp: '7 min', activitate: pasi(
+        'Ex. 1: alte texte în care un personaj șiret îl înșală pe altul.',
+        'Ex. 3: citesc versurile din „Cocoșul și vulpea”; a reușit vulpea să-l păcălească pe cocoș? Ce i-ar putea răspunde el?') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '12 min', activitate: pasi(
+        'Pagina 1: ex. 1 (cine face?) și ex. 2 (adevărat sau fals?), individual, 8 minute.',
+        'Verificare, 4 minute; la fiecare „fals”, citim versul.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: „Provocări”, ex. 2 (continuarea în care uliul e păcălit la rândul lui), în scris; fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; verificarea impresiilor de lectură.',
+    evaluare: 'Observarea sistematică a lecturii și a impresiilor; fișa de exerciții, ex. 1-2.',
   },
   'lectia-2': {
     titlu: 'Acțiunea, timpul și spațiul. Structura textului',
@@ -33,16 +46,29 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Identifică acțiunea, elementele structurii textului narativ și indiciile de spațiu din fabula Uliul și găinile.'],
-    resurse: ['Manual Art 6, pp. 124-125', 'Schema „Textul narativ în versuri. Fabula” (/materiale/clasa-6/unitatea-4/lectia-2/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 124-125', fisa(2), 'Schema „Textul narativ în versuri. Fabula” (/materiale/clasa-6/unitatea-4/lectia-2/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Elevii aleg, dintre variantele de la p. 124, pe cele care arată că textul lui Grigore Alexandrescu e o narațiune.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că urmărim acțiunea, locul și timpul și vedem cum e construită o fabulă.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reamintim momentele subiectului din Unitatea II și măsura și rima din Unitatea III.' },
-      { etapa: 'Dirijarea învățării', timp: '23 min', activitate: 'Stabilim spațiul, ograda, comparat cu tabloul lui Ludovic Bassarab, și de ce timpul e vag. Discutăm versurile de final, separate printr-un spațiu alb: cine spune „eu” și de ce sunt izolate. Cu ajutorul schemei fixăm Reperele: textul narativ în versuri, fabula, morala explicită sau implicită. Pe grupe, elevii stabilesc măsura și rima celor șapte pasaje.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Elevii ordonează ideile de la p. 125 și notează lanțul de întâmplări cu „așa că”, „ca urmare”, pornind de la „Ion a legat uliul prins de cotețul găinilor.”.' },
+      { etapa: 'Verificarea temei', timp: '4 min', activitate: pasi(
+        'Doi elevi citesc continuarea în care uliul e păcălit; clasa spune cine l-a păcălit și cum.') },
+      { etapa: 'Explorare, ex. 1-3', timp: '8 min', activitate: pasi(
+        'De ce e o narațiune (variantele a-f, cu justificare); unde are loc întâmplarea, comparând cu tabloul lui Ludovic Bassarab, și versurile care o arată; de ce timpul nu e precizat.') },
+      { etapa: 'Explorare, ex. 4-5', timp: '5 min', activitate: pasi(
+        'Versurile de final, despărțite printr-un spațiu alb: cine spune „eu” și de ce sunt izolate; e implicat naratorul afectiv?') },
+      { etapa: 'Notițe: textul narativ în versuri și fabula', timp: '5 min', activitate: pasi(
+        'În caiete, după Repere (p. 124) și schema lecției: textul narativ în versuri, originea în tradiția orală, fabula, timpul și spațiul vagi, morala explicită și implicită.') },
+      { etapa: 'Măsura și rima, pe grupe', timp: '8 min', activitate: pasi(
+        'Ex. 6: grupe de 3-4, fiecare cu unul dintre cele șapte pasaje; măsura versurilor și tipul rimei, prezentate în ordinea pasajelor.') },
+      { etapa: 'Aplicații, ex. 1', timp: '3 min', activitate: pasi(
+        'Frontal: ordonăm ideile pentru firul întâmplărilor.') },
+      { etapa: 'Aplicații, ex. 10', timp: '3 min', activitate: pasi(
+        'Ce învățătură transmite autorul? Două-trei formulări.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (fabula pe scurt) și ex. 2 (versuri scurte), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: Aplicații, ex. 2, 4-9; „Reflecții” (textul de 90-100 de cuvinte, una dintre cele două situații); fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; aprecieri.',
+    evaluare: 'Observarea lucrului pe grupe; fișa de exerciții, ex. 1-2.',
   },
   'lectia-3': {
     titlu: 'Enumerația. Personajele',
@@ -50,16 +76,29 @@ export default {
     tipOra: 'Predare, lectură',
     durata: 50,
     obiective: ['Identifică enumerația ca figură de stil și tipurile de personaje (animaliere/umane, principale/secundare, individuale/colective) dintr-o fabulă.'],
-    resurse: ['Manual Art 6, pp. 126-127', 'Schema „Enumerația. Personajele fabulei” (/materiale/clasa-6/unitatea-4/lectia-3/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 126-127', fisa(3), 'Schema „Enumerația. Personajele fabulei” (/materiale/clasa-6/unitatea-4/lectia-3/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Îi întreb pe elevi ce păsări sunt în ograda lui Ion, în ce vers apar și ce semn de punctuație le desparte.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că învățăm o figură de stil nouă, enumerația, și felurile de personaje din fabulă.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reamintim personajele principale, secundare, episodice și colective din Unitatea II și personificarea.' },
-      { etapa: 'Dirijarea învățării', timp: '23 min', activitate: 'Cu ajutorul schemei definesc enumerația, apoi grupăm personajele în graficul de la p. 126: animaliere sau umane, principale sau secundare, individuale sau colective. Discutăm de ce fabulele folosesc animale și fixăm Reperele: personajele-măști, opoziția dintre două personaje și inversarea raportului dintre ele. Căutăm cui îi aparțin cuvintele dintre liniile de pauză.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Elevii extrag versurile pentru schema raporturilor dintre uliu și găini, de la situația inițială la cea finală, și aleg atitudinea naratorului față de păsări.' },
+      { etapa: 'Păsările din ogradă', timp: '3 min', activitate: pasi(
+        'Explorare, p. 126, ex. 1-2: ce păsări sunt în ogradă, în ce vers apar, ce semn de punctuație le desparte și de ce.') },
+      { etapa: 'Notițe: enumerația', timp: '3 min', activitate: pasi(
+        'În caiete, după Repere și schema lecției: definiția enumerației, termeni de același fel, virgula, rolul.') },
+      { etapa: 'Aplicații, ex. 1-2', timp: '4 min', activitate: pasi(
+        'Enumerațiile din versurile despre dezlegare și rolul enumerației din „o găină, pe urmă două, trei”.') },
+      { etapa: 'Personajele', timp: '8 min', activitate: pasi(
+        'Explorare, ex. 1-3: graficul personajelor (animaliere și umane, principale și secundare, individuale și colective), personificarea, de ce fabulele folosesc animale (variantele a-c).') },
+      { etapa: 'Notițe: personajele fabulei', timp: '4 min', activitate: pasi(
+        'În caiete, după Repere: personajele-măști, opoziția dintre două personaje, inversarea raportului dintre ele.') },
+      { etapa: 'Aplicații, ex. 4-8', timp: '9 min', activitate: pasi(
+        'Relația dintre uliu și păsări în natură; tabelul comportamentelor omenești și animale; defectele și calitățile; ce e amuzant; cui aparțin cuvintele dintre liniile de pauză.') },
+      { etapa: 'Aplicații, ex. 9-10', timp: '4 min', activitate: pasi(
+        'Schema raporturilor dintre uliu și găini, de la situația inițială la cea finală; atitudinea naratorului față de păsări.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '12 min', activitate: pasi(
+        'Pagina 1: ex. 1-2 (enumerația în cele patru enunțuri) și ex. 3 (măștile), individual, 8 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: „Provocări” (un personaj nou în fabulă); „Portofoliu” (posterul despre text, pe grupe de patru); fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; aprecieri. Temă de portofoliu: posterul despre text, pe grupe.',
+    evaluare: 'Observarea sistematică; fișa de exerciții, ex. 1-3.',
   },
   'lectia-4': {
     titlu: 'Semnificațiile textului (I), discuție și opinie',
@@ -67,16 +106,27 @@ export default {
     tipOra: 'Predare, interpretare',
     durata: 50,
     obiective: ['Formulează o opinie despre semnificația fabulei Uliul și găinile și despre atitudinile personajelor.'],
-    resurse: ['Manual Art 6, p. 128', 'Fișa lecției (/materiale/clasa-6/unitatea-4/lectia-4/fisa.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, p. 128', fisa(4), 'Fișa lecției (/materiale/clasa-6/unitatea-4/lectia-4/fisa.pdf)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Citim disputa dintre Teodora și Dinu de la p. 128: e criticat uliul, mincinos și crud, sau găinile, naive?' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că fiecare își alege o poziție și o susține cu versuri din text.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reamintim morala explicită, formulată în versurile de final.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Elevii caută versuri pentru fiecare poziție și le confruntă în fața clasei. Discutăm de ce titlul numește doar găinile, reformulăm morala ca îndemn, alegem rolul moralei dintre variantele de la p. 128 și ne întrebăm dacă narațiunea singură ar fi fost de ajuns.' },
-      { etapa: 'Obținerea performanței', timp: '13 min', activitate: 'Elevii rezolvă fișa lecției, apoi completează autoevaluarea pentru lecțiile 1-4.' },
+      { etapa: 'Teodora sau Dinu?', timp: '10 min', activitate: pasi(
+        'Interpretare, ex. 1: citim disputa; fiecare elev își alege poziția și caută în text două secvențe care o susțin.') },
+      { etapa: 'Confruntarea pozițiilor', timp: '6 min', activitate: pasi(
+        'Doi-trei elevi de fiecare parte își prezintă argumentele; ceilalți pot răspunde, cu versuri din text.') },
+      { etapa: 'Titlul', timp: '3 min', activitate: pasi(
+        'Ex. 2: de ce titlul numește doar găinile?') },
+      { etapa: 'Morala', timp: '7 min', activitate: pasi(
+        'Ex. 3-5: reformulăm morala ca îndemn; ce rol are morala (variantele a-d); ar fi fost suficientă narațiunea?') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (cine greșește?) și ex. 2 (morala, în alte cuvinte), individual, 7 minute.',
+        'Citim câteva răspunsuri, 4 minute.') },
+      { etapa: 'Fișa lecției', timp: '6 min', activitate: pasi(
+        'Elevii rezolvă fișa lecției, individual.') },
+      { etapa: 'Autoevaluare L1-L4', timp: '4 min', activitate: pasi(
+        'P. 128: elevii completează cele trei afirmații.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: Interpretare, ex. 6 (o situație din viața reală potrivită învățăturii); fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; fișa lecției; autoevaluarea achizițiilor din lecțiile 1-4.',
+    evaluare: 'Observarea discuției; fișa lecției; fișa de exerciții, ex. 1-2; autoevaluarea L1-L4.',
   },
   'lectia-5': {
     titlu: 'Semnificațiile textului (II), mesajul fabulei azi',
@@ -84,16 +134,27 @@ export default {
     tipOra: 'Predare, interpretare',
     durata: 50,
     obiective: ['Formulează un răspuns personal despre valabilitatea mesajului fabulei în societatea de azi.'],
-    resurse: ['Manual Art 6, p. 128', 'Fișa lecției (/materiale/clasa-6/unitatea-4/lectia-5/fisa.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, p. 128', fisa(5), 'Fișa lecției (/materiale/clasa-6/unitatea-4/lectia-5/fisa.pdf)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Citim versurile lui La Fontaine de la p. 128, „O fabulă-i poveste – minciună-ncornorată –”, și îi întreb ce adevăruri poate spune o poveste inventată.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că ne întrebăm dacă învățătura fabulei mai e valabilă azi.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reluăm morala reformulată ca îndemn la ora trecută.' },
-      { etapa: 'Dirijarea învățării', timp: '15 min', activitate: 'Elevii descriu situații din viața reală care se potrivesc învățăturii, apoi fac o listă cu cinci valori morale și dau exemple de texte în versuri în care personajele le încalcă.' },
-      { etapa: 'Obținerea performanței', timp: '20 min', activitate: 'Elevii rezolvă fișa lecției, apoi scriu textul de 90-100 de cuvinte despre valabilitatea mesajului în societatea de azi, pentru portofoliu. Ca temă, pe grupe, banda desenată după fabulă.' },
+      { etapa: 'Verificarea temei', timp: '5 min', activitate: pasi(
+        'Trei elevi citesc situațiile din viața reală; clasa spune dacă se potrivesc învățăturii.') },
+      { etapa: 'Ce spune La Fontaine', timp: '4 min', activitate: pasi(
+        'Citesc versurile lui La Fontaine de la „Portofoliu”: ce adevăruri poate spune o poveste inventată?') },
+      { etapa: 'Valorile (ex. 7)', timp: '7 min', activitate: pasi(
+        'Fiecare scrie cinci valori la care ține; câțiva dau exemple de texte narative în versuri în care personajele le încalcă.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '12 min', activitate: pasi(
+        'Pagina 1: ex. 1 (uliul de azi) și ex. 2 (trei sfaturi), individual, 8 minute.',
+        'Discutăm situațiile, 4 minute; insist asupra siguranței datelor personale online.') },
+      { etapa: 'Portofoliu: mesajul, azi', timp: '12 min', activitate: pasi(
+        'Fiecare începe textul de 90-100 de cuvinte despre valabilitatea mesajului în societatea de azi; două-trei începuturi se citesc.') },
+      { etapa: 'Fișa lecției', timp: '5 min', activitate: pasi(
+        'Elevii rezolvă fișa lecției.') },
+      { etapa: 'Banda desenată', timp: '3 min', activitate: pasi(
+        '„Provocări”, ex. 1: formez grupele de 4-6; fiecare grupă își împarte cadrele, după planul din fișa de exerciții, ex. 3.') },
+      { etapa: 'Temă', timp: '2 min', activitate: pasi(
+        'Tema: textul de portofoliu, terminat; banda desenată, pe grupe, pentru ora viitoare.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; fișa lecției; textul de portofoliu.',
+    evaluare: 'Observarea sistematică; fișa lecției; fișa de exerciții, ex. 1-2; textul de portofoliu.',
   },
   'lectia-6': {
     titlu: 'Text auxiliar. Iepurele și broasca-țestoasă de Jean de La Fontaine',
@@ -101,16 +162,29 @@ export default {
     tipOra: 'Lectură, text auxiliar',
     durata: 50,
     obiective: ['Compară structura fabulei Iepurele și broasca-țestoasă cu cea a fabulei Uliul și găinile.'],
-    resurse: ['Manual Art 6, pp. 129-131', 'Fișa lecției (/materiale/clasa-6/unitatea-4/lectia-6/fisa.pdf)', 'Bilețele pentru rolurile de lectură'],
+    resurse: ['Manual Art 6, pp. 129-131', fisa(6), 'Fișa lecției (/materiale/clasa-6/unitatea-4/lectia-6/fisa.pdf)', 'Bilețele pentru rolurile de lectură'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Îi întreb pe elevi ce s-ar întâmpla dacă ar pune la întrecere cel mai lent și cel mai rapid animal.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că citim o fabulă de La Fontaine și o comparăm cu Uliul și găinile.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '4 min', activitate: 'Îl prezint pe La Fontaine, pe baza textului de la p. 129: Franța secolului al XVII-lea, modelul lui Esop, scopul de „a instrui și a plăcea”.' },
-      { etapa: 'Dirijarea învățării', timp: '24 min', activitate: 'Elevii citesc în gând textul, apoi pe roluri: narator, Broasca, Iepurele. Observăm că morala stă la început, identificăm provocarea, întrecerea și victoria, discutăm atitudinea iepurelui și tonul țestoasei și alegem morala dintre variante. Încheiem cu lectura ilustrației lui Arthur Rackham.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Elevii rezolvă fișa lecției, apoi prezint cărțile de la Biblioteci deschise, Antologia de fabule clasice românești și Domnul Fox, vulpoi fantastic de Roald Dahl.' },
+      { etapa: 'Captarea atenției și autorul', timp: '5 min', activitate: pasi(
+        'Ce s-ar întâmpla dacă ar concura cel mai lent și cel mai rapid animal?',
+        'Caseta de la p. 129: La Fontaine, Franța secolului al XVII-lea, modelul lui Esop, scopul de „a instrui și a plăcea”.') },
+      { etapa: 'Lectura pe roluri', timp: '9 min', activitate: pasi(
+        'Elevii citesc textul în gând și își scriu rolul dorit pe bilețele; aleg un narator, o Broască, un Iepure; lectura pe roluri.',
+        'Lămurim cuvintele din subsol (iască, a purcede, pripeală) și dictonul „Grăbește-te încet!”.') },
+      { etapa: 'Discutarea textului, ex. 1-5', timp: '7 min', activitate: pasi(
+        'Deosebirea de structură față de „Uliul și găinile”; morala la început; ce spune titlul; însușirea care le opune; versurile provocării, întrecerii, victoriei.') },
+      { etapa: 'Discutarea textului, ex. 6-11', timp: '8 min', activitate: pasi(
+        'Cine credeați că va câștiga; comportamentul fiecăruia după start; atitudinea iepurelui (variantele a-c); „țel” în loc de „sosire”; discursul țestoasei; morala (variantele a-d).') },
+      { etapa: 'Lectura imaginii', timp: '4 min', activitate: pasi(
+        'Ex. 12: ilustrația lui Arthur Rackham: animalele, îmbrăcămintea, prim-planul, momentul acțiunii, simpatia ilustratorului.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (două fabule) și ex. 2 (cine spune sau face?), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Biblioteci deschise', timp: '3 min', activitate: pasi(
+        'Prezint „Antologie de fabule clasice românești” (ilustrată de Livia Coloji) și „Domnul Fox, vulpoi fantastic” de Roald Dahl.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: „Portofoliu” (roata lecturii); fișa lecției; fișa de exerciții, pagina 2. Opțional, „Provocări”: sceneta, pe grupe.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; fișa lecției. Temă de portofoliu: roata lecturii.',
+    evaluare: 'Observarea lecturii pe roluri; fișa lecției; fișa de exerciții, ex. 1-2.',
   },
   'lectia-7': {
     titlu: 'Înțelepciunea proverbelor (I), reconstituire și morala fabulei',
@@ -118,16 +192,29 @@ export default {
     tipOra: 'Interculturalitate',
     durata: 50,
     obiective: ['Asociază proverbe din înțelepciunea populară cu semnificațiile lor și extrage morala unei fabule sub formă de proverb.'],
-    resurse: ['Manual Art 6, p. 132', 'Quizul „Înțelepciunea proverbelor” (materialul de joc al lecției)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, p. 132', fisa(7), 'Quizul „Înțelepciunea proverbelor” (materialul de joc al lecției)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '6 min', activitate: 'Elevii recompun proverbele amestecate de la p. 132, de la „O floare nu face primăvară” la „Când vulpea nu ajunge la struguri, zice că sunt acri”.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că descoperim proverbele, înțelepciunea populară strânsă în câteva cuvinte.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reamintim moralele fabulelor citite și le comparăm cu proverbele recompuse.' },
-      { etapa: 'Dirijarea învățării', timp: '20 min', activitate: 'Găsim un proverb pentru morala textului despre uliu și privighetoare, apoi citim Reperele: ce sunt proverbele, cum circulă la popoare diferite, „Piatra ce se rostogolește nu prinde mușchi”. Asociem proverbele cu semnificațiile lor și stabilim ce act de limbaj exprimă „Nu-ți băga nasul unde nu-ți fierbe oala!”.' },
-      { etapa: 'Obținerea performanței', timp: '14 min', activitate: 'Elevii rezolvă quizul „Înțelepciunea proverbelor”, apoi fiecare explică un proverb printr-o situație din viața lui.' },
+      { etapa: 'Proverbele amestecate', timp: '6 min', activitate: pasi(
+        '„Pentru început”, p. 132, ex. 1: elevii recompun proverbele și le notează în caiet; câștigă primul care le are pe toate corecte.') },
+      { etapa: 'Situații de viață', timp: '4 min', activitate: pasi(
+        'Ex. 2: câte o situație pentru fiecare proverb recompus.') },
+      { etapa: 'Uliul și privighetoarea', timp: '3 min', activitate: pasi(
+        'Explorare: morala textului, cu o zicere din înțelepciunea populară.') },
+      { etapa: 'Notițe: proverbul', timp: '5 min', activitate: pasi(
+        'În caiete, după Repere: ce sunt proverbele, cum circulă la popoare diferite (Piatra ce se rostogolește...), rimele și figurile de stil.') },
+      { etapa: 'Aplicații, ex. 1-2', timp: '6 min', activitate: pasi(
+        'Asocierea proverbelor cu semnificațiile; actul de limbaj (interzicere, recomandare...) din cele două proverbe.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '12 min', activitate: pasi(
+        'Pagina 1: ex. 1 (recompune proverbele) și ex. 2 (ce înseamnă?), individual, 8 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Un proverb, o întâmplare', timp: '5 min', activitate: pasi(
+        'Câțiva elevi explică un proverb printr-o întâmplare din viața lor.') },
+      { etapa: 'Quiz', timp: '6 min', activitate: pasi(
+        'Quizul „Înțelepciunea proverbelor”, frontal.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; rezultatele la quiz.',
+    evaluare: 'Observarea sistematică; quizul; fișa de exerciții, ex. 1-2.',
   },
   'lectia-8': {
     titlu: 'Înțelepciunea proverbelor (II), similitudini interculturale',
@@ -135,16 +222,27 @@ export default {
     tipOra: 'Interculturalitate',
     durata: 50,
     obiective: ['Identifică similitudini între proverbe din culturi diferite și discută valoarea lor sapiențială și literară.'],
-    resurse: ['Manual Art 6, p. 133', 'Infograficul „Înțelepciunea proverbelor” (/materiale/clasa-6/unitatea-4/lectia-8/infografic.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, p. 133', fisa(8), 'Infograficul „Înțelepciunea proverbelor” (/materiale/clasa-6/unitatea-4/lectia-8/infografic.svg)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Privim tabloul Proverbe flamande de Pieter Bruegel cel Bătrân și căutăm scenele pentru „Te uiți după berze” și „Rareori se înțeleg doi câini pe același os”.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că vedem cum aceleași învățături apar la popoare diferite.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reamintim ce este un proverb și ce proverbe am recompus ora trecută.' },
-      { etapa: 'Dirijarea învățării', timp: '20 min', activitate: 'Găsim proverbul românesc pentru morala din Vulpea și barza, pictată în centrul tabloului, și completăm proverbele de la p. 133. Căutăm echivalente românești pentru proverbele din Italia, Polonia, Ungaria, Franța, Turcia, Maroc și, cu infograficul, discutăm de ce seamănă atât de mult.' },
-      { etapa: 'Obținerea performanței', timp: '15 min', activitate: 'Concurs pe grupe de 4-6: fiecare grupă trage la sorți o categorie, animale și plante, părți ale corpului, meserii, timp, și notează cât mai multe proverbe care o conțin.' },
+      { etapa: 'Tabloul lui Bruegel', timp: '7 min', activitate: pasi(
+        'P. 133, ex. 3a: „Proverbe flamande”; elevii caută scenele pentru cele cinci proverbe (berzele, câinii și osul, oaia și porcul, acoperișul din tarte, peștii).') },
+      { etapa: 'Vulpea și barza', timp: '3 min', activitate: pasi(
+        'Ex. 3b: proverbul românesc potrivit moralei pictate în centrul tabloului.') },
+      { etapa: 'Completează proverbele', timp: '4 min', activitate: pasi(
+        'Ex. 4: variantele potrivite și ce înseamnă fiecare proverb.') },
+      { etapa: 'Proverbe din alte țări', timp: '6 min', activitate: pasi(
+        '„Portofoliu”, ex. 1, frontal: echivalentele românești pentru proverbele din Italia, Polonia, Ungaria, Franța, Marea Britanie, Turcia, Maroc.') },
+      { etapa: 'Notițe', timp: '4 min', activitate: pasi(
+        'În caiete, după infograficul lecției: de ce seamănă proverbele popoarelor, valoarea lor sapiențială și literară.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (echivalente românești) și ex. 2 (completează proverbele), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Concursul proverbelor', timp: '12 min', activitate: pasi(
+        'Ex. 5: grupe de 4-6 trag la sorți o categorie (animale și plante, corp, meserii, natură, sentimente, timp) și notează cât mai multe proverbe în 7 minute; raportorii citesc, numărăm.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: „Portofoliu”, ex. 2 (imaginea amuzantă pentru un proverb); fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; aprecieri. Temă de portofoliu: o imagine amuzantă pentru un proverb.',
+    evaluare: 'Concursul pe grupe; fișa de exerciții, ex. 1-2.',
   },
   'lectia-9': {
     titlu: 'Dicția în interacțiunile verbale',
@@ -152,16 +250,29 @@ export default {
     tipOra: 'Comunicare orală',
     durata: 50,
     obiective: ['Exersează pronunțarea clară și corectă a cuvintelor, prin încurcături de limbă și exerciții de dicție.'],
-    resurse: ['Manual Art 6, p. 134', 'Quizul „Dicția în interacțiunile verbale” (materialul de joc al lecției)'],
+    resurse: ['Manual Art 6, p. 134', fisa(9), 'Quizul „Dicția în interacțiunile verbale” (materialul de joc al lecției)'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '6 min', activitate: 'Joc de rol: câțiva elevi rostesc „Te-am avertizat să nu faci asta! Acum trebuie să dispar…” ca un copil peltic, un papagal, un robot, un șoricel sau o vrăjitoare.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că exersăm dicția, adică rostirea clară a cuvintelor.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '3 min', activitate: 'Reamintim criteriile de recitare din Unitatea III: intonație, ritm, gestică.' },
-      { etapa: 'Dirijarea învățării', timp: '20 min', activitate: 'Rostim încurcăturile de limbă de la p. 134, capra neagră, prepelița pestriță, știuca. Citim enunțurile cu „un’”, „poa’”, „tre’”, „fincă”, stabilim cum se rostesc și se scriu corect, rolul apostrofului, apoi le citim corect, dar prea încet, ca să vedem că nici așa nu se înțelege. Fixăm Reperele despre dicție și debitul vorbirii.' },
-      { etapa: 'Obținerea performanței', timp: '16 min', activitate: 'În perechi, elevii compun o încurcătură de limbă și o rostesc în fața clasei, apoi votăm cele mai reușite trei. Toți rezolvă quizul „Dicția în interacțiunile verbale”.' },
+      { etapa: 'Joc de rol', timp: '6 min', activitate: pasi(
+        '„Pentru început”, p. 134: voluntarii rostesc „Te-am avertizat să nu faci asta! Acum trebuie să dispar…” ca un copil peltic, un papagal, o persoană în vârstă, un robot, un șoricel, o vrăjitoare.') },
+      { etapa: 'Încurcăturile de limbă', timp: '6 min', activitate: pasi(
+        'Explorare, ex. 1: rostim repede și clar încurcăturile a-e, întâi în cor, apoi câte un voluntar.') },
+      { etapa: 'Rostirea neîngrijită', timp: '6 min', activitate: pasi(
+        'Ex. 2: enunțurile cu „un’”, „poa’”, „tre’”, „fincă”: în ce situație se aud, cum se rostesc și se scriu corect; le citim corect, dar foarte încet – ne-am auzit?') },
+      { etapa: 'Notițe: dicția', timp: '4 min', activitate: pasi(
+        'În caiete, după Repere: dicția, debitul verbal, exercițiile de dicție, apostroful.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '10 min', activitate: pasi(
+        'Pagina 1: ex. 1 (încurcături de limbă scrise pentru fișă) și ex. 2 (forma îngrijită), 7 minute.',
+        'Verificare, 3 minute; câțiva rostesc încurcăturile.') },
+      { etapa: 'Încurcăturile clasei', timp: '9 min', activitate: pasi(
+        'Aplicații, ex. 1: perechile creează o încurcătură de limbă, o exersează și o rostesc; votăm cele mai reușite trei.') },
+      { etapa: 'Aplicații, ex. 2', timp: '3 min', activitate: pasi(
+        'Rostim repede încurcăturile a-c (gândurile, papucarul, vulturul).') },
+      { etapa: 'Quiz', timp: '3 min', activitate: pasi(
+        'Quizul „Dicția în interacțiunile verbale”.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: „Provocări” (pregătirea unei recitări sau a unui teatru cu figurine pe băț); fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; interevaluare prin vot; rezultatele la quiz.',
+    evaluare: 'Observarea rostirii; votul clasei; quizul; fișa de exerciții, ex. 1-2.',
   },
   'lectia-10': {
     titlu: 'Inteligența emoțională. Exprimarea adecvată a emoțiilor',
@@ -169,16 +280,27 @@ export default {
     tipOra: 'Comunicare orală',
     durata: 50,
     obiective: ['Recunoaște componentele inteligenței emoționale și aplică pașii pentru controlul emoțiilor puternice.'],
-    resurse: ['Manual Art 6, p. 135', 'Schema „Inteligența emoțională” (/materiale/clasa-6/unitatea-4/lectia-10/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, p. 135', fisa(10), 'Schema „Inteligența emoțională” (/materiale/clasa-6/unitatea-4/lectia-10/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Privim cele două imagini cu conflicte de la p. 135 și ghicim motivul certei și emoțiile fiecărui copil.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că învățăm să ne recunoaștem și să ne stăpânim emoțiile puternice.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reamintim atitudinile comunicative și ascultarea activă din Unitatea III.' },
-      { etapa: 'Dirijarea învățării', timp: '20 min', activitate: 'Discutăm cum ar reacționa elevii la una dintre scene și propunem o continuare care stinge conflictul. Cu ajutorul schemei explic cele trei componente ale inteligenței emoționale, conștientizarea de sine, empatia, autocontrolul, apoi ordonăm pașii „semaforului” pentru controlul mâniei sau al fricii.' },
-      { etapa: 'Obținerea performanței', timp: '15 min', activitate: 'Pe grupe, elevii caută soluții care să-i mulțumească pe amândoi frații din scena cu temele și muzica, apoi câțiva povestesc o neînțelegere din clasă încheiată bine.' },
+      { etapa: 'Cele două conflicte', timp: '8 min', activitate: pasi(
+        'Explorare, p. 135, ex. 1-3: motivul fiecărei certe, emoțiile copiilor, cum ați reacționa, o continuare care stinge conflictul.') },
+      { etapa: 'Notițe: inteligența emoțională', timp: '5 min', activitate: pasi(
+        'În caiete, după Repere și schema lecției: conștientizarea de sine, empatia, autocontrolul, cu câte un exemplu.') },
+      { etapa: 'Semaforul', timp: '5 min', activitate: pasi(
+        'Aplicații, ex. 1: ordonăm pașii pentru controlul mâniei sau al fricii și îi asociem culorilor semaforului.') },
+      { etapa: 'Frații și muzica', timp: '8 min', activitate: pasi(
+        'Ex. 2, pe grupe: soluții care să-i mulțumească pe amândoi frații; raportorii prezintă.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (ce componentă?) și ex. 2 (semaforul, pe o situație nouă), individual, 7 minute.',
+        'Discutăm câteva răspunsuri, 4 minute.') },
+      { etapa: 'O neînțelegere încheiată bine', timp: '5 min', activitate: pasi(
+        'Ex. 3: doi-trei elevi povestesc o neînțelegere din clasă care s-a încheiat cu o soluție bună.') },
+      { etapa: 'Reflecții', timp: '5 min', activitate: pasi(
+        'Dublajul sau subtitrarea desenelor animate: câte un argument pro și contra, privind exprimarea emoțiilor.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: „Portofoliu”, ex. 1 („Chipuri și emoții”) sau ex. 2 („Punct de prim ajutor emoțional”, pe grupe); fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor. Temă de portofoliu: planșa „Chipuri și emoții” sau posterul „Punct de prim ajutor emoțional”.',
+    evaluare: 'Observarea lucrului pe grupe; fișa de exerciții, ex. 1-2.',
   },
   'lectia-11': {
     titlu: 'Pronumele (actualizare). Pronumele personal și pronumele personal de politețe',
@@ -186,16 +308,29 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Reactualizează pronumele personal și pronumele personal de politețe și categoriile lor gramaticale.'],
-    resurse: ['Manual Art 6, pp. 136-137', 'Schema „Pronumele personal și pronumele de politețe” (/materiale/clasa-6/unitatea-4/lectia-11/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 136-137', fisa(11), 'Schema „Pronumele personal și pronumele de politețe” (/materiale/clasa-6/unitatea-4/lectia-11/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '6 min', activitate: 'Jocul de la p. 136: elevii numără pronumele din replicile corbului și ale vulpii și le grupează în personale și de politețe. Câștigă primul care termină corect.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că reluăm pronumele personal și pronumele de politețe.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Pornind de la originea cuvântului, pronomen, „în loc de nume”, înlocuim substantivele din enunțurile de la p. 136 cu pronume.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Cu ajutorul schemei reluăm persoana, numărul și genul, prezent doar la persoana a III-a, apoi formele accentuate și neaccentuate, numite clitice, din dativ și acuzativ, pe tabelul de la p. 137. Diferențiem ortogramele l-a și la, ne-a și nea, ți-i și ții, vi-i și vii.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Elevii precizează persoana, numărul și genul pronumelor din enunțurile de la p. 138 și înlocuiesc substantivele scrise italic cu pronume.' },
+      { etapa: 'Corbul și vulpea', timp: '6 min', activitate: pasi(
+        '„Pentru început”, p. 136, ex. 1-2: numărul pronumelor din replici; gruparea în personale și de politețe; câștigă primul care termină corect.') },
+      { etapa: 'Explorare, ex. 1-3', timp: '5 min', activitate: pasi(
+        'Persoana și numărul fiecărui pronume; unde apare genul; care au forme accentuate și neaccentuate.') },
+      { etapa: 'Istoria cuvântului', timp: '5 min', activitate: pasi(
+        'Ex. 4: „pronomen” – „în loc de nume”; înlocuim substantivele din enunțurile a-f cu pronume.') },
+      { etapa: 'Notițe: pronumele personal', timp: '7 min', activitate: pasi(
+        'În caiete, după Repere și schema lecției: persoana, numărul, genul (doar la persoana a III-a), formele accentuate și cliticele, tabelul formelor de la p. 137.') },
+      { etapa: 'Cazurile', timp: '5 min', activitate: pasi(
+        'Ex. 5-6: cazurile pronumelor din ex. 4 și din enunțurile a-b.') },
+      { etapa: 'Ortograme', timp: '4 min', activitate: pasi(
+        'Ex. 7: propoziții care deosebesc l-a/la, ne-a/nea, ți-i/ții, vi-i/vii, la tablă.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '12 min', activitate: pasi(
+        'Pagina 1: ex. 1 (înlocuiește cu pronume) și ex. 2 (persoana, numărul, genul), individual, 8 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Aplicații, ex. 1', timp: '3 min', activitate: pasi(
+        'Frontal: înlocuim substantivele scrise italic cu pronume.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: Aplicații, ex. 2-3; fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; aprecieri.',
+    evaluare: 'Observarea sistematică; fișa de exerciții, ex. 1-2.',
   },
   'lectia-12': {
     titlu: 'Pronumele personal și de politețe (II), caz și grade de politețe',
@@ -203,16 +338,29 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Identifică cazul pronumelui personal și de politețe și gradele de politețe ale acestuia din urmă.'],
-    resurse: ['Manual Art 6, pp. 137-139', 'Fișa lecției (/materiale/clasa-6/unitatea-4/lectia-12/fisa.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 137-139', fisa(12), 'Fișa lecției (/materiale/clasa-6/unitatea-4/lectia-12/fisa.pdf)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Privim imaginea cu regele pădurii de la p. 137 și îi întreb cum i s-ar adresa supușii și cum și-ar vorbi vulpea și bursucul.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că învățăm cazurile pronumelor și gradele de politețe.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reamintim formele pronumelui personal din tabelul de la p. 137 și stabilim cazul pronumelor din enunțurile de la p. 136.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Pe Reperele de la p. 138 explic gradele de politețe, redus, dumneata, dânsul, standard, dumneavoastră, sporit, domnia-voastră, folosirea lui dumneavoastră cu verbul la plural și formulele reverențioase scrise cu majuscule, Excelența Voastră. Comparăm două traduceri din Lupul și mielul și căutăm formulele „Măria Ta”.' },
-      { etapa: 'Obținerea performanței', timp: '13 min', activitate: 'Elevii rezolvă fișa lecției, apoi, în perechi, joacă scurte dialoguri între persoane de vârstă sau rang diferit, elev și profesor, angajat și director, folosind pronumele potrivite.' },
+      { etapa: 'Explorare, ex. 1-2', timp: '6 min', activitate: pasi(
+        'P. 137: înlocuim pronumele personale cu pronume de politețe, pentru persoane mai în vârstă; cazurile lor.') },
+      { etapa: 'Regele pădurii', timp: '4 min', activitate: pasi(
+        'Ex. 3: formulele supușilor către rege; cum i s-ar adresa ariciul lupului, ursului, elefantului; cum și-ar vorbi vulpea și bursucul.') },
+      { etapa: 'Limbă vorbită, limbă scrisă', timp: '4 min', activitate: pasi(
+        'Ex. 4: ce pronume folosim pentru bunici, vecini, profesori; le ordonăm după respect și după registru.') },
+      { etapa: 'Notițe: pronumele de politețe', timp: '7 min', activitate: pasi(
+        'În caiete, după Repere (p. 138): gradele de politețe, tabelul formelor, „dumneavoastră” cu verbul la plural, formulele reverențioase cu majuscule, formele populare (mata, matale).') },
+      { etapa: 'Aplicații, ex. 4-6', timp: '6 min', activitate: pasi(
+        'Completăm cu pronume de politețe; cazurile lor; asociem persoanele cu formulele reverențioase.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (ce pronume folosești?) și ex. 2 (corectează), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Lupul și mielul', timp: '5 min', activitate: pasi(
+        'Aplicații, ex. 7: cele două traduceri; formulele reverențioase și cazul lor; pronumele personale cerute.') },
+      { etapa: 'Joc de rol', timp: '4 min', activitate: pasi(
+        '„Provocări”: două-trei perechi joacă dialoguri scurte între persoane de vârstă sau rang diferit.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: Aplicații, ex. 8 (analiza după model); fișa lecției; fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; fișa lecției; aprecieri pe dialoguri.',
+    evaluare: 'Observarea jocului de rol; fișa lecției; fișa de exerciții, ex. 1-2.',
   },
   'lectia-13': {
     titlu: 'Posibilități combinatorii ale pronumelui (I), funcții sintactice',
@@ -220,16 +368,27 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Identifică funcțiile sintactice ale pronumelui: subiect, nume predicativ, atribut pronominal.'],
-    resurse: ['Manual Art 6, pp. 140-141', 'Schema „Funcțiile sintactice ale pronumelui” (/materiale/clasa-6/unitatea-4/lectia-13/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 140-141', fisa(13), 'Schema „Funcțiile sintactice ale pronumelui” (/materiale/clasa-6/unitatea-4/lectia-13/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Îi întreb pe elevi pe cine desemnează pronumele în nominativ din enunțurile despre uliu și despre iepure de la p. 140.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că vedem ce funcții sintactice poate avea pronumele.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reamintim funcțiile sintactice ale substantivului pe cazuri, din Unitatea III.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Cu ajutorul schemei și al tabelului de la p. 140 parcurgem funcțiile pronumelui: subiect, nume predicativ, atribut pronominal prepozițional și genitival, complement direct, prepozițional, indirect, circumstanțiale, fiecare cu exemple. Arătăm că pronumele poate fi centru, „Dumneata de lângă geam”, sau adjunct într-un grup de cuvinte.' },
-      { etapa: 'Obținerea performanței', timp: '13 min', activitate: 'Elevii stabilesc funcția pronumelor scrise italic de la p. 140, apoi cazul și funcția pronumelor din Aplicațiile de la p. 141.' },
+      { etapa: 'Explorare, ex. 1-2', timp: '4 min', activitate: pasi(
+        'P. 140: pe cine desemnează pronumele în nominativ din enunțurile despre uliu și iepure; ce funcție au.') },
+      { etapa: 'Explorare, ex. 3-4', timp: '8 min', activitate: pasi(
+        'Poziția cliticelor față de complemente; funcția pronumelor scrise italic (a-j), frontal.') },
+      { etapa: 'Notițe: funcțiile pronumelui', timp: '8 min', activitate: pasi(
+        'În caiete, după tabelul de la p. 140 și schema lecției: fiecare funcție, cu cazul și câte un exemplu; pronumele ca centru și ca adjunct.') },
+      { etapa: 'Ex. 5', timp: '2 min', activitate: pasi(
+        '„Voi din banca a doua, treceți la tablă!”: ce funcție are substantivul și ce determină.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '13 min', activitate: pasi(
+        'Pagina 1: ex. 1 (funcția pronumelui) și ex. 2 (construiește cu „dânsa”), individual, 9 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Aplicații, ex. 1', timp: '6 min', activitate: pasi(
+        'Frontal: funcțiile și cazurile pronumelor din enunțurile a-f.') },
+      { etapa: 'Pronumele-centru', timp: '5 min', activitate: pasi(
+        'Elevii dau exemple în care pronumele e centru („Tu de la geam...”) și le scriem pe tablă.') },
+      { etapa: 'Temă', timp: '4 min', activitate: pasi(
+        'Tema: „Provocări” (propozițiile bărzii, cu pronume de politețe, funcția și cazul lor); fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; aprecieri.',
+    evaluare: 'Observarea sistematică; fișa de exerciții, ex. 1-2.',
   },
   'lectia-14': {
     titlu: 'Posibilități combinatorii ale pronumelui (II), clitice și ortografie',
@@ -237,16 +396,29 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Recunoaște anticiparea și reluarea unor complemente prin clitice pronominale și respectă ortografia formelor neaccentuate.'],
-    resurse: ['Manual Art 6, p. 141', 'Fișa lecției (/materiale/clasa-6/unitatea-4/lectia-14/fisa.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, p. 141', fisa(14), 'Fișa lecției (/materiale/clasa-6/unitatea-4/lectia-14/fisa.pdf)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Elevii aleg enunțurile corecte: „I-am scris lui Andrei.” sau „Am scris lui Andrei.”, „L-am văzut pe tata.” sau „Am văzut pe tata.”.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că învățăm cum dublează cliticele complementele și cum le scriem corect.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reamintim formele neaccentuate ale pronumelui personal în dativ și acuzativ.' },
-      { etapa: 'Dirijarea învățării', timp: '20 min', activitate: 'Explic dublarea complementului direct și indirect prin clitice, anticipare, „L-am întrebat pe dânsul.”, și reluare, „Pe Ana am văzut-o ieri.”, și ordinea lor, „Mi l-a dat.”. Grupăm cliticele antepuse și postpuse, transformăm „Pot să-i împrumut colegului meu CD-urile?” în „Pot să i le împrumut?” și corectăm greșelile de la p. 141: Ia-ți, I-au, Î-mi.' },
-      { etapa: 'Obținerea performanței', timp: '15 min', activitate: 'Elevii rezolvă fișa lecției, apoi analizează pronumele personale din fragmentul Lupul și barza, după model.' },
+      { etapa: 'Care e corect?', timp: '4 min', activitate: pasi(
+        'Explorare, p. 140, ex. 1: enunțurile corecte dintre a-d; de ce?') },
+      { etapa: 'Notițe: dublarea prin clitice', timp: '6 min', activitate: pasi(
+        'În caiete, după Repere (p. 141): dublarea complementului direct și indirect, anticiparea, reluarea, ordinea cliticelor (dativ înaintea acuzativului).') },
+      { etapa: 'Antepuse și postpuse', timp: '5 min', activitate: pasi(
+        'P. 141, ex. 2: grupăm cliticele din enunțurile a-f.') },
+      { etapa: 'Transformări', timp: '6 min', activitate: pasi(
+        'Ex. 3-4: transformăm după modelul „Pot să i le împrumut?”; cazurile pronumelor.') },
+      { etapa: 'Ortografia', timp: '4 min', activitate: pasi(
+        'Ex. 5: corectăm greșelile de ortografie din enunțurile a-d, la tablă.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '11 min', activitate: pasi(
+        'Pagina 1: ex. 1 (anticipare sau reluare?) și ex. 2 (două clitice), individual, 7 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Aplicații, ex. 2', timp: '4 min', activitate: pasi(
+        'Completăm cliticele și spunem ce complement dublează.') },
+      { etapa: 'Fișa lecției', timp: '6 min', activitate: pasi(
+        'Elevii rezolvă fișa lecției.') },
+      { etapa: 'Temă', timp: '4 min', activitate: pasi(
+        'Tema: Aplicații, ex. 3 (pronumele din „Lupul și barza”, după model); fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; fișa lecției.',
+    evaluare: 'Observarea sistematică; fișa lecției; fișa de exerciții, ex. 1-2.',
   },
   'lectia-15': {
     titlu: 'Pronumele reflexiv',
@@ -254,16 +426,29 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Recunoaște pronumele reflexiv (formele se și își) și categoriile gramaticale ale acestuia.'],
-    resurse: ['Manual Art 6, pp. 142-143', 'Schema „Pronumele reflexiv” (/materiale/clasa-6/unitatea-4/lectia-15/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 142-143', fisa(15), 'Schema „Pronumele reflexiv” (/materiale/clasa-6/unitatea-4/lectia-15/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Citim textul despre familia care se pregătește de teatru, „Mama se machiază și își dă cu parfum”, și îi întreb pe cine desemnează cuvintele colorate.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că învățăm pronumele reflexiv.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reamintim formele neaccentuate ale pronumelui personal de ora trecută.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Completăm cu se sau își ceasurile de la p. 142, apoi, cu ajutorul schemei, explic pronumele reflexiv, care are aceeași persoană cu subiectul, și formele lui proprii la persoana a III-a: (pe) sine, se, sieși, își. Arătăm că la persoanele I și a II-a împrumută formele personale: „Mă întreb.” e reflexiv, „Mă întreabă.” e personal.' },
-      { etapa: 'Obținerea performanței', timp: '13 min', activitate: 'Elevii găsesc pronumele reflexive din proverbele de la p. 143, deosebesc perechile „Îmi faci” și „Îmi fac” și corectăm „Sa spălat” și „Sau încurajat”.' },
+      { etapa: 'Familia la teatru', timp: '5 min', activitate: pasi(
+        'P. 142: pe cine desemnează cuvintele colorate; la ce persoană sunt verbele; ce constatăm?') },
+      { etapa: 'Ceasurile zilei', timp: '5 min', activitate: pasi(
+        'Explorare, ex. 1: completăm cu „se” sau „își” textele de pe ceasuri.') },
+      { etapa: 'Forme accentuate', timp: '4 min', activitate: pasi(
+        'Ex. 2-3: „sieși” și „își”, „sine” și „se”; cazurile lor.') },
+      { etapa: 'Notițe: pronumele reflexiv', timp: '7 min', activitate: pasi(
+        'În caiete, după Repere și schema lecției: definiția, tabelul formelor de persoana a III-a, împrumutul formelor personale la persoanele I și a II-a („Mă întreb.” / „Mă întreabă.”).') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '12 min', activitate: pasi(
+        'Pagina 1: ex. 1 (completează) și ex. 2 (reflexiv sau personal?), individual, 8 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Aplicații, ex. 1', timp: '4 min', activitate: pasi(
+        'Pronumele reflexive din proverbe și forma lor.') },
+      { etapa: 'Aplicații, ex. 3', timp: '5 min', activitate: pasi(
+        'Perechile de enunțuri: personal sau reflexiv? Justificăm prin persoana verbului.') },
+      { etapa: 'Aplicații, ex. 4 și 6', timp: '6 min', activitate: pasi(
+        'Completăm cu verbe reflexive, după model; corectăm „Sa spălat”, „Sau încurajat” și celelalte.') },
+      { etapa: 'Temă', timp: '2 min', activitate: pasi(
+        'Tema: Aplicații, ex. 2, 5, 7; fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; aprecieri.',
+    evaluare: 'Observarea sistematică; fișa de exerciții, ex. 1-2.',
   },
   'lectia-16': {
     titlu: 'Numeralul (actualizare). Valori morfologice ale numeralului',
@@ -271,16 +456,29 @@ export default {
     tipOra: 'Predare, gramatică',
     durata: 50,
     obiective: ['Reactualizează numeralul cardinal și ordinal și recunoaște valorile lor morfologice.'],
-    resurse: ['Manual Art 6, pp. 144-145', 'Schema „Numeralul. Valorile numeralului” (/materiale/clasa-6/unitatea-4/lectia-16/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 144-145', fisa(16), 'Schema „Numeralul. Valorile numeralului” (/materiale/clasa-6/unitatea-4/lectia-16/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Citim replicile lupului și ale oii de la p. 144, cu cele trei adevăruri, și căutăm numeralele.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că reluăm numeralul și descoperim valorile lui.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reamintim numeralul cardinal și ordinal din clasa a V-a și deosebim un și o articole de un și o numerale.' },
-      { etapa: 'Dirijarea învățării', timp: '22 min', activitate: 'Cu ajutorul schemei reluăm numeralele cardinale simple și compuse, legarea prin de de la douăzeci în sus și structura numeralului ordinal, al șaptelea. Pe textul despre campania de cărți descoperim valorile: adjectivală, „trei cai”, pronominală, „Două dintre cărți”, substantivală, „tramvaiul 34”.' },
-      { etapa: 'Obținerea performanței', timp: '13 min', activitate: 'Elevii stabilesc valorile numeralelor din enunțurile de la p. 145, corectăm „două sute lei”, „pagina șaișpe”, „clasa a doisprezecea”, apoi completează autoevaluarea pentru lecțiile 8-11.' },
+      { etapa: 'Lupul și oaia', timp: '7 min', activitate: pasi(
+        'Explorare, p. 144, ex. 1-5: numeralele din replici și felul lor, formele după gen, „un” și „o” articole sau numerale, structura unui numeral ordinal.') },
+      { etapa: 'Notițe: numeralul', timp: '6 min', activitate: pasi(
+        'În caiete, după Repere și schema lecției: numeralul cardinal (simplu, compus, legat prin „de”), genul, numeralul ordinal și structura lui.') },
+      { etapa: 'Campania de cărți', timp: '5 min', activitate: pasi(
+        'Explorare, ex. 1: numeralele din text, felul lor, cele legate prin prepoziție, cele cu articol demonstrativ.') },
+      { etapa: 'Valorile numeralului', timp: '6 min', activitate: pasi(
+        'Ex. 2-3: înlocuim numeralele cu altă parte de vorbire; „vila 4”; notăm valoarea adjectivală, pronominală, substantivală.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '12 min', activitate: pasi(
+        'Pagina 1: ex. 1 (felul și valoarea) și ex. 2 (corectează), individual, 8 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Aplicații, ex. 1-2', timp: '5 min', activitate: pasi(
+        'Frontal: subliniem numeralele și le stabilim felul și valoarea.') },
+      { etapa: 'Normă și abatere', timp: '3 min', activitate: pasi(
+        'Aplicații, ex. 4: corectăm enunțurile a-d.') },
+      { etapa: 'Autoevaluare L8-L11', timp: '3 min', activitate: pasi(
+        'P. 145: elevii completează cele trei afirmații.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: Aplicații, ex. 3 și 5; „Portofoliu” (rețeta sau regulamentul cu numerale); fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; autoevaluarea achizițiilor din lecțiile 8-11.',
+    evaluare: 'Observarea sistematică; autoevaluarea L8-L11; fișa de exerciții, ex. 1-2.',
   },
   'lectia-17': {
     titlu: 'Inserarea secvențelor descriptive într-o narațiune (I), pregătire',
@@ -288,16 +486,27 @@ export default {
     tipOra: 'Redactare',
     durata: 50,
     obiective: ['Analizează un text-stimul narativ și identifică locul potrivit pentru inserarea unor secvențe descriptive.'],
-    resurse: ['Manual Art 6, pp. 146-147', 'Fișa lecției (/materiale/clasa-6/unitatea-4/lectia-17/fisa.pdf)', 'Creioane colorate'],
+    resurse: ['Manual Art 6, pp. 146-147', fisa(17), 'Fișa lecției (/materiale/clasa-6/unitatea-4/lectia-17/fisa.pdf)', 'Creioane colorate'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Elevii răspund la minichestionarul de la p. 146: sar peste descrieri sau îi ajută să-și imagineze personajele și locurile?' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că învățăm să introducem descrieri scurte într-o narațiune.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reamintim descrierea unui peisaj din Unitatea III: figurile de stil și timpul imperfect.' },
-      { etapa: 'Dirijarea învățării', timp: '25 min', activitate: 'Citim Adevărata floare, după Jean-Claude Carrière, despre regina din Saba și regele Solomon. Elevii rescriu textul, adăugând cu altă culoare scurte pasaje descriptive despre încăpere, flori, regină, Solomon și albină, cu ajutorul tabelului de la p. 146. Discutăm cum schimbă descrierile înțelegerea textului și fixăm Reperele de la p. 147 despre locul și rolul lor.' },
-      { etapa: 'Obținerea performanței', timp: '10 min', activitate: 'Elevii rezolvă fișa lecției, apoi câțiva își citesc variantele.' },
+      { etapa: 'Minichestionar', timp: '4 min', activitate: pasi(
+        '„Pentru început”, p. 146: ce enunțuri se potrivesc profilului vostru de cititor? Câteva mâini ridicate pentru fiecare.') },
+      { etapa: 'Adevărata floare', timp: '4 min', activitate: pasi(
+        'Explorare, ex. 1: citesc povestirea după Jean-Claude Carrière (regina din Saba și regele Solomon).') },
+      { etapa: 'Rescrierea cu descrieri', timp: '14 min', activitate: pasi(
+        'Ex. 2: fiecare rescrie textul, adăugând, cu altă culoare, scurte pasaje descriptive despre încăpere, flori, regină, Solomon, albină; se poate inspira din tabelul de la p. 146.') },
+      { etapa: 'Ce se schimbă?', timp: '5 min', activitate: pasi(
+        'Doi-trei elevi își citesc variantele; ex. 3: schimbă descrierile felul în care înțelegem textul?') },
+      { etapa: 'Notițe: descrierea în narațiune', timp: '5 min', activitate: pasi(
+        'În caiete, după Repere (p. 147): locul și rolul pasajelor descriptive, timpurile verbale, cine face descrierea.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '10 min', activitate: pasi(
+        'Pagina 1: textul „Cutia din pod” (scris pentru fișă) și ex. 2 (unde pui descrierea?), individual, 7 minute.',
+        'Citim câteva propuneri, 3 minute.') },
+      { etapa: 'Fișa lecției', timp: '5 min', activitate: pasi(
+        'Elevii rezolvă fișa lecției.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: fișa de exerciții, ex. 3-4 (narațiune sau descriere; rescrierea cu două pasaje descriptive).') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; fișa lecției.',
+    evaluare: 'Rescrierile cu descrieri; fișa lecției; fișa de exerciții, ex. 2.',
   },
   'lectia-18': {
     titlu: 'Inserarea secvențelor descriptive într-o narațiune (II), redactare',
@@ -305,16 +514,26 @@ export default {
     tipOra: 'Redactare',
     durata: 50,
     obiective: ['Redactează o compunere narativă cu inserarea unor secvențe descriptive.'],
-    resurse: ['Manual Art 6, p. 147, indicațiile de redactare și grila de evaluare', 'Fișa lecției (/materiale/clasa-6/unitatea-4/lectia-18/fisa.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, p. 147, indicațiile de redactare și grila de evaluare', fisa(18), 'Fișa lecției (/materiale/clasa-6/unitatea-4/lectia-18/fisa.pdf)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '4 min', activitate: 'Citesc începutul povestirii Super! Sunt un gândac! de Ciprian Măceșaru, de la p. 147.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că fiecare continuă povestirea la persoana a III-a, cu două secvențe descriptive.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '4 min', activitate: 'Reamintim unde pot sta descrierile într-o narațiune și timpurile verbale: perfectul simplu în narațiune, imperfectul în descriere.' },
-      { etapa: 'Dirijarea învățării', timp: '8 min', activitate: 'Pe fișa lecției, elevii aleg urmările întâmplării, deznodământul și locul celor două descrieri, cu enumerații, epitete și comparații.' },
-      { etapa: 'Obținerea performanței', timp: '29 min', activitate: 'Elevii scriu prima variantă, îi dau un titlu, o revizuiesc și o transcriu, apoi își evaluează textele în perechi pe grila de la p. 147.' },
+      { etapa: 'Începutul povestirii', timp: '4 min', activitate: pasi(
+        'Citesc începutul povestirii „Super! Sunt un gândac!” de Ciprian Măceșaru, de la p. 147.') },
+      { etapa: 'Indicațiile', timp: '4 min', activitate: pasi(
+        'Aplicații, ex. 1, a-e: situația inițială și personajele păstrate, urmările, deznodământul, locul celor două descrieri, timpurile verbale.') },
+      { etapa: 'Planul', timp: '7 min', activitate: pasi(
+        'Fișa de exerciții, ex. 1, și fișa lecției: fiecare își notează urmările, deznodământul și locul descrierilor.') },
+      { etapa: 'Timpurile', timp: '3 min', activitate: pasi(
+        'Fișa de exerciții, ex. 2, frontal: perfectul simplu în narațiune, imperfectul în descriere.') },
+      { etapa: 'Prima variantă', timp: '20 min', activitate: pasi(
+        'Ex. 1 f: elevii scriu prima variantă și îi dau un titlu; trec pe la bănci și ajut la începutul descrierilor.') },
+      { etapa: 'Revizuirea', timp: '4 min', activitate: pasi(
+        'Ex. 1 g: claritatea ideilor, paragrafele, corectitudinea gramaticală, ortografia, punctuația.') },
+      { etapa: 'Interevaluarea', timp: '5 min', activitate: pasi(
+        'Ex. 2: perechile își evaluează textele pe grila de la p. 147.') },
+      { etapa: 'Temă', timp: '3 min', activitate: pasi(
+        'Tema: ex. 1 h (varianta finală, îngrijită); fișa de exerciții, ex. 3-5.') },
     ],
-    evaluare: 'Interevaluare pe grila de la p. 147; observarea sistematică a elevilor.',
+    evaluare: 'Interevaluare pe grila de la p. 147; fișa lecției.',
   },
   'lectia-19': {
     titlu: 'Textul explicativ (I), recunoașterea explicațiilor',
@@ -322,16 +541,25 @@ export default {
     tipOra: 'Redactare',
     durata: 50,
     obiective: ['Diferențiază textul explicativ cauzal de textul explicativ procedural.'],
-    resurse: ['Manual Art 6, pp. 148-149', 'Schema „Textul explicativ” (/materiale/clasa-6/unitatea-4/lectia-19/schema.svg)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 148-149', fisa(19), 'Schema „Textul explicativ” (/materiale/clasa-6/unitatea-4/lectia-19/schema.svg)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '5 min', activitate: 'Grupăm întrebările copilului din imaginea de la p. 148, „Unde trăiesc pinguinii?”, „De ce ne bronzăm la soare?”, în cereri de informație și cereri de explicație.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că învățăm textul explicativ și cele două feluri ale lui.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Discutăm cum cerem și cum oferim explicații în viața de zi cu zi.' },
-      { etapa: 'Dirijarea învățării', timp: '23 min', activitate: 'Citim instrucțiunile jocului Uliii și porumbeii, cu subtitluri, tabel și etape, apoi textul De ce au elefanții trompă? de Michaela Strachan, în care căutăm răspunsurile și cuvintele care introduc cauze, consecințe și explicații suplimentare. Cu ajutorul schemei definesc textul explicativ cauzal, care răspunde la de ce?, și procedural, care răspunde la cum?.' },
-      { etapa: 'Obținerea performanței', timp: '12 min', activitate: 'Elevii ordonează cuvintele de legătură din textul despre elefanți și stabilesc modul, timpul și persoana verbelor din ambele texte.' },
+      { etapa: 'Întrebările copilului', timp: '4 min', activitate: pasi(
+        '„Pentru început”, p. 148: grupăm întrebările din imagine în cereri de explicație și cereri de informație.') },
+      { etapa: 'Uliii și porumbeii', timp: '9 min', activitate: pasi(
+        'Explorare, textul A, ex. 1-6: ce prezintă, subtitlurile, informațiile fiecărei părți, tabelul, cuvintele care marchează etapele, modul și timpul verbelor.') },
+      { etapa: 'De ce au elefanții trompă?', timp: '10 min', activitate: pasi(
+        'Textul B, ex. 1-6: enunțurile-răspuns; explicații precise sau nu; cuvintele care introduc cauze, consecințe, explicații suplimentare; primul enunț; concluzia; verbele.') },
+      { etapa: 'Notițe: textul explicativ', timp: '6 min', activitate: pasi(
+        'În caiete, după Repere (p. 149) și schema lecției: textul explicativ cauzal (de ce?) și procedural (cum?), exemple, cuvintele explicației, organizarea, verbele.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '13 min', activitate: pasi(
+        'Pagina 1: ex. 1 (cauzal sau procedural?), textul „De ce clipim?” (scris pentru fișă) și ex. 3 (cuvintele explicației), individual, 9 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Pregătirea orei viitoare', timp: '4 min', activitate: pasi(
+        'Aplicații, p. 149: perechile își formulează câte o întrebare „De ce…?” și „Cum…?”; fiecare o notează pe cea primită.') },
+      { etapa: 'Temă', timp: '4 min', activitate: pasi(
+        'Tema: documentarea pentru întrebarea primită, dintr-o sursă credibilă; fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; aprecieri.',
+    evaluare: 'Observarea sistematică; fișa de exerciții, ex. 1-3.',
   },
   'lectia-20': {
     titlu: 'Textul explicativ (II), redactarea',
@@ -339,16 +567,26 @@ export default {
     tipOra: 'Redactare',
     durata: 50,
     obiective: ['Redactează un text explicativ, cu respectarea trăsăturilor învățate.'],
-    resurse: ['Manual Art 6, p. 149, indicațiile de redactare și grila de evaluare', 'Fișa lecției (/materiale/clasa-6/unitatea-4/lectia-20/fisa.pdf)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, p. 149, indicațiile de redactare și grila de evaluare', fisa(20), 'Fișa lecției (/materiale/clasa-6/unitatea-4/lectia-20/fisa.pdf)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '4 min', activitate: 'În perechi, fiecare elev formulează pentru colegul său o întrebare care începe cu „De ce…?” sau „Cum…?”.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că fiecare răspunde în scris la întrebarea primită, printr-un text explicativ.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '5 min', activitate: 'Reamintim trăsăturile textului explicativ cauzal și procedural și cuvintele care introduc explicațiile.' },
-      { etapa: 'Dirijarea învățării', timp: '7 min', activitate: 'Parcurgem indicațiile de la p. 149: cauze și consecințe în ordine logică sau pași în ordine, vocabular precis, marcatori, desene sau tabele, verbe la indicativ prezent sau imperativ.' },
-      { etapa: 'Obținerea performanței', timp: '29 min', activitate: 'Elevii redactează textul explicativ, cu sprijinul fișei lecției, apoi îl evaluează în perechi pe grila Da/Nu de la p. 149.' },
+      { etapa: 'Întrebările', timp: '3 min', activitate: pasi(
+        'Verific că fiecare are întrebarea de la colegul său („De ce…?” sau „Cum…?”) și informațiile adunate.') },
+      { etapa: 'Indicațiile', timp: '5 min', activitate: pasi(
+        'Parcurgem indicațiile de la p. 149: cauze și consecințe în ordine logică sau pași în ordine, vocabular precis, desene și marcatori, verbe la indicativ prezent sau imperativ.') },
+      { etapa: 'Planul', timp: '6 min', activitate: pasi(
+        'Fișa de exerciții, ex. 1, și fișa lecției: planul textului.') },
+      { etapa: 'Exersare', timp: '6 min', activitate: pasi(
+        'Fișa de exerciții, ex. 2-3, frontal: cuvintele de legătură și instrucțiunile la imperativ.') },
+      { etapa: 'Redactarea', timp: '20 min', activitate: pasi(
+        'Fiecare scrie textul explicativ; trec pe la bănci și ajut la ordinea cauzelor sau a pașilor.') },
+      { etapa: 'Interevaluarea', timp: '6 min', activitate: pasi(
+        'Perechile își evaluează textele pe grila Da/Nu de la p. 149.') },
+      { etapa: 'Lecturi', timp: '2 min', activitate: pasi(
+        'Doi elevi își citesc textele.') },
+      { etapa: 'Temă', timp: '2 min', activitate: pasi(
+        'Tema: forma finală, cu desenul sau tabelul (fișa de exerciții, ex. 4).') },
     ],
-    evaluare: 'Interevaluare pe grila de la p. 149.',
+    evaluare: 'Interevaluare pe grila de la p. 149; fișa lecției.',
   },
   'lectia-21': {
     titlu: 'Recapitulare, lectură și comunicare',
@@ -356,16 +594,29 @@ export default {
     tipOra: 'Recapitulare',
     durata: 50,
     obiective: ['Recapitulează, prin exerciții aplicate, achizițiile de lectură din Unitatea IV: enumerația, personajele din fabulă, dicția.'],
-    resurse: ['Manual Art 6, pp. 150-151', 'Quizul „Recapitulare, lectură și comunicare” (materialul de joc al lecției)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 150-151', fisa(21), 'Quizul „Recapitulare, lectură și comunicare” (materialul de joc al lecției)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '4 min', activitate: 'Îi rog pe elevi să spună pe rând câte o noțiune de lectură sau de comunicare învățată în unitate.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că recapitulăm lectura și comunicarea pe un text nou în versuri.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '8 min', activitate: 'Reluăm textul narativ în versuri, fabula și morala, enumerația, personajele-măști, proverbele, dicția și inteligența emoțională.' },
-      { etapa: 'Dirijarea învățării', timp: '18 min', activitate: 'Citim întâmplarea cu cei doi prieteni și ursul din Povestea vorbei de Anton Pann, de la p. 150, și rezolvăm ghidat cerințele de lectură: rezumatul, naratorul, tabelul personajelor, gestul celui urcat în copac, semnificația pe grupe, diagrama Venn cu Uliul și găinile, enumerația, măsura și rima.' },
-      { etapa: 'Obținerea performanței', timp: '15 min', activitate: 'Elevii rezolvă quizul „Recapitulare, lectură și comunicare”, apoi discutăm răspunsurile greșite.' },
+      { etapa: 'Ciorchinele unității', timp: '3 min', activitate: pasi(
+        'Fiecare elev numește o noțiune de lectură sau de comunicare din unitate; le scriu pe tablă, într-un ciorchine.') },
+      { etapa: 'Lectura textului', timp: '3 min', activitate: pasi(
+        'P. 150: citesc întâmplarea cu cei doi prieteni și ursul, din „Povestea vorbei” de Anton Pann.') },
+      { etapa: 'Ex. 1-4', timp: '8 min', activitate: pasi(
+        'Rezumatul în cel mult cinci rânduri; elementele narațiunii; naratorul și persoana; tabelul personajelor.') },
+      { etapa: 'Ex. 5-9', timp: '9 min', activitate: pasi(
+        'Gestul celui urcat în copac (variantele a-d); ce altceva ar fi putut face; versul care explică de ce și-a ținut suflarea; ce a simțit cel lăsat în drum; semnificația, pe grupe.') },
+      { etapa: 'Ex. 10-13', timp: '6 min', activitate: pasi(
+        'Diagrama Venn cu „Uliul și găinile”; enumerația; măsura ultimelor patru versuri; rima.') },
+      { etapa: 'Ex. 14-16', timp: '6 min', activitate: pasi(
+        'Doi elevi povestesc o întâmplare în care s-au speriat; cine a dovedit inteligență emoțională; o situație de la ex. 16, jucată cu un proverb.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '10 min', activitate: pasi(
+        'Pagina 1: fabula „Furnica și porumbelul” (versificată pentru fișă) și ex. 2 (fabula), individual, 7 minute.',
+        'Verificare, 3 minute.') },
+      { etapa: 'Quiz', timp: '3 min', activitate: pasi(
+        'Quizul „Recapitulare, lectură și comunicare”.') },
+      { etapa: 'Temă', timp: '2 min', activitate: pasi(
+        'Tema: fișa de exerciții, pagina 2.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; rezultatele la quiz.',
+    evaluare: 'Observarea sistematică; quizul; fișa de exerciții, ex. 2.',
   },
   'lectia-22': {
     titlu: 'Recapitulare, gramatică și redactare',
@@ -373,16 +624,27 @@ export default {
     tipOra: 'Recapitulare',
     durata: 50,
     obiective: ['Recapitulează, prin exerciții aplicate, achizițiile de gramatică din Unitatea IV: pronumele personal, reflexiv, numeralul, textul explicativ.'],
-    resurse: ['Manual Art 6, pp. 150-151', 'Quizul „Recapitulare, gramatică și redactare” (materialul de joc al lecției)', 'Caietele elevilor'],
+    resurse: ['Manual Art 6, pp. 150-151', fisa(22), 'Quizul „Recapitulare, gramatică și redactare” (materialul de joc al lecției)', 'Caietele elevilor'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '4 min', activitate: 'Scriu pe tablă „Mi-a poruncit – el răspunse – să țiu minte să păzesc/Și c-un prieten ca tine să nu mai călătoresc.” și cer pronumele.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că recapitulăm pronumele, numeralul și redactarea din Unitatea IV.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '8 min', activitate: 'Reluăm pronumele personal și de politețe, cazurile și funcțiile lor, cliticele, pronumele reflexiv, valorile numeralului, textul explicativ și descrierea inserată în narațiune.' },
-      { etapa: 'Dirijarea învățării', timp: '16 min', activitate: 'Rezolvăm ghidat cerințele de limbă de la p. 151, pe textul lui Anton Pann: părțile de vorbire marcate, cazul și funcția pronumelor, analiza pronumelor personale, numeralul din primul vers și celelalte valori ale lui.' },
-      { etapa: 'Obținerea performanței', timp: '17 min', activitate: 'Elevii rezolvă quizul „Recapitulare, gramatică și redactare”, apoi discutăm greșelile. Ca temă, scriu narațiunea cu doi prieteni în pădure, cu două pasaje descriptive, cerința 22.' },
+      { etapa: 'Captarea atenției', timp: '3 min', activitate: pasi(
+        'Scriu pe tablă ultimele două versuri ale textului lui Anton Pann; cine găsește primul toate pronumele?') },
+      { etapa: 'Ex. 17-18', timp: '7 min', activitate: pasi(
+        'Părțile de vorbire colorate; cazul și funcția pronumelor evidențiate în text.') },
+      { etapa: 'Ex. 19', timp: '5 min', activitate: pasi(
+        'Analiza pronumelor personale din ultimele două versuri, la tablă.') },
+      { etapa: 'Ex. 20-21', timp: '5 min', activitate: pasi(
+        'Numeralul din primul vers și valoarea lui; două enunțuri cu celelalte valori.') },
+      { etapa: 'Obținerea performanței: fișa de exerciții', timp: '12 min', activitate: pasi(
+        'Pagina 1: enunțurile despre fabulă și ex. 2 (pronumele), individual, 8 minute.',
+        'Verificare, 4 minute.') },
+      { etapa: 'Pregătirea compunerii (ex. 22)', timp: '8 min', activitate: pasi(
+        'Citim cerințele: doi prieteni în pădure, un țipăt sau un zgomot, două pasaje descriptive cu roluri diferite; fiecare își face planul și scrie începutul.') },
+      { etapa: 'Quiz', timp: '6 min', activitate: pasi(
+        'Quizul „Recapitulare, gramatică și redactare”; discutăm greșelile.') },
+      { etapa: 'Temă', timp: '4 min', activitate: pasi(
+        'Tema: ex. 22, compunerea; fișa de exerciții, pagina 2. Anunț evaluarea: pronumele personal, de politețe și reflexiv, numeralul, fabula, enumerația, o narațiune cu un pasaj explicativ.') },
     ],
-    evaluare: 'Observarea sistematică a elevilor; rezultatele la quiz.',
+    evaluare: 'Observarea sistematică; quizul; fișa de exerciții, ex. 1-2.',
   },
   'lectia-23': {
     titlu: 'Evaluare, probă scrisă',
@@ -392,12 +654,16 @@ export default {
     obiective: ['Verifică, printr-o probă scrisă, nivelul de achiziție a competențelor vizate în Unitatea IV.'],
     resurse: ['Testul, Manual Art 6, p. 152', 'Barem de corectare din Ghidul profesorului'],
     desfasurare: [
-      org,
-      { etapa: 'Captarea atenției', timp: '2 min', activitate: 'Le spun elevilor că proba păstrează structura celor de până acum și îi liniștesc în privința timpului de lucru.' },
-      { etapa: 'Enunțarea subiectului și a obiectivelor', timp: '2 min', activitate: 'Anunț că se dă proba scrisă a Unității IV, pe fabula Leul la vânat de Alecu Donici, cu o parte de limbă și lectură și o narațiune cu tâlc.' },
-      { etapa: 'Reactualizarea cunoștințelor anterioare', timp: '3 min', activitate: 'Reamintesc structura probei, 60 de puncte la partea A, 30 la narațiune, 10 din oficiu, și cum își împart timpul.' },
-      { etapa: 'Dirijarea învățării', timp: '5 min', activitate: 'Distribui testele, citesc cerințele cu voce tare, explic punctajul și răspund la întrebările de clarificare.' },
-      { etapa: 'Obținerea performanței', timp: '35 min', activitate: 'Elevii rezolvă individual proba pe o foaie separată; supraveghez discret, gestionez timpul și strâng lucrările la final.' },
+      { etapa: 'Instructajul', timp: '5 min', activitate: pasi(
+        'Distribui testele (fabula „Leul la vânat”, adaptare după Alecu Donici) și foile de răspuns.',
+        'Citesc cerințele cu voce tare; structura: A, 60 de puncte (zece itemi a câte 6 puncte: cazurile și analiza pronumelor personale, pronumele reflexive, numeralul, cliticul din „Le zise leul lor”, timpul acțiunii, enumerația, semnificația unui vers, proverbul potrivit moralei, opinia despre leu); B, 30 de puncte (o narațiune cu tâlc din lumea animalelor, cu un pasaj explicativ); 10 puncte din oficiu.',
+        'Recomand circa 25 de minute pentru A, 15 minute pentru narațiune, ultimele minute pentru recitire. Răspund doar la întrebări de înțelegere a cerințelor.') },
+      { etapa: 'Rezolvarea individuală', timp: '40 min', activitate: pasi(
+        'Elevii lucrează individual, pe foaia separată; supraveghez discret.',
+        'Anunț timpul rămas la 20 de minute și la 5 minute înainte de final.') },
+      { etapa: 'Strângerea lucrărilor', timp: '5 min', activitate: pasi(
+        'Elevii își recitesc lucrarea (cratima la clitice, tâlcul întâmplării, pasajul explicativ, ortografia), apoi strâng foile.',
+        'Notez itemii care au ridicat cele mai multe întrebări, pentru corectare și pentru discuția de după.') },
     ],
     evaluare: 'Evaluare sumativă scrisă, notată după baremul din Ghidul profesorului.',
   },
