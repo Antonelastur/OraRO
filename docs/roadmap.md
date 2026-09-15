@@ -26,6 +26,9 @@ numărul de pagini sau de componente create.
 OraRO trebuie să fie util fără AI. AI-ul face OraRO mai bun, nu ascunde lipsa
 unei arhitecturi funcționale.
 
+Prioritățile 5, 7 și 8, împreună cu catalogul de lucru care nu figurează în
+listă, sunt proiectate în `docs/agenda.md`, agenda profesorului.
+
 ## ETAPA 1, nucleul OraRO
 
 Prioritate maximă.
@@ -34,7 +37,7 @@ Prioritate maximă.
 |---|---|---|
 | Dashboard | Există, dar nu în forma cerută | Trebuie rescris în jurul cardului „Ora de azi" |
 | Ora de azi | **Nu există** | Blocată de lipsa `ScheduleItem`, orarul vine în octombrie 2026 |
-| Planificare | **Nu există** | Sursa e planificarea calendaristică din folderul de surse |
+| Planificare | **Nu există** | Sursa e planificarea calendaristică din folderul de surse, proiectare în `docs/agenda.md` |
 | Unități de învățare | Există | `UnitatePage`, cu lecțiile parcurse marcate |
 | Lecții | Există | `LectiePage`, `ClasaPage`, cu jurnalul orei pe pagina lecției |
 | Lecții modulare | **Nu există** | Blocurile există ca date la toate clasele, editarea nu |
@@ -52,7 +55,8 @@ următorul:
 1. Stratul de derivare în `src/lib/`, care proiectează datele actuale în
    `Lesson → LessonBlock → Resource`. Fără interfață, doar date și teste.
 2. `ScheduleItem`, fișier de date construit din planificarea calendaristică.
-   Fără el nu există „Ora de azi".
+   Fără el nu există „Ora de azi". Motorul de calendar care îl produce e
+   proiectat în `docs/agenda.md`.
 3. Ora de azi, ecranul de deschidere a orei.
 4. Cockpitul orei, cu timer și navigare între blocuri.
 5. Închiderea orei, marcarea ca parcursă, reflecția.
