@@ -162,6 +162,15 @@ al elevului și copilotul AI live s-au amânat. Cererea reapare acum, deliberat,
 ETAPA 3 din acest document. Nu e o scăpare, e o reluare conștientă. Vezi
 `docs/roadmap.md`.
 
+**Vercel, încercat și abandonat, septembrie 2026.** O vreme proiectul a fost
+conectat și la Vercel, care construia fiecare branch în paralel cu GitHub Pages.
+Legătura s-a desfăcut deliberat: dubla publicarea fără să aducă ceva în plus, iar
+`base: '/OraRO/'` din `vite.config.js` e potrivit pentru GitHub Pages, unde site-ul
+stă într-un subfolder, nu pentru servirea din rădăcină. **GitHub Pages rămâne
+singura țintă de publicare.** Consecința pentru ETAPA 3: nu avem funcții server,
+deci blocajul de infrastructură de mai sus stă în picioare. Dacă backendul devine
+necesar, discuția despre găzduire se redeschide de la zero, nu se presupune Vercel.
+
 ## 6. Resursele
 
 Resursele se separă conceptual de lecții. Tipuri: fișă, text, prezentare,
