@@ -2,13 +2,17 @@
 
 Plan de proiectare. Nu conține cod și nu descrie funcții implementate.
 
-AGENDA acoperă anul școlar întreg: cele 53 de săptămâni, cele 12 luni, clasele,
-catalogul de lucru, absențele, purtarea, comunicarea cu părinții și activitățile
-administrative. OraRO acoperă azi lecția și ora. AGENDA e stratul din jurul lor.
+AGENDA acoperă anul școlar întreg: cele 53 de săptămâni, cele 12 luni, orarul,
+planificarea, comunicarea cu părinții, activitățile administrative și notițele.
+OraRO acoperă azi lecția și ora. AGENDA e stratul din jurul lor.
 
 > Criteriul de succes, în prelungirea celui din `docs/roadmap.md`:
 > poate profesoara să închidă duminica fără să mai țină nimic minte despre
 > săptămâna care vine?
+
+**Catalogul rămâne în afara proiectului.** Notele, absențele, mediile și purtarea
+se țin în catalogul electronic oficial al școlii. AGENDA nu le duplică, nu le
+calculează și nu le stochează. Vezi secțiunea 9.
 
 ---
 
@@ -18,7 +22,7 @@ administrative. OraRO acoperă azi lecția și ora. AGENDA e stratul din jurul l
 |---|---|---|
 | LimbaRo | elevul | acasă, exersare independentă |
 | OraRO | profesoara | înainte de oră și în timpul orei |
-| AGENDA | profesoara | în jurul orei: an, săptămână, clasă, catalog, administrație |
+| AGENDA | profesoara | în jurul orei: an, săptămână, planificare, administrație |
 
 AGENDA nu e un proiect nou. E numele pentru un grup de funcții din care OraRO are
 deja o parte, iar `docs/roadmap.md` prevede alta.
@@ -28,7 +32,7 @@ deja o parte, iar `docs/roadmap.md` prevede alta.
 | Piesă existentă | Cum o folosește AGENDA |
 |---|---|
 | `AppShell`, `Sidebar`, `Breadcrumb` | secțiunile noi intră în aceeași navigație, nu în alta |
-| `SearchPalette` | se extinde cu elevi, săptămâni și clase, nu se rescrie |
+| `SearchPalette` | se extinde cu săptămâni, clase și activități, nu se rescrie |
 | `src/lib/jurnal.ts` | lecțiile parcurse alimentează progresul pe unitate din AGENDA |
 | `src/lib/lectii.ts` | lista plată de lecții, deja calculată, e sursa pentru planificare |
 | `src/lib/ora.ts` | duratele blocurilor dau estimarea de ore pe unitate |
@@ -36,11 +40,10 @@ deja o parte, iar `docs/roadmap.md` prevede alta.
 | `ThemeContext`, `components/ui/` | aceleași componente, fără stil paralel |
 
 **Ce prevede deja roadmap-ul și AGENDA doar detaliază:** prioritatea 5
-Planificarea, prioritatea 7 Activitățile, prioritatea 8 Evaluarea.
+Planificarea și prioritatea 7 Activitățile.
 
-**Ce e complet nou, nemenționat până acum nicăieri în proiect:** catalogul de
-lucru (note, calificative, medii), absențele și întârzierile, purtarea și
-implicarea, comunicarea cu părinții și consultațiile.
+**Ce e nou, nemenționat până acum în proiect:** comunicarea cu părinții și
+consultațiile, plus evidența activităților administrative.
 
 ---
 
@@ -53,15 +56,12 @@ Două variante reale.
 | Navigație | o singură aplicație, un singur Ctrl+K | două aplicații deschise în paralel |
 | Refolosire cod | `AppShell`, `ui/`, `lib/`, temă, rute | se copiază sau se duplică |
 | Legătura lecție cu data calendaristică | directă, aceleași date | cere un contract între aplicații |
-| Date despre elevi într-un repo public | necesită regulă strictă, vezi secțiunea 7 | aceeași problemă, repo separat privat |
 | Risc de a încetini ETAPA 1 din roadmap | real, dacă se lucrează în paralel | mic |
 | Efort total | mai mic | mai mare |
 
-**Recomandare: varianta A, secțiune în OraRO,** cu o condiție: AGENDA nu începe
-înainte ca „Ora de azi" să fie funcțională, pentru că pasul 2 din ETAPA 1 este
-exact prima etapă din AGENDA. Le construim în aceeași ordine, nu în paralel.
-
-Motivul principal e în secțiunea următoare.
+**Recomandare: varianta A, secțiune în OraRO.** Fără catalog, AGENDA e în cea mai
+mare parte planificare, adică exact ce îi lipsește lui OraRO ca să funcționeze.
+Separarea ar rupe în două lucruri care se citesc unul pe altul.
 
 ---
 
@@ -159,11 +159,10 @@ IntrareOrar {
 ```
 
 Orarul se introduce o singură dată pe an. Din el rezultă ce clase apar în fiecare
-zi, câte ore ai pe săptămână și unde se pot marca absențe pe oră.
+zi și câte ore ai pe săptămână.
 
 `docs/roadmap.md` notează că orarul vine în octombrie 2026. Până atunci, motorul
 de calendar se poate construi și testa fără el, pentru că nu depinde de orar.
-Orarul e necesar abia la pasul următor.
 
 ### 4.4 ScheduleItem, forma cerută de `docs/data-model.md` §11
 
@@ -184,59 +183,36 @@ resursele asociate, cum cere modelul.
 
 Statutul `parcursa` se citește din `src/lib/jurnal.ts`, nu se dublează.
 
-### 4.5 Student, catalog de lucru
+### 4.5 Activitate și Notita
 
 ```
-Student {
-  id, clasaId
-  nume, prenume
-  initiale                // generate, folosite în orice ieșire vizibilă
-  contactParinte          // nume, telefon, email, relație
-  activ                   // pentru transferuri în timpul anului
-  observatii
-}
-
-Nota {
-  id, elevId, clasaId
-  valoare                 // 1 la 10, sau calificativ FB, B, S, I
-  data, modulId           // modulul dedus din dată
-  tip                     // oral | scris | test | practic | proiect | portofoliu
-  lectieId                // opțional, leagă nota de ora în care a fost dată
-  observatie
-  contorizata             // permite note de lucru, excluse din medie
-}
-
-Absenta {
-  id, elevId, clasaId
-  data, ora
-  tip                     // absenta | intarziere
-  motivata
-  documentMotivare
-}
-
-Purtare {
-  elevId, modulId
-  nota
-  implicare               // scor 1 la 5, uz intern
-  incidente[]             // { data, descriere, masura }
-}
-
-Comunicare {
-  id, elevId
-  data, canal             // consultatie | telefon | email | sedinta | mesaj
-  subiect, rezumat, urmare, rezolvat
-}
-
 Activitate {
   id, data
   tip                     // suplinire | lucrare | sedinta | consiliu |
                           // serviciu | formare | erasmus | altele
   titlu, descriere, clasaId, status, documentAsociat
 }
+
+Notita {
+  id, data, categorie, titlu, continut, fixata
+}
 ```
 
-`FisaElev` nu e entitate separată. E o vedere care adună note, absențe, purtare,
-comunicare și observații într-un singur ecran printabil.
+### 4.6 Comunicare, singurul loc cu date despre elevi
+
+```
+Comunicare {
+  id
+  data, canal             // consultatie | telefon | email | sedinta | mesaj
+  elev                    // nume sau inițiale, text liber, fără listă de elevi
+  clasaId
+  subiect, rezumat, urmare, rezolvat
+}
+```
+
+Fără catalog, nu mai avem nevoie de o listă de elevi ca entitate. Nu importăm
+clasa, nu ținem date de contact structurate. Elevul apare ca text, în contextul
+unei discuții, iar restul rămâne în catalogul oficial. Vezi secțiunea 9.
 
 ---
 
@@ -251,91 +227,15 @@ aplică și aici.
 | Cele 12 luni | derivate din săptămâni |
 | Modulul unei date | derivat |
 | Numărul de ore pe clasă | derivat din orar plus calendar |
-| Media pe modul și pe an | derivată din note, la fiecare afișare |
 | Progresul pe unitate | derivat din jurnal, cum cere `data-model.md` §3 |
 | Lecțiile | rămân în `src/data/`, AGENDA le referă, nu le copiază |
-| `SchoolYear`, orar, elevi, note, absențe, purtare, comunicare, activități | se stochează |
+| `SchoolYear`, orar, planificare, comunicare, activități, notițe | se stochează |
 
-Nimic derivat nu se scrie în stocare. Asta evită situația în care media salvată
-rămâne în urma notelor.
-
----
-
-## 6. Regula de calcul al mediilor
-
-Nu îți pot garanta din memorie care e formula oficială în vigoare pentru anul
-acesta. Reglementarea s-a schimbat odată cu trecerea la structura pe module și cu
-noua lege a învățământului, iar o formulă greșită într-un catalog e o problemă
-reală, nu o inexactitate de plan.
-
-Proiectăm regula ca setare, în `SetariPage`.
-
-| Parametru | Opțiuni |
-|---|---|
-| Unitatea de agregare | pe modul, pe semestru, pe an |
-| Formula | medie aritmetică, medie ponderată pe tipuri de evaluare |
-| Rotunjire | matematică, în favoarea elevului, fără rotunjire |
-| Număr minim de note | prag configurabil, cu alertă pentru elevii sub prag |
-| Note necontorizate | note de lucru, vizibile, excluse din medie |
-| Media la purtare | separată, scădere pe absențe nemotivate, prag configurabil |
-
-Mediile apar întotdeauna cu mențiunea „calcul orientativ". Catalogul oficial
-rămâne referința legală. AGENDA te scutește de aritmetică, nu înlocuiește
-catalogul.
-
-Formula corectă se confirmă înainte de implementare.
+Nimic derivat nu se scrie în stocare.
 
 ---
 
-## 7. Stocarea și confidențialitatea, punctul cel mai delicat
-
-Aici e o contradicție aparentă cu documentele existente, pe care o semnalez
-explicit.
-
-`docs/architecture.md` §5 spune: „Pentru planuri personale, baremuri, notițe,
-date despre elevi și materiale private e nevoie de un backend sau API cu
-autentificare și autorizare reale." AGENDA e, în întregime, date despre elevi.
-
-**Contradicția se rezolvă, dar numai cu o distincție precisă.** Regula din
-arhitectură vizează conținutul care ajunge în bundle, adică fișierele publicate
-pe GitHub Pages dintr-un repo public. Datele pe care le introduci tu în browser
-nu trec niciodată prin bundle. Deci:
-
-1. **Nicio dată despre elevi nu intră în `src/`.** Fără fișiere de date cu nume de
-   elevi, fără note, fără absențe, nici măcar ca exemplu. Datele de test sunt
-   inventate și marcate ca atare.
-2. **Ieșirile vizibile folosesc inițiale și clasa.** Numele complet apare doar în
-   fișa individuală și în catalogul tău, niciodată într-un raport destinat
-   afișării.
-3. **Nu punem ecran de parolă peste AGENDA și nu îl numim securitate.** Regula din
-   `docs/architecture.md` §5 rămâne: ascunderea unui element de interfață nu e
-   control de acces. Dacă totuși adăugăm un ecran, îl numim filtru.
-
-**Unde stau datele.** `localStorage` e deja folosit pentru jurnal, cu limitarea
-documentată: un singur browser, un singur calculator. Pentru AGENDA limitarea e
-mult mai gravă. O reflecție pierdută e neplăcută, un catalog pierdut e altceva.
-
-| Variantă | Pentru | Contra |
-|---|---|---|
-| `localStorage`, ca acum | zero cod nou | limita de aproximativ 5 MB, scriere sincronă a întregului obiect, fragil |
-| IndexedDB, wrapper propriu în `src/lib/` | fără dependență nouă, consecvent cu „nu introduce dependențe inutile" | aproximativ 150 de linii de scris și de întreținut |
-| IndexedDB prin Dexie | API confortabil, migrări simple | o dependență în plus |
-
-**Recomandare:** IndexedDB cu wrapper propriu în `src/lib/`, pentru catalog și
-absențe. `localStorage` rămâne pentru ce folosește deja, jurnal și temă. Trecem la
-Dexie doar dacă migrările de schemă devin greu de întreținut, nu preventiv.
-
-**Backup, obligatoriu, nu opțional.** Un fișier JSON descărcat la fiecare pornire,
-buton de backup manual, restaurare cu previzualizare a ce se suprascrie, și un
-avertisment vizibil că ștergerea datelor de navigare șterge agenda. Backup-ul
-conține date personale, deci se ține pe un dispozitiv protejat, nu pe email.
-
-Dacă apare vreodată backendul din ETAPA 3, AGENDA e primul candidat pentru
-sincronizare, dar nu o construim presupunând că vine.
-
----
-
-## 8. Rute și ecrane
+## 6. Rute și ecrane
 
 Se adaugă la rutele existente din `App.jsx`, în același `AppShell`.
 
@@ -344,30 +244,27 @@ Se adaugă la rutele existente din `App.jsx`, în același `AppShell`.
 /an/saptamana/:numar     fișa săptămânii, una din 53
 /an/luna/:numar          vederea lunară
 /orar                    orarul, introdus o dată pe an
-/clase/:clasa/catalog    note, absențe, medii
-/clase/:clasa/purtare    purtare și implicare
-/elev/:id                fișa individuală, printabilă
+/planificare/:clasa      planificare calendaristică și unități de învățare
 /parinti                 comunicare și consultații
 /activitati              supliniri, lucrări, ședințe, formare, Erasmus
 /notite                  informații importante
-/export                  rapoarte, PDF, Excel, backup
+/export                  planificare în PDF, backup
 ```
 
 Rutele existente rămân neschimbate.
 
-**Navigația.** `SearchPalette` se extinde cu elevi după nume, săptămâni după
-număr și clase. Breadcrumb-ul capătă contextul de an: An, Modul 2, Săptămâna 14,
+**Navigația.** `SearchPalette` se extinde cu săptămâni după număr, clase și
+activități. Breadcrumb-ul capătă contextul de an: An, Modul 2, Săptămâna 14,
 marți, clasa a V-a A. Săgețile stânga și dreapta mută între săptămâni. Maximum
 două clicuri sau o combinație de taste către orice secțiune.
 
 **Cardul „Ora de azi"**, prevăzut în roadmap ca pasul 3 și 6 din ETAPA 1, câștigă
-din AGENDA: ce zi din structura anului e azi, ce clase urmează, butoane rapide
-pentru absențe și note, ce e de corectat, alerte pentru elevii fără numărul minim
-de note.
+din AGENDA: ce zi din structura anului e azi, ce clase urmează, ce e planificat,
+ce a rămas nefăcut din săptămâna trecută.
 
 ---
 
-## 9. Etape, așezate peste roadmap-ul existent
+## 7. Etape, așezate peste roadmap-ul existent
 
 Ordinea din `docs/roadmap.md` rămâne. AGENDA se împarte între etapele existente,
 nu deschide o coadă paralelă.
@@ -382,7 +279,7 @@ nu deschide o coadă paralelă.
 | A4 | `ScheduleItem` generat din orar plus calendar, cu mutare manuală | 2 la 3 zile |
 | A5 | „Ora de azi", pasul 3 din roadmap, acum nedeblocat | conform roadmap |
 
-A1 și A2 se pot face imediat, nu depind de orar.
+A1 și A2 se pot face imediat. Nu depind de orar și nu mai depind de nimic altceva.
 
 ### După ETAPA 1, ca prioritatea 5 din roadmap
 
@@ -391,69 +288,95 @@ A1 și A2 se pot face imediat, nu depind de orar.
 | A6 | Cele 53 de fișe săptămânale, cu datele completate automat | 3 la 4 zile |
 | A7 | Vederea pe 12 luni și pe modul | 2 zile |
 | A8 | Planificarea calendaristică și unitățile, legate de săptămâni, cu progres din jurnal | 4 la 5 zile |
+| A9 | Export PDF al planificării, în formatul cerut la dosar | 2 zile |
 
-### Catalogul, blocul nou
-
-Nu figurează în roadmap-ul actual. Se așază între prioritatea 5 și prioritatea 7,
-pentru că prioritatea 8, Evaluarea, presupune rezultate de la elevi, care cer
-backend, iar catalogul nu.
-
-**Distincția de reținut:** `StudentResponse` cere backend, pentru că răspunsul
-vine de la elev. `Nota` nu cere backend, pentru că o introduci tu. Catalogul din
-AGENDA nu e blocat de decizia despre backend.
+### Restul agendei, ca prioritatea 7 din roadmap
 
 | Pas | Conținut | Estimare |
 |---|---|---|
-| A9 | Stratul de stocare IndexedDB plus backup și restaurare | 2 la 3 zile |
-| A10 | Elevi, cu import din Excel sau lipire din catalog | 2 zile |
-| A11 | Note și absențe, introducere rapidă din cockpit și din catalog | 4 la 5 zile |
-| A12 | Medii, cu regula configurabilă și alertele | 2 la 3 zile |
-| A13 | Purtare și implicare | 2 zile |
-| A14 | Comunicare cu părinții și consultații | 2 zile |
-| A15 | Activități: supliniri, lucrări, ședințe, formare, Erasmus | 2 zile |
-| A16 | Fișa elevului, rapoarte pe clasă și pe modul, export PDF și Excel | 4 la 5 zile |
+| A10 | Activități: supliniri, lucrări, ședințe, formare, Erasmus | 2 zile |
+| A11 | Comunicare cu părinții și consultații | 1 la 2 zile |
+| A12 | Notițe și informații importante | 1 zi |
+| A13 | Backup și restaurare | 1 zi |
 
 Estimările presupun lucru pe seară și în weekend. A1 și A2 sunt cele care contează
 acum, pentru că deblochează funcția de prioritate 1 din roadmap.
 
 ---
 
-## 10. Ce nu face AGENDA
+## 8. Stocarea
 
-- nu înlocuiește catalogul oficial, calculele sunt orientative
-- nu completează conținut didactic, planificarea și competențele le scrii tu
-- nu propune nota, calificativul sau aprecierea la purtare
-- nu redactează comunicarea cu părinții
-- nu trimite nimic nimănui, fără email, fără mesaje automate
-- nu publică nicio dată despre elevi
+Fără catalog, volumul de date scade de la mii de înregistrări la zeci. Un an
+întreg de planificare, comunicare, activități și notițe încape confortabil în
+`localStorage`, care e deja folosit pentru jurnal și temă.
+
+**Nu adăugăm IndexedDB și nu adăugăm nicio dependență.** Ar fi fost justificat
+pentru un catalog cu note și absențe, nu pentru atât. Dacă volumul crește
+neașteptat, trecem la IndexedDB atunci, cu un wrapper propriu în `src/lib/`.
+
+Limitarea documentată în `docs/architecture.md` §5 rămâne valabilă și trebuie
+spusă în interfață: datele trăiesc într-un singur browser, pe un singur
+calculator. Dacă pregătești săptămâna acasă și deschizi OraRO de pe calculatorul
+din clasă, planificarea nu te urmează. Nu numim asta sincronizare.
+
+De aici, backup-ul: fișier JSON descărcat, buton de backup manual, restaurare cu
+previzualizare a ce se suprascrie, plus un avertisment vizibil că ștergerea
+datelor de navigare din browser șterge și agenda.
 
 ---
 
-## 11. Riscuri
+## 9. Ce nu face AGENDA
+
+- **nu ține catalog.** Notele, calificativele, mediile, absențele, întârzierile și
+  purtarea rămân exclusiv în catalogul electronic oficial al școlii. AGENDA nu le
+  introduce, nu le calculează, nu le importă și nu le afișează.
+- nu ține o listă de elevi. Elevul apare doar ca nume în rezumatul unei discuții
+  cu părinții.
+- nu completează conținut didactic, planificarea și competențele le scrii tu
+- nu redactează comunicarea cu părinții
+- nu trimite nimic nimănui, fără email, fără mesaje automate
+
+**Consecința pentru confidențialitate.** Renunțarea la catalog scoate din proiect
+aproape toate datele personale ale minorilor. Rămâne un singur loc sensibil,
+rezumatele discuțiilor cu părinții. Regulile care se aplică acolo:
+
+1. **Nicio dată reală despre elevi în `src/`.** Fără fișiere de date cu nume, nici
+   măcar ca exemplu. Datele de test sunt inventate și marcate ca atare.
+2. **Inițiale în orice ieșire vizibilă.** Un raport destinat afișării sau
+   partajării nu poartă nume complete.
+3. **Niciun ecran de parolă prezentat drept securitate.** Regula din
+   `docs/architecture.md` §5 rămâne: ascunderea unui element de interfață nu e
+   control de acces.
+
+Tensiunea cu `docs/architecture.md` §5, care cere backend pentru datele despre
+elevi, se închide astfel: regula vizează conținutul care ajunge în bundle, iar ce
+scrii tu în browser nu trece prin bundle.
+
+---
+
+## 10. Riscuri
 
 | Risc | Tratament |
 |---|---|
 | AGENDA încetinește ETAPA 1 din roadmap | primul pas din AGENDA e chiar pasul 2 din ETAPA 1, nu o deviere |
 | Structura anului școlar se schimbă prin ordin nou | nimic fix în cod, totul editabil |
-| Formula mediilor e greșită | regulă configurabilă, mențiunea „calcul orientativ", confirmare înainte de folosire |
-| Pierderea datelor din browser | backup la fiecare pornire, avertisment vizibil, restaurare cu previzualizare |
-| Date despre elevi ajung în repo public | regula din secțiunea 7, nicio dată reală în `src/`, verificare înainte de commit |
+| Muncă dublă cu catalogul oficial | AGENDA nu atinge notele și absențele, deci nu există suprapunere |
+| Pierderea datelor din browser | backup, avertisment vizibil, restaurare cu previzualizare |
+| Date despre elevi ajung în repo public | regulile din secțiunea 9, verificare înainte de commit |
 | Proiectul se întinde și rămâne neterminat | A1 și A2 produc singure ceva utilizabil în sub o săptămână |
-| Introducerea datelor devine ea însăși o corvoadă | import pentru elevi, orar introdus o dată, restul completat automat |
 
 ---
 
-## 12. Ce așteaptă confirmarea Antoanelei
+## 11. Ce așteaptă confirmarea Antoanelei
 
 1. Varianta de structură: secțiune în OraRO, recomandat, sau aplicație separată.
-2. Ordinea: AGENDA începe cu A1 și A2 acum, în paralel cu așteptarea orarului, sau
-   după ce „Ora de azi" e gata.
-3. Formula oficială de calcul al mediilor, sau acordul să o verificăm în ordin.
-4. Datele structurii anului școlar curent: cele 5 module, vacanțele, Săptămâna
-   verde, Școala altfel.
-5. Lista completă a claselor predate anul acesta, cu numărul de ore. OraRO are
+2. Datele structurii anului școlar curent: cele 5 module, vacanțele, Săptămâna
+   verde, Școala altfel. Singurul lucru care lipsește ca să înceapă A1.
+3. Lista completă a claselor predate anul acesta, cu numărul de ore. OraRO are
    conținut pentru patru clase, dar orarul real poate cuprinde mai multe.
-6. Dacă ești diriginte, pentru că asta adaugă situația școlară pe toate
-   disciplinele și ședințele cu părinții.
-7. Formatul cerut de școală pentru planificarea calendaristică, ca exportul PDF să
+4. Dacă ești diriginte, pentru că asta schimbă cât cântărește secțiunea de
+   comunicare cu părinții și ședințele.
+5. Formatul cerut de școală pentru planificarea calendaristică, ca exportul PDF să
    iasă direct bun de pus la dosar.
+
+Punctele 3, 4 și 5 nu blochează startul. Punctul 2 da.

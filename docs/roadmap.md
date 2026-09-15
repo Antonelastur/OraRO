@@ -26,8 +26,9 @@ numărul de pagini sau de componente create.
 OraRO trebuie să fie util fără AI. AI-ul face OraRO mai bun, nu ascunde lipsa
 unei arhitecturi funcționale.
 
-Prioritățile 5, 7 și 8, împreună cu catalogul de lucru care nu figurează în
-listă, sunt proiectate în `docs/agenda.md`, agenda profesorului.
+Prioritățile 5 și 7 sunt proiectate în `docs/agenda.md`, agenda profesorului.
+Catalogul, adică notele, absențele și purtarea, rămâne în afara proiectului, în
+catalogul electronic oficial al școlii.
 
 ## ETAPA 1, nucleul OraRO
 
