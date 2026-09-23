@@ -202,18 +202,27 @@ Saptamana {
 
 ```
 IntrareOrar {
-  clasaId
+  clasaId                 // null la disciplinele fără conținut în OraRO
+  disciplina              // romana | spaniola | educatie-media | altele
   zi                      // 1 la 5
   ora                     // 1 la 7
-  sala
+  sala                    // opțional
+}
+
+IntervalOrar {
+  ora                     // 1 la 7
+  oraStart, oraFinal      // „08:00", „08:50"
 }
 ```
 
-Orarul se introduce o singură dată pe an. Din el rezultă ce clase apar în fiecare
-zi și câte ore ai pe săptămână.
+Orarul se introduce o singură dată pe an. Din el rezultă ce apare în fiecare zi și
+câte ore ai pe săptămână.
 
-`docs/roadmap.md` notează că orarul vine în octombrie 2026. Până atunci, motorul
-de calendar se poate construi și testa fără el, pentru că nu depinde de orar.
+**Orarul acoperă toate disciplinele, nu doar româna.** Antoanela predă și spaniolă,
+și educație media. OraRO are conținut numai la limba și literatura română, deci
+restul orelor ocupă slotul fără să aibă lecții în spate. Decizie explicită: ele
+apar în agendă, marcate ca ore fără conținut OraRO, ca ziua să arate întreagă.
+O zi cu cinci ore se vede cu cinci ore, nu cu trei.
 
 ### 4.4 ScheduleItem, forma cerută de `docs/data-model.md` §11
 
@@ -222,7 +231,10 @@ ScheduleItem {
   id
   data, ora               // din orar plus calendar
   clasaId
-  lectieId                // referință în src/data/, nu copie
+  disciplina
+  lectieId                // referință în src/data/, nu copie.
+                          // Null la orele fără conținut OraRO: slotul există,
+                          // lecția nu.
   statut                  // programata | in_desfasurare | parcursa | reprogramata
 }
 ```
@@ -326,11 +338,11 @@ nu deschide o coadă paralelă.
 |---|---|---|
 | A1 | Motorul de calendar în `src/lib/`, cu teste. `SchoolYear` și 53 de săptămâni. Fără interfață. | 2 la 3 zile |
 | A2 | Ecranul de configurare a anului: modelul, prima zi de luni, confirmarea modulelor | 1 zi |
-| A3 | Orarul, `IntrareOrar`, introdus o dată | 1 zi, după ce vine orarul |
+| A3 | Orarul, `IntrareOrar` și `IntervalOrar`, toate disciplinele, introdus o dată | 1 zi |
 | A4 | `ScheduleItem` generat din orar plus calendar, cu mutare manuală | 2 la 3 zile |
 | A5 | „Ora de azi", pasul 3 din roadmap, acum nedeblocat | conform roadmap |
 
-A1 și A2 se pot face imediat. Nu depind de orar și nu mai depind de nimic altceva.
+A1 și A2 sunt făcute. Orarul există, deci A3 și A4 nu mai așteaptă nimic.
 
 ### După ETAPA 1, ca prioritatea 5 din roadmap
 
