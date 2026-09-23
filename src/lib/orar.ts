@@ -8,6 +8,7 @@ export type Disciplina =
   | 'educatie-sociala'
   | 'storytelling'
   | 'educatie-media'
+  | 'optional'
 
 export type IntrareOrar = {
   zi: number // 1 = luni, 5 = vineri
@@ -30,6 +31,7 @@ export const NUME_DISCIPLINE: Record<Disciplina, string> = {
   'educatie-sociala': 'Educație socială',
   storytelling: 'Opțional de storytelling',
   'educatie-media': 'Opțional de educație media',
+  optional: 'Opțional, de confirmat',
 }
 
 export function numeZi(zi: number): string {
