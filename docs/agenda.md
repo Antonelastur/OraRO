@@ -82,37 +82,84 @@ AGENDA nu e o abatere de la roadmap, e pasul 2 din ETAPA 1.
 **Intrare:** modelul de an ales, plus o singură dată introdusă manual, prima zi de
 luni a anului școlar.
 
-**Ieșire:** 53 de săptămâni, 12 luni, fiecare zi încadrată pe modul, vacanță sau
-zi liberă.
+**Ieșire:** toate săptămânile anului, 12 luni, fiecare zi încadrată pe modul,
+vacanță sau zi liberă.
 
 1. Verificăm că data introdusă e într-adevăr luni. Dacă nu, corectăm la lunea cea
    mai apropiată și anunțăm în interfață.
-2. Generăm 53 de săptămâni consecutive, fiecare pornind lunea.
+2. Generăm săptămâni consecutive până la 53, fiecare pornind lunea.
 3. Suprapunem modulele și vacanțele. O săptămână tăiată de o vacanță la mijloc
    primește marcaj parțial, cu zilele clasificate una câte una.
 4. Marcăm zilele libere legale, Săptămâna verde și Școala altfel.
-5. Construim vederea pe 12 luni, fiecare lună trimițând către săptămânile care o
+5. Numerotăm săptămânile de curs, sărind peste vacanțe.
+6. Construim vederea pe 12 luni, fiecare lună trimițând către săptămânile care o
    ating.
-6. Din orar plus calendar rezultă numărul de ore efective pe clasă, pe modul și pe
+7. Din orar plus calendar rezultă numărul de ore efective pe clasă, pe modul și pe
    an.
 
-**De ce 53 și nu 52.** Un an calendaristic are 52 de săptămâni complete plus una
-sau două zile. Intervalul septembrie, iunie, cu vacanțele de la capete, poate
-atinge 53 de săptămâni ISO. Generând 53 acoperim orice configurație, iar
-săptămânile din afara anului de curs rămân marcate ca atare.
+### Două numerotări, nu una
+
+Aici e o corecție față de prima formă a planului, apărută din structura reală a
+școlii.
+
+| Numerotare | Ce numără | Unde se folosește |
+|---|---|---|
+| Săptămâna calendaristică, până la 53 | fiecare săptămână a anului, vacanțele incluse | intern, ca să nu rămână zile neacoperite |
+| Săptămâna de curs, 1 la 36 | doar săptămânile în care se fac ore | peste tot în interfață, pentru că asta folosește școala |
+
+Structura publicată de școală numerotează 36 de săptămâni de curs pentru
+2026-2027, sărind peste vacanțe. Aceea e numerotarea pe care o vede profesoara.
+Cele 53 rămân doar mecanismul intern care garantează că orice zi a anului are un
+loc, inclusiv vacanțele și săptămânile din afara anului de curs.
+
+Numărul de săptămâni de curs nu se scrie fix în cod. Rezultă din calendar, deci
+se schimbă singur dacă se schimbă structura.
 
 ### Ce trebuie introdus, nu dedus
 
 Structura anului școlar, cele 5 module și datele vacanțelor, se stabilește anual
-prin ordin de ministru. Nu o scriem fix în cod. Aplicația vine cu un preset
-editabil pe care îl confirmi la prima pornire, cu trimitere la ordinul oficial.
-Presetul se salvează și se reîncarcă anul următor.
+prin ordin de ministru, iar vacanța de schi prin decizie a inspectoratului
+județean. Nu o scriem fix în cod. Aplicația vine cu un preset editabil pe care îl
+confirmi la prima pornire. Presetul se salvează și se reîncarcă anul următor.
 
-Nu îți pot confirma din memorie datele exacte ale modulelor pentru anul acesta.
-Le introduci tu sau le verificăm împreună în ordin.
+### Presetul pentru 2026-2027, confirmat
 
-Același lucru pentru Săptămâna verde și Școala altfel, care se programează la
-nivel de școală.
+Sursa e pagina publicată de școală,
+`https://principelecarol.ro/structura-anului-scolar.html`. Prima zi de luni, deci
+singura dată care se introduce manual: **7 septembrie 2026**.
+
+| Perioadă | Interval | Observații |
+|---|---|---|
+| Modulul 1 | 7 septembrie, 23 octombrie 2026 | 7 săptămâni de curs |
+| Vacanța de toamnă | 24 octombrie, 1 noiembrie 2026 | |
+| Modulul 2 | 2 noiembrie, 22 decembrie 2026 | 8 săptămâni, ultima de două zile |
+| Vacanța de iarnă | 23 decembrie 2026, 10 ianuarie 2027 | |
+| Modulul 3 | 11 ianuarie, 12 februarie 2027 | 5 săptămâni |
+| Vacanța de schi | 15, 21 februarie 2027 | stabilită de ISJ Suceava |
+| Modulul 4 | 22 februarie, 23 aprilie 2027 | 9 săptămâni |
+| Vacanța de primăvară | 24 aprilie, 4 mai 2027 | include Paștele ortodox |
+| Modulul 5 | 5 mai, 18 iunie 2027 | 7 săptămâni, prima de trei zile |
+| Vacanța de vară | 19 iunie, 5 septembrie 2027 | |
+
+**Săptămâni speciale.** Săptămâna Verde cade în săptămâna de curs 7, 19 la 23
+octombrie 2026. „Școala altfel" cade în săptămâna 14, 14 la 18 decembrie 2026.
+
+**Zile libere care taie module.** Luni 5 octombrie 2026, Ziua Educației. Luni 30
+noiembrie și marți 1 decembrie 2026. Marți 1 iunie 2027, Ziua Copilului. Restul
+sărbătorilor legale cad în vacanțe sau în weekend, deci nu schimbă programul.
+
+**Săptămâni parțiale.** Săptămâna 15, 21 la 22 decembrie 2026, are două zile.
+Săptămâna 30, 5 la 7 mai 2027, are trei zile, de miercuri până vineri. Motorul le
+tratează prin marcajul parțial de la pasul 3, fără caz special în cod.
+
+### Anul se termină la două date diferite
+
+Clasa a VIII-a încheie cursurile pe 11 iunie 2027, la finalul săptămânii 35.
+Celelalte clase continuă până pe 18 iunie 2027, săptămâna 36.
+
+Consecința pentru model: anul școlar nu are o singură dată de final. `SchoolYear`
+poartă o dată implicită de final, plus excepții pe clasă. Fără asta, planificarea
+la clasa a VIII-a ar arăta o săptămână care nu există.
 
 ---
 
@@ -132,6 +179,8 @@ SchoolYear {
   vacante[]               // { denumire, dataStart, dataFinal }
   saptamaniSpeciale[]     // Săptămâna verde, Școala altfel
   zileLibere[]            // sărbători legale și zile libere locale
+  dataFinal               // finalul implicit al cursurilor
+  finalPeClasa[]          // excepții: { clasa, dataFinal }, vezi secțiunea 3
 }
 ```
 
@@ -139,11 +188,13 @@ SchoolYear {
 
 ```
 Saptamana {
-  numar                   // 1 la 53
+  numarCalendaristic      // 1 la 53, intern
+  numarCurs               // 1 la 36, null în vacanță, numărul pe care îl vede ea
   numarISO
   dataStart, dataFinal
   modulId                 // null în vacanță
   tip                     // curs | vacanta | speciala | inafara
+  zileLucratoare          // 5, sau mai puține în săptămânile parțiale
 }
 ```
 
@@ -370,13 +421,12 @@ scrii tu în browser nu trece prin bundle.
 ## 11. Ce așteaptă confirmarea Antoanelei
 
 1. Varianta de structură: secțiune în OraRO, recomandat, sau aplicație separată.
-2. Datele structurii anului școlar curent: cele 5 module, vacanțele, Săptămâna
-   verde, Școala altfel. Singurul lucru care lipsește ca să înceapă A1.
-3. Lista completă a claselor predate anul acesta, cu numărul de ore. OraRO are
+2. Lista completă a claselor predate anul acesta, cu numărul de ore. OraRO are
    conținut pentru patru clase, dar orarul real poate cuprinde mai multe.
-4. Dacă ești diriginte, pentru că asta schimbă cât cântărește secțiunea de
+3. Dacă ești diriginte, pentru că asta schimbă cât cântărește secțiunea de
    comunicare cu părinții și ședințele.
-5. Formatul cerut de școală pentru planificarea calendaristică, ca exportul PDF să
+4. Formatul cerut de școală pentru planificarea calendaristică, ca exportul PDF să
    iasă direct bun de pus la dosar.
 
-Punctele 3, 4 și 5 nu blochează startul. Punctul 2 da.
+Structura anului școlar 2026-2027 e confirmată, vezi secțiunea 3. Nimic nu mai
+blochează pașii A1 și A2. Punctele de mai sus sunt utile, nu blocante.
