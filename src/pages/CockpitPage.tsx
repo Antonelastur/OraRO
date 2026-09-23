@@ -5,7 +5,7 @@ import { Link, useNavigate, useParams } from 'react-router-dom'
 import { Check, ChevronLeft, ChevronRight, Pause, Play, RotateCcw, X } from 'lucide-react'
 import { clase } from '../data/clase.js'
 import { blocuriOra, durataTotala, formateazaCeas } from '@/lib/ora'
-import { cheieLectie, reflectieGoala, useJurnal } from '@/lib/jurnal'
+import { cheieLectie, reflectieGoala, useGrupa, useJurnal } from '@/lib/jurnal'
 import { ReflectieOra } from '@/components/ReflectieOra'
 import type { Clase } from '@/types'
 
@@ -28,7 +28,8 @@ export function CockpitPage() {
 
   const blocCurent = blocuri[pas]
   const caleLectie = `/${clasa}/${unitate}/${lectie}`
-  const cheie = cheieLectie(clasa!, unitate!, lectie!)
+  const [grupa] = useGrupa(clasa!)
+  const cheie = cheieLectie(grupa, clasa!, unitate!, lectie!)
   const ultimulPas = pas === blocuri.length - 1
 
   // La schimbarea pasului, cronometrul se reîncarcă cu durata blocului și se oprește.
