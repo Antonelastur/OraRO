@@ -2,7 +2,7 @@
 
 Plan de proiectare. Nu conține cod și nu descrie funcții implementate.
 
-AGENDA acoperă anul școlar întreg: cele 53 de săptămâni, cele 12 luni, orarul,
+AGENDA acoperă anul școlar întreg: săptămânile, cele 12 luni, orarul,
 planificarea, comunicarea cu părinții, activitățile administrative și notițele.
 OraRO acoperă azi lecția și ora. AGENDA e stratul din jurul lor.
 
