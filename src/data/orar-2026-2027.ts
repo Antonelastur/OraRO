@@ -35,11 +35,10 @@ export const orar: IntrareOrar[] = [
   alta(2, 3, '5 A', 'spaniola'),
   ro(2, 4, '5 B', 'clasa-5'),
   alta(2, 5, '5 B', 'storytelling'),
-  // Antoanela a re-trimis grila de marți identic cu prima dată, deci ora
-  // asta e 8 B. Ce fel de oră e rămâne de confirmat: a numit-o „op", dar a
-  // spus și că 8 B are educație socială marți. Nu ghicim, vezi TODO-ul de
-  // la finalul fișierului.
-  alta(2, 6, '8 B', 'optional'),
+  // În grilă scria „8 B op", dar Antoanela a confirmat că la 8 B are doar
+  // română și educație socială. Deci ora asta e educație socială, a doua
+  // după cea de vineri.
+  alta(2, 6, '8 B', 'educatie-sociala'),
 
   // Miercuri
   ro(3, 1, '8 B', 'clasa-8'),
@@ -59,9 +58,6 @@ export const orar: IntrareOrar[] = [
   alta(5, 6, '7 A', 'educatie-sociala'),
 ]
 
-// TODO, de lămurit cu Antoanela, două lucruri care nu încap în grila de marți:
-//   1. Marți ora 6 e „8 B op" sau „8 B educație socială"? A spus și una, și
-//      alta. Dacă e educație socială, 8 B are două ore de educație socială,
-//      marți și vineri.
-//   2. Opționalul de educație media de la 7 B: a spus că e marți, dar marți
-//      are deja șase ore ocupate, iar ziua se închide la 14:00. Unde cade?
+// De lămurit, un singur lucru rămas: opționalul de educație media de la 7 B.
+// Antoanela a spus că e marți, dar marți are deja șase ore ocupate, iar ziua
+// se închide la 14:00. Nu apare nicăieri în grilă.

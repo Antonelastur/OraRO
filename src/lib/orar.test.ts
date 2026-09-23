@@ -21,6 +21,11 @@ describe('încărcătura săptămânală', () => {
     },
   )
 
+  it('la 8 B are doar română și educație socială', () => {
+    const optB = orar.filter((o) => o.clasa === '8 B')
+    expect([...new Set(optB.map((o) => o.disciplina))].sort()).toEqual(['educatie-sociala', 'romana'])
+  })
+
   it('fiecare clasă de română are exact 4 ore', () => {
     for (const clasa of ['5 A', '5 B', '8 B']) {
       expect(orePeClasaSiDisciplina(orar, clasa, 'romana').length).toBe(4)
@@ -29,9 +34,8 @@ describe('încărcătura săptămânală', () => {
 
   it('orele se împart pe discipline cum a dat școala', () => {
     expect([...orePe(orar, (o) => o.disciplina).entries()].sort()).toEqual([
-      ['educatie-sociala', 3],
+      ['educatie-sociala', 4],
       ['latina', 2],
-      ['optional', 1],
       ['romana', 12],
       ['spaniola', 1],
       ['storytelling', 1],

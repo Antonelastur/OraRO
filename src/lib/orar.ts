@@ -8,7 +8,6 @@ export type Disciplina =
   | 'educatie-sociala'
   | 'storytelling'
   | 'educatie-media'
-  | 'optional'
 
 export type IntrareOrar = {
   zi: number // 1 = luni, 5 = vineri
@@ -31,7 +30,6 @@ export const NUME_DISCIPLINE: Record<Disciplina, string> = {
   'educatie-sociala': 'Educație socială',
   storytelling: 'Opțional de storytelling',
   'educatie-media': 'Opțional de educație media',
-  optional: 'Opțional, de confirmat',
 }
 
 export function numeZi(zi: number): string {
@@ -89,4 +87,26 @@ export function oraLaMoment(intervale: IntervalOrar[], hhmm: string): IntervalOr
 export function urmatoareaOra(intervale: IntervalOrar[], hhmm: string): IntervalOrar | null {
   const acum = minute(hhmm)
   return intervale.find((i) => minute(i.start) > acum) ?? null
+}
+
+/**
+ * Grupele care fac lecțiile unei clase OraRO. La clasa a V-a sunt două, 5 A și
+ * 5 B: aceleași lecții, ritmuri care pot diferi. Rezultă din orar, nu se scriu
+ * de mână. Vezi docs/agenda.md, secțiunea 4.3.
+ */
+export function grupePentruClasa(orar: IntrareOrar[], clasaOraRO: string): string[] {
+  const grupe = orar.filter((o) => o.clasaOraRO === clasaOraRO).map((o) => o.clasa)
+  return [...new Set(grupe)].sort()
+}
+
+/** Toate grupele, pe clasă OraRO. */
+export function grupeDupaClasa(orar: IntrareOrar[]): Record<string, string[]> {
+  const rezultat: Record<string, string[]> = {}
+  for (const intrare of orar) {
+    if (intrare.clasaOraRO === null) continue
+    const existente = rezultat[intrare.clasaOraRO] ?? []
+    if (!existente.includes(intrare.clasa)) existente.push(intrare.clasa)
+    rezultat[intrare.clasaOraRO] = existente.sort()
+  }
+  return rezultat
 }
