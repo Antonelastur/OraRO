@@ -29,13 +29,17 @@ describe('încărcătura săptămânală', () => {
 
   it('orele se împart pe discipline cum a dat școala', () => {
     expect([...orePe(orar, (o) => o.disciplina).entries()].sort()).toEqual([
+      ['educatie-media', 1],
       ['educatie-sociala', 3],
       ['latina', 2],
-      ['optional', 1],
       ['romana', 12],
       ['spaniola', 1],
       ['storytelling', 1],
     ])
+  })
+
+  it('fiecare opțional are nume, niciunul nu rămâne generic', () => {
+    expect(orar.filter((o) => o.disciplina === ('optional' as never)).length).toBe(0)
   })
 
   it('predă la cinci clase', () => {

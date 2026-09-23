@@ -35,9 +35,11 @@ export const orar: IntrareOrar[] = [
   alta(2, 3, '5 A', 'spaniola'),
   ro(2, 4, '5 B', 'clasa-5'),
   alta(2, 5, '5 B', 'storytelling'),
-  // TODO: ce opțional e la 8 B? Antoanela a numit opționalele de la 5 A,
-  // 5 B și 7 B, nu și pe acesta. Rămâne generic până îl confirmă.
-  alta(2, 6, '8 B', 'optional'),
+  // Corectură față de grila trimisă inițial, unde ora asta figura drept
+  // „8 B op". Antoanela a confirmat apoi că marți, la ora a șasea, are
+  // opționalul de educație media la 7 B. Ziua are maximum șase ore, deci
+  // slotul e unul singur, nu două. 8 B nu are opțional.
+  alta(2, 6, '7 B', 'educatie-media'),
 
   // Miercuri
   ro(3, 1, '8 B', 'clasa-8'),
