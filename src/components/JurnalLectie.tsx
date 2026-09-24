@@ -7,6 +7,7 @@
 import { useState } from 'react'
 import { CheckCircle2, Lock, Users } from 'lucide-react'
 import { cheieLectie, formateazaData, grupele, reflectieGoala, useGrupa, useJurnal } from '@/lib/jurnal'
+import { AncoraPlan } from './AncoraPlan'
 import { ReflectieOra } from './ReflectieOra'
 
 const ETICHETE: [keyof typeof reflectieGoala, string][] = [
@@ -155,6 +156,14 @@ export function JurnalLectie({ clasa, unitate, lectie }: { clasa: string; unitat
           </div>
         </>
       )}
+
+      <AncoraPlan
+        clasa={clasa}
+        unitate={unitate}
+        lectie={lectie}
+        grupa={grupa}
+        areMaiMulteGrupe={areMaiMulteGrupe}
+      />
     </section>
   )
 }

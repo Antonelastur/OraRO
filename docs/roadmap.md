@@ -36,8 +36,8 @@ Prioritate maximă.
 
 | Funcție | Stare | Note |
 |---|---|---|
-| Dashboard | Există, dar nu în forma cerută | Trebuie rescris în jurul cardului „Ora de azi" |
-| Ora de azi | **Nu există** | Blocată de lipsa `ScheduleItem`, orarul vine în octombrie 2026 |
+| Dashboard | Există | Rescris în jurul cardului „Ora de azi": data, săptămâna, ora curentă, restul zilei, apoi acces rapid |
+| Ora de azi | Există | `OraDeAziPage`, din `src/lib/program.ts` plus `agenda.ts`; navigare pe zile, ore fără conținut OraRO incluse |
 | Planificare | **Nu există** | Sursa e planificarea calendaristică din folderul de surse, proiectare în `docs/agenda.md` |
 | Unități de învățare | Există | `UnitatePage`, cu lecțiile parcurse marcate |
 | Lecții | Există | `LectiePage`, `ClasaPage`, cu jurnalul orei pe pagina lecției |
@@ -63,8 +63,9 @@ următorul:
 5. Închiderea orei, marcarea ca parcursă, reflecția.
 6. Dashboardul rescris în jurul cardului „Ora de azi".
 
-**Stare la 2026-09-11:** pașii 1, 4 și 5 sunt făcuți. Pașii 2 și 3 așteaptă
-orarul, care vine în octombrie 2026; pasul 6 vine după „Ora de azi”.
+**Stare la 2026-09-24:** toți cei șase pași sunt făcuți. Orarul a venit mai
+devreme decât ne așteptam, iar pasul 2 s-a închis cu `src/lib/program.ts`,
+pasul 3 cu `OraDeAziPage`, pasul 6 cu dashboardul rescris. ETAPA 1 e completă.
 
 Nu trece la funcții complexe înainte ca acest flux să fie stabil.
 

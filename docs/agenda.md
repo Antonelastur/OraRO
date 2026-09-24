@@ -246,6 +246,24 @@ resursele asociate, cum cere modelul.
 
 Statutul `parcursa` se citește din `src/lib/jurnal.ts`, nu se dublează.
 
+**Implementat în `src/lib/program.ts`.** Trei lucruri s-au lămurit la scris:
+
+- **Mutarea manuală se face cu o ancoră, nu slot cu slot.** O ancoră spune „la
+  8 B, pe 24 septembrie, eram la lecția a doua din Unitatea I", iar restul
+  planului se recalculează în jurul ei, înainte și înapoi. Orele rămase în urmă
+  primesc statutul `reprogramata`, fără lecție: acolo s-a consumat altceva.
+  În interfață apare ca butonul „Continui de aici", în jurnalul lecției
+  (`src/components/AncoraPlan.tsx`). Se numește reper, nu ancoră: ancora e
+  numele din cod, reperul e ce vede profesoara.
+- **Ancora poartă și unitatea, nu doar lecția.** Id-urile de lecție se reiau de
+  la capăt în fiecare unitate, `lectia-1` există peste tot, deci o lecție se
+  identifică prin `unitate/lecție`.
+- **Săptămâna Verde și Școala altfel nu apar deloc în program.** Clasele fac
+  activități cu diriginții lor, iar Antoanela nu e dirigintă, deci în
+  săptămânile alea nu are ore. Confirmat pe 24 septembrie 2026. Asta scade
+  orele de predare de la 136 la 128 pe grupă la clasa a V-a și de la 132 la 124
+  la clasa a VIII-a.
+
 ### 4.5 Activitate și Notita
 
 ```
@@ -342,7 +360,8 @@ nu deschide o coadă paralelă.
 | A4 | `ScheduleItem` generat din orar plus calendar, cu mutare manuală | 2 la 3 zile |
 | A5 | „Ora de azi", pasul 3 din roadmap, acum nedeblocat | conform roadmap |
 
-A1 și A2 sunt făcute. Orarul există, deci A3 și A4 nu mai așteaptă nimic.
+A1 la A5 sunt făcute: `src/lib/an-scolar.ts`, `planificare.ts`, `orar.ts`,
+`program.ts` și `agenda.ts`, plus ecranul din `src/pages/OraDeAziPage.tsx`.
 
 ### După ETAPA 1, ca prioritatea 5 din roadmap
 

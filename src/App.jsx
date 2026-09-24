@@ -1,6 +1,7 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import AppShell from './components/AppShell.tsx'
 import DashboardPage from './pages/DashboardPage.tsx'
+import OraDeAziPage from './pages/OraDeAziPage.tsx'
 import ClasePage from './pages/ClasePage.tsx'
 import BibliotecaPage from './pages/BibliotecaPage.tsx'
 import SetariPage from './pages/SetariPage.tsx'
@@ -17,6 +18,7 @@ function App() {
       <Routes>
         <Route element={<AppShell />}>
           <Route path="/" element={<DashboardPage />} />
+          <Route path="/ora-de-azi" element={<OraDeAziPage />} />
           <Route path="/clase" element={<ClasePage />} />
           <Route path="/biblioteca" element={<BibliotecaPage />} />
           <Route path="/setari" element={<SetariPage />} />
