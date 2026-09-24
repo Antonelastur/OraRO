@@ -1,6 +1,9 @@
 import { describe, expect, it } from 'vitest'
 import { clase } from '@/data/clase.js'
-import { dataLunga, dataPentruAncora, numeZiDinData, sloturi, stareaZilei, ziCuOre } from '@/lib/agenda'
+import {
+  caleLectie, dataLunga, dataPentruAncora, numeZiDinData, oraDeDeschidere, sloturi,
+  stareaZilei, ziCuOre,
+} from '@/lib/agenda'
 import { decalajAncorei, lectiileClasei, programeaza, sloturiGrupei } from '@/lib/program'
 import type { Clase } from '@/types'
 
@@ -103,5 +106,47 @@ describe('reperul pus din pagina lecției', () => {
     const mutat = programeaza(sloturi, clase as unknown as Clase, { ancore: { '8 B': ancora } })
     const laA = (p: typeof program) => p.find((o) => o.clasa === '5 A' && o.data === '2026-09-25')!.lectie!.lectieId
     expect(laA(mutat)).toBe(laA(program))
+  })
+})
+
+describe('ora cu care se deschide aplicația', () => {
+  it('în timpul orei, ora curentă', () => {
+    const d = oraDeDeschidere(program, { data: '2026-09-29', hhmm: '09:20' })!
+    expect(d.astazi).toBe(true)
+    expect(d.ora.clasa).toBe('5 A')
+    expect(d.ora.statut).toBe('programata')
+  })
+
+  it('în pauză, următoarea oră din zi', () => {
+    const d = oraDeDeschidere(program, { data: '2026-09-29', hhmm: '09:55' })!
+    expect(d.astazi).toBe(true)
+    expect(d.ora.start).toBe('10:10')
+  })
+
+  it('după ultima oră, prima din ziua următoare', () => {
+    const d = oraDeDeschidere(program, { data: '2026-09-29', hhmm: '16:00' })!
+    expect(d.astazi).toBe(false)
+    expect(d.ora.data).toBe('2026-09-30')
+    expect(d.ora.ora).toBe(1)
+  })
+
+  it('în weekend și în vacanță, prima oră de după', () => {
+    expect(oraDeDeschidere(program, { data: '2026-09-12', hhmm: '10:00' })!.ora.data).toBe('2026-09-14')
+    expect(oraDeDeschidere(program, { data: '2026-12-28', hhmm: '10:00' })!.ora.data).toBe('2027-01-11')
+  })
+
+  it('după încheierea anului nu mai deschide nimic', () => {
+    expect(oraDeDeschidere(program, { data: '2027-07-01', hhmm: '09:00' })).toBeNull()
+  })
+})
+
+describe('ruta lecției', () => {
+  it('duce la lecția orei', () => {
+    const ora = program.find((o) => o.clasa === '8 B' && o.lectie)!
+    expect(caleLectie(ora)).toBe(`/clasa-8/${ora.lectie!.unitateId}/${ora.lectie!.lectieId}`)
+  })
+
+  it('e null la orele fără conținut OraRO', () => {
+    expect(caleLectie(program.find((o) => o.disciplina === 'latina')!)).toBeNull()
   })
 })

@@ -57,6 +57,24 @@ export function useProgram(acum?: { data: string; hhmm: string }): OraProgramata
   )
 }
 
+/**
+ * Ora cu care se deschide aplicația: cea în desfășurare, altfel următoarea de
+ * azi, altfel prima de după. `astazi` e fals când ziua s-a încheiat sau e
+ * liberă, iar cardul arată ce urmează, nu ce a fost.
+ */
+export function oraDeDeschidere(
+  program: OraProgramata[],
+  acum: { data: string; hhmm: string },
+): { ora: OraProgramata; astazi: boolean } | null {
+  const dinZi = program.find(
+    (o) => o.data === acum.data && (o.statut === 'in_desfasurare' || o.start > acum.hhmm),
+  )
+  if (dinZi) return { ora: dinZi, astazi: true }
+
+  const dupa = program.find((o) => o.data > acum.data)
+  return dupa ? { ora: dupa, astazi: false } : null
+}
+
 export type StareaZilei =
   | { fel: 'curs'; saptamana: Saptamana; ore: OraProgramata[] }
   | { fel: 'liber'; motiv: string; saptamana: Saptamana | null }
@@ -84,6 +102,13 @@ export function stareaZilei(program: OraProgramata[], data: string): StareaZilei
     : 'Fără ore'
 
   return { fel: 'liber', motiv, saptamana: saptamana ?? null }
+}
+
+/** Ruta lecției unei ore. Null la orele fără conținut OraRO. */
+export function caleLectie(ora: OraProgramata): string | null {
+  if (!ora.lectie) return null
+  const { clasaId, unitateId, lectieId } = ora.lectie
+  return `/${clasaId}/${unitateId}/${lectieId}`
 }
 
 export function numeZiDinData(data: string): string {
