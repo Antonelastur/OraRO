@@ -1,7 +1,7 @@
 import { NavLink } from 'react-router-dom'
 import { motion } from 'motion/react'
 import {
-  Dices, GraduationCap, Hourglass, LayoutDashboard, LibraryBig, Search, Settings,
+  CalendarClock, Dices, GraduationCap, Hourglass, LayoutDashboard, LibraryBig, Search, Settings,
   Shuffle, Timer, UserRound, Users,
 } from 'lucide-react'
 import { cn } from '@/lib/utils'
@@ -12,7 +12,10 @@ import { cn } from '@/lib/utils'
 const GRUPURI = [
   {
     titlu: null,
-    intrari: [{ to: '/', label: 'Dashboard', icon: LayoutDashboard, end: true }],
+    intrari: [
+      { to: '/', label: 'Dashboard', icon: LayoutDashboard, end: true },
+      { to: '/ora-de-azi', label: 'Ora de azi', icon: CalendarClock, end: false },
+    ],
   },
   {
     titlu: 'Lecții',

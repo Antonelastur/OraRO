@@ -18,7 +18,6 @@ import {
   programeaza,
   programulZilei,
   sloturiDinZi,
-  sloturiDePredare,
   sloturiGrupei,
 } from '@/lib/program'
 import type { Clase } from '@/types'
@@ -76,11 +75,9 @@ describe('sloturile anului', () => {
     for (const data of inVacanta) expect(sloturiDinZi(sloturi, data)).toEqual([])
   })
 
-  it('păstrează orele din Săptămâna Verde și din Școala altfel, marcate', () => {
-    const verde = sloturiDinZi(sloturi, '2026-10-21')
-    expect(verde.length).toBe(3)
-    expect(verde.every((s) => s.speciala === 'Săptămâna Verde')).toBe(true)
-    expect(sloturiDinZi(sloturi, '2026-12-16')[0].speciala).toBe('Școala altfel')
+  it('nu generează nimic în Săptămâna Verde și în Școala altfel', () => {
+    expect(sloturiDinZi(sloturi, '2026-10-21')).toEqual([])
+    expect(sloturiDinZi(sloturi, '2026-12-16')).toEqual([])
   })
 
   it('e în ordine cronologică', () => {
@@ -157,7 +154,7 @@ describe('așezarea lecțiilor', () => {
   it('lecțiile care nu mai încap în an se raportează', () => {
     const prea = claseDeProba(1000)
     const rest = lectiiNeasezate(sloturi, prea, '5 A')
-    expect(rest.length).toBe(1000 - sloturiDePredare(sloturi, '5 A').length)
+    expect(rest.length).toBe(1000 - sloturiGrupei(sloturi, '5 A').length)
   })
 
   it('o ancoră din altă unitate nu prinde, deși id-ul de lecție se repetă', () => {
@@ -236,17 +233,10 @@ describe('programul și statutul orelor', () => {
 describe('săptămânile speciale', () => {
   const clase = claseDeProba(200)
 
-  it('nu primesc lecții: materia nu înaintează acolo', () => {
+  it('nu apar deloc în program: Antoanela nu e dirigintă, deci nu are ore', () => {
     const program = programeaza(sloturi, clase)
-    const inVerde = program.filter((o) => o.speciala === 'Săptămâna Verde')
-    expect(inVerde.length).toBeGreaterThan(0)
-    expect(inVerde.every((o) => o.lectie === null)).toBe(true)
-  })
-
-  it('nu consumă din planul grupei', () => {
-    const dePredare = sloturiDePredare(sloturi, '5 A')
-    const toate = sloturiGrupei(sloturi, '5 A')
-    expect(dePredare.length).toBe(toate.length - 8)
+    const inVerde = program.filter((o) => o.data >= '2026-10-19' && o.data <= '2026-10-23')
+    expect(inVerde).toEqual([])
   })
 
   it('lecția de după Săptămâna Verde e următoarea la rând, nu una sărită', () => {

@@ -22,9 +22,6 @@ export type Slot = {
   clasa: string // grupa, cum îi spune școala: „5 A"
   disciplina: Disciplina
   clasaOraRO: string | null
-  // Denumirea săptămânii speciale, dacă ora cade într-una. Ora există, dar nu
-  // se predă materie: în Săptămâna Verde și în Școala altfel se face alt program.
-  speciala: string | null
 }
 
 /** Lecția la care trimite ora, fără să o copieze. */
@@ -78,7 +75,13 @@ export function finalPeGrupa(an: AnScolar, orar: IntrareOrar[]): Record<string, 
   return rezultat
 }
 
-/** Toate orele anului, în ordine cronologică. Doar zilele de curs. */
+/**
+ * Toate orele anului, în ordine cronologică.
+ *
+ * Doar zilele de curs, iar Săptămâna Verde și Școala altfel nu intră deloc:
+ * clasele fac activități cu diriginții lor, iar Antoanela nu e dirigintă, deci
+ * în săptămânile alea nu are ore. Confirmat pe 24 septembrie 2026.
+ */
 export function genereazaSloturi(
   saptamani: Saptamana[],
   orar: IntrareOrar[],
@@ -89,6 +92,7 @@ export function genereazaSloturi(
   const sloturi: Slot[] = []
 
   for (const saptamana of saptamani) {
+    if (saptamana.speciala !== null) continue
     for (const zi of saptamana.zile) {
       if (zi.tip !== 'curs') continue
       const numarZi = ((new Date(`${zi.data}T00:00:00Z`).getUTCDay() + 6) % 7) + 1
@@ -107,7 +111,6 @@ export function genereazaSloturi(
           clasa: intrare.clasa,
           disciplina: intrare.disciplina,
           clasaOraRO: intrare.clasaOraRO,
-          speciala: saptamana.speciala,
         })
       }
     }
@@ -123,15 +126,6 @@ export function sloturiDinZi(sloturi: Slot[], data: string): Slot[] {
 /** Orele unei grupe care au lecții în spate. Restul rămân sloturi goale. */
 export function sloturiGrupei(sloturi: Slot[], grupa: string): Slot[] {
   return sloturi.filter((s) => s.clasa === grupa && s.clasaOraRO !== null)
-}
-
-/**
- * Orele peste care se așază lecții: cele ale grupei, cu conținut OraRO, din
- * afara săptămânilor speciale. În Săptămâna Verde și în Școala altfel ziua are
- * ore, dar materia nu înaintează, așa că planul nu le consumă.
- */
-export function sloturiDePredare(sloturi: Slot[], grupa: string): Slot[] {
-  return sloturiGrupei(sloturi, grupa).filter((s) => s.speciala === null)
 }
 
 /** Lecțiile unei clase, în ordinea din manual, cu unitatea din care vin. */
@@ -209,7 +203,7 @@ export function programeaza(
   const cuLectieInPlanulDeBaza = new Set<string>()
 
   for (const grupa of grupe) {
-    const aleGrupei = sloturiDePredare(sloturi, grupa)
+    const aleGrupei = sloturiGrupei(sloturi, grupa)
     const clasaId = aleGrupei[0]?.clasaOraRO
     if (!clasaId) continue
     const lectii = lectiileClasei(clase, clasaId)
@@ -278,7 +272,7 @@ export function lectiiNeasezate(
   grupa: string,
   ancora?: Ancora,
 ): ReferintaLectie[] {
-  const aleGrupei = sloturiDePredare(sloturi, grupa)
+  const aleGrupei = sloturiGrupei(sloturi, grupa)
   const clasaId = aleGrupei[0]?.clasaOraRO
   if (!clasaId) return []
   const lectii = lectiileClasei(clase, clasaId)
