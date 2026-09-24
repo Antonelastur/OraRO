@@ -211,8 +211,9 @@ Informațiile se asociază lecției respective.
 
 ## 11. ScheduleItem
 
-Leagă o dată calendaristică de o lecție și o clasă. **Nu există încă și e
-blocantul funcției „Ora de azi".**
+Leagă o dată calendaristică de o lecție și o clasă. **Implementat în
+`src/lib/program.ts`, ca `OraProgramata`,** derivat din calendar plus orar, nu
+stocat. Nu mai blochează „Ora de azi"; rămâne de construit ecranul.
 
 Se construiește din planificarea calendaristică aflată în folderul de surse. Are
 nevoie cel puțin de: dată, oră din program, clasă, lecție referită, statut

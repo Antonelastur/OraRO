@@ -246,6 +246,20 @@ resursele asociate, cum cere modelul.
 
 Statutul `parcursa` se citește din `src/lib/jurnal.ts`, nu se dublează.
 
+**Implementat în `src/lib/program.ts`.** Trei lucruri s-au lămurit la scris:
+
+- **Mutarea manuală se face cu o ancoră, nu slot cu slot.** O ancoră spune „la
+  8 B, pe 24 septembrie, eram la lecția a doua din Unitatea I", iar restul
+  planului se recalculează în jurul ei, înainte și înapoi. Orele rămase în urmă
+  primesc statutul `reprogramata`, fără lecție: acolo s-a consumat altceva.
+- **Ancora poartă și unitatea, nu doar lecția.** Id-urile de lecție se reiau de
+  la capăt în fiecare unitate, `lectia-1` există peste tot, deci o lecție se
+  identifică prin `unitate/lecție`.
+- **Săptămâna Verde și Școala altfel nu consumă din plan.** Orele lor rămân în
+  program, ca ziua să arate întreagă, dar fără lecție: în ele nu se predă
+  materie. Asta scade orele de predare de la 136 la 128 pe grupă la clasa a V-a
+  și de la 132 la 124 la clasa a VIII-a. De confirmat cu Antoanela.
+
 ### 4.5 Activitate și Notita
 
 ```
@@ -342,7 +356,8 @@ nu deschide o coadă paralelă.
 | A4 | `ScheduleItem` generat din orar plus calendar, cu mutare manuală | 2 la 3 zile |
 | A5 | „Ora de azi", pasul 3 din roadmap, acum nedeblocat | conform roadmap |
 
-A1 și A2 sunt făcute. Orarul există, deci A3 și A4 nu mai așteaptă nimic.
+A1, A2, A3 și A4 sunt făcute, în `src/lib/an-scolar.ts`, `planificare.ts`,
+`orar.ts` și `program.ts`. Urmează A5, primul ecran al agendei.
 
 ### După ETAPA 1, ca prioritatea 5 din roadmap
 
