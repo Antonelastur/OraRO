@@ -105,6 +105,25 @@ export function ziCuOre(program: OraProgramata[], dela: string, directie: 1 | -1
     : ([...zile].reverse().find((d) => d < dela) ?? null)
 }
 
+/**
+ * Data de la care pornește o ancoră pusă acum: prima oră a grupei care nu a
+ * trecut încă. Ora de azi de dimineață s-a ținut deja, deci planul se mută de
+ * la următoarea, nu de la ea.
+ */
+export function dataPentruAncora(
+  program: OraProgramata[],
+  grupa: string,
+  acum: { data: string; hhmm: string },
+): string | null {
+  const urmatoarea = program.find(
+    (o) =>
+      o.clasa === grupa &&
+      o.clasaOraRO !== null &&
+      (o.data > acum.data || (o.data === acum.data && o.start > acum.hhmm)),
+  )
+  return urmatoarea?.data ?? null
+}
+
 /** Momentul curent, în forma cerută de program.ts. */
 export function acumLocal(): { data: string; hhmm: string } {
   const d = new Date()

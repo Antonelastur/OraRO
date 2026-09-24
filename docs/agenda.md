@@ -252,6 +252,9 @@ Statutul `parcursa` se citește din `src/lib/jurnal.ts`, nu se dublează.
   8 B, pe 24 septembrie, eram la lecția a doua din Unitatea I", iar restul
   planului se recalculează în jurul ei, înainte și înapoi. Orele rămase în urmă
   primesc statutul `reprogramata`, fără lecție: acolo s-a consumat altceva.
+  În interfață apare ca butonul „Continui de aici", în jurnalul lecției
+  (`src/components/AncoraPlan.tsx`). Se numește reper, nu ancoră: ancora e
+  numele din cod, reperul e ce vede profesoara.
 - **Ancora poartă și unitatea, nu doar lecția.** Id-urile de lecție se reiau de
   la capăt în fiecare unitate, `lectia-1` există peste tot, deci o lecție se
   identifică prin `unitate/lecție`.
