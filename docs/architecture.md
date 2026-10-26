@@ -65,11 +65,15 @@ de derivare în `src/lib/` care proiectează forma actuală în modelul nou:
 - `Resource[]` rezolvat din `materiale`
 - `Activity` derivată din `EtapaLectie.activitate` plus materialul referit
 
-Motivul: toată ETAPA 1 are nevoie doar să **citească** blocuri, plus puțin state
-local pentru pasul curent, cronometru și notițele de reflecție. Nimic din ETAPA 1
-nu cere blocuri editabile. Dacă modelul se dovedește greșit, se schimbă un
-fișier, nu 480. Promovarea blocurilor la entități editabile se face în ETAPA 2,
-când apare nevoia reală (lecția modulară cu adăugare, reordonare, salvare).
+Motivul: cockpitul și Ora de azi au nevoie doar să **citească** blocuri, plus
+puțin state local pentru pasul curent, cronometru și notițele de reflecție. Dacă
+modelul se dovedește greșit, se schimbă un fișier, nu 480.
+
+**Lecțiile modulare țin de ETAPA 1**, decizie din 2026-10-26, conform
+`CLAUDE.md`. Editarea blocurilor (adăugare, reordonare, salvare) se proiectează
+deci înainte de ETAPA 2, tot ca strat peste datele actuale, fără migrarea celor
+480 de lecții. Cât timp nu există backend, o lecție personalizată se poate salva
+doar în `localStorage`, cu limitarea din secțiunea 5.
 
 **Ce e deja acoperit cu date reale.** Toate cele patru clase au `planLectie`
 populat pe fiecare lecție: a V-a 120, a VI-a 122, a VII-a 119, a VIII-a 119,

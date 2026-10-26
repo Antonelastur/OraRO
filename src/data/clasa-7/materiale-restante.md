@@ -1,5 +1,10 @@
 # Materiale restante, clasa a VII-a
 
+> **Înlocuit de `docs/stare-materiale.md`** (2026-10-26), generat din cod cu
+> `npm run audit:materiale`. Lista de mai jos e păstrată doar ca istoric și nu mai
+> descrie starea actuală. Exemple de diferențe găsite la verificare: lecții trecute
+> aici ca restante care au acum material.
+
 Toate cele 5 unități sunt construite structural (119 lecții, sursate direct
 din proiectarea pe unități 2024-2025, pagini verificate la sursă). **105 din
 119 de lecții au material** (fișă, schemă, infografic sau joc-quiz), generat

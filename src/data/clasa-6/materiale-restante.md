@@ -1,5 +1,10 @@
 # Materiale restante, clasa a VI-a
 
+> **Înlocuit de `docs/stare-materiale.md`** (2026-10-26), generat din cod cu
+> `npm run audit:materiale`. Lista de mai jos e păstrată doar ca istoric și nu mai
+> descrie starea actuală. Exemple de diferențe găsite la verificare: lecții trecute
+> aici ca restante care au acum material.
+
 Listă cumulativă a lecțiilor cu materiale `null`, de completat într-o singură
 sesiune dedicată, după ce toate cele 5 unități sunt construite structural
 (id, titlu, obiective, sursaManual). Actualizată pe măsură ce se construiește

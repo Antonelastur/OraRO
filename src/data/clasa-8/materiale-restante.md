@@ -1,5 +1,10 @@
 # Materiale restante, clasa a VIII-a
 
+> **Înlocuit de `docs/stare-materiale.md`** (2026-10-26), generat din cod cu
+> `npm run audit:materiale`. Lista de mai jos e păstrată doar ca istoric și nu mai
+> descrie starea actuală. Exemple de diferențe găsite la verificare: lecții trecute
+> aici ca restante care au acum material.
+
 ## Recapitulare inițială
 
 Ambele lecții sunt activități administrative de start de an, fără pagină de
