@@ -8,7 +8,8 @@
     "build": "vite build",
     "lint": "oxlint",
     "preview": "vite preview",
-    "test": "vitest run"
+    "test": "vitest run",
+    "audit:materiale": "node scripts/audit-materiale.mjs"
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.23",

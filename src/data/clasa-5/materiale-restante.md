@@ -1,5 +1,10 @@
 # Materiale restante, clasa a V-a
 
+> **Înlocuit de `docs/stare-materiale.md`** (2026-10-26), generat din cod cu
+> `npm run audit:materiale`. Lista de mai jos e păstrată doar ca istoric și nu mai
+> descrie starea actuală. Exemple de diferențe găsite la verificare: lecții trecute
+> aici ca restante care au acum material.
+
 Actualizat: cele 62 de lecții care puteau fi generate direct în cod (schemă,
 infografic, joc, fișă) sunt finalizate. Rămân cele 11 care au nevoie de o
 unealtă externă — vezi [drafturi-teste-si-prezentari.md](drafturi-teste-si-prezentari.md)

@@ -4,10 +4,9 @@ import { unitati as unitatiClasa7 } from './clasa-7/index.js'
 import { unitati as unitatiClasa8 } from './clasa-8/index.js'
 
 // Registru central al claselor active în OraRO.
-// Toate cele patru clase de gimnaziu sunt înregistrate acum că au materiale pe
-// aproape toate lecțiile (a VI-a: 110/122, a VII-a: 105/119, a VIII-a: 103/117
-// fără recapitularea inițială); restul sunt prezentări și teste, care au nevoie
-// de unelte externe (NotebookLM, Google Forms).
+// Toate cele patru clase de gimnaziu sunt înregistrate. Starea materialelor pe
+// clasă și unitate e în docs/stare-materiale.md, generat cu
+// `npm run audit:materiale`.
 export const clase = {
   'clasa-5': { titlu: 'Clasa a V-a', unitati: unitatiClasa5 },
   'clasa-6': { titlu: 'Clasa a VI-a', unitati: unitatiClasa6 },

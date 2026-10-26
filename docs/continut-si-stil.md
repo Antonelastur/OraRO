@@ -75,8 +75,10 @@ Pot fi originale, scrise de tine sau de Antoanela, fără să fie legate strict 
 pasaj din manual. Condiția: corecte gramatical, potrivite vârstei și nivelului
 clasei, și să servească exact obiectivul lecției.
 
-**Nu aștepta aprobare pas cu pas.** Le generezi și le integrezi direct, ea le
-vede publicate și corectează dacă e cazul. Decizie din 2026.
+**Aprobare înainte de publicare.** Le poți genera și pregăti direct, dar nimic
+nu ajunge pe `master`, deci nici pe site, fără aprobarea explicită a Antoanelei.
+Decizie din 2026-10-26, care înlocuiește regula anterioară „nu aștepta aprobare
+pas cu pas, ea le vede publicate".
 
 Scopul general al materialelor de sprijin: cât mai vizuale, gamificate,
 atractive și interactive, fără să sacrifice rigoarea. Elevii tot trebuie să învețe

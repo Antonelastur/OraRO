@@ -65,7 +65,14 @@ următorul:
 
 **Stare la 2026-09-24:** toți cei șase pași sunt făcuți. Orarul a venit mai
 devreme decât ne așteptam, iar pasul 2 s-a închis cu `src/lib/program.ts`,
-pasul 3 cu `OraDeAziPage`, pasul 6 cu dashboardul rescris. ETAPA 1 e completă.
+pasul 3 cu `OraDeAziPage`, pasul 6 cu dashboardul rescris.
+
+**Stare la 2026-10-26: ETAPA 1 nu e completă.** Lipsesc două funcții din tabelul
+de mai sus. Planificarea are logica în `src/lib/planificare.ts`, cu teste, dar
+nicio pagină nu o folosește, deci nu e accesibilă din interfață. Lecțiile
+modulare rămân în ETAPA 1, prin decizia din 2026-10-26, și editarea blocurilor
+nu există încă. Starea materialelor pe clase e în `docs/stare-materiale.md`,
+generat din cod cu `npm run audit:materiale`.
 
 Nu trece la funcții complexe înainte ca acest flux să fie stabil.
 
