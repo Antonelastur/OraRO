@@ -14,7 +14,7 @@ import {
   citeste, esteNeatinsa, mutaLa, opreste, porneste, reseteazaPas, salveaza,
   secundePlanRamase, secundeRamase, semnalSonor, stareInitiala, sterge, type StareCockpit,
 } from '@/lib/cockpit'
-import { etapaTemei, temaAcasa } from '@/lib/elevi'
+import { areMaterialePePasi, etapaTemei, materialeElevi, materialePas, temaAcasa } from '@/lib/elevi'
 import { MaterialeElevi } from '@/components/MaterialeElevi'
 import type { Clase } from '@/types'
 
@@ -345,7 +345,22 @@ export function CockpitPage() {
             </section>
           )}
 
-          <MaterialeElevi lectie={dateLectie} className="mt-8 max-w-5xl" />
+          {areMaterialePePasi(dateLectie) ? (
+            <>
+              {/* La pasul curent apar doar materialele lui; restul rămân la un clic distanță. */}
+              <MaterialeElevi lectie={dateLectie} tipuri={blocCurent.materiale} className="mt-8 max-w-5xl" />
+              {materialeElevi(dateLectie).length > materialePas(dateLectie, stare.pas).length && (
+                <details className="mt-6 max-w-5xl">
+                  <summary className="cursor-pointer text-base font-medium text-ink-soft hover:text-ink lg:text-lg">
+                    Toate materialele orei
+                  </summary>
+                  <MaterialeElevi lectie={dateLectie} className="mt-4" />
+                </details>
+              )}
+            </>
+          ) : (
+            <MaterialeElevi lectie={dateLectie} className="mt-8 max-w-5xl" />
+          )}
 
           {/* Comenzile rămân la vedere chiar când textul e mare și pagina derulează. */}
           <div className="sticky bottom-0 -mx-6 mt-8 border-t border-border bg-bg px-6 py-4 lg:-mx-12 lg:px-12">

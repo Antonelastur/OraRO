@@ -3,7 +3,7 @@
 // testul rămân pentru profesoară, în Bibliotecă. Atenție: separarea ține de
 // ce afișează interfața, nu de controlul accesului; datele sunt în același
 // bundle. Vezi docs/architecture.md, secțiunea despre conținut privat.
-import type { Lectie } from '@/types'
+import type { Lectie, MaterialElev } from '@/types'
 import { TIPURI_MATERIAL, type TipMaterial } from '@/lib/lectii'
 
 // Testul nu apare aici: are linkul privat spre varianta B și baremul.
@@ -35,4 +35,15 @@ export function etapaTemei(lectie: Lectie): number {
 /** Materialele pe care le au elevii la oră, fără test. */
 export function materialeElevi(lectie: Lectie): TipMaterial[] {
   return MATERIALE_ELEVI.filter((tip) => Boolean(lectie.materiale[tip]))
+}
+
+/** Adevărat dacă planul leagă măcar un material de un pas. Altfel tabla le arată pe toate. */
+export function areMaterialePePasi(lectie: Lectie): boolean {
+  return (lectie.planLectie?.desfasurare ?? []).some((etapa) => (etapa.materiale?.length ?? 0) > 0)
+}
+
+/** Materialele de la un pas, doar cele pe care lecția le are. */
+export function materialePas(lectie: Lectie, pas: number): MaterialElev[] {
+  const etapa = lectie.planLectie?.desfasurare?.[pas]
+  return (etapa?.materiale ?? []).filter((tip) => MATERIALE_ELEVI.includes(tip) && Boolean(lectie.materiale[tip]))
 }

@@ -42,7 +42,7 @@ Prioritate maximă.
 | Unități de învățare | Există | `UnitatePage`, cu lecțiile parcurse marcate |
 | Lecții | Există | `LectiePage`, `ClasaPage`, cu jurnalul orei pe pagina lecției |
 | Lecții modulare | **Nu există** | Blocurile există ca date la toate clasele, editarea nu |
-| Cockpitul orei | Există | `CockpitPage`, ecranul elevilor pe tablă: pașii din `planLectie.desfasurare`, cronometru, materiale, tema pentru acasă, text adresat elevilor (`elevi`, opțional, pilot la clasa a V-a, U3, lecția 10); fără plan, jurnal sau reflecție; timp rămas din plan, mărime reglabilă a textului, ecran complet |
+| Cockpitul orei | Există | `CockpitPage`, ecranul elevilor pe tablă: pașii din `planLectie.desfasurare`, cronometru, materiale, tema pentru acasă, text adresat elevilor (`elevi`) și materiale legate de pași (`materiale`), ambele opționale; completate la clasa a V-a, unitatea III, restul pe loturi; fără plan, jurnal sau reflecție; timp rămas din plan, mărime reglabilă a textului, ecran complet |
 | Planuri de lecție în Bibliotecă | Există | `BibliotecaPage` (secțiunea „Planuri de lecție") și `PlanLectiePage`: plan, jurnal, reflecție, test privat, pe laptop |
 | Timer | Există | Cronometru pe ceasul real, pe fiecare etapă, cu depășire marcată și semnal sonor la final; pasul și timpul se păstrează la reîncărcare (`localStorage`, 6 ore), logica în `src/lib/cockpit.ts` |
 | Navigarea între blocuri | Există | Butoane, săgeți, lista etapelor din lateral |
