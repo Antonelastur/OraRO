@@ -2761,14 +2761,16 @@ export const unitatea2 = {
           'Susține testul de evaluare sumativă pentru unitate.',
         ],
         resurse: [
-          'Testul tipărit, Manual Art 8, p. 96',
-          'Barem de corectare din Ghidul profesorului',
+          'Testul tipărit, varianta A: Manual Art 8, p. 96',
+          'Barem de corectare, varianta A: Ghidul profesorului',
+          'Testul tipărit, varianta B: text original, o pagină A4 (Drive, privat)',
+          'Barem de corectare, varianta B (Drive, privat)',
         ],
         desfasurare: [
           {
             etapa: 'Instructajul',
             timp: '5 min',
-            activitate: '– Elevii au pe bancă doar foaia de răspuns și instrumentele de scris; distribui testul (fragmentul din „Idolul și Ion Anapoda” de G.M. Zamfirescu, p. 96).\n– Anunț structura: partea A, 60 de puncte (zece cerințe de limbă și lectură), partea B, 30 de puncte (cronica filmului preferat sau a ultimului film văzut, cel puțin 200 de cuvinte), 10 puncte din oficiu.\n– Timpul orientativ: 5 minute pentru citirea textului, 20 pentru partea A, 15 pentru cronică; cerințele se rezolvă în ordinea preferată, cu numărul lor scris în față.',
+            activitate: '– Elevii au pe bancă doar foaia de răspuns și instrumentele de scris; distribui testul, varianta A (manual, p. 96, fragmentul din „Idolul și Ion Anapoda” de G.M. Zamfirescu) sau varianta B (foaia tipărită).\n– Anunț structura: partea A, 60 de puncte (zece cerințe de limbă și lectură), partea B, 30 de puncte (cronica filmului preferat sau a ultimului film văzut, cel puțin 200 de cuvinte), 10 puncte din oficiu.\n– Timpul orientativ: 5 minute pentru citirea textului, 20 pentru partea A, 15 pentru cronică; cerințele se rezolvă în ordinea preferată, cu numărul lor scris în față.',
           },
           {
             etapa: 'Rezolvarea individuală',
@@ -2781,12 +2783,14 @@ export const unitatea2 = {
             activitate: '– Strâng foile, verific numele pe fiecare; anunț că rezultatele și greșelile frecvente se discută după corectare.',
           },
         ],
-        evaluare: 'Evaluare sumativă scrisă, notată după baremul din Ghidul profesorului.',
+        evaluare: 'Evaluare sumativă scrisă, notată după baremul variantei date: varianta A, Ghidul profesorului; varianta B, baremul privat din Drive.',
       },
       materiale: {
         prezentare: null,
         video: null,
-        test: null,
+        test: {
+          linkDocument: 'https://docs.google.com/document/d/1xi3RwUpS8c7ncDxzx3vt5RlKZzLNDJOQML1ZDCf8oO4/edit',
+        },
         fisa: null,
         joc: null,
         infografic: null,

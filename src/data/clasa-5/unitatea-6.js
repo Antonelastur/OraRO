@@ -2126,14 +2126,16 @@ export const unitatea6 = {
           'Verifică, printr-o probă scrisă, nivelul de achiziție a competențelor vizate în Unitatea VI.',
         ],
         resurse: [
-          'Testul tipărit, Manual Art 5, p. 191',
-          'Barem de corectare din Ghidul profesorului',
+          'Testul tipărit, varianta A: Manual Art 5, p. 191',
+          'Barem de corectare, varianta A: Ghidul profesorului',
+          'Testul tipărit, varianta B: text original, o pagină A4 (Drive, privat)',
+          'Barem de corectare, varianta B (Drive, privat)',
         ],
         desfasurare: [
           {
             etapa: 'Instructajul',
             timp: '5 min',
-            activitate: '– Distribui testele (fragment din „Raza verde” de Călin Torsan, din antologia „Care-i faza cu cititul?”) și foile de răspuns.\n– Citesc cerințele cu voce tare; structura: A, 60 de puncte (zece itemi a câte 6 puncte: enunțul simplu, tipul unui enunț, verbe care exprimă acte de limbaj, enunțuri construite, punctuația, trăsăturile textului nonliterar, locurile, acțiunile băiatului, poeții, o explicație); B, 30 de puncte (text nonliterar de 15-20 de rânduri despre ultima carte citită sau cartea preferată, cu un desen integrat); 10 puncte din oficiu.\n– Recomand: circa 25 de minute pentru A, 15 minute pentru B, ultimele minute pentru recitire. Răspund doar la întrebări de înțelegere a cerințelor.',
+            activitate: '– Distribui testul, varianta A (manual, p. 191, fragment din „Raza verde” de Călin Torsan, din antologia „Care-i faza cu cititul?”) sau varianta B (foaia tipărită), și foile de răspuns.\n– Citesc cerințele cu voce tare; structura: A, 60 de puncte (zece itemi a câte 6 puncte: enunțul simplu, tipul unui enunț, verbe care exprimă acte de limbaj, enunțuri construite, punctuația, trăsăturile textului nonliterar, locurile, acțiunile băiatului, poeții, o explicație); B, 30 de puncte (text nonliterar de 15-20 de rânduri despre ultima carte citită sau cartea preferată, cu un desen integrat); 10 puncte din oficiu.\n– Recomand: circa 25 de minute pentru A, 15 minute pentru B, ultimele minute pentru recitire. Răspund doar la întrebări de înțelegere a cerințelor.',
           },
           {
             etapa: 'Rezolvarea individuală',
@@ -2146,12 +2148,14 @@ export const unitatea6 = {
             activitate: '– Elevii își recitesc lucrarea (punctuația, paragrafele, desenul cu legendă), apoi strâng foile.\n– Notez itemii care au ridicat cele mai multe întrebări, pentru corectare și pentru discuția de după.',
           },
         ],
-        evaluare: 'Evaluare sumativă scrisă, notată după baremul din Ghidul profesorului.',
+        evaluare: 'Evaluare sumativă scrisă, notată după baremul variantei date: varianta A, Ghidul profesorului; varianta B, baremul privat din Drive.',
       },
       materiale: {
         prezentare: null,
         video: null,
-        test: null,
+        test: {
+          linkDocument: 'https://docs.google.com/document/d/1PAR22p8k6fX6Audc3yCq4X1wLwH1rdWyAq8SD6cMSgs/edit',
+        },
         fisa: null,
         joc: null,
         infografic: null,

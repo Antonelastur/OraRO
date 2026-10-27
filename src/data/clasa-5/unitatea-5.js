@@ -2083,14 +2083,16 @@ export const unitatea5 = {
           'Verifică, printr-o probă scrisă, nivelul de achiziție a competențelor vizate în Unitatea V.',
         ],
         resurse: [
-          'Testul tipărit, Manual Art 5, p. 166',
-          'Barem de corectare din Ghidul profesorului',
+          'Testul tipărit, varianta A: Manual Art 5, p. 166',
+          'Barem de corectare, varianta A: Ghidul profesorului',
+          'Testul tipărit, varianta B: text original, o pagină A4 (Drive, privat)',
+          'Barem de corectare, varianta B (Drive, privat)',
         ],
         desfasurare: [
           {
             etapa: 'Instructajul',
             timp: '5 min',
-            activitate: '– Distribui testele (fragment adaptat după „Lupul cel năzdrăvan și Făt-Frumos” de Petre Ispirescu) și foile de răspuns.\n– Citesc cerințele cu voce tare; structura: A, 60 de puncte (zece itemi a câte 6 puncte: numerale, scrierea lor cu litere, ordinale, un și o, înțelegerea textului, indici de timp și spațiu, miraculosul, o replică-promisiune); B, 30 de puncte (descrierea ființei fabuloase care fură merele de aur, 10-15 rânduri); 10 puncte din oficiu.\n– Recomand: circa 25 de minute pentru A, 15 minute pentru B, ultimele minute pentru recitire. Răspund doar la întrebări de înțelegere a cerințelor.',
+            activitate: '– Distribui testul, varianta A (manual, p. 166, fragment adaptat după „Lupul cel năzdrăvan și Făt-Frumos” de Petre Ispirescu) sau varianta B (foaia tipărită), și foile de răspuns.\n– Citesc cerințele cu voce tare; structura: A, 60 de puncte (zece itemi a câte 6 puncte: numerale, scrierea lor cu litere, ordinale, un și o, înțelegerea textului, indici de timp și spațiu, miraculosul, o replică-promisiune); B, 30 de puncte (descrierea ființei fabuloase care fură merele de aur, 10-15 rânduri); 10 puncte din oficiu.\n– Recomand: circa 25 de minute pentru A, 15 minute pentru B, ultimele minute pentru recitire. Răspund doar la întrebări de înțelegere a cerințelor.',
           },
           {
             etapa: 'Rezolvarea individuală',
@@ -2103,12 +2105,14 @@ export const unitatea5 = {
             activitate: '– Elevii își recitesc lucrarea (scrierea numeralelor, ortografia, paragrafele), apoi strâng foile.\n– Notez itemii care au ridicat cele mai multe întrebări, pentru corectare și pentru discuția de după.',
           },
         ],
-        evaluare: 'Evaluare sumativă scrisă, notată după baremul din Ghidul profesorului.',
+        evaluare: 'Evaluare sumativă scrisă, notată după baremul variantei date: varianta A, Ghidul profesorului; varianta B, baremul privat din Drive.',
       },
       materiale: {
         prezentare: null,
         video: null,
-        test: null,
+        test: {
+          linkDocument: 'https://docs.google.com/document/d/1j3CrgwAcYENE4HwTRg4A5uiGWA6KHhAbT3UROkkA5nA/edit',
+        },
         fisa: null,
         joc: null,
         infografic: null,

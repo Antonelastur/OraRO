@@ -2338,14 +2338,16 @@ export const unitatea4 = {
           'Verifică, printr-o probă scrisă, nivelul de achiziție a competențelor vizate în Unitatea IV.',
         ],
         resurse: [
-          'Testul tipărit, Manual Art 5, p. 138',
-          'Barem de corectare din Ghidul profesorului',
+          'Testul tipărit, varianta A: Manual Art 5, p. 138',
+          'Barem de corectare, varianta A: Ghidul profesorului',
+          'Testul tipărit, varianta B: text original, o pagină A4 (Drive, privat)',
+          'Barem de corectare, varianta B (Drive, privat)',
         ],
         desfasurare: [
           {
             etapa: 'Instructajul',
             timp: '5 min',
-            activitate: '– Distribui testele (fragmentul din „Metamorfozele” lui Ovidiu, în repovestirea lui Grigore Tănăsescu) și foile de răspuns.\n– Citesc cerințele cu voce tare; structura: A, 60 de puncte (zece itemi a câte 6 puncte: pronume, formula reverențioasă, adjective, grade de comparație, personajul, comparația, descrierea, semnificația); B, 30 de puncte (descrierea unui prieten, 10-15 rânduri); 10 puncte din oficiu.\n– Recomand: circa 25 de minute pentru A, 15 minute pentru B, ultimele minute pentru recitire. Răspund doar la întrebări de înțelegere a cerințelor.',
+            activitate: '– Distribui testul, varianta A (manual, p. 138, fragmentul din „Metamorfozele” lui Ovidiu, în repovestirea lui Grigore Tănăsescu) sau varianta B (foaia tipărită), și foile de răspuns.\n– Citesc cerințele cu voce tare; structura: A, 60 de puncte (zece itemi a câte 6 puncte: pronume, formula reverențioasă, adjective, grade de comparație, personajul, comparația, descrierea, semnificația); B, 30 de puncte (descrierea unui prieten, 10-15 rânduri); 10 puncte din oficiu.\n– Recomand: circa 25 de minute pentru A, 15 minute pentru B, ultimele minute pentru recitire. Răspund doar la întrebări de înțelegere a cerințelor.',
           },
           {
             etapa: 'Rezolvarea individuală',
@@ -2358,12 +2360,14 @@ export const unitatea4 = {
             activitate: '– Elevii își recitesc lucrarea (ortografie, punctuație, paragrafe), apoi strâng foile.\n– Notez itemii care au ridicat cele mai multe întrebări, pentru corectare și pentru discuția de după.',
           },
         ],
-        evaluare: 'Evaluare sumativă scrisă, notată după baremul din Ghidul profesorului.',
+        evaluare: 'Evaluare sumativă scrisă, notată după baremul variantei date: varianta A, Ghidul profesorului; varianta B, baremul privat din Drive.',
       },
       materiale: {
         prezentare: null,
         video: null,
-        test: null,
+        test: {
+          linkDocument: 'https://docs.google.com/document/d/15iRaFOkKdSgOi6_M-GHFoByVWFWCV7oL8EV3wHByp74/edit',
+        },
         fisa: null,
         joc: null,
         infografic: null,
