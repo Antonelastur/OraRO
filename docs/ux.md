@@ -103,7 +103,21 @@ obiectivele, conținuturile, activitățile, resursele, evaluarea.
 
 Buton: **START ORĂ**
 
+**Două ecrane, două calculatoare.** Profesoara lucrează pe laptopul ei, iar
+tabla electronică e alt calculator. Pe laptop: Ora de azi, planul de lecție din
+Bibliotecă (cu instrucțiunile), jurnalul și reflecția. Pe tablă: pagina lecției
+și cockpitul, adică doar ce trebuie să știe elevii. Cardul orei are trei butoane:
+„Deschide lecția", „Pornește ora" și „Planul meu".
+
 ## 5. Cockpitul orei
+
+**Ecranul elevilor.** Cockpitul se proiectează pe tablă și arată doar pașii,
+cronometrul, materialele (prezentare, video, fișe de lucru și de exerciții, joc,
+infografic, schemă) și tema pentru acasă, la pasul în care se dă. Instrucțiunile
+profesoarei din plan nu apar. Textul pentru fiecare pas se scrie în câmpul
+opțional `elevi` al etapei, cu adresare directă către elevi; fără el, tabla arată
+doar titlul etapei și cronometrul. Testul nu apare. Reflecția și jurnalul se
+completează pe laptop, din plan.
 
 După START ORĂ interfața intră într-un mod special care elimină elementele care
 distrag atenția.
@@ -161,6 +175,11 @@ Profesorul poate retrage ulterior accesul. Publicarea unei resurse nu modifică
 fișierul original.
 
 ## 8. Biblioteca inteligentă
+
+**Planuri de lecție.** Biblioteca are secțiunea „Planuri de lecție", pe clase și
+unități, cu căutare. Fiecare plan se deschide într-o pagină cu instrucțiunile,
+jurnalul orei, reflecția și testul privat, plus butoanele „Pornește ora" și „Vezi
+ce văd elevii".
 
 Căutare universală, un singur câmp: **Ce cauți?**
 

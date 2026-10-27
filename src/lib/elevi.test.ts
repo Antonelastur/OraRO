@@ -1,0 +1,79 @@
+import { describe, expect, it } from 'vitest'
+import { clase } from '@/data/clase.js'
+import { toateLectiile } from '@/lib/lectii'
+import { blocuriOra } from '@/lib/ora'
+import { MATERIALE_ELEVI, etapaTemei, materialeElevi, temaAcasa } from '@/lib/elevi'
+import type { Clase, Lectie } from '@/types'
+
+const lectie = (desfasurare: { etapa: string; timp: string; activitate: string; elevi?: string }[], materiale = {}): Lectie =>
+  ({
+    id: 'l', titlu: 'T', obiective: [], sursaManual: '', rezolvareGhid: null,
+    planLectie: { titlu: 'T', data: null, tipOra: '', durata: 50, obiective: [], resurse: [], desfasurare, evaluare: '' },
+    materiale: { prezentare: null, video: null, test: null, fisa: null, joc: null, infografic: null, schema: null, altele: [], ...materiale },
+  }) as Lectie
+
+describe('tema pentru acasă', () => {
+  const l = lectie([
+    { etapa: 'Aplicații', timp: '5 min', activitate: '– Ex. 1 la tablă.' },
+    { etapa: 'Temă', timp: '5 min', activitate: '– Tema: „Aplicații”, ex. 2 și 5; fișa de exerciții, pagina 2.\n– Verific caietele mâine.' },
+  ])
+
+  it('ia doar linia „Tema:”, fără prefix, și nu duce cu ea vocea profesorului', () => {
+    expect(temaAcasa(l)).toEqual(['„Aplicații”, ex. 2 și 5; fișa de exerciții, pagina 2.'])
+  })
+
+  it('începe cu majusculă', () => {
+    expect(temaAcasa(lectie([{ etapa: 'Temă', timp: '3 min', activitate: '– Tema: recitirea fragmentului.' }]))).toEqual([
+      'Recitirea fragmentului.',
+    ])
+  })
+
+  it('arată etapa în care se dă tema', () => {
+    expect(etapaTemei(l)).toBe(1)
+  })
+
+  it('fără temă în plan nu inventează una', () => {
+    const fara = lectie([{ etapa: 'Evaluare', timp: '45 min', activitate: '– Elevii rezolvă testul.' }])
+    expect(temaAcasa(fara)).toEqual([])
+    expect(etapaTemei(fara)).toBe(-1)
+    expect(temaAcasa({ ...fara, planLectie: null })).toEqual([])
+  })
+})
+
+describe('materialele elevilor', () => {
+  it('nu includ testul, cu linkul lui privat', () => {
+    expect(MATERIALE_ELEVI).not.toContain('test')
+    const l = lectie([], { test: { linkDocument: 'https://docs.google.com/x' }, joc: { titlu: 'J', fisier: 'j.pdf' } })
+    expect(materialeElevi(l)).toEqual(['joc'])
+  })
+})
+
+describe('etapa pentru elevi', () => {
+  it('textul pentru elevi vine din câmpul lor, nu din instrucțiunile profesorului', () => {
+    const l = lectie([
+      { etapa: 'Captarea atenției', timp: '5 min', activitate: '– Descriu eu o casă.', elevi: ' Ascultați și desenați casa. ' },
+      { etapa: 'Lectura', timp: '5 min', activitate: '– Citesc cu voce tare.' },
+    ])
+    const blocuri = blocuriOra(l)
+    expect(blocuri[0].elevi).toBe('Ascultați și desenați casa.')
+    expect(blocuri[1].elevi).toBe('')
+    expect(JSON.stringify(blocuri)).not.toContain('Descriu eu')
+  })
+})
+
+describe('pe datele reale', () => {
+  const toate = toateLectiile(clase as unknown as Clase)
+
+  it('aproape fiecare lecție cu plan are tema scoasă din plan', () => {
+    const cuPlan = toate.filter((x) => x.lectie.planLectie?.desfasurare?.length)
+    const cuTema = cuPlan.filter((x) => temaAcasa(x.lectie).length > 0)
+    expect(cuPlan.length).toBeGreaterThan(400)
+    expect(cuTema.length).toBeGreaterThan(cuPlan.length * 0.9)
+  })
+
+  it('nicio temă nu începe cu liniuță sau cu „Tema:”', () => {
+    for (const { lectie: l } of toate) {
+      for (const linie of temaAcasa(l)) expect(linie).toMatch(/^[^\s–:-]/)
+    }
+  })
+})

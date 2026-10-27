@@ -141,6 +141,13 @@ bundle, vizibile pe pagina lecției sub eticheta discretă „Doar profesor". De
 asumată de Antoanela: structura de bază a unui plan de lecție e un model didactic
 standard, nu conținut sensibil, deci nu are nevoie de protecție.
 
+**Actualizare 2026-10-27.** Planul nu mai apare pe pagina lecției. Stă în
+Bibliotecă, la „Planuri de lecție", și se deschide pe laptopul profesoarei, care
+nu e legat la tablă. Pagina lecției și cockpitul sunt ecranul elevilor, deschis
+pe tablă (alt calculator): fără plan, jurnal, test privat, notă sau reflecție.
+E o separare de afișare, nu de acces: datele rămân în același bundle, iar decizia
+de mai sus rămâne valabilă.
+
 Distincția care rămâne valabilă: planurile generice se publică; notițele
 personale despre clase, reflecțiile după oră, baremurile și datele elevilor nu se
 publică niciodată din bundle.

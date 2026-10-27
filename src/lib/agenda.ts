@@ -111,6 +111,13 @@ export function caleLectie(ora: OraProgramata): string | null {
   return `/${clasaId}/${unitateId}/${lectieId}`
 }
 
+/** Ruta planului lecției, în Bibliotecă: pentru laptopul profesoarei, nu pentru tablă. */
+export function calePlan(ora: OraProgramata): string | null {
+  if (!ora.lectie) return null
+  const { clasaId, unitateId, lectieId } = ora.lectie
+  return `/biblioteca/plan/${clasaId}/${unitateId}/${lectieId}`
+}
+
 export function numeZiDinData(data: string): string {
   const zi = new Date(`${data}T00:00:00Z`).getUTCDay()
   return NUME_ZILE[(zi + 6) % 7]

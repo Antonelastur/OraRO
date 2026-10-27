@@ -1023,31 +1023,37 @@ export const unitatea3 = {
             etapa: 'Captarea atenției',
             timp: '5 min',
             activitate: '– „Pentru început”, ex. 1, variantă rapidă: descriu eu o casă (pereți galbeni, două ferestre pătrate, o ușă mare, un acoperiș țuguiat, un horn înalt), elevii o schițează în 2 minute și numesc părțile ei.',
+            elevi: 'Ascultați descrierea unei case și schițați-o în 2 minute. Apoi spuneți cum se numesc părțile ei.',
           },
           {
             etapa: 'Istoria cuvântului „casă”',
             timp: '2 min',
             activitate: '– Ex. 2: casă, din latinescul casa („colibă”); o propoziție în care casă înseamnă „familie”.',
+            elevi: 'Cuvântul casă vine din latinescul casa, care însemna „colibă”.\nAlcătuiți o propoziție în care casă înseamnă „familie”.',
           },
           {
             etapa: 'Dirijarea învățării: substantivul comun și propriu',
             timp: '12 min',
             activitate: '– „Explorare”, ex. 1: ce denumesc substantivele din propoziții (ființe, lucruri, fenomene, însușiri, acțiuni, stări).\n– Ex. 2, joc pe grupe de șase, 5 minute: fișa cu străzi, orașe, țări, prenume, nume de animale, sărbători; câștigă grupa cu cele mai multe substantive corecte.\n– Ex. 3: Bușteni și Creangă, nume proprii venite din substantive comune.\n– În caiete, după Repere: substantivul; comun și propriu; scrierea cu literă mare.',
+            elevi: 'Ce denumesc substantivele? Ființe, lucruri, fenomene, însușiri, acțiuni, stări.\nJoc pe grupe, 5 minute: pe fișă, scrieți cât mai multe substantive corecte (străzi, orașe, țări, prenume, nume de animale, sărbători). Câștigă grupa cu cele mai multe.\nDe ce sunt nume proprii Bușteni și Creangă, deși vin din substantive comune?\nÎn caiet: substantivul; comun și propriu; scrierea cu literă mare.',
           },
           {
             etapa: 'Dirijarea învățării: genul și numărul',
             timp: '7 min',
             activitate: '– „Explorare”, ex. 1-3: genul (proba un-doi, o-două, un-două); numărul; desinențele de plural.\n– În caiete: cele trei genuri, cu probe și exemple; numerele; desinența.',
+            elevi: 'Aflați genul unui substantiv cu proba un-doi, o-două, un-două.\nObservați numărul și desinențele de plural.\nÎn caiet: cele trei genuri, cu probe și exemple; numerele; desinența.',
           },
           {
             etapa: 'Aplicații frontale',
             timp: '6 min',
             activitate: '– „Aplicații”, ex. 1 (cuvintele care nu sunt substantive, joc), ex. 4 (genul) și ex. 6 (pluralul, cu desinențele subliniate), la tablă.',
+            elevi: 'La tablă: ex. 1 (cuvintele care nu sunt substantive), ex. 4 (genul) și ex. 6 (pluralul, cu desinențele subliniate).',
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
             timp: '13 min',
             activitate: '– Pagina 1: ex. 1 (ce denumește?), ex. 2 (genul și pluralul) și ex. 3 (literă mare sau mică?), individual, 9 minute.\n– Verificare, 4 minute.',
+            elevi: 'Rezolvați individual, 9 minute, pagina 1 din fișa de exerciții: ex. 1 (ce denumește?), ex. 2 (genul și pluralul), ex. 3 (literă mare sau mică?).\nApoi verificăm împreună, 4 minute.',
           },
           {
             etapa: 'Temă',

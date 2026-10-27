@@ -2,8 +2,8 @@
 // dashboardul, ca ora să arate la fel oriunde apare.
 import { Link } from 'react-router-dom'
 import { motion } from 'motion/react'
-import { Check, CirclePlay, Clock } from 'lucide-react'
-import { caleLectie } from '@/lib/agenda'
+import { Check, CirclePlay, Clock, FileText } from 'lucide-react'
+import { caleLectie, calePlan } from '@/lib/agenda'
 import { intrare } from '@/lib/animatii'
 import { NUME_DISCIPLINE } from '@/lib/orar'
 import type { OraProgramata } from '@/lib/program'
@@ -51,6 +51,13 @@ export function CardOra({ ora, eticheta }: { ora: OraProgramata; eticheta?: stri
             >
               <CirclePlay className="h-4 w-4" />
               Pornește ora
+            </Link>
+            <Link
+              to={calePlan(ora)!}
+              className="inline-flex items-center gap-2 rounded-xl border border-border bg-bg-alt px-4 py-2.5 text-sm font-semibold text-ink transition-transform hover:-translate-y-0.5"
+            >
+              <FileText className="h-4 w-4" />
+              Planul meu
             </Link>
           </div>
         </>

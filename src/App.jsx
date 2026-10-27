@@ -4,6 +4,7 @@ import DashboardPage from './pages/DashboardPage.tsx'
 import OraDeAziPage from './pages/OraDeAziPage.tsx'
 import ClasePage from './pages/ClasePage.tsx'
 import BibliotecaPage from './pages/BibliotecaPage.tsx'
+import PlanLectiePage from './pages/PlanLectiePage.tsx'
 import SetariPage from './pages/SetariPage.tsx'
 import ClasaPage from './pages/ClasaPage.jsx'
 import UnitatePage from './pages/UnitatePage.jsx'
@@ -21,6 +22,7 @@ function App() {
           <Route path="/ora-de-azi" element={<OraDeAziPage />} />
           <Route path="/clase" element={<ClasePage />} />
           <Route path="/biblioteca" element={<BibliotecaPage />} />
+          <Route path="/biblioteca/plan/:clasa/:unitate/:lectie" element={<PlanLectiePage />} />
           <Route path="/setari" element={<SetariPage />} />
           <Route path="/instrumente" element={<InstrumentePage />} />
           <Route path="/instrumente/:instrument" element={<InstrumentPage />} />
