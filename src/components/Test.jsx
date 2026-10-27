@@ -1,4 +1,4 @@
-import { ClipboardCheck, ArrowUpRight, Download } from 'lucide-react'
+import { ClipboardCheck, ArrowUpRight, Download, Lock } from 'lucide-react'
 import { MaterialCard } from './MaterialCard.tsx'
 import { caleMaterial } from '../lib/utils.ts'
 
@@ -7,13 +7,16 @@ import { caleMaterial } from '../lib/utils.ts'
 // la latitudinea profesoarei, nu se generează aici.
 // Opțional, testul poate avea mai multe niveluri de dificultate
 // (fiecare cu link propriu) și o rubrică/descriptori de evaluare.
+// linkDocument duce la un document privat din Google Drive: în bundle ajunge
+// doar adresa, conținutul îl deschide numai contul profesoarei.
 function Test({ test }) {
   const areNiveluri = test?.niveluri?.length > 0
   const areLink = Boolean(test?.linkGoogleForms)
   const areRubrica = Boolean(test?.rubrica)
   const arePrintabil = Boolean(test?.fisierPrintabil)
+  const areDocument = Boolean(test?.linkDocument)
 
-  if (!areNiveluri && !areLink && !areRubrica && !arePrintabil) return null
+  if (!areNiveluri && !areLink && !areRubrica && !arePrintabil && !areDocument) return null
 
   return (
     <MaterialCard tip="test" titlu="Test" Icon={ClipboardCheck}>
@@ -26,6 +29,19 @@ function Test({ test }) {
             rel="noreferrer"
           >
             Deschide testul
+            <ArrowUpRight className="h-3.5 w-3.5" />
+          </a>
+        )}
+
+        {areDocument && (
+          <a
+            className="inline-flex items-center gap-1 text-sm font-medium text-[var(--card-ink)] hover:underline"
+            href={test.linkDocument}
+            target="_blank"
+            rel="noreferrer"
+          >
+            <Lock className="h-3.5 w-3.5" aria-hidden="true" />
+            Deschide testul (Drive, privat)
             <ArrowUpRight className="h-3.5 w-3.5" />
           </a>
         )}
