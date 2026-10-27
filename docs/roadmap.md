@@ -42,8 +42,8 @@ Prioritate maximă.
 | Unități de învățare | Există | `UnitatePage`, cu lecțiile parcurse marcate |
 | Lecții | Există | `LectiePage`, `ClasaPage`, cu jurnalul orei pe pagina lecției |
 | Lecții modulare | **Nu există** | Blocurile există ca date la toate clasele, editarea nu |
-| Cockpitul orei | Există | `CockpitPage`, pornește din `planLectie.desfasurare` |
-| Timer | Există | Cronometru pe fiecare etapă, cu depășire marcată |
+| Cockpitul orei | Există | `CockpitPage`, pornește din `planLectie.desfasurare`; timp rămas din plan și ora estimată de final, mărime reglabilă a textului, ecran complet pentru proiector, notă rapidă care ajunge în notițele reflecției |
+| Timer | Există | Cronometru pe ceasul real, pe fiecare etapă, cu depășire marcată și semnal sonor la final; pasul, timpul și nota rapidă se păstrează la reîncărcare (`localStorage`, 6 ore), logica în `src/lib/cockpit.ts` |
 | Navigarea între blocuri | Există | Butoane, săgeți, lista etapelor din lateral |
 | Marcarea lecției ca parcursă | Există | Din cockpit („Închide ora”, „Încheie ora”) sau din pagina lecției; `localStorage`, un singur browser |
 | Reflecția după oră | Există | Câmpurile din `docs/ux.md` §14, `src/lib/jurnal.ts`; `localStorage`, date private |
