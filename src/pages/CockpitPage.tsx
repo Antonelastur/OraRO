@@ -1,15 +1,52 @@
 // Cockpitul orei. Mod special, fără sidebar și fără antet: profesorul îl
 // proiectează în clasă. Vezi docs/ux.md, secțiunile 5 și 14.
-import { useCallback, useEffect, useMemo, useState } from 'react'
+//
+// Cronometrul merge pe ceasul real, iar pasul, timpul și nota rapidă se
+// păstrează dacă pagina se reîncarcă în timpul orei. Logica e în src/lib/cockpit.ts.
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { Link, useNavigate, useParams } from 'react-router-dom'
-import { Check, ChevronLeft, ChevronRight, Pause, Play, RotateCcw, X } from 'lucide-react'
+import {
+  Check, ChevronLeft, ChevronRight, Maximize, Minimize, Pause, Pencil, Play, RotateCcw, Volume2, VolumeX, X,
+} from 'lucide-react'
 import { clase } from '../data/clase.js'
 import { blocuriOra, durataTotala, formateazaCeas } from '@/lib/ora'
+import {
+  citeste, esteNeatinsa, liniiInstructiuni, mutaLa, opreste, porneste, reseteazaPas, salveaza,
+  secundePlanRamase, secundeRamase, semnalSonor, stareInitiala, sterge, type StareCockpit,
+} from '@/lib/cockpit'
 import { cheieLectie, reflectieGoala, useGrupa, useJurnal } from '@/lib/jurnal'
 import { ReflectieOra } from '@/components/ReflectieOra'
 import type { Clase } from '@/types'
 
 const CLASE = clase as unknown as Clase
+
+// Mărimea textului instrucțiunilor. Implicit 1, pentru proiector.
+const SCARI_TEXT = [0.85, 1, 1.3, 1.7]
+const CHEIE_TEXT = 'oraro:cockpit-text'
+const CHEIE_SUNET = 'oraro:cockpit-sunet'
+
+function citesteSetare(cheie: string): string | null {
+  try {
+    return localStorage.getItem(cheie)
+  } catch {
+    return null
+  }
+}
+
+function scrieSetare(cheie: string, valoare: string) {
+  try {
+    localStorage.setItem(cheie, valoare)
+  } catch {
+    // Setarea ține până la reîncărcare.
+  }
+}
+
+function ceasul(ms: number): string {
+  return new Date(ms).toLocaleTimeString('ro-RO', { hour: '2-digit', minute: '2-digit' })
+}
+
+const butonMic =
+  'inline-flex items-center gap-1.5 rounded-lg border border-border px-3 py-2 text-sm font-medium text-ink-soft hover:bg-ink/5 disabled:opacity-40'
 
 export function CockpitPage() {
   const { clasa, unitate, lectie } = useParams()
@@ -19,37 +56,98 @@ export function CockpitPage() {
   const dateLectie = dateUnitate?.lectii.find((l) => l.id === lectie)
 
   const blocuri = useMemo(() => (dateLectie ? blocuriOra(dateLectie) : []), [dateLectie])
-  const { jurnal, salveaza } = useJurnal()
+  const { jurnal, salveaza: salveazaJurnal } = useJurnal()
 
-  const [pas, setPas] = useState(0)
-  const [ramas, setRamas] = useState(0)
-  const [merge, setMerge] = useState(false)
-  const [inchidere, setInchidere] = useState(false)
-
-  const blocCurent = blocuri[pas]
   const caleLectie = `/${clasa}/${unitate}/${lectie}`
   const [grupa] = useGrupa(clasa!)
   const cheie = cheieLectie(grupa, clasa!, unitate!, lectie!)
-  const ultimulPas = pas === blocuri.length - 1
 
-  // La schimbarea pasului, cronometrul se reîncarcă cu durata blocului și se oprește.
-  useEffect(() => {
-    if (!blocCurent) return
-    setRamas(blocCurent.secunde)
-    setMerge(false)
-  }, [blocCurent])
+  // Ora întreruptă (reîncărcare, filă închisă din greșeală) se reia de unde a rămas.
+  const [reluata] = useState(() => (blocuri.length ? citeste(cheie, Date.now(), blocuri) : null))
+  const [stare, setStare] = useState<StareCockpit>(() => reluata ?? stareInitiala(blocuri))
+  const [anuntReluare, setAnuntReluare] = useState(() => Boolean(reluata && !esteNeatinsa(reluata, blocuri)))
+  const [acum, setAcum] = useState(() => Date.now())
+  const [inchidere, setInchidere] = useState(false)
+  const [notaDeschisa, setNotaDeschisa] = useState(() => Boolean(reluata?.nota))
+  const [scaraText, setScaraText] = useState(() => {
+    const brut = citesteSetare(CHEIE_TEXT)
+    const salvat = brut === null ? NaN : Number(brut)
+    return Number.isInteger(salvat) && salvat >= 0 && salvat < SCARI_TEXT.length ? salvat : 1
+  })
+  const [sunet, setSunet] = useState(() => citesteSetare(CHEIE_SUNET) !== '0')
+  const [ecranComplet, setEcranComplet] = useState(false)
 
+  const merge = stare.scadenta !== null
+  const blocCurent = blocuri[stare.pas]
+  const ramas = secundeRamase(stare, acum)
+  const ultimulPas = stare.pas === blocuri.length - 1
+
+  // Ceasul interfeței: des cât merge cronometrul, rar altfel (pentru ora estimată de final).
   useEffect(() => {
-    if (!merge) return
-    const id = setInterval(() => setRamas((r) => r - 1), 1000)
-    return () => clearInterval(id)
+    const actualizeaza = () => setAcum(Date.now())
+    actualizeaza()
+    const id = setInterval(actualizeaza, merge ? 250 : 1000)
+    document.addEventListener('visibilitychange', actualizeaza)
+    return () => {
+      clearInterval(id)
+      document.removeEventListener('visibilitychange', actualizeaza)
+    }
   }, [merge])
 
-  const inainte = useCallback(() => setPas((p) => Math.min(p + 1, blocuri.length - 1)), [blocuri.length])
-  const inapoi = useCallback(() => setPas((p) => Math.max(p - 1, 0)), [])
+  // Starea se păstrează la fiecare schimbare; o oră neatinsă nu lasă nimic în urmă.
+  useEffect(() => {
+    if (blocuri.length === 0) return
+    if (esteNeatinsa(stare, blocuri)) sterge(cheie)
+    else salveaza(cheie, stare)
+  }, [stare, blocuri, cheie])
+
+  // Semnal la expirarea etapei, o singură dată pe etapă. Etapele fără durată în plan nu sună.
+  const anuntat = useRef(ramas <= 0)
+  useEffect(() => {
+    if (ramas > 0) {
+      anuntat.current = false
+    } else if (merge && !anuntat.current && (blocCurent?.minute ?? 0) > 0) {
+      anuntat.current = true
+      if (sunet) semnalSonor()
+    }
+  }, [ramas, merge, sunet, blocCurent])
+
+  useEffect(() => {
+    const laSchimbare = () => setEcranComplet(Boolean(document.fullscreenElement))
+    document.addEventListener('fullscreenchange', laSchimbare)
+    return () => document.removeEventListener('fullscreenchange', laSchimbare)
+  }, [])
+
+  const comutaCronometru = useCallback(
+    () => setStare((s) => (s.scadenta === null ? porneste(s, Date.now()) : opreste(s, Date.now()))),
+    [],
+  )
+  const inainte = useCallback(() => setStare((s) => mutaLa(s, s.pas + 1, blocuri)), [blocuri])
+  const inapoi = useCallback(() => setStare((s) => mutaLa(s, s.pas - 1, blocuri)), [blocuri])
+  const laPas = useCallback((pas: number) => setStare((s) => mutaLa(s, pas, blocuri)), [blocuri])
   const incheie = useCallback(() => {
-    setMerge(false)
+    setStare((s) => opreste(s, Date.now()))
     setInchidere(true)
+  }, [])
+
+  const comutaEcranComplet = useCallback(() => {
+    if (document.fullscreenElement) void document.exitFullscreen?.()
+    else void document.documentElement.requestFullscreen?.().catch(() => {})
+  }, [])
+
+  const schimbaText = useCallback((delta: number) => {
+    setScaraText((s) => {
+      const nou = Math.min(Math.max(s + delta, 0), SCARI_TEXT.length - 1)
+      scrieSetare(CHEIE_TEXT, String(nou))
+      return nou
+    })
+  }, [])
+
+  const comutaSunet = useCallback(() => {
+    setSunet((s) => {
+      scrieSetare(CHEIE_SUNET, s ? '0' : '1')
+      return !s
+    })
   }, [])
 
   useEffect(() => {
@@ -58,18 +156,25 @@ export function CockpitPage() {
     function laTasta(e: KeyboardEvent) {
       const tinta = e.target as HTMLElement | null
       if (tinta && ['INPUT', 'TEXTAREA'].includes(tinta.tagName)) return
+      if (e.ctrlKey || e.metaKey || e.altKey) return
       if (e.code === 'Space') {
         e.preventDefault()
-        setMerge((m) => !m)
+        comutaCronometru()
       } else if (e.key === 'ArrowRight') {
         inainte()
       } else if (e.key === 'ArrowLeft') {
         inapoi()
+      } else if (e.key === 'f' || e.key === 'F') {
+        comutaEcranComplet()
+      } else if (e.key === '+' || e.key === '=') {
+        schimbaText(1)
+      } else if (e.key === '-') {
+        schimbaText(-1)
       }
     }
     window.addEventListener('keydown', laTasta)
     return () => window.removeEventListener('keydown', laTasta)
-  }, [inainte, inapoi, inchidere])
+  }, [inainte, inapoi, inchidere, comutaCronometru, comutaEcranComplet, schimbaText])
 
   if (!dateClasa || !dateUnitate || !dateLectie) {
     return (
@@ -97,6 +202,8 @@ export function CockpitPage() {
 
   // Închiderea orei: marcarea ca parcursă și reflecția, docs/ux.md, secțiunea 14.
   if (inchidere) {
+    const salvata = jurnal[cheie]?.reflectie ?? reflectieGoala
+    const initial = { ...salvata, notite: [salvata.notite, stare.nota].filter(Boolean).join('\n') }
     return (
       <div className="min-h-svh bg-bg px-6 py-10 text-ink lg:px-12">
         <div className="mx-auto max-w-2xl">
@@ -106,11 +213,15 @@ export function CockpitPage() {
             Lecția se marchează ca parcursă azi. Câmpurile sunt opționale și se salvează doar pe acest calculator; le poți
             completa și mai târziu, din pagina lecției.
           </p>
+          {stare.nota && (
+            <p className="mt-2 text-sm text-ink-soft">Nota rapidă din timpul orei a fost adăugată la notițe.</p>
+          )}
           <div className="mt-8">
             <ReflectieOra
-              initial={jurnal[cheie]?.reflectie ?? reflectieGoala}
+              initial={initial}
               onSalveaza={(r) => {
-                salveaza(cheie, r, new Date().toISOString())
+                salveazaJurnal(cheie, r, new Date().toISOString())
+                sterge(cheie)
                 navigate(caleLectie)
               }}
             >
@@ -140,57 +251,160 @@ export function CockpitPage() {
 
   const total = durataTotala(blocuri)
   const depasit = ramas < 0
+  const expirat = ramas <= 0 && blocCurent.minute > 0
+  const restPlan = secundePlanRamase(blocuri, stare.pas, ramas)
+  const scara = SCARI_TEXT[scaraText]
+  const linii = liniiInstructiuni(blocCurent.instructiuni)
 
   return (
     <div className="flex min-h-svh flex-col bg-bg text-ink">
-      {/* Antet minim: cine, unde, ieșire. */}
-      <header className="flex items-center justify-between gap-4 border-b border-border px-5 py-3 lg:px-8">
+      {/* Antet minim: cine, cât a mai rămas, comenzile de proiecție, ieșire. */}
+      <header className="flex flex-wrap items-center justify-between gap-x-6 gap-y-3 border-b border-border px-5 py-3 lg:px-8">
         <div className="min-w-0">
           <p className="truncate text-sm font-semibold text-ink lg:text-base">{dateLectie.titlu}</p>
-          <p className="truncate text-xs text-ink-soft">
+          <p className="truncate text-xs text-ink-soft lg:text-sm">
             {dateClasa.titlu} · {dateUnitate.titlu} · {total} min
           </p>
         </div>
-        <button
-          type="button"
-          onClick={incheie}
-          className="inline-flex shrink-0 items-center gap-1.5 rounded-lg border border-border px-3 py-2 text-sm font-medium text-ink-soft hover:bg-ink/5"
-        >
-          <X className="h-4 w-4" aria-hidden="true" />
-          Închide ora
-        </button>
+
+        <p className="text-sm tabular-nums text-ink lg:text-base" aria-label="Timp rămas din plan">
+          <span className="font-semibold">Mai ai în plan {Math.ceil(restPlan / 60)} min</span>
+          <span className="text-ink-soft"> · gata la {ceasul(acum + restPlan * 1000)}</span>
+        </p>
+
+        <div className="flex flex-wrap items-center gap-2">
+          <button
+            type="button"
+            onClick={() => schimbaText(-1)}
+            disabled={scaraText === 0}
+            aria-label="Micșorează textul"
+            className={butonMic}
+          >
+            A−
+          </button>
+          <button
+            type="button"
+            onClick={() => schimbaText(1)}
+            disabled={scaraText === SCARI_TEXT.length - 1}
+            aria-label="Mărește textul"
+            className={butonMic}
+          >
+            A+
+          </button>
+          <button
+            type="button"
+            onClick={comutaSunet}
+            aria-pressed={sunet}
+            aria-label={sunet ? 'Oprește sunetul de final' : 'Pornește sunetul de final'}
+            className={butonMic}
+          >
+            {sunet ? <Volume2 className="h-4 w-4" aria-hidden="true" /> : <VolumeX className="h-4 w-4" aria-hidden="true" />}
+          </button>
+          {typeof document !== 'undefined' && document.fullscreenEnabled && (
+            <button type="button" onClick={comutaEcranComplet} className={butonMic}>
+              {ecranComplet ? (
+                <Minimize className="h-4 w-4" aria-hidden="true" />
+              ) : (
+                <Maximize className="h-4 w-4" aria-hidden="true" />
+              )}
+              {ecranComplet ? 'Ieși din ecran complet' : 'Ecran complet'}
+            </button>
+          )}
+          <button type="button" onClick={incheie} className={butonMic}>
+            <X className="h-4 w-4" aria-hidden="true" />
+            Închide ora
+          </button>
+        </div>
       </header>
+
+      {anuntReluare && (
+        <div
+          role="status"
+          className="flex flex-wrap items-center gap-3 border-b border-border bg-gold-soft px-5 py-2.5 text-sm text-ink lg:px-8"
+        >
+          <span>
+            Am reluat ora de unde ai rămas: pasul {stare.pas + 1}/{blocuri.length}.
+          </span>
+          <button
+            type="button"
+            onClick={() => {
+              setStare(stareInitiala(blocuri))
+              setNotaDeschisa(false)
+              setAnuntReluare(false)
+            }}
+            className="rounded-lg border border-border bg-bg-alt px-3 py-1.5 font-medium hover:bg-ink/5"
+          >
+            Începe de la capăt
+          </button>
+          <button type="button" onClick={() => setAnuntReluare(false)} className="text-ink-soft underline hover:text-ink">
+            Continuă
+          </button>
+        </div>
+      )}
 
       <div className="flex flex-1 flex-col lg:flex-row">
         {/* Zona principală, lizibilă de la distanță. */}
-        <main className="flex flex-1 flex-col justify-center px-6 py-8 lg:px-12">
-          <p className="text-sm font-semibold uppercase tracking-wide text-accent-ink lg:text-base">
-            Pasul {pas + 1}/{blocuri.length} · {blocCurent.titlu}
+        <main
+          className={`flex flex-1 flex-col justify-center px-6 py-8 lg:px-12 ${expirat && merge ? 'bg-bad-soft' : ''}`}
+        >
+          <p className="text-base font-semibold uppercase tracking-wide text-accent-ink lg:text-lg">
+            Pasul {stare.pas + 1}/{blocuri.length} · {blocCurent.titlu}
           </p>
 
           <p
             className={`mt-4 font-bold tabular-nums leading-none ${depasit ? 'text-bad' : 'text-ink'}`}
-            style={{ fontSize: 'clamp(3.5rem, 11vw, 8rem)' }}
+            style={{ fontSize: 'clamp(4rem, min(13vw, 22vh), 10rem)' }}
             aria-live="off"
           >
             {formateazaCeas(ramas)}
           </p>
-          <p className="mt-1 text-sm text-ink-soft">
-            {depasit ? `Ai depășit cele ${blocCurent.minute} minute alocate` : `din ${blocCurent.minute} min alocate`}
+          <p className={`mt-2 text-base lg:text-lg ${expirat ? 'font-semibold text-bad' : 'text-ink-soft'}`}>
+            {blocCurent.minute === 0
+              ? 'Etapa nu are durată stabilită în plan'
+              : expirat
+                ? depasit
+                  ? `Timpul etapei a trecut (${blocCurent.minute} min alocate)`
+                  : 'Timpul etapei s-a încheiat'
+                : `din ${blocCurent.minute} min alocate`}
           </p>
 
-          <p
-            className="mt-8 max-w-3xl whitespace-pre-line text-ink"
-            style={{ fontSize: 'clamp(1rem, 1.7vw, 1.375rem)', lineHeight: 1.45 }}
+          <div
+            className="mt-8 max-w-5xl text-ink"
+            style={{ fontSize: `calc(clamp(1.25rem, 2.3vw, 2rem) * ${scara})`, lineHeight: 1.4 }}
           >
-            {blocCurent.instructiuni}
-          </p>
+            {linii.some((l) => l.item) ? (
+              <ul className="flex flex-col gap-[0.6em]">
+                {linii.map((linie, i) =>
+                  linie.item ? (
+                    <li key={i} className="flex gap-[0.6em]">
+                      <span aria-hidden="true" className="select-none text-accent-ink">
+                        •
+                      </span>
+                      <span>{linie.text}</span>
+                    </li>
+                  ) : (
+                    <li key={i} className="font-semibold list-none">
+                      {linie.text}
+                    </li>
+                  ),
+                )}
+              </ul>
+            ) : (
+              linii.map((linie, i) => (
+                <p key={i} className="mb-[0.6em]">
+                  {linie.text}
+                </p>
+              ))
+            )}
+          </div>
 
-          <div className="mt-10 flex flex-wrap items-center gap-3">
+          {/* Comenzile rămân la vedere chiar când textul e mare și pagina derulează. */}
+          <div className="sticky bottom-0 -mx-6 mt-8 border-t border-border bg-bg px-6 py-4 lg:-mx-12 lg:px-12">
+          <div className="flex flex-wrap items-center gap-3">
             <button
               type="button"
-              onClick={() => setMerge((m) => !m)}
-              className="inline-flex items-center gap-2 rounded-xl bg-accent px-6 py-3.5 text-base font-semibold text-navy hover:brightness-105"
+              onClick={comutaCronometru}
+              className="inline-flex items-center gap-2 rounded-xl bg-accent px-7 py-4 text-lg font-semibold text-navy hover:brightness-105"
             >
               {merge ? <Pause className="h-5 w-5" aria-hidden="true" /> : <Play className="h-5 w-5" aria-hidden="true" />}
               {merge ? 'Pauză' : 'Pornește cronometrul'}
@@ -198,23 +412,30 @@ export function CockpitPage() {
 
             <button
               type="button"
-              onClick={() => {
-                setRamas(blocCurent.secunde)
-                setMerge(false)
-              }}
-              className="inline-flex items-center gap-2 rounded-xl border border-border px-4 py-3.5 text-sm font-medium text-ink-soft hover:bg-ink/5"
+              onClick={() => setStare((s) => reseteazaPas(s, blocuri))}
+              className="inline-flex items-center gap-2 rounded-xl border border-border px-4 py-4 text-sm font-medium text-ink-soft hover:bg-ink/5"
               aria-label="Resetează cronometrul"
             >
               <RotateCcw className="h-4 w-4" aria-hidden="true" />
               Resetează
             </button>
 
+            <button
+              type="button"
+              onClick={() => setNotaDeschisa((d) => !d)}
+              aria-expanded={notaDeschisa}
+              className="inline-flex items-center gap-2 rounded-xl border border-border px-4 py-4 text-sm font-medium text-ink-soft hover:bg-ink/5"
+            >
+              <Pencil className="h-4 w-4" aria-hidden="true" />
+              Notă rapidă
+            </button>
+
             <div className="ml-auto flex items-center gap-2">
               <button
                 type="button"
                 onClick={inapoi}
-                disabled={pas === 0}
-                className="inline-flex items-center gap-1.5 rounded-xl border border-border px-4 py-3.5 text-sm font-medium text-ink-soft hover:bg-ink/5 disabled:opacity-40"
+                disabled={stare.pas === 0}
+                className="inline-flex items-center gap-1.5 rounded-xl border border-border px-4 py-4 text-sm font-medium text-ink-soft hover:bg-ink/5 disabled:opacity-40"
               >
                 <ChevronLeft className="h-4 w-4" aria-hidden="true" />
                 Înapoi
@@ -223,47 +444,62 @@ export function CockpitPage() {
                 <button
                   type="button"
                   onClick={incheie}
-                  className="inline-flex items-center gap-1.5 rounded-xl border border-accent bg-accent-soft px-5 py-3.5 text-sm font-semibold text-accent-ink hover:brightness-105"
+                  className="inline-flex items-center gap-1.5 rounded-xl border border-accent bg-accent-soft px-6 py-4 text-base font-semibold text-accent-ink hover:brightness-105"
                 >
-                  <Check className="h-4 w-4" aria-hidden="true" />
+                  <Check className="h-5 w-5" aria-hidden="true" />
                   Încheie ora
                 </button>
               ) : (
                 <button
                   type="button"
                   onClick={inainte}
-                  className="inline-flex items-center gap-1.5 rounded-xl border border-accent bg-accent-soft px-5 py-3.5 text-sm font-semibold text-accent-ink hover:brightness-105"
+                  className="inline-flex items-center gap-1.5 rounded-xl border border-accent bg-accent-soft px-6 py-4 text-base font-semibold text-accent-ink hover:brightness-105"
                 >
                   Următorul pas
-                  <ChevronRight className="h-4 w-4" aria-hidden="true" />
+                  <ChevronRight className="h-5 w-5" aria-hidden="true" />
                 </button>
               )}
             </div>
           </div>
 
-          <p className="mt-6 text-xs text-ink-soft">
-            Spațiu pornește și oprește cronometrul, săgețile stânga și dreapta schimbă pasul.
+          {notaDeschisa && (
+            <label className="mt-4 flex max-w-3xl flex-col gap-1.5">
+              <span className="text-xs font-semibold uppercase tracking-wide text-ink-soft">
+                Notă rapidă, ajunge în notițele reflecției
+              </span>
+              <textarea
+                value={stare.nota}
+                onChange={(e) => setStare((s) => ({ ...s, nota: e.target.value }))}
+                rows={3}
+                className="rounded-lg border border-border bg-bg px-3 py-2 text-base text-ink focus:border-accent focus:outline-none"
+              />
+            </label>
+          )}
+
+          <p className="mt-3 text-xs text-ink-soft lg:text-sm">
+            Spațiu: cronometru. Săgeți: schimbă pasul. F: ecran complet. + și −: mărimea textului.
           </p>
+          </div>
         </main>
 
         {/* Planul orei. */}
-        <aside className="border-t border-border px-6 py-6 lg:w-80 lg:shrink-0 lg:border-l lg:border-t-0 lg:px-6 lg:py-8">
-          <p className="text-xs font-semibold uppercase tracking-wide text-ink-soft">Planul orei</p>
+        <aside className="border-t border-border px-6 py-6 lg:w-96 lg:shrink-0 lg:border-l lg:border-t-0 lg:px-6 lg:py-8">
+          <p className="text-xs font-semibold uppercase tracking-wide text-ink-soft lg:text-sm">Planul orei</p>
           <ol className="mt-3 flex flex-col gap-1">
             {blocuri.map((bloc) => {
-              const parcurs = bloc.index < pas
-              const curent = bloc.index === pas
+              const parcurs = bloc.index < stare.pas
+              const curent = bloc.index === stare.pas
               return (
                 <li key={bloc.index}>
                   <button
                     type="button"
-                    onClick={() => setPas(bloc.index)}
+                    onClick={() => laPas(bloc.index)}
                     aria-current={curent ? 'step' : undefined}
-                    className={`flex w-full items-start gap-2.5 rounded-lg px-3 py-2 text-left text-sm hover:bg-ink/5 ${
+                    className={`flex w-full items-start gap-2.5 rounded-lg px-3 py-2.5 text-left text-sm hover:bg-ink/5 lg:text-base ${
                       curent ? 'bg-accent-soft font-semibold text-ink' : 'text-ink-soft'
                     }`}
                   >
-                    <span className="mt-0.5 grid h-4 w-4 shrink-0 place-items-center">
+                    <span className="mt-1 grid h-4 w-4 shrink-0 place-items-center">
                       {parcurs ? (
                         <Check className="h-4 w-4 text-good" aria-hidden="true" />
                       ) : (
@@ -275,7 +511,7 @@ export function CockpitPage() {
                       )}
                     </span>
                     <span className="min-w-0 flex-1">{bloc.titlu}</span>
-                    <span className="shrink-0 tabular-nums text-xs text-ink-soft">{bloc.minute}′</span>
+                    <span className="shrink-0 tabular-nums text-xs text-ink-soft lg:text-sm">{bloc.minute}′</span>
                   </button>
                 </li>
               )
