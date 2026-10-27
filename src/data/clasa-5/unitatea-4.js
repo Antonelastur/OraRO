@@ -2540,7 +2540,7 @@ export const unitatea4 = {
             etapa: 'Instructajul',
             timp: '5 min',
             activitate: '– Distribui testul, varianta A (manual, p. 138, fragmentul din „Metamorfozele” lui Ovidiu, în repovestirea lui Grigore Tănăsescu) sau varianta B (foaia tipărită), și foile de răspuns.\n– Citesc cerințele cu voce tare; structura: A, 60 de puncte (zece itemi a câte 6 puncte: pronume, formula reverențioasă, adjective, grade de comparație, personajul, comparația, descrierea, semnificația); B, 30 de puncte (descrierea unui prieten, 10-15 rânduri); 10 puncte din oficiu.\n– Recomand: circa 25 de minute pentru A, 15 minute pentru B, ultimele minute pentru recitire. Răspund doar la întrebări de înțelegere a cerințelor.',
-            elevi: 'Primiți testul și foile de răspuns.\nPunctaj: partea A, 60 de puncte (zece itemi a câte 6 puncte); partea B, 30 de puncte (descrierea unui prieten, 10-15 rânduri); 10 puncte din oficiu.\nÎmpărțiți timpul: circa 25 de minute pentru A, 15 minute pentru B, ultimele minute pentru recitire.',
+            elevi: 'Primiți testul și foile de răspuns.\nPunctaj: partea A, 60 de puncte (zece itemi a câte 6 puncte); partea B, 30 de puncte (descrierea unei persoane, 10-15 rânduri); 10 puncte din oficiu.\nÎmpărțiți timpul: circa 25 de minute pentru A, 15 minute pentru B, ultimele minute pentru recitire.',
           },
           {
             etapa: 'Rezolvarea individuală',
