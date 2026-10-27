@@ -3031,14 +3031,16 @@ export const unitatea1 = {
           'Susține testul de evaluare sumativă pentru unitate.',
         ],
         resurse: [
-          'Testul tipărit, Manual Art 8, p. 50',
-          'Barem de corectare din Ghidul profesorului',
+          'Testul tipărit, varianta A: Manual Art 8, p. 50',
+          'Barem de corectare, varianta A: Ghidul profesorului',
+          'Testul tipărit, varianta B: poezie originală, o pagină A4 (Drive, privat)',
+          'Barem de corectare, varianta B (Drive, privat)',
         ],
         desfasurare: [
           {
             etapa: 'Instructajul',
             timp: '5 min',
-            activitate: '– Elevii au pe bancă doar foaia de răspuns și instrumentele de scris; distribui testul (poezia „Minunea” de Ana Blandiana, p. 50).\n– Anunț structura: partea A, 60 de puncte (zece cerințe de limbă și lectură), partea B, 30 de puncte (compunere de cel puțin 200 de cuvinte despre semnificația poeziei, cu cele patru repere), 10 puncte din oficiu.\n– Timpul orientativ: 5 minute pentru citirea textului, 18 pentru partea A, 17 pentru compunere; cerințele se rezolvă în ordinea preferată, cu numărul lor scris în față.',
+            activitate: '– Elevii au pe bancă doar foaia de răspuns și instrumentele de scris; distribui testul, varianta A (poezia „Minunea” de Ana Blandiana, p. 50) sau varianta B (foaia tipărită, cu poezie originală).\n– Anunț structura: partea A, 60 de puncte (zece cerințe de limbă și lectură), partea B, 30 de puncte (compunere de cel puțin 200 de cuvinte despre semnificația poeziei, cu cele patru repere), 10 puncte din oficiu.\n– Timpul orientativ: 5 minute pentru citirea textului, 18 pentru partea A, 17 pentru compunere; cerințele se rezolvă în ordinea preferată, cu numărul lor scris în față.',
           },
           {
             etapa: 'Rezolvarea individuală',
@@ -3051,7 +3053,7 @@ export const unitatea1 = {
             activitate: '– Strâng foile, verific numele pe fiecare; anunț că rezultatele și greșelile frecvente se discută după corectare.',
           },
         ],
-        evaluare: 'Evaluare sumativă scrisă, notată după baremul din Ghidul profesorului.',
+        evaluare: 'Evaluare sumativă scrisă, notată după baremul variantei date: varianta A, Ghidul profesorului; varianta B, baremul privat din Drive.',
       },
       materiale: {
         prezentare: null,
