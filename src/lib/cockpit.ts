@@ -1,5 +1,5 @@
-// Logica cockpitului: cronometrul pe ceasul real și starea orei, păstrată între
-// reîncărcări. Fără React, ca să se poată testa. Vezi docs/ux.md, secțiunea 5.
+// Logica cockpitului (ecranul proiectat pe tablă): cronometrul pe ceasul real și
+// starea orei, păstrată între reîncărcări. Fără React, ca să se poată testa. Vezi docs/ux.md, secțiunea 5.
 //
 // Cronometrul nu mai scade câte o secundă pe tick. Ține minte momentul în care
 // expiră etapa (`scadenta`), iar secundele rămase se calculează din ceas. Așa nu
@@ -12,8 +12,6 @@ export type StareCockpit = {
   ramasPauza: number
   /** Momentul (ms, epoch) în care expiră etapa, doar cât merge cronometrul. */
   scadenta: number | null
-  /** Nota rapidă scrisă în timpul orei, ajunge în notițele reflecției. */
-  nota: string
   salvatLa: number
 }
 
@@ -25,7 +23,7 @@ type Depozit = Pick<Storage, 'getItem' | 'setItem' | 'removeItem'>
 const PREFIX = 'oraro:cockpit:'
 
 export function stareInitiala(blocuri: BlocOra[], acum = Date.now()): StareCockpit {
-  return { pas: 0, ramasPauza: blocuri[0]?.secunde ?? 0, scadenta: null, nota: '', salvatLa: acum }
+  return { pas: 0, ramasPauza: blocuri[0]?.secunde ?? 0, scadenta: null, salvatLa: acum }
 }
 
 export function secundeRamase(stare: StareCockpit, acum: number): number {
@@ -60,7 +58,6 @@ export function esteNeatinsa(stare: StareCockpit, blocuri: BlocOra[]): boolean {
   return (
     stare.pas === 0 &&
     stare.scadenta === null &&
-    stare.nota === '' &&
     stare.ramasPauza === (blocuri[0]?.secunde ?? 0)
   )
 }
@@ -71,32 +68,16 @@ export function secundePlanRamase(blocuri: BlocOra[], pas: number, ramasPas: num
   return Math.max(ramasPas, 0) + urmatoare
 }
 
-export type LinieInstructiune = { text: string; item: boolean }
-
-/** Împarte instrucțiunile etapei în rânduri; cele care încep cu „– ” devin elemente de listă. */
-export function liniiInstructiuni(text: string): LinieInstructiune[] {
-  return text
-    .split('\n')
-    .map((linie) => linie.trim())
-    .filter(Boolean)
-    .map((linie) =>
-      /^[–-]\s+/.test(linie)
-        ? { text: linie.replace(/^[–-]\s+/, ''), item: true }
-        : { text: linie, item: false },
-    )
-}
-
 function valida(brut: unknown, acum: number, blocuri: BlocOra[]): StareCockpit | null {
   if (typeof brut !== 'object' || brut === null) return null
   const s = brut as Record<string, unknown>
-  const { pas, ramasPauza, scadenta, nota, salvatLa } = s
+  const { pas, ramasPauza, scadenta, salvatLa } = s
   if (typeof pas !== 'number' || !Number.isInteger(pas) || pas < 0 || pas >= blocuri.length) return null
   if (typeof ramasPauza !== 'number' || !Number.isFinite(ramasPauza)) return null
   if (scadenta !== null && (typeof scadenta !== 'number' || !Number.isFinite(scadenta))) return null
-  if (typeof nota !== 'string') return null
   if (typeof salvatLa !== 'number' || !Number.isFinite(salvatLa)) return null
   if (acum - salvatLa > VALABILITATE_MS || salvatLa - acum > VALABILITATE_MS) return null
-  return { pas, ramasPauza, scadenta, nota, salvatLa }
+  return { pas, ramasPauza, scadenta, salvatLa }
 }
 
 export function citeste(

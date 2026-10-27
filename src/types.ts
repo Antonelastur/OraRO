@@ -29,7 +29,10 @@ export type Materiale = {
   altele: unknown[]
 }
 
-export type EtapaLectie = { etapa: string; timp: string; activitate: string }
+// `activitate` e vocea profesorului (instrucțiunile pentru ea). `elevi`, opțional,
+// e textul adresat direct elevilor, singurul afișat pe tablă. Fără el, tabla arată
+// doar titlul etapei și cronometrul.
+export type EtapaLectie = { etapa: string; timp: string; activitate: string; elevi?: string }
 
 export type PlanLectie = {
   titlu: string

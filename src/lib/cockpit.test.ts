@@ -1,12 +1,12 @@
 import { describe, expect, it } from 'vitest'
 import type { BlocOra } from '@/lib/ora'
 import {
-  VALABILITATE_MS, citeste, esteNeatinsa, liniiInstructiuni, mutaLa, opreste, porneste,
+  VALABILITATE_MS, citeste, esteNeatinsa, mutaLa, opreste, porneste,
   reseteazaPas, salveaza, secundePlanRamase, secundeRamase, stareInitiala, sterge,
 } from '@/lib/cockpit'
 
 const bloc = (index: number, minute: number): BlocOra => ({
-  index, titlu: `Etapa ${index + 1}`, minute, secunde: minute * 60, instructiuni: '',
+  index, titlu: `Etapa ${index + 1}`, minute, secunde: minute * 60, elevi: '',
 })
 const blocuri = [bloc(0, 5), bloc(1, 10), bloc(2, 20)]
 const T0 = 1_000_000_000_000
@@ -76,11 +76,6 @@ describe('navigarea între pași', () => {
     expect(mutaLa(s, 99, blocuri).pas).toBe(2)
   })
 
-  it('păstrează nota rapidă la schimbarea pasului', () => {
-    const s = { ...stareInitiala(blocuri, T0), nota: 'de reluat: acordul' }
-    expect(mutaLa(s, 2, blocuri).nota).toBe('de reluat: acordul')
-  })
-
   it('resetează doar etapa curentă', () => {
     const s = opreste(porneste(mutaLa(stareInitiala(blocuri, T0), 1, blocuri), T0), T0 + 120_000)
     expect(s.ramasPauza).toBe(480)
@@ -102,24 +97,10 @@ describe('timpul rămas din plan', () => {
   })
 })
 
-describe('instrucțiunile etapei', () => {
-  it('rândurile cu liniuță devin elemente de listă', () => {
-    expect(liniiInstructiuni('Intro\n– Citesc textul.\n- Elevii răspund.\n\n')).toEqual([
-      { text: 'Intro', item: false },
-      { text: 'Citesc textul.', item: true },
-      { text: 'Elevii răspund.', item: true },
-    ])
-  })
-
-  it('o liniuță fără spațiu după ea rămâne text obișnuit', () => {
-    expect(liniiInstructiuni('-5 grade')).toEqual([{ text: '-5 grade', item: false }])
-  })
-})
-
 describe('păstrarea orei între reîncărcări', () => {
   it('o stare salvată se citește înapoi', () => {
     const d = depozitFals()
-    const s = { ...porneste(mutaLa(stareInitiala(blocuri, T0), 1, blocuri), T0 + 1000), nota: 'n' }
+    const s = porneste(mutaLa(stareInitiala(blocuri, T0), 1, blocuri), T0 + 1000)
     salveaza('5 A/clasa-5/u1/l1', s, T0 + 2000, d)
     const citit = citeste('5 A/clasa-5/u1/l1', T0 + 60_000, blocuri, d)
     expect(citit).toEqual({ ...s, salvatLa: T0 + 2000 })
@@ -143,8 +124,8 @@ describe('păstrarea orei între reîncărcări', () => {
   it('ignoră datele stricate sau care nu mai se potrivesc cu planul', () => {
     const d = depozitFals()
     d.date.set('oraro:cockpit:a', '{nu e json')
-    d.date.set('oraro:cockpit:b', JSON.stringify({ pas: 7, ramasPauza: 1, scadenta: null, nota: '', salvatLa: T0 }))
-    d.date.set('oraro:cockpit:c', JSON.stringify({ pas: 0, ramasPauza: 'x', scadenta: null, nota: '', salvatLa: T0 }))
+    d.date.set('oraro:cockpit:b', JSON.stringify({ pas: 7, ramasPauza: 1, scadenta: null, salvatLa: T0 }))
+    d.date.set('oraro:cockpit:c', JSON.stringify({ pas: 0, ramasPauza: 'x', scadenta: null, salvatLa: T0 }))
     d.date.set('oraro:cockpit:d', 'null')
     for (const k of ['a', 'b', 'c', 'd', 'lipsa']) expect(citeste(k, T0, blocuri, d)).toBeNull()
   })
@@ -165,7 +146,6 @@ describe('păstrarea orei între reîncărcări', () => {
   it('recunoaște o oră neatinsă', () => {
     const s = stareInitiala(blocuri, T0)
     expect(esteNeatinsa(s, blocuri)).toBe(true)
-    expect(esteNeatinsa({ ...s, nota: 'x' }, blocuri)).toBe(false)
     expect(esteNeatinsa(mutaLa(s, 1, blocuri), blocuri)).toBe(false)
     expect(esteNeatinsa(porneste(s, T0), blocuri)).toBe(false)
   })

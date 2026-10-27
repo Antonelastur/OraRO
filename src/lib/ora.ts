@@ -8,7 +8,8 @@ export type BlocOra = {
   titlu: string
   minute: number
   secunde: number
-  instructiuni: string
+  /** Text adresat elevilor; gol dacă etapa nu are încă. Vocea profesorului nu intră aici. */
+  elevi: string
 }
 
 // „22 min" → 22. Acceptă și „5-7 min" sau „3", ia primul număr găsit.
@@ -26,7 +27,7 @@ export function blocuriOra(lectie: Lectie): BlocOra[] {
       titlu: etapa.etapa,
       minute,
       secunde: minute * 60,
-      instructiuni: etapa.activitate,
+      elevi: etapa.elevi?.trim() ?? '',
     }
   })
 }

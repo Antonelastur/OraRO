@@ -1,21 +1,21 @@
-// Cockpitul orei. Mod special, fără sidebar și fără antet: profesorul îl
-// proiectează în clasă. Vezi docs/ux.md, secțiunile 5 și 14.
+// Cockpitul orei. Mod special, fără sidebar și fără antet, proiectat pe tablă.
+// Arată doar ce trebuie să știe elevii: pasul, cronometrul, materialele și tema.
+// Planul de lecție, jurnalul și reflecția sunt în Bibliotecă, pe laptopul
+// profesoarei, care nu e legat la tablă. Vezi docs/ux.md, secțiunile 5 și 14.
 //
-// Cronometrul merge pe ceasul real, iar pasul, timpul și nota rapidă se
-// păstrează dacă pagina se reîncarcă în timpul orei. Logica e în src/lib/cockpit.ts.
+// Cronometrul merge pe ceasul real, iar pasul și timpul se păstrează dacă pagina
+// se reîncarcă în timpul orei. Logica e în src/lib/cockpit.ts.
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { Link, useNavigate, useParams } from 'react-router-dom'
-import {
-  Check, ChevronLeft, ChevronRight, Maximize, Minimize, Pause, Pencil, Play, RotateCcw, Volume2, VolumeX, X,
-} from 'lucide-react'
+import { Check, ChevronLeft, ChevronRight, Maximize, Minimize, Pause, Play, RotateCcw, Volume2, VolumeX, X } from 'lucide-react'
 import { clase } from '../data/clase.js'
 import { blocuriOra, durataTotala, formateazaCeas } from '@/lib/ora'
 import {
-  citeste, esteNeatinsa, liniiInstructiuni, mutaLa, opreste, porneste, reseteazaPas, salveaza,
+  citeste, esteNeatinsa, mutaLa, opreste, porneste, reseteazaPas, salveaza,
   secundePlanRamase, secundeRamase, semnalSonor, stareInitiala, sterge, type StareCockpit,
 } from '@/lib/cockpit'
-import { cheieLectie, reflectieGoala, useGrupa, useJurnal } from '@/lib/jurnal'
-import { ReflectieOra } from '@/components/ReflectieOra'
+import { etapaTemei, temaAcasa } from '@/lib/elevi'
+import { MaterialeElevi } from '@/components/MaterialeElevi'
 import type { Clase } from '@/types'
 
 const CLASE = clase as unknown as Clase
@@ -56,19 +56,18 @@ export function CockpitPage() {
   const dateLectie = dateUnitate?.lectii.find((l) => l.id === lectie)
 
   const blocuri = useMemo(() => (dateLectie ? blocuriOra(dateLectie) : []), [dateLectie])
-  const { jurnal, salveaza: salveazaJurnal } = useJurnal()
+  const tema = useMemo(() => (dateLectie ? temaAcasa(dateLectie) : []), [dateLectie])
+  const pasTema = useMemo(() => (dateLectie ? etapaTemei(dateLectie) : -1), [dateLectie])
 
   const caleLectie = `/${clasa}/${unitate}/${lectie}`
-  const [grupa] = useGrupa(clasa!)
-  const cheie = cheieLectie(grupa, clasa!, unitate!, lectie!)
+  // Tabla e alt calculator decât al profesoarei, deci starea orei nu depinde de grupă.
+  const cheie = `${clasa}/${unitate}/${lectie}`
 
   // Ora întreruptă (reîncărcare, filă închisă din greșeală) se reia de unde a rămas.
   const [reluata] = useState(() => (blocuri.length ? citeste(cheie, Date.now(), blocuri) : null))
   const [stare, setStare] = useState<StareCockpit>(() => reluata ?? stareInitiala(blocuri))
   const [anuntReluare, setAnuntReluare] = useState(() => Boolean(reluata && !esteNeatinsa(reluata, blocuri)))
   const [acum, setAcum] = useState(() => Date.now())
-  const [inchidere, setInchidere] = useState(false)
-  const [notaDeschisa, setNotaDeschisa] = useState(() => Boolean(reluata?.nota))
   const [scaraText, setScaraText] = useState(() => {
     const brut = citesteSetare(CHEIE_TEXT)
     const salvat = brut === null ? NaN : Number(brut)
@@ -125,10 +124,13 @@ export function CockpitPage() {
   const inainte = useCallback(() => setStare((s) => mutaLa(s, s.pas + 1, blocuri)), [blocuri])
   const inapoi = useCallback(() => setStare((s) => mutaLa(s, s.pas - 1, blocuri)), [blocuri])
   const laPas = useCallback((pas: number) => setStare((s) => mutaLa(s, pas, blocuri)), [blocuri])
+  // „Închide ora" păstrează starea, ca ora să se poată relua. „Încheie ora", de la
+  // ultimul pas, o șterge.
+  const iese = useCallback(() => navigate(caleLectie), [navigate, caleLectie])
   const incheie = useCallback(() => {
-    setStare((s) => opreste(s, Date.now()))
-    setInchidere(true)
-  }, [])
+    sterge(cheie)
+    navigate(caleLectie)
+  }, [cheie, navigate, caleLectie])
 
   const comutaEcranComplet = useCallback(() => {
     if (document.fullscreenElement) void document.exitFullscreen?.()
@@ -151,8 +153,6 @@ export function CockpitPage() {
   }, [])
 
   useEffect(() => {
-    // Pe ecranul de închidere, tastele scriu în formular, nu conduc ora.
-    if (inchidere) return
     function laTasta(e: KeyboardEvent) {
       const tinta = e.target as HTMLElement | null
       if (tinta && ['INPUT', 'TEXTAREA'].includes(tinta.tagName)) return
@@ -174,7 +174,7 @@ export function CockpitPage() {
     }
     window.addEventListener('keydown', laTasta)
     return () => window.removeEventListener('keydown', laTasta)
-  }, [inainte, inapoi, inchidere, comutaCronometru, comutaEcranComplet, schimbaText])
+  }, [inainte, inapoi, comutaCronometru, comutaEcranComplet, schimbaText])
 
   if (!dateClasa || !dateUnitate || !dateLectie) {
     return (
@@ -200,61 +200,12 @@ export function CockpitPage() {
     )
   }
 
-  // Închiderea orei: marcarea ca parcursă și reflecția, docs/ux.md, secțiunea 14.
-  if (inchidere) {
-    const salvata = jurnal[cheie]?.reflectie ?? reflectieGoala
-    const initial = { ...salvata, notite: [salvata.notite, stare.nota].filter(Boolean).join('\n') }
-    return (
-      <div className="min-h-svh bg-bg px-6 py-10 text-ink lg:px-12">
-        <div className="mx-auto max-w-2xl">
-          <p className="text-sm font-semibold uppercase tracking-wide text-accent-ink">Ora s-a încheiat</p>
-          <h1 className="mt-2 text-2xl font-bold text-ink">{dateLectie.titlu}</h1>
-          <p className="mt-1 text-sm text-ink-soft">
-            Lecția se marchează ca parcursă azi. Câmpurile sunt opționale și se salvează doar pe acest calculator; le poți
-            completa și mai târziu, din pagina lecției.
-          </p>
-          {stare.nota && (
-            <p className="mt-2 text-sm text-ink-soft">Nota rapidă din timpul orei a fost adăugată la notițe.</p>
-          )}
-          <div className="mt-8">
-            <ReflectieOra
-              initial={initial}
-              onSalveaza={(r) => {
-                salveazaJurnal(cheie, r, new Date().toISOString())
-                sterge(cheie)
-                navigate(caleLectie)
-              }}
-            >
-              <button
-                type="submit"
-                className="inline-flex items-center gap-2 rounded-xl bg-accent px-6 py-3.5 text-base font-semibold text-navy hover:brightness-105"
-              >
-                <Check className="h-5 w-5" aria-hidden="true" />
-                Salvează și marchează ca parcursă
-              </button>
-              <button
-                type="button"
-                onClick={() => setInchidere(false)}
-                className="rounded-xl border border-border px-4 py-3.5 text-sm font-medium text-ink-soft hover:bg-ink/5"
-              >
-                Înapoi la oră
-              </button>
-              <Link to={caleLectie} className="ml-auto text-sm text-ink-soft underline hover:text-ink">
-                Ieși fără să salvez
-              </Link>
-            </ReflectieOra>
-          </div>
-        </div>
-      </div>
-    )
-  }
-
   const total = durataTotala(blocuri)
   const depasit = ramas < 0
   const expirat = ramas <= 0 && blocCurent.minute > 0
   const restPlan = secundePlanRamase(blocuri, stare.pas, ramas)
   const scara = SCARI_TEXT[scaraText]
-  const linii = liniiInstructiuni(blocCurent.instructiuni)
+  const aratTema = tema.length > 0 && (stare.pas === pasTema || ultimulPas)
 
   return (
     <div className="flex min-h-svh flex-col bg-bg text-ink">
@@ -310,7 +261,7 @@ export function CockpitPage() {
               {ecranComplet ? 'Ieși din ecran complet' : 'Ecran complet'}
             </button>
           )}
-          <button type="button" onClick={incheie} className={butonMic}>
+          <button type="button" onClick={iese} className={butonMic}>
             <X className="h-4 w-4" aria-hidden="true" />
             Închide ora
           </button>
@@ -329,7 +280,6 @@ export function CockpitPage() {
             type="button"
             onClick={() => {
               setStare(stareInitiala(blocuri))
-              setNotaDeschisa(false)
               setAnuntReluare(false)
             }}
             className="rounded-lg border border-border bg-bg-alt px-3 py-1.5 font-medium hover:bg-ink/5"
@@ -368,35 +318,34 @@ export function CockpitPage() {
                 : `din ${blocCurent.minute} min alocate`}
           </p>
 
-          <div
-            className="mt-8 max-w-5xl text-ink"
-            style={{ fontSize: `calc(clamp(1.25rem, 2.3vw, 2rem) * ${scara})`, lineHeight: 1.4 }}
-          >
-            {linii.some((l) => l.item) ? (
-              <ul className="flex flex-col gap-[0.6em]">
-                {linii.map((linie, i) =>
-                  linie.item ? (
-                    <li key={i} className="flex gap-[0.6em]">
-                      <span aria-hidden="true" className="select-none text-accent-ink">
-                        •
-                      </span>
-                      <span>{linie.text}</span>
-                    </li>
-                  ) : (
-                    <li key={i} className="font-semibold list-none">
-                      {linie.text}
-                    </li>
-                  ),
-                )}
+          {blocCurent.elevi && (
+            <div
+              className="mt-8 flex max-w-5xl flex-col gap-[0.6em] text-ink"
+              style={{ fontSize: `calc(clamp(1.25rem, 2.3vw, 2rem) * ${scara})`, lineHeight: 1.4 }}
+            >
+              {blocCurent.elevi.split('\n').map((linie, i) => (
+                <p key={i}>{linie}</p>
+              ))}
+            </div>
+          )}
+
+          {aratTema && (
+            <section
+              aria-label="Tema pentru acasă"
+              className="mt-8 max-w-5xl rounded-2xl border border-accent bg-accent-soft p-5 lg:p-6"
+            >
+              <h2 className="text-sm font-semibold uppercase tracking-wide text-accent-ink lg:text-base">
+                Tema pentru acasă
+              </h2>
+              <ul className="mt-2 flex flex-col gap-2" style={{ fontSize: `calc(clamp(1.25rem, 2.3vw, 2rem) * ${scara})`, lineHeight: 1.4 }}>
+                {tema.map((linie) => (
+                  <li key={linie}>{linie}</li>
+                ))}
               </ul>
-            ) : (
-              linii.map((linie, i) => (
-                <p key={i} className="mb-[0.6em]">
-                  {linie.text}
-                </p>
-              ))
-            )}
-          </div>
+            </section>
+          )}
+
+          <MaterialeElevi lectie={dateLectie} className="mt-8 max-w-5xl" />
 
           {/* Comenzile rămân la vedere chiar când textul e mare și pagina derulează. */}
           <div className="sticky bottom-0 -mx-6 mt-8 border-t border-border bg-bg px-6 py-4 lg:-mx-12 lg:px-12">
@@ -418,16 +367,6 @@ export function CockpitPage() {
             >
               <RotateCcw className="h-4 w-4" aria-hidden="true" />
               Resetează
-            </button>
-
-            <button
-              type="button"
-              onClick={() => setNotaDeschisa((d) => !d)}
-              aria-expanded={notaDeschisa}
-              className="inline-flex items-center gap-2 rounded-xl border border-border px-4 py-4 text-sm font-medium text-ink-soft hover:bg-ink/5"
-            >
-              <Pencil className="h-4 w-4" aria-hidden="true" />
-              Notă rapidă
             </button>
 
             <div className="ml-auto flex items-center gap-2">
@@ -461,20 +400,6 @@ export function CockpitPage() {
               )}
             </div>
           </div>
-
-          {notaDeschisa && (
-            <label className="mt-4 flex max-w-3xl flex-col gap-1.5">
-              <span className="text-xs font-semibold uppercase tracking-wide text-ink-soft">
-                Notă rapidă, ajunge în notițele reflecției
-              </span>
-              <textarea
-                value={stare.nota}
-                onChange={(e) => setStare((s) => ({ ...s, nota: e.target.value }))}
-                rows={3}
-                className="rounded-lg border border-border bg-bg px-3 py-2 text-base text-ink focus:border-accent focus:outline-none"
-              />
-            </label>
-          )}
 
           <p className="mt-3 text-xs text-ink-soft lg:text-sm">
             Spațiu: cronometru. Săgeți: schimbă pasul. F: ecran complet. + și −: mărimea textului.
