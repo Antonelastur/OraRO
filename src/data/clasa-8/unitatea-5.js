@@ -2668,14 +2668,16 @@ export const unitatea5 = {
           'Susține testul de evaluare sumativă pentru unitate.',
         ],
         resurse: [
-          'Testul tipărit, Manual Art 8, p. 202',
-          'Barem de corectare din Ghidul profesorului',
+          'Testul tipărit, varianta A: Manual Art 8, p. 202',
+          'Barem de corectare, varianta A: Ghidul profesorului',
+          'Testul tipărit, varianta B: text original, o pagină A4 (Drive, privat)',
+          'Barem de corectare, varianta B (Drive, privat)',
         ],
         desfasurare: [
           {
             etapa: 'Instructajul',
             timp: '5 min',
-            activitate: '– Elevii au pe bancă doar foaia de răspuns și instrumentele de scris; distribui testul de la p. 202.\n– Anunț structura probei (cerințe de limbă și lectură, redactare) și punctajul; explic repartizarea orientativă a timpului.',
+            activitate: '– Elevii au pe bancă doar foaia de răspuns și instrumentele de scris; distribui testul, varianta A (manual, p. 202) sau varianta B (foaia tipărită).\n– Anunț structura probei (cerințe de limbă și lectură, redactare) și punctajul; explic repartizarea orientativă a timpului.',
           },
           {
             etapa: 'Rezolvarea individuală',
@@ -2688,12 +2690,14 @@ export const unitatea5 = {
             activitate: '– Strâng foile, verific numele pe fiecare; anunț că rezultatele și greșelile frecvente se discută după corectare.',
           },
         ],
-        evaluare: 'Evaluare sumativă scrisă, notată după baremul din Ghidul profesorului.',
+        evaluare: 'Evaluare sumativă scrisă, notată după baremul variantei date: varianta A, Ghidul profesorului; varianta B, baremul privat din Drive.',
       },
       materiale: {
         prezentare: null,
         video: null,
-        test: null,
+        test: {
+          linkDocument: 'https://docs.google.com/document/d/1X20_uj9qRuzkj0WmNwID_USEU9u76WBixbdsOVKD-6I/edit',
+        },
         fisa: null,
         joc: null,
         infografic: null,

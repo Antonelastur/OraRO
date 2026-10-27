@@ -2143,14 +2143,16 @@ export const unitatea3 = {
           'Verifică, printr-o probă scrisă, nivelul de achiziție a competențelor vizate în Unitatea III.',
         ],
         resurse: [
-          'Testul tipărit, Manual Art 5, p. 106',
-          'Barem de corectare din Ghidul profesorului',
+          'Testul tipărit, varianta A: Manual Art 5, p. 106',
+          'Barem de corectare, varianta A: Ghidul profesorului',
+          'Testul tipărit, varianta B: text original, o pagină A4 (Drive, privat)',
+          'Barem de corectare, varianta B (Drive, privat)',
         ],
         desfasurare: [
           {
             etapa: 'Instructajul',
             timp: '5 min',
-            activitate: '– Distribui testul (p. 106) și foile de lucru; elevii scriu numele.\n– Citesc cu voce tare fragmentul și cerințele; explic punctajul: partea A, 60 de puncte, partea B, 30 de puncte, 10 puncte din oficiu.\n– Recomand împărțirea timpului: cam 20 de minute pentru partea A, 15-20 de minute pentru descriere, 5 minute pentru recitire.',
+            activitate: '– Distribui testul, varianta A (manual, p. 106) sau varianta B (foaia tipărită), și foile de lucru; elevii scriu numele pe foaia de lucru.\n– Citesc cu voce tare fragmentul și cerințele; explic punctajul: partea A, 60 de puncte, partea B, 30 de puncte, 10 puncte din oficiu.\n– Recomand împărțirea timpului: cam 20 de minute pentru partea A, 15-20 de minute pentru descriere, 5 minute pentru recitire.',
           },
           {
             etapa: 'Rezolvarea individuală',
@@ -2163,12 +2165,14 @@ export const unitatea3 = {
             activitate: '– Elevii recitesc și verifică numele; strâng lucrările.\n– Întreb scurt ce li s-a părut ușor și ce li s-a părut greu; notez pentru ora de analiză a rezultatelor.',
           },
         ],
-        evaluare: 'Evaluare sumativă scrisă, notată după baremul din Ghidul profesorului.',
+        evaluare: 'Evaluare sumativă scrisă, notată după baremul variantei date: varianta A, Ghidul profesorului; varianta B, baremul privat din Drive.',
       },
       materiale: {
         prezentare: null,
         video: null,
-        test: null,
+        test: {
+          linkDocument: 'https://docs.google.com/document/d/1vhjdtqAofgeqWud08U_z9jwGO8FMNfuSGQsp_F-eXmc/edit',
+        },
         fisa: null,
         joc: null,
         infografic: null,
