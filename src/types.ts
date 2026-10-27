@@ -32,7 +32,10 @@ export type Materiale = {
 // `activitate` e vocea profesorului (instrucțiunile pentru ea). `elevi`, opțional,
 // e textul adresat direct elevilor, singurul afișat pe tablă. Fără el, tabla arată
 // doar titlul etapei și cronometrul.
-export type EtapaLectie = { etapa: string; timp: string; activitate: string; elevi?: string }
+// `materiale`, opțional, spune ce materiale ale lecției se folosesc la etapa asta;
+// tabla le arată la pasul respectiv. Fără el la nicio etapă, tabla le arată pe toate.
+export type MaterialElev = 'prezentare' | 'video' | 'fisa' | 'joc' | 'infografic' | 'schema'
+export type EtapaLectie = { etapa: string; timp: string; activitate: string; elevi?: string; materiale?: MaterialElev[] }
 
 export type PlanLectie = {
   titlu: string

@@ -2,7 +2,7 @@ import { describe, expect, it } from 'vitest'
 import { clase } from '@/data/clase.js'
 import { toateLectiile } from '@/lib/lectii'
 import { blocuriOra } from '@/lib/ora'
-import { MATERIALE_ELEVI, etapaTemei, materialeElevi, temaAcasa } from '@/lib/elevi'
+import { MATERIALE_ELEVI, areMaterialePePasi, etapaTemei, materialeElevi, materialePas, temaAcasa } from '@/lib/elevi'
 import type { Clase, Lectie } from '@/types'
 
 const lectie = (desfasurare: { etapa: string; timp: string; activitate: string; elevi?: string }[], materiale = {}): Lectie =>
@@ -74,6 +74,59 @@ describe('pe datele reale', () => {
   it('nicio temă nu începe cu liniuță sau cu „Tema:”', () => {
     for (const { lectie: l } of toate) {
       for (const linie of temaAcasa(l)) expect(linie).toMatch(/^[^\s–:-]/)
+    }
+  })
+})
+
+describe('materialele la pasul în care se folosesc', () => {
+  const materiale = { fisa: { exercitii: '/f.pdf' }, schema: { fisier: '/s.svg' } }
+  const l = lectie(
+    [
+      { etapa: 'Notițe', timp: '5 min', activitate: '–', materiale: ['schema'] },
+      { etapa: 'Fișa', timp: '15 min', activitate: '–', materiale: ['fisa', 'joc'] },
+      { etapa: 'Temă', timp: '5 min', activitate: '–' },
+    ],
+    materiale,
+  )
+
+  it('lecția cu materiale legate de pași se recunoaște', () => {
+    expect(areMaterialePePasi(l)).toBe(true)
+    expect(areMaterialePePasi(lectie([{ etapa: 'A', timp: '5 min', activitate: '–' }], materiale))).toBe(false)
+  })
+
+  it('un pas arată doar materialele pe care lecția le are', () => {
+    expect(materialePas(l, 0)).toEqual(['schema'])
+    expect(materialePas(l, 1)).toEqual(['fisa'])
+    expect(materialePas(l, 2)).toEqual([])
+  })
+
+  it('blocul orei duce materialele pasului', () => {
+    expect(blocuriOra(l).map((b) => b.materiale)).toEqual([['schema'], ['fisa', 'joc'], []])
+  })
+
+  it('pe datele reale, fiecare material legat de un pas există în lecție', () => {
+    for (const { clasaId, unitateId, lectie: x } of toateLectiile(clase as unknown as Clase)) {
+      (x.planLectie?.desfasurare ?? []).forEach((etapa, i) => {
+        for (const tip of etapa.materiale ?? []) {
+          expect(MATERIALE_ELEVI, `${clasaId}/${unitateId}/${x.id} pasul ${i + 1}`).toContain(tip)
+          expect(Boolean(x.materiale[tip]), `${clasaId}/${unitateId}/${x.id} pasul ${i + 1}: ${tip}`).toBe(true)
+        }
+      })
+    }
+  })
+})
+
+describe('textele pentru elevi, pe datele reale', () => {
+  const toate = toateLectiile(clase as unknown as Clase)
+
+  it('nu conțin linii de pauză lungi, „&”, „versus” sau vocea profesorului la persoana I', () => {
+    for (const { clasaId, unitateId, lectie: x } of toate) {
+      for (const etapa of x.planLectie?.desfasurare ?? []) {
+        if (!etapa.elevi) continue
+        const loc = `${clasaId}/${unitateId}/${x.id}: ${etapa.etapa}`
+        expect(etapa.elevi, loc).not.toMatch(/—|&|\bversus\b|\bvs\b/i)
+        expect(etapa.elevi, loc).not.toMatch(/\b(distribui|împart|explic eu|trec printre|notez pe tablă|circul)\b/i)
+      }
     }
   })
 })

@@ -8,20 +8,23 @@ import Joc from '@/components/Joc/index.jsx'
 import Infografic from '@/components/Infografic.jsx'
 import Schema from '@/components/Schema.jsx'
 import { materialeElevi } from '@/lib/elevi'
-import type { Lectie } from '@/types'
+import type { Lectie, MaterialElev } from '@/types'
 
-export function MaterialeElevi({ lectie, className = '' }: { lectie: Lectie; className?: string }) {
-  if (materialeElevi(lectie).length === 0) return null
+// `tipuri` limitează afișarea la materialele unui pas; fără el le arată pe toate.
+export function MaterialeElevi({ lectie, className = '', tipuri }: { lectie: Lectie; className?: string; tipuri?: MaterialElev[] }) {
+  const arata = materialeElevi(lectie).filter((tip) => !tipuri || tipuri.includes(tip as MaterialElev))
+  if (arata.length === 0) return null
   const { materiale } = lectie
+  const ia = <T,>(tip: MaterialElev, valoare: T): T | null => (arata.includes(tip) ? valoare : null)
 
   return (
     <div className={`grid gap-4 sm:grid-cols-2 ${className}`}>
-      <Prezentare prezentare={materiale.prezentare} />
-      <Video video={materiale.video} />
-      <Fisa fisa={materiale.fisa} />
-      <Joc joc={materiale.joc} />
-      <Infografic infografic={materiale.infografic} />
-      <Schema schema={materiale.schema} />
+      <Prezentare prezentare={ia('prezentare', materiale.prezentare)} />
+      <Video video={ia('video', materiale.video)} />
+      <Fisa fisa={ia('fisa', materiale.fisa)} />
+      <Joc joc={ia('joc', materiale.joc)} />
+      <Infografic infografic={ia('infografic', materiale.infografic)} />
+      <Schema schema={ia('schema', materiale.schema)} />
     </div>
   )
 }

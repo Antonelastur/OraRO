@@ -116,7 +116,12 @@ cronometrul, materialele (prezentare, video, fișe de lucru și de exerciții, j
 infografic, schemă) și tema pentru acasă, la pasul în care se dă. Instrucțiunile
 profesoarei din plan nu apar. Textul pentru fiecare pas se scrie în câmpul
 opțional `elevi` al etapei, cu adresare directă către elevi; fără el, tabla arată
-doar titlul etapei și cronometrul. Testul nu apare. Reflecția și jurnalul se
+doar titlul etapei și cronometrul. Materialele se leagă de pași în câmpul opțional
+`materiale` al etapei (fișa, schema, infograficul, quizul, prezentarea, videoul):
+tabla le arată la pasul în care se folosesc, iar restul stau sub „Toate materialele
+orei”. O lecție fără `materiale` la nicio etapă le arată pe toate, ca înainte. Se
+leagă doar ce spune planul: fișa la pasul fișei, schema la notițe, quizul când
+planul îl pomenește. Testul nu apare. Reflecția și jurnalul se
 completează pe laptop, din plan.
 
 După START ORĂ interfața intră într-un mod special care elimină elementele care
