@@ -13,29 +13,28 @@ manualul.
 
 | Clasa | Lecții | Cu material | Fără material | Prezentări | Teste | Video |
 |---|---|---|---|---|---|---|
-| Clasa a V-a | 120 | 112 | 8 | 3 | 0 | 0 |
+| Clasa a V-a | 120 | 113 | 7 | 3 | 1 | 0 |
 | Clasa a VI-a | 122 | 117 | 5 | 0 | 0 | 0 |
 | Clasa a VII-a | 119 | 113 | 6 | 0 | 0 | 0 |
-| Clasa a VIII-a | 119 | 112 | 7 | 0 | 0 | 0 |
+| Clasa a VIII-a | 119 | 113 | 6 | 0 | 1 | 0 |
 
 ## Clasa a V-a
 
 | Unitate | Lecții | Cu material | Prezentare | Video | Test | Fișă | Joc sau quiz | Infografic | Schemă |
 |---|---|---|---|---|---|---|---|---|---|
 | Recapitulare inițială | 5 | 3 | 1 | 0 | 0 | 2 | 1 | 0 | 0 |
-| Unitatea I: Despre mine. Selfie | 19 | 18 | 2 | 0 | 0 | 18 | 15 | 3 | 13 |
+| Unitatea I: Despre mine. Selfie | 19 | 19 | 2 | 0 | 1 | 18 | 15 | 3 | 13 |
 | Unitatea II: De-a ce mă joc | 23 | 22 | 0 | 0 | 0 | 22 | 15 | 1 | 17 |
 | Unitatea III: Pe strada mea | 19 | 18 | 0 | 0 | 0 | 18 | 12 | 2 | 11 |
 | Unitatea IV: Vreau să salvez lumea | 20 | 19 | 0 | 0 | 0 | 19 | 12 | 2 | 12 |
 | Unitatea V: Călătoresc prin basme | 17 | 16 | 0 | 0 | 0 | 16 | 10 | 1 | 9 |
 | Unitatea VI: Din carte spre departe | 17 | 16 | 0 | 0 | 0 | 16 | 10 | 3 | 8 |
-| **Total** | **120** | **112** | **3** | **0** | **0** | **111** | **75** | **12** | **70** |
+| **Total** | **120** | **113** | **3** | **0** | **1** | **111** | **75** | **12** | **70** |
 
 ### Lecții fără niciun material
 
 - `clasa-5/recapitulare-initiala/lectia-3`, Recapitulare inițială: Evaluare inițială, receptarea mesajului scris (Evaluare inițială)
 - `clasa-5/recapitulare-initiala/lectia-4`, Recapitulare inițială: Evaluare inițială, elemente de construcție a comunicării (Evaluare inițială)
-- `clasa-5/unitatea-1/lectia-19`, Unitatea I: Despre mine. Selfie: Evaluare, probă scrisă (Evaluare)
 - `clasa-5/unitatea-2/lectia-23`, Unitatea II: De-a ce mă joc: Evaluare, probă scrisă (Evaluare)
 - `clasa-5/unitatea-3/lectia-19`, Unitatea III: Pe strada mea: Evaluare, probă scrisă (Evaluare)
 - `clasa-5/unitatea-4/lectia-20`, Unitatea IV: Vreau să salvez lumea: Evaluare, probă scrisă (Evaluare)
@@ -88,17 +87,16 @@ manualul.
 | Unitate | Lecții | Cu material | Prezentare | Video | Test | Fișă | Joc sau quiz | Infografic | Schemă |
 |---|---|---|---|---|---|---|---|---|---|
 | Recapitulare inițială | 2 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
-| Unitatea I: Unde găsim frumusețea? | 26 | 25 | 0 | 0 | 0 | 25 | 13 | 1 | 14 |
+| Unitatea I: Unde găsim frumusețea? | 26 | 26 | 0 | 0 | 1 | 25 | 13 | 1 | 14 |
 | Unitatea II: Cum sunt ceilalți? | 23 | 22 | 0 | 0 | 0 | 22 | 13 | 1 | 16 |
 | Unitatea III: Cum descoperim lumea? | 25 | 24 | 0 | 0 | 0 | 23 | 10 | 0 | 14 |
 | Unitatea IV: Unde găsim adevărul? | 20 | 19 | 0 | 0 | 0 | 19 | 10 | 0 | 14 |
 | Unitatea V: Încotro se îndreaptă lumea? | 23 | 21 | 0 | 0 | 0 | 21 | 14 | 1 | 17 |
-| **Total** | **119** | **112** | **0** | **0** | **0** | **111** | **60** | **3** | **75** |
+| **Total** | **119** | **113** | **0** | **0** | **1** | **111** | **60** | **3** | **75** |
 
 ### Lecții fără niciun material
 
 - `clasa-8/recapitulare-initiala/lectia-1`, Recapitulare inițială: Prezentarea manualului (Organizare, prezentarea disciplinei)
-- `clasa-8/unitatea-1/lectia-26`, Unitatea I: Unde găsim frumusețea?: Evaluare (Evaluare)
 - `clasa-8/unitatea-2/lectia-23`, Unitatea II: Cum sunt ceilalți?: Evaluare (Evaluare)
 - `clasa-8/unitatea-3/lectia-25`, Unitatea III: Cum descoperim lumea?: Evaluare (Evaluare)
 - `clasa-8/unitatea-4/lectia-20`, Unitatea IV: Unde găsim adevărul?: Evaluare (Evaluare)

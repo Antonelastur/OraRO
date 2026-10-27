@@ -8,6 +8,8 @@ export type MaterialTest = {
   niveluri?: NivelTest[]
   rubrica?: string | null
   fisierPrintabil?: string | null
+  // document privat (Google Drive), deschis doar de contul profesoarei
+  linkDocument?: string | null
 }
 export type MaterialImagine = { fisier: string; titlu?: string | null }
 export type MaterialJocFisier = { titlu: string; fisier: string }
