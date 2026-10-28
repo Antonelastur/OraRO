@@ -107,31 +107,31 @@ export const unitatea1 = {
               intrebare: 'Cine povestește întâmplarea din textul „Prietenul meu”?',
               variante: [
                 {
-                  text: 'O fetiță, care spune ce i s-a întâmplat ei',
+                  text: 'Bogdan, un băiat din clasa a V-a, care spune ce i s-a întâmplat lui',
                   corect: true,
-                  explicatie: 'Textul e povestit la persoana I, de fetița care trăiește întâmplarea.',
+                  explicatie: 'Bogdan povestește la persoana I și spune despre sine: „ăsta sunt eu”.',
                 },
                 {
                   text: 'Un povestitor din afară, care nu apare în text',
                   corect: false,
-                  explicatie: 'Dacă ar fi așa, am citi „ea a spus”, nu „am spus”.',
+                  explicatie: 'Dacă ar fi așa, verbele ar fi la persoana a III-a, nu „am mers”, „am fost”.',
                 },
                 {
-                  text: 'Prietenul fetiței',
+                  text: 'Claudia, sora lui Bogdan',
                   corect: false,
-                  explicatie: 'Prietenul e personaj, dar nu el ține firul povestirii.',
+                  explicatie: 'Claudia e personaj, dar nu ea ține firul povestirii.',
                 },
               ],
               indiciu: 'Uită-te la formele verbelor: sunt la persoana I sau a III-a?',
-              sursa: 'Manual Art 5, pp. 10-12',
+              sursa: 'Manual Art 5, p. 10',
             },
             {
               intrebare: 'Ce înseamnă cuvântul „rigolă”, întâlnit în text?',
               variante: [
                 {
-                  text: 'Un șanț îngust pe marginea drumului, pentru scurgerea apei',
+                  text: 'Un șanț mic de-a lungul străzii, între carosabil și trotuar',
                   corect: true,
-                  explicatie: 'E un cuvânt pe care îl clarificăm din context și din dicționar.',
+                  explicatie: 'Așa îl explică nota de subsol din manual (p. 11).',
                 },
                 {
                   text: 'Un fel de fereastră mică',
@@ -151,7 +151,7 @@ export const unitatea1 = {
               intrebare: 'Care dintre acestea este o informație esențială din text, nu un amănunt?',
               variante: [
                 {
-                  text: 'Fetița își face un prieten neașteptat',
+                  text: 'Bogdan își dă seama că prietenul lui cel mai bun nu este Joi, ci Adi',
                   corect: true,
                   explicatie: 'Informația esențială e cea fără de care povestea nu se mai înțelege.',
                 },
@@ -170,26 +170,26 @@ export const unitatea1 = {
               sursa: 'Manual Art 5, pp. 10-12',
             },
             {
-              intrebare: 'Ce faci corect când desprinzi informațiile esențiale dintr-un text?',
+              intrebare: 'Ce compunere are de scris Bogdan pentru ora de română?',
               variante: [
                 {
-                  text: 'Reții cine, unde, când și ce se întâmplă',
+                  text: '„Prietenul meu cel mai bun”',
                   corect: true,
-                  explicatie: 'Cele patru repere dau scheletul oricărei întâmplări.',
+                  explicatie: 'Compunerea e tema care pornește toată întâmplarea din text.',
                 },
                 {
-                  text: 'Reții toate cuvintele necunoscute, în ordine',
+                  text: '„Cea mai frumoasă vacanță”',
                   corect: false,
-                  explicatie: 'Cuvintele necunoscute se clarifică, dar nu ele sunt informația esențială.',
+                  explicatie: 'Nu apare în text; titlul compunerii vorbește despre un prieten.',
                 },
                 {
-                  text: 'Reții doar ultima propoziție',
+                  text: '„Ziua mea de naștere”',
                   corect: false,
-                  explicatie: 'Finalul e important, dar singur nu spune despre ce e textul.',
+                  explicatie: 'Nu apare în text; textul e despre o zi de marți cu teză la matematică.',
                 },
               ],
-              indiciu: null,
-              sursa: 'Manual Art 5, pp. 10-12',
+              indiciu: 'Recitește începutul povestirii, de la p. 10.',
+              sursa: 'Manual Art 5, p. 10',
             },
           ],
         },
