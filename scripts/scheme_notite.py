@@ -39,11 +39,24 @@ PAD = 22                  # spațiul interior al secțiunii
 _fonturi = {}
 
 
+# Fără Segoe UI (de exemplu pe Linux) se măsoară cu Inter; Inter e cu aproximativ
+# 3% mai lat, deci lățimile se înmulțesc cu un factor măsurat pe schemele existente.
+FONTURI_INTER = Path('/usr/share/fonts/opentype/inter')
+FISIERE_INTER = {(False, False): 'Inter-Regular.otf', (True, False): 'Inter-Bold.otf',
+                 (False, True): 'Inter-Italic.otf', (True, True): 'Inter-BoldItalic.otf'}
+FACTOR_INTER = 0.967
+
+
 def latime(text, marime, b=False, i=False):
     cheie = (b, i)
     if cheie not in _fonturi:
-        _fonturi[cheie] = ImageFont.truetype(str(FONTURI / FISIERE_FONT[cheie]), 100)
-    return _fonturi[cheie].getlength(text) * marime / 100
+        segoe = FONTURI / FISIERE_FONT[cheie]
+        if segoe.exists():
+            _fonturi[cheie] = (ImageFont.truetype(str(segoe), 100), 1.0)
+        else:
+            _fonturi[cheie] = (ImageFont.truetype(str(FONTURI_INTER / FISIERE_INTER[cheie]), 100), FACTOR_INTER)
+    font, factor = _fonturi[cheie]
+    return font.getlength(text) * marime / 100 * factor
 
 
 # ---------- text îmbogățit ----------
