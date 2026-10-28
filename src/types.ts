@@ -32,10 +32,22 @@ export type Materiale = {
 // `activitate` e vocea profesorului (instrucțiunile pentru ea). `elevi`, opțional,
 // e textul adresat direct elevilor, singurul afișat pe tablă. Fără el, tabla arată
 // doar titlul etapei și cronometrul.
+// `joc`, opțional, e un joc interactiv de sortare, afișat pe tablă la etapa respectivă.
 // `materiale`, opțional, spune ce materiale ale lecției se folosesc la etapa asta;
 // tabla le arată la pasul respectiv. Fără el la nicio etapă, tabla le arată pe toate.
+// Joc de sortare pe tablă: cuvintele se așază pe categorii (de exemplu culorile unui semafor).
+// Înlocuiește jocurile cu bilețele decupate. Stă pe etapa în care se joacă, nu printre materiale.
+export type JocSortare = {
+  tip: 'sortare'
+  titlu: string
+  instructiune?: string
+  categorii: { id: string; nume: string; descriere?: string; culoare: string }[]
+  elemente: { text: string; categorie: string }[]
+  sursa: string
+}
+
 export type MaterialElev = 'prezentare' | 'video' | 'fisa' | 'joc' | 'infografic' | 'schema'
-export type EtapaLectie = { etapa: string; timp: string; activitate: string; elevi?: string; materiale?: MaterialElev[] }
+export type EtapaLectie = { etapa: string; timp: string; activitate: string; elevi?: string; materiale?: MaterialElev[]; joc?: JocSortare }
 
 export type PlanLectie = {
   titlu: string

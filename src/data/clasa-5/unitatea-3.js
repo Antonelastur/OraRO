@@ -1265,6 +1265,7 @@ export const unitatea3 = {
         ],
         resurse: [
           'Manual Art 5, pp. 96-97',
+          'Jocul „Semaforul”, interactiv, pe tablă (cuvintele se așază pe culorile semaforului; fără bilețele și afiș tipărite)',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-3/lectia-11/fisa-exercitii.pdf)',
           'Schema „Articolul” (/materiale/clasa-5/unitatea-3/lectia-11/schema.svg)',
           'Caietele elevilor',
@@ -1273,8 +1274,30 @@ export const unitatea3 = {
           {
             etapa: 'Jocul Semaforul',
             timp: '6 min',
-            activitate: '– „Explorare – Articolul”, ex. 1: fiecare elev primește un bilețel cu o formă a substantivului (stâlp, stâlpul, un stâlp...) și o scrie pe culoarea potrivită a semaforului desenat pe afiș.',
-            elevi: '„Explorare – Articolul”, ex. 1: primiți un bilețel cu o formă a substantivului (stâlp, stâlpul, un stâlp...) și o scrieți pe culoarea potrivită a semaforului de pe afiș.',
+            activitate: '– „Explorare – Articolul”, ex. 1: jocul rulează pe tablă. Pe rând, elevii vin la tablă, aleg un cuvânt (o formă a substantivelor stâlp, stradă, semafor) și îl așază pe culoarea potrivită a semaforului. La final apăs pe „Verifică” și discutăm greșelile.',
+            elevi: '„Explorare – Articolul”, ex. 1: pe rând, veniți la tablă și așezați cuvintele pe culorile semaforului. Alegeți culoarea după cât de bine cunoaștem obiectul.',
+            joc: {
+              tip: 'sortare',
+              titlu: 'Semaforul',
+              instructiune: 'Atinge un cuvânt, apoi culoarea semaforului pe care o potrivești.',
+              categorii: [
+                { id: 'rosu', nume: 'Roșu', descriere: 'Nu știm nimic despre obiect.', culoare: '#d63a2f' },
+                { id: 'galben', nume: 'Galben', descriere: 'Un obiect oarecare, neprecizat.', culoare: '#f2b61c' },
+                { id: 'verde', nume: 'Verde', descriere: 'Un obiect cunoscut, precizat.', culoare: '#2f9e55' },
+              ],
+              elemente: [
+                { text: 'stâlp', categorie: 'rosu' },
+                { text: 'stradă', categorie: 'rosu' },
+                { text: 'semafor', categorie: 'rosu' },
+                { text: 'un stâlp', categorie: 'galben' },
+                { text: 'o stradă', categorie: 'galben' },
+                { text: 'un semafor', categorie: 'galben' },
+                { text: 'stâlpul', categorie: 'verde' },
+                { text: 'strada', categorie: 'verde' },
+                { text: 'semaforul', categorie: 'verde' },
+              ],
+              sursa: 'Manual Art 5, p. 96, „Explorare – Articolul”, ex. 1',
+            },
           },
           {
             etapa: 'Ce s-a adăugat?',

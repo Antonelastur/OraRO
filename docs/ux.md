@@ -121,7 +121,9 @@ doar titlul etapei și cronometrul. Materialele se leagă de pași în câmpul o
 tabla le arată la pasul în care se folosesc, iar restul stau sub „Toate materialele
 orei”. O lecție fără `materiale` la nicio etapă le arată pe toate, ca înainte. Se
 leagă doar ce spune planul: fișa la pasul fișei, schema la notițe, quizul când
-planul îl pomenește. Testul nu apare. Reflecția și jurnalul se
+planul îl pomenește. Jocurile cu bilețele, afișe sau cartonașe nu se tipăresc: se adaptează
+pentru tablă ca joc interactiv, în câmpul opțional `joc` al etapei (acum, jocul de
+sortare, cu cuvinte așezate pe categorii, verificat la final cu „Verifică”). Testul nu apare. Reflecția și jurnalul se
 completează pe laptop, din plan.
 
 După START ORĂ interfața intră într-un mod special care elimină elementele care
