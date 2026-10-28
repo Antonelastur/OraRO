@@ -114,7 +114,7 @@ export const unitatea1 = {
                 {
                   text: 'Un povestitor din afară, care nu apare în text',
                   corect: false,
-                  explicatie: 'Dacă ar fi așa, verbele ar fi la persoana a III-a, nu „am mers”, „am fost”.',
+                  explicatie: 'Dacă ar fi așa, verbele ar fi la persoana a III-a, nu la persoana I.',
                 },
                 {
                   text: 'Claudia, sora lui Bogdan',
