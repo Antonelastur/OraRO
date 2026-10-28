@@ -625,14 +625,15 @@ SCHEME = [
         'sub': SUB.format(n=16, pp='pp. 36-37'),
         'sursa': 'Sursa: Manual Art 5, pp. 36-37, rubricile Repere, modelul de pagină și lista de control.',
         'sect': [
-            ('1. CELE CINCI ETAPE ALE SCRIERII', [
-                {'t': 'tabel', 'cap': ['Etapa', 'Ce fac'], 'lat': [0.24, 0.76],
-                 'r': [['**1. Pregătirea**', 'aleg subiectul, publicul și scopul; răspund la *cine? ce? când? unde? de ce? cum?*; fac planul și strâng informațiile'],
-                       ['**2. Ciorna**', 'scriu o primă variantă și dezvolt fiecare idee'],
-                       ['**3. Revizuirea**', 'verific dacă ideile sunt clare, exprimarea corectă, paragrafele marcate prin alineat; șterg ce nu e relevant'],
-                       ['**4. Editarea**', 'așez textul în pagină (titlul sus, la mijloc; fiecare paragraf cu alineat), rescriu lizibil, verific punctuația'],
-                       ['**5. Publicarea**', 'împărtășesc textul: panoul clasei, revista școlii, citire din scaunul autorului']]},
-                {'t': 'text', 's': 13.5, 'c': 'g', 'p': ['Mă pot întoarce oricând la o etapă anterioară.']},
+            ('1. CELE CINCI ETAPE ALE SCRIERII (recapitulare)', [
+                {'t': 'carduri', 'n': 5, 'c': [
+                    {'titlu': '1. Pregătirea', 'col': 't', 'p': ['subiect, public, scop, plan']},
+                    {'titlu': '2. Ciorna', 'col': 'm', 'p': ['prima variantă']},
+                    {'titlu': '3. Revizuirea', 'col': 'a', 'p': ['verific și îmbunătățesc']},
+                    {'titlu': '4. Editarea', 'col': 'n', 'p': ['așez în pagină și rescriu']},
+                    {'titlu': '5. Publicarea', 'col': 'v', 'p': ['împărtășesc textul']},
+                ]},
+                {'t': 'text', 's': 13.5, 'c': 'g', 'p': ['Etapele, cu toate acțiunile, sunt în notițele lecției 15. Mă pot întoarce oricând la o etapă anterioară.']},
             ]),
             ('2. RELATAREA', [
                 {'t': 'text', 's': 16, 'c': 'n', 'p': ['**Relatarea** este un text în care se prezintă detaliat un eveniment la care a participat cel care îl povestește.']},
