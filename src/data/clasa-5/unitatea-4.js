@@ -119,7 +119,7 @@ export const unitatea4 = {
               intrebare: 'Cum reușește Tezeu să iasă din labirint?',
               variante: [
                 {
-                  text: 'Cu ajutorul unui ghem de ață primit de la Ariadna, pe care îl desfășoară la intrare',
+                  text: 'Cu ajutorul unui ghem de sfoară primit de la Ariadna, pe care îl deșiră în urma lui',
                   corect: true,
                   explicatie: 'De aici vine expresia „firul Ariadnei”, folosită și azi.',
                 },
@@ -135,7 +135,7 @@ export const unitatea4 = {
                 },
               ],
               indiciu: 'Cine îl ajută pe Tezeu și cu ce obiect?',
-              sursa: 'Manual Art 5, p. 108',
+              sursa: 'Manual Art 5, p. 109',
             },
             {
               intrebare: 'Ce este o legendă?',
@@ -157,7 +157,7 @@ export const unitatea4 = {
                 },
               ],
               indiciu: null,
-              sursa: 'Manual Art 5, p. 108',
+              sursa: 'Creat pentru quiz; manualul nu definește legenda la pp. 108-109',
             },
             {
               intrebare: 'De ce pleacă Tezeu spre Creta?',
@@ -175,11 +175,11 @@ export const unitatea4 = {
                 {
                   text: 'Ca să se ascundă de tatăl lui',
                   corect: false,
-                  explicatie: 'Pleacă cu voia și cu grija tatălui său.',
+                  explicatie: 'Tezeu pleacă în ciuda lui Egeu, care încearcă să-l oprească (p. 109).',
                 },
               ],
               indiciu: null,
-              sursa: 'Manual Art 5, p. 108',
+              sursa: 'Manual Art 5, pp. 108-109',
             },
           ],
         },

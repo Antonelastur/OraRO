@@ -30,7 +30,7 @@ export const unitatea2 = {
       obiective: [
         'Identifică informații esențiale din textul narativ Vizită... de I.L. Caragiale.',
       ],
-      sursaManual: 'Art 5, Lecția 1, p. 42 (Vizită... de I.L. Caragiale); Ghidul profesorului',
+      sursaManual: 'Art 5, Lecția 1, pp. 42-44 (Vizită... de I.L. Caragiale); Ghidul profesorului',
       rezolvareGhid: null,
       planLectie: {
         titlu: 'Textul narativ literar. Vizită... de I.L. Caragiale',
@@ -42,6 +42,7 @@ export const unitatea2 = {
         ],
         resurse: [
           'Manual Art 5, pp. 42-44',
+          'Schema „Textul narativ literar. „Vizită…”” (/materiale/clasa-5/unitatea-2/lectia-1/schema.svg)',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-2/lectia-1/fisa-exercitii.pdf)',
           'Caietele elevilor',
         ],
@@ -57,18 +58,21 @@ export const unitatea2 = {
             timp: '3 min',
             activitate: '– Prezentarea de la p. 42: I.L. Caragiale, contemporan cu Eminescu, Creangă și Slavici; piese de teatru, nuvele, schițe; Teatrul Național din București îi poartă numele.\n– Întreb dacă au mai citit ceva de el.',
             elevi: 'I.L. Caragiale a trăit în aceeași epocă cu Eminescu, Creangă și Slavici. A scris piese de teatru, nuvele, schițe. Teatrul Național din București îi poartă numele.\nAți mai citit ceva de el?',
+            materiale: ['schema'],
           },
           {
             etapa: 'Lectura',
             timp: '15 min',
             activitate: '– Ex. 3: lectură în gând; fiecare notează cuvintele necunoscute și personajul pe care l-ar citi pe roluri.\n– Lectura pe roluri (musafirul-narator, madam Popescu, Ionel, jupâneasa) sau înregistrarea din manualul digital.\n– Lămurim cuvintele din subsol: onomastică, roșior, formalitate, de rigoare, mașină (spirtieră), marțial, rotat, a se reculege, neutralitate, chesea, vestibul, policandru, mondir; expresia franceză de la final.',
             elevi: 'Ex. 3: citiți textul în gând. Notați cuvintele necunoscute și personajul pe care l-ați citi pe roluri.\nLectura pe roluri: musafirul-narator, madam Popescu, Ionel, jupâneasa.\nCuvinte din subsol: onomastică, roșior, formalitate, de rigoare, mașină (spirtieră), marțial, rotat, a se reculege, neutralitate, chesea, vestibul, policandru, mondir; expresia franceză de la final.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Impresii după prima lectură',
             timp: '10 min',
             activitate: '– Ilustrația de la p. 43: se potrivește cu textul? Ce detalii lipsesc?\n– „Impresii după prima lectură”, ex. 1: fiecare notează în caiet ce l-a amuzat sau l-a nedumerit; câțiva citesc.\n– Ex. 2, în grupe: la ce experiență sau la ce altă lectură te-a dus textul?\n– Revenim la jocurile de pe tablă: apar în text? De ce da sau de ce nu?',
             elevi: 'Ilustrația de la p. 43: se potrivește cu textul? Ce detalii lipsesc?\n„Impresii după prima lectură”:\nEx. 1: notați în caiet ce v-a amuzat sau v-a nedumerit. Câțiva citesc.\nEx. 2, în grupe: la ce experiență sau la ce altă lectură v-a dus textul?\nRevenim la jocurile de pe tablă: apar în text? De ce da sau de ce nu?',
+            materiale: ['schema'],
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
@@ -121,14 +125,14 @@ export const unitatea2 = {
               intrebare: 'Cu ce ocazie merge musafirul în vizită?',
               variante: [
                 {
-                  text: 'De ziua onomastică a doamnei Popescu, mama lui Ionel',
+                  text: 'Ca să o felicite pe doamna Popescu pentru onomastica fiului ei, Ionel',
                   corect: true,
-                  explicatie: 'Vizita e una de politețe, de sărbătoare, ceea ce face purtarea lui Ionel și mai izbitoare.',
+                  explicatie: 'Musafirul vine, de Sf. Ion, să o felicite pe gazdă pentru onomastica lui Ionel (p. 42).',
                 },
                 {
-                  text: 'La o petrecere de Crăciun',
+                  text: 'De ziua onomastică a doamnei Popescu',
                   corect: false,
-                  explicatie: 'Textul nu vorbește despre sărbătorile de iarnă.',
+                  explicatie: 'Onomastica sărbătorită este a lui Ionel, fiul gazdei, nu a mamei lui.',
                 },
                 {
                   text: 'La o serbare școlară',
@@ -165,9 +169,9 @@ export const unitatea2 = {
               intrebare: 'Ce face un text să fie narativ?',
               variante: [
                 {
-                  text: 'Povestește o întâmplare, cu personaje, într-un anumit loc și timp',
+                  text: 'Prezintă o succesiune de întâmplări petrecute în ordine logică și temporală',
                   corect: true,
-                  explicatie: 'Textul narativ are acțiune care se desfășoară, spre deosebire de cel descriptiv.',
+                  explicatie: 'Așa definește manualul textul narativ (p. 46); are acțiune care se desfășoară, spre deosebire de cel descriptiv.',
                 },
                 {
                   text: 'Descrie amănunțit cum arată un loc',
@@ -181,12 +185,15 @@ export const unitatea2 = {
                 },
               ],
               indiciu: null,
-              sursa: 'Manual Art 5, p. 42',
+              sursa: 'Manual Art 5, p. 46',
             },
           ],
         },
         infografic: null,
-        schema: null,
+        schema: {
+          fisier: '/materiale/clasa-5/unitatea-2/lectia-1/schema.svg',
+          titlu: 'Textul narativ literar. „Vizită…”',
+        },
         altele: [],
       },
     },
@@ -626,6 +633,7 @@ export const unitatea2 = {
         ],
         resurse: [
           'Manual Art 5, p. 50',
+          'Schema „Semnificațiile textului” (/materiale/clasa-5/unitatea-2/lectia-5/schema.svg)',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-2/lectia-5/fisa-exercitii.pdf)',
           'Fișa lecției (/materiale/clasa-5/unitatea-2/lectia-5/fisa.pdf)',
           'Caietele elevilor',
@@ -642,6 +650,7 @@ export const unitatea2 = {
             timp: '10 min',
             activitate: '– „Interpretare”, p. 50, ex. 1-4, frontal: ce spun jucăriile despre Ionel; de ce o atacă pe jupâneasă; sunt „sănătoase” părerile mamei despre educație?; se poartă ca un adult, ca un ofițer?\n– Cer de fiecare dată dovada din text.',
             elevi: '„Interpretare”, p. 50, ex. 1-4: ce spun jucăriile despre Ionel? De ce o atacă pe jupâneasă? Sunt „sănătoase” părerile mamei despre educație? Se poartă Ionel ca un adult, ca un ofițer?\nDați de fiecare dată dovada din text.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Minidezbatere',
@@ -654,6 +663,7 @@ export const unitatea2 = {
             timp: '6 min',
             activitate: '– Ex. 7: tema textului, la tablă și în caiete (educația copiilor, relația dintre părinți și copii, familia...).\n– Ex. 8: ce arată punctele de suspensie din titlu? (o vizită cu peripeții).\n– Ex. 9: de ce se mai citește textul și azi?',
             elevi: 'Ex. 7: tema textului, la tablă și în caiet.\nEx. 8: ce arată punctele de suspensie din titlu?\nEx. 9: de ce se mai citește textul și azi?',
+            materiale: ['schema'],
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
@@ -667,7 +677,7 @@ export const unitatea2 = {
             timp: '8 min',
             activitate: '– Autoevaluare L1-L5: cele trei afirmații, în caiet.\n– Tema: „Provocări”, ex. 3 și 4 (educația din familie; răsfățul); ex. 5 (investigația), facultativ; fișa de exerciții, pagina 2, ex. 3-4; minitestul, dacă îl folosesc.',
             elevi: 'Autoevaluare L1-L5: completați în caiet cele trei afirmații.',
-            materiale: ['fisa'],
+            materiale: ['schema', 'fisa'],
           },
         ],
         evaluare: 'Observarea sistematică a argumentării; autoevaluarea L1-L5; fișa de exerciții, ex. 1-2.',
@@ -679,7 +689,10 @@ export const unitatea2 = {
         fisa: { fisier: '/materiale/clasa-5/unitatea-2/lectia-5/fisa.pdf', exercitii: '/materiale/clasa-5/unitatea-2/lectia-5/fisa-exercitii.pdf' },
         joc: null,
         infografic: null,
-        schema: null,
+        schema: {
+          fisier: '/materiale/clasa-5/unitatea-2/lectia-5/schema.svg',
+          titlu: 'Semnificațiile textului',
+        },
         altele: [],
       },
     },
@@ -773,6 +786,7 @@ export const unitatea2 = {
         ],
         resurse: [
           'Manual Art 5, pp. 53-54',
+          'Schema „Diversitate culturală: jocuri de ieri și de azi” (/materiale/clasa-5/unitatea-2/lectia-7/schema.svg)',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-2/lectia-7/fisa-exercitii.pdf)',
           'Infograficul „Jocuri de ieri și de azi” (/materiale/clasa-5/unitatea-2/lectia-7/infografic.svg)',
           'Caietele elevilor',
@@ -789,19 +803,21 @@ export const unitatea2 = {
             timp: '10 min',
             activitate: '– Citim lista lui Costin Moisil; fiecare bifează în gând jocurile jucate; din ce categorie ați bifat cele mai multe?\n– „Aplicații”, ex. 1, pe grupe: trei jocuri specific românești și trei împrumutate; completați lista cu jocuri digitale; care e cel mai popular în clasă?\n– Ex. 2: afișul expoziției „Piua”: ce sugerează praștia cu cablu electric?',
             elevi: 'Citim lista lui Costin Moisil. Bifați în gând jocurile jucate. Din ce categorie ați bifat cele mai multe?\n„Aplicații”, ex. 1, pe grupe: trei jocuri specific românești și trei împrumutate; completați lista cu jocuri digitale. Care este cel mai popular în clasă?\nEx. 2: afișul expoziției „Piua”: ce sugerează praștia cu cablu electric?',
+            materiale: ['schema'],
           },
           {
             etapa: 'Ce este jocul',
             timp: '3 min',
             activitate: '– În caiete, după Repere: jocul (distracție, imaginație, dar și reguli, respect, colaborare; apropie culturile).\n– Întrebare: poate fi lectura un joc? Cu ce reguli?',
             elevi: 'În caiet, după Repere și infograficul lecției: jocul (distracție, imaginație, dar și reguli, respect, colaborare; apropie culturile).\nPoate fi lectura un joc? Cu ce reguli?',
-            materiale: ['infografic'],
+            materiale: ['schema', 'infografic'],
           },
           {
             etapa: 'Jocuri de azi',
             timp: '10 min',
             activitate: '– Lectura în ștafetă a textului despre jocurile digitale (p. 54).\n– Întrebările a-e, frontal: cea mai importantă informație; ce e atractiv; ce seamănă cu jocul lecturii; identități noi în joc; jocurile digitale și învățarea.',
             elevi: 'Lectură în ștafetă: textul despre jocurile digitale (p. 54).\nÎntrebările a-e: cea mai importantă informație; ce este atractiv; ce seamănă cu jocul lecturii; identități noi în joc; jocurile digitale și învățarea.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
@@ -898,7 +914,10 @@ export const unitatea2 = {
           ],
         },
         infografic: { fisier: '/materiale/clasa-5/unitatea-2/lectia-7/infografic.svg', titlu: 'Jocuri de ieri și de azi' },
-        schema: null,
+        schema: {
+          fisier: '/materiale/clasa-5/unitatea-2/lectia-7/schema.svg',
+          titlu: 'Diversitate culturală: jocuri de ieri și de azi',
+        },
         altele: [],
       },
     },
@@ -2783,6 +2802,7 @@ export const unitatea2 = {
         ],
         resurse: [
           'Manual Art 5, p. 75',
+          'Schema „Textul narativ ficțional (II). Redactare” (/materiale/clasa-5/unitatea-2/lectia-19/schema.svg)',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-2/lectia-19/fisa-exercitii.pdf)',
           'Fișa lecției (/materiale/clasa-5/unitatea-2/lectia-19/fisa.pdf)',
           'Planul realizat la ora anterioară',
@@ -2807,6 +2827,7 @@ export const unitatea2 = {
             timp: '10 min',
             activitate: '– „Aplicații”, ex. 1: fiecare scrie planul după schemă: situația inițială (cadrul, personajele, cel puțin un imperfect); momentul care rupe echilibrul („Deodată...”, „Brusc...”); întâmplările (perfect compus sau prezent); situația finală.',
             elevi: '„Aplicații”, ex. 1: scrieți planul după schemă:\nsituația inițială (cadrul, personajele, cel puțin un imperfect);\nmomentul care rupe echilibrul („Deodată...”, „Brusc...”);\nîntâmplările (perfect compus sau prezent);\nsituația finală.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Feedback pe plan',
@@ -2819,14 +2840,14 @@ export const unitatea2 = {
             timp: '18 min',
             activitate: '– Ex. 3: fiecare scrie povestirea, pe fișa lecției (ciorna), după planul îmbunătățit.\n– Trec printre bănci, încurajez și notez observații (poate face planul, poate da feedback, textul e coerent și captivant).',
             elevi: 'Ex. 3: scrieți povestirea, pe fișa lecției (ciorna), după planul îmbunătățit.',
-            materiale: ['fisa'],
+            materiale: ['schema', 'fisa'],
           },
           {
             etapa: 'Autoevaluare și temă',
             timp: '5 min',
             activitate: '– Fiecare își evaluează textul cu grila de la p. 75 (Da/Nu).\n– Tema: forma finală, pe pagina a doua a fișei lecției; fișa de exerciții, ex. 2-4. Strâng textele și dau feedback ora viitoare.',
             elevi: 'Evaluați-vă textul cu grila de la p. 75 (Da/Nu).',
-            materiale: ['fisa'],
+            materiale: ['schema', 'fisa'],
           },
         ],
         evaluare: 'Grila de autoevaluare (p. 75); observațiile profesorului în timpul redactării; textul final.',
@@ -2838,7 +2859,10 @@ export const unitatea2 = {
         fisa: { fisier: '/materiale/clasa-5/unitatea-2/lectia-19/fisa.pdf', exercitii: '/materiale/clasa-5/unitatea-2/lectia-19/fisa-exercitii.pdf' },
         joc: null,
         infografic: null,
-        schema: null,
+        schema: {
+          fisier: '/materiale/clasa-5/unitatea-2/lectia-19/schema.svg',
+          titlu: 'Textul narativ ficțional (II). Redactare',
+        },
         altele: [],
       },
     },

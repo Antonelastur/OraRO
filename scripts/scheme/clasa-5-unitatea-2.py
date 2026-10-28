@@ -6,6 +6,7 @@
 SUB = 'Clasa a V-a · Unitatea II, Lecția {n} · Manual, {pp} · notițe pentru caiet'
 CREATE = ' Unele exemple sunt create pentru aceste notițe.'
 PERS = ['eu', 'tu', 'el, ea', 'noi', 'voi', 'ei, ele']
+RAND2 = '…' * 28 + ' ' + '…' * 28  # două rânduri de completat într-o coloană lată
 
 
 def conj(verbe, *coloane):
@@ -17,6 +18,59 @@ def conj(verbe, *coloane):
 
 
 SCHEME = [
+    # ---------------- Lecția 1 ----------------
+    {
+        'cale': 'clasa-5/unitatea-2/lectia-1',
+        'titlu': 'Textul narativ literar. „Vizită…”',
+        'sub': SUB.format(n=1, pp='pp. 42-44'),
+        'sursa': 'Sursa: Manual Art 5, pp. 42-44 (caseta autorului, textul, notele de subsol, „Impresii după prima lectură”, ex. 1). Lecția nu are rubrica Repere. Întrebările din fișă sunt create pentru aceste notițe, răspunsurile vin din text.',
+        'sect': [
+            ('1. AUTORUL ȘI SCHIȚA', [
+                {'t': 'carduri', 'c': [
+                    {'titlu': 'AUTORUL', 'col': 'm',
+                     'p': ['**I.L. Caragiale** (1852-1912)',
+                           'Este unul dintre cei mai importanți scriitori români; a fost contemporan cu Mihai Eminescu, Ion Creangă și Ioan Slavici.',
+                           'A scris piese de teatru, nuvele și schițe.',
+                           'Teatrul Național din București, al cărui director a fost pentru o scurtă perioadă (1888-1889), îi poartă numele.']},
+                    {'titlu': 'SCHIȚA', 'col': 't',
+                     'p': ['*Vizită…* este o schiță de I.L. Caragiale.',
+                           'Textele preferate ale copiilor sunt schițele, între care se numără și *Vizită…*.']},
+                ]},
+            ]),
+            ('2. FIȘA TEXTULUI', [
+                {'t': 'tabel', 'cap': ['Întrebarea', 'Ce găsesc în text'], 'lat': [0.27, 0.73],
+                 'r': [['Cine povestește?', 'Un **musafir**, care nu este numit. Povestește la persoana I: *„M-am dus de Sf. Ion să fac o vizită”* (p. 42).'],
+                       ['Care e ocazia vizitei?', '**Onomastica** lui Ionel Popescu, *„un copilaș foarte drăguț de vreo opt anișori”* (p. 42).'],
+                       ['Pe cine vizitează?', 'Pe doamna **Maria Popescu**, *„o veche prietenă”*, numită apoi *madam Popescu* (p. 42).'],
+                       ['Ce cadou aduce?', '*„o minge foarte mare de cauciuc și foarte elastică”* (p. 42).'],
+                       ['Cum e îmbrăcat Ionel?', '*„ca maior de roșiori în uniformă de mare ținută”* (p. 42).'],
+                       ['Unde se petrece?', 'În **salon** (p. 43). Spre sfârșit, Ionel iese cu cheseaua în **vestibul** (p. 44).'],
+                       ['Când se petrece?', '*„de Sf. Ion”* (p. 42); afară e *„gerul așa de aspru”* (p. 43).'],
+                       ['Cum se încheie?', 'Musafirul pleacă. Ajuns acasă, înțelege de ce Ionel ieșise cu cheseaua în vestibul. Răspunsul e în ultima frază (p. 44).']]},
+            ]),
+            ('3. CUVINTE NOI DIN NOTELE DE SUBSOL', [
+                {'t': 'tabel', 'cap': ['Cuvântul', 'Explicația din manual'], 'lat': [0.34, 0.66],
+                 'r': [['*onomastică* (s. f.), p. 42', 'zi în care cineva își serbează numele; ziua numelui'],
+                       ['*roșior* (s. m.), p. 42', 'soldat călăreț, îmbrăcat în haină roșie'],
+                       ['*formalitate* (s. f.), p. 42', 'în text, cerință impusă de regulile de politețe'],
+                       ['*de rigoare* (expr.), p. 42', 'care este cerut de o anumită împrejurare, potrivit împrejurării'],
+                       ['*marțial* (adj.), p. 43', 'cu aer războinic'],
+                       ['*a se reculege* (vb.), p. 43', 'în text, a-și veni în fire după o spaimă, după o emoție'],
+                       ['*neutralitate* (s. f.), p. 43', 'atitudine pasivă; în text, neamestecul unei persoane într-un conflict'],
+                       ['*chesea* (forma literară: *chisea*) (s. f.), p. 44', 'vas mic din sticlă, din cristal sau din porțelan, în care se păstrează dulceața'],
+                       ['*vestibul* (s. n.), p. 44', 'prima încăpere a unei locuințe, în care se intră venind din afară'],
+                       ['*mondir* (forma literară: *mundir*) (s. n.), p. 44', 'haina de la uniforma militară'],
+                       ['un cuvânt necunoscut, ales de mine', '……………………………………………']]},
+            ]),
+            ('4. IMPRESII DUPĂ PRIMA LECTURĂ', [
+                {'t': 'text', 'p': ['Ce mi-a atras atenția cel mai mult în *Vizită…*? Notez în caiet răspunsurile mele.']},
+                {'t': 'carduri', 'c': [
+                    {'titlu': 'Ce m-a amuzat ... .', 'col': 't', 'p': ['……………………………………………', '……………………………………………', '……………………………………………']},
+                    {'titlu': 'Ce m-a nedumerit ... .', 'col': 'm', 'p': ['……………………………………………', '……………………………………………', '……………………………………………']},
+                ]},
+            ]),
+        ],
+    },
     # ---------------- Lecția 2 ----------------
     {
         'cale': 'clasa-5/unitatea-2/lectia-2',
@@ -121,6 +175,55 @@ SCHEME = [
             ]),
         ],
     },
+    # ---------------- Lecția 5 ----------------
+    {
+        'cale': 'clasa-5/unitatea-2/lectia-5',
+        'titlu': 'Semnificațiile textului',
+        'sub': SUB.format(n=5, pp='p. 50'),
+        'sursa': 'Sursa: Manual Art 5, p. 50 (Interpretare ex. 2, 3, 4, 7, 8; Provocări ex. 1; Autoevaluare L1 – L5) și p. 15 (definiția temei, rubrica Repere). Lecția nu are rubrica Repere. Rândurile de completat sunt create pentru aceste notițe.',
+        'sect': [
+            ('1. ÎNTREBĂRI PENTRU INTERPRETARE', [
+                {'t': 'text', 'p': ['Întrebările sunt din rubrica *Interpretare*, p. 50. Caut răspunsul în text și îl notez cu cuvintele mele.']},
+                {'t': 'tabel', 'cap': ['Întrebarea din manual', 'Ce notez din text'], 'lat': [0.5, 0.5],
+                 'r': [['**Titlul** (ex. 8). Ce anume marchează punctele de suspensie din titlu? Despre ce fel de vizită este vorba?', RAND2],
+                       ['**Comportamentul lui Ionel** (ex. 4). Se comportă Ionel pe măsura a ceea ce vrea să pară: un adult, și încă ofițer?', RAND2],
+                       ['**Comportamentul lui Ionel** (ex. 2). De ce crezi că o atacă Ionel pe jupâneasă?', RAND2],
+                       ['**Ce spune mama despre educație** (p. 42): *„trebuie să mă ocup eu de el; trebuie să-i fac educația”*', RAND2],
+                       ['**Mama și Ionel** (ex. 3). Consideri că felul în care se comportă Ionel reflectă „părerile sănătoase” ale mamei în privința educației copiilor? Justifică-ți punctul de vedere.', RAND2]]},
+            ]),
+            ('2. TEMA TEXTULUI', [
+                {'t': 'text', 's': 16, 'c': 'n', 'p': ['**Tema** unui text oral sau scris este ideea centrală dezvoltată în cadrul acestuia. Pentru numirea temei se folosește un **substantiv**.']},
+                {'t': 'text', 's': 13.5, 'c': 'g', 'p': ['Definiția este din Unitatea I, p. 15, rubrica Repere.']},
+                {'t': 'text', 'p': ['Care este tema textului *Vizită…*? Pot alege dintre variantele din manual (ex. 7) sau pot propune alta:']},
+                {'t': 'carduri', 'n': 3, 'c': [
+                    {'titlu': 'copilăria', 'col': 't', 'st': 15},
+                    {'titlu': 'educația copiilor', 'col': 'm', 'st': 15},
+                    {'titlu': 'relația dintre copii și părinți', 'col': 'a', 'st': 15},
+                    {'titlu': 'jocurile', 'col': 'n', 'st': 15},
+                    {'titlu': 'familia', 'col': 't', 'st': 15},
+                    {'titlu': 'politețea', 'col': 'm', 'st': 15},
+                ]},
+                {'t': 'text', 'p': ['Tema aleasă de mine: ' + '…' * 22, 'O justific astfel: ' + '…' * 24]},
+            ]),
+            ('3. CADRANELE (PROVOCĂRI, EX. 1)', [
+                {'t': 'text', 'p': ['Completez cadranele pentru textul *Vizită…*.']},
+                {'t': 'carduri', 'c': [
+                    {'titlu': 'Mi-a plăcut textul pentru că ... .', 'col': 't', 'p': ['…………………………………', '…………………………………']},
+                    {'titlu': 'Nu mi-a plăcut în text că ... .', 'col': 'm', 'p': ['…………………………………', '…………………………………']},
+                    {'titlu': 'Nu am înțeles din text ... .', 'col': 'a', 'p': ['…………………………………', '…………………………………']},
+                    {'titlu': 'Textul mi-a amintit de ... .', 'col': 'n', 'p': ['…………………………………', '…………………………………']},
+                ]},
+            ]),
+            ('4. AUTOEVALUARE L1 – L5', [
+                {'t': 'text', 'p': ['Completez, în caiet, următoarele afirmații:']},
+                {'t': 'carduri', 'n': 1, 'c': [
+                    {'titlu': 'Din ceea ce am învățat, cel mai important mi se pare … .', 'col': 't', 'p': ['…………………………………………………………………………………………………………………………………………………………']},
+                    {'titlu': 'Cel mai mult mi-a plăcut activitatea … .', 'col': 'm', 'p': ['…………………………………………………………………………………………………………………………………………………………']},
+                    {'titlu': 'Cel mai dificil mi s-a părut … .', 'col': 'a', 'p': ['…………………………………………………………………………………………………………………………………………………………']},
+                ]},
+            ]),
+        ],
+    },
     # ---------------- Lecția 6 ----------------
     {
         'cale': 'clasa-5/unitatea-2/lectia-6',
@@ -156,6 +259,60 @@ SCHEME = [
                        ['*viperenie*', 'cuvânt inventat de autoare: răutate, jignire'],
                        ['*insinuant*', 'care strecoară aluzii răutăcioase'],
                        ['*harpie*', 'monstru din mitologia greacă; femeie arțăgoasă și rea']]},
+            ]),
+        ],
+    },
+    # ---------------- Lecția 7 ----------------
+    {
+        'cale': 'clasa-5/unitatea-2/lectia-7',
+        'titlu': 'Diversitate culturală: jocuri de ieri și de azi',
+        'sub': SUB.format(n=7, pp='pp. 53-54'),
+        'sursa': 'Sursa: Manual Art 5, p. 53 (Repere, Pentru început ex. 1-2, Lista lui Costin Moisil din volumul Piua!, Muzeul Țăranului Român) și p. 54 (textul „Jocurile digitale”). Coloanele libere sunt create pentru aceste notițe.',
+        'sect': [
+            ('1. CE ESTE JOCUL', [
+                {'t': 'text', 's': 16, 'c': 'n', 'p': ['**Jocul** este o activitate fizică sau mentală care nu urmărește un scop practic, ci divertismentul sau alungarea plictiselii. Reprezintă o dimensiune proprie tuturor oamenilor, de oricând și de oriunde.']},
+                {'t': 'text', 'p': ['Pe de o parte, jocul înseamnă distracție, libertate, fantezie dezlănțuită, imaginație și creativitate, din care pot rezulta uneori soluții noi sau creații originale.',
+                                    'Pe de altă parte, jocul înseamnă și reguli, cunoașterea și respectarea acestora, ceea ce presupune respectul reciproc și colaborarea jucătorilor.',
+                                    'Jocul poate apropia oameni din spații culturale diverse.']},
+            ]),
+            ('2. CUVÂNTUL JOC ÎN LIMBI DIFERITE', [
+                {'t': 'text', 'p': ['Observ în ce limbi echivalentul cuvântului *joc* are o formă apropiată de cea din limba română și notez în ultima coloană.']},
+                {'t': 'tabel', 'cap': ['Cuvântul', 'Limba', 'Seamănă cu româna?'], 'lat': [0.28, 0.32, 0.40],
+                 'r': [['*joc*', 'română', ''],
+                       ['*game*', 'engleză', ''],
+                       ['*jeu*', 'franceză', ''],
+                       ['*Spiel*', 'germană', ''],
+                       ['*játék*', 'maghiară', ''],
+                       ['*gioco*', 'italiană', ''],
+                       ['*gra*', 'poloneză', ''],
+                       ['*spill*', 'norvegiană', ''],
+                       ['*jogo*', 'portugheză', ''],
+                       ['*juego*', 'spaniolă', ''],
+                       ['*joc*', 'catalană', ''],
+                       ['*hra*', 'cehă', ''],
+                       ['*spil*', 'daneză', '']]},
+            ]),
+            ('3. JOCURI DE IERI', [
+                {'t': 'text', 'p': ['Lista lui Costin Moisil are cinci categorii de jocuri. Pentru fiecare, caut în listă și notez un joc tradițional de la noi și un joc dintr-o altă țară.']},
+                {'t': 'tabel', 'cap': ['Categoria din listă', 'Un joc tradițional de la noi', 'Un joc dintr-o altă țară'], 'lat': [0.36, 0.32, 0.32],
+                 'r': [['**De jucat afară** (în listă: *Leapșa*, *Șotron*, *Coarda*)', '', ''],
+                       ['**Jocuri cu mingea și alte cele, obligatoriu afară** (în listă: *Țările*, *Rațele și vânătorii*, *Castelul*)', '', ''],
+                       ['**De jucat în casă, în clasă** (în listă: *Bambilici*, *Ping-pong*, *X și 0*)', '', ''],
+                       ['**De jucat în casă sau oriunde** (în listă: *Telefonul fără fir*, *Mima*, *Arșice*)', '', ''],
+                       ['**Alte jocuri** (în listă: *Șah*, *Table*, *Dame*)', '', '']]},
+                {'t': 'text', 's': 13.5, 'c': 'g', 'p': ['Exemplele din coloana întâi sunt luate din lista de la p. 53; jocurile din celelalte coloane le aleg eu.']},
+            ]),
+            ('4. JOCURI DE AZI', [
+                {'t': 'carduri', 'n': 1, 'c': [
+                    {'titlu': 'Johan Huizinga', 'col': 'm',
+                     'p': ['Istoricul olandez Johan Huizinga a pornit de la ideea că *„jocul este punctul de origine al culturii noastre”*.']},
+                    {'titlu': 'serious games', 'col': 't',
+                     'p': ['*Serious games* (termenul în engleză pentru „jocuri serioase”) se folosesc de structura motivantă și distractivă a jocurilor digitale pentru a transmite cunoștințe și a forma abilități.']},
+                    {'titlu': 'senzația de eficiență', 'col': 'a',
+                     'p': ['**Senzația de eficiență** este o convingere personală cu privire la performanța pe care o poate realiza acel individ într-o anume situație.',
+                           'Definiția este dată de Christoph Klimmt, cercetător în domeniul jocurilor pe computer.']},
+                ]},
+                {'t': 'text', 'p': ['Completez lista de jocuri cu cele digitale pe care le cunosc (p. 53, Aplicații ex. 1 b):', '…………………………………………………………………………………………………………………………………………………………']},
             ]),
         ],
     },
@@ -539,6 +696,52 @@ SCHEME = [
                                     '• Titlul corespunde conținutului și este sugestiv.',
                                     '• Textul este surprinzător, original.',
                                     '• Textul e așezat corect în pagină; am respectat ortografia și punctuația.']},
+            ]),
+        ],
+    },
+    # ---------------- Lecția 19 ----------------
+    {
+        'cale': 'clasa-5/unitatea-2/lectia-19',
+        'titlu': 'Textul narativ ficțional (II). Redactare',
+        'sub': SUB.format(n=19, pp='p. 75'),
+        'sursa': 'Sursa: Manual Art 5, p. 75, Aplicații ex. 1 (schema planului) și 3 (criteriile) și regulile de așezare în pagină din rubrica Repere. Definiția și pașii scrierii sunt în schema Lecției 18. Spațiile de completat sunt create pentru aceste notițe.',
+        'sect': [
+            ('1. PLANUL POVESTIRII MELE', [
+                {'t': 'text', 'p': ['Concepe planul pentru un text narativ ficțional, pornind de la întrebarea *Ce s-ar întâmpla dacă într-o zi ți s-ar îndeplini cea mai mare dorință?*. Folosește schema de mai jos.']},
+                {'t': 'carduri', 'n': 1, 'c': [
+                    {'titlu': 'Situația inițială', 'col': 't',
+                     'p': ['• Prezintă cadrul în care se desfășoară acțiunea, introdu personajele.',
+                           '• Din acest paragraf trebuie să reiasă care este situația de echilibru din momentul inițial (înainte de a ți se îndeplini cea mai mare dorință).',
+                           '• Folosește cel puțin un verb la timpul imperfect al modului indicativ.',
+                           '…………………………………………………………………………………………………………………………………………………………', '…………………………………………………………………………………………………………………………………………………………']},
+                    {'titlu': 'Succesiunea de întâmplări', 'col': 'm',
+                     'p': ['• Indică problema/cauza care modifică echilibrul inițial și declanșează acțiunea. Poți introduce problema prin cuvinte precum: *Deodată/Brusc,* …',
+                           '• Prezintă urmările declanșate de ruperea echilibrului: adică acțiunile, în ordinea în care se derulează.',
+                           '• Folosește mai ales verbe la timpul perfect compus sau prezent. Pentru a reda acțiuni anterioare, poți utiliza și mai-mult-ca-perfectul.',
+                           '…………………………………………………………………………………………………………………………………………………………', '…………………………………………………………………………………………………………………………………………………………']},
+                    {'titlu': 'Situația finală', 'col': 'a',
+                     'p': ['• Precizează modul în care se revine la o nouă situație de echilibru.',
+                           '• Folosește verbe la modul indicativ, timpul perfect compus sau prezent.',
+                           '…………………………………………………………………………………………………………………………………………………………', '…………………………………………………………………………………………………………………………………………………………']},
+                ]},
+            ]),
+            ('2. AȘEZAREA ÎN PAGINĂ', [
+                {'t': 'text', 'p': ['În etapa rescrierii textului în variantă finală, o atenție deosebită este acordată prezentării textului.',
+                                    'Pentru a obține o prezentare clară și îngrijită, trebuie acordată atenție așezării în pagină a textului, astfel încât titlul și paragrafele să fie clar evidențiate.']},
+                {'t': 'text', 's': 16, 'c': 'n', 'p': ['• Titlul se scrie în partea de sus a paginii, la mijloc.',
+                                                       '• Fiecare paragraf începe cu alineat.',
+                                                       '• Scrisul trebuie să fie lizibil (să poată fi citit cu ușurință) și ordonat, pe cât posibil fără ștersături.']},
+            ]),
+            ('3. GRILA DE AUTOEVALUARE', [
+                {'t': 'text', 'p': ['Evaluează-ți textul pe baza următoarelor criterii:']},
+                {'t': 'tabel', 'cap': ['Criteriul', 'Da', 'Nu'], 'lat': [0.80, 0.10, 0.10], 'al': ['l', 'c', 'c'],
+                 'r': [['1. Din textul meu rezultă clar următoarele: • cine face acțiunea • ce se întâmplă, care este succesiunea întâmplărilor • unde și când se petrece acțiunea.', '', ''],
+                       ['2. Textul este coerent (acțiunile se înlănțuie logic și între secvențe există legături clare).', '', ''],
+                       ['3. Am folosit timpurile modului indicativ în mod adecvat secvențelor acțiunii.', '', ''],
+                       ['4. Titlul corespunde conținutului și este sugestiv.', '', ''],
+                       ['5. Textul este surprinzător, original.', '', ''],
+                       ['6. Textul este așezat corect în pagină, iar scrisul e lizibil și îngrijit, fără ștersături.', '', ''],
+                       ['7. Am respectat regulile de ortografie și de punctuație.', '', '']]},
             ]),
         ],
     },
