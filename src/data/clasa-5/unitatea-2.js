@@ -570,6 +570,7 @@ export const unitatea2 = {
             timp: '8 min',
             activitate: '– „Explorare”, p. 48, ex. 1: personajele în ordinea apariției și în ordinea importanței.\n– Ex. 2: fișa de identitate a lui Ionel (familie, vârstă, trăsături fizice, îmbrăcăminte), în caiet.',
             elevi: '„Explorare”, p. 48:\nEx. 1: personajele în ordinea apariției și în ordinea importanței.\nEx. 2: fișa de identitate a lui Ionel (familie, vârstă, trăsături fizice, îmbrăcăminte), în caiet.',
+            materiale: ['fisa'],
           },
           {
             etapa: 'Dirijarea învățării: personajul',
@@ -730,12 +731,14 @@ export const unitatea2 = {
             timp: '15 min',
             activitate: '– Explic metoda: pagina împărțită în două; stânga, pasajul care te-a impresionat; dreapta, de ce l-ai ales (ți-a amintit ceva, nu ești de acord, te-a surprins).\n– Lectură în gând; fiecare notează cel puțin trei pasaje.\n– Lămurim glosarul: mârșăvie, ferocitate, scatoalcă, viperenie (inventat de autoare), insinuant, harpie.',
             elevi: 'Jurnalul cu dublă intrare: împărțiți pagina în două. Stânga: pasajul care v-a impresionat. Dreapta: de ce l-ați ales (v-a amintit ceva, nu sunteți de acord, v-a surprins).\nCitiți în gând și notați cel puțin trei pasaje.\nGlosar: mârșăvie, ferocitate, scatoalcă, viperenie (inventat de autoare), insinuant, harpie.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Discutarea textului',
             timp: '12 min',
             activitate: '– „Discutarea textului”, ex. 1: în perechi, comparați jurnalele.\n– Ex. 4, minidezbatere pe grupe: ce are fragmentul în comun cu Vizită...?\n– Ex. 6: fetele și băieții sunt „specii diferite”? Un elev e reporter și întreabă câte un reprezentant al fetelor și al băieților.\n– Ex. 7: e furt să trișezi la joc? Răspuns scurt, în scris.',
             elevi: '„Discutarea textului”:\nEx. 1: în perechi, comparați jurnalele.\nEx. 4, minidezbatere pe grupe: ce are fragmentul în comun cu Vizită...?\nEx. 6: fetele și băieții sunt „specii diferite”? Un elev este reporter și întreabă câte un reprezentant al fetelor și al băieților.\nEx. 7: este furt să trișezi la joc? Răspuns scurt, în scris.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
@@ -954,7 +957,7 @@ export const unitatea2 = {
             timp: '15 min',
             activitate: '– Sarcina (p. 55): prezintă un joc aflat de la părinți, bunici sau de la cineva din comunitate, românesc sau din altă cultură.\n– Calendarul, trei săptămâni: I – interviul, alegerea jocului, documentarea; II – posterul, cu desene sau fotografii și sursele; III – prezentarea orală, de cel mult trei minute, exersată acasă.\n– Împart fișa proiectului; stabilim data prezentărilor.',
             elevi: 'Proiect individual (p. 55): prezentați un joc aflat de la părinți, bunici sau de la cineva din comunitate, românesc sau din altă cultură.\nCalendar, trei săptămâni: săptămâna I: interviul, alegerea jocului, documentarea; săptămâna a II-a: posterul, cu desene sau fotografii și sursele; săptămâna a III-a: prezentarea orală, de cel mult trei minute, exersată acasă.\nStabilim data prezentărilor.',
-            materiale: ['fisa'],
+            materiale: ['schema', 'fisa'],
           },
           {
             etapa: 'Criteriile de evaluare',
@@ -968,6 +971,7 @@ export const unitatea2 = {
             timp: '12 min',
             activitate: '– Formulăm împreună 5-6 întrebări pentru persoana intervievată: Cum se numea jocul? Câți jucători erau? Care erau regulile? Unde se juca? De la cine l-ați învățat? Se mai joacă azi?\n– Elevii le notează în caiet; două perechi simulează interviul în fața clasei.',
             elevi: 'Formulăm împreună 5-6 întrebări pentru persoana intervievată: Cum se numea jocul? Câți jucători erau? Care erau regulile? Unde se juca? De la cine l-ați învățat? Se mai joacă azi?\nNotați-le în caiet. Două perechi simulează interviul în fața clasei.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Planul personal',
@@ -1046,6 +1050,7 @@ export const unitatea2 = {
             timp: '17 min',
             activitate: '– „Aplicații”, ex. 1: șase perechi trag pe tablă situațiile 1-6 (jocul „Situațiile”); 3 minute de pregătire, 2 minute de joc.\n– Ceilalți completează fișa de observare de la ex. 2 (rol interpretat corect, exprimare clară, politețe).\n– După fiecare joc: ce formule au folosit? (Vreau să te invit..., Îmi pare rău, dar..., Mulțumesc mult...).',
             elevi: 'Jocurile de rol, „Aplicații”:\nEx. 1: șase perechi trag, pe rând, la tablă situațiile 1-6; 3 minute de pregătire, 2 minute de joc.\nCeilalți completează fișa de observare de la ex. 2 (rol interpretat corect, exprimare clară, politețe).\nDupă fiecare joc: ce formule au folosit perechile?',
+            materiale: ['fisa'],
             joc: {
               tip: 'extragere',
               titlu: 'Situațiile',
@@ -2752,6 +2757,7 @@ export const unitatea2 = {
             timp: '6 min',
             activitate: '– În caiete, după Repere (p. 75): textul narativ ficțional (situație inițială de echilibru, complicații, nouă echilibrare); pașii scrierii (plan, prima variantă, revizuire, editare); prezentarea textului (titlul la mijloc, alineat, scris lizibil).\n– Timpurile potrivite: imperfectul pentru cadru, perfectul compus sau prezentul pentru întâmplări, mai-mult-ca-perfectul pentru ce se petrecuse înainte.',
             elevi: 'În caiet, după Repere (p. 75): textul narativ ficțional (situație inițială de echilibru, complicații, nouă echilibrare); pașii scrierii (plan, prima variantă, revizuire, editare); prezentarea textului (titlul la mijloc, alineat, scris lizibil).\nTimpurile potrivite: imperfectul pentru cadru, perfectul compus sau prezentul pentru întâmplări, mai-mult-ca-perfectul pentru ce se petrecuse înainte.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
@@ -2899,6 +2905,7 @@ export const unitatea2 = {
             timp: '38 min',
             activitate: '– Fiecare elev își prezintă posterul (3 minute), apoi răspunde la una-două întrebări ale colegilor (1 minut).\n– Completez grila din fișa proiectului pentru fiecare.\n– Într-o oră încap cam nouă-zece prezentări; ceilalți continuă ora viitoare.',
             elevi: 'Fiecare își prezintă posterul (3 minute), apoi răspunde la una-două întrebări ale colegilor (1 minut).',
+            materiale: ['fisa'],
           },
           {
             etapa: 'Autoevaluare',
@@ -2960,6 +2967,7 @@ export const unitatea2 = {
             timp: '8 min',
             activitate: '– Ex. 2: citesc eu primul fragment, apoi elevii îl recitesc în gând.\n– Ex. 3-6: ideea principală; situația inițială și ce o modifică; personajele; cine va fi personajul principal și pe ce vă bazați.',
             elevi: 'Ex. 2: ascultați primul fragment, apoi recitiți-l în gând.\nEx. 3-6: ideea principală; situația inițială și ce o modifică; personajele; cine va fi personajul principal și pe ce vă bazați.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Al doilea fragment',
@@ -3062,6 +3070,7 @@ export const unitatea2 = {
             timp: '15 min',
             activitate: '– Ex. 16 (verbele și modul, timpul lor), ex. 17 (din perfect simplu în perfect compus), ex. 18 (viitorul), ex. 19 (timpurile din textul despre pălăria fermecată), ex. 20 (imperativele corecte), la tablă și în caiete.\n– Ex. 21: doi elevi citesc planul dezvoltat făcut acasă; ceilalți verifică după lista de control de la p. 47.',
             elevi: 'Rezolvare ghidată, la tablă și în caiete:\nEx. 16: verbele și modul, timpul lor.\nEx. 17: din perfect simplu în perfect compus.\nEx. 18: viitorul.\nEx. 19: timpurile din textul despre pălăria fermecată.\nEx. 20: imperativele corecte.\nEx. 21: doi dintre voi citesc planul dezvoltat făcut acasă; ceilalți verifică după lista de control de la p. 47.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',

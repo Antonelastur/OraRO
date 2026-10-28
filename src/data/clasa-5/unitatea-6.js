@@ -1502,6 +1502,7 @@ export const unitatea6 = {
             timp: '36 min',
             activitate: '– Fiecare grupă prezintă domnitorul: numele, epoca, trăsăturile din text, valorile promovate, ce arată imaginea (trăsături fizice, ținută, culori) și informații de la istorie.\n– Colegii pun întrebări; eu completez grila din fișa proiectului pentru fiecare grupă și notez un punct tare și o sugestie.',
             elevi: 'Fiecare grupă prezintă domnitorul: numele, epoca, trăsăturile din text, valorile promovate, ce arată imaginea (trăsături fizice, ținută, culori) și informații de la istorie.\nPuneți întrebări colegilor.',
+            materiale: ['fisa'],
           },
           {
             etapa: 'Reflecții',
@@ -1985,6 +1986,7 @@ export const unitatea6 = {
             timp: '4 min',
             activitate: '– În caiete, după Repere (p. 188): într-o compunere se pot integra, ca într-un colaj, desene, fotografii, grafice, scheme; imaginea completează textul, nu îl repetă.',
             elevi: 'În caiet, după Repere (p. 188): într-o compunere se pot integra, ca într-un colaj, desene, fotografii, grafice, scheme; imaginea completează textul, nu îl repetă.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
@@ -2057,7 +2059,7 @@ export const unitatea6 = {
             timp: '6 min',
             activitate: '– Fiecare alege locul de la ora trecută (sau altul) și completează planul din fișa de exerciții (ex. 1): ce scrie în introducere, cuprins, încheiere și ce imagine pune alături.',
             elevi: 'Alegeți locul de la ora trecută (sau altul) și completați planul din fișa de exerciții (ex. 1): ce scrieți în introducere, cuprins, încheiere și ce imagine puneți alături.',
-            materiale: ['fisa'],
+            materiale: ['schema', 'fisa'],
           },
           {
             etapa: 'Materialul grafic',
@@ -2137,6 +2139,7 @@ export const unitatea6 = {
             timp: '6 min',
             activitate: '– P. 189: citesc fragmentul din „O scurtă istorie a românilor povestită celor tineri” de Neagu Djuvara (Rovine și Nicopole).',
             elevi: 'P. 189: ascultați fragmentul din „O scurtă istorie a românilor povestită celor tineri” de Neagu Djuvara (Rovine și Nicopole).',
+            materiale: ['schema'],
           },
           {
             etapa: 'Ex. 1-2',
@@ -2252,6 +2255,7 @@ export const unitatea6 = {
             timp: '4 min',
             activitate: '– Frontal: enunțurile a-c din text sunt simple sau complexe? Numărăm predicatele.',
             elevi: 'Ex. 9, frontal: enunțurile a-c din text sunt simple sau complexe? Numărăm predicatele.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',

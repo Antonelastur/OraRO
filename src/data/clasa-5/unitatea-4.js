@@ -1007,7 +1007,7 @@ export const unitatea4 = {
             timp: '5 min',
             activitate: '– În caiete, cu sprijinul fișei lecției: scopul (instrucțiuni: cum se face ceva); structura (titlu, materiale, pași ordonați, numerotați sau pe paragrafe); verbe la imperativ; schițe, marcatori, culori.',
             elevi: 'În caiet, cu sprijinul fișei lecției: scopul (instrucțiuni: cum se face ceva); structura (titlu, materiale, pași ordonați, numerotați sau pe paragrafe); verbe la imperativ; schițe, marcatori, culori.',
-            materiale: ['fisa'],
+            materiale: ['schema', 'fisa'],
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
@@ -1169,7 +1169,7 @@ export const unitatea4 = {
             timp: '12 min',
             activitate: '– „Explorare”, ex. 1: fiecare desenează în caiet tabelul cu trei rubrici și completează primele două (ce știe despre eroi, și de la istorie; ce ar vrea să afle).\n– Elevii citesc în gând informațiile de la pp. 122-123 (Ghilgameș, eroii greci, Eneas, sfântul, regele și cavalerul medieval, eroul național, eroul universal, supereroii).\n– Grupe de 4-5: aleg ce păstrează pentru fișa grupei; un reprezentant o citește.',
             elevi: 'Știu, vreau să știu, am învățat. „Explorare”, ex. 1: desenați în caiet tabelul cu trei rubrici și completați primele două (ce știți despre eroi, și de la istorie; ce ați vrea să aflați).\nCitiți în gând informațiile de la pp. 122-123 (Ghilgameș, eroii greci, Eneas, sfântul, regele și cavalerul medieval, eroul național, eroul universal, supereroii).\nÎn grupe de 4-5: alegeți ce păstrați pentru fișa grupei; un reprezentant o citește.',
-            materiale: ['schema'],
+            materiale: ['schema', 'fisa'],
           },
           {
             etapa: 'Explorare, ex. 2-5',
@@ -1660,6 +1660,7 @@ export const unitatea4 = {
             timp: '8 min',
             activitate: '– Ex. 3: completăm oral propozițiile a-f cu pronume personale potrivite.\n– Ex. 4, joc: ce parte de vorbire este cuvântul colorat; câștigă cine termină primul corect. Discutăm omonimele: mine (pronume) – mine (substantiv), -i (pronume) – -i (verb).',
             elevi: '„Aplicații”:\nEx. 3: completați oral propozițiile a-f cu pronume personale potrivite.\nEx. 4, joc: ce parte de vorbire este cuvântul colorat? Câștigă cine termină primul corect. Discutăm omonimele: mine (pronume) și mine (substantiv); -i (pronume) și -i (verb).',
+            materiale: ['schema'],
           },
           {
             etapa: 'Pastila de ortografie',
@@ -2285,6 +2286,7 @@ export const unitatea4 = {
             timp: '4 min',
             activitate: '– În caiete, după Repere: portretul (elemente fizice și morale, trăsături care particularizează); autoportretul (portretul pe care și-l face cineva singur, la persoana I).',
             elevi: 'În caiet, după Repere: portretul (elemente fizice și morale, trăsături care particularizează); autoportretul (portretul pe care și-l face cineva singur, la persoana I).',
+            materiale: ['schema'],
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
@@ -2440,6 +2442,7 @@ export const unitatea4 = {
             timp: '6 min',
             activitate: '– Ex. 1, p. 136: citesc fragmentul din „Legendele Olimpului” de Alexandru Mitru, lupta lui Heracle cu leul din Nemeea.',
             elevi: 'Ex. 1, p. 136: ascultați fragmentul din „Legendele Olimpului” de Alexandru Mitru, lupta lui Heracle cu leul din Nemeea.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Ex. 2-4',
@@ -2555,6 +2558,7 @@ export const unitatea4 = {
             timp: '7 min',
             activitate: '– Ex. 12: persoana, numărul, genul și forma pronumelor personale din cele două fragmente, la tablă.\n– Ex. 13: adjectivele care descriu ochii leului și felul lor.',
             elevi: 'Ex. 12: persoana, numărul, genul și forma pronumelor personale din cele două fragmente, la tablă.\nEx. 13: adjectivele care descriu ochii leului și felul lor.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Ex. 14-17',
