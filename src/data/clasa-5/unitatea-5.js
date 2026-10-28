@@ -46,6 +46,7 @@ export const unitatea5 = {
         ],
         resurse: [
           'Manual Art 5, pp. 140-143',
+          'Schema „Textul narativ literar. Zâna Munților, basm cules de Petre Ispirescu” (/materiale/clasa-5/unitatea-5/lectia-1/schema.svg)',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-5/lectia-1/fisa-exercitii.pdf)',
           'Quizul „Zâna Munților” (materialul de joc al lecției)',
           'Caietele elevilor',
@@ -62,18 +63,21 @@ export const unitatea5 = {
             timp: '2 min',
             activitate: '– Caseta de la p. 140: Petre Ispirescu (1830-1887), tipograf, culegător de basme; „Legendele sau basmele românilor” (1872). La final, notăm de la cine a auzit basmul (o calfă de bărbier).',
             elevi: 'Petre Ispirescu (1830-1887) a fost tipograf și culegător de basme. A publicat „Legendele sau basmele românilor” (1872).\nLa final notăm de la cine a auzit basmul.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Lectura model',
             timp: '14 min',
             activitate: '– Ex. 3: citesc basmul cu voce tare (sau pornesc înregistrarea din manualul digital); elevii urmăresc.\n– Lămurim cuvintele din subsol (sfadă, filozof, procopsit, galeș, a tânji, smerenie, vătaf, preumblare, boi, cosiță, nălucă, vâlvă, lipici, condur, întețit, calfă) și expresiile „câte în lună și în soare”, „în doi peri”.',
             elevi: 'Ex. 3: ascultați basmul și urmăriți-l în manual.\nCuvinte din subsol: sfadă, filozof, procopsit, galeș, a tânji, smerenie, vătaf, preumblare, boi, cosiță, nălucă, vâlvă, lipici, condur, întețit, calfă; expresiile „câte în lună și în soare”, „în doi peri”.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Impresii după prima lectură',
             timp: '7 min',
             activitate: '– P. 143, ex. 1: s-au confirmat predicțiile? Câțiva elevi își citesc cele trei presupuneri.\n– Ex. 2: la ce imagini sau sunete v-a dus textul? Ex. 3: ce personaj v-a plăcut și cu cine seamănă?',
             elevi: 'P. 143:\nEx. 1: s-au confirmat predicțiile? Câțiva citesc cele trei presupuneri.\nEx. 2: la ce imagini sau sunete v-a dus textul?\nEx. 3: ce personaj v-a plăcut și cu cine seamănă?',
+            materiale: ['schema'],
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
@@ -213,7 +217,10 @@ export const unitatea5 = {
           ],
         },
         infografic: null,
-        schema: null,
+        schema: {
+          fisier: '/materiale/clasa-5/unitatea-5/lectia-1/schema.svg',
+          titlu: 'Textul narativ literar. Zâna Munților, basm cules de Petre Ispirescu',
+        },
         altele: [],
       },
     },
@@ -665,6 +672,7 @@ export const unitatea5 = {
         ],
         resurse: [
           'Manual Art 5, p. 148',
+          'Schema „Semnificațiile textului” (/materiale/clasa-5/unitatea-5/lectia-4/schema.svg)',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-5/lectia-4/fisa-exercitii.pdf)',
           'Fișa lecției (/materiale/clasa-5/unitatea-5/lectia-4/fisa.pdf)',
           'Coli mari și carioci, pentru postere',
@@ -682,12 +690,14 @@ export const unitatea5 = {
             timp: '9 min',
             activitate: '– „Interpretare”, p. 148, frontal: cum se încheie de obicei basmele și e finalul acesta obișnuit? (ex. 1); ideea centrală a poveștii (ex. 2); alt basm cu tema iubirii dintre lumi diferite (ex. 3).\n– Ex. 5: ce putem învăța din purtarea zânei cât timp e găinăreasă? Primesc orice răspuns argumentat.',
             elevi: '„Interpretare”, p. 148, frontal:\nEx. 1: cum se încheie de obicei basmele și este finalul acesta obișnuit?\nEx. 2: ideea centrală a poveștii.\nEx. 3: alt basm cu tema iubirii dintre lumi diferite.\nEx. 5: ce putem învăța din purtarea zânei cât timp este găinăreasă? Orice răspuns argumentat este bun.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Posterul poveștii de dragoste',
             timp: '12 min',
             activitate: '– Ex. 4: grupe de 4-6; fiecare grupă urmărește stările personajelor în cele patru secvențe (turturica, găinăreasa, cele trei nunți, nunta), alege un titlu pentru fiecare și desenează un simbol al iubirii.\n– Posterele se afișează; turul galeriei, 3 minute.',
             elevi: 'Ex. 4: grupe de 4-6. Urmăriți stările personajelor în cele patru secvențe (turturica, găinăreasa, cele trei nunți, nunta), alegeți un titlu pentru fiecare și desenați un simbol al iubirii.\nPosterele se afișează; turul galeriei, 3 minute.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Lectura imaginii',
@@ -707,6 +717,7 @@ export const unitatea5 = {
             timp: '4 min',
             activitate: '– P. 148: elevii completează în caiet cele trei afirmații; citim câteva și notez ce trebuie reluat.',
             elevi: 'Autoevaluare L1-L4, p. 148: completați în caiet cele trei afirmații. Citim câteva.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Temă',
@@ -724,7 +735,10 @@ export const unitatea5 = {
         fisa: { fisier: '/materiale/clasa-5/unitatea-5/lectia-4/fisa.pdf', exercitii: '/materiale/clasa-5/unitatea-5/lectia-4/fisa-exercitii.pdf' },
         joc: null,
         infografic: null,
-        schema: null,
+        schema: {
+          fisier: '/materiale/clasa-5/unitatea-5/lectia-4/schema.svg',
+          titlu: 'Semnificațiile textului',
+        },
         altele: [],
       },
     },
@@ -746,6 +760,7 @@ export const unitatea5 = {
         ],
         resurse: [
           'Manual Art 5, pp. 149-150',
+          'Schema „Text auxiliar. Aladin și lampa fermecată, din O mie și una de nopți” (/materiale/clasa-5/unitatea-5/lectia-5/schema.svg)',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-5/lectia-5/fisa-exercitii.pdf)',
           'Fișa lecției (/materiale/clasa-5/unitatea-5/lectia-5/fisa.pdf)',
           'Caietele elevilor',
@@ -762,12 +777,14 @@ export const unitatea5 = {
             timp: '10 min',
             activitate: '– Citesc fragmentul istorisit de Eusebiu Camilar (sau pornesc înregistrarea); elevii urmăresc.\n– Lămurim cuvintele din subsol (Mahomed, cutremur, belciug, zăbavă, petică, sofa, „a bate colburile”).',
             elevi: 'Ascultați fragmentul istorisit de Eusebiu Camilar (sau înregistrarea) și urmăriți-l în manual.\nCuvinte din subsol: Mahomed, cutremur, belciug, zăbavă, petică, sofa, „a bate colburile”.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Muntele narațiunii',
             timp: '7 min',
             activitate: '– „Discutarea textului”, ex. 1, în perechi: „muntele narațiunii” desenat în caiet, cu întâmplările la locul lor; verificăm pe tablă.',
             elevi: '„Discutarea textului”, ex. 1, în perechi: desenați în caiet „muntele narațiunii”, cu întâmplările la locul lor. Verificăm pe tablă.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Discutarea textului, ex. 2-10',
@@ -805,7 +822,10 @@ export const unitatea5 = {
         fisa: { fisier: '/materiale/clasa-5/unitatea-5/lectia-5/fisa.pdf', exercitii: '/materiale/clasa-5/unitatea-5/lectia-5/fisa-exercitii.pdf' },
         joc: null,
         infografic: null,
-        schema: null,
+        schema: {
+          fisier: '/materiale/clasa-5/unitatea-5/lectia-5/schema.svg',
+          titlu: 'Text auxiliar. Aladin și lampa fermecată, din O mie și una de nopți',
+        },
         altele: [],
       },
     },
@@ -827,6 +847,7 @@ export const unitatea5 = {
         ],
         resurse: [
           'Manual Art 5, pp. 151-152',
+          'Schema „Diversitate culturală și lingvistică” (/materiale/clasa-5/unitatea-5/lectia-6/schema.svg)',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-5/lectia-6/fisa-exercitii.pdf)',
           'Infograficul „Diversitate culturală și lingvistică” (/materiale/clasa-5/unitatea-5/lectia-6/infografic.svg)',
           'Quizul „Cuvinte și povești care călătoresc” (materialul de joc al lecției)',
@@ -844,13 +865,14 @@ export const unitatea5 = {
             timp: '10 min',
             activitate: '– „Explorare”, ex. 1: citesc anecdota „Făgăduiala ținută” (Jean-Claude Carrière); întrebările a-d, frontal.\n– Ex. 2: și-a ținut tatăl promisiunea? Elevii aleg un răspuns și îl argumentează; ex. 3: tâlcul, într-o propoziție.\n– Ex. 4: versurile lui Anton Pann („a rămâne de basm”, „a fi cam p-o ureche”) și miniatura otomană.',
             elevi: '„Explorare”:\nEx. 1: ascultați anecdota „Făgăduiala ținută” (Jean-Claude Carrière). Răspundeți la întrebările a-d.\nEx. 2: și-a ținut tatăl promisiunea? Alegeți un răspuns și argumentați.\nEx. 3: tâlcul anecdotei, într-o propoziție.\nEx. 4: versurile lui Anton Pann („a rămâne de basm”, „a fi cam p-o ureche”) și miniatura otomană.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Notițe: diversitatea culturală',
             timp: '4 min',
             activitate: '– În caiete, după Repere și infograficul lecției: schimburile dintre popoare (bunuri, idei, valori); diversitatea culturală; Nastratin, personaj comun mai multor culturi din Balcani; diversitatea lingvistică: odată cu lucrurile călătoresc și cuvintele.',
             elevi: 'În caiet, după Repere și infograficul lecției: schimburile dintre popoare (bunuri, idei, valori); diversitatea culturală; Nastratin, personaj comun mai multor culturi din Balcani; diversitatea lingvistică: odată cu lucrurile călătoresc și cuvintele.',
-            materiale: ['infografic'],
+            materiale: ['schema', 'infografic'],
           },
           {
             etapa: 'Aplicații, ex. 1-2',
@@ -1002,7 +1024,10 @@ export const unitatea5 = {
           ],
         },
         infografic: { fisier: '/materiale/clasa-5/unitatea-5/lectia-6/infografic.svg', titlu: 'Diversitate culturală și lingvistică' },
-        schema: null,
+        schema: {
+          fisier: '/materiale/clasa-5/unitatea-5/lectia-6/schema.svg',
+          titlu: 'Diversitate culturală și lingvistică',
+        },
         altele: [],
       },
     },
@@ -1012,7 +1037,7 @@ export const unitatea5 = {
       obiective: [
         'Se familiarizează cu tema, calendarul și criteriile de evaluare ale proiectului de grup Itinerar multicultural.',
       ],
-      sursaManual: 'Art 5, Proiect de grup, p. 153 (anunțare)',
+      sursaManual: 'Art 5, Proiect de grup, pp. 153-154 (anunțare)',
       rezolvareGhid: null,
       planLectie: {
         titlu: 'Proiect de grup. Itinerar multicultural (anunțare)',
@@ -1024,6 +1049,7 @@ export const unitatea5 = {
         ],
         resurse: [
           'Manual Art 5, pp. 153-154',
+          'Schema „Proiect de grup. Itinerar multicultural (anunțare)” (/materiale/clasa-5/unitatea-5/lectia-7/schema.svg)',
           'Fișa proiectului (/materiale/clasa-5/unitatea-5/lectia-7/fisa.pdf)',
           'Jocul „Basmele omului”, interactiv, pe tablă (tragerea la sorți a basmelor)',
           'Caietele elevilor',
@@ -1046,19 +1072,21 @@ export const unitatea5 = {
             timp: '10 min',
             activitate: '– P. 153: cinci grupe, fiecare cu un basm al unei minorități din România, din volumul „Basmele omului” de Vladimir Colin: maghiar („Buruiana neagră”), săsesc („Hans și cele patru castele”), ucrainean („Povestea cântecului”), rom („Fierarul năzdrăvan”), tătăresc („Povestea fericirii”).\n– Dacă în zona noastră trăiește și altă etnie, o a șasea grupă prezintă un basm al ei.',
             elevi: 'Sarcina de lucru (p. 153): cinci grupe, fiecare cu un basm al unei minorități din România, din volumul „Basmele omului” de Vladimir Colin: maghiar („Buruiana neagră”), săsesc („Hans și cele patru castele”), ucrainean („Povestea cântecului”), rom („Fierarul năzdrăvan”), tătăresc („Povestea fericirii”).\nDacă în zona noastră trăiește și altă etnie, o a șasea grupă prezintă un basm al ei.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Calendarul',
             timp: '7 min',
             activitate: '– P. 154, trei săptămâni: I – citirea fragmentului (și a basmului întreg, de la bibliotecă) și fișa de lectură după modelul din manual; II – documentarea despre comunitate (regiune, număr aproximativ, personalități, sărbători, religie, obiceiuri, port, mâncăruri, formule de salut), împărțirea rolurilor, recuzita, prezentarea; III – reflecții despre ce au în comun basmele.\n– Stabilim și notăm data prezentărilor.',
             elevi: 'Calendar (p. 154), trei săptămâni:\nI: citiți fragmentul (și basmul întreg, de la bibliotecă) și completați fișa de lectură după modelul din manual;\nII: documentarea despre comunitate (regiune, număr aproximativ, personalități, sărbători, religie, obiceiuri, port, mâncăruri, formule de salut), împărțirea rolurilor, recuzita, prezentarea;\nIII: reflecții despre ce au în comun basmele.\nStabilim și notăm data prezentărilor.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Criteriile de evaluare',
             timp: '5 min',
             activitate: '– Citim grila de autoevaluare din manual (documentarea, munca în echipă, prezentarea orală) și criteriile din fișa proiectului, cu câte un exemplu.',
             elevi: 'Citim grila de autoevaluare din manual (documentarea, munca în echipă, prezentarea orală) și criteriile din fișa proiectului, cu câte un exemplu.',
-            materiale: ['fisa'],
+            materiale: ['schema', 'fisa'],
           },
           {
             etapa: 'Formarea grupelor',
@@ -1113,7 +1141,10 @@ export const unitatea5 = {
         fisa: { fisier: '/materiale/clasa-5/unitatea-5/lectia-7/fisa.pdf' },
         joc: null,
         infografic: null,
-        schema: null,
+        schema: {
+          fisier: '/materiale/clasa-5/unitatea-5/lectia-7/schema.svg',
+          titlu: 'Proiect de grup. Itinerar multicultural (anunțare)',
+        },
         altele: [],
       },
     },
@@ -1988,6 +2019,7 @@ export const unitatea5 = {
         ],
         resurse: [
           'Manual Art 5, p. 163',
+          'Schema „Descrierea unei ființe imaginare” (/materiale/clasa-5/unitatea-5/lectia-12/schema.svg)',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-5/lectia-13/fisa-exercitii.pdf)',
           'Fișa lecției (/materiale/clasa-5/unitatea-5/lectia-13/fisa.pdf)',
           'Fișa de pregătire realizată la ora anterioară',
@@ -2004,7 +2036,7 @@ export const unitatea5 = {
             timp: '7 min',
             activitate: '– Fișa de exerciții, ex. 1: citim textul despre dragon și stabilim frontal ce trebuie corectat (repetițiile, timpurile amestecate, lipsa comparațiilor); elevii îl rescriu.',
             elevi: 'Fișa de exerciții, ex. 1: citim textul despre dragon și stabilim frontal ce trebuie corectat. Apoi rescrieți-l.',
-            materiale: ['fisa'],
+            materiale: ['schema', 'fisa'],
           },
           {
             etapa: 'Începutul',
@@ -2018,7 +2050,7 @@ export const unitatea5 = {
             timp: '18 min',
             activitate: '– „Aplicații”, ex. 4: fiecare descrie ființa pe fișa lecției (ciorna), după schemă: introducere, înfățișare, trăsături și puteri, relația cu ceilalți, încheiere.\n– Trec pe la bănci și ajut la ordinea detaliilor și la comparații.',
             elevi: '„Aplicații”, ex. 4: descrieți ființa pe fișa lecției (ciorna), după schemă: introducere, înfățișare, trăsături și puteri, relația cu ceilalți, încheiere.',
-            materiale: ['fisa'],
+            materiale: ['schema', 'fisa'],
           },
           {
             etapa: 'Revizuirea',
@@ -2051,7 +2083,10 @@ export const unitatea5 = {
         fisa: { fisier: '/materiale/clasa-5/unitatea-5/lectia-13/fisa.pdf', exercitii: '/materiale/clasa-5/unitatea-5/lectia-13/fisa-exercitii.pdf' },
         joc: null,
         infografic: null,
-        schema: null,
+        schema: {
+          fisier: '/materiale/clasa-5/unitatea-5/lectia-12/schema.svg',
+          titlu: 'Descrierea unei ființe imaginare',
+        },
         altele: [],
       },
     },
@@ -2061,7 +2096,7 @@ export const unitatea5 = {
       obiective: [
         'Prezintă și evaluează, pe grupe, proiectul Itinerar multicultural, conform criteriilor stabilite.',
       ],
-      sursaManual: 'Art 5, Proiect de grup, p. 153 (prezentare)',
+      sursaManual: 'Art 5, Proiect de grup, pp. 153-154 (prezentare)',
       rezolvareGhid: null,
       planLectie: {
         titlu: 'Prezentarea proiectului de grup Itinerar multicultural',
