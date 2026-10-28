@@ -124,11 +124,11 @@ leagă doar ce spune planul: fișa la pasul fișei, schema la notițe, quizul c�
 planul îl pomenește. Jocurile cu bilețele, afișe sau cartonașe nu se tipăresc: se adaptează
 pentru tablă ca joc interactiv, în câmpul opțional `joc` al etapei. Patru tipuri: sortare
 (cuvinte așezate pe categorii, verificate la final cu „Verifică”), extragere la sorți
-(un bilet pe ecran: o situație, un cuvânt, o față de cub; răspunsul se arată la cerere)
+(un bilet pe ecran: o situație, un cuvânt, o față de cub; răspunsul se arată la cerere),
 împărțirea în grupe (se spune câți elevi sunt, apoi fiecare trage o culoare, iar
 grupele ies egale) și morișca (se învârte, iar când se oprește fiecare paletă arată o
-formă a trecutului pentru același verb; timpurile se arată la cerere). Biletele vin din manual sau din plan; cele create pentru OraRO
-au sursa marcată. Testul nu apare. Reflecția și jurnalul se
+formă a trecutului pentru același verb; timpurile se arată la cerere). Biletele vin din manual sau din plan;
+cele create pentru OraRO au sursa marcată. Testul nu apare. Reflecția și jurnalul se
 completează pe laptop, din plan.
 
 După START ORĂ interfața intră într-un mod special care elimină elementele care
