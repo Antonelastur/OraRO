@@ -7,7 +7,8 @@ pagină. Textul se măsoară cu fonturile Segoe UI, iar fiecare fragment primeș
 poziție și lățime fixe, deci nimic nu iese din casete, oricare ar fi fontul
 cu care se deschide fișierul.
 
-Utilizare:  python scripts/scheme_notite.py scripts/scheme/clasa-5-unitatea-1.py
+Utilizare:  python scripts/scheme_notite.py scripts/scheme/clasa-5-unitatea-1.py [lectia-3 lectia-4 ...]
+            (cu nume de lecții la sfârșit se generează doar acelea)
 
 Marcaje în text:
   **bold**   *italic*   _o linie_ (predicat)   __două linii__ (subiect)
@@ -409,9 +410,11 @@ def actualizeaza_titluri(cale, titlu):
             sursa.write_text(nou, encoding='utf-8')
 
 
-def main(cale_date):
+def main(cale_date, doar=()):
     date = runpy.run_path(cale_date)
     for schema in date['SCHEME']:
+        if doar and not any(schema['cale'].endswith(d) for d in doar):
+            continue
         continut, inaltime = genereaza(schema)
         tinta = RADACINA / 'public' / 'materiale' / schema['cale'] / 'schema.svg'
         tinta.parent.mkdir(parents=True, exist_ok=True)
@@ -421,4 +424,4 @@ def main(cale_date):
 
 
 if __name__ == '__main__':
-    main(sys.argv[1])
+    main(sys.argv[1], sys.argv[2:])
