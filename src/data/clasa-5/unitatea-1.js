@@ -45,6 +45,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, pp. 10-12',
+          'Schema „Textul literar. „Prietenul meu”” (/materiale/clasa-5/unitatea-1/lectia-1/schema.svg)',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-1/fisa-exercitii.pdf)',
           'Prezentarea lecției (/materiale/clasa-5/unitatea-1/lectia-1/prezentare.pdf)',
           'Caietele elevilor',
@@ -67,12 +68,14 @@ export const unitatea1 = {
             timp: '5 min',
             activitate: '– Explicăm cuvintele din subsol: rigolă, chihuahua.\n– Elevii spun alte cuvinte pe care nu le-au înțeles (de exemplu: anapoda, a fremăta, hodoronc-tronc); le lămurim din context.\n– Fiecare notează în caiet trei cuvinte noi, cu sensul lor.',
             elevi: 'Cuvinte din subsol: rigolă, chihuahua.\nSpuneți alte cuvinte pe care nu le-ați înțeles (de exemplu: anapoda, a fremăta, hodoronc-tronc).\nNotați în caiet trei cuvinte noi, cu sensul lor.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Impresii după prima lectură',
             timp: '8 min',
             activitate: '– P. 12, ex. 1: elevii împart foaia de caiet în patru cadrane (Mi-a plăcut..., Nu mi-a plăcut..., Nu am înțeles..., Mi-a amintit de...) și le completează, 4 minute.\n– Patru-cinci elevi citesc câte un cadran; lămurim împreună ce „nu am înțeles”.',
             elevi: 'P. 12, ex. 1: împărțiți foaia de caiet în patru cadrane și completați-le, 4 minute: Mi-a plăcut..., Nu mi-a plăcut..., Nu am înțeles..., Mi-a amintit de...\nApoi câțiva citesc câte un cadran și lămurim împreună ce nu ați înțeles.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
@@ -191,7 +194,10 @@ export const unitatea1 = {
           ],
         },
         infografic: null,
-        schema: null,
+        schema: {
+          fisier: '/materiale/clasa-5/unitatea-1/lectia-1/schema.svg',
+          titlu: 'Textul literar. „Prietenul meu”',
+        },
         altele: [],
       },
     },
@@ -215,6 +221,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, pp. 13-14',
+          'Schema „Trăsături ale textului literar” (/materiale/clasa-5/unitatea-1/lectia-2/schema.svg)',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-2/fisa-exercitii.pdf)',
           'Prezentarea lecției (/materiale/clasa-5/unitatea-1/lectia-2/prezentare.pdf)',
           'Caietele elevilor',
@@ -231,12 +238,14 @@ export const unitatea1 = {
             timp: '14 min',
             activitate: '– Explorare „Textul literar”, p. 13, ex. 1-2, frontal: un sentiment din text; universul textului e apropiat sau depărtat de realitate? (cerem motivarea).\n– Ex. 3-4: pe tablă, două coloane, „sensul obișnuit” și „sensul din text”, pentru a foșni, a fremăta, a zgâlțâi, a vorbi (cu florile), a lătra (banca).\n– Ex. 5: trei elevi mimează, pe rând, cel mai amuzant moment; ceilalți ghicesc, cu întrebări la care se răspunde doar prin semne (da, nu, aproape).\n– În caiete, după Repere: textul literar prezintă o lume imaginară, transmite idei, dar mai ales emoții, într-un limbaj expresiv.',
             elevi: 'Explorare „Textul literar”, p. 13:\nEx. 1-2: ce sentiment întâlnim în text? Este universul textului apropiat sau depărtat de realitate? Motivați.\nEx. 3-4: două coloane, „sensul obișnuit” și „sensul din text”, pentru: a foșni, a fremăta, a zgâlțâi, a vorbi (cu florile), a lătra (banca).\nEx. 5: trei elevi mimează, pe rând, cel mai amuzant moment; ceilalți ghicesc cu întrebări la care se răspunde doar prin semne (da, nu, aproape).\nÎn caiet, după Repere: textul literar prezintă o lume imaginară, transmite idei, dar mai ales emoții, într-un limbaj expresiv.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Dirijarea învățării: înțelegerea textului',
             timp: '10 min',
             activitate: '– Explorare „Înțelegerea textului”, p. 13, ex. 1: personajul principal și trei informații despre el (ce detalii din desen v-au ajutat?).\n– Ex. 2: desenez pe tablă harta relațiilor, cu Bogdan în centru; elevii numesc relațiile de pe săgeți (prietenie, frate-soră, elev-profesor).\n– Ex. 3-5, frontal: cum se poartă Adi; cuvintele despre timp; cele trei locuri ale acțiunii.\n– Concluzie, după Repere: pentru a înțelege o întâmplare, răspundem la Cine? Ce? Când? Unde? Fiecare scrie o propoziție despre ce este vorba în text.',
             elevi: 'Explorare „Înțelegerea textului”, p. 13:\nEx. 1: personajul principal și trei informații despre el. Ce detalii din desen v-au ajutat?\nEx. 2: harta relațiilor, cu Bogdan în centru. Ce relații sunt pe săgeți?\nEx. 3-5: cum se poartă Adi? Cuvintele despre timp. Cele trei locuri ale acțiunii.\nConcluzie, după Repere: pentru a înțelege o întâmplare, răspundem la Cine? Ce? Când? Unde? Scrieți o propoziție despre ce este vorba în text.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
@@ -354,7 +363,10 @@ export const unitatea1 = {
           ],
         },
         infografic: null,
-        schema: null,
+        schema: {
+          fisier: '/materiale/clasa-5/unitatea-1/lectia-2/schema.svg',
+          titlu: 'Trăsături ale textului literar',
+        },
         altele: [],
       },
     },
@@ -619,6 +631,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, p. 17',
+          'Schema „Textul nonliterar, scurtă istorie a selfie-ului” (/materiale/clasa-5/unitatea-1/lectia-5/schema.svg)',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-5/fisa-exercitii.pdf)',
           'Infograficul „Scurtă istorie a selfie-ului” (/materiale/clasa-5/unitatea-1/lectia-5/infografic.svg)',
           'Caietele elevilor',
@@ -635,6 +648,7 @@ export const unitatea1 = {
             timp: '12 min',
             activitate: '– „Explorare”, ex. 1: lectură în gând, 3 minute.\n– Ex. 2: a amuza, a convinge sau a informa? Votăm și cerem argumente.\n– Ex. 3: la ce aspecte din realitate se referă textul? Le trecem pe tablă pe o axă a timpului: 1524, 1839, 2002, 2013, 2016.\n– Ex. 4: limbajul e obișnuit sau neobișnuit? Comparăm cu o frază expresivă din „Prietenul meu”.\n– În caiete, după Repere: textul nonliterar, cele trei scopuri, exemple (afișul, invitația, rețeta, eticheta, articolul de dicționar etc.).',
             elevi: '„Explorare”:\nEx. 1: citiți textul în gând, 3 minute.\nEx. 2: textul vrea să amuze, să convingă sau să informeze? Votăm și argumentăm.\nEx. 3: la ce aspecte din realitate se referă textul? Le trecem pe o axă a timpului: 1524, 1839, 2002, 2013, 2016.\nEx. 4: limbajul este obișnuit sau neobișnuit? Comparați cu o frază expresivă din „Prietenul meu”.\nÎn caiet, după Repere: textul nonliterar, cele trei scopuri, exemple (afișul, invitația, rețeta, eticheta, articolul de dicționar etc.).',
+            materiale: ['schema'],
           },
           {
             etapa: 'Aplicații pe textul din manual',
@@ -655,7 +669,7 @@ export const unitatea1 = {
             timp: '7 min',
             activitate: '– „Reflecții”, p. 17: e dificil să citești un text nonliterar? Ce părere aveți despre selfie-uri?\n– Autoevaluare L1-L5: fiecare completează în caiet cele trei afirmații (cel mai important..., cel mai mult mi-a plăcut..., cel mai dificil...).\n– Tema: „Aplicații”, ex. 4; fișa de exerciții, pagina 2, ex. 4 și 5 (afișul clasei); minitestul, dacă îl folosesc.',
             elevi: '„Reflecții”, p. 17: este dificil să citești un text nonliterar? Ce părere aveți despre selfie-uri?\nAutoevaluare L1-L5: completați în caiet cele trei afirmații (cel mai important..., cel mai mult mi-a plăcut..., cel mai dificil...).',
-            materiale: ['fisa'],
+            materiale: ['schema', 'fisa'],
           },
         ],
         evaluare: 'Observarea sistematică; autoevaluarea L1-L5; fișa de exerciții, ex. 1-3.',
@@ -760,7 +774,10 @@ export const unitatea1 = {
           ],
         },
         infografic: { fisier: '/materiale/clasa-5/unitatea-1/lectia-5/infografic.svg', titlu: 'Scurtă istorie a selfie-ului' },
-        schema: null,
+        schema: {
+          fisier: '/materiale/clasa-5/unitatea-1/lectia-5/schema.svg',
+          titlu: 'Textul nonliterar, scurtă istorie a selfie-ului',
+        },
         altele: [],
       },
     },
@@ -887,7 +904,7 @@ export const unitatea1 = {
       obiective: [
         'Asociază experiențe proprii de viață cu cele din filmul „Întors pe dos”, identitate personală și emoții.',
       ],
-      sursaManual: 'Art 5, pp. 20-22; Ghid, pp. 76-77',
+      sursaManual: 'Art 5, pp. 20-21; Ghid, pp. 76-77',
       rezolvareGhid: null,
       planLectie: {
         titlu: 'Identitatea personală. Emoțiile',
@@ -898,7 +915,8 @@ export const unitatea1 = {
           'Asociază experiențe proprii de viață cu cele din filmul „Întors pe dos”, identitate personală și emoții.',
         ],
         resurse: [
-          'Manual Art 5, pp. 20-22',
+          'Manual Art 5, pp. 20-21',
+          'Schema „Identitatea personală. Emoțiile” (/materiale/clasa-5/unitatea-1/lectia-7/schema.svg)',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-7/fisa-exercitii.pdf)',
           'Infograficul „Cele cinci emoții din «Întors pe dos»” (/materiale/clasa-5/unitatea-1/lectia-7/infografic.svg)',
           'Caietele elevilor',
@@ -915,7 +933,7 @@ export const unitatea1 = {
             timp: '13 min',
             activitate: '– Citim prezentarea filmului (p. 20). Dacă am proiector, arăt o secvență scurtă din film, pregătită dinainte.\n– Ex. 2, frontal: asociem fiecare personaj-emoție cu descrierea lui.\n– Discuție: sunt emoțiile firești? La ce folosește fiecare?\n– În caiete, după Repere și infograficul lecției: emoțiile, personalitatea, identitatea personală.',
             elevi: 'Citim prezentarea filmului „Întors pe dos” (p. 20).\nEx. 2: potriviți fiecare personaj-emoție cu descrierea lui.\nSunt emoțiile firești? La ce folosește fiecare?\nÎn caiet, după Repere și infograficul lecției: emoțiile, personalitatea, identitatea personală.',
-            materiale: ['infografic'],
+            materiale: ['schema', 'infografic'],
           },
           {
             etapa: 'Aplicații',
@@ -935,7 +953,7 @@ export const unitatea1 = {
             timp: '7 min',
             activitate: '– „Provocări”, ex. 1: ar fi viața mai bună fără emoții? Fiecare notează două schimbări pozitive și două negative; câțiva citesc.\n– Tema: „Aplicații”, ex. 4-5 (portretul emoțiilor tale); „Portofoliu” (insulele personalității tale); fișa de exerciții, pagina 2, ex. 6 (scrisoare pentru Bucurie).',
             elevi: '„Provocări”, ex. 1: ar fi viața mai bună fără emoții? Notați două schimbări pozitive și două negative. Câțiva citesc.',
-            materiale: ['fisa'],
+            materiale: ['schema', 'fisa'],
           },
         ],
         evaluare: 'Observarea sistematică; participarea la discuție; fișa de exerciții, ex. 1-3.',
@@ -969,7 +987,7 @@ export const unitatea1 = {
                 },
               ],
               indiciu: null,
-              sursa: 'Manual Art 5, pp. 20-22',
+              sursa: 'Manual Art 5, pp. 20-21',
             },
             {
               intrebare: 'De ce ne ajută să ne recunoaștem emoțiile?',
@@ -991,7 +1009,7 @@ export const unitatea1 = {
                 },
               ],
               indiciu: null,
-              sursa: 'Manual Art 5, pp. 20-22',
+              sursa: 'Manual Art 5, pp. 20-21',
             },
             {
               intrebare: 'Un coleg pierde un concurs pentru care s-a pregătit mult. Ce emoție e cel mai probabil să simtă?',
@@ -1013,7 +1031,7 @@ export const unitatea1 = {
                 },
               ],
               indiciu: null,
-              sursa: 'Manual Art 5, pp. 20-22',
+              sursa: 'Manual Art 5, pp. 20-21',
             },
             {
               intrebare: 'Ce arată filmul „Întors pe dos” despre rolul emoțiilor?',
@@ -1035,12 +1053,15 @@ export const unitatea1 = {
                 },
               ],
               indiciu: null,
-              sursa: 'Manual Art 5, pp. 20-22',
+              sursa: 'Manual Art 5, pp. 20-21',
             },
           ],
         },
         infografic: { fisier: '/materiale/clasa-5/unitatea-1/lectia-7/infografic.svg', titlu: 'Cele cinci emoții din „Întors pe dos”' },
-        schema: null,
+        schema: {
+          fisier: '/materiale/clasa-5/unitatea-1/lectia-7/schema.svg',
+          titlu: 'Identitatea personală. Emoțiile',
+        },
         altele: [],
       },
     },
@@ -2024,6 +2045,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, p. 36',
+          'Schema „Etapele scrierii, pregătirea pentru redactare” (/materiale/clasa-5/unitatea-1/lectia-15/schema.svg)',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-15/fisa-exercitii.pdf)',
           'Infograficul „Cele cinci etape ale scrierii” (/materiale/clasa-5/unitatea-1/lectia-15/infografic.svg)',
           'Caietele elevilor',
@@ -2040,7 +2062,7 @@ export const unitatea1 = {
             timp: '12 min',
             activitate: '– Repere, p. 36, cu infograficul lecției: pregătirea pentru redactare, scrierea ciornei, revizuirea, editarea, publicarea.\n– Pentru fiecare etapă, elevii dau un exemplu de acțiune concretă (aleg subiectul, scriu prima variantă, șterg ce nu e important...).\n– În caiete: cele cinci etape, ca o scară; ne putem întoarce oricând la o treaptă anterioară.',
             elevi: 'Repere, p. 36, cu infograficul lecției: pregătirea pentru redactare, scrierea ciornei, revizuirea, editarea, publicarea.\nPentru fiecare etapă dați un exemplu de acțiune concretă (alegeți subiectul, scrieți prima variantă, ștergeți ce nu este important...).\nÎn caiet: cele cinci etape, ca o scară; ne putem întoarce oricând la o treaptă anterioară.',
-            materiale: ['infografic'],
+            materiale: ['schema', 'infografic'],
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
@@ -2054,6 +2076,7 @@ export const unitatea1 = {
             timp: '17 min',
             activitate: '– „Explorare”, ex. 1: fiecare stabilește scopul și publicul relatării despre experiența aleasă.\n– Ex. 2: răspunde, în caiet, la cele șase întrebări: cine? ce? când? unde? de ce? cum?\n– Ex. 3: planul compunerii: introducere, trei-patru idei pentru cuprins, încheiere.\n– Trec printre bănci și ajut; la final, doi elevi citesc planul, iar clasa spune ce ar mai trebui adăugat.',
             elevi: '„Explorare”:\nEx. 1: stabiliți scopul și publicul relatării despre experiența aleasă.\nEx. 2: răspundeți în caiet la cele șase întrebări: cine? ce? când? unde? de ce? cum?\nEx. 3: planul compunerii: introducere, trei-patru idei pentru cuprins, încheiere.\nLa final, doi dintre voi citesc planul, iar clasa spune ce ar mai trebui adăugat.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Reflecție și temă',
@@ -2165,7 +2188,10 @@ export const unitatea1 = {
           ],
         },
         infografic: { fisier: '/materiale/clasa-5/unitatea-1/lectia-15/infografic.svg', titlu: 'Cele cinci etape ale scrierii' },
-        schema: null,
+        schema: {
+          fisier: '/materiale/clasa-5/unitatea-1/lectia-15/schema.svg',
+          titlu: 'Etapele scrierii, pregătirea pentru redactare',
+        },
         altele: [],
       },
     },

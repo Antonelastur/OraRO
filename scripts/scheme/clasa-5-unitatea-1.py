@@ -8,6 +8,91 @@ SUB = 'Clasa a V-a · Unitatea I, Lecția {n} · Manual, {pp} · notițe pentru 
 CREATE = ' Unele exemple sunt create pentru aceste notițe.'
 
 SCHEME = [
+    # ---------------- Lecția 1 ----------------
+    {
+        'cale': 'clasa-5/unitatea-1/lectia-1',
+        'titlu': 'Textul literar. „Prietenul meu”',
+        'sub': SUB.format(n=1, pp='pp. 10-12'),
+        'sursa': 'Sursa: Manual Art 5, pp. 10-12 (textul, caseta autoarei, notele de subsol, „Impresii după prima lectură”, ex. 1). Lecția nu are rubrica Repere. Întrebările din fișă sunt create pentru aceste notițe, răspunsurile vin din text.',
+        'sect': [
+            ('1. AUTOAREA ȘI POVESTIREA', [
+                {'t': 'carduri', 'c': [
+                    {'titlu': 'AUTOAREA', 'col': 'm',
+                     'p': ['**Ioana Pârvulescu** (n. 1960)',
+                           'Este scriitoare, publicistă, traducătoare și predă literatură română la Facultatea de Litere din București.',
+                           'Printre cărțile ei: romanul *Inocenții*.']},
+                    {'titlu': 'POVESTIREA', 'col': 't',
+                     'p': ['*Prietenul meu* a fost scrisă pentru elevii clasei a V-a care vor învăța după acest manual.']},
+                ]},
+            ]),
+            ('2. FIȘA TEXTULUI', [
+                {'t': 'tabel', 'cap': ['Întrebarea', 'Ce găsesc în text'], 'lat': [0.27, 0.73],
+                 'r': [['Cine povestește?', 'Bogdan, un băiat din clasa a V-a, care spune despre sine: *„ăsta sunt eu”*.'],
+                       ['Cine mai apare?', '**Claudia**, sora lui Bogdan, e într-a VIII-a; **Adi**, prietenul lui, cu care împarte banca; **Joi**, câinele lui, un chihuahua; doamna profesoară și colegii.'],
+                       ['Când se petrece?', 'Într-o zi de **marți**, ziua primei teze la matematică.'],
+                       ['Ce are de scris Bogdan?', 'O compunere cu titlul *„Prietenul meu cel mai bun”*, pentru ora de română.'],
+                       ['Cum se încheie?', 'Bogdan își dă seama că prietenul lui cel mai bun nu este Joi, ci **Adi**.'],
+                       ['Ultima frază', '*„Până la urmă n-a fost o zi chiar așa de rea, nu-i așa?”*']]},
+            ]),
+            ('3. CUVINTE NOI DIN NOTELE DE SUBSOL', [
+                {'t': 'tabel', 'cap': ['Cuvântul', 'Explicația din manual'], 'lat': [0.40, 0.60],
+                 'r': [['*rigolă* (s. f.)', 'șanț mic de-a lungul străzii, între carosabil și trotuar'],
+                       ['*chihuahua* [pronunțat *ci-ua-ua*] (s. m.)', 'rasă de câini de origine controversată (mexicano-chineză, mediteraneeană, chineză), cu siluetă zveltă și de mici dimensiuni'],
+                       ['un cuvânt nou, ales de mine', '……………………………………………']]},
+            ]),
+            ('4. IMPRESII DUPĂ PRIMA LECTURĂ', [
+                {'t': 'text', 'p': ['Împart foaia de caiet în **patru cadrane** și le completez după modelul dat.']},
+                {'t': 'carduri', 'c': [
+                    {'titlu': 'Mi-a plăcut textul pentru că ... .', 'col': 't', 'p': ['………………………………', '………………………………']},
+                    {'titlu': 'Nu mi-a plăcut în text că ... .', 'col': 'm', 'p': ['………………………………', '………………………………']},
+                    {'titlu': 'Nu am înțeles din text ... .', 'col': 'a', 'p': ['………………………………', '………………………………']},
+                    {'titlu': 'Textul mi-a amintit de ... .', 'col': 'n', 'p': ['………………………………', '………………………………']},
+                ]},
+            ]),
+        ],
+    },
+    # ---------------- Lecția 2 ----------------
+    {
+        'cale': 'clasa-5/unitatea-1/lectia-2',
+        'titlu': 'Trăsături ale textului literar',
+        'sub': SUB.format(n=2, pp='pp. 13-14'),
+        'sursa': 'Sursa: Manual Art 5, p. 13, rubrica Repere și exercițiile 2-4; personajele sunt din textul de la pp. 10-12.' + CREATE,
+        'sect': [
+            ('1. TEXTUL LITERAR', [
+                {'t': 'text', 's': 16, 'c': 'n', 'p': ['**Textul literar** prezintă o lume imaginară și transmite idei, dar mai ales emoții și sentimente, într-un limbaj expresiv. Lumea imaginară a textului literar poate fi mai apropiată sau mai îndepărtată de lumea reală.']},
+            ]),
+            ('2. CELE PATRU ÎNTREBĂRI', [
+                {'t': 'text', 'p': ['Pentru a înțelege un text literar în care se relatează o întâmplare, cititorul trebuie să răspundă la câteva întrebări:']},
+                {'t': 'carduri', 'n': 4, 'c': [
+                    {'titlu': 'Cine?', 'col': 't', 'p': ['Cine sunt personajele?']},
+                    {'titlu': 'Ce?', 'col': 'm', 'p': ['Ce fac personajele?']},
+                    {'titlu': 'Când?', 'col': 'a', 'p': ['Când se petrec evenimentele?']},
+                    {'titlu': 'Unde?', 'col': 'n', 'p': ['Unde se petrec evenimentele?']},
+                ]},
+                {'t': 'nota', 'titlu': 'În caiet:', 'p': ['scriu o propoziție despre ce este vorba în *Prietenul meu*, folosind cele patru întrebări.']},
+            ]),
+            ('3. HARTA RELAȚIILOR', [
+                {'t': 'text', 'p': ['Desenez în caiet harta relațiilor: **Bogdan** într-un cerc la mijloc, celelalte personaje în cercuri în jurul lui, legate prin săgeți. Pe fiecare săgeată scriu relația dintre cele două personaje.']},
+                {'t': 'carduri', 'n': 3, 'c': [
+                    {'titlu': 'Bogdan și Claudia', 'col': 't', 'p': ['relația: ………………………']},
+                    {'titlu': 'Bogdan și Adi', 'col': 't', 'p': ['relația: ………………………']},
+                    {'titlu': 'Bogdan și Joi', 'col': 't', 'p': ['relația: ………………………']},
+                    {'titlu': 'Bogdan și colegii', 'col': 'm', 'p': ['relația: ………………………']},
+                    {'titlu': 'Bogdan și doamna profesoară', 'col': 'm', 'st': 15, 'p': ['relația: ………………………']},
+                    {'titlu': 'Bogdan și tata', 'col': 'm', 'p': ['relația: ………………………']},
+                ]},
+            ]),
+            ('4. SENSUL OBIȘNUIT ȘI SENSUL DIN TEXT', [
+                {'t': 'text', 'p': ['Verbul poate avea în text alt înțeles decât cel obișnuit. Sensul obișnuit îl verific în DEX, sensul din text îl stabilesc după fragment.']},
+                {'t': 'tabel', 'cap': ['Verbul în text', 'Sensul obișnuit', 'Sensul din text'], 'lat': [0.38, 0.31, 0.31],
+                 'r': [['**a foșni**: *„clasa foșnea”*', '………………', '………………'],
+                       ['**a fremăta**: *„fremăta ca o pădure”*', '………………', '………………'],
+                       ['**a zgâlțâi**: *„te zgâlțâie întruna”*', '………………', '………………'],
+                       ['**a vorbi**: *„vorbește cu florile”*', '………………', '………………'],
+                       ['**a lătra**: *„banca [...] a început să latre”*', '………………', '………………']]},
+            ]),
+        ],
+    },
     # ---------------- Lecția 3 ----------------
     {
         'cale': 'clasa-5/unitatea-1/lectia-3',
@@ -76,6 +161,41 @@ SCHEME = [
             ]),
         ],
     },
+    # ---------------- Lecția 5 ----------------
+    {
+        'cale': 'clasa-5/unitatea-1/lectia-5',
+        'titlu': 'Textul nonliterar, scurtă istorie a selfie-ului',
+        'sub': SUB.format(n=5, pp='p. 17'),
+        'sursa': 'Sursa: Manual Art 5, p. 17 (rubrica Repere, textul despre selfie și rubrica Autoevaluare L1-L5).',
+        'sect': [
+            ('1. TEXTUL NONLITERAR', [
+                {'t': 'text', 's': 16, 'c': 'n', 'p': ['**Textul nonliterar** se referă la aspecte din realitate. El poate fi scris cu scopul de a informa, de a convinge sau de a amuza cititorul.']},
+                {'t': 'carduri', 'n': 3, 'c': [
+                    {'titlu': 'să informeze', 'col': 't'},
+                    {'titlu': 'să convingă', 'col': 'm'},
+                    {'titlu': 'să amuze', 'col': 'a'},
+                ]},
+            ]),
+            ('2. CE TEXTE SUNT NONLITERARE', [
+                {'t': 'text', 'p': ['Din categoria textelor nonliterare fac parte: afișul, fluturașul, invitația, articolul de ziar sau de revistă, rețeta, instrucțiunile de diverse tipuri, eticheta, articolul de dicționar etc.']},
+            ]),
+            ('3. SCURTĂ ISTORIE A SELFIE-ULUI', [
+                {'t': 'simboluri', 'ls': 66, 'r': [
+                    ('1524', 'Pictorul italian **Parmigianino** realizează, în jurul acestui an, tabloul *Autoportret într-o oglindă convexă*, prima lucrare de artă care ar putea fi considerată un selfie.'),
+                    ('1839', '**Robert Cornelius**, chimist amator și fotograf din Philadelphia, face primul autoportret fotografic.'),
+                    ('2002', '**Nathan Hope**, un australian, folosește pentru prima dată cuvântul *selfie*, într-un comentariu pe un forum.'),
+                    ('2013', 'Editorii **Dicționarelor Oxford** declară *selfie* cuvântul anului.'),
+                    ('2016', 'Ediția din 2016 a **DEX** definește *selfie*: *„fotografie pe care o persoană și-o face sieși cu un dispozitiv digital”*.'),
+                ]},
+            ]),
+            ('4. AUTOEVALUARE L1-L5', [
+                {'t': 'nota', 'titlu': 'Completez în caiet următoarele afirmații:',
+                 'p': ['• Din ceea ce am învățat, cel mai important mi se pare … .',
+                       '• Cel mai mult mi-a plăcut activitatea … .',
+                       '• Cel mai dificil mi s-a părut … .']},
+            ]),
+        ],
+    },
     # ---------------- Lecția 6 ----------------
     {
         'cale': 'clasa-5/unitatea-1/lectia-6',
@@ -115,6 +235,40 @@ SCHEME = [
                 {'t': 'text', 'p': ['• *Prietenul meu* de Ioana Pârvulescu: este vorba despre **prietenie**.',
                                     '• *Hronicul și cântecul vârstelor*: amintiri din **copilărie**, cu prietenii numiți *„rudele mai presus de sânge”*.',
                                     '**În caiet:** ce legătură văd între cele două texte? Delimitez fragmentul, găsesc cuvintele-cheie și scriu planul simplu de idei, ca în lecția 3.']},
+            ]),
+        ],
+    },
+    # ---------------- Lecția 7 ----------------
+    {
+        'cale': 'clasa-5/unitatea-1/lectia-7',
+        'titlu': 'Identitatea personală. Emoțiile',
+        'sub': SUB.format(n=7, pp='pp. 20-21'),
+        'sursa': 'Sursa: Manual Art 5, pp. 20-21 (prezentarea filmului, rubrica Repere, Aplicații ex. 5). Răspunsurile se scriu în caiet.',
+        'sect': [
+            ('1. EMOȚIILE, PERSONALITATEA, IDENTITATEA PERSONALĂ', [
+                {'t': 'text', 's': 16, 'c': 'n', 'p': ['**Emoțiile** sunt trăiri de scurtă durată și de o intensitate care variază. Acestea sunt reacții firești la situațiile și evenimentele din viața unei persoane.']},
+                {'t': 'text', 's': 16, 'c': 'n', 'p': ['**Personalitatea** unui om este formată din toate însușirile stabile care îl caracterizează: de la ce și cum gândește ori se comportă, până la valorile sale.']},
+                {'t': 'text', 's': 16, 'c': 'n', 'p': ['**Identitatea personală** se referă la specificul unui om, reprezentând ceea ce îl caracterizează și îl diferențiază de ceilalți.']},
+            ]),
+            ('2. CELE CINCI EMOȚII DIN FILMUL „ÎNTORS PE DOS”', [
+                {'t': 'text', 'p': ['*Întors pe dos* (*Inside Out*) este un film de animație din 2015, în regia lui **Pete Docter**. Personajul principal este Riley Andersen, o fetiță de unsprezece ani, iar emoțiile ei lucrează în sediul central din mintea ei.']},
+                {'t': 'tabel', 'cap': ['Emoția', 'Ce spune textul despre ea'], 'lat': [0.24, 0.76],
+                 'r': [['**Bucuria**', 'vrea ca Riley să aibă o viață fericită'],
+                       ['**Tristețea**', 'singura emoție căreia Bucuria nu-i găsește vreun rost; rolul ei îl completez eu: ……………'],
+                       ['**Frica**', 'o protejează pe Riley, făcând-o mai atentă și mai precaută'],
+                       ['**Dezgustul**', 'o ajută să nu se apropie de ceea ce este respingător'],
+                       ['**Furia**', 'o ajută să-și apere punctul de vedere și să nu accepte nedreptățile']]},
+            ]),
+            ('3. PORTRETUL EMOȚIILOR MELE', [
+                {'t': 'text', 'p': ['Completez în caiet enunțurile de mai jos (Aplicații, ex. 5).']},
+                {'t': 'simboluri', 'ls': 34, 'r': [
+                    ('a', 'Mă numesc ...'),
+                    ('b', 'Mă bucur atunci când ...'),
+                    ('c', 'Mă întristez dacă ...'),
+                    ('d', 'Mi-e frică de ....'),
+                    ('e', 'Mă înfurie ...'),
+                    ('f', 'Simt dezgust față de ...'),
+                ]},
             ]),
         ],
     },
@@ -399,6 +553,68 @@ SCHEME = [
                 ]},
                 {'t': 'text', 'p': ['**DOOM3** (2021) este dicționarul normativ care arată cum se pronunță și cum se scriu corect cuvintele.']},
                 {'t': 'nota', 'titlu': 'Accentuări corecte, după DOOM3:', 'p': ['*ántic, arípă, avaríe, caractér, gíngaș, profesór, tráfic*']},
+            ]),
+        ],
+    },
+    # ---------------- Lecția 15 ----------------
+    {
+        'cale': 'clasa-5/unitatea-1/lectia-15',
+        'titlu': 'Etapele scrierii, pregătirea pentru redactare',
+        'sub': SUB.format(n=15, pp='p. 36'),
+        'sursa': 'Sursa: Manual Art 5, p. 36 (rubrica Repere și Explorare, ex. 1-2). Ora a doua și relatarea (p. 37) sunt în notițele lecției 16.',
+        'sect': [
+            ('1. ETAPELE SCRIERII, ETAPA 1', [
+                {'t': 'text', 's': 16, 'c': 'n', 'p': ['În redactarea unui text este importantă parcurgerea a cinci etape succesive, ce reprezintă **etapele scrierii**.']},
+                {'t': 'nota', 'titlu': 'Reține:', 'p': ['Se poate reveni oricând la o etapă anterioară, pentru a clarifica/a îmbunătăți un anumit aspect al redactării.']},
+                {'t': 'carduri', 'n': 1, 'c': [
+                    {'titlu': 'Etapa 1. Pregătirea pentru redactare', 'col': 't',
+                     'p': ['• Alege un subiect.',
+                           '• Identifică-ți publicul.',
+                           '• Stabilește-ți scopul.',
+                           '• Răspunde la cele șase întrebări esențiale referitoare la subiectul ales (*cine? ce? când? unde? de ce? cum?*).',
+                           '• Elaborează planul lucrării.',
+                           '• Strânge informațiile și organizează-le.']},
+                ]},
+            ]),
+            ('2. ETAPELE 2 ȘI 3', [
+                {'t': 'carduri', 'n': 1, 'c': [
+                    {'titlu': 'Etapa 2. Scrierea ciornei', 'col': 'm',
+                     'p': ['• Scrie o primă variantă a lucrării.',
+                           '• Dezvoltă fiecare idee, concentrându-te pe conținutul textului, pe detalierea experienței pe care o prezinți.']},
+                    {'titlu': 'Etapa 3. Revizuirea', 'col': 'a',
+                     'p': ['• Verifică dacă ideile sunt clare, dacă exprimarea este corectă, dacă paragrafele sunt semnalate prin alineat și dacă scrisul tău este lizibil.',
+                           '• Șterge ceea ce nu este relevant.',
+                           '• Îmbunătățește-ți textul.']},
+                ]},
+            ]),
+            ('3. ETAPELE 4 ȘI 5', [
+                {'t': 'carduri', 'n': 1, 'c': [
+                    {'titlu': 'Etapa 4. Editarea', 'col': 'n',
+                     'p': ['• Așază textul în pagină, astfel încât titlul și paragrafele să fie clar evidențiate. Titlul se scrie în partea de sus a paginii, la mijloc; fiecare paragraf începe prin alineat.',
+                           '• Rescrie textul pentru a fi lizibil. Verifică punctuația textului.',
+                           '• Recitește varianta finală.']},
+                    {'titlu': 'Etapa 5. Publicarea', 'col': 'v',
+                     'p': ['Împărtășește celorlalți textul tău (afișează lucrarea pe un panou din clasă, fotocopiază textul pentru colegi, citește-l cu voce tare, de pe *scaunul autorului*, publică-l în revista școlii sau pe un blog, înregistrează-te citindu-l etc.).']},
+                ]},
+            ]),
+            ('4. CELE ȘASE ÎNTREBĂRI ESENȚIALE', [
+                {'t': 'text', 'p': ['Subiectul ales: ……………………………………………']},
+                {'t': 'carduri', 'n': 3, 'c': [
+                    {'titlu': 'Cine?', 'col': 't', 'p': ['……………………………']},
+                    {'titlu': 'Ce?', 'col': 't', 'p': ['……………………………']},
+                    {'titlu': 'Când?', 'col': 't', 'p': ['……………………………']},
+                    {'titlu': 'Unde?', 'col': 'm', 'p': ['……………………………']},
+                    {'titlu': 'De ce?', 'col': 'm', 'p': ['……………………………']},
+                    {'titlu': 'Cum?', 'col': 'm', 'p': ['……………………………']},
+                ]},
+            ]),
+            ('5. SCOPUL ȘI PUBLICUL', [
+                {'t': 'carduri', 'c': [
+                    {'titlu': 'Cu ce scop scrii?', 'col': 't',
+                     'p': ['Vrei ca textul să producă amuzament, să convingă, să informeze etc.?', 'Scopul meu: ………………………']},
+                    {'titlu': 'Cui se adresează textul tău?', 'col': 'm',
+                     'p': ['Unor copii de vârsta ta, unor copii mai mici, părinților, profesorilor etc.?', 'Publicul meu: ………………………']},
+                ]},
             ]),
         ],
     },
