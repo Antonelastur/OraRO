@@ -1000,7 +1000,7 @@ export const unitatea2 = {
           'Manual Art 5, pp. 56-57',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-2/lectia-9/fisa-exercitii.pdf)',
           'Quizul „Schimburi de replici în dialog” (materialul de joc al lecției)',
-          'Bilețele cu situații de comunicare, pregătite de profesor',
+          'Jocul „Situațiile”, interactiv, pe tablă (situațiile 1-6 din manual, trase pe rând de perechi)',
         ],
         desfasurare: [
           {
@@ -1025,8 +1025,48 @@ export const unitatea2 = {
           {
             etapa: 'Jocurile de rol',
             timp: '17 min',
-            activitate: '– „Aplicații”, ex. 1: șase perechi primesc bilețele cu situațiile 1-6; 3 minute de pregătire, 2 minute de joc.\n– Ceilalți completează fișa de observare de la ex. 2 (rol interpretat corect, exprimare clară, politețe).\n– După fiecare joc: ce formule au folosit? (Vreau să te invit..., Îmi pare rău, dar..., Mulțumesc mult...).',
-            elevi: 'Jocurile de rol, „Aplicații”:\nEx. 1: șase perechi primesc bilețele cu situațiile 1-6; 3 minute de pregătire, 2 minute de joc.\nCeilalți completează fișa de observare de la ex. 2 (rol interpretat corect, exprimare clară, politețe).\nDupă fiecare joc: ce formule au folosit perechile?',
+            activitate: '– „Aplicații”, ex. 1: șase perechi trag pe tablă situațiile 1-6 (jocul „Situațiile”); 3 minute de pregătire, 2 minute de joc.\n– Ceilalți completează fișa de observare de la ex. 2 (rol interpretat corect, exprimare clară, politețe).\n– După fiecare joc: ce formule au folosit? (Vreau să te invit..., Îmi pare rău, dar..., Mulțumesc mult...).',
+            elevi: 'Jocurile de rol, „Aplicații”:\nEx. 1: șase perechi trag, pe rând, la tablă situațiile 1-6; 3 minute de pregătire, 2 minute de joc.\nCeilalți completează fișa de observare de la ex. 2 (rol interpretat corect, exprimare clară, politețe).\nDupă fiecare joc: ce formule au folosit perechile?',
+            joc: {
+              tip: 'extragere',
+              titlu: 'Situațiile',
+              instructiune: 'Pregătiți dialogul 3 minute, apoi jucați-l 2 minute. Ceilalți observă: rolul, exprimarea, politețea.',
+              buton: 'Trage o situație',
+              faraRepetare: true,
+              elemente: [
+                {
+                  eticheta: 'Perechea 1',
+                  text: 'Un copil își invită un coleg sau o colegă de clasă la ziua lui de naștere (inventează locul, ziua, ora); colegul acceptă invitația și mulțumește.',
+                  detaliu: 'Invitația: Vreau să te invit …; Mă bucur să te invit …; Sper că vei accepta invitația mea …\nAcceptarea: Mulțumesc, vin cu plăcere …; Sigur că vin, mulțumesc frumos …; Excelent! Abia aștept …',
+                },
+                {
+                  eticheta: 'Perechea 2',
+                  text: 'O doamnă face o invitație la onomastica fiicei sale (precizează locul, ziua, ora), pe care o adresează mamei unui coleg sau unei colege de clasă a fiicei; mama invitată își exprimă regretul că nu poate răspunde invitației.',
+                  detaliu: 'Invitația: Aș vrea să vă invit …; Sunt încântată să vă invit …; Sper că veți putea veni la …\nRefuzul: Îmi pare rău, dar …; Mi-ar fi făcut plăcere …, dar …',
+                },
+                {
+                  eticheta: 'Perechea 3',
+                  text: 'Nepotul sau nepoata îi face un compliment bunicii (găsește tu calitățile pentru care bunica merită să fie lăudată); bunica răspunde, mulțumind pentru compliment.',
+                  detaliu: 'Complimentul: Ești extraordinară …, pentru că …; Ești cea mai bună bunică, pentru că …\nRăspunsul: Mulțumesc mult …; Oh, ce drăguț/drăguță ești …',
+                },
+                {
+                  eticheta: 'Perechea 4',
+                  text: 'Doi prieteni vorbesc despre jocurile preferate: unul pune întrebări, celălalt răspunde.',
+                  detaliu: 'Întrebările: Ce …?, Cum …?, Cu cine …?, Unde …?, De ce …?\nRăspunsurile: fii atent la întrebare, ca să dai un răspuns adecvat; dacă nu ești sigur că ai înțeles întrebarea, cere lămuriri.',
+                },
+                {
+                  eticheta: 'Perechea 5',
+                  text: 'Părintele unui copil cam neastâmpărat îi face reproșuri acestuia; copilul răspunde că a înțeles reproșul și că îl acceptă.',
+                  detaliu: 'Reproșul: Îmi pare rău că trebuie să-ți spun …; Nu-mi place că …\nAcceptarea: Am înțeles …, îmi pare rău; Nu mi-am dat seama …, promit să nu mai fac.',
+                },
+                {
+                  eticheta: 'Perechea 6',
+                  text: 'Un băiat sau o fată îi reproșează celui mai bun prieten faptul că s-a comportat urât față de el sau de ea; prietenul nu acceptă reproșul și oferă explicații.',
+                  detaliu: 'Reproșul: Nu-mi place cum te-ai purtat …; Sper că îți dai seama că sunt supărat/supărată pe tine, pentru că …\nRespingerea: Îmi pare rău, dar nu ai dreptate; Nu ai motive să fii supărat, pentru că …',
+                },
+              ],
+              sursa: 'Manual Art 5, p. 57, „Aplicații”, ex. 1 (situațiile 1-6 și sugestiile de formulare)',
+            },
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
@@ -1128,8 +1168,49 @@ export const unitatea2 = {
           {
             etapa: 'Jocul culorilor',
             timp: '15 min',
-            activitate: '– „Aplicații”, ex. 1: lectura pe roluri a textului lui Mircea Sântimbreanu (povestitor, două fete; un profesor și o elevă fără replici).\n– Ex. 2, investigație în grupe de 3-4 (grupele se formează după culoarea bilețelului ales de pe tablă): fiecare grupă își alege un moderator și un semn pentru „vreau să vorbesc”.\n– Variantă: tehnica acvariului; câțiva elevi observă o grupă cu grila de la p. 59.\n– Ex. 3-4: grupele raportează concluziile și se autoevaluează după grilă.',
-            elevi: 'Jocul culorilor, „Aplicații”:\nEx. 1: lectura pe roluri a textului lui Mircea Sântimbreanu (povestitor, două fete; un profesor și o elevă fără replici).\nEx. 2, investigație în grupe de 3-4 (grupele se formează după culoarea bilețelului ales de pe tablă): alegeți un moderator și un semn pentru „vreau să vorbesc”.\nEx. 3-4: grupele raportează concluziile și se autoevaluează după grila de la p. 59.',
+            activitate: '– „Aplicații”, ex. 1: lectura pe roluri a textului lui Mircea Sântimbreanu (povestitor, două fete; un profesor și o elevă fără replici).\n– Ex. 2, investigație în grupe de 3-4 (grupele se formează la tablă, în jocul „Culorile”: fiecare elev trage o culoare): fiecare grupă își alege un moderator și un semn pentru „vreau să vorbesc”.\n– Variantă: tehnica acvariului; câțiva elevi observă o grupă cu grila de la p. 59.\n– Ex. 3-4: grupele raportează concluziile și se autoevaluează după grilă.',
+            elevi: 'Jocul culorilor, „Aplicații”:\nEx. 1: lectura pe roluri a textului lui Mircea Sântimbreanu (povestitor, două fete; un profesor și o elevă fără replici).\nEx. 2, investigație în grupe de 3-4: fiecare trage la tablă o culoare, iar cei cu aceeași culoare formează o grupă. Alegeți un moderator și un semn pentru „vreau să vorbesc”.\nEx. 3-4: grupele raportează concluziile și se autoevaluează după grila de la p. 59.',
+            joc: {
+              tip: 'grupe',
+              titlu: 'Culorile',
+              instructiune: 'Trage o culoare. Cei care trag aceeași culoare formează o grupă.',
+              etichete: [
+                {
+                  nume: 'Roșu',
+                  culoare: '#d63a2f',
+                },
+                {
+                  nume: 'Albastru',
+                  culoare: '#2b6cb0',
+                },
+                {
+                  nume: 'Verde',
+                  culoare: '#2f9e55',
+                },
+                {
+                  nume: 'Galben',
+                  culoare: '#f2b61c',
+                },
+                {
+                  nume: 'Portocaliu',
+                  culoare: '#ed7d31',
+                },
+                {
+                  nume: 'Mov',
+                  culoare: '#7e57c2',
+                },
+                {
+                  nume: 'Roz',
+                  culoare: '#e86aa6',
+                },
+                {
+                  nume: 'Maro',
+                  culoare: '#8d5a3b',
+                },
+              ],
+              maxPerGrupa: 4,
+              sursa: 'Plan de lecție (Manual Art 5, pp. 58-59, „Aplicații”, ex. 2); culorile sunt alese pentru OraRO',
+            },
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
@@ -2061,8 +2142,66 @@ export const unitatea2 = {
           {
             etapa: 'Captarea atenției',
             timp: '4 min',
-            activitate: '– Fiecare elev primește un bilețel cu un verb la infinitiv, îl trece la viitor, spune forma și lipește bilețelul pe o coală de pe tablă.',
-            elevi: 'Primiți un bilețel cu un verb la infinitiv. Treceți-l la viitor, spuneți forma și lipiți bilețelul pe o coală de pe tablă.',
+            activitate: '– Fiecare elev trage pe tablă un verb la infinitiv (jocul „Verbele la viitor”), îl trece la viitor și spune forma; răspunsul se arată la cerere.',
+            elevi: 'Veniți la tablă și trageți un verb la infinitiv. Treceți-l la viitor și spuneți forma.',
+            joc: {
+              tip: 'extragere',
+              titlu: 'Verbele la viitor',
+              instructiune: 'Treci verbul tras la viitor și spune forma.',
+              buton: 'Trage un verb',
+              faraRepetare: false,
+              elemente: [
+                {
+                  text: 'a cânta',
+                  raspuns: 'voi cânta  ·  o să cânt  ·  am să cânt',
+                },
+                {
+                  text: 'a citi',
+                  raspuns: 'voi citi  ·  o să citesc  ·  am să citesc',
+                },
+                {
+                  text: 'a scrie',
+                  raspuns: 'voi scrie  ·  o să scriu  ·  am să scriu',
+                },
+                {
+                  text: 'a desena',
+                  raspuns: 'voi desena  ·  o să desenez  ·  am să desenez',
+                },
+                {
+                  text: 'a merge',
+                  raspuns: 'voi merge  ·  o să merg  ·  am să merg',
+                },
+                {
+                  text: 'a dormi',
+                  raspuns: 'voi dormi  ·  o să dorm  ·  am să dorm',
+                },
+                {
+                  text: 'a alerga',
+                  raspuns: 'voi alerga  ·  o să alerg  ·  am să alerg',
+                },
+                {
+                  text: 'a învăța',
+                  raspuns: 'voi învăța  ·  o să învăț  ·  am să învăț',
+                },
+                {
+                  text: 'a juca',
+                  raspuns: 'voi juca  ·  o să joc  ·  am să joc',
+                },
+                {
+                  text: 'a vedea',
+                  raspuns: 'voi vedea  ·  o să văd  ·  am să văd',
+                },
+                {
+                  text: 'a spune',
+                  raspuns: 'voi spune  ·  o să spun  ·  am să spun',
+                },
+                {
+                  text: 'a face',
+                  raspuns: 'voi face  ·  o să fac  ·  am să fac',
+                },
+              ],
+              sursa: 'Plan de lecție (Manual Art 5, pp. 70-71); verbele sunt alese pentru OraRO',
+            },
           },
           {
             etapa: 'Dirijarea învățării: viitorul și a vrea',
@@ -2250,8 +2389,58 @@ export const unitatea2 = {
           {
             etapa: 'Jocul Bingo',
             timp: '8 min',
-            activitate: '– „Aplicații”, ex. 1: fiecare primește cartonașul (a căra, a culege, a privi, a râde; singular și plural) și caută colegi care să completeze câte o căsuță; primul care termină corect strigă „Bingo!”.',
-            elevi: 'Jocul Bingo, „Aplicații”, ex. 1: primiți cartonașul (a căra, a culege, a privi, a râde; singular și plural) și căutați colegi care să completeze câte o căsuță. Primul care termină corect strigă „Bingo!”.',
+            activitate: '– „Aplicații”, ex. 1: cartonașul (a căra, a culege, a privi, a râde; singular și plural) se joacă frontal, pe tablă: se trage o căsuță, un elev spune imperativul, clasa confirmă, apoi arăt răspunsul; când ies cele 8 căsuțe, clasa strigă „Bingo!”.',
+            elevi: 'Jocul Bingo, „Aplicații”, ex. 1: clasa completează împreună cartonașul. Trageți o căsuță (verbul și numărul), spuneți imperativul, iar clasa confirmă. Când ies cele 8 căsuțe, strigăm „Bingo!”.',
+            joc: {
+              tip: 'extragere',
+              titlu: 'Bingo la imperativ',
+              instructiune: 'Imperativ, persoana a II-a, forma afirmativă. Un elev spune forma, clasa confirmă.',
+              buton: 'Trage o căsuță',
+              faraRepetare: true,
+              elemente: [
+                {
+                  eticheta: 'a căra',
+                  text: 'a căra, singular',
+                  raspuns: 'Cară!',
+                },
+                {
+                  eticheta: 'a căra',
+                  text: 'a căra, plural',
+                  raspuns: 'Cărați!',
+                },
+                {
+                  eticheta: 'a culege',
+                  text: 'a culege, singular',
+                  raspuns: 'Culege!',
+                },
+                {
+                  eticheta: 'a culege',
+                  text: 'a culege, plural',
+                  raspuns: 'Culegeți!',
+                },
+                {
+                  eticheta: 'a privi',
+                  text: 'a privi, singular',
+                  raspuns: 'Privește!',
+                },
+                {
+                  eticheta: 'a privi',
+                  text: 'a privi, plural',
+                  raspuns: 'Priviți!',
+                },
+                {
+                  eticheta: 'a râde',
+                  text: 'a râde, singular',
+                  raspuns: 'Râzi!',
+                },
+                {
+                  eticheta: 'a râde',
+                  text: 'a râde, plural',
+                  raspuns: 'Râdeți!',
+                },
+              ],
+              sursa: 'Manual Art 5, p. 73, „Aplicații”, ex. 1 (cartonașul cu opt căsuțe)',
+            },
           },
           {
             etapa: 'Aplicații frontale',

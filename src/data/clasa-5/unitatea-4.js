@@ -423,8 +423,48 @@ export const unitatea4 = {
           {
             etapa: 'Joc: Cubul',
             timp: '8 min',
-            activitate: '– „Aplicații”, p. 113, ex. 4: grupe de 3-4; fiecare grupă aruncă cubul și rezolvă sarcina despre Minotaur (descrieți, comparați, asociați, analizați, aplicați, argumentați).\n– Câte un reprezentant spune răspunsul grupei, într-un minut.',
-            elevi: '„Aplicații”, p. 113, ex. 4: în grupe de 3-4, aruncați cubul și rezolvați sarcina despre Minotaur (descrieți, comparați, asociați, analizați, aplicați, argumentați).\nCâte un reprezentant spune răspunsul grupei, într-un minut.',
+            activitate: '– „Aplicații”, p. 113, ex. 4: grupe de 3-4; fiecare grupă aruncă cubul de pe tablă și rezolvă sarcina despre Minotaur (descrieți, comparați, asociați, analizați, aplicați, argumentați).\n– Câte un reprezentant spune răspunsul grupei, într-un minut.',
+            elevi: '„Aplicații”, p. 113, ex. 4: în grupe de 3-4, aruncați pe rând cubul de pe tablă și rezolvați sarcina despre Minotaur.\nCâte un reprezentant spune răspunsul grupei, într-un minut.',
+            joc: {
+              tip: 'extragere',
+              titlu: 'Cubul',
+              instructiune: 'Fiecare grupă aruncă cubul și rezolvă sarcina de pe fața căzută, despre Minotaur.',
+              buton: 'Aruncă cubul',
+              faraRepetare: false,
+              elemente: [
+                {
+                  eticheta: 'Fața 1',
+                  text: 'Descrieți!',
+                  detaliu: 'Cum arată Minotaurul?',
+                },
+                {
+                  eticheta: 'Fața 2',
+                  text: 'Comparați!',
+                  detaliu: 'Prin ce se aseamănă cu un om și prin ce diferă Minotaurul de un om?',
+                },
+                {
+                  eticheta: 'Fața 3',
+                  text: 'Asociați!',
+                  detaliu: 'Care sunt sunetele și culorile pe care le-ai asocia cu Minotaurul?',
+                },
+                {
+                  eticheta: 'Fața 4',
+                  text: 'Analizați!',
+                  detaliu: 'De ce nu reușește Minotaurul să iasă din labirint?',
+                },
+                {
+                  eticheta: 'Fața 5',
+                  text: 'Aplicați!',
+                  detaliu: 'Cum ai proceda tu pentru a învinge Minotaurul?',
+                },
+                {
+                  eticheta: 'Fața 6',
+                  text: 'Argumentați!',
+                  detaliu: 'Este bine sau nu că Ariadna l-a ajutat pe Tezeu să ucidă Minotaurul?',
+                },
+              ],
+              sursa: 'Manual Art 5, p. 113, „Aplicații”, ex. 4 (Joc. Cubul)',
+            },
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
@@ -1239,7 +1279,7 @@ export const unitatea4 = {
           'Manual Art 5, pp. 124-125',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-4/lectia-10/fisa-exercitii.pdf)',
           'Quizul „Acte de limbaj: a întreba, a solicita, a felicita” (materialul de joc al lecției)',
-          'Bilețele cu situații de comunicare',
+          'Jocul „Situațiile”, interactiv, pe tablă (situații de comunicare trase de perechi)',
         ],
         desfasurare: [
           {
@@ -1277,8 +1317,48 @@ export const unitatea4 = {
           {
             etapa: 'Aplicații: situații de comunicare',
             timp: '8 min',
-            activitate: '– „Aplicații”, ex. 1-3: fiecare pereche extrage un bilet cu o situație și formulează întrebarea, solicitarea sau felicitarea potrivită, cu mijloace verbale, nonverbale și paraverbale.\n– Patru-cinci perechi joacă situația; clasa spune dacă formularea se potrivește relației dintre vorbitori.',
-            elevi: '„Aplicații”, ex. 1-3: fiecare pereche extrage un bilet cu o situație și formulează întrebarea, solicitarea sau felicitarea potrivită, cu mijloace verbale, nonverbale și paraverbale.\nPatru-cinci perechi joacă situația. Clasa spune dacă formularea se potrivește relației dintre vorbitori.',
+            activitate: '– „Aplicații”, ex. 1-3: fiecare pereche trage pe tablă o situație (jocul „Situațiile”) și formulează întrebarea, solicitarea sau felicitarea potrivită, cu mijloace verbale, nonverbale și paraverbale.\n– Patru-cinci perechi joacă situația; clasa spune dacă formularea se potrivește relației dintre vorbitori.',
+            elevi: '„Aplicații”, ex. 1-3: fiecare pereche trage la tablă o situație și formulează întrebarea, solicitarea sau felicitarea potrivită, cu mijloace verbale, nonverbale și paraverbale.\nPatru-cinci perechi joacă situația. Clasa spune dacă formularea se potrivește relației dintre vorbitori.',
+            joc: {
+              tip: 'extragere',
+              titlu: 'Situațiile',
+              instructiune: 'Formulați întrebarea, solicitarea sau felicitarea potrivită, cu mijloace verbale, nonverbale și paraverbale. Alegeți formularea familiară sau politicoasă, după relația dintre vorbitori.',
+              buton: 'Trage o situație',
+              faraRepetare: false,
+              elemente: [
+                {
+                  eticheta: 'A întreba',
+                  text: 'Ai ascultat discursul unui coleg și nu ai înțeles o idee.',
+                  detaliu: 'Formulează o întrebare care să clarifice ideea.',
+                },
+                {
+                  eticheta: 'A întreba',
+                  text: 'Vrei să afli de la bibliotecară dacă o carte este disponibilă.',
+                  detaliu: 'Formulează întrebarea, politicos.',
+                },
+                {
+                  eticheta: 'A solicita',
+                  text: 'Ai uitat caietul acasă și ai nevoie de o foaie de la colegul de bancă.',
+                  detaliu: 'Formulează solicitarea.',
+                },
+                {
+                  eticheta: 'A solicita',
+                  text: 'Vrei să ceri doamnei directoare permisiunea să organizați o activitate în curtea școlii.',
+                  detaliu: 'Formulează solicitarea.',
+                },
+                {
+                  eticheta: 'A felicita',
+                  text: 'Un coleg a câștigat un concurs școlar.',
+                  detaliu: 'Formulează felicitarea.',
+                },
+                {
+                  eticheta: 'A felicita',
+                  text: 'Bunica ta împlinește 70 de ani.',
+                  detaliu: 'Formulează felicitarea.',
+                },
+              ],
+              sursa: 'Plan de lecție (Manual Art 5, pp. 124-125, „Aplicații”, ex. 1-3); situațiile sunt create pentru OraRO',
+            },
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',

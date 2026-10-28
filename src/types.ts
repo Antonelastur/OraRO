@@ -35,7 +35,7 @@ export type Materiale = {
 // `joc`, opțional, e un joc interactiv de sortare, afișat pe tablă la etapa respectivă.
 // `materiale`, opțional, spune ce materiale ale lecției se folosesc la etapa asta;
 // tabla le arată la pasul respectiv. Fără el la nicio etapă, tabla le arată pe toate.
-// Joc de sortare pe tablă: cuvintele se așază pe categorii (de exemplu culorile unui semafor).
+// Jocuri pe tablă, fără nimic de tipărit. Joc de sortare: cuvintele se așază pe categorii (de exemplu culorile unui semafor).
 // Înlocuiește jocurile cu bilețele decupate. Stă pe etapa în care se joacă, nu printre materiale.
 export type JocSortare = {
   tip: 'sortare'
@@ -46,8 +46,33 @@ export type JocSortare = {
   sursa: string
 }
 
+// Joc de extragere la sorți pe tablă: apasă „Trage” și apare un bilet (o situație, un cuvânt, o sarcină).
+// Înlocuiește bilețelele decupate; cu `faraRepetare` fiecare bilet iese o singură dată.
+// Un `raspuns`, dacă există, se arată doar la cerere. Folosit și pentru cub (fețele sunt biletele).
+export type JocExtragere = {
+  tip: 'extragere'
+  titlu: string
+  instructiune?: string
+  buton?: string
+  faraRepetare?: boolean
+  elemente: { eticheta?: string; text: string; detaliu?: string; raspuns?: string }[]
+  sursa: string
+}
+
+// Împărțirea clasei în grupe pe culori sau nume: se spune câți elevi sunt, apoi fiecare trage o culoare.
+export type JocGrupe = {
+  tip: 'grupe'
+  titlu: string
+  instructiune?: string
+  etichete: { nume: string; culoare: string }[]
+  maxPerGrupa: number
+  sursa: string
+}
+
+export type JocPeTabla = JocSortare | JocExtragere | JocGrupe
+
 export type MaterialElev = 'prezentare' | 'video' | 'fisa' | 'joc' | 'infografic' | 'schema'
-export type EtapaLectie = { etapa: string; timp: string; activitate: string; elevi?: string; materiale?: MaterialElev[]; joc?: JocSortare }
+export type EtapaLectie = { etapa: string; timp: string; activitate: string; elevi?: string; materiale?: MaterialElev[]; joc?: JocPeTabla }
 
 export type PlanLectie = {
   titlu: string

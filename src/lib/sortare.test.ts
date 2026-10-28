@@ -54,7 +54,7 @@ describe('jocurile de sortare din date', () => {
     for (const { clasaId, unitateId, lectie } of toateLectiile(clase as unknown as Clase)) {
       for (const [i, etapa] of (lectie.planLectie?.desfasurare ?? []).entries()) {
         const j = etapa.joc
-        if (!j) continue
+        if (j?.tip !== 'sortare') continue
         gasite++
         const loc = `${clasaId}/${unitateId}/${lectie.id} pasul ${i + 1}`
         const ids = j.categorii.map((c) => c.id)

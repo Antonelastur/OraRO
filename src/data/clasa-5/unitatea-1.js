@@ -1089,8 +1089,33 @@ export const unitatea1 = {
           {
             etapa: 'Aplicații orale',
             timp: '12 min',
-            activitate: '– „Aplicații”, p. 23, ex. 1: asociem oral simbolurile cu emoțiile.\n– Ex. 2: trei-patru elevi mimează câte o situație din manual; clasa ghicește emoția.\n– Ex. 3, în perechi, cu bilețelele (bucurie, tristețe, frică, furie, dezgust): „Sunt ... pentru că ... și mă simt de parcă ...” / „Îmi pare bine (rău) că simți așa, pentru că ...”; apoi rolurile se schimbă.',
-            elevi: '„Aplicații”, p. 23:\nEx. 1: asociați oral simbolurile cu emoțiile.\nEx. 2: trei-patru elevi mimează câte o situație din manual; clasa ghicește emoția.\nEx. 3, în perechi, cu bilețelele (bucurie, tristețe, frică, furie, dezgust): „Sunt ... pentru că ... și mă simt de parcă ...” / „Îmi pare bine (rău) că simți așa, pentru că ...”. Apoi schimbați rolurile.',
+            activitate: '– „Aplicații”, p. 23, ex. 1: asociem oral simbolurile cu emoțiile.\n– Ex. 2: trei-patru elevi mimează câte o situație din manual; clasa ghicește emoția.\n– Ex. 3, în perechi: fiecare pereche trage o emoție pe tablă (jocul „Emoțiile”) și spune: „Sunt ... pentru că ... și mă simt de parcă ...” / „Îmi pare bine (rău) că simți așa, pentru că ...”; apoi rolurile se schimbă.',
+            elevi: '„Aplicații”, p. 23:\nEx. 1: asociați oral simbolurile cu emoțiile.\nEx. 2: trei-patru elevi mimează câte o situație din manual; clasa ghicește emoția.\nEx. 3, în perechi: veniți la tablă și trageți o emoție. Spuneți „Sunt ... pentru că ... și mă simt de parcă ...”, iar colegul răspunde „Îmi pare bine (rău) că simți așa, pentru că ...”. Apoi schimbați rolurile.',
+            joc: {
+              tip: 'extragere',
+              titlu: 'Emoțiile',
+              instructiune: 'Spune: „Sunt ... pentru că ... și mă simt de parcă ...”. Colegul răspunde: „Îmi pare bine (rău) că simți așa, pentru că ...”. Apoi schimbați rolurile.',
+              buton: 'Trage o emoție',
+              faraRepetare: false,
+              elemente: [
+                {
+                  text: 'bucurie',
+                },
+                {
+                  text: 'tristețe',
+                },
+                {
+                  text: 'frică',
+                },
+                {
+                  text: 'furie',
+                },
+                {
+                  text: 'dezgust',
+                },
+              ],
+              sursa: 'Plan de lecție (Manual Art 5, p. 23, „Aplicații”, ex. 3); jocul înlocuiește bilețelele tipărite',
+            },
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',

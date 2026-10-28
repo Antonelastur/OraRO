@@ -1,7 +1,7 @@
 // Stratul de derivare: proiectează forma actuală a datelor în modelul OraRO 2.0.
 // Fișierele din src/data/ rămân sursă de adevăr, aici se calculează blocurile
 // orei. Vezi docs/architecture.md, secțiunea 2.
-import type { JocSortare, Lectie, MaterialElev } from '@/types'
+import type { JocPeTabla, Lectie, MaterialElev } from '@/types'
 
 export type BlocOra = {
   index: number
@@ -13,7 +13,7 @@ export type BlocOra = {
   /** Materialele lecției folosite la această etapă; gol dacă planul nu le leagă de pași. */
   materiale: MaterialElev[]
   /** Jocul interactiv al etapei, dacă are unul. */
-  joc: JocSortare | null
+  joc: JocPeTabla | null
 }
 
 // „22 min" → 22. Acceptă și „5-7 min" sau „3", ia primul număr găsit.
