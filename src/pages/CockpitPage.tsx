@@ -16,6 +16,7 @@ import {
 } from '@/lib/cockpit'
 import { areMaterialePePasi, etapaTemei, materialeElevi, materialePas, temaAcasa } from '@/lib/elevi'
 import { MaterialeElevi } from '@/components/MaterialeElevi'
+import { JocSortare } from '@/components/JocSortare'
 import type { Clase } from '@/types'
 
 const CLASE = clase as unknown as Clase
@@ -328,6 +329,8 @@ export function CockpitPage() {
               ))}
             </div>
           )}
+
+          {blocCurent.joc && <JocSortare key={`${cheie}-${stare.pas}`} joc={blocCurent.joc} />}
 
           {aratTema && (
             <section
