@@ -69,7 +69,19 @@ export type JocGrupe = {
   sursa: string
 }
 
-export type JocPeTabla = JocSortare | JocExtragere | JocGrupe
+// Morișca de pe tablă: se învârte și, când se oprește, fiecare paletă arată o formă a aceluiași verb.
+// `forme` urmează ordinea `padele`; timpurile se arată doar la cerere. `centru` se scrie la final în mijloc.
+export type JocMorisca = {
+  tip: 'morisca'
+  titlu: string
+  instructiune?: string
+  centru: string
+  padele: { timp: string; culoare: string }[]
+  verbe: { infinitiv: string; forme: string[] }[]
+  sursa: string
+}
+
+export type JocPeTabla = JocSortare | JocExtragere | JocGrupe | JocMorisca
 
 export type MaterialElev = 'prezentare' | 'video' | 'fisa' | 'joc' | 'infografic' | 'schema'
 export type EtapaLectie = { etapa: string; timp: string; activitate: string; elevi?: string; materiale?: MaterialElev[]; joc?: JocPeTabla }

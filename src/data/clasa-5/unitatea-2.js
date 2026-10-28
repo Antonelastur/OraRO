@@ -1626,6 +1626,7 @@ export const unitatea2 = {
         ],
         resurse: [
           'Manual Art 5, pp. 64-65',
+          'Jocul „Morișca”, interactiv, pe tablă (verbul a alerga din manual și alte nouă verbe)',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-2/lectia-13/fisa-exercitii.pdf)',
           'Schema „Imperfectul” (/materiale/clasa-5/unitatea-2/lectia-13/schema.svg)',
           'Caietele elevilor',
@@ -1640,8 +1641,125 @@ export const unitatea2 = {
           {
             etapa: 'Morișca',
             timp: '7 min',
-            activitate: '– „Explorare”, ex. 1: fiecare lipește bilețelul cu verbul pe paleta potrivită a moriștii desenate pe planșă; în centru scriem timpul de bază al tuturor: trecutul.',
-            elevi: '„Explorare”, ex. 1: lipiți bilețelul cu verbul pe paleta potrivită a moriștii desenate pe planșă. În centru scriem timpul de bază al tuturor verbelor.',
+            activitate: '– „Explorare”, ex. 1: învârt morișca de pe tablă; când se oprește, fiecare paletă arată o formă a trecutului pentru același verb. Elevii spun ce timp e fiecare formă; în centru scriem timpul de bază al tuturor: trecutul.',
+            elevi: '„Explorare”, ex. 1: învârtim morișca. Când se oprește, apar patru forme ale aceluiași verb, câte una pe fiecare paletă. Spuneți ce timp are fiecare formă. În centru scriem timpul de bază al tuturor verbelor: trecutul.',
+            joc: {
+              tip: 'morisca',
+              titlu: 'Morișca',
+              instructiune: 'Învârte morișca. Când se oprește, citiți cele patru forme ale verbului și spuneți ce timp are fiecare.',
+              centru: 'trecutul',
+              padele: [
+                {
+                  timp: 'Imperfect',
+                  culoare: '#c1503a',
+                },
+                {
+                  timp: 'Mai mult ca perfect',
+                  culoare: '#2f855a',
+                },
+                {
+                  timp: 'Perfect simplu',
+                  culoare: '#2b6cb0',
+                },
+                {
+                  timp: 'Perfect compus',
+                  culoare: '#7b4aa0',
+                },
+              ],
+              verbe: [
+                {
+                  infinitiv: 'a alerga',
+                  forme: [
+                    'alergam',
+                    'alergasem',
+                    'alergai',
+                    'am alergat',
+                  ],
+                },
+                {
+                  infinitiv: 'a cânta',
+                  forme: [
+                    'cântam',
+                    'cântasem',
+                    'cântai',
+                    'am cântat',
+                  ],
+                },
+                {
+                  infinitiv: 'a citi',
+                  forme: [
+                    'citeam',
+                    'citisem',
+                    'citii',
+                    'am citit',
+                  ],
+                },
+                {
+                  infinitiv: 'a scrie',
+                  forme: [
+                    'scriam',
+                    'scrisesem',
+                    'scrisei',
+                    'am scris',
+                  ],
+                },
+                {
+                  infinitiv: 'a vedea',
+                  forme: [
+                    'vedeam',
+                    'văzusem',
+                    'văzui',
+                    'am văzut',
+                  ],
+                },
+                {
+                  infinitiv: 'a face',
+                  forme: [
+                    'făceam',
+                    'făcusem',
+                    'făcui',
+                    'am făcut',
+                  ],
+                },
+                {
+                  infinitiv: 'a merge',
+                  forme: [
+                    'mergeam',
+                    'mersesem',
+                    'mersei',
+                    'am mers',
+                  ],
+                },
+                {
+                  infinitiv: 'a spune',
+                  forme: [
+                    'spuneam',
+                    'spusesem',
+                    'spusei',
+                    'am spus',
+                  ],
+                },
+                {
+                  infinitiv: 'a învăța',
+                  forme: [
+                    'învățam',
+                    'învățasem',
+                    'învățai',
+                    'am învățat',
+                  ],
+                },
+                {
+                  infinitiv: 'a râde',
+                  forme: [
+                    'râdeam',
+                    'râsesem',
+                    'râsei',
+                    'am râs',
+                  ],
+                },
+              ],
+              sursa: 'Manual Art 5, p. 64, „Explorare”, ex. 1 (morișca și verbul a alerga); celelalte verbe sunt create pentru OraRO',
+            },
           },
           {
             etapa: 'Dirijarea învățării: imperfectul',
