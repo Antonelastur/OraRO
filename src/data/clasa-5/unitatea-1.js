@@ -575,12 +575,14 @@ export const unitatea1 = {
             timp: '10 min',
             activitate: '– „Interpretare”, p. 16, ex. 1: la cine se referă titlul? Votăm variantele a-d cu mâna ridicată, apoi cer argumente pentru fiecare vot.\n– Ex. 2: de ce e comparată ziua cu o mașină condusă de un șofer începător pe un drum cu gropi?\n– Ex. 3: sunteți de acord că profesorii de română dau des teme despre prietenie? De ce credeți că o fac?',
             elevi: '„Interpretare”, p. 16:\nEx. 1: la cine se referă titlul? Votăm variantele a-d și argumentăm fiecare vot.\nEx. 2: de ce este comparată ziua cu o mașină condusă de un șofer începător pe un drum cu gropi?\nEx. 3: sunteți de acord că profesorii de română dau des teme despre prietenie? De ce credeți că o fac?',
+            materiale: ['schema'],
           },
           {
             etapa: 'Dirijarea învățării: gândurile și emoțiile lui Bogdan',
             timp: '12 min',
             activitate: '– Ex. 4: ce înseamnă că oamenii „n-au ochi și ochelari” cu care să-ți vadă sufletul?\n– Ex. 5-6: de ce i se par minutele ore? Elevii dau exemple proprii de timp care trece prea încet sau prea repede.\n– Ex. 7: căutăm în text întrebările fără răspuns ale lui Bogdan și le dăm răspunsuri posibile.\n– Ex. 8-9: de ce n-a fost ziua chiar așa de rea? Care sunt urmările bune? (alegere și argument).\n– Dau feedback constructiv la fiecare răspuns („Ai o abordare interesantă. Te-ai gândit și la...?”).',
             elevi: 'Ex. 4: ce înseamnă că oamenii „n-au ochi și ochelari” cu care să-ți vadă sufletul?\nEx. 5-6: de ce i se par lui Bogdan minutele ore? Dați exemple proprii de timp care trece prea încet sau prea repede.\nEx. 7: căutați în text întrebările fără răspuns ale lui Bogdan și dați-le răspunsuri posibile.\nEx. 8-9: de ce nu a fost ziua chiar așa de rea? Care sunt urmările bune? Alegeți și argumentați.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
@@ -815,12 +817,14 @@ export const unitatea1 = {
             timp: '10 min',
             activitate: '– Citesc fragmentul cu voce tare (sau pornesc înregistrarea din manualul digital).\n– Explic cuvintele din subsol pe măsură ce apar: auroră, într-adins, zenit, a tălmăci, răgaz, dezolat, sacru, a mântui; și expresia „a ține sub trei lacăte și șapte peceți”.',
             elevi: 'Ascultați fragmentul (sau înregistrarea din manualul digital) și urmăriți-l în manual.\nCuvinte din subsol: auroră, într-adins, zenit, a tălmăci, răgaz, dezolat, sacru, a mântui; expresia „a ține sub trei lacăte și șapte peceți”.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Discutarea textului',
             timp: '13 min',
             activitate: '– „Discutarea textului”, p. 19, ex. 1-5, frontal: unde și când; cum i se adresau prietenii; ce profesie avea tatăl (ce secvență v-a ajutat?); personajele; descoperirea.\n– Ex. 6, cu mâna ridicată pentru fiecare variantă (A-C).\n– Ex. 8-9: ce cuvinte arată că descoperirea era secretă (elevii le notează în caiet)? De ce credeți că i-a dezvăluit secretul lui Adam?\n– Dau feedback constructiv, cu întrebări de continuare.',
             elevi: '„Discutarea textului”, p. 19:\nEx. 1-5: unde și când se petrece acțiunea? Cum i se adresau prietenii? Ce profesie avea tatăl (ce secvență v-a ajutat)? Personajele. Descoperirea.\nEx. 6: ridicați mâna pentru varianta pe care o alegeți (A-C).\nEx. 8-9: ce cuvinte arată că descoperirea era secretă? Notați-le în caiet. De ce credeți că i-a dezvăluit secretul lui Adam?',
+            materiale: ['schema'],
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
@@ -2229,6 +2233,7 @@ export const unitatea1 = {
             timp: '8 min',
             activitate: '– Repere, p. 37: relatarea; introducerea, cuprinsul și încheierea (cuprinsul e partea cea mai mare); paragraful; cuvintele de legătură (mai întâi, apoi, după aceea, mai târziu, în cele din urmă).\n– Desenez pe tablă modelul de pagină din manual: titlu, introducere, cuprins (Mai întâi..., Apoi..., În cele din urmă...), încheiere.',
             elevi: 'Repere, p. 37: relatarea; introducerea, cuprinsul și încheierea (cuprinsul este partea cea mai mare); paragraful; cuvintele de legătură (mai întâi, apoi, după aceea, mai târziu, în cele din urmă).\nModelul de pagină din manual: titlu, introducere, cuprins (Mai întâi..., Apoi..., În cele din urmă...), încheiere.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Exersare: fișa de exerciții',
@@ -2314,6 +2319,7 @@ export const unitatea1 = {
             timp: '15 min',
             activitate: '– Ex. 1, în perechi: fragmentele logice și cuvântul-cheie al fiecăruia.\n– Ex. 2-3, frontal, la tablă: tema (cu motivare) și planul simplu de idei.\n– Ex. 4-5: literar sau nonliterar (cu argumente); Cine? Ce? Când? Unde?\n– Ex. 6-9, oral, rapid: ochii lui Phoebe, emoția Salamancăi, de ce e considerată curajoasă, concluzia de la final.',
             elevi: 'Rezolvare ghidată, ex. 1-9:\nEx. 1, în perechi: fragmentele logice și cuvântul-cheie al fiecăruia.\nEx. 2-3, la tablă: tema (cu motivare) și planul simplu de idei.\nEx. 4-5: literar sau nonliterar (cu argumente); Cine? Ce? Când? Unde?\nEx. 6-9, oral, rapid: ochii lui Phoebe, emoția Salamancăi, de ce este considerată curajoasă, concluzia de la final.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții, pe un text nou',
@@ -2380,6 +2386,7 @@ export const unitatea1 = {
             timp: '15 min',
             activitate: '– P. 39, ex. 10-11, frontal: felul propozițiilor și transformările cerute.\n– Ex. 12: ce ne lămurește articolul CĂUȘ despre text?\n– Ex. 13, la tablă: ordinea din dicționar.\n– Ex. 14-16, în perechi: sinonime, antonime și câmpul lexical al naturii, pe cuvintele din text.',
             elevi: 'P. 39:\nEx. 10-11, frontal: felul propozițiilor și transformările cerute.\nEx. 12: ce ne lămurește articolul CĂUȘ despre text?\nEx. 13, la tablă: ordinea din dicționar.\nEx. 14-16, în perechi: sinonime, antonime și câmpul lexical al naturii, pe cuvintele din text.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Rezolvare ghidată: fonetică',

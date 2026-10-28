@@ -58,13 +58,14 @@ export const unitatea3 = {
             timp: '12 min',
             activitate: '– Sarcina (p. 91): grupe de 4-5 elevi, un proiect despre Crăciun; temele propuse în manual: sceneta Nașterii, colindele preferate, Crăciunul în lume, o carte despre Crăciun, povestea lui Moș Crăciun, tradiții din comunitate, decorațiuni, scrisoarea către Moș Crăciun (sau o temă propusă de grupă).\n– Calendarul, două săptămâni: I – alegerea temei și documentarea; II – produsul, împărțirea sarcinilor, repetiția. Prezentarea (3-5 minute) are loc în ultima oră de română dinaintea vacanței.\n– Împart fișa proiectului.',
             elevi: 'Proiect de grup despre Crăciun (p. 91), în grupe de 4-5 elevi.\nTeme posibile: sceneta Nașterii, colindele preferate, Crăciunul în lume, o carte despre Crăciun, povestea lui Moș Crăciun, tradiții din comunitate, decorațiuni, scrisoarea către Moș Crăciun sau o temă propusă de grupă.\nCalendar, două săptămâni: în prima alegeți tema și vă documentați; în a doua lucrați produsul, vă împărțiți sarcinile și repetați.\nPrezentarea durează 3-5 minute și are loc în ultima oră de română dinaintea vacanței.',
-            materiale: ['fisa'],
+            materiale: ['schema', 'fisa'],
           },
           {
             etapa: 'Documentarea',
             timp: '8 min',
             activitate: '– „Sugestii pentru etapa documentării”: ce surse putem folosi (cărți, reviste, internet); fiecare membru consultă cel puțin o sursă și notează de unde a luat informația.\n– Arăt cum se notează o sursă: titlul, autorul sau site-ul.',
             elevi: 'Ce surse puteți folosi? Cărți, reviste, internet.\nFiecare membru al grupei consultă cel puțin o sursă și notează de unde a luat informația: titlul și autorul sau site-ul.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Criteriile de evaluare',
@@ -961,6 +962,7 @@ export const unitatea3 = {
             timp: '36 min',
             activitate: '– Fiecare grupă prezintă (scenetă, colinde, poster, prezentare, decorațiuni...), apoi răspunde la una-două întrebări ale colegilor.\n– Completez grila din fișa proiectului pentru fiecare grupă.\n– Ceilalți ascultă activ și notează un lucru reușit la fiecare grupă.',
             elevi: 'Fiecare grupă își prezintă proiectul (scenetă, colinde, poster, prezentare, decorațiuni...) și răspunde la una-două întrebări ale colegilor.\nCeilalți ascultă activ și notează un lucru reușit la fiecare grupă.',
+            materiale: ['fisa'],
           },
           {
             etapa: 'Autoevaluare',
@@ -1040,12 +1042,14 @@ export const unitatea3 = {
             timp: '3 min',
             activitate: '– În caiete, după Repere și schema de la p. 93: ascultarea activă (a auzi clar, a interacționa fără să întrerupi, întrebări de clarificare, reformulare, contact vizual, încurajare, concentrare, înțelegere).',
             elevi: 'În caiet, după Repere și schema de la p. 93: ascultarea activă (a auzi clar, a interacționa fără să întrerupi, întrebări de clarificare, reformulare, contact vizual, încurajare, concentrare, înțelegere).',
+            materiale: ['schema'],
           },
           {
             etapa: 'Aplicații: vorbitor, ascultător, observator',
             timp: '12 min',
             activitate: '– „Aplicații”, p. 93: grupe de câte trei, trei runde; vorbitorul povestește 2-3 minute o întâmplare amuzantă de pe strada lui; ascultătorul dă semnale de atenție, întreabă, reformulează, rezumă; observatorul completează fișa de evaluare.\n– Circul și observ câte o secvență din fiecare grupă.',
             elevi: '„Aplicații”, p. 93: grupe de câte trei, trei runde.\nVorbitorul povestește 2-3 minute o întâmplare amuzantă de pe strada lui.\nAscultătorul dă semnale de atenție, întreabă, reformulează, rezumă.\nObservatorul completează fișa de evaluare.\nDupă fiecare rundă schimbați rolurile.',
+            materiale: ['fisa'],
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
@@ -1143,7 +1147,7 @@ export const unitatea3 = {
             timp: '12 min',
             activitate: '– „Explorare”, ex. 1: ce denumesc substantivele din propoziții (ființe, lucruri, fenomene, însușiri, acțiuni, stări).\n– Ex. 2, joc pe grupe de șase, 5 minute: fișa cu străzi, orașe, țări, prenume, nume de animale, sărbători; câștigă grupa cu cele mai multe substantive corecte.\n– Ex. 3: Bușteni și Creangă, nume proprii venite din substantive comune.\n– În caiete, după Repere: substantivul; comun și propriu; scrierea cu literă mare.',
             elevi: 'Ce denumesc substantivele? Ființe, lucruri, fenomene, însușiri, acțiuni, stări.\nJoc pe grupe, 5 minute: pe fișă, scrieți cât mai multe substantive corecte (străzi, orașe, țări, prenume, nume de animale, sărbători). Câștigă grupa cu cele mai multe.\nDe ce sunt nume proprii Bușteni și Creangă, deși vin din substantive comune?\nÎn caiet: substantivul; comun și propriu; scrierea cu literă mare.',
-            materiale: ['schema'],
+            materiale: ['schema', 'fisa'],
           },
           {
             etapa: 'Dirijarea învățării: genul și numărul',
@@ -2063,6 +2067,7 @@ export const unitatea3 = {
             timp: '5 min',
             activitate: '– În caiete, după Repere: introducerea (tema, motivul alegerii), cuprinsul (aspectele în detaliu), încheierea (concluzie, părere personală); tema, elementele, publicul, scopul; restrângerea temei.',
             elevi: 'În caiet, după Repere: introducerea (tema, motivul alegerii), cuprinsul (aspectele în detaliu), încheierea (concluzie, părere personală); tema, elementele, publicul, scopul; restrângerea temei.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
@@ -2216,6 +2221,7 @@ export const unitatea3 = {
             timp: '8 min',
             activitate: '– Ex. 1 (tema descrierii), ex. 6 (tabelul pasaj – trăsătura casei), ex. 7 (atribute despre casă), ex. 8 (personificarea), frontal.',
             elevi: 'Frontal:\nEx. 1: tema descrierii.\nEx. 6: tabelul pasaj și trăsătura casei.\nEx. 7: atribute despre casă.\nEx. 8: personificarea.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Textul B: căsuța din copaci',
@@ -2324,6 +2330,7 @@ export const unitatea3 = {
             timp: '14 min',
             activitate: '– A, ex. 2 (trei substantive care numesc locuința: gen, număr, articol), ex. 3 (subiect simplu și multiplu), ex. 4 (atributele evidențiate), ex. 5 (substantivele proprii), la tablă și în caiete.',
             elevi: 'Pe textul din „Matilda”, la tablă și în caiete:\nA, ex. 2: trei substantive care numesc locuința (gen, număr, articol).\nEx. 3: subiect simplu și multiplu.\nEx. 4: atributele evidențiate.\nEx. 5: substantivele proprii.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',

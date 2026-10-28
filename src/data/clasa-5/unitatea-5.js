@@ -1079,7 +1079,7 @@ export const unitatea5 = {
             timp: '7 min',
             activitate: '– P. 154, trei săptămâni: I – citirea fragmentului (și a basmului întreg, de la bibliotecă) și fișa de lectură după modelul din manual; II – documentarea despre comunitate (regiune, număr aproximativ, personalități, sărbători, religie, obiceiuri, port, mâncăruri, formule de salut), împărțirea rolurilor, recuzita, prezentarea; III – reflecții despre ce au în comun basmele.\n– Stabilim și notăm data prezentărilor.',
             elevi: 'Calendar (p. 154), trei săptămâni:\nI: citiți fragmentul (și basmul întreg, de la bibliotecă) și completați fișa de lectură după modelul din manual;\nII: documentarea despre comunitate (regiune, număr aproximativ, personalități, sărbători, religie, obiceiuri, port, mâncăruri, formule de salut), împărțirea rolurilor, recuzita, prezentarea;\nIII: reflecții despre ce au în comun basmele.\nStabilim și notăm data prezentărilor.',
-            materiale: ['schema'],
+            materiale: ['schema', 'fisa'],
           },
           {
             etapa: 'Criteriile de evaluare',
@@ -1206,6 +1206,7 @@ export const unitatea5 = {
             timp: '4 min',
             activitate: '– În caiete, după Repere, tabelul cu două coloane: elementele paraverbale (intensitatea vocii, intonația, ritmul, pauza) și nonverbale (mimica, gesturile, poziția corpului, contactul vizual).',
             elevi: 'În caiet, după Repere, tabelul cu două coloane: elementele paraverbale (intensitatea vocii, intonația, ritmul, pauza) și nonverbale (mimica, gesturile, poziția corpului, contactul vizual).',
+            materiale: ['schema'],
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
@@ -1553,7 +1554,7 @@ export const unitatea5 = {
             timp: '3 min',
             activitate: '– Tema: „Aplicații”, ex. 3 (poțiunea vrăjitoarei), ex. 4 (rețeta ta de vrăjitoare) și ex. 6; fișa de exerciții, pagina 2. Quizul „Numeralul cardinal” deschide ora următoare.',
             elevi: 'Quizul „Numeralul cardinal” deschide ora următoare.',
-            materiale: ['fisa'],
+            materiale: ['fisa', 'joc'],
           },
         ],
         evaluare: 'Observarea sistematică a elevilor; dictarea; fișa de exerciții, ex. 1-2.',
@@ -1962,6 +1963,7 @@ export const unitatea5 = {
             timp: '4 min',
             activitate: '– În caiete, după Repere: trăsăturile fizice și morale, accentul pe ce e fabulos, surprinzător; substantive, adjective, verbe la indicativ prezent sau imperfect; aceleași etape ca la descrierea unui obiect; introducere, cuprins, încheiere.',
             elevi: 'În caiet, după Repere: trăsăturile fizice și morale, accentul pe ce este fabulos, surprinzător; substantive, adjective, verbe la indicativ prezent sau imperfect; aceleași etape ca la descrierea unui obiect; introducere, cuprins, încheiere.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
@@ -2123,6 +2125,7 @@ export const unitatea5 = {
             timp: '35 min',
             activitate: '– Fiecare grupă prezintă basmul (titlul, comunitatea, personajele, specificul etnic, elementele comune cu alte basme) și ce a aflat despre comunitate (regiunea, sărbători, obiceiuri, port, mâncăruri, formule de salut).\n– Colegii pun câte o întrebare; eu completez grila din fișa proiectului pentru fiecare grupă și notez un punct tare și o sugestie.',
             elevi: 'Fiecare grupă prezintă basmul (titlul, comunitatea, personajele, specificul etnic, elementele comune cu alte basme) și ce a aflat despre comunitate (regiunea, sărbători, obiceiuri, port, mâncăruri, formule de salut).\nPuneți câte o întrebare fiecărei grupe.',
+            materiale: ['fisa'],
           },
           {
             etapa: 'Reflecții',
@@ -2185,6 +2188,7 @@ export const unitatea5 = {
             timp: '5 min',
             activitate: '– Partea I, p. 164: citesc adaptarea după „Prințesa și mazărea” de Hans Christian Andersen.',
             elevi: 'Partea I, p. 164: ascultați adaptarea după „Prințesa și mazărea” de Hans Christian Andersen.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Ex. 1-3',
@@ -2300,6 +2304,7 @@ export const unitatea5 = {
             timp: '8 min',
             activitate: '– Ex. 12: ce parte de vorbire sunt cuvintele subliniate în text; ex. 13: numeralele cardinale simple și compuse, grupate la tablă.\n– Ex. 14: forma corectă (a-f); ex. 15: propoziții cu un ordinal la masculin și un cardinal simplu la feminin.',
             elevi: 'Ex. 12: ce parte de vorbire sunt cuvintele subliniate în text?\nEx. 13: numeralele cardinale simple și compuse, grupate la tablă.\nEx. 14: forma corectă (a-f).\nEx. 15: propoziții cu un ordinal la masculin și un cardinal simplu la feminin.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Ex. 16',
