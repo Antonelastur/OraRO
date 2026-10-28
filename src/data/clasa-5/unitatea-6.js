@@ -41,6 +41,7 @@ export const unitatea6 = {
         ],
         resurse: [
           'Manual Art 5, pp. 168-170',
+          'Schema „Jurnalul Monicăi: fișa de date” (/materiale/clasa-5/unitatea-6/lectia-1/schema.svg)',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-6/lectia-1/fisa-exercitii.pdf)',
           'Quizul „Jurnalul Monicăi” (materialul de joc al lecției)',
           'Caietele elevilor',
@@ -57,12 +58,14 @@ export const unitatea6 = {
             timp: '2 min',
             activitate: '– Caseta de la p. 168: jurnalul Monicăi, elevă în clasa a V-a, scris la cererea profesoarei în cele trei zile ale excursiei „Din carte spre departe”.',
             elevi: 'Caseta de la p. 168: jurnalul Monicăi, elevă în clasa a V-a, scris la cererea profesoarei în cele trei zile ale excursiei „Din carte spre departe”.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Lectura model',
             timp: '14 min',
             activitate: '– Ex. 4: citesc jurnalul (sau pornesc înregistrarea din manualul digital); elevii urmăresc.\n– Lămurim cuvintele: incunabul (explicat chiar de Monica), cronică, slavonă, litere chirilice, tiparniță, omiliar, diacon, ban, călău, satâr; nota despre Neagoe Basarab.\n– Notez pe tablă cele trei zile și orașele.',
             elevi: 'Ex. 4: ascultați jurnalul (sau înregistrarea din manualul digital) și urmăriți-l în manual.\nCuvinte de lămurit: incunabul (explicat chiar de Monica), cronică, slavonă, litere chirilice, tiparniță, omiliar, diacon, ban, călău, satâr; nota despre Neagoe Basarab.\nNotăm pe tablă cele trei zile și orașele.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Impresii după prima lectură',
@@ -214,7 +217,10 @@ export const unitatea6 = {
           ],
         },
         infografic: null,
-        schema: null,
+        schema: {
+          fisier: '/materiale/clasa-5/unitatea-6/lectia-1/schema.svg',
+          titlu: 'Jurnalul Monicăi: fișa de date',
+        },
         altele: [],
       },
     },
@@ -462,6 +468,7 @@ export const unitatea6 = {
         ],
         resurse: [
           'Manual Art 5, pp. 172-173',
+          'Schema „Semnificațiile textului: jocul X și O și pagina de jurnal” (/materiale/clasa-5/unitatea-6/lectia-3/schema.svg)',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-6/lectia-3/fisa-exercitii.pdf)',
           'Fișa lecției (/materiale/clasa-5/unitatea-6/lectia-3/fisa.pdf)',
           'Caietele elevilor',
@@ -478,6 +485,7 @@ export const unitatea6 = {
             timp: '12 min',
             activitate: '– „Interpretare”, p. 172, ex. 1: fiecare desenează în caiet tabelul de nouă căsuțe, cu titlurile (fapte interesante, informații, opinii, tema, vocabular, detalii, întrebări, imagini, sumar).\n– Ex. 2, în perechi: pe rând, fiecare marchează o căsuță și răspunde oral la cerința ei; câștigă cine are primul trei căsuțe în linie.\n– La final, câteva perechi spun răspunsurile la „tema” și „sumar”.',
             elevi: 'Jocul X și 0, „Interpretare”, p. 172:\nEx. 1: desenați în caiet tabelul de nouă căsuțe, cu titlurile (fapte interesante, informații, opinii, tema, vocabular, detalii, întrebări, imagini, sumar).\nEx. 2, în perechi: pe rând, fiecare marchează o căsuță și răspunde oral la cerința ei. Câștigă cine are primul trei căsuțe în linie.\nLa final, câteva perechi spun răspunsurile la „tema” și „sumar”.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Interpretare, ex. 4-7',
@@ -490,6 +498,7 @@ export const unitatea6 = {
             timp: '6 min',
             activitate: '– Ex. 8: „Cartea recordurilor”: tabelul cu personalitățile și realizările lor, în caiete.\n– Ex. 9: reacția Monicăi la Omiliar și promisiunea ei; ex. 10: un loc care v-a amintit de o carte.',
             elevi: 'Ex. 8: „Cartea recordurilor”: tabelul cu personalitățile și realizările lor, în caiet.\nEx. 9: reacția Monicăi la Omiliar și promisiunea ei.\nEx. 10: un loc care v-a amintit de o carte.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Interpretare, ex. 12-14',
@@ -514,7 +523,7 @@ export const unitatea6 = {
             etapa: 'Temă',
             timp: '4 min',
             activitate: '– Tema: ex. 3 (cerințele din joc la care n-au răspuns) și ex. 11 (scurtă istorie a cărții, 8-10 rânduri) sau „Portofoliu” (o pagină de jurnal de cel mult 100 de cuvinte); fișa lecției; fișa de exerciții, pagina 2. Opțional: „Provocări”, Festivalul Roman Apulum.',
-            materiale: ['fisa'],
+            materiale: ['schema', 'fisa'],
           },
         ],
         evaluare: 'Observarea jocului în perechi; autoevaluarea; fișa de exerciții, ex. 1-2.',
@@ -526,7 +535,10 @@ export const unitatea6 = {
         fisa: { fisier: '/materiale/clasa-5/unitatea-6/lectia-3/fisa.pdf', exercitii: '/materiale/clasa-5/unitatea-6/lectia-3/fisa-exercitii.pdf' },
         joc: null,
         infografic: null,
-        schema: null,
+        schema: {
+          fisier: '/materiale/clasa-5/unitatea-6/lectia-3/schema.svg',
+          titlu: 'Semnificațiile textului: jocul X și O și pagina de jurnal',
+        },
         altele: [],
       },
     },
@@ -548,6 +560,7 @@ export const unitatea6 = {
         ],
         resurse: [
           'Manual Art 5, pp. 174-175',
+          'Schema „Scrisoarea III de Mihai Eminescu: fișa textului” (/materiale/clasa-5/unitatea-6/lectia-4/schema.svg)',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-6/lectia-4/fisa-exercitii.pdf)',
           'Fișa lecției (/materiale/clasa-5/unitatea-6/lectia-4/fisa.pdf)',
           'Caietele elevilor',
@@ -564,6 +577,7 @@ export const unitatea6 = {
             timp: '8 min',
             activitate: '– Citesc fragmentul cu voce tare; elevii urmăresc.\n– Lămurim notele de subsol (solul cu năframă, bănat, Aliotman, Baiazid „Fulgerul”, Nicopole, pristol) și cuvintele zale, toiag, moșie, lauri.',
             elevi: 'Ascultați fragmentul și urmăriți-l în manual.\nNote de subsol: solul cu năframă, bănat, Aliotman, Baiazid „Fulgerul”, Nicopole, pristol; cuvintele zale, toiag, moșie, lauri.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Lectura pe roluri',
@@ -582,6 +596,7 @@ export const unitatea6 = {
             timp: '10 min',
             activitate: '– Ex. 4, în perechi: patru fragmente logice, cuvântul-cheie și ideea principală a fiecăruia, apoi ideile secundare, în caiete.\n– Două perechi își citesc ideile; completăm pe tablă.',
             elevi: 'Ex. 4, în perechi: patru fragmente logice, cuvântul-cheie și ideea principală a fiecăruia, apoi ideile secundare, în caiet.\nDouă perechi își citesc ideile; completăm pe tablă.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Personajele',
@@ -613,7 +628,10 @@ export const unitatea6 = {
         fisa: { fisier: '/materiale/clasa-5/unitatea-6/lectia-4/fisa.pdf', exercitii: '/materiale/clasa-5/unitatea-6/lectia-4/fisa-exercitii.pdf' },
         joc: null,
         infografic: null,
-        schema: null,
+        schema: {
+          fisier: '/materiale/clasa-5/unitatea-6/lectia-4/schema.svg',
+          titlu: 'Scrisoarea III de Mihai Eminescu: fișa textului',
+        },
         altele: [],
       },
     },
@@ -623,7 +641,7 @@ export const unitatea6 = {
       obiective: [
         'Identifică tema unui text nonliterar despre istoria cărții tipărite românești.',
       ],
-      sursaManual: 'Art 5, Lecția 5, p. 176, partea 1/2',
+      sursaManual: 'Art 5, Lecția 5, pp. 176-177, partea 1/2',
       rezolvareGhid: null,
       planLectie: {
         titlu: 'Carte românească de învățătură (I), de la prima carte tipărită la cartea digitală',
@@ -635,6 +653,7 @@ export const unitatea6 = {
         ],
         resurse: [
           'Manual Art 5, pp. 176-177',
+          'Schema „De la manuscris la cartea electronică: Repere și drumul cărții” (/materiale/clasa-5/unitatea-6/lectia-5/schema.svg)',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-6/lectia-5/fisa-exercitii.pdf)',
           'Infograficul „Carte românească de învățătură (I)” (/materiale/clasa-5/unitatea-6/lectia-5/infografic.svg)',
           'Quizul „De la manuscris la tipar” (materialul de joc al lecției)',
@@ -664,7 +683,7 @@ export const unitatea6 = {
             timp: '5 min',
             activitate: '– În caiete, după Repere (p. 177) și infograficul lecției: manuscrisele copiate de călugări pe pergament; Gutenberg (1440): presa tipografică, literele mobile, cerneala pe bază de ulei; Biblia tipărită în latină; Coresi, la Brașov; cartea electronică.',
             elevi: 'În caiet, după Repere (p. 177) și infograficul lecției: manuscrisele copiate de călugări pe pergament; Gutenberg (1440): presa tipografică, literele mobile, cerneala pe bază de ulei; Biblia tipărită în latină; Coresi, la Brașov; cartea electronică.',
-            materiale: ['infografic'],
+            materiale: ['schema', 'infografic'],
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
@@ -678,6 +697,7 @@ export const unitatea6 = {
             timp: '4 min',
             activitate: '– Pe tablă: deasupra axei, momentele din articol; dedesubt, cărțile văzute de Monica în excursie (două echipe dictează).',
             elevi: 'Axa timpului, pe tablă: deasupra axei, momentele din articol; dedesubt, cărțile văzute de Monica în excursie. Două echipe dictează.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Temă',
@@ -810,7 +830,10 @@ export const unitatea6 = {
           ],
         },
         infografic: { fisier: '/materiale/clasa-5/unitatea-6/lectia-5/infografic.svg', titlu: 'Carte românească de învățătură (I)' },
-        schema: null,
+        schema: {
+          fisier: '/materiale/clasa-5/unitatea-6/lectia-5/schema.svg',
+          titlu: 'De la manuscris la cartea electronică: Repere și drumul cărții',
+        },
         altele: [],
       },
     },
@@ -832,6 +855,7 @@ export const unitatea6 = {
         ],
         resurse: [
           'Manual Art 5, p. 177',
+          'Schema „Formele cărții. Cum mă documentez online” (/materiale/clasa-5/unitatea-6/lectia-6/schema.svg)',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-6/lectia-6/fisa-exercitii.pdf)',
           'Infograficul „Carte românească de învățătură (II)” (/materiale/clasa-5/unitatea-6/lectia-6/infografic.svg)',
           'Un articol online despre istoria cărții, pregătit de profesor',
@@ -861,6 +885,7 @@ export const unitatea6 = {
             timp: '3 min',
             activitate: '– În caiete: ce notăm (titlul, autorul, adresa, data consultării) și cum recunoaștem o sursă de încredere (autor, site oficial, surse citate).',
             elevi: 'În caiet: ce notăm când ne documentăm (titlul, autorul, adresa, data consultării) și cum recunoaștem o sursă de încredere (autor, site oficial, surse citate).',
+            materiale: ['schema'],
           },
           {
             etapa: 'Obținerea performanței: documentarea',
@@ -1013,7 +1038,10 @@ export const unitatea6 = {
           ],
         },
         infografic: { fisier: '/materiale/clasa-5/unitatea-6/lectia-6/infografic.svg', titlu: 'Carte românească de învățătură (II)' },
-        schema: null,
+        schema: {
+          fisier: '/materiale/clasa-5/unitatea-6/lectia-6/schema.svg',
+          titlu: 'Formele cărții. Cum mă documentez online',
+        },
         altele: [],
       },
     },
@@ -1035,6 +1063,7 @@ export const unitatea6 = {
         ],
         resurse: [
           'Manual Art 5, pp. 178-179',
+          'Schema „Identitate națională. Stema României” (/materiale/clasa-5/unitatea-6/lectia-7/schema.svg)',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-6/lectia-7/fisa-exercitii.pdf)',
           'Infograficul „Identitate națională” (/materiale/clasa-5/unitatea-6/lectia-7/infografic.svg)',
           'Quizul „Identitate națională. Stema României” (materialul de joc al lecției)',
@@ -1052,7 +1081,7 @@ export const unitatea6 = {
             timp: '10 min',
             activitate: '– „Explorare”, ex. 1: citesc textul despre stemă; urmărim elementele pe imaginea stemei și pe infograficul lecției.\n– a) Unde ați văzut stema? b) Răspundem la întrebări: când a fost elaborată stema, ce evocă coroana de oțel, la ce domnitori trimit sceptrul și sabia.',
             elevi: '„Explorare”, ex. 1: citim textul despre stemă. Urmărim elementele pe imaginea stemei și pe infograficul lecției.\na) Unde ați văzut stema?\nb) Răspundeți la întrebări: când a fost elaborată stema, ce evocă coroana de oțel, la ce domnitori trimit sceptrul și sabia?',
-            materiale: ['infografic'],
+            materiale: ['schema', 'infografic'],
           },
           {
             etapa: 'Explorare, ex. 2-3',
@@ -1066,6 +1095,7 @@ export const unitatea6 = {
             timp: '5 min',
             activitate: '– În caiete, după Repere: identitatea națională (sentimentul de apartenență), națiunea, patriotismul și valorile comune (strămoși, istorie, eroi, limbă, monumente, peisaje, tradiții).',
             elevi: 'În caiet, după Repere: identitatea națională (sentimentul de apartenență), națiunea, patriotismul și valorile comune (strămoși, istorie, eroi, limbă, monumente, peisaje, tradiții).',
+            materiale: ['schema'],
           },
           {
             etapa: 'Aplicații, ex. 1-5',
@@ -1211,7 +1241,10 @@ export const unitatea6 = {
           ],
         },
         infografic: { fisier: '/materiale/clasa-5/unitatea-6/lectia-7/infografic.svg', titlu: 'Identitate națională' },
-        schema: null,
+        schema: {
+          fisier: '/materiale/clasa-5/unitatea-6/lectia-7/schema.svg',
+          titlu: 'Identitate națională. Stema României',
+        },
         altele: [],
       },
     },
@@ -1221,7 +1254,7 @@ export const unitatea6 = {
       obiective: [
         'Se familiarizează cu tema, calendarul și criteriile de evaluare ale proiectului de grup Imagini ale domnitorului.',
       ],
-      sursaManual: 'Art 5, Proiect de grup, p. 180 (anunțare)',
+      sursaManual: 'Art 5, Proiect de grup, pp. 180-182 (anunțare)',
       rezolvareGhid: null,
       planLectie: {
         titlu: 'Proiect de grup. Imagini ale domnitorului (anunțare)',
@@ -1233,6 +1266,7 @@ export const unitatea6 = {
         ],
         resurse: [
           'Manual Art 5, pp. 180-182',
+          'Schema „Proiect de grup: Imagini ale domnitorului, fișa de pornire” (/materiale/clasa-5/unitatea-6/lectia-8/schema.svg)',
           'Fișa proiectului (/materiale/clasa-5/unitatea-6/lectia-8/fisa.pdf)',
           'Jocul „Domnitorii”, interactiv, pe tablă (tragerea la sorți a domnitorilor)',
           'Caietele elevilor',
@@ -1249,19 +1283,21 @@ export const unitatea6 = {
             timp: '8 min',
             activitate: '– P. 180: patru grupe, câte un domnitor, pornind de la fragmentul și imaginea din manual:\n– Ștefan cel Mare („Cântecele lui Ștefan Vodă”, poezie populară culeasă de Vasile Alecsandri; portretul din Tetraevanghelul de la Humor); Mircea cel Bătrân (Dimitrie Bolintineanu, „Mircea cel Mare și solii”; pictura de la Argeș); Mihai Viteazul (Nicolae Bălcescu, „Românii supt Mihai-Voievod Viteazul”; tabloul lui Mișu Popp); Vlad Țepeș (Neagu Djuvara și Radu Oltean, „De la Vlad Țepeș la Dracula Vampirul”; tabloul de la Viena).',
             elevi: 'P. 180: patru grupe, câte un domnitor, pornind de la fragmentul și imaginea din manual:\nȘtefan cel Mare („Cântecele lui Ștefan Vodă”, poezie populară culeasă de Vasile Alecsandri; portretul din Tetraevanghelul de la Humor);\nMircea cel Bătrân (Dimitrie Bolintineanu, „Mircea cel Mare și solii”; pictura de la Argeș);\nMihai Viteazul (Nicolae Bălcescu, „Românii supt Mihai-Voievod Viteazul”; tabloul lui Mișu Popp);\nVlad Țepeș (Neagu Djuvara și Radu Oltean, „De la Vlad Țepeș la Dracula Vampirul”; tabloul de la Viena).',
+            materiale: ['schema'],
           },
           {
             etapa: 'Pașii și calendarul',
             timp: '7 min',
             activitate: '– O săptămână, pașii de la p. 182: ce v-a reținut atenția în text; tipul produsului (poster sau material realizat cu un editor grafic) și rolurile (coordonator, editorul textului, editorul imaginilor); planul; dezvoltarea (numele, epoca, trăsăturile din text, valorile, imaginea: trăsături fizice, ținută, culori); produsul; prezentarea.\n– Stabilim data prezentării.',
             elevi: 'Calendar: o săptămână, pașii de la p. 182: ce v-a reținut atenția în text; tipul produsului (poster sau material realizat cu un editor grafic) și rolurile (coordonator, editorul textului, editorul imaginilor); planul; dezvoltarea (numele, epoca, trăsăturile din text, valorile, imaginea: trăsături fizice, ținută, culori); produsul; prezentarea.\nStabilim data prezentării.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Criteriile de evaluare',
             timp: '5 min',
             activitate: '– Citim lista de autoevaluare de la p. 182 și grila din fișa proiectului, cu câte un exemplu pentru fiecare criteriu.',
             elevi: 'Citim lista de autoevaluare de la p. 182 și grila din fișa proiectului, cu câte un exemplu pentru fiecare criteriu.',
-            materiale: ['fisa'],
+            materiale: ['schema', 'fisa'],
           },
           {
             etapa: 'Formarea grupelor',
@@ -1312,7 +1348,10 @@ export const unitatea6 = {
         fisa: { fisier: '/materiale/clasa-5/unitatea-6/lectia-8/fisa.pdf' },
         joc: null,
         infografic: null,
-        schema: null,
+        schema: {
+          fisier: '/materiale/clasa-5/unitatea-6/lectia-8/schema.svg',
+          titlu: 'Proiect de grup: Imagini ale domnitorului, fișa de pornire',
+        },
         altele: [],
       },
     },
@@ -1436,7 +1475,7 @@ export const unitatea6 = {
       obiective: [
         'Prezintă și evaluează, pe grupe, proiectul Imagini ale domnitorului, conform criteriilor stabilite.',
       ],
-      sursaManual: 'Art 5, Proiect de grup, p. 180 (prezentare)',
+      sursaManual: 'Art 5, Proiect de grup, pp. 180-182 (prezentare)',
       rezolvareGhid: null,
       planLectie: {
         titlu: 'Prezentarea proiectului de grup Imagini ale domnitorului',

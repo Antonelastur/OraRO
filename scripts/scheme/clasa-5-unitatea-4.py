@@ -7,6 +7,49 @@ SUB = 'Clasa a V-a · Unitatea IV, Lecția {n} · Manual, {pp} · notițe pentru
 CREATE = ' Unele exemple sunt create pentru aceste notițe.'
 
 SCHEME = [
+    # ---------------- Lecția 1 ----------------
+    {
+        'cale': 'clasa-5/unitatea-4/lectia-1',
+        'titlu': 'Textul narativ literar. „Tezeu și Minotaurul”',
+        'sub': SUB.format(n=1, pp='pp. 108-109'),
+        'sursa': 'Sursa: Manual Art 5, pp. 108-109 (textul „Tezeu și Minotaurul”, caseta autorului, nota de subsol cuvânt cu cuvânt). Lecția nu are rubrica Repere. Datele despre text sunt reformulate după manual. Întrebările din fișă și rândul pentru cuvântul ales sunt create pentru aceste notițe, faptele vin din text.',
+        'sect': [
+            ('1. AUTORUL ȘI TEXTUL', [
+                {'t': 'carduri', 'c': [
+                    {'titlu': 'AUTORUL', 'col': 'm',
+                     'p': ['**Florin Bican** (n. 1956)',
+                           'Este scriitor și traducător.',
+                           'În 2013 a publicat volumul de versuri *Reciclopedia de povești cu rimă și fără tâlc*.']},
+                    {'titlu': 'TEXTUL', 'col': 't',
+                     'p': ['*Tezeu și Minotaurul* este o **repovestire** a legendei despre Tezeu și Minotaur.',
+                           'A fost scrisă special pentru elevii care vor studia după acest manual.']},
+                ]},
+            ]),
+            ('2. FIȘA TEXTULUI', [
+                {'t': 'tabel', 'cap': ['Întrebarea', 'Ce găsesc în text'], 'lat': [0.27, 0.73],
+                 'r': [['Cine sunt personajele?', '**Minos**, regele Cretei, și soția lui, **Pasifae**; **Minotaurul**, născut din iubirea ei pentru un taur fermecat; **Dedal**, renumit pentru iscusința lui; **Egeu**, regele Atenei; **Tezeu**, viteazul lui fiu; **Ariadna**, fiica lui Minos; **Dionysos**, zeul vinului și al fertilității. Zeii îl pedepsesc pe Minos.'],
+                       ['Unde se petrec întâmplările?', 'În **Creta**, unde este labirintul, la **Atena** și pe mica insulă **Naxos**.'],
+                       ['Când?', 'Timpul nu e precizat; textul spune doar *într-o zi*.'],
+                       ['Ce plătește Atena?', 'În fiecare an, Egeu era obligat să plătească tribut **câte șapte băieți și șapte fete**, pentru a hrăni monstrul.'],
+                       ['Cum se încheie?', 'Tezeu devine regele Atenei și rătăcește prin lume *„ca printr-un labirint fără ziduri”*.']]},
+            ]),
+            ('3. EVENIMENTELE ÎN ORDINE', [
+                {'t': 'text', 'p': ['1. Zeii îl pedepsesc pe Minos: Pasifae se îndrăgostește de un taur fermecat și se naște **Minotaurul**.',
+                                    '2. **Dedal** construiește labirintul, iar Minotaurul este închis acolo.',
+                                    '3. **Tezeu** pleacă în Creta, cu tinerii sortiți monstrului. Egeu îl roagă să schimbe pânza neagră cu una albă, dacă se întoarce în viață.',
+                                    '4. **Ariadna** se îndrăgostește de el și îi dă un ghem de sfoară.',
+                                    '5. Tezeu îl învinge pe Minotaur și iese din labirint urmând firul Ariadnei.',
+                                    '6. Scufundă navele Cretei și face un popas pe **Naxos**. La plecare o uită pe Ariadna, iar Dionysos o ia de soție.',
+                                    '7. Tezeu uită să schimbe pânza neagră. Egeu se aruncă în mare, iar Marea Egee îi poartă numele.',
+                                    '8. Tezeu devine regele Atenei.']},
+            ]),
+            ('4. CUVÂNT DIN NOTA DE SUBSOL', [
+                {'t': 'tabel', 'cap': ['Cuvântul', 'Explicația din manual'], 'lat': [0.40, 0.60],
+                 'r': [['*a hălădui* (vb.), din *„pe unde hălăduia Minotaurul”*', 'a trăi undeva în voie, în libertate, în liniște'],
+                       ['un cuvânt nou, ales de mine', '……………………………………………']]},
+            ]),
+        ],
+    },
     # ---------------- Lecția 2 ----------------
     {
         'cale': 'clasa-5/unitatea-4/lectia-2',
@@ -37,6 +80,98 @@ SCHEME = [
             ]),
         ],
     },
+    # ---------------- Lecția 3 ----------------
+    {
+        'cale': 'clasa-5/unitatea-4/lectia-3',
+        'titlu': 'Personajele',
+        'sub': SUB.format(n=3, pp='pp. 112-113'),
+        'sursa': 'Sursa: Manual Art 5, p. 112, rubrica Repere (cuvânt cu cuvânt), Explorare ex. 1 (harta), ex. 3 (sensul cuvântului „erou”) și ex. 4 (trăsăturile). Harta și coloana „Fragmentul din text” sunt modele goale, de completat de elevi.',
+        'sect': [
+            ('1. PERSONAJELE LEGENDELOR GRECEȘTI', [
+                {'t': 'text', 's': 16, 'c': 'n', 'p': ['În legendele grecești, personajele sunt **zei**, **eroi (semizei)** și **oameni obișnuiți**.']},
+                {'t': 'nota', 'p': ['**Zeii** sunt divinități adorate de greci și trăiesc pe cel mai înalt munte din Grecia, Olimp. Aceștia seamănă cu oamenii, se amestecă printre ei, îi pot transforma pe muritori în monștri și sunt părinții eroilor.']},
+                {'t': 'nota', 'p': ['Eroii mai sunt numiți și **semizei**, pentru că provin din unirea unui zeu cu o muritoare. Nobili prin naștere, eroii sunt recunoscuți de ceilalți abia după o faptă excepțională, imposibil de îndeplinit de către un om obișnuit, cum ar fi uciderea unui monstru care înspăimântă lumea. Deși probează calități neobișnuite, de multe ori destinul eroilor este nefericit, depinzând de capriciile zeilor.']},
+            ]),
+            ('2. EROUL GREC', [
+                {'t': 'text', 's': 16, 'c': 'n', 'p': ['**Eroul grec** este un simbol civilizator, acela al luptei contra dezordinii și a barbariei. Tezeu și Heracle sunt singurii eroi recunoscuți de toți vechii greci.']},
+                {'t': 'nota', 'titlu': 'Istoria cuvântului', 'p': ['Cuvântul *erou* vine în română din limba franceză, *héros*, dar și din limba latină, de la *heros*, unde înseamnă „semizeu sau persoană care s-a distins într-o bătălie, într-o împrejurare dificilă”.']},
+            ]),
+            ('3. HARTA PERSONAJELOR', [
+                {'t': 'text', 'p': ['Desenez în caiet harta: scriu în centru **Tezeu** și **Minos**, notez în jur celelalte personaje din text și arăt prin săgeți legăturile dintre ele.']},
+                {'t': 'carduri', 'n': 2, 'c': [
+                    {'titlu': 'TEZEU', 'col': 't', 'p': ['în centrul hărții']},
+                    {'titlu': 'MINOS', 'col': 'm', 'p': ['în centrul hărții']},
+                ]},
+                {'t': 'carduri', 'n': 3, 'c': [
+                    {'titlu': 'personajul: ……………', 'col': 'n', 'st': 15, 'p': ['legătura: ……………']},
+                    {'titlu': 'personajul: ……………', 'col': 'n', 'st': 15, 'p': ['legătura: ……………']},
+                    {'titlu': 'personajul: ……………', 'col': 'n', 'st': 15, 'p': ['legătura: ……………']},
+                    {'titlu': 'personajul: ……………', 'col': 'n', 'st': 15, 'p': ['legătura: ……………']},
+                    {'titlu': 'personajul: ……………', 'col': 'n', 'st': 15, 'p': ['legătura: ……………']},
+                    {'titlu': 'personajul: ……………', 'col': 'n', 'st': 15, 'p': ['legătura: ……………']},
+                ]},
+            ]),
+            ('4. TRĂSĂTURILE LUI TEZEU', [
+                {'t': 'text', 'p': ['Lucrez în perechi: găsesc în text fragmentul care ilustrează fiecare trăsătură a lui Tezeu.']},
+                {'t': 'tabel', 'cap': ['Trăsătura', 'Fragmentul din text'], 'lat': [0.30, 0.70],
+                 'r': [['curajos', '……………………………………………'],
+                       ['puternic', '……………………………………………'],
+                       ['falnic', '……………………………………………'],
+                       ['inteligent', '……………………………………………'],
+                       ['încrezător în sine', '……………………………………………'],
+                       ['infidel', '……………………………………………'],
+                       ['hotărât', '……………………………………………'],
+                       ['frumos', '……………………………………………'],
+                       ['uituc', '……………………………………………']]},
+            ]),
+        ],
+    },
+    # ---------------- Lecția 4 ----------------
+    {
+        'cale': 'clasa-5/unitatea-4/lectia-4',
+        'titlu': 'Semnificațiile textului',
+        'sub': SUB.format(n=4, pp='p. 114'),
+        'sursa': 'Sursa: Manual Art 5, p. 114 (Interpretare ex. 1-3, 7 și 10; Portofoliu: Cvintetul, cuvânt cu cuvânt). Lecția nu are rubrica Repere. Răspunsurile și legăturile de la ex. 10 rămân elevilor; ordinea semnificațiilor din ex. 10 este schimbată pentru aceste notițe.',
+        'sect': [
+            ('1. ÎNTREBĂRILE INTERPRETĂRII', [
+                {'t': 'tabel', 'cap': ['Întrebarea', 'Răspunsul meu, cu dovada din text'], 'lat': [0.50, 0.50],
+                 'r': [['Care este **tema** textului *Tezeu și Minotaurul*? (ex. 1)', '……………………………………'],
+                       ['Pentru cine luptă Tezeu: pentru **gloria lui** sau pentru **ceilalți**? Justific. (ex. 2)', '……………………………………'],
+                       ['Ce **obțin atenienii** prin victoria lui Tezeu? (ex. 3)', '……………………………………']]},
+            ]),
+            ('2. TREI SEMNIFICAȚII ALE LABIRINTULUI', [
+                {'t': 'text', 'p': ['Completez în caiet cele trei enunțuri (ex. 7):']},
+                {'t': 'simboluri', 'ls': 34, 'r': [
+                    ('a', 'Labirintul reprezintă **dificultatea luptei**, pentru că ... .'),
+                    ('b', 'Labirintul reprezintă **un mijloc de apărare**, pentru că ... .'),
+                    ('c', 'Labirintul reprezintă **victoria rațiunii asupra instinctelor**, pentru că ... .'),
+                ]},
+            ]),
+            ('3. PERSONAJE ȘI SEMNIFICAȚII', [
+                {'t': 'text', 'p': ['Asociez fiecare personaj cu semnificația lui și justific alegerea cu un fragment din text (ex. 10).']},
+                {'t': 'coloane', 'c': [
+                    {'titlu': 'Personajele', 'b': [{'t': 'text', 'p': ['1. Tezeu', '2. Minos', '3. Minotaurul', '4. Ariadna', '5. Egeu']}]},
+                    {'titlu': 'Semnificațiile', 'b': [{'t': 'text', 'p': ['**a**  iubirea paternă', '**b**  violența', '**c**  forța și rațiunea', '**d**  rușinea', '**e**  iubirea capabilă de sacrificii']}]},
+                ]},
+                {'t': 'text', 'p': ['Perechile mele: 1 + …… ; 2 + …… ; 3 + …… ; 4 + …… ; 5 + …… .']},
+            ]),
+            ('4. CVINTETUL', [
+                {'t': 'text', 'p': ['Alcătuiește o poezie de cinci versuri în care să sintetizezi ideile și sentimentele tale despre erou, ca tip de personaj.']},
+                {'t': 'tabel', 'cap': ['Versul', 'Regula din manual'], 'lat': [0.13, 0.87],
+                 'r': [['1', 'Primul vers trebuie să fie chiar cuvântul-cheie: *eroul*.'],
+                       ['2', 'Al doilea vers este alcătuit din două cuvinte care sunt adjective și prezintă însușiri ale eroului.'],
+                       ['3', 'Al treilea vers are trei cuvinte care arată ce poate face un erou, fiind verbe.'],
+                       ['4', 'Al patrulea vers conține patru cuvinte și exprimă sentimentele tale față de erou.'],
+                       ['5', 'Al cincilea vers conține un singur cuvânt, un substantiv, care sintetizează ce reprezintă eroul.']]},
+                {'t': 'carduri', 'c': [
+                    {'titlu': 'Modelul: Monstrul', 'col': 'm',
+                     'p': ['Monstrul', 'ascuns, periculos,', 'atacă, lovește, doboară', 'fiară îngenuncheată de înțelepciune,', 'cruzime.']},
+                    {'titlu': 'Schema mea: Eroul', 'col': 't',
+                     'p': ['**eroul**', '……………, ……………', '……………, ……………, ……………', '……………, ……………, ……………, ……………', '……………']},
+                ]},
+            ]),
+        ],
+    },
     # ---------------- Lecția 5 ----------------
     {
         'cale': 'clasa-5/unitatea-4/lectia-5',
@@ -62,6 +197,47 @@ SCHEME = [
                        ['*Minotaurul avea coarne ascuțite* **ca o suliță**.', '*ascuțite* (adjectiv)', '*o suliță*'],
                        ['*Labirintul avea galerii* **ca un păienjeniș**.', '*galerii* (substantiv)', '*un păienjeniș*']]},
                 {'t': 'nota', 'titlu': 'Comparații pe care le folosim zilnic:', 'p': ['*albastru ca cerul, roșu ca focul, verde ca iarba*: le recunosc, dar în scris caut comparații **noi**, surprinzătoare.']},
+            ]),
+        ],
+    },
+    # ---------------- Lecția 6 ----------------
+    {
+        'cale': 'clasa-5/unitatea-4/lectia-6',
+        'titlu': 'Textul multimodal. Banda desenată',
+        'sub': SUB.format(n=6, pp='pp. 116-118'),
+        'sursa': 'Sursa: Manual Art 5, p. 118, rubrica Repere (definițiile sunt cuvânt cu cuvânt) și p. 116 (prezentarea benzii desenate, reformulată). Elementele benzii desenate sunt în schema lecției 7.',
+        'sect': [
+            ('1. TEXTUL MULTIMODAL', [
+                {'t': 'text', 's': 16, 'c': 'n', 'p': ['**Textul multimodal** combină două sau mai multe modalități de comunicare pentru a transmite informații: cuvinte, imagini, culoare, sunete, gesturi, mimică, lumină, mișcare, așezare în spațiu etc.']},
+            ]),
+            ('2. CELE CINCI CODURI', [
+                {'t': 'text', 'p': ['Într-un text multimodal, se folosesc următoarele coduri:']},
+                {'t': 'tabel', 'cap': ['Codul', 'Ce cuprinde'], 'lat': [0.25, 0.75],
+                 'r': [['**lingvistic**', 'vocabular, gramatică, ortografie etc.'],
+                       ['**vizual**', 'culoare, forme, mișcare, grafice etc.'],
+                       ['**auditiv**', 'ton, volum, ritm, efecte sonore etc.'],
+                       ['**gestual**', 'gest, mimică, postură, mișcare etc.'],
+                       ['**spațial**', 'direcție, apropiere, depărtare etc.']]},
+            ]),
+            ('3. SUPORTUL', [
+                {'t': 'text', 'p': ['Suportul folosit pentru textul multimodal poate fi:']},
+                {'t': 'carduri', 'n': 3, 'c': [
+                    {'titlu': 'hârtia', 'col': 't', 'p': ['cărți, afișe, benzi desenate etc.']},
+                    {'titlu': 'digital', 'col': 'm', 'p': ['film, animații, spoturi publicitare, slide-uri etc.']},
+                    {'titlu': 'live', 'col': 'a', 'p': ['spectacole de teatru, operă, operetă, balet etc.']},
+                ]},
+            ]),
+            ('4. SIMPLU ȘI COMPLEX', [
+                {'t': 'text', 'p': ['După numărul de modalități de comunicare folosite, textele multimodale pot fi:']},
+                {'t': 'carduri', 'c': [
+                    {'titlu': 'simple', 'col': 't', 'p': ['când îmbină doar două modalități (afișe, postere, slide-uri etc.)']},
+                    {'titlu': 'complexe', 'col': 'm', 'p': ['când îmbină trei sau mai multe modalități (filme, teatru, operă etc.)']},
+                ]},
+            ]),
+            ('5. BANDA DESENATĂ', [
+                {'t': 'text', 's': 16, 'c': 'n', 'p': ['**Banda desenată** este un text multimodal simplu în care se narează cu ajutorul imaginilor și al cuvintelor.']},
+                {'t': 'nota', 'titlu': 'Banda din manual', 'p': ['Este realizată după fragmente din *Hoțul fulgerului* și *Bătălia din Labirint* de **Rick Riordan**, scriitor american pasionat de legendele antice. El a plasat în lumea de astăzi zei și semizei și astfel s-a născut seria *Percy Jackson și olimpienii*. Percy este, de fapt, întruchiparea eroului grec Perseu.']},
+                {'t': 'text', 's': 14, 'c': 'g', 'p': ['Elementele benzii desenate (planșa, banda, vinieta, bulele și celelalte) le notez din schema lecției 7.']},
             ]),
         ],
     },
@@ -100,6 +276,101 @@ SCHEME = [
                        ['onomatopeele', 'cuvinte care imită zgomote'],
                        ['liniile de mișcare', 'arată o deplasare']]},
                 {'t': 'text', 's': 14, 'c': 'g', 'p': ['Banda desenată este un **text multimodal simplu**: povestește prin imagini și cuvinte.']},
+            ]),
+        ],
+    },
+    # ---------------- Lecția 8 ----------------
+    {
+        'cale': 'clasa-5/unitatea-4/lectia-8',
+        'titlu': 'Text auxiliar. „Eu sunt Malala”',
+        'sub': SUB.format(n=8, pp='pp. 120-121'),
+        'sursa': 'Sursa: Manual Art 5, pp. 120-121 (caseta de prezentare, notele de subsol cuvânt cu cuvânt, Discutarea textului ex. 1-5 și 9). Lecția nu are rubrica Repere. Datele din tabel sunt reformulate după caseta de la p. 120. Locurile goale rămân elevilor, ideile principale se stabilesc la oră.',
+        'sect': [
+            ('1. AUTOAREA ȘI CARTEA', [
+                {'t': 'carduri', 'c': [
+                    {'titlu': 'AUTOAREA', 'col': 'm',
+                     'p': ['**Malala Yousafzai**, născută în 1997 în Pakistan.',
+                           'A început încă de la vârsta de zece ani o campanie pentru educația fetelor, fiindcă talibanii le interziseseră acestora accesul la învățământul public.']},
+                    {'titlu': 'CARTEA', 'col': 't',
+                     'p': ['*Eu sunt Malala* este scrisă împreună cu **Patricia McCormick**.',
+                           'Fragmentul din manual face parte din această carte.']},
+                ]},
+                {'t': 'tabel', 'cap': ['Anul', 'Ce se întâmplă'], 'lat': [0.16, 0.84],
+                 'r': [['**2009**', 'Toate școlile de fete din Pakistan trebuiau închise. Malala merge la școala particulară a tatălui ei.'],
+                       ['**2012**', 'În timp ce se întorcea acasă cu autobuzul școlar, este împușcată. Din fericire, supraviețuiește.'],
+                       ['**2014**', 'Primește Premiul Nobel pentru Pace, fiind cea mai tânără deținătoare a acestui premiu.'],
+                       ['**2015**', 'În semn de omagiu, numele ei este dat unei stele.']]},
+                {'t': 'text', 's': 14, 'c': 'g', 'p': ['Pentru că talibanii au continuat cu amenințările, Malala și, mai apoi, familia ei s-au refugiat în Marea Britanie.']},
+            ]),
+            ('2. FIȘA FRAGMENTULUI', [
+                {'t': 'tabel', 'cap': ['Întrebarea', 'Ce găsesc în text'], 'lat': [0.27, 0.73],
+                 'r': [['Cine sunt persoanele? (ex. 1)', '**Malala**, care povestește; **tatăl ei**, numit *Aba*; o **jurnalistă pakistaneză** care trăia în Alaska; talibanii, despre care se vorbește.'],
+                       ['Unde și când? (ex. 2)', '*La începutul lui 2012*, în **Karachi**, unde Malala și tatăl ei erau invitații GEO TV.'],
+                       ['Pentru ce luptă Malala? (ex. 3)', '……………………………………………'],
+                       ['La ce pericole o expune lupta ei? (ex. 4)', '……………………………………………']]},
+            ]),
+            ('3. IDEEA PRINCIPALĂ A FIECĂRUI FRAGMENT', [
+                {'t': 'text', 'p': ['Textul se împarte în șase fragmente (ex. 5). Elevul care joacă rolul profesorului scrie pe tablă ideea principală a fragmentului, iar eu o copiez aici.']},
+                {'t': 'tabel', 'cap': ['Fragmentul', 'Ideea principală'], 'lat': [0.20, 0.80],
+                 'r': [['1', '……………………………………………'], ['2', '……………………………………………'],
+                       ['3', '……………………………………………'], ['4', '……………………………………………'],
+                       ['5', '……………………………………………'], ['6', '……………………………………………']]},
+            ]),
+            ('4. CUVINTE NOI DIN NOTELE DE SUBSOL', [
+                {'t': 'tabel', 'cap': ['Cuvântul', 'Explicația din manual'], 'lat': [0.24, 0.76],
+                 'r': [['*taliban* (s. m.)', 'membru al unui grup care militează pentru mișcarea religioasă fundamentalistă islamică, în care femeilor le este interzis să studieze, să iasă neînsoțite în public, să umble fără văl pe cap'],
+                       ['*Karachi*', 'oraș din sudul Pakistanului'],
+                       ['*New York Times*', 'grup de presă american'],
+                       ['*jani*', '„draga mea”, în pakistaneză'],
+                       ['*aba*', 'termen afectuos, în pakistaneză, pentru „tată”'],
+                       ['*paștun* (s. m.)', 'locuitor al unei provincii din nord-vestul Pakistanului; Malala precizează în cartea sa că paștunii sunt un popor pentru care onoarea reprezintă o valoare esențială']]},
+            ]),
+            ('5. TRĂSĂTURILE MALALEI', [
+                {'t': 'text', 'p': ['Recitesc ultimele opt alineate și justific fiecare trăsătură printr-un fragment (ex. 9).']},
+                {'t': 'tabel', 'cap': ['Trăsătura', 'Dovada din text'], 'lat': [0.28, 0.72],
+                 'r': [['curaj', '……………………………………………'],
+                       ['generozitate', '……………………………………………'],
+                       ['pacifism', '……………………………………………'],
+                       ['hotărâre', '……………………………………………'],
+                       ['solidaritate', '……………………………………………']]},
+            ]),
+        ],
+    },
+    # ---------------- Lecția 9 ----------------
+    {
+        'cale': 'clasa-5/unitatea-4/lectia-9',
+        'titlu': 'Modele comportamentale eroice de-a lungul timpului',
+        'sub': SUB.format(n=9, pp='pp. 122-123'),
+        'sursa': 'Sursa: Manual Art 5, p. 123, rubrica Repere (cuvânt cu cuvânt), Explorare ex. 3 (axa cronologică) și Aplicații ex. 2 (tabelul). Interculturalitate. Coloanele de completat rămân elevilor.',
+        'sect': [
+            ('1. EROUL', [
+                {'t': 'text', 's': 16, 'c': 'n', 'p': ['**Eroul** este o ființă excepțională în care sunt proiectate valori și aspirații umane permanente (curaj, putere de sacrificiu, bunătate, spirit de dreptate etc.).']},
+            ]),
+            ('2. CUM S-A SCHIMBAT MODELUL EROIC', [
+                {'t': 'text', 'p': ['Modelul comportamental eroic s-a transformat de-a lungul secolelor.']},
+                {'t': 'carduri', 'c': [
+                    {'titlu': 'Înainte', 'col': 'a', 'p': ['Eroul grec era caracterizat de noblețea originii divine, de unicitate, fiind idealizat de către artiști.']},
+                    {'titlu': 'Astăzi', 'col': 't', 'p': ['Eroul contemporan poate fi **omul obișnuit**, sub multiple înfățișări.']},
+                ]},
+                {'t': 'text', 'p': ['**Televiziunea, ziarele și revistele** au un rol important în impunerea eroilor contemporani.']},
+            ]),
+            ('3. AXA CRONOLOGICĂ', [
+                {'t': 'text', 'p': ['Copiez axa în caiet și notez eroii specifici fiecărei epoci, pe care i-am descoperit în textul de la Explorare, ex. 1 (ex. 3).']},
+                {'t': 'carduri', 'n': 3, 'c': [
+                    {'titlu': '3000 î.H.', 'sub': 'Mesopotamia', 'col': 't', 'p': ['eroii: ……………']},
+                    {'titlu': 'sec. al VIII-lea î.H.', 'sub': 'Grecia', 'col': 't', 'p': ['eroii: ……………']},
+                    {'titlu': 'sec. I î.H.', 'sub': 'Roma', 'col': 't', 'p': ['eroii: ……………']},
+                    {'titlu': 'Evul Mediu', 'sub': 'Europa', 'col': 'a', 'p': ['eroii: ……………']},
+                    {'titlu': 'sec. al XIX-lea', 'sub': 'Europa', 'col': 'm', 'p': ['eroii: ……………']},
+                    {'titlu': 'sec. al XX-lea', 'sub': 'America, Europa, Asia', 'col': 'm', 'p': ['eroii: ……………']},
+                ]},
+            ]),
+            ('4. EROUL ANTIC, NAȚIONAL ȘI UNIVERSAL', [
+                {'t': 'text', 'p': ['Completăm tabelul pe grupe (Aplicații, ex. 2) și prezentăm rezultatele în fața clasei.']},
+                {'t': 'tabel', 'cap': ['Tipul de erou', 'Înfățișare', 'Fapte', 'Ce le inspiră celorlalți oameni'], 'lat': [0.20, 0.22, 0.28, 0.30],
+                 'r': [['Eroul antic', '', '', ''],
+                       ['Eroul național', '', '', ''],
+                       ['Eroul universal', '', '', '']]},
             ]),
         ],
     },
