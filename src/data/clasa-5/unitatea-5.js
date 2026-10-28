@@ -1025,7 +1025,7 @@ export const unitatea5 = {
         resurse: [
           'Manual Art 5, pp. 153-154',
           'Fișa proiectului (/materiale/clasa-5/unitatea-5/lectia-7/fisa.pdf)',
-          'Bilețele pentru tragerea la sorți a fragmentelor',
+          'Jocul „Basmele omului”, interactiv, pe tablă (tragerea la sorți a basmelor)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -1063,9 +1063,39 @@ export const unitatea5 = {
           {
             etapa: 'Formarea grupelor',
             timp: '17 min',
-            activitate: '– Grupele se formează și trag la sorți fragmentul.\n– Fiecare grupă citește fragmentul, completează primele rubrici ale fișei de lectură (titlul, comunitatea, cadrul) și își împarte rolurile (cine citește basmul întreg, cine se documentează, cine pregătește recuzita, cine prezintă).\n– Trec pe la fiecare grupă și verific notițele.',
-            elevi: 'Formați grupele și trageți la sorți fragmentul.\nFiecare grupă citește fragmentul, completează primele rubrici ale fișei de lectură (titlul, comunitatea, cadrul) și își împarte rolurile: cine citește basmul întreg, cine se documentează, cine pregătește recuzita, cine prezintă.',
+            activitate: '– Grupele se formează și trag la sorți, pe tablă, fragmentul (jocul „Basmele omului”).\n– Fiecare grupă citește fragmentul, completează primele rubrici ale fișei de lectură (titlul, comunitatea, cadrul) și își împarte rolurile (cine citește basmul întreg, cine se documentează, cine pregătește recuzita, cine prezintă).\n– Trec pe la fiecare grupă și verific notițele.',
+            elevi: 'Formați grupele. Fiecare grupă trage la tablă basmul pe care îl va prezenta.\nFiecare grupă citește fragmentul, completează primele rubrici ale fișei de lectură (titlul, comunitatea, cadrul) și își împarte rolurile: cine citește basmul întreg, cine se documentează, cine pregătește recuzita, cine prezintă.',
             materiale: ['fisa'],
+            joc: {
+              tip: 'extragere',
+              titlu: 'Basmele omului',
+              instructiune: 'Fiecare grupă trage un basm din volumul „Basmele omului” de Vladimir Colin.',
+              buton: 'Trage un basm',
+              faraRepetare: true,
+              elemente: [
+                {
+                  eticheta: 'Basmul maghiar',
+                  text: '„Buruiana neagră”',
+                },
+                {
+                  eticheta: 'Basmul săsesc',
+                  text: '„Hans și cele patru castele”',
+                },
+                {
+                  eticheta: 'Basmul ucrainean',
+                  text: '„Povestea cântecului”',
+                },
+                {
+                  eticheta: 'Basmul rom',
+                  text: '„Fierarul năzdrăvan”',
+                },
+                {
+                  eticheta: 'Basmul tătăresc',
+                  text: '„Povestea fericirii”',
+                },
+              ],
+              sursa: 'Manual Art 5, p. 153 (Vladimir Colin, „Basmele omului”)',
+            },
           },
           {
             etapa: 'Încheiere',
@@ -1228,7 +1258,7 @@ export const unitatea5 = {
           'Manual Art 5, p. 157',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-5/lectia-9/fisa-exercitii.pdf)',
           'Quizul „Acte de limbaj: a promite, a declara” (materialul de joc al lecției)',
-          'Bilețele cu situații de comunicare',
+          'Jocul „Situațiile”, interactiv, pe tablă (declarațiile din manual, cu situații trase de perechi)',
         ],
         desfasurare: [
           {
@@ -1259,8 +1289,43 @@ export const unitatea5 = {
           {
             etapa: 'Aplicații, ex. 1-3',
             timp: '8 min',
-            activitate: '– Ex. 1: verbele din listă potrivite fiecărui desen.\n– Ex. 2: câte un context pentru fiecare comunicare („Vă declar căsătoriți!”, „Declar ședința deschisă.”...); perechile extrag bilețele cu situații și rostesc declarația potrivită.\n– Ex. 3: „a promite luna de pe cer”, „a promite marea cu sarea”: sensul și câte o propoziție.',
-            elevi: '„Aplicații”:\nEx. 1: verbele din listă potrivite fiecărui desen.\nEx. 2: câte un context pentru fiecare comunicare („Vă declar căsătoriți!”, „Declar ședința deschisă.”...). Perechile extrag bilețele cu situații și rostesc declarația potrivită.\nEx. 3: „a promite luna de pe cer”, „a promite marea cu sarea”: sensul și câte o propoziție.',
+            activitate: '– Ex. 1: verbele din listă potrivite fiecărui desen.\n– Ex. 2: câte un context pentru fiecare comunicare („Vă declar căsătoriți!”, „Declar ședința deschisă.”...); perechile trag pe tablă situații (jocul „Situațiile”) și rostesc declarația potrivită; răspunsul se arată la cerere.\n– Ex. 3: „a promite luna de pe cer”, „a promite marea cu sarea”: sensul și câte o propoziție.',
+            elevi: '„Aplicații”:\nEx. 1: verbele din listă potrivite fiecărui desen.\nEx. 2: câte un context pentru fiecare comunicare („Vă declar căsătoriți!”, „Declar ședința deschisă.”...). Perechile trag la tablă situații și rostesc declarația potrivită.\nEx. 3: „a promite luna de pe cer”, „a promite marea cu sarea”: sensul și câte o propoziție.',
+            joc: {
+              tip: 'extragere',
+              titlu: 'Situațiile',
+              instructiune: 'Citiți situația și rostiți declarația potrivită. Apoi arătăm răspunsul din manual.',
+              buton: 'Trage o situație',
+              faraRepetare: true,
+              elemente: [
+                {
+                  eticheta: 'Situația 1',
+                  text: 'La primărie, la oficierea unei căsătorii.',
+                  raspuns: '„Vă declar căsătoriți!”',
+                },
+                {
+                  eticheta: 'Situația 2',
+                  text: 'La începutul unei ședințe a Consiliului Elevilor.',
+                  raspuns: '„Declar ședința deschisă.”',
+                },
+                {
+                  eticheta: 'Situația 3',
+                  text: 'La poliție, o persoană declară că nu a asistat la un accident.',
+                  raspuns: '„Declar că nu am fost de față în momentul accidentului.”',
+                },
+                {
+                  eticheta: 'Situația 4',
+                  text: 'La notar, un bunic își face testamentul.',
+                  raspuns: '„Îți las moștenire toată averea mea.”',
+                },
+                {
+                  eticheta: 'Situația 5',
+                  text: 'Un polițist prinde un hoț în timp ce fură.',
+                  raspuns: '„În numele legii, ești arestat!”',
+                },
+              ],
+              sursa: 'Manual Art 5, p. 157, „Aplicații”, ex. 2 (declarațiile); situațiile sunt create pentru OraRO',
+            },
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
@@ -1344,7 +1409,7 @@ export const unitatea5 = {
           'Fișa de exerciții (/materiale/clasa-5/unitatea-5/lectia-10/fisa-exercitii.pdf)',
           'Schema „Numeralul. Numeralul cardinal” (/materiale/clasa-5/unitatea-5/lectia-10/schema.svg)',
           'Quizul „Numeralul cardinal” (materialul de joc al lecției)',
-          'Bilețele pentru jocul de la „Explorare”',
+          'Jocul „Număr sau ordine?”, interactiv, pe tablă (enunțuri așezate în cele două „coșuri”)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -1357,8 +1422,62 @@ export const unitatea5 = {
           {
             etapa: 'Explorare: numeralul',
             timp: '6 min',
-            activitate: '– Ex. 1: fiecare scrie pe un bilețel ziua nașterii și pe altul numărul din catalog; grupele împart bilețelele în cele două „coșuri” (număr / ordine).\n– Ex. 2: completăm oral textul despre Aladin cu cuvintele potrivite.',
-            elevi: '„Explorare”:\nEx. 1: scrieți pe un bilețel ziua nașterii și pe altul numărul din catalog. Grupele împart bilețelele în cele două „coșuri” (număr / ordine).\nEx. 2: completăm oral textul despre Aladin cu cuvintele potrivite.',
+            activitate: '– Ex. 1: elevii așază pe tablă enunțuri cu ziua nașterii și cu locul din catalog în cele două „coșuri” (număr / ordine), în jocul „Număr sau ordine?”.\n– Ex. 2: completăm oral textul despre Aladin cu cuvintele potrivite.',
+            elevi: '„Explorare”:\nEx. 1: veniți la tablă și așezați enunțurile în cele două „coșuri”: număr și ordine.\nEx. 2: completăm oral textul despre Aladin cu cuvintele potrivite.',
+            joc: {
+              tip: 'sortare',
+              titlu: 'Număr sau ordine?',
+              instructiune: 'Atinge un enunț, apoi „coșul” potrivit: număr (câți?) sau ordine (al câtelea?).',
+              categorii: [
+                {
+                  id: 'numar',
+                  nume: 'Număr',
+                  descriere: 'Răspunde la „câți?”, „câte?”',
+                  culoare: '#2b6cb0',
+                },
+                {
+                  id: 'ordine',
+                  nume: 'Ordine',
+                  descriere: 'Răspunde la „al câtelea?”, „a câta?”',
+                  culoare: '#c1503a',
+                },
+              ],
+              elemente: [
+                {
+                  text: 'Ziua mea de naștere este pe 15 mai.',
+                  categorie: 'numar',
+                },
+                {
+                  text: 'Am 11 ani.',
+                  categorie: 'numar',
+                },
+                {
+                  text: 'În clasă sunt 26 de elevi.',
+                  categorie: 'numar',
+                },
+                {
+                  text: 'Sunt născut pe 3 martie.',
+                  categorie: 'numar',
+                },
+                {
+                  text: 'Sunt al 7-lea în catalog.',
+                  categorie: 'ordine',
+                },
+                {
+                  text: 'Sunt a 15-a în catalog.',
+                  categorie: 'ordine',
+                },
+                {
+                  text: 'Locuiesc la etajul al treilea.',
+                  categorie: 'ordine',
+                },
+                {
+                  text: 'Sunt în clasa a V-a.',
+                  categorie: 'ordine',
+                },
+              ],
+              sursa: 'Plan de lecție, „Explorare”, ex. 1 (Manual Art 5, p. 158); enunțurile sunt create pentru OraRO',
+            },
           },
           {
             etapa: 'Notițe: definiția',

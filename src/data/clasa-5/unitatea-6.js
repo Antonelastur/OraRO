@@ -1234,7 +1234,7 @@ export const unitatea6 = {
         resurse: [
           'Manual Art 5, pp. 180-182',
           'Fișa proiectului (/materiale/clasa-5/unitatea-6/lectia-8/fisa.pdf)',
-          'Bilețele pentru tragerea la sorți a domnitorilor',
+          'Jocul „Domnitorii”, interactiv, pe tablă (tragerea la sorți a domnitorilor)',
           'Caietele elevilor',
         ],
         desfasurare: [
@@ -1266,9 +1266,35 @@ export const unitatea6 = {
           {
             etapa: 'Formarea grupelor',
             timp: '22 min',
-            activitate: '– Grupele se formează și trag la sorți domnitorul.\n– Fiecare grupă citește fragmentul cu voce tare, notează în caiet ce i-a reținut atenția (pasul 1), alege produsul, își împarte rolurile și schițează planul.\n– Trec pe la fiecare grupă și verific planul.',
-            elevi: 'Formați grupele și trageți la sorți domnitorul.\nFiecare grupă citește fragmentul cu voce tare, notează în caiet ce i-a reținut atenția (pasul 1), alege produsul, își împarte rolurile și schițează planul.',
+            activitate: '– Grupele se formează și trag la sorți, pe tablă, domnitorul (jocul „Domnitorii”).\n– Fiecare grupă citește fragmentul cu voce tare, notează în caiet ce i-a reținut atenția (pasul 1), alege produsul, își împarte rolurile și schițează planul.\n– Trec pe la fiecare grupă și verific planul.',
+            elevi: 'Formați grupele. Fiecare grupă trage la tablă domnitorul pe care îl va prezenta.\nFiecare grupă citește fragmentul cu voce tare, notează în caiet ce i-a reținut atenția (pasul 1), alege produsul, își împarte rolurile și schițează planul.',
             materiale: ['fisa'],
+            joc: {
+              tip: 'extragere',
+              titlu: 'Domnitorii',
+              instructiune: 'Fiecare grupă trage un domnitor și primește fragmentul și imaginea lui din manual.',
+              buton: 'Trage un domnitor',
+              faraRepetare: true,
+              elemente: [
+                {
+                  text: 'Ștefan cel Mare',
+                  detaliu: '„Cântecele lui Ștefan Vodă”, poezie populară culeasă de Vasile Alecsandri; portretul din Tetraevanghelul de la Humor',
+                },
+                {
+                  text: 'Mircea cel Bătrân',
+                  detaliu: 'Dimitrie Bolintineanu, „Mircea cel Mare și solii”; pictura de la Argeș',
+                },
+                {
+                  text: 'Mihai Viteazul',
+                  detaliu: 'Nicolae Bălcescu, „Românii supt Mihai-Voievod Viteazul”; tabloul lui Mișu Popp',
+                },
+                {
+                  text: 'Vlad Țepeș',
+                  detaliu: 'Neagu Djuvara și Radu Oltean, „De la Vlad Țepeș la Dracula Vampirul”; tabloul de la Viena',
+                },
+              ],
+              sursa: 'Manual Art 5, p. 180 (fragmentele și imaginile domnitorilor)',
+            },
           },
           {
             etapa: 'Încheiere',
@@ -1310,7 +1336,6 @@ export const unitatea6 = {
           'Manual Art 5, pp. 183-184',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-6/lectia-9/fisa-exercitii.pdf)',
           'Quizul „Acte de limbaj: a explica, a recomanda, a afirma” (materialul de joc al lecției)',
-          'Bilețele cu situații de comunicare',
         ],
         desfasurare: [
           {

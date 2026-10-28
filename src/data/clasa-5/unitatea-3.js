@@ -1791,8 +1791,54 @@ export const unitatea3 = {
           {
             etapa: 'Captarea atenției',
             timp: '5 min',
-            activitate: '– Fiecare elev primește un bilețel cu un substantiv și construiește o propoziție în care acesta să fie subiect; câțiva citesc.',
-            elevi: 'Primiți un bilețel cu un substantiv. Construiți o propoziție în care el să fie subiect. Câțiva citesc.',
+            activitate: '– Fiecare elev trage pe tablă un substantiv (jocul „Substantivul subiect”) și construiește o propoziție în care acesta să fie subiect; câțiva citesc.',
+            elevi: 'Veniți la tablă și trageți un substantiv. Construiți o propoziție în care el să fie subiect. Câțiva citesc.',
+            joc: {
+              tip: 'extragere',
+              titlu: 'Substantivul subiect',
+              instructiune: 'Construiește o propoziție în care cuvântul tras să fie subiect.',
+              buton: 'Trage un substantiv',
+              faraRepetare: false,
+              elemente: [
+                {
+                  text: 'strada',
+                },
+                {
+                  text: 'pisica',
+                },
+                {
+                  text: 'copacul',
+                },
+                {
+                  text: 'felinarul',
+                },
+                {
+                  text: 'ghiozdanul',
+                },
+                {
+                  text: 'zăpada',
+                },
+                {
+                  text: 'fereastra',
+                },
+                {
+                  text: 'prietenul',
+                },
+                {
+                  text: 'cartea',
+                },
+                {
+                  text: 'ploaia',
+                },
+                {
+                  text: 'mingea',
+                },
+                {
+                  text: 'orașul',
+                },
+              ],
+              sursa: 'Plan de lecție (Manual Art 5, pp. 100-101); substantivele sunt alese pentru OraRO',
+            },
           },
           {
             etapa: 'Dirijarea învățării: subiectul',
