@@ -122,11 +122,12 @@ tabla le arată la pasul în care se folosesc, iar restul stau sub „Toate mate
 orei”. O lecție fără `materiale` la nicio etapă le arată pe toate, ca înainte. Se
 leagă doar ce spune planul: fișa la pasul fișei, schema la notițe, quizul când
 planul îl pomenește. Jocurile cu bilețele, afișe sau cartonașe nu se tipăresc: se adaptează
-pentru tablă ca joc interactiv, în câmpul opțional `joc` al etapei. Trei tipuri: sortare
+pentru tablă ca joc interactiv, în câmpul opțional `joc` al etapei. Patru tipuri: sortare
 (cuvinte așezate pe categorii, verificate la final cu „Verifică”), extragere la sorți
 (un bilet pe ecran: o situație, un cuvânt, o față de cub; răspunsul se arată la cerere)
-și împărțirea în grupe (se spune câți elevi sunt, apoi fiecare trage o culoare, iar
-grupele ies egale). Biletele vin din manual sau din plan; cele create pentru OraRO
+împărțirea în grupe (se spune câți elevi sunt, apoi fiecare trage o culoare, iar
+grupele ies egale) și morișca (se învârte, iar când se oprește fiecare paletă arată o
+formă a trecutului pentru același verb; timpurile se arată la cerere). Biletele vin din manual sau din plan; cele create pentru OraRO
 au sursa marcată. Testul nu apare. Reflecția și jurnalul se
 completează pe laptop, din plan.
 
