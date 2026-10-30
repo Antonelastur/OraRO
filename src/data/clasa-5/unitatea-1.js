@@ -2079,16 +2079,16 @@ export const unitatea1 = {
           {
             etapa: 'Pregătirea propriului text',
             timp: '17 min',
-            activitate: '– „Explorare”, ex. 1: fiecare stabilește scopul și publicul relatării despre experiența aleasă.\n– Ex. 2: răspunde, în caiet, la cele șase întrebări: cine? ce? când? unde? de ce? cum?\n– Ex. 3: planul compunerii: introducere, trei-patru idei pentru cuprins, încheiere.\n– Trec printre bănci și ajut; la final, doi elevi citesc planul, iar clasa spune ce ar mai trebui adăugat.',
-            elevi: '„Explorare”:\nEx. 1: stabiliți scopul și publicul relatării despre experiența aleasă.\nEx. 2: răspundeți în caiet la cele șase întrebări: cine? ce? când? unde? de ce? cum?\nEx. 3: planul compunerii: introducere, trei-patru idei pentru cuprins, încheiere.\nLa final, doi dintre voi citesc planul, iar clasa spune ce ar mai trebui adăugat.',
+            activitate: '– „Explorare”, ex. 1: fiecare stabilește scopul și publicul relatării despre experiența aleasă.\n– Ex. 2: răspunde, în caiet, la cele șase întrebări: cine? ce? când? unde? de ce? cum?\n– Ex. 3: fiecare realizează planul compunerii.\n– Trec printre bănci și ajut; la final, doi elevi citesc planul, iar clasa spune ce ar mai trebui adăugat.',
+            elevi: '„Explorare”:\nEx. 1: stabiliți scopul și publicul relatării despre experiența aleasă.\nEx. 2: răspundeți în caiet la cele șase întrebări: cine? ce? când? unde? de ce? cum?\nEx. 3: realizați planul compunerii.\nLa final, doi dintre voi citesc planul, iar clasa spune ce ar mai trebui adăugat.',
             materiale: ['schema'],
           },
           {
             etapa: 'Reflecție și temă',
             timp: '5 min',
-            activitate: '– Care etapă vi s-a părut cea mai grea azi? De ce?\n– Tema: fișa de exerciții, pagina 2, ex. 4-6; planul se aduce ora viitoare (scriem textul).',
-            elevi: 'Care etapă ți s-a părut cea mai grea azi? De ce?\nAduceți planul ora viitoare: scriem textul.',
-            materiale: ['fisa'],
+            activitate: '– Care etapă vi s-a părut cea mai grea azi? De ce?\n– Quizul „Etapele scrierii”, frontal, pe tablă.\n– Tema: fișa de exerciții, pagina 2, ex. 4-6; planul se aduce ora viitoare (scriem textul).',
+            elevi: 'Care etapă ți s-a părut cea mai grea azi? De ce?\nQuizul „Etapele scrierii”, pe tablă.\nAduceți planul ora viitoare: scriem textul.',
+            materiale: ['fisa', 'joc'],
           },
         ],
         evaluare: 'Observarea sistematică; planurile relatării; fișa de exerciții, ex. 1-3.',
@@ -2218,6 +2218,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, p. 37',
+          'Schema „Etapele scrierii. Redactarea și revizuirea textului” (/materiale/clasa-5/unitatea-1/lectia-16/schema.svg)',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-16/fisa-exercitii.pdf)',
           'Fișa lecției (/materiale/clasa-5/unitatea-1/lectia-16/fisa.pdf)',
           'Planul realizat la ora anterioară',
@@ -2248,6 +2249,7 @@ export const unitatea1 = {
             timp: '15 min',
             activitate: '– „Aplicații”, ex. 1: fiecare scrie ciorna relatării, după plan, pe foaia organizată ca în model.\n– Trec printre bănci; ajut mai ales la introducere (să stârnească interesul) și la ordinea întâmplărilor.',
             elevi: '„Aplicații”, ex. 1: scrieți ciorna relatării, după plan, pe foaia organizată ca în model.',
+            materiale: ['schema'],
           },
           {
             etapa: 'Revizuirea în perechi',
