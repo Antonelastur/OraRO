@@ -50,8 +50,8 @@ export const unitatea2 = {
           {
             etapa: 'Captarea atenției',
             timp: '6 min',
-            activitate: '– „Pentru început”, p. 42, ex. 1: arunc o minge unui elev, care își prezintă jocul preferat printr-un indiciu sau prin mimă; cine ghicește primește mingea. Notez jocurile pe tablă.\n– Ex. 2: ce faceți când aveți musafiri? Două minute în grupe de câte patru, apoi câte un reprezentant spune doar ideile noi.',
-            elevi: '„Pentru început”, p. 42:\nEx. 1: unul dintre voi își prezintă jocul preferat printr-un indiciu sau prin mimă; cine ghicește primește mingea.\nEx. 2: ce faceți când aveți musafiri? Două minute, în grupe de câte patru; apoi câte un reprezentant spune doar ideile noi.',
+            activitate: '– „Pentru început”, p. 42, ex. 1: arunc o minge unui elev, care își prezintă jocul preferat printr-un indiciu sau prin mimă; cine ghicește primește mingea. Notez jocurile pe tablă.\n– Ex. 2: ce faceți când aveți musafiri? Două minute în grupe de câte patru, apoi câte un reprezentant spune doar ideile noi.\n– La ce ne folosește: citim cu atenție ca să găsim informațiile esențiale dintr-un text. Acasă le folosim ca să scriem scrisoarea musafirului.',
+            elevi: '„Pentru început”, p. 42:\nEx. 1: unul dintre voi își prezintă jocul preferat printr-un indiciu sau prin mimă; cine ghicește primește mingea.\nEx. 2: ce faceți când aveți musafiri? Două minute, în grupe de câte patru; apoi câte un reprezentant spune doar ideile noi.\nLa ce ne folosește: citim cu atenție ca să găsim informațiile esențiale dintr-un text. Acasă le folosim ca să scriem scrisoarea musafirului.',
           },
           {
             etapa: 'Despre autor',
@@ -223,8 +223,8 @@ export const unitatea2 = {
           {
             etapa: 'Captarea atenției',
             timp: '5 min',
-            activitate: '– Dacă am proiector: primul minut din ecranizarea din 1952; ce e la fel și ce e diferit față de text?\n– Altfel: „Cât credeți că a durat vizita? O oră, o zi?”',
-            elevi: 'Cât credeți că a durat vizita? O oră, o zi?',
+            activitate: '– Dacă am proiector: primul minut din ecranizarea din 1952; ce e la fel și ce e diferit față de text?\n– Altfel: „Cât credeți că a durat vizita? O oră, o zi?”\n– La ce ne folosește: timpul, spațiul și acțiunea ne ajută să povestim o întâmplare în ordine. La sfârșitul orei mimăm cel mai tensionat moment al vizitei.',
+            elevi: 'Cât credeți că a durat vizita? O oră, o zi?\nLa ce ne folosește: timpul, spațiul și acțiunea ne ajută să povestim o întâmplare în ordine. La sfârșitul orei mimăm cel mai tensionat moment al vizitei.',
           },
           {
             etapa: 'Dirijarea învățării: timpul și spațiul',
@@ -387,8 +387,8 @@ export const unitatea2 = {
           {
             etapa: 'Reactualizarea',
             timp: '5 min',
-            activitate: '– Doi elevi citesc ideile ordonate ora trecută.\n– Întreb: „Ar înțelege cineva care n-a citit textul cum i s-au pătat pantalonii musafirului?” Ce ar lipsi?',
-            elevi: 'Doi dintre voi citesc ideile ordonate ora trecută.\nAr înțelege cineva care nu a citit textul cum i s-au pătat pantalonii musafirului? Ce ar lipsi?',
+            activitate: '– Doi elevi citesc ideile ordonate ora trecută.\n– Întreb: „Ar înțelege cineva care n-a citit textul cum i s-au pătat pantalonii musafirului?” Ce ar lipsi?\n– La ce ne folosește: planul dezvoltat ne ajută să povestim un text pe înțelesul cuiva care nu l-a citit. Acasă pregătim schița benzii desenate.',
+            elevi: 'Doi dintre voi citesc ideile ordonate ora trecută.\nAr înțelege cineva care nu a citit textul cum i s-au pătat pantalonii musafirului? Ce ar lipsi?\nLa ce ne folosește: planul dezvoltat ne ajută să povestim un text pe înțelesul cuiva care nu l-a citit. Acasă pregătim schița benzii desenate.',
           },
           {
             etapa: 'Explorare',
@@ -562,8 +562,8 @@ export const unitatea2 = {
           {
             etapa: 'Captarea atenției',
             timp: '5 min',
-            activitate: '– Ilustrația de la p. 43: sunt toate personajele? Scriu lista pe tablă; pe parcurs, adăugăm lângă fiecare ce aflăm despre el.',
-            elevi: 'Ilustrația de la p. 43: sunt toate personajele? Facem lista pe tablă; pe parcurs adăugăm lângă fiecare ce aflăm despre el.',
+            activitate: '– Ilustrația de la p. 43: sunt toate personajele? Scriu lista pe tablă; pe parcurs, adăugăm lângă fiecare ce aflăm despre el.\n– La ce ne folosește: descoperim cum e un personaj. Acasă scriem SMS-ul pentru Ionel, iar ora viitoare jucăm scena cu mama.',
+            elevi: 'Ilustrația de la p. 43: sunt toate personajele? Facem lista pe tablă; pe parcurs adăugăm lângă fiecare ce aflăm despre el.\nLa ce ne folosește: descoperim cum e un personaj. Acasă scriem SMS-ul pentru Ionel, iar ora viitoare jucăm scena cu mama.',
           },
           {
             etapa: 'Explorare',
@@ -643,8 +643,8 @@ export const unitatea2 = {
           {
             etapa: 'Jocul de rol',
             timp: '5 min',
-            activitate: '– Două perechi joacă scena de la ex. 8 (tema): madam Popescu află că Ionel i-a pus musafirului dulceață în șoșoni. Ce le spune musafirului și lui Ionel?',
-            elevi: 'Jocul de rol, ex. 8: două perechi joacă scena în care madam Popescu află că Ionel i-a pus musafirului dulceață în șoșoni. Ce le spune musafirului și lui Ionel?',
+            activitate: '– Două perechi joacă scena de la ex. 8 (tema): madam Popescu află că Ionel i-a pus musafirului dulceață în șoșoni. Ce le spune musafirului și lui Ionel?\n– La ce ne folosește: învățăm să spunem ce credem despre un text și de ce. La sfârșit completăm autoevaluarea pentru lecțiile 1-5.',
+            elevi: 'Jocul de rol, ex. 8: două perechi joacă scena în care madam Popescu află că Ionel i-a pus musafirului dulceață în șoșoni. Ce le spune musafirului și lui Ionel?\nLa ce ne folosește: învățăm să spunem ce credem despre un text și de ce. La sfârșit completăm autoevaluarea pentru lecțiile 1-5.',
           },
           {
             etapa: 'Interpretare: Ionel și educația lui',
@@ -723,8 +723,8 @@ export const unitatea2 = {
           {
             etapa: 'Captarea atenției',
             timp: '5 min',
-            activitate: '– Întreb: „Poate fi o carte o jucărie?” (dacă am, pornesc materialul video cu Simona Popescu din manualul digital).\n– Explic titlul: exuvia (vezi subsolul) și numele capitolului, „Regnum puerile”, adică „Regatul copiilor”.',
-            elevi: 'Poate fi o carte o jucărie?\nTitlul: exuvia (vezi subsolul) și numele capitolului, „Regnum puerile”, adică „Regatul copiilor”.',
+            activitate: '– Întreb: „Poate fi o carte o jucărie?” (dacă am, pornesc materialul video cu Simona Popescu din manualul digital).\n– Explic titlul: exuvia (vezi subsolul) și numele capitolului, „Regnum puerile”, adică „Regatul copiilor”.\n– La ce ne folosește: comparăm două texte despre copilărie și joacă. Acasă răspundem la întrebarea „Este greu să fii copil?”.',
+            elevi: 'Poate fi o carte o jucărie?\nTitlul: exuvia (vezi subsolul) și numele capitolului, „Regnum puerile”, adică „Regatul copiilor”.\nLa ce ne folosește: comparăm două texte despre copilărie și joacă. Acasă răspundem la întrebarea „Este greu să fii copil?”.',
           },
           {
             etapa: 'Lectura cu jurnalul cu dublă intrare',
@@ -798,8 +798,8 @@ export const unitatea2 = {
           {
             etapa: 'Captarea atenției',
             timp: '7 min',
-            activitate: '– „Pentru început”, p. 53, ex. 1: grupăm cuvintele pentru joc din mai multe limbi după asemănare; observăm formele apropiate din limbile romanice (latină: jocus).\n– Ex. 2: fiecare spune un joc tradițional românesc și unul din altă țară; le notez în două coloane.',
-            elevi: '„Pentru început”, p. 53:\nEx. 1: grupați după asemănare cuvintele pentru joc din mai multe limbi. Ce forme apropiate observați în limbile romanice (latină: jocus)?\nEx. 2: spuneți un joc tradițional românesc și unul din altă țară.',
+            activitate: '– „Pentru început”, p. 53, ex. 1: grupăm cuvintele pentru joc din mai multe limbi după asemănare; observăm formele apropiate din limbile romanice (latină: jocus).\n– Ex. 2: fiecare spune un joc tradițional românesc și unul din altă țară; le notez în două coloane.\n– La ce ne folosește: aflăm că jocul poate uni oameni care nu vorbesc aceeași limbă. Acasă facem două reclame, una pentru un joc tradițional și una pentru un joc digital.',
+            elevi: '„Pentru început”, p. 53:\nEx. 1: grupați după asemănare cuvintele pentru joc din mai multe limbi. Ce forme apropiate observați în limbile romanice (latină: jocus)?\nEx. 2: spuneți un joc tradițional românesc și unul din altă țară.\nLa ce ne folosește: aflăm că jocul poate uni oameni care nu vorbesc aceeași limbă. Acasă facem două reclame, una pentru un joc tradițional și una pentru un joc digital.',
           },
           {
             etapa: 'Jocuri de ieri',
@@ -1029,8 +1029,8 @@ export const unitatea2 = {
           {
             etapa: 'Captarea atenției',
             timp: '5 min',
-            activitate: '– „Pentru început”, p. 56, ex. 1-2, frontal: vă e ușor să vorbiți cu colegii, cu profesorii, cu oameni pe care îi vedeți prima dată? Ce vă face să vă simțiți în largul vostru?',
-            elevi: '„Pentru început”, p. 56, ex. 1-2: vă este ușor să vorbiți cu colegii, cu profesorii, cu oameni pe care îi vedeți prima dată? Ce vă face să vă simțiți în largul vostru?',
+            activitate: '– „Pentru început”, p. 56, ex. 1-2, frontal: vă e ușor să vorbiți cu colegii, cu profesorii, cu oameni pe care îi vedeți prima dată? Ce vă face să vă simțiți în largul vostru?\n– La ce ne folosește: aflăm ce spunem la o invitație, la un reproș sau la un compliment. La sfârșit spunem ce a fost mai greu, să joci rolul sau să-i evaluezi pe colegi.',
+            elevi: '„Pentru început”, p. 56, ex. 1-2: vă este ușor să vorbiți cu colegii, cu profesorii, cu oameni pe care îi vedeți prima dată? Ce vă face să vă simțiți în largul vostru?\nLa ce ne folosește: aflăm ce spunem la o invitație, la un reproș sau la un compliment. La sfârșit spunem ce a fost mai greu, să joci rolul sau să-i evaluezi pe colegi.',
           },
           {
             etapa: 'Explorare: scena din Vizită...',
@@ -1174,7 +1174,7 @@ export const unitatea2 = {
           {
             etapa: 'Captarea atenției',
             timp: '5 min',
-            activitate: '– Chem patru elevi și le dau, în secret, sarcina: discutați ce ați făcut ieri la școală; când cineva începe să vorbească, altul îl întrerupe după 2-3 cuvinte. Două minute.\n– Clasa: ce ați înțeles? Cei patru: cum v-ați simțit când ați fost întrerupți?',
+            activitate: '– Chem patru elevi și le dau, în secret, sarcina: discutați ce ați făcut ieri la școală; când cineva începe să vorbească, altul îl întrerupe după 2-3 cuvinte. Două minute.\n– Clasa: ce ați înțeles? Cei patru: cum v-ați simțit când ați fost întrerupți?\n– La ce ne folosește: regulile de acces la cuvânt ne ajută să fim auziți cu toții în grupă. La sfârșit spunem dacă ne-am putut spune părerea.',
           },
           {
             etapa: 'Explorare',
@@ -1324,8 +1324,8 @@ export const unitatea2 = {
           {
             etapa: 'Pentru început',
             timp: '4 min',
-            activitate: '– „Pentru început”, p. 60, ex. 1: încă trei verbe legate de joacă.\n– Ex. 2: istoria cuvântului verb (din franceză și din latină, verbum = cuvânt); maxima „Verba volant, scripta manent” („Cuvintele zboară, scrisul rămâne”).',
-            elevi: '„Pentru început”, p. 60:\nEx. 1: încă trei verbe legate de joacă.\nEx. 2: istoria cuvântului verb (din franceză și din latină, verbum = cuvânt); maxima „Verba volant, scripta manent” („Cuvintele zboară, scrisul rămâne”).',
+            activitate: '– „Pentru început”, p. 60, ex. 1: încă trei verbe legate de joacă.\n– Ex. 2: istoria cuvântului verb (din franceză și din latină, verbum = cuvânt); maxima „Verba volant, scripta manent” („Cuvintele zboară, scrisul rămâne”).\n– La ce ne folosește: fără verbe, o poveste nu are acțiune. La sfârșitul orei numărăm verbele dintr-un pasaj (ex. 7, „Deschideri”) și vedem ce spun ele despre ritmul acțiunii.',
+            elevi: '„Pentru început”, p. 60:\nEx. 1: încă trei verbe legate de joacă.\nEx. 2: istoria cuvântului verb (din franceză și din latină, verbum = cuvânt); maxima „Verba volant, scripta manent” („Cuvintele zboară, scrisul rămâne”).\nLa ce ne folosește: fără verbe, o poveste nu are acțiune. La sfârșitul orei numărăm verbele dintr-un pasaj și vedem ce spun ele despre ritmul acțiunii.',
           },
           {
             etapa: 'Dirijarea învățării: flexiunea verbului',
@@ -1343,16 +1343,16 @@ export const unitatea2 = {
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
-            timp: '15 min',
-            activitate: '– Pagina 1: ex. 1 (fișa verbului), ex. 2 (predicate și infinitive) și ex. 3 (schimbă persoana), individual, 10 minute.\n– Verificare, 5 minute.',
-            elevi: 'Fișa de exerciții, pagina 1, individual, 10 minute: ex. 1 (fișa verbului), ex. 2 (predicate și infinitive), ex. 3 (schimbă persoana).\nApoi verificăm, 5 minute.',
+            timp: '14 min',
+            activitate: '– Pagina 1: ex. 1 (fișa verbului), ex. 2 (predicate și infinitive) și ex. 3 (schimbă persoana), individual, 10 minute.\n– Verificare, 4 minute.',
+            elevi: 'Fișa de exerciții, pagina 1, individual, 10 minute: ex. 1 (fișa verbului), ex. 2 (predicate și infinitive), ex. 3 (schimbă persoana).\nApoi verificăm, 4 minute.',
             materiale: ['fisa'],
           },
           {
             etapa: 'Reflecție și temă',
-            timp: '5 min',
-            activitate: '– „Deschideri”: ce arată mulțimea de verbe dintr-un text narativ? Numărăm verbele din pasajul cu toba (ex. 7): acțiunea pare rapidă.\n– Tema: „Aplicații”, ex. 1, 2, 5, 6 și 8 (ortogramele na/n-a, nai/n-ai); fișa de exerciții, pagina 2, ex. 4-6.',
-            elevi: '„Deschideri”: ce arată mulțimea de verbe dintr-un text narativ? Numărăm verbele din pasajul cu toba (ex. 7).',
+            timp: '6 min',
+            activitate: '– „Deschideri”: ce arată mulțimea de verbe dintr-un text narativ? Numărăm verbele din pasajul cu toba (ex. 7): acțiunea pare rapidă.\n– Bilețel de ieșire, un minut: pe o jumătate de foaie, fiecare scrie un lucru pe care l-a înțeles azi despre verb și un lucru care nu-i e încă clar. Citesc bilețelele după oră și reiau data viitoare ce se repetă.\n– Tema: „Aplicații”, ex. 1, 2, 5, 6 și 8 (ortogramele na/n-a, nai/n-ai); fișa de exerciții, pagina 2, ex. 4-6.',
+            elevi: '„Deschideri”: ce arată mulțimea de verbe dintr-un text narativ? Numărăm verbele din pasajul cu toba (ex. 7).\nBilețel de ieșire, un minut: pe o jumătate de foaie scrieți un lucru pe care l-ați înțeles azi despre verb și un lucru care nu vă e încă clar.',
             materiale: ['fisa'],
           },
         ],
@@ -1488,8 +1488,8 @@ export const unitatea2 = {
           {
             etapa: 'Captarea atenției',
             timp: '4 min',
-            activitate: '– Fiecare elev spune un verb pentru ceva ce a făcut sigur azi. Anunț: modul arată cum privește vorbitorul acțiunea.',
-            elevi: 'Spuneți un verb pentru ceva ce ați făcut sigur azi.\nModul arată cum privește vorbitorul acțiunea.',
+            activitate: '– Fiecare elev spune un verb pentru ceva ce a făcut sigur azi. Anunț: modul arată cum privește vorbitorul acțiunea.\n– La ce ne folosește: la sfârșitul orei putem prinde greșelile de la indicativ prezent pe care le auzim la radio sau la televizor (concursul din „Deschideri”).',
+            elevi: 'Spuneți un verb pentru ceva ce ați făcut sigur azi.\nModul arată cum privește vorbitorul acțiunea.\nLa ce ne folosește: la sfârșitul orei putem prinde greșelile de la indicativ prezent pe care le auzim la radio sau la televizor.',
           },
           {
             etapa: 'Dirijarea învățării: modul indicativ',
@@ -1659,8 +1659,8 @@ export const unitatea2 = {
           {
             etapa: 'Captarea atenției',
             timp: '5 min',
-            activitate: '– Trei grupe dau, în lanț, verbe la prezent, la trecut și la viitor. Anunț: trecutul are mai multe timpuri; azi, imperfectul.',
-            elevi: 'Trei grupe dau, în lanț, verbe la prezent, la trecut și la viitor.\nTrecutul are mai multe timpuri. Azi: imperfectul.',
+            activitate: '– Trei grupe dau, în lanț, verbe la prezent, la trecut și la viitor. Anunț: trecutul are mai multe timpuri; azi, imperfectul.\n– La ce ne folosește: imperfectul ne ajută să spunem cum erau lucrurile odinioară. La sfârșitul orei descriem clasa din prima zi de școală, iar acasă scriem începutul unei narațiuni.',
+            elevi: 'Trei grupe dau, în lanț, verbe la prezent, la trecut și la viitor.\nTrecutul are mai multe timpuri. Azi: imperfectul.\nLa ce ne folosește: imperfectul ne ajută să spunem cum erau lucrurile odinioară. La sfârșitul orei descriem clasa din prima zi de școală, iar acasă scriem începutul unei narațiuni.',
           },
           {
             etapa: 'Morișca',
@@ -1800,16 +1800,16 @@ export const unitatea2 = {
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
-            timp: '13 min',
-            activitate: '– Pagina 1: ex. 1 (durată sau repetare?), ex. 2 (completează cu imperfectul) și ex. 3 (satul de altădată), individual, 9 minute.\n– Verificare, 4 minute.',
-            elevi: 'Fișa de exerciții, pagina 1, individual, 9 minute: ex. 1 (durată sau repetare?), ex. 2 (completează cu imperfectul), ex. 3 (satul de altădată).\nApoi verificăm, 4 minute.',
+            timp: '12 min',
+            activitate: '– Pagina 1: ex. 1 (durată sau repetare?), ex. 2 (completează cu imperfectul) și ex. 3 (satul de altădată), individual, 9 minute.\n– Verificare, 3 minute.',
+            elevi: 'Fișa de exerciții, pagina 1, individual, 9 minute: ex. 1 (durată sau repetare?), ex. 2 (completează cu imperfectul), ex. 3 (satul de altădată).\nApoi verificăm, 3 minute.',
             materiale: ['fisa'],
           },
           {
             etapa: 'Reflecție și temă',
-            timp: '5 min',
-            activitate: '– Doi elevi spun câte o propoziție despre cum era clasa în prima zi de școală, cu verbe la imperfect.\n– Tema: „Aplicații”, ex. 2, 4, 5 și 7; „Deschideri” (începutul unei narațiuni, cel mult cinci rânduri); fișa de exerciții, pagina 2, ex. 4-5.',
-            elevi: 'Doi dintre voi spun câte o propoziție despre cum era clasa în prima zi de școală, cu verbe la imperfect.',
+            timp: '6 min',
+            activitate: '– Doi elevi spun câte o propoziție despre cum era clasa în prima zi de școală, cu verbe la imperfect.\n– Bilețel de ieșire, un minut: pe o jumătate de foaie, fiecare scrie un lucru pe care l-a înțeles azi și un lucru care nu-i e încă clar. Citesc bilețelele după oră și reiau data viitoare ce se repetă.\n– Tema: „Aplicații”, ex. 2, 4, 5 și 7; „Deschideri” (începutul unei narațiuni, cel mult cinci rânduri); fișa de exerciții, pagina 2, ex. 4-5.',
+            elevi: 'Doi dintre voi spun câte o propoziție despre cum era clasa în prima zi de școală, cu verbe la imperfect.\nBilețel de ieșire, un minut: pe o jumătate de foaie scrieți un lucru pe care l-ați înțeles azi și un lucru care nu vă e încă clar.',
             materiale: ['fisa'],
           },
         ],
@@ -1945,8 +1945,8 @@ export const unitatea2 = {
           {
             etapa: 'Captarea atenției',
             timp: '5 min',
-            activitate: '– „Explorare”, ex. 1: șir de perechi față în față; un minut, fiecare îi prezintă celuilalt un joc învățat de curând; schimbăm perechile și repetăm.',
-            elevi: '„Explorare”, ex. 1: stați în șir de perechi, față în față. Un minut: prezentați-i colegului un joc învățat de curând. Apoi schimbăm perechile și repetăm.',
+            activitate: '– „Explorare”, ex. 1: șir de perechi față în față; un minut, fiecare îi prezintă celuilalt un joc învățat de curând; schimbăm perechile și repetăm.\n– La ce ne folosește: perfectul compus e timpul în care povestim ce s-a întâmplat. La sfârșitul orei continuăm povestea cu pisoiul.',
+            elevi: '„Explorare”, ex. 1: stați în șir de perechi, față în față. Un minut: prezentați-i colegului un joc învățat de curând. Apoi schimbăm perechile și repetăm.\nLa ce ne folosește: perfectul compus e timpul în care povestim ce s-a întâmplat. La sfârșitul orei continuăm povestea cu pisoiul.',
           },
           {
             etapa: 'Dirijarea învățării: a avea și participiul',
@@ -1970,16 +1970,16 @@ export const unitatea2 = {
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
-            timp: '13 min',
-            activitate: '– Pagina 1: ex. 1 (a avea), ex. 2 (participiul) și ex. 3 (formează perfectul compus), individual, 9 minute.\n– Verificare, 4 minute.',
-            elevi: 'Fișa de exerciții, pagina 1, individual, 9 minute: ex. 1 (a avea), ex. 2 (participiul), ex. 3 (formează perfectul compus).\nApoi verificăm, 4 minute.',
+            timp: '12 min',
+            activitate: '– Pagina 1: ex. 1 (a avea), ex. 2 (participiul) și ex. 3 (formează perfectul compus), individual, 9 minute.\n– Verificare, 3 minute.',
+            elevi: 'Fișa de exerciții, pagina 1, individual, 9 minute: ex. 1 (a avea), ex. 2 (participiul), ex. 3 (formează perfectul compus).\nApoi verificăm, 3 minute.',
             materiale: ['fisa'],
           },
           {
             etapa: 'Reflecție și temă',
-            timp: '5 min',
-            activitate: '– „Deschideri”, oral: două propoziții care continuă povestea cu pisoiul (ex. 9), la perfect compus.\n– Tema: „Aplicații”, ex. 5, 6, 8 (ortogramele ia/i-a, iau/i-au, la/l-a, mai/m-ai, ne-am/neam) și 9; fișa de exerciții, pagina 2, ex. 4-5.',
-            elevi: '„Deschideri”, oral: două propoziții care continuă povestea cu pisoiul (ex. 9), la perfect compus.',
+            timp: '6 min',
+            activitate: '– „Deschideri”, oral: două propoziții care continuă povestea cu pisoiul (ex. 9), la perfect compus.\n– Bilețel de ieșire, un minut: pe o jumătate de foaie, fiecare scrie un lucru pe care l-a înțeles azi și un lucru care nu-i e încă clar. Citesc bilețelele după oră și reiau data viitoare ce se repetă.\n– Tema: „Aplicații”, ex. 5, 6, 8 (ortogramele ia/i-a, iau/i-au, la/l-a, mai/m-ai, ne-am/neam) și 9; fișa de exerciții, pagina 2, ex. 4-5.',
+            elevi: '„Deschideri”, oral: două propoziții care continuă povestea cu pisoiul (ex. 9), la perfect compus.\nBilețel de ieșire, un minut: pe o jumătate de foaie scrieți un lucru pe care l-ați înțeles azi și un lucru care nu vă e încă clar.',
             materiale: ['fisa'],
           },
         ],
@@ -2115,8 +2115,8 @@ export const unitatea2 = {
           {
             etapa: 'Captarea atenției',
             timp: '7 min',
-            activitate: '– Jocul „Povești amestecate” (p. 68), în cerc: încep cu fraza din manual (Scufița Roșie... îl întâlni în pădure pe Motanul Încălțat); fiecare adaugă o întâmplare; ultimul încheie povestea.',
-            elevi: 'Jocul „Povești amestecate” (p. 68), în cerc: începem cu fraza din manual (Scufița Roșie... îl întâlni în pădure pe Motanul Încălțat). Fiecare adaugă o întâmplare; ultimul încheie povestea.',
+            activitate: '– Jocul „Povești amestecate” (p. 68), în cerc: încep cu fraza din manual (Scufița Roșie... îl întâlni în pădure pe Motanul Încălțat); fiecare adaugă o întâmplare; ultimul încheie povestea.\n– La ce ne folosește: perfectul simplu și mai-mult-ca-perfectul ne ajută să povestim întâmplări, ca în jocul de acum, și să spunem ce s-a petrecut înaintea altei întâmplări.',
+            elevi: 'Jocul „Povești amestecate” (p. 68), în cerc: începem cu fraza din manual (Scufița Roșie... îl întâlni în pădure pe Motanul Încălțat). Fiecare adaugă o întâmplare; ultimul încheie povestea.\nLa ce ne folosește: perfectul simplu și mai-mult-ca-perfectul ne ajută să povestim întâmplări, ca în jocul de acum, și să spunem ce s-a petrecut înaintea altei întâmplări.',
           },
           {
             etapa: 'Dirijarea învățării: perfectul simplu',
@@ -2148,7 +2148,8 @@ export const unitatea2 = {
           {
             etapa: 'Temă',
             timp: '5 min',
-            activitate: '– Tema: „Aplicații”, ex. 4 și 5; fișa de exerciții, pagina 2, ex. 4-5; „Deschideri” (secvențe din „Nea Mărin miliardar”; concursul de trei zile), facultativ.',
+            activitate: '– Bilețel de ieșire, un minut: pe o jumătate de foaie, fiecare scrie un lucru pe care l-a înțeles azi și un lucru care nu-i e încă clar. Citesc bilețelele după oră și reiau data viitoare ce se repetă.\n– Tema: „Aplicații”, ex. 4 și 5; fișa de exerciții, pagina 2, ex. 4-5; „Deschideri” (secvențe din „Nea Mărin miliardar”; concursul de trei zile), facultativ.',
+            elevi: 'Bilețel de ieșire, un minut: pe o jumătate de foaie scrieți un lucru pe care l-ați înțeles azi și un lucru care nu vă e încă clar.',
             materiale: ['fisa'],
           },
         ],
@@ -2284,8 +2285,8 @@ export const unitatea2 = {
           {
             etapa: 'Captarea atenției',
             timp: '4 min',
-            activitate: '– Fiecare elev trage pe tablă un verb la infinitiv (jocul „Verbele la viitor”), îl trece la viitor și spune forma; răspunsul se arată la cerere.',
-            elevi: 'Veniți la tablă și trageți un verb la infinitiv. Treceți-l la viitor și spuneți forma.',
+            activitate: '– Fiecare elev trage pe tablă un verb la infinitiv (jocul „Verbele la viitor”), îl trece la viitor și spune forma; răspunsul se arată la cerere.\n– La ce ne folosește: viitorul ne ajută să spunem ce va fi. Acasă căutăm verbele la viitor din rubrica meteo.',
+            elevi: 'Veniți la tablă și trageți un verb la infinitiv. Treceți-l la viitor și spuneți forma.\nLa ce ne folosește: viitorul ne ajută să spunem ce va fi. Acasă căutăm verbele la viitor din rubrica meteo.',
             joc: {
               tip: 'extragere',
               titlu: 'Verbele la viitor',
@@ -2382,7 +2383,8 @@ export const unitatea2 = {
           {
             etapa: 'Temă',
             timp: '4 min',
-            activitate: '– Tema: „Aplicații”, ex. 3 (ortogramele voi/v-oi, va/v-a, vom/v-om, vor/v-or), 5 și 7; „Deschideri” (verbele la viitor din rubrica meteo); fișa de exerciții, pagina 2.',
+            activitate: '– Bilețel de ieșire, un minut: pe o jumătate de foaie, fiecare scrie un lucru pe care l-a înțeles azi și un lucru care nu-i e încă clar. Citesc bilețelele după oră și reiau data viitoare ce se repetă.\n– Tema: „Aplicații”, ex. 3 (ortogramele voi/v-oi, va/v-a, vom/v-om, vor/v-or), 5 și 7; „Deschideri” (verbele la viitor din rubrica meteo); fișa de exerciții, pagina 2.',
+            elevi: 'Bilețel de ieșire, un minut: pe o jumătate de foaie scrieți un lucru pe care l-ați înțeles azi și un lucru care nu vă e încă clar.',
             materiale: ['fisa'],
           },
         ],
@@ -2518,8 +2520,8 @@ export const unitatea2 = {
           {
             etapa: 'Captarea atenției',
             timp: '5 min',
-            activitate: '– Comenzi, cu elevii în picioare: Ridicați mâinile! Coborâți-le! Faceți un pas la dreapta! Aplaudați! Ce arată verbele după care v-ați mișcat?',
-            elevi: 'Comenzi, în picioare: Ridicați mâinile! Coborâți-le! Faceți un pas la dreapta! Aplaudați!\nCe arată verbele după care v-ați mișcat?',
+            activitate: '– Comenzi, cu elevii în picioare: Ridicați mâinile! Coborâți-le! Faceți un pas la dreapta! Aplaudați! Ce arată verbele după care v-ați mișcat?\n– La ce ne folosește: la sfârșit știm să scriem regulile jocului preferat, pentru ludoteca clasei (tema de acasă).',
+            elevi: 'Comenzi, în picioare: Ridicați mâinile! Coborâți-le! Faceți un pas la dreapta! Aplaudați!\nCe arată verbele după care v-ați mișcat?\nLa ce ne folosește: la sfârșit știm să scriem regulile jocului preferat, pentru ludoteca clasei (tema de acasă).',
           },
           {
             etapa: 'Dirijarea învățării: imperativul',
@@ -2737,8 +2739,8 @@ export const unitatea2 = {
           {
             etapa: 'Brainstorming',
             timp: '7 min',
-            activitate: '– „Pentru început”, p. 74, ex. 1: fiecare completează întrebarea „Ce s-ar întâmpla dacă, într-o zi...?”; le notez pe tablă (dau și eu idei: ai rămâne fără telefon pe o insulă, te-ai întâlni cu un extraterestru...).\n– Ex. 2: votăm cele mai interesante întrebări.',
-            elevi: '„Pentru început”, p. 74:\nEx. 1: completați întrebarea „Ce s-ar întâmpla dacă, într-o zi...?” (de exemplu: ai rămâne fără telefon pe o insulă, te-ai întâlni cu un extraterestru...).\nEx. 2: votăm cele mai interesante întrebări.',
+            activitate: '– „Pentru început”, p. 74, ex. 1: fiecare completează întrebarea „Ce s-ar întâmpla dacă, într-o zi...?”; le notez pe tablă (dau și eu idei: ai rămâne fără telefon pe o insulă, te-ai întâlni cu un extraterestru...).\n– Ex. 2: votăm cele mai interesante întrebări.\n– La ce ne folosește: învățăm cum se construiește o poveste inventată de noi. Acasă pregătim fișa poveștii: personaj, loc, ce vrea, obstacol.',
+            elevi: '„Pentru început”, p. 74:\nEx. 1: completați întrebarea „Ce s-ar întâmpla dacă, într-o zi...?” (de exemplu: ai rămâne fără telefon pe o insulă, te-ai întâlni cu un extraterestru...).\nEx. 2: votăm cele mai interesante întrebări.\nLa ce ne folosește: învățăm cum se construiește o poveste inventată de noi. Acasă pregătim fișa poveștii: personaj, loc, ce vrea, obstacol.',
           },
           {
             etapa: 'Lectura textului',
@@ -2959,8 +2961,8 @@ export const unitatea2 = {
           {
             etapa: 'Predicții pornind de la titlu',
             timp: '6 min',
-            activitate: '– Ex. 1: ce credeți că se întâmplă într-un text intitulat „Joaca cu bastonul”?\n– Elevii desenează în caiet tabelul predicțiilor: predicția, pe ce mă bazez, textul o confirmă?',
-            elevi: 'Ex. 1: ce credeți că se întâmplă într-un text intitulat „Joaca cu bastonul”?\nDesenați în caiet tabelul predicțiilor: predicția, pe ce mă bazez, textul o confirmă?',
+            activitate: '– Ex. 1: ce credeți că se întâmplă într-un text intitulat „Joaca cu bastonul”?\n– Elevii desenează în caiet tabelul predicțiilor: predicția, pe ce mă bazez, textul o confirmă?\n– La ce ne folosește: recapitulăm ce am învățat despre lectură și comunicare, ca să vedem ce mai exersăm înainte de evaluare.',
+            elevi: 'Ex. 1: ce credeți că se întâmplă într-un text intitulat „Joaca cu bastonul”?\nDesenați în caiet tabelul predicțiilor: predicția, pe ce mă bazez, textul o confirmă?\nLa ce ne folosește: recapitulăm ce am învățat despre lectură și comunicare, ca să vedem ce mai exersăm înainte de evaluare.',
           },
           {
             etapa: 'Primul fragment',
@@ -3062,8 +3064,8 @@ export const unitatea2 = {
           {
             etapa: 'Captarea atenției',
             timp: '4 min',
-            activitate: '– Fiecare elev numește un mod sau un timp învățat în unitate și dă un exemplu.',
-            elevi: 'Numiți un mod sau un timp învățat în unitate și dați un exemplu.',
+            activitate: '– Fiecare elev numește un mod sau un timp învățat în unitate și dă un exemplu.\n– La ce ne folosește: verificăm ce știm despre verb, moduri și timpuri înainte de evaluarea de ora viitoare.',
+            elevi: 'Numiți un mod sau un timp învățat în unitate și dați un exemplu.\nLa ce ne folosește: verificăm ce știm despre verb, moduri și timpuri înainte de evaluarea de ora viitoare.',
           },
           {
             etapa: 'Rezolvare ghidată, ex. 16-21',
