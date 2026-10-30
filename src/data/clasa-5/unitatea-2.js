@@ -1324,8 +1324,8 @@ export const unitatea2 = {
           {
             etapa: 'Pentru început',
             timp: '4 min',
-            activitate: '– „Pentru început”, p. 60, ex. 1: încă trei verbe legate de joacă.\n– Ex. 2: istoria cuvântului verb (din franceză și din latină, verbum = cuvânt); maxima „Verba volant, scripta manent” („Cuvintele zboară, scrisul rămâne”).',
-            elevi: '„Pentru început”, p. 60:\nEx. 1: încă trei verbe legate de joacă.\nEx. 2: istoria cuvântului verb (din franceză și din latină, verbum = cuvânt); maxima „Verba volant, scripta manent” („Cuvintele zboară, scrisul rămâne”).',
+            activitate: '– „Pentru început”, p. 60, ex. 1: încă trei verbe legate de joacă.\n– Ex. 2: istoria cuvântului verb (din franceză și din latină, verbum = cuvânt); maxima „Verba volant, scripta manent” („Cuvintele zboară, scrisul rămâne”).\n– La ce ne folosește: fără verbe, o poveste nu are acțiune. La sfârșitul orei numărăm verbele dintr-un pasaj (ex. 7, „Deschideri”) și vedem ce spun ele despre ritmul acțiunii.',
+            elevi: '„Pentru început”, p. 60:\nEx. 1: încă trei verbe legate de joacă.\nEx. 2: istoria cuvântului verb (din franceză și din latină, verbum = cuvânt); maxima „Verba volant, scripta manent” („Cuvintele zboară, scrisul rămâne”).\nLa ce ne folosește: fără verbe, o poveste nu are acțiune. La sfârșitul orei numărăm verbele dintr-un pasaj și vedem ce spun ele despre ritmul acțiunii.',
           },
           {
             etapa: 'Dirijarea învățării: flexiunea verbului',
@@ -1351,8 +1351,8 @@ export const unitatea2 = {
           {
             etapa: 'Reflecție și temă',
             timp: '5 min',
-            activitate: '– „Deschideri”: ce arată mulțimea de verbe dintr-un text narativ? Numărăm verbele din pasajul cu toba (ex. 7): acțiunea pare rapidă.\n– Tema: „Aplicații”, ex. 1, 2, 5, 6 și 8 (ortogramele na/n-a, nai/n-ai); fișa de exerciții, pagina 2, ex. 4-6.',
-            elevi: '„Deschideri”: ce arată mulțimea de verbe dintr-un text narativ? Numărăm verbele din pasajul cu toba (ex. 7).',
+            activitate: '– „Deschideri”: ce arată mulțimea de verbe dintr-un text narativ? Numărăm verbele din pasajul cu toba (ex. 7): acțiunea pare rapidă.\n– Bilețel de ieșire, un minut: pe o jumătate de foaie, fiecare scrie un lucru pe care l-a înțeles azi despre verb și un lucru care nu-i e încă clar. Citesc bilețelele după oră și reiau data viitoare ce se repetă.\n– Tema: „Aplicații”, ex. 1, 2, 5, 6 și 8 (ortogramele na/n-a, nai/n-ai); fișa de exerciții, pagina 2, ex. 4-6.',
+            elevi: '„Deschideri”: ce arată mulțimea de verbe dintr-un text narativ? Numărăm verbele din pasajul cu toba (ex. 7).\nBilețel de ieșire, un minut: pe o jumătate de foaie scrieți un lucru pe care l-ați înțeles azi despre verb și un lucru care nu vă e încă clar.',
             materiale: ['fisa'],
           },
         ],
@@ -1488,8 +1488,8 @@ export const unitatea2 = {
           {
             etapa: 'Captarea atenției',
             timp: '4 min',
-            activitate: '– Fiecare elev spune un verb pentru ceva ce a făcut sigur azi. Anunț: modul arată cum privește vorbitorul acțiunea.',
-            elevi: 'Spuneți un verb pentru ceva ce ați făcut sigur azi.\nModul arată cum privește vorbitorul acțiunea.',
+            activitate: '– Fiecare elev spune un verb pentru ceva ce a făcut sigur azi. Anunț: modul arată cum privește vorbitorul acțiunea.\n– La ce ne folosește: la sfârșitul orei putem prinde greșelile de la indicativ prezent pe care le auzim la radio sau la televizor (concursul din „Deschideri”).',
+            elevi: 'Spuneți un verb pentru ceva ce ați făcut sigur azi.\nModul arată cum privește vorbitorul acțiunea.\nLa ce ne folosește: la sfârșitul orei putem prinde greșelile de la indicativ prezent pe care le auzim la radio sau la televizor.',
           },
           {
             etapa: 'Dirijarea învățării: modul indicativ',
