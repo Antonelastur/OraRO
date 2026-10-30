@@ -1,3 +1,4 @@
+import { existsSync } from 'node:fs'
 import { describe, expect, it } from 'vitest'
 import { clase } from '@/data/clase.js'
 import { toateLectiile } from '@/lib/lectii'
@@ -112,6 +113,15 @@ describe('materialele la pasul în care se folosesc', () => {
           expect(Boolean(x.materiale[tip]), `${clasaId}/${unitateId}/${x.id} pasul ${i + 1}: ${tip}`).toBe(true)
         }
       })
+    }
+  })
+})
+
+describe('videoclipurile din lecții', () => {
+  it('un link care începe cu „/” trimite la un fișier care există în public', () => {
+    for (const { clasaId, unitateId, lectie: x } of toateLectiile(clase as unknown as Clase)) {
+      const link = x.materiale.video?.link
+      if (link?.startsWith('/')) expect(existsSync(`public${link}`), `${clasaId}/${unitateId}/${x.id}: ${link}`).toBe(true)
     }
   })
 })

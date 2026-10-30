@@ -2049,6 +2049,7 @@ export const unitatea1 = {
         ],
         resurse: [
           'Manual Art 5, p. 36',
+          'Videoul „Cum scriem un text?”, 70 de secunde (/materiale/clasa-5/unitatea-1/lectia-15/video.mp4)',
           'Schema „Etapele scrierii, pregătirea pentru redactare” (/materiale/clasa-5/unitatea-1/lectia-15/schema.svg)',
           'Fișa de exerciții (/materiale/clasa-5/unitatea-1/lectia-15/fisa-exercitii.pdf)',
           'Infograficul „Cele cinci etape ale scrierii” (/materiale/clasa-5/unitatea-1/lectia-15/infografic.svg)',
@@ -2066,7 +2067,7 @@ export const unitatea1 = {
             timp: '12 min',
             activitate: '– Repere, p. 36, cu infograficul lecției: pregătirea pentru redactare, scrierea ciornei, revizuirea, editarea, publicarea.\n– Pentru fiecare etapă, elevii dau un exemplu de acțiune concretă (aleg subiectul, scriu prima variantă, șterg ce nu e important...).\n– În caiete: cele cinci etape, ca o scară; ne putem întoarce oricând la o treaptă anterioară.',
             elevi: 'Repere, p. 36, cu infograficul lecției: pregătirea pentru redactare, scrierea ciornei, revizuirea, editarea, publicarea.\nPentru fiecare etapă dați un exemplu de acțiune concretă (alegeți subiectul, scrieți prima variantă, ștergeți ce nu este important...).\nÎn caiet: cele cinci etape, ca o scară; ne putem întoarce oricând la o treaptă anterioară.',
-            materiale: ['schema', 'infografic'],
+            materiale: ['video', 'schema', 'infografic'],
           },
           {
             etapa: 'Obținerea performanței: fișa de exerciții',
@@ -2094,7 +2095,7 @@ export const unitatea1 = {
       },
       materiale: {
         prezentare: null,
-        video: null,
+        video: { link: '/materiale/clasa-5/unitatea-1/lectia-15/video.mp4' },
         test: null,
         fisa: { exercitii: '/materiale/clasa-5/unitatea-1/lectia-15/fisa-exercitii.pdf' },
         joc: {
