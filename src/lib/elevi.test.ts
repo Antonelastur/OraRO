@@ -126,6 +126,39 @@ describe('videoclipurile din lecții', () => {
   })
 })
 
+describe('lecțiile 15 și 16 din unitatea I (etapele scrierii)', () => {
+  const lectii = toateLectiile(clase as unknown as Clase).filter(
+    (x) => x.clasaId === 'clasa-5' && x.unitateId === 'unitatea-1' && ['lectia-15', 'lectia-16'].includes(x.lectie.id),
+  )
+
+  it('fiecare material al lecției apare la cel puțin un pas', () => {
+    expect(lectii).toHaveLength(2)
+    for (const { lectie: x } of lectii) {
+      const folosite = new Set((x.planLectie?.desfasurare ?? []).flatMap((e) => e.materiale ?? []))
+      for (const tip of ['fisa', 'schema', 'infografic', 'joc', 'video'] as const) {
+        if (x.materiale[tip]) expect(folosite.has(tip), `${x.id}: ${tip} nu e legat de niciun pas`).toBe(true)
+      }
+    }
+  })
+
+  it('fișierele din resursele planului există și schema e pe lista de resurse', () => {
+    for (const { lectie: x } of lectii) {
+      const resurse = x.planLectie?.resurse ?? []
+      for (const r of resurse) {
+        const cale = r.match(/\((\/materiale\/[^)]+)\)/)?.[1]
+        if (cale) expect(existsSync(`public${cale}`), `${x.id}: ${cale}`).toBe(true)
+      }
+      if (x.materiale.schema) expect(resurse.some((r) => r.includes(x.materiale.schema!.fisier)), `${x.id}: schema lipsește din resurse`).toBe(true)
+    }
+  })
+
+  it('planul nu mai spune „trei-patru idei”, formulare care nu e în manual', () => {
+    for (const { lectie: x } of lectii) {
+      for (const e of x.planLectie?.desfasurare ?? []) expect(`${e.activitate} ${e.elevi ?? ''}`).not.toMatch(/trei-patru idei/)
+    }
+  })
+})
+
 describe('textele pentru elevi, pe datele reale', () => {
   const toate = toateLectiile(clase as unknown as Clase)
 
